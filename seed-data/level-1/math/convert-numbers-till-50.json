@@ -1,0 +1,1617 @@
+{
+  "_source_file": "level_1_convert_numbers_till_50.html",
+  "_extracted_at": "2026-07-22T09:52:19.335Z",
+  "_quiz_type_detected": "mcq",
+  "_question_count": 100,
+  "exercise": {
+    "slug": "convert-numbers-till-50",
+    "title": "Convert Numbers Till 50",
+    "quiz_type": "mcq",
+    "questions_per_attempt": 25,
+    "total_questions": 100,
+    "is_free": false,
+    "order_index": 0
+  },
+  "questions": [
+    {
+      "slug": "q001",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>0</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "One",
+          "Zero"
+        ]
+      },
+      "correct_answer": "Zero",
+      "explanation": "0 = Zero",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 1
+    },
+    {
+      "slug": "q002",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>1</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "One",
+          "Two"
+        ]
+      },
+      "correct_answer": "One",
+      "explanation": "1 = One",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 2
+    },
+    {
+      "slug": "q003",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>2</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "One",
+          "Two"
+        ]
+      },
+      "correct_answer": "Two",
+      "explanation": "2 = Two",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 3
+    },
+    {
+      "slug": "q004",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>3</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Three",
+          "Four"
+        ]
+      },
+      "correct_answer": "Three",
+      "explanation": "3 = Three",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 4
+    },
+    {
+      "slug": "q005",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>4</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Four",
+          "Three"
+        ]
+      },
+      "correct_answer": "Four",
+      "explanation": "4 = Four",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 5
+    },
+    {
+      "slug": "q006",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>5</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Four",
+          "Five"
+        ]
+      },
+      "correct_answer": "Five",
+      "explanation": "5 = Five",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 6
+    },
+    {
+      "slug": "q007",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>6</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Seven",
+          "Six"
+        ]
+      },
+      "correct_answer": "Six",
+      "explanation": "6 = Six",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 7
+    },
+    {
+      "slug": "q008",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>7</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Seven",
+          "Six"
+        ]
+      },
+      "correct_answer": "Seven",
+      "explanation": "7 = Seven",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 8
+    },
+    {
+      "slug": "q009",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>8</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Nine",
+          "Eight"
+        ]
+      },
+      "correct_answer": "Eight",
+      "explanation": "8 = Eight",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 9
+    },
+    {
+      "slug": "q010",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>9</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Nine",
+          "Eight"
+        ]
+      },
+      "correct_answer": "Nine",
+      "explanation": "9 = Nine",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 10
+    },
+    {
+      "slug": "q011",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>10</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Nine",
+          "Ten"
+        ]
+      },
+      "correct_answer": "Ten",
+      "explanation": "10 = Ten",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 11
+    },
+    {
+      "slug": "q012",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>11</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Eleven",
+          "Ten"
+        ]
+      },
+      "correct_answer": "Eleven",
+      "explanation": "11 = Eleven",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 12
+    },
+    {
+      "slug": "q013",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>12</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twelve",
+          "Thirteen"
+        ]
+      },
+      "correct_answer": "Twelve",
+      "explanation": "12 = Twelve",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 13
+    },
+    {
+      "slug": "q014",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>13</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Fourteen",
+          "Thirteen"
+        ]
+      },
+      "correct_answer": "Thirteen",
+      "explanation": "13 = Thirteen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 14
+    },
+    {
+      "slug": "q015",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>14</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Fifteen",
+          "Fourteen"
+        ]
+      },
+      "correct_answer": "Fourteen",
+      "explanation": "14 = Fourteen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 15
+    },
+    {
+      "slug": "q016",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>15</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Sixteen",
+          "Fifteen"
+        ]
+      },
+      "correct_answer": "Fifteen",
+      "explanation": "15 = Fifteen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 16
+    },
+    {
+      "slug": "q017",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>16</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Seventeen",
+          "Sixteen"
+        ]
+      },
+      "correct_answer": "Sixteen",
+      "explanation": "16 = Sixteen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 17
+    },
+    {
+      "slug": "q018",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>17</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Seventeen",
+          "Eighteen"
+        ]
+      },
+      "correct_answer": "Seventeen",
+      "explanation": "17 = Seventeen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 18
+    },
+    {
+      "slug": "q019",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>18</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Eighteen",
+          "Nineteen"
+        ]
+      },
+      "correct_answer": "Eighteen",
+      "explanation": "18 = Eighteen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 19
+    },
+    {
+      "slug": "q020",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>19</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Nineteen",
+          "Eighteen"
+        ]
+      },
+      "correct_answer": "Nineteen",
+      "explanation": "19 = Nineteen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 20
+    },
+    {
+      "slug": "q021",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>20</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-one",
+          "Twenty"
+        ]
+      },
+      "correct_answer": "Twenty",
+      "explanation": "20 = Twenty",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 21
+    },
+    {
+      "slug": "q022",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>21</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty",
+          "Twenty-one"
+        ]
+      },
+      "correct_answer": "Twenty-one",
+      "explanation": "21 = Twenty-one",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 22
+    },
+    {
+      "slug": "q023",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>22</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-two",
+          "Twenty-three"
+        ]
+      },
+      "correct_answer": "Twenty-two",
+      "explanation": "22 = Twenty-two",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 23
+    },
+    {
+      "slug": "q024",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>23</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-two",
+          "Twenty-three"
+        ]
+      },
+      "correct_answer": "Twenty-three",
+      "explanation": "23 = Twenty-three",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 24
+    },
+    {
+      "slug": "q025",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>24</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-four",
+          "Twenty-three"
+        ]
+      },
+      "correct_answer": "Twenty-four",
+      "explanation": "24 = Twenty-four",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 25
+    },
+    {
+      "slug": "q026",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>25</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-four",
+          "Twenty-five"
+        ]
+      },
+      "correct_answer": "Twenty-five",
+      "explanation": "25 = Twenty-five",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 26
+    },
+    {
+      "slug": "q027",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>26</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-seven",
+          "Twenty-six"
+        ]
+      },
+      "correct_answer": "Twenty-six",
+      "explanation": "26 = Twenty-six",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 27
+    },
+    {
+      "slug": "q028",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>27</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-six",
+          "Twenty-seven"
+        ]
+      },
+      "correct_answer": "Twenty-seven",
+      "explanation": "27 = Twenty-seven",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 28
+    },
+    {
+      "slug": "q029",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>28</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-eight",
+          "Twenty-seven"
+        ]
+      },
+      "correct_answer": "Twenty-eight",
+      "explanation": "28 = Twenty-eight",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 29
+    },
+    {
+      "slug": "q030",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>29</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-eight",
+          "Twenty-nine"
+        ]
+      },
+      "correct_answer": "Twenty-nine",
+      "explanation": "29 = Twenty-nine",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 30
+    },
+    {
+      "slug": "q031",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>30</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-one",
+          "Thirty"
+        ]
+      },
+      "correct_answer": "Thirty",
+      "explanation": "30 = Thirty",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 31
+    },
+    {
+      "slug": "q032",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>31</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-two",
+          "Thirty-one"
+        ]
+      },
+      "correct_answer": "Thirty-one",
+      "explanation": "31 = Thirty-one",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 32
+    },
+    {
+      "slug": "q033",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>32</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-three",
+          "Thirty-two"
+        ]
+      },
+      "correct_answer": "Thirty-two",
+      "explanation": "32 = Thirty-two",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 33
+    },
+    {
+      "slug": "q034",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>33</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-three",
+          "Thirty-four"
+        ]
+      },
+      "correct_answer": "Thirty-three",
+      "explanation": "33 = Thirty-three",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 34
+    },
+    {
+      "slug": "q035",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>34</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-four",
+          "Thirty-three"
+        ]
+      },
+      "correct_answer": "Thirty-four",
+      "explanation": "34 = Thirty-four",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 35
+    },
+    {
+      "slug": "q036",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>35</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-five",
+          "Thirty-six"
+        ]
+      },
+      "correct_answer": "Thirty-five",
+      "explanation": "35 = Thirty-five",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 36
+    },
+    {
+      "slug": "q037",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>36</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-six",
+          "Thirty-five"
+        ]
+      },
+      "correct_answer": "Thirty-six",
+      "explanation": "36 = Thirty-six",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 37
+    },
+    {
+      "slug": "q038",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>37</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-six",
+          "Thirty-seven"
+        ]
+      },
+      "correct_answer": "Thirty-seven",
+      "explanation": "37 = Thirty-seven",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 38
+    },
+    {
+      "slug": "q039",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>38</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-seven",
+          "Thirty-eight"
+        ]
+      },
+      "correct_answer": "Thirty-eight",
+      "explanation": "38 = Thirty-eight",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 39
+    },
+    {
+      "slug": "q040",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>39</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-nine",
+          "Thirty-eight"
+        ]
+      },
+      "correct_answer": "Thirty-nine",
+      "explanation": "39 = Thirty-nine",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 40
+    },
+    {
+      "slug": "q041",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>40</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-nine",
+          "Forty"
+        ]
+      },
+      "correct_answer": "Forty",
+      "explanation": "40 = Forty",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 41
+    },
+    {
+      "slug": "q042",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>41</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-two",
+          "Forty-one"
+        ]
+      },
+      "correct_answer": "Forty-one",
+      "explanation": "41 = Forty-one",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 42
+    },
+    {
+      "slug": "q043",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>42</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-two",
+          "Forty-three"
+        ]
+      },
+      "correct_answer": "Forty-two",
+      "explanation": "42 = Forty-two",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 43
+    },
+    {
+      "slug": "q044",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>43</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-three",
+          "Forty-four"
+        ]
+      },
+      "correct_answer": "Forty-three",
+      "explanation": "43 = Forty-three",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 44
+    },
+    {
+      "slug": "q045",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>44</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-four",
+          "Forty-three"
+        ]
+      },
+      "correct_answer": "Forty-four",
+      "explanation": "44 = Forty-four",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 45
+    },
+    {
+      "slug": "q046",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>45</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-four",
+          "Forty-five"
+        ]
+      },
+      "correct_answer": "Forty-five",
+      "explanation": "45 = Forty-five",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 46
+    },
+    {
+      "slug": "q047",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>46</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-five",
+          "Forty-six"
+        ]
+      },
+      "correct_answer": "Forty-six",
+      "explanation": "46 = Forty-six",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 47
+    },
+    {
+      "slug": "q048",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>47</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-seven",
+          "Forty-eight"
+        ]
+      },
+      "correct_answer": "Forty-seven",
+      "explanation": "47 = Forty-seven",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 48
+    },
+    {
+      "slug": "q049",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>48</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-eight",
+          "Forty-nine"
+        ]
+      },
+      "correct_answer": "Forty-eight",
+      "explanation": "48 = Forty-eight",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 49
+    },
+    {
+      "slug": "q050",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>49</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-eight",
+          "Forty-nine"
+        ]
+      },
+      "correct_answer": "Forty-nine",
+      "explanation": "49 = Forty-nine",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 50
+    },
+    {
+      "slug": "q051",
+      "prompt": "Convert the given number in words: <br> <span style='color:black;'>50</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-nine",
+          "Fifty"
+        ]
+      },
+      "correct_answer": "Fifty",
+      "explanation": "50 = Fifty",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 51
+    },
+    {
+      "slug": "q052",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>0</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Zero",
+          "One"
+        ]
+      },
+      "correct_answer": "Zero",
+      "explanation": "0 = Zero",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 52
+    },
+    {
+      "slug": "q053",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>1</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "One",
+          "Two"
+        ]
+      },
+      "correct_answer": "One",
+      "explanation": "1 = One",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 53
+    },
+    {
+      "slug": "q054",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>2</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Two",
+          "Three"
+        ]
+      },
+      "correct_answer": "Two",
+      "explanation": "2 = Two",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 54
+    },
+    {
+      "slug": "q055",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>3</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Four",
+          "Three"
+        ]
+      },
+      "correct_answer": "Three",
+      "explanation": "3 = Three",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 55
+    },
+    {
+      "slug": "q056",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>4</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Five",
+          "Four"
+        ]
+      },
+      "correct_answer": "Four",
+      "explanation": "4 = Four",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 56
+    },
+    {
+      "slug": "q057",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>5</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Four",
+          "Five"
+        ]
+      },
+      "correct_answer": "Five",
+      "explanation": "5 = Five",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 57
+    },
+    {
+      "slug": "q058",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>6</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Five",
+          "Six"
+        ]
+      },
+      "correct_answer": "Six",
+      "explanation": "6 = Six",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 58
+    },
+    {
+      "slug": "q059",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>7</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Seven",
+          "Eight"
+        ]
+      },
+      "correct_answer": "Seven",
+      "explanation": "7 = Seven",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 59
+    },
+    {
+      "slug": "q060",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>8</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Seven",
+          "Eight"
+        ]
+      },
+      "correct_answer": "Eight",
+      "explanation": "8 = Eight",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 60
+    },
+    {
+      "slug": "q061",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>9</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Eight",
+          "Nine"
+        ]
+      },
+      "correct_answer": "Nine",
+      "explanation": "9 = Nine",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 61
+    },
+    {
+      "slug": "q062",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>10</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Ten",
+          "Eleven"
+        ]
+      },
+      "correct_answer": "Ten",
+      "explanation": "10 = Ten",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 62
+    },
+    {
+      "slug": "q063",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>11</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twelve",
+          "Eleven"
+        ]
+      },
+      "correct_answer": "Eleven",
+      "explanation": "11 = Eleven",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 63
+    },
+    {
+      "slug": "q064",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>12</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirteen",
+          "Twelve"
+        ]
+      },
+      "correct_answer": "Twelve",
+      "explanation": "12 = Twelve",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 64
+    },
+    {
+      "slug": "q065",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>13</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twelve",
+          "Thirteen"
+        ]
+      },
+      "correct_answer": "Thirteen",
+      "explanation": "13 = Thirteen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 65
+    },
+    {
+      "slug": "q066",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>14</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Fifteen",
+          "Fourteen"
+        ]
+      },
+      "correct_answer": "Fourteen",
+      "explanation": "14 = Fourteen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 66
+    },
+    {
+      "slug": "q067",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>15</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Fifteen",
+          "Sixteen"
+        ]
+      },
+      "correct_answer": "Fifteen",
+      "explanation": "15 = Fifteen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 67
+    },
+    {
+      "slug": "q068",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>16</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Seventeen",
+          "Sixteen"
+        ]
+      },
+      "correct_answer": "Sixteen",
+      "explanation": "16 = Sixteen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 68
+    },
+    {
+      "slug": "q069",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>17</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Seventeen",
+          "Eighteen"
+        ]
+      },
+      "correct_answer": "Seventeen",
+      "explanation": "17 = Seventeen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 69
+    },
+    {
+      "slug": "q070",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>18</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Eighteen",
+          "Seventeen"
+        ]
+      },
+      "correct_answer": "Eighteen",
+      "explanation": "18 = Eighteen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 70
+    },
+    {
+      "slug": "q071",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>19</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Nineteen",
+          "Twenty"
+        ]
+      },
+      "correct_answer": "Nineteen",
+      "explanation": "19 = Nineteen",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 71
+    },
+    {
+      "slug": "q072",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>20</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty",
+          "Nineteen"
+        ]
+      },
+      "correct_answer": "Twenty",
+      "explanation": "20 = Twenty",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 72
+    },
+    {
+      "slug": "q073",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>21</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-one",
+          "Twenty-two"
+        ]
+      },
+      "correct_answer": "Twenty-one",
+      "explanation": "21 = Twenty-one",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 73
+    },
+    {
+      "slug": "q074",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>22</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-two",
+          "Twenty-three"
+        ]
+      },
+      "correct_answer": "Twenty-two",
+      "explanation": "22 = Twenty-two",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 74
+    },
+    {
+      "slug": "q075",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>23</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-two",
+          "Twenty-three"
+        ]
+      },
+      "correct_answer": "Twenty-three",
+      "explanation": "23 = Twenty-three",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 75
+    },
+    {
+      "slug": "q076",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>24</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-four",
+          "Twenty-three"
+        ]
+      },
+      "correct_answer": "Twenty-four",
+      "explanation": "24 = Twenty-four",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 76
+    },
+    {
+      "slug": "q077",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>25</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-five",
+          "Twenty-four"
+        ]
+      },
+      "correct_answer": "Twenty-five",
+      "explanation": "25 = Twenty-five",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 77
+    },
+    {
+      "slug": "q078",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>26</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-six",
+          "Twenty-five"
+        ]
+      },
+      "correct_answer": "Twenty-six",
+      "explanation": "26 = Twenty-six",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 78
+    },
+    {
+      "slug": "q079",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>27</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-six",
+          "Twenty-seven"
+        ]
+      },
+      "correct_answer": "Twenty-seven",
+      "explanation": "27 = Twenty-seven",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 79
+    },
+    {
+      "slug": "q080",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>28</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-seven",
+          "Twenty-eight"
+        ]
+      },
+      "correct_answer": "Twenty-eight",
+      "explanation": "28 = Twenty-eight",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 80
+    },
+    {
+      "slug": "q081",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>29</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Twenty-nine",
+          "Thirty"
+        ]
+      },
+      "correct_answer": "Twenty-nine",
+      "explanation": "29 = Twenty-nine",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 81
+    },
+    {
+      "slug": "q082",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>30</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty",
+          "Twenty-nine"
+        ]
+      },
+      "correct_answer": "Thirty",
+      "explanation": "30 = Thirty",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 82
+    },
+    {
+      "slug": "q083",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>31</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-two",
+          "Thirty-one"
+        ]
+      },
+      "correct_answer": "Thirty-one",
+      "explanation": "31 = Thirty-one",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 83
+    },
+    {
+      "slug": "q084",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>32</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-two",
+          "Thirty-one"
+        ]
+      },
+      "correct_answer": "Thirty-two",
+      "explanation": "32 = Thirty-two",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 84
+    },
+    {
+      "slug": "q085",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>33</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-two",
+          "Thirty-three"
+        ]
+      },
+      "correct_answer": "Thirty-three",
+      "explanation": "33 = Thirty-three",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 85
+    },
+    {
+      "slug": "q086",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>34</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-four",
+          "Thirty-five"
+        ]
+      },
+      "correct_answer": "Thirty-four",
+      "explanation": "34 = Thirty-four",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 86
+    },
+    {
+      "slug": "q087",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>35</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-six",
+          "Thirty-five"
+        ]
+      },
+      "correct_answer": "Thirty-five",
+      "explanation": "35 = Thirty-five",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 87
+    },
+    {
+      "slug": "q088",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>36</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-six",
+          "Thirty-seven"
+        ]
+      },
+      "correct_answer": "Thirty-six",
+      "explanation": "36 = Thirty-six",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 88
+    },
+    {
+      "slug": "q089",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>37</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-seven",
+          "Thirty-six"
+        ]
+      },
+      "correct_answer": "Thirty-seven",
+      "explanation": "37 = Thirty-seven",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 89
+    },
+    {
+      "slug": "q090",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>38</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-nine",
+          "Thirty-eight"
+        ]
+      },
+      "correct_answer": "Thirty-eight",
+      "explanation": "38 = Thirty-eight",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 90
+    },
+    {
+      "slug": "q091",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>39</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-nine",
+          "Thirty-eight"
+        ]
+      },
+      "correct_answer": "Thirty-nine",
+      "explanation": "39 = Thirty-nine",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 91
+    },
+    {
+      "slug": "q092",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>40</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Thirty-nine",
+          "Forty"
+        ]
+      },
+      "correct_answer": "Forty",
+      "explanation": "40 = Forty",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 92
+    },
+    {
+      "slug": "q093",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>41</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-one",
+          "Forty"
+        ]
+      },
+      "correct_answer": "Forty-one",
+      "explanation": "41 = Forty-one",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 93
+    },
+    {
+      "slug": "q094",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>42</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-two",
+          "Forty-one"
+        ]
+      },
+      "correct_answer": "Forty-two",
+      "explanation": "42 = Forty-two",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 94
+    },
+    {
+      "slug": "q095",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>43</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-four",
+          "Forty-three"
+        ]
+      },
+      "correct_answer": "Forty-three",
+      "explanation": "43 = Forty-three",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 95
+    },
+    {
+      "slug": "q096",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>44</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-five",
+          "Forty-four"
+        ]
+      },
+      "correct_answer": "Forty-four",
+      "explanation": "44 = Forty-four",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 96
+    },
+    {
+      "slug": "q097",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>45</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-six",
+          "Forty-five"
+        ]
+      },
+      "correct_answer": "Forty-five",
+      "explanation": "45 = Forty-five",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 97
+    },
+    {
+      "slug": "q098",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>46</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-six",
+          "Forty-seven"
+        ]
+      },
+      "correct_answer": "Forty-six",
+      "explanation": "46 = Forty-six",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 98
+    },
+    {
+      "slug": "q099",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>47</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-seven",
+          "Forty-six"
+        ]
+      },
+      "correct_answer": "Forty-seven",
+      "explanation": "47 = Forty-seven",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 99
+    },
+    {
+      "slug": "q100",
+      "prompt": "Write the number in words: <br> <span style='color:black;'>48</span>",
+      "type": "mcq",
+      "options": {
+        "choices": [
+          "Forty-eight",
+          "Forty-nine"
+        ]
+      },
+      "correct_answer": "Forty-eight",
+      "explanation": "48 = Forty-eight",
+      "media": null,
+      "difficulty": 1,
+      "order_index": 100
+    }
+  ]
+}
