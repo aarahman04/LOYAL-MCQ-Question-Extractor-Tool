@@ -1,0 +1,532 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LOYAL MCQ – Question Extractor</title>
+  <style>
+    :root {
+      --bg: #f6f7f9; --panel: #ffffff; --border: #e3e6ea; --text: #1c2530;
+      --muted: #6b7683; --accent: #2f6fed; --accent-weak: #e8f0fe;
+      --ok: #1a7f37; --ok-bg: #e7f5ec; --warn: #9a6700; --warn-bg: #fdf3d7;
+      --fail: #b42318; --fail-bg: #fdeceb; --shadow: 0 1px 3px rgba(20,30,45,.08);
+      --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #14181d; --panel: #1c2128; --border: #2b323c; --text: #e6edf3;
+        --muted: #97a2af; --accent: #4c8bf5; --accent-weak: #1b2b47;
+        --ok: #4ac26b; --ok-bg: #13291b; --warn: #d4a72c; --warn-bg: #2b2412;
+        --fail: #f0837a; --fail-bg: #2c1615; --shadow: 0 1px 3px rgba(0,0,0,.4);
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; background: var(--bg); color: var(--text);
+      font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    header {
+      padding: 18px 24px; border-bottom: 1px solid var(--border);
+      background: var(--panel); display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap;
+    }
+    header h1 { font-size: 18px; margin: 0; font-weight: 650; }
+    header .sub { color: var(--muted); font-size: 13px; }
+    header .ver { margin-left: auto; color: var(--muted); font-size: 12px; font-family: var(--mono); }
+    main { max-width: 1180px; margin: 0 auto; padding: 20px 24px 60px; }
+    .banner {
+      display: none; margin-bottom: 16px; padding: 12px 14px; border-radius: 8px;
+      background: var(--fail-bg); color: var(--fail); border: 1px solid var(--border); font-size: 13px;
+    }
+    #drop {
+      border: 2px dashed var(--border); border-radius: 12px; padding: 34px 20px; text-align: center;
+      background: var(--panel); cursor: pointer; transition: .15s; box-shadow: var(--shadow);
+    }
+    #drop.drag { border-color: var(--accent); background: var(--accent-weak); }
+    #drop .big { font-size: 15px; font-weight: 600; }
+    #drop .small { color: var(--muted); font-size: 13px; margin-top: 4px; }
+    .toolbar { display: flex; gap: 10px; align-items: center; margin: 18px 0; flex-wrap: wrap; }
+    button {
+      font: inherit; border: 1px solid var(--border); background: var(--panel); color: var(--text);
+      padding: 8px 14px; border-radius: 8px; cursor: pointer; font-weight: 550;
+    }
+    button:hover:not(:disabled) { border-color: var(--accent); }
+    button.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+    button.primary:hover:not(:disabled) { filter: brightness(1.05); }
+    button:disabled { opacity: .5; cursor: not-allowed; }
+    .toolbar .spacer { flex: 1; }
+    .stats { color: var(--muted); font-size: 13px; }
+    .layout { display: grid; grid-template-columns: minmax(0,1fr); gap: 20px; }
+    @media (min-width: 960px) { .layout.split { grid-template-columns: minmax(0,1.15fr) minmax(0,1fr); } }
+    .card { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; box-shadow: var(--shadow); overflow: hidden; }
+    .card h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted);
+      margin: 0; padding: 12px 16px; border-bottom: 1px solid var(--border); }
+    .table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    th, td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+    th { color: var(--muted); font-weight: 600; position: sticky; top: 0; background: var(--panel); }
+    tbody tr.file-row { cursor: pointer; }
+    tbody tr.file-row:hover { background: var(--accent-weak); }
+    tbody tr.sel { background: var(--accent-weak); }
+    .pill { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: 12px; font-weight: 600;
+      font-family: var(--mono); border: 1px solid var(--border); }
+    .pill.mcq { color: var(--accent); }
+    .pill.audio { color: #8250df; }
+    .pill.drag_drop { color: #bc4c00; }
+    .pill.tap_select { color: #1f883d; }
+    .status { font-weight: 600; }
+    .status.ok { color: var(--ok); }
+    .status.warning { color: var(--warn); }
+    .status.failed { color: var(--fail); }
+    .status.ready, .status.pending { color: var(--muted); }
+    .mono { font-family: var(--mono); }
+    .muted { color: var(--muted); }
+    .num { text-align: right; font-variant-numeric: tabular-nums; }
+    .warn-list { margin: 4px 0 0; padding-left: 16px; color: var(--warn); font-size: 12px; }
+    .remove { color: var(--muted); border: none; background: none; padding: 2px 6px; font-size: 15px; line-height: 1; }
+    .remove:hover { color: var(--fail); }
+    /* preview */
+    #preview .empty { padding: 40px 16px; text-align: center; color: var(--muted); }
+    .pv-head { padding: 14px 16px; border-bottom: 1px solid var(--border); }
+    .pv-head .title { font-size: 15px; font-weight: 650; }
+    .pv-head .meta { color: var(--muted); font-size: 12px; margin-top: 3px; }
+    .pv-head .meta code { font-family: var(--mono); }
+    .q-prompt { font-weight: 550; }
+    .q-sub { color: var(--muted); font-size: 12px; margin-top: 3px; word-break: break-word; }
+    .q-sub .chip { display: inline-block; padding: 0 6px; margin: 2px 4px 0 0; border: 1px solid var(--border);
+      border-radius: 6px; font-family: var(--mono); }
+    .q-sub .correct { border-color: var(--ok); color: var(--ok); }
+    .row-warn { background: var(--warn-bg); }
+    td.answer { font-family: var(--mono); font-size: 12px; word-break: break-word; max-width: 260px; }
+    .badge-warn { color: var(--warn); font-size: 11px; font-weight: 600; }
+    a.hidden-dl { display: none; }
+    .foot { color: var(--muted); font-size: 12px; margin-top: 24px; line-height: 1.6; }
+    .foot code { font-family: var(--mono); background: var(--accent-weak); padding: 1px 5px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>LOYAL MCQ · Question Extractor</h1>
+    <span class="sub">HTML quiz files → structured JSON</span>
+    <span class="ver" id="ver"></span>
+  </header>
+
+  <main>
+    <div class="banner" id="banner"></div>
+
+    <div id="drop">
+      <div class="big">Drop HTML quiz files here</div>
+      <div class="small">or click to choose — you can select many at once. Everything runs locally in your browser.</div>
+      <input type="file" id="fileInput" accept=".html,.htm" multiple hidden />
+    </div>
+
+    <div class="toolbar">
+      <button class="primary" id="extractBtn" disabled>Extract All</button>
+      <button id="downloadZip" disabled>Download All (ZIP)</button>
+      <button id="downloadCsv" disabled>Download CSV Summary</button>
+      <button id="clearBtn" disabled>Clear</button>
+      <span class="spacer"></span>
+      <span class="stats" id="stats"></span>
+    </div>
+
+    <div class="layout" id="layout">
+      <section class="card">
+        <h2>Files</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr><th>Filename</th><th>Type</th><th class="num">Questions</th><th>Status</th><th></th></tr>
+            </thead>
+            <tbody id="fileRows">
+              <tr><td colspan="5" class="muted" style="padding:22px 16px">No files yet.</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="card" id="preview">
+        <h2>Preview</h2>
+        <div class="empty">Extract, then click a file to preview its questions.</div>
+      </section>
+    </div>
+
+    <div class="foot">
+      Detection & mapping use the same core as the CLI (<code>lib/core.js</code>).
+      MCQ · Audio (TTS) · Drag-drop (two-box sort / word order) · Tap-select (match / count).
+      Inline HTML like <code>&lt;strong&gt;</code> is preserved in prompts.
+    </div>
+  </main>
+
+  <a class="hidden-dl" id="dlAnchor"></a>
+
+  <!-- shared core (also used by the Node CLI) -->
+  <script src="../lib/core.js"></script>
+  <script>
+  (function () {
+    "use strict";
+    var core = window.LoyalExtractorCore;
+    var banner = document.getElementById("banner");
+    if (!core) {
+      banner.style.display = "block";
+      banner.textContent =
+        "Could not load ../lib/core.js. If you opened this file directly, run  `npm run ui`  from the repo root and open the printed URL instead.";
+      return;
+    }
+    document.getElementById("ver").textContent = "v" + core.VERSION;
+
+    // ---- sandboxed array evaluator (browser equivalent of the CLI's vm) ----
+    function browserEvalArray(code) {
+      var stub = new Proxy(function () {}, {
+        get: function () { return stub; },
+        set: function () { return true; },
+        apply: function () { return stub; },
+        construct: function () { return stub; },
+        has: function () { return true; },
+      });
+      var noop = function () {};
+      var fn = new Function(
+        "window", "document", "self", "navigator", "localStorage",
+        "speechSynthesis", "SpeechSynthesisUtterance",
+        "initMCQQuiz", "initTwoBoxSortQuiz", "initTapSelectQuiz", "initDragDropQuiz",
+        "setTimeout", "setInterval", "addEventListener", "console",
+        '"use strict";\n' + code +
+          '\n; return (typeof questions !== "undefined") ? questions : undefined;'
+      );
+      return fn(stub, stub, stub, stub, stub, stub, noop, noop, noop, noop, noop, noop, noop, noop, noop,
+        { log: noop, warn: noop, error: noop });
+    }
+
+    // ---- state ----
+    var files = []; // { name, text, result|null }
+    var selected = -1;
+    var now = new Date().toISOString();
+
+    var el = {
+      drop: document.getElementById("drop"),
+      input: document.getElementById("fileInput"),
+      rows: document.getElementById("fileRows"),
+      preview: document.getElementById("preview"),
+      layout: document.getElementById("layout"),
+      extractBtn: document.getElementById("extractBtn"),
+      zipBtn: document.getElementById("downloadZip"),
+      csvBtn: document.getElementById("downloadCsv"),
+      clearBtn: document.getElementById("clearBtn"),
+      stats: document.getElementById("stats"),
+      anchor: document.getElementById("dlAnchor"),
+    };
+
+    // ---- file intake ----
+    el.drop.addEventListener("click", function () { el.input.click(); });
+    el.input.addEventListener("change", function (e) { addFiles(e.target.files); el.input.value = ""; });
+    ["dragenter", "dragover"].forEach(function (ev) {
+      el.drop.addEventListener(ev, function (e) { e.preventDefault(); el.drop.classList.add("drag"); });
+    });
+    ["dragleave", "drop"].forEach(function (ev) {
+      el.drop.addEventListener(ev, function (e) { e.preventDefault(); el.drop.classList.remove("drag"); });
+    });
+    el.drop.addEventListener("drop", function (e) {
+      if (e.dataTransfer && e.dataTransfer.files) addFiles(e.dataTransfer.files);
+    });
+
+    function addFiles(fileList) {
+      var arr = Array.prototype.slice.call(fileList).filter(function (f) {
+        return /\.html?$/i.test(f.name);
+      });
+      var pending = arr.length;
+      if (!pending) return;
+      arr.forEach(function (f) {
+        var reader = new FileReader();
+        reader.onload = function () {
+          files.push({ name: f.name, text: String(reader.result), result: null });
+          pending--;
+          if (pending === 0) { renderRows(); updateButtons(); }
+        };
+        reader.readAsText(f);
+      });
+    }
+
+    // ---- extraction ----
+    el.extractBtn.addEventListener("click", extractAll);
+    function extractAll() {
+      now = new Date().toISOString();
+      files.forEach(function (f) {
+        try {
+          f.result = core.extract(f.text, f.name, { evalArray: browserEvalArray, now: now });
+        } catch (err) {
+          f.result = { ok: false, status: "failed", error: String(err && err.message || err),
+            warnings: [], data: null, detection: { type: "" },
+            meta: { slug: core.slugFromFilename(f.name), title: "", quiz_type: "", mode: "", question_count: 0, has_explanations: false } };
+        }
+      });
+      assignOutputSlugs();
+      renderRows();
+      updateButtons();
+      if (selected >= 0) renderPreview(selected);
+    }
+
+    // unique <slug>.json filenames, matching the CLI behaviour
+    function assignOutputSlugs() {
+      var used = {};
+      files.forEach(function (f) {
+        if (!f.result || !f.result.ok) { f.outName = null; return; }
+        var slug = f.result.meta.slug;
+        if (used[slug]) { used[slug]++; f.outName = slug + "-" + used[slug]; }
+        else { used[slug] = 1; f.outName = slug; }
+      });
+    }
+
+    // ---- rendering ----
+    function esc(s) {
+      return String(s == null ? "" : s).replace(/[&<>"']/g, function (m) {
+        return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[m];
+      });
+    }
+
+    function renderRows() {
+      if (!files.length) {
+        el.rows.innerHTML = '<tr><td colspan="5" class="muted" style="padding:22px 16px">No files yet.</td></tr>';
+        return;
+      }
+      el.rows.innerHTML = files.map(function (f, i) {
+        var r = f.result;
+        var type = r ? (r.meta.quiz_type || "—") : "";
+        var mode = r && r.meta.mode ? r.meta.mode : "";
+        var status = r ? r.status : "ready";
+        var count = r && r.ok ? r.meta.question_count : "";
+        var typeCell = r
+          ? '<span class="pill ' + esc(type) + '">' + esc(type) + (mode ? " · " + esc(mode) : "") + "</span>"
+          : '<span class="muted">—</span>';
+        var statusText = r
+          ? (r.ok ? (r.warnings.length ? r.warnings.length + " warning(s)" : "ok") : "failed: " + (r.error || ""))
+          : "ready";
+        var clickable = r && r.ok ? "file-row" : "";
+        return (
+          '<tr class="' + clickable + (i === selected ? " sel" : "") + '" data-i="' + i + '">' +
+            "<td>" + esc(f.name) + (r && r.ok ? '<div class="q-sub mono">' + esc(f.outName) + ".json</div>" : "") + "</td>" +
+            "<td>" + typeCell + "</td>" +
+            '<td class="num">' + esc(String(count)) + "</td>" +
+            '<td><span class="status ' + esc(status) + '">' + esc(statusText) + "</span></td>" +
+            '<td><button class="remove" data-rm="' + i + '" title="Remove">×</button></td>' +
+          "</tr>"
+        );
+      }).join("");
+
+      Array.prototype.forEach.call(el.rows.querySelectorAll("tr.file-row"), function (tr) {
+        tr.addEventListener("click", function (e) {
+          if (e.target.hasAttribute("data-rm")) return;
+          renderPreview(parseInt(tr.getAttribute("data-i"), 10));
+        });
+      });
+      Array.prototype.forEach.call(el.rows.querySelectorAll("[data-rm]"), function (b) {
+        b.addEventListener("click", function (e) {
+          e.stopPropagation();
+          var i = parseInt(b.getAttribute("data-rm"), 10);
+          files.splice(i, 1);
+          if (selected === i) { selected = -1; clearPreview(); }
+          else if (selected > i) selected--;
+          assignOutputSlugs(); renderRows(); updateButtons();
+        });
+      });
+      renderStats();
+    }
+
+    function renderStats() {
+      var extracted = files.filter(function (f) { return f.result; });
+      if (!extracted.length) { el.stats.textContent = files.length ? files.length + " file(s) ready" : ""; return; }
+      var ok = 0, warn = 0, fail = 0, q = 0, byType = {};
+      extracted.forEach(function (f) {
+        var r = f.result;
+        if (!r.ok) { fail++; return; }
+        if (r.warnings.length) warn++; else ok++;
+        q += r.meta.question_count;
+        byType[r.meta.quiz_type] = (byType[r.meta.quiz_type] || 0) + 1;
+      });
+      var types = Object.keys(byType).sort().map(function (t) { return t + ":" + byType[t]; }).join("  ");
+      el.stats.textContent = ok + " ok · " + warn + " warn · " + fail + " failed · " + q + " questions   (" + types + ")";
+    }
+
+    function updateButtons() {
+      var hasFiles = files.length > 0;
+      var anyOk = files.some(function (f) { return f.result && f.result.ok; });
+      el.extractBtn.disabled = !hasFiles;
+      el.clearBtn.disabled = !hasFiles;
+      el.zipBtn.disabled = !anyOk;
+      el.csvBtn.disabled = !files.some(function (f) { return f.result; });
+      el.layout.classList.toggle("split", selected >= 0);
+    }
+
+    el.clearBtn.addEventListener("click", function () {
+      files = []; selected = -1; clearPreview(); renderRows(); updateButtons();
+    });
+
+    // ---- preview ----
+    function clearPreview() {
+      el.preview.innerHTML = '<h2>Preview</h2><div class="empty">Extract, then click a file to preview its questions.</div>';
+      el.layout.classList.remove("split");
+    }
+
+    function renderPreview(i) {
+      selected = i;
+      renderRows();
+      el.layout.classList.add("split");
+      var f = files[i];
+      if (!f || !f.result || !f.result.ok) { clearPreview(); return; }
+      var d = f.result.data;
+      var ex = d.exercise;
+      var warns = f.result.warnings.length;
+      var head =
+        '<div class="pv-head">' +
+          '<div class="title">' + esc(ex.title) + "</div>" +
+          '<div class="meta"><code>' + esc(ex.slug) + "</code> · " +
+            '<span class="pill ' + esc(ex.quiz_type) + '">' + esc(ex.quiz_type) +
+            (f.result.meta.mode ? " · " + esc(f.result.meta.mode) : "") + "</span> · " +
+            esc(ex.total_questions) + " questions · " + esc(ex.questions_per_attempt) + "/attempt" +
+            (warns ? ' · <span class="badge-warn">' + warns + " warning(s)</span>" : "") +
+          "</div>" +
+        "</div>";
+
+      var rows = d.questions.map(function (q) {
+        return (
+          '<tr class="' + (q._warning ? "row-warn" : "") + '">' +
+            '<td class="num muted">' + q.order_index + "</td>" +
+            "<td>" +
+              '<div class="q-prompt">' + esc(q.prompt) + "</div>" +
+              subLine(q) +
+              (q._warning ? '<div class="badge-warn">⚠ ' + esc(q._warning) + "</div>" : "") +
+            "</td>" +
+            '<td class="answer">' + esc(shortAnswer(q)) + "</td>" +
+            '<td class="q-sub">' + esc(q.explanation || "") + "</td>" +
+          "</tr>"
+        );
+      }).join("");
+
+      el.preview.innerHTML =
+        "<h2>Preview</h2>" + head +
+        '<div class="table-wrap"><table>' +
+          "<thead><tr><th class='num'>#</th><th>Prompt</th><th>Answer</th><th>Explanation</th></tr></thead>" +
+          "<tbody>" + rows + "</tbody>" +
+        "</table></div>";
+    }
+
+    // a compact "options" line under the prompt, per type
+    function subLine(q) {
+      var o = q.options || {};
+      var parts = [];
+      if (q.type === "mcq" || q.type === "audio") {
+        (o.choices || []).forEach(function (ch) {
+          var correct = String(ch) === String(q.correct_answer);
+          parts.push('<span class="chip' + (correct ? " correct" : "") + '">' + esc(ch) + "</span>");
+        });
+        if (q.type === "audio" && q.media) parts.push('<span class="chip">🔊 ' + esc(q.media.tts_word) + "</span>");
+      } else if (o.mode === "two_box_sort") {
+        parts.push('<span class="chip">' + esc(o.box_a.label) + ": " + o.box_a.correct_items.map(function (id) { return label(o, id); }).join(", ") + "</span>");
+        parts.push('<span class="chip">' + esc(o.box_b.label) + ": " + o.box_b.correct_items.map(function (id) { return label(o, id); }).join(", ") + "</span>");
+      } else if (o.mode === "word_order") {
+        parts.push('<span class="chip">scrambled: ' + esc((o.words || []).join(" ")) + "</span>");
+        parts.push('<span class="chip correct">→ ' + esc((o.correct_order || []).join(" ")) + "</span>");
+      } else if (o.mode === "match") {
+        if (o.scene_emoji) parts.push('<span class="chip">scene: ' + esc(o.scene_emoji) + "</span>");
+        (o.choices || []).forEach(function (ch) {
+          var correct = (o.correct_choices || []).indexOf(ch) !== -1;
+          parts.push('<span class="chip' + (correct ? " correct" : "") + '">' + esc(stripTags(ch)) + "</span>");
+        });
+      } else if (o.mode === "count") {
+        parts.push('<span class="chip correct">count ' + esc(o.target_count) + "</span>");
+        parts.push('<span class="chip">' + esc((o.items || []).join("")) + "</span>");
+      }
+      return parts.length ? '<div class="q-sub">' + parts.join("") + "</div>" : "";
+    }
+
+    function label(o, id) {
+      var it = (o.items || []).find(function (x) { return x.id === id; });
+      return it ? it.label : id;
+    }
+    function stripTags(s) { return String(s == null ? "" : s).replace(/<[^>]+>/g, ""); }
+
+    function shortAnswer(q) {
+      if (q.type === "mcq" || q.type === "audio") return String(q.correct_answer);
+      var o = q.options || {};
+      if (o.mode === "word_order") return (o.correct_order || []).join(" ");
+      if (o.mode === "count") return "tap " + o.target_count;
+      if (o.mode === "match") return stripTags(q.correct_answer);
+      return String(q.correct_answer);
+    }
+
+    // ---- downloads ----
+    function triggerDownload(blob, name) {
+      var url = URL.createObjectURL(blob);
+      el.anchor.href = url; el.anchor.download = name; el.anchor.click();
+      setTimeout(function () { URL.revokeObjectURL(url); }, 1500);
+    }
+
+    el.csvBtn.addEventListener("click", function () {
+      var rows = files.filter(function (f) { return f.result; })
+        .map(function (f) { return core.csvRow(f.result, f.name); });
+      triggerDownload(new Blob([core.buildCsv(rows)], { type: "text/csv" }), "_summary.csv");
+    });
+
+    el.zipBtn.addEventListener("click", function () {
+      var entries = [];
+      files.forEach(function (f) {
+        if (f.result && f.result.ok) {
+          entries.push({ name: f.outName + ".json", text: JSON.stringify(f.result.data, null, 2) });
+        }
+      });
+      var rows = files.filter(function (f) { return f.result; })
+        .map(function (f) { return core.csvRow(f.result, f.name); });
+      entries.push({ name: "_summary.csv", text: core.buildCsv(rows) });
+      triggerDownload(zipStore(entries), "loyal-mcq-extracted.zip");
+    });
+
+    // ---- minimal STORE-method ZIP (no dependencies) ----
+    var CRC_TABLE = (function () {
+      var t = new Uint32Array(256);
+      for (var n = 0; n < 256; n++) {
+        var c = n;
+        for (var k = 0; k < 8; k++) c = c & 1 ? 0xedb88320 ^ (c >>> 1) : c >>> 1;
+        t[n] = c >>> 0;
+      }
+      return t;
+    })();
+    function crc32(bytes) {
+      var c = 0xffffffff;
+      for (var i = 0; i < bytes.length; i++) c = CRC_TABLE[(c ^ bytes[i]) & 0xff] ^ (c >>> 8);
+      return (c ^ 0xffffffff) >>> 0;
+    }
+    function zipStore(entries) {
+      var enc = new TextEncoder();
+      var chunks = [];       // local file records
+      var central = [];      // central directory records
+      var offset = 0;
+      function u16(v) { return [v & 0xff, (v >>> 8) & 0xff]; }
+      function u32(v) { return [v & 0xff, (v >>> 8) & 0xff, (v >>> 16) & 0xff, (v >>> 24) & 0xff]; }
+
+      entries.forEach(function (e) {
+        var nameBytes = enc.encode(e.name);
+        var data = enc.encode(e.text);
+        var crc = crc32(data);
+        var local = [].concat(
+          u32(0x04034b50), u16(20), u16(0), u16(0), u16(0), u16(0),
+          u32(crc), u32(data.length), u32(data.length),
+          u16(nameBytes.length), u16(0)
+        );
+        chunks.push(new Uint8Array(local), nameBytes, data);
+        var cen = [].concat(
+          u32(0x02014b50), u16(20), u16(20), u16(0), u16(0), u16(0), u16(0),
+          u32(crc), u32(data.length), u32(data.length),
+          u16(nameBytes.length), u16(0), u16(0), u16(0), u16(0), u32(0), u32(offset)
+        );
+        central.push(new Uint8Array(cen), nameBytes);
+        offset += local.length + nameBytes.length + data.length;
+      });
+
+      var centralSize = central.reduce(function (n, c) { return n + c.length; }, 0);
+      var end = new Uint8Array([].concat(
+        u32(0x06054b50), u16(0), u16(0), u16(entries.length), u16(entries.length),
+        u32(centralSize), u32(offset), u16(0)
+      ));
+      return new Blob(chunks.concat(central, [end]), { type: "application/zip" });
+    }
+  })();
+  </script>
+</body>
+</html>
