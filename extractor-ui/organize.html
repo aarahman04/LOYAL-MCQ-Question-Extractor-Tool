@@ -1,0 +1,386 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LOYAL MCQ – Organize</title>
+  <style>
+    :root {
+      --bg: #f6f7f9; --panel: #ffffff; --border: #e3e6ea; --text: #1c2530;
+      --muted: #6b7683; --accent: #2f6fed; --accent-weak: #e8f0fe;
+      --ok: #1a7f37; --warn: #9a6700; --warn-bg: #fdf3d7; --fail: #b42318;
+      --shadow: 0 1px 3px rgba(20,30,45,.08);
+      --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #14181d; --panel: #1c2128; --border: #2b323c; --text: #e6edf3;
+        --muted: #97a2af; --accent: #4c8bf5; --accent-weak: #1b2b47;
+        --ok: #4ac26b; --warn: #d4a72c; --warn-bg: #2b2412; --fail: #f0837a;
+        --shadow: 0 1px 3px rgba(0,0,0,.4);
+      }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--text);
+      font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    header { padding: 18px 24px; border-bottom: 1px solid var(--border); background: var(--panel);
+      display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+    header h1 { font-size: 18px; margin: 0; font-weight: 650; }
+    header .sub { color: var(--muted); font-size: 13px; }
+    header .nav { display: flex; gap: 4px; margin-left: 8px; }
+    header .nav a { text-decoration: none; color: var(--muted); font-size: 13px; font-weight: 600;
+      padding: 4px 10px; border-radius: 7px; border: 1px solid transparent; }
+    header .nav a:hover { color: var(--text); border-color: var(--border); }
+    header .nav a.active { color: var(--accent); background: var(--accent-weak); }
+    header .ver { margin-left: auto; color: var(--muted); font-size: 12px; font-family: var(--mono); }
+    main { max-width: 1180px; margin: 0 auto; padding: 20px 24px 60px; }
+    .banner { display: none; margin-bottom: 16px; padding: 12px 14px; border-radius: 8px;
+      background: #fdeceb; color: var(--fail); border: 1px solid var(--border); font-size: 13px; }
+    #drop { border: 2px dashed var(--border); border-radius: 12px; padding: 30px 20px; text-align: center;
+      background: var(--panel); box-shadow: var(--shadow); transition: .15s; }
+    #drop.drag { border-color: var(--accent); background: var(--accent-weak); }
+    #drop .big { font-size: 15px; font-weight: 600; }
+    #drop .small { color: var(--muted); font-size: 13px; margin-top: 4px; }
+    #drop .btns { margin-top: 12px; display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+    button { font: inherit; border: 1px solid var(--border); background: var(--panel); color: var(--text);
+      padding: 8px 14px; border-radius: 8px; cursor: pointer; font-weight: 550; }
+    button:hover:not(:disabled) { border-color: var(--accent); }
+    button.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+    button.primary:hover:not(:disabled) { filter: brightness(1.05); }
+    button:disabled { opacity: .5; cursor: not-allowed; }
+    .toolbar { display: flex; gap: 10px; align-items: center; margin: 18px 0; flex-wrap: wrap; }
+    .toolbar .spacer { flex: 1; }
+    .stats { color: var(--muted); font-size: 13px; }
+    .card { background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
+      box-shadow: var(--shadow); overflow: hidden; }
+    .card h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted);
+      margin: 0; padding: 12px 16px; border-bottom: 1px solid var(--border);
+      display: flex; justify-content: space-between; align-items: center; }
+    .table-wrap { overflow-x: auto; max-height: 68vh; overflow-y: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; }
+    th, td { text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--border); vertical-align: middle; white-space: nowrap; }
+    th { color: var(--muted); font-weight: 600; position: sticky; top: 0; background: var(--panel); z-index: 1; }
+    td.fname { white-space: normal; word-break: break-word; min-width: 220px; font-family: var(--mono); font-size: 12px; }
+    .num { text-align: right; font-variant-numeric: tabular-nums; }
+    select { font: inherit; font-size: 13px; padding: 4px 6px; border: 1px solid var(--border);
+      border-radius: 6px; background: var(--panel); color: var(--text); max-width: 170px; }
+    select.edited { border-color: var(--accent); }
+    .pill { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: 12px; font-weight: 600;
+      font-family: var(--mono); border: 1px solid var(--border); }
+    .pill.mcq { color: var(--accent); } .pill.audio { color: #8250df; }
+    .pill.drag_drop { color: #bc4c00; } .pill.tap_select { color: #1f883d; }
+    .status { font-weight: 600; font-size: 12px; }
+    .status.ready { color: var(--ok); } .status.review { color: var(--warn); } .status.failed { color: var(--fail); }
+    tr.review td { background: var(--warn-bg); }
+    .muted { color: var(--muted); }
+    a.hidden-dl { display: none; }
+    .foot { color: var(--muted); font-size: 12px; margin-top: 22px; line-height: 1.6; }
+    .foot code { font-family: var(--mono); background: var(--accent-weak); padding: 1px 5px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>LOYAL MCQ · Organize</h1>
+    <span class="sub">sort extracted JSON into a seed-data/ tree</span>
+    <nav class="nav"><a href="index.html">Extract</a><a href="organize.html" class="active">Organize</a></nav>
+    <span class="ver" id="ver"></span>
+  </header>
+
+  <main>
+    <div class="banner" id="banner"></div>
+
+    <div id="drop">
+      <div class="big">Drop extracted <code>.json</code> files here</div>
+      <div class="small">or pick the files / the whole output folder. Level &amp; subject are auto-detected — you can override any of them below.</div>
+      <div class="btns">
+        <button id="pickFiles">Choose files</button>
+        <button id="pickFolder">Choose folder</button>
+      </div>
+      <input type="file" id="fileInput" accept=".json,application/json" multiple hidden />
+      <input type="file" id="dirInput" webkitdirectory multiple hidden />
+    </div>
+
+    <div class="toolbar">
+      <button class="primary" id="organizeBtn" disabled>Organize All (ZIP)</button>
+      <button id="clearBtn" disabled>Clear</button>
+      <span class="spacer"></span>
+      <span class="stats" id="stats"></span>
+    </div>
+
+    <section class="card">
+      <h2><span>Files</span><span class="muted" id="rowInfo"></span></h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Filename</th>
+              <th>Level</th>
+              <th>Subject</th>
+              <th>Quiz Type</th>
+              <th class="num">Questions</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody id="rows">
+            <tr><td colspan="6" class="muted" style="padding:22px 16px">No files loaded yet.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <div class="foot">
+      Auto-detection uses the same rules as the CLI (<code>lib/core.js</code> → <code>detectLevel</code> / <code>detectSubject</code>).
+      Rows with no detected level are highlighted and default to <code>_unclassified/</code> until you pick one.
+      <b>Organize All</b> builds <code>seed-data/&lt;level&gt;/&lt;subject&gt;/&lt;file&gt;.json</code> plus a <code>_manifest.csv</code>.
+    </div>
+  </main>
+
+  <a class="hidden-dl" id="dlAnchor"></a>
+
+  <script src="../lib/core.js"></script>
+  <script src="zip.js"></script>
+  <script>
+  (function () {
+    "use strict";
+    var core = window.LoyalExtractorCore;
+    var banner = document.getElementById("banner");
+    if (!core || !window.zipStore) {
+      banner.style.display = "block";
+      banner.textContent =
+        "Could not load ../lib/core.js or zip.js. If you opened this file directly, run  `npm run ui`  from the repo root and open the printed URL instead.";
+      return;
+    }
+    document.getElementById("ver").textContent = "v" + core.VERSION;
+
+    // ---- dropdown option models ---------------------------------------------
+    var LEVELS = [
+      { value: "kg1", label: "KG-1" }, { value: "kg2", label: "KG-2" }, { value: "kg3", label: "KG-3" },
+    ];
+    for (var n = 1; n <= 12; n++) LEVELS.push({ value: "level-" + n, label: "Level " + n });
+
+    var SUBJECTS = [
+      { value: "math", label: "Math" }, { value: "english", label: "English" },
+      { value: "science", label: "Science" }, { value: "gk", label: "GK" },
+    ];
+
+    function hasOpt(list, val) { return list.some(function (o) { return o.value === val; }); }
+    function prettyLevel(v) {
+      var m = /^kg(\d+)$/.exec(v); if (m) return "KG-" + m[1];
+      m = /^level-(\d+)$/.exec(v); if (m) return "Level " + m[1];
+      return v;
+    }
+    function prettySubject(v) { return v ? v.charAt(0).toUpperCase() + v.slice(1) : v; }
+    function slugifyValue(s) {
+      return String(s).toLowerCase().trim().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+    }
+
+    // ---- state --------------------------------------------------------------
+    var rows = []; // { name, text, slug, source, type, count, level, subject, invalid }
+
+    var el = {
+      drop: document.getElementById("drop"),
+      fileInput: document.getElementById("fileInput"),
+      dirInput: document.getElementById("dirInput"),
+      pickFiles: document.getElementById("pickFiles"),
+      pickFolder: document.getElementById("pickFolder"),
+      rows: document.getElementById("rows"),
+      rowInfo: document.getElementById("rowInfo"),
+      stats: document.getElementById("stats"),
+      organizeBtn: document.getElementById("organizeBtn"),
+      clearBtn: document.getElementById("clearBtn"),
+      anchor: document.getElementById("dlAnchor"),
+    };
+
+    // ---- intake -------------------------------------------------------------
+    el.pickFiles.addEventListener("click", function () { el.fileInput.click(); });
+    el.pickFolder.addEventListener("click", function () { el.dirInput.click(); });
+    el.fileInput.addEventListener("change", function (e) { addFiles(e.target.files); el.fileInput.value = ""; });
+    el.dirInput.addEventListener("change", function (e) { addFiles(e.target.files); el.dirInput.value = ""; });
+    ["dragenter", "dragover"].forEach(function (ev) {
+      el.drop.addEventListener(ev, function (e) { e.preventDefault(); el.drop.classList.add("drag"); });
+    });
+    ["dragleave", "drop"].forEach(function (ev) {
+      el.drop.addEventListener(ev, function (e) { e.preventDefault(); el.drop.classList.remove("drag"); });
+    });
+    el.drop.addEventListener("drop", function (e) {
+      if (e.dataTransfer && e.dataTransfer.files) addFiles(e.dataTransfer.files);
+    });
+
+    function addFiles(fileList) {
+      var arr = Array.prototype.slice.call(fileList).filter(function (f) {
+        return /\.json$/i.test(f.name) && !/(^|\/)_summary\.csv$/i.test(f.name);
+      });
+      if (!arr.length) return;
+      var pending = arr.length;
+      arr.forEach(function (f) {
+        var reader = new FileReader();
+        reader.onload = function () {
+          rows.push(buildRow(f.name, String(reader.result)));
+          if (--pending === 0) { addMissingOptions(); render(); }
+        };
+        reader.readAsText(f);
+      });
+    }
+
+    function buildRow(name, text) {
+      var base = name.replace(/^.*\//, "");
+      var row = { name: base, text: text, invalid: false };
+      var data;
+      try { data = JSON.parse(text); } catch (e) { row.invalid = true; return row; }
+      row.slug = (data.exercise && data.exercise.slug) || base.replace(/\.json$/i, "");
+      row.source = data._source_file || base;
+      row.type = data._quiz_type_detected || (data.exercise && data.exercise.quiz_type) || "?";
+      row.count = data._question_count != null ? data._question_count
+        : (data.questions ? data.questions.length : 0);
+      row.level = core.detectLevel(row.slug, row.source) || ""; // "" = unclassified
+      row.subject = core.detectSubject(row.slug);
+      return row;
+    }
+
+    // add any detected values that aren't already in the dropdown lists
+    function addMissingOptions() {
+      rows.forEach(function (r) {
+        if (r.invalid) return;
+        if (r.level && !hasOpt(LEVELS, r.level)) LEVELS.push({ value: r.level, label: prettyLevel(r.level) });
+        if (r.subject && !hasOpt(SUBJECTS, r.subject)) SUBJECTS.push({ value: r.subject, label: prettySubject(r.subject) });
+      });
+    }
+
+    // ---- rendering ----------------------------------------------------------
+    function esc(s) {
+      return String(s == null ? "" : s).replace(/[&<>"']/g, function (m) {
+        return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[m];
+      });
+    }
+
+    function selectHtml(i, kind, options, val, includeNone) {
+      var opts = "";
+      if (includeNone) opts += '<option value=""' + (val === "" ? " selected" : "") + ">— none —</option>";
+      opts += options.map(function (o) {
+        return '<option value="' + esc(o.value) + '"' + (o.value === val ? " selected" : "") + ">" + esc(o.label) + "</option>";
+      }).join("");
+      opts += '<option value="__add__">+ Add new…</option>';
+      var edited = (kind === "level" ? rowsAuto[i].level : rowsAuto[i].subject) !== val ? " edited" : "";
+      return '<select class="js-sel' + edited + '" data-i="' + i + '" data-kind="' + kind + '">' + opts + "</select>";
+    }
+
+    var rowsAuto = []; // snapshot of the auto-detected values (to flag edits)
+
+    function statusOf(r) {
+      if (r.invalid) return { cls: "failed", text: "invalid JSON" };
+      if (!r.level) return { cls: "review", text: "set level" };
+      return { cls: "ready", text: "ready" };
+    }
+
+    function render() {
+      if (!rows.length) {
+        el.rows.innerHTML = '<tr><td colspan="6" class="muted" style="padding:22px 16px">No files loaded yet.</td></tr>';
+        el.rowInfo.textContent = "";
+        updateStats();
+        return;
+      }
+      if (rowsAuto.length !== rows.length) {
+        rowsAuto = rows.map(function (r) { return { level: r.level, subject: r.subject }; });
+      }
+      var html = rows.map(function (r, i) {
+        if (r.invalid) {
+          return '<tr class="review"><td class="fname">' + esc(r.name) +
+            '</td><td colspan="4" class="muted">—</td><td><span class="status failed">invalid JSON</span></td></tr>';
+        }
+        var st = statusOf(r);
+        return '<tr class="' + (st.cls === "review" ? "review" : "") + '" data-i="' + i + '">' +
+          '<td class="fname">' + esc(r.name) + "</td>" +
+          "<td>" + selectHtml(i, "level", LEVELS, r.level, true) + "</td>" +
+          "<td>" + selectHtml(i, "subject", SUBJECTS, r.subject, false) + "</td>" +
+          '<td><span class="pill ' + esc(r.type) + '">' + esc(r.type) + "</span></td>" +
+          '<td class="num">' + esc(r.count) + "</td>" +
+          '<td><span class="status ' + st.cls + '">' + esc(st.text) + "</span></td>" +
+        "</tr>";
+      }).join("");
+      el.rows.innerHTML = html;
+      el.rowInfo.textContent = rows.length + " file(s)";
+      updateStats();
+    }
+
+    // one delegated listener handles all selects (fast for 150+ rows)
+    el.rows.addEventListener("change", function (e) {
+      var sel = e.target;
+      if (sel.tagName !== "SELECT") return;
+      var i = parseInt(sel.getAttribute("data-i"), 10);
+      var kind = sel.getAttribute("data-kind");
+      if (sel.value === "__add__") {
+        var label = window.prompt("New " + kind + " name:", "");
+        if (!label || !label.trim()) { sel.value = rows[i][kind]; return; }
+        var value = slugifyValue(label);
+        var list = kind === "level" ? LEVELS : SUBJECTS;
+        if (!hasOpt(list, value)) list.push({ value: value, label: label.trim() });
+        rows[i][kind] = value;
+        render(); // re-render so the new option appears in every row's dropdown
+        return;
+      }
+      rows[i][kind] = sel.value;
+      // targeted updates: status cell + edited outline, no full re-render
+      var tr = sel.closest("tr");
+      var st = statusOf(rows[i]);
+      tr.className = st.cls === "review" ? "review" : "";
+      var statusEl = tr.querySelector(".status");
+      if (statusEl) { statusEl.className = "status " + st.cls; statusEl.textContent = st.text; }
+      sel.classList.toggle("edited", rowsAuto[i][kind] !== sel.value);
+      updateStats();
+    });
+
+    function updateStats() {
+      var valid = rows.filter(function (r) { return !r.invalid; });
+      el.organizeBtn.disabled = valid.length === 0;
+      el.clearBtn.disabled = rows.length === 0;
+      if (!rows.length) { el.stats.textContent = ""; return; }
+      var buckets = {};
+      var review = 0, invalid = 0;
+      rows.forEach(function (r) {
+        if (r.invalid) { invalid++; return; }
+        if (!r.level) review++;
+        var key = (r.level || core.UNCLASSIFIED) + "/" + (r.subject || "math");
+        buckets[key] = (buckets[key] || 0) + 1;
+      });
+      var folders = Object.keys(buckets).length;
+      el.stats.textContent =
+        valid.length + " file(s) → " + folders + " folder(s)" +
+        (review ? " · " + review + " need a level" : "") +
+        (invalid ? " · " + invalid + " invalid" : "");
+    }
+
+    el.clearBtn.addEventListener("click", function () {
+      rows = []; rowsAuto = []; render();
+    });
+
+    // ---- organize -> ZIP ----------------------------------------------------
+    el.organizeBtn.addEventListener("click", function () {
+      var entries = [];
+      var seenPaths = {};
+      var manifest = [["filename", "level", "subject", "quiz_type", "question_count"].join(",")];
+      rows.forEach(function (r) {
+        if (r.invalid) return;
+        var level = r.level || core.UNCLASSIFIED;
+        var subject = r.subject || "math";
+        var dir = "seed-data/" + level + "/" + subject + "/";
+        var path = dir + r.name;
+        if (seenPaths[path]) { // avoid duplicate zip entries
+          var base = r.name.replace(/\.json$/i, "");
+          path = dir + base + "-" + (seenPaths[dir + r.name] = (seenPaths[dir + r.name] || 1) + 1) + ".json";
+        }
+        seenPaths[path] = true;
+        entries.push({ name: path, text: r.text });
+        manifest.push([r.name, level, subject, r.type, r.count].map(core.csvCell).join(","));
+      });
+      if (!entries.length) return;
+      entries.push({ name: "seed-data/_manifest.csv", text: manifest.join("\n") + "\n" });
+
+      var blob = window.zipStore(entries);
+      var url = URL.createObjectURL(blob);
+      el.anchor.href = url; el.anchor.download = "loyal-mcq-seed-data.zip"; el.anchor.click();
+      setTimeout(function () { URL.revokeObjectURL(url); }, 1500);
+    });
+  })();
+  </script>
+</body>
+</html>
