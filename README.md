@@ -187,32 +187,68 @@ status, warnings`.
 
 ---
 
+## Organizing into a seed tree (`organize.js`)
+
+`organize.js` sorts the extracted JSON (from `output/`) into
+`seed-data/<level>/<subject>/<slug>.json` plus `seed-data/_summary.csv`.
+
+```bash
+node extract.js "/path/to/question" -o output   # produce output/*.json first
+node organize.js                                 # -> seed-data/
+node organize.js output seed-data                # explicit in/out dirs
+```
+
+Levels and subjects are **auto-detected — nothing is hardcoded to a fixed set**,
+so new levels (Level 5, KG-2, …) just work. Both rule sets live as simple arrays
+in `lib/core.js` (`LEVEL_FAMILIES` / `SUBJECT_RULES`) — the CLI and the Organize
+web page share them.
+
+- **Level** — pulled from the source filename / slug for any number:
+  `kg3_`/`kg-3_` → `kg3/`, `level_1_`/`level1_`/`lvl1_`/`leve1_` → `level-1/`,
+  `level_2_` → `level-2/`, … No level prefix → a warning + `_unclassified/`.
+- **Subject** — first matching keyword wins, else `math`:
+  english (`eng`, `vowel`, `sight-word`, `vocabulary`, `adjective`, `noun`,
+  `adverb`, `scrambled`), gk (`gk`, `general-knowledge`, `fruits`),
+  science (`sci`, `science`, `living`).
+
+---
+
 ## Web UI
 
-`extractor-ui/index.html` is a single-page, framework-free app:
+Two framework-free pages, linked from each other (nav in the header). Both run
+entirely in the browser and share `lib/core.js` + `zip.js`.
 
+**Extract** (`extractor-ui/index.html`)
 - Drag-and-drop (or click) to load one or many `.html` files.
 - **Extract All** fills in detected type, question count, and status per file.
-- Click any successful row to **preview** its questions in a readable table
-  (correct answers highlighted, warnings flagged).
-- **Download All (ZIP)** — a dependency-free ZIP of every `<slug>.json` plus the
-  CSV. **Download CSV Summary** exports just the CSV.
-- Everything runs locally in the browser; no files leave your machine.
+- Click any successful row to **preview** its questions in a readable table.
+- **Download All (ZIP)** / **Download CSV Summary**.
 
-The UI loads the shared core from `../lib/core.js`. Running `npm run ui` (a tiny
-zero-dependency static server) is the reliable way to open it; opening the file
-directly works in most browsers too, and the page shows a clear hint if the
-browser blocks the cross-directory script load.
+**Organize** (`extractor-ui/organize.html`)
+- Drop the extracted `.json` files (or pick the files / the whole output folder).
+- Table of Filename · Level · Subject · Quiz Type · Question Count · Status.
+- **Level** and **Subject** are auto-detected but shown as **editable dropdowns**
+  (KG-1…KG-3, Level 1…12 / Math, English, Science, GK) — each with **+ Add new…**
+  to type a custom value (e.g. Arabic). You always have final say.
+- **Organize All (ZIP)** builds the `seed-data/<level>/<subject>/` tree (with a
+  `_manifest.csv`) from your final choices.
+
+Running `npm run ui` (a tiny zero-dependency static server) is the reliable way
+to open them; opening the files directly works in most browsers too, and each
+page shows a clear hint if the browser blocks the cross-directory script load.
 
 ---
 
 ## Layout
 
 ```
-extract.js            CLI entry (vm-based array evaluator + file walking + output)
-lib/core.js           shared, environment-agnostic detection + mapping (UMD)
+extract.js            CLI extractor (vm-based array evaluator + file walking + output)
+organize.js           CLI organizer (output/*.json -> seed-data/ tree)
+lib/core.js           shared core: detection, mapping, level/subject rules (UMD)
 extractor-ui/
-  index.html          single-page UI (sandboxed Function evaluator + mini-ZIP)
+  index.html          Extract page (sandboxed Function evaluator)
+  organize.html       Organize page (editable level/subject dropdowns)
+  zip.js              shared dependency-free ZIP writer
 scripts/serve-ui.js   zero-dependency static server for the UI
 test/run.js           self-contained test suite (npm test)
 ```

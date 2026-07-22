@@ -31,6 +31,11 @@
     }
     header h1 { font-size: 18px; margin: 0; font-weight: 650; }
     header .sub { color: var(--muted); font-size: 13px; }
+    header .nav { display: flex; gap: 4px; margin-left: 8px; }
+    header .nav a { text-decoration: none; color: var(--muted); font-size: 13px; font-weight: 600;
+      padding: 4px 10px; border-radius: 7px; border: 1px solid transparent; }
+    header .nav a:hover { color: var(--text); border-color: var(--border); }
+    header .nav a.active { color: var(--accent); background: var(--accent-weak); }
     header .ver { margin-left: auto; color: var(--muted); font-size: 12px; font-family: var(--mono); }
     main { max-width: 1180px; margin: 0 auto; padding: 20px 24px 60px; }
     .banner {
@@ -107,6 +112,7 @@
   <header>
     <h1>LOYAL MCQ · Question Extractor</h1>
     <span class="sub">HTML quiz files → structured JSON</span>
+    <nav class="nav"><a href="index.html" class="active">Extract</a><a href="organize.html">Organize</a></nav>
     <span class="ver" id="ver"></span>
   </header>
 
@@ -158,8 +164,9 @@
 
   <a class="hidden-dl" id="dlAnchor"></a>
 
-  <!-- shared core (also used by the Node CLI) -->
+  <!-- shared core (also used by the Node CLI) + dependency-free ZIP writer -->
   <script src="../lib/core.js"></script>
+  <script src="zip.js"></script>
   <script>
   (function () {
     "use strict";
@@ -474,58 +481,8 @@
       var rows = files.filter(function (f) { return f.result; })
         .map(function (f) { return core.csvRow(f.result, f.name); });
       entries.push({ name: "_summary.csv", text: core.buildCsv(rows) });
-      triggerDownload(zipStore(entries), "loyal-mcq-extracted.zip");
+      triggerDownload(window.zipStore(entries), "loyal-mcq-extracted.zip");
     });
-
-    // ---- minimal STORE-method ZIP (no dependencies) ----
-    var CRC_TABLE = (function () {
-      var t = new Uint32Array(256);
-      for (var n = 0; n < 256; n++) {
-        var c = n;
-        for (var k = 0; k < 8; k++) c = c & 1 ? 0xedb88320 ^ (c >>> 1) : c >>> 1;
-        t[n] = c >>> 0;
-      }
-      return t;
-    })();
-    function crc32(bytes) {
-      var c = 0xffffffff;
-      for (var i = 0; i < bytes.length; i++) c = CRC_TABLE[(c ^ bytes[i]) & 0xff] ^ (c >>> 8);
-      return (c ^ 0xffffffff) >>> 0;
-    }
-    function zipStore(entries) {
-      var enc = new TextEncoder();
-      var chunks = [];       // local file records
-      var central = [];      // central directory records
-      var offset = 0;
-      function u16(v) { return [v & 0xff, (v >>> 8) & 0xff]; }
-      function u32(v) { return [v & 0xff, (v >>> 8) & 0xff, (v >>> 16) & 0xff, (v >>> 24) & 0xff]; }
-
-      entries.forEach(function (e) {
-        var nameBytes = enc.encode(e.name);
-        var data = enc.encode(e.text);
-        var crc = crc32(data);
-        var local = [].concat(
-          u32(0x04034b50), u16(20), u16(0), u16(0), u16(0), u16(0),
-          u32(crc), u32(data.length), u32(data.length),
-          u16(nameBytes.length), u16(0)
-        );
-        chunks.push(new Uint8Array(local), nameBytes, data);
-        var cen = [].concat(
-          u32(0x02014b50), u16(20), u16(20), u16(0), u16(0), u16(0), u16(0),
-          u32(crc), u32(data.length), u32(data.length),
-          u16(nameBytes.length), u16(0), u16(0), u16(0), u16(0), u32(0), u32(offset)
-        );
-        central.push(new Uint8Array(cen), nameBytes);
-        offset += local.length + nameBytes.length + data.length;
-      });
-
-      var centralSize = central.reduce(function (n, c) { return n + c.length; }, 0);
-      var end = new Uint8Array([].concat(
-        u32(0x06054b50), u16(0), u16(0), u16(entries.length), u16(entries.length),
-        u32(centralSize), u32(offset), u16(0)
-      ));
-      return new Blob(chunks.concat(central, [end]), { type: "application/zip" });
-    }
   })();
   </script>
 </body>
