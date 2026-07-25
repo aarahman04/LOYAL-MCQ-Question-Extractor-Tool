@@ -1,1600 +1,2490 @@
 {
   "_source_file": "level_1_eng_Identify_statements.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 99,
-  "exercise": {
-    "slug": "eng-identify-statements",
-    "title": "Identify Statements",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 99,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.538Z",
+  "slug": "eng-identify-statements",
+  "title": "Identify Statements",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 99,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The boy is fast / How are you?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The boy is fast / How are you?</span>",
       "options": {
         "choices": [
-          "The boy is fast",
-          "How are you?"
+          {
+            "id": "c1",
+            "text": "The boy is fast"
+          },
+          {
+            "id": "c2",
+            "text": "How are you?"
+          }
         ]
       },
-      "correct_answer": "The boy is fast",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A statement tells something and ends with a period.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is your name? / The girl is pretty.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is your name? / The girl is pretty.</span>",
       "options": {
         "choices": [
-          "What is your name?",
-          "The girl is pretty."
+          {
+            "id": "c1",
+            "text": "What is your name?"
+          },
+          {
+            "id": "c2",
+            "text": "The girl is pretty."
+          }
         ]
       },
-      "correct_answer": "The girl is pretty.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It is a statement because it tells something.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is your mother’s name? / The ocean was calm.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is your mother’s name? / The ocean was calm.</span>",
       "options": {
         "choices": [
-          "What is your mother’s name?",
-          "The ocean was calm."
+          {
+            "id": "c1",
+            "text": "What is your mother’s name?"
+          },
+          {
+            "id": "c2",
+            "text": "The ocean was calm."
+          }
         ]
       },
-      "correct_answer": "The ocean was calm.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "This sentence tells something, so it’s a statement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The boy read many books. / What is your favorite book?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The boy read many books. / What is your favorite book?</span>",
       "options": {
         "choices": [
-          "The boy read many books.",
-          "What is your favorite book?"
+          {
+            "id": "c1",
+            "text": "The boy read many books."
+          },
+          {
+            "id": "c2",
+            "text": "What is your favorite book?"
+          }
         ]
       },
-      "correct_answer": "The boy read many books.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It ends with a period and tells something.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is your name? / The girl is beautiful.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is your name? / The girl is beautiful.</span>",
       "options": {
         "choices": [
-          "What is your name?",
-          "The girl is beautiful."
+          {
+            "id": "c1",
+            "text": "What is your name?"
+          },
+          {
+            "id": "c2",
+            "text": "The girl is beautiful."
+          }
         ]
       },
-      "correct_answer": "The girl is beautiful.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It’s a statement, not a question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is your father’s name? / The cat slept on the table.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is your father’s name? / The cat slept on the table.</span>",
       "options": {
         "choices": [
-          "What is your father’s name?",
-          "The cat slept on the table."
+          {
+            "id": "c1",
+            "text": "What is your father’s name?"
+          },
+          {
+            "id": "c2",
+            "text": "The cat slept on the table."
+          }
         ]
       },
-      "correct_answer": "The cat slept on the table.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It tells something and ends with a period.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>How are you? / The sky is blue.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>How are you? / The sky is blue.</span>",
       "options": {
         "choices": [
-          "How are you?",
-          "The sky is blue."
+          {
+            "id": "c1",
+            "text": "How are you?"
+          },
+          {
+            "id": "c2",
+            "text": "The sky is blue."
+          }
         ]
       },
-      "correct_answer": "The sky is blue.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It is a statement that describes something.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is your opinion? / The sky was full of birds.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is your opinion? / The sky was full of birds.</span>",
       "options": {
         "choices": [
-          "What is your opinion?",
-          "The sky was full of birds."
+          {
+            "id": "c1",
+            "text": "What is your opinion?"
+          },
+          {
+            "id": "c2",
+            "text": "The sky was full of birds."
+          }
         ]
       },
-      "correct_answer": "The sky was full of birds.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It’s a statement because it tells something.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The baby was crying. / What is your opinion?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The baby was crying. / What is your opinion?</span>",
       "options": {
         "choices": [
-          "The baby was crying.",
-          "What is your opinion?"
+          {
+            "id": "c1",
+            "text": "The baby was crying."
+          },
+          {
+            "id": "c2",
+            "text": "What is your opinion?"
+          }
         ]
       },
-      "correct_answer": "The baby was crying.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It tells something and ends with a period.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is the difference between them? / The bank was full of people.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is the difference between them? / The bank was full of people.</span>",
       "options": {
         "choices": [
-          "What is the difference between them?",
-          "The bank was full of people."
+          {
+            "id": "c1",
+            "text": "What is the difference between them?"
+          },
+          {
+            "id": "c2",
+            "text": "The bank was full of people."
+          }
         ]
       },
-      "correct_answer": "The bank was full of people.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "This is a statement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The road was closed. / What is his favorite part?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The road was closed. / What is his favorite part?</span>",
       "options": {
         "choices": [
-          "The road was closed.",
-          "What is his favorite part?"
+          {
+            "id": "c1",
+            "text": "The road was closed."
+          },
+          {
+            "id": "c2",
+            "text": "What is his favorite part?"
+          }
         ]
       },
-      "correct_answer": "The road was closed.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It is a statement ending with a period.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The road was open. / What was the quiz about?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The road was open. / What was the quiz about?</span>",
       "options": {
         "choices": [
-          "The road was open.",
-          "What was the quiz about?"
+          {
+            "id": "c1",
+            "text": "The road was open."
+          },
+          {
+            "id": "c2",
+            "text": "What was the quiz about?"
+          }
         ]
       },
-      "correct_answer": "The road was open.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It tells something.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is his purpose? / The cat was fluffy.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is his purpose? / The cat was fluffy.</span>",
       "options": {
         "choices": [
-          "What is his purpose?",
-          "The cat was fluffy."
+          {
+            "id": "c1",
+            "text": "What is his purpose?"
+          },
+          {
+            "id": "c2",
+            "text": "The cat was fluffy."
+          }
         ]
       },
-      "correct_answer": "The cat was fluffy.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It is a statement describing the cat.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What was your first impression? / The hen was sleeping.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What was your first impression? / The hen was sleeping.</span>",
       "options": {
         "choices": [
-          "What was your first impression?",
-          "The hen was sleeping."
+          {
+            "id": "c1",
+            "text": "What was your first impression?"
+          },
+          {
+            "id": "c2",
+            "text": "The hen was sleeping."
+          }
         ]
       },
-      "correct_answer": "The hen was sleeping.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "This is a statement because it tells something.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Some people can’t eat peanuts. / Do you love Ms Sandy?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Some people can’t eat peanuts. / Do you love Ms Sandy?</span>",
       "options": {
         "choices": [
-          "Some people can’t eat peanuts.",
-          "Do you love Ms Sandy?"
+          {
+            "id": "c1",
+            "text": "Some people can’t eat peanuts."
+          },
+          {
+            "id": "c2",
+            "text": "Do you love Ms Sandy?"
+          }
         ]
       },
-      "correct_answer": "Some people can’t eat peanuts.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It ends with a period and tells something.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you like apples? / Some people are just very sensitive.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you like apples? / Some people are just very sensitive.</span>",
       "options": {
         "choices": [
-          "Do you like apples?",
-          "Some people are just very sensitive."
+          {
+            "id": "c1",
+            "text": "Do you like apples?"
+          },
+          {
+            "id": "c2",
+            "text": "Some people are just very sensitive."
+          }
         ]
       },
-      "correct_answer": "Some people are just very sensitive.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It is a statement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you like apples? / Some people are just very scary.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you like apples? / Some people are just very scary.</span>",
       "options": {
         "choices": [
-          "Do you like apples?",
-          "Some people are just very scary."
+          {
+            "id": "c1",
+            "text": "Do you like apples?"
+          },
+          {
+            "id": "c2",
+            "text": "Some people are just very scary."
+          }
         ]
       },
-      "correct_answer": "Some people are just very scary.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It tells something, so it’s a statement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you like puzzles? / Some people are scared of spiders.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you like puzzles? / Some people are scared of spiders.</span>",
       "options": {
         "choices": [
-          "Do you like puzzles?",
-          "Some people are scared of spiders."
+          {
+            "id": "c1",
+            "text": "Do you like puzzles?"
+          },
+          {
+            "id": "c2",
+            "text": "Some people are scared of spiders."
+          }
         ]
       },
-      "correct_answer": "Some people are scared of spiders.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "This is a statement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Ms Sandy works with my mother. / Do you like swimming?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Ms Sandy works with my mother. / Do you like swimming?</span>",
       "options": {
         "choices": [
-          "Ms Sandy works with my mother.",
-          "Do you like swimming."
+          {
+            "id": "c1",
+            "text": "Ms Sandy works with my mother."
+          },
+          {
+            "id": "c2",
+            "text": "Do you like swimming."
+          }
         ]
       },
-      "correct_answer": "Ms Sandy works with my mother.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It ends with a period and tells something.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Does he like dogs? / I went to the market.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Does he like dogs? / I went to the market.</span>",
       "options": {
         "choices": [
-          "Does he like dogs?",
-          "I went to the market."
+          {
+            "id": "c1",
+            "text": "Does he like dogs?"
+          },
+          {
+            "id": "c2",
+            "text": "I went to the market."
+          }
         ]
       },
-      "correct_answer": "I went to the market.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It is a statement because it tells something.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The cat ran up the tree. / Did the cat run up the tree?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The cat ran up the tree. / Did the cat run up the tree?</span>",
       "options": {
         "choices": [
-          "The cat ran up the tree.",
-          "Did the cat run up the tree?"
+          {
+            "id": "c1",
+            "text": "The cat ran up the tree."
+          },
+          {
+            "id": "c2",
+            "text": "Did the cat run up the tree?"
+          }
         ]
       },
-      "correct_answer": "The cat ran up the tree.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It is a statement that tells about an action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The cat was not allowed in the house. / Was the cat allowed in the house?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The cat was not allowed in the house. / Was the cat allowed in the house?</span>",
       "options": {
         "choices": [
-          "The cat was not allowed in the house.",
-          "Was the cat allowed in the house?"
+          {
+            "id": "c1",
+            "text": "The cat was not allowed in the house."
+          },
+          {
+            "id": "c2",
+            "text": "Was the cat allowed in the house?"
+          }
         ]
       },
-      "correct_answer": "The cat was not allowed in the house.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It provides factual information, ending with a period.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The dog was not allowed in the house. / Was the dog allowed in the house?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The dog was not allowed in the house. / Was the dog allowed in the house?</span>",
       "options": {
         "choices": [
-          "The dog was not allowed in the house.",
-          "Was the dog allowed in the house?"
+          {
+            "id": "c1",
+            "text": "The dog was not allowed in the house."
+          },
+          {
+            "id": "c2",
+            "text": "Was the dog allowed in the house?"
+          }
         ]
       },
-      "correct_answer": "The dog was not allowed in the house.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It directly states a rule or fact.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Why are you crying? / The dog was sick.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Why are you crying? / The dog was sick.</span>",
       "options": {
         "choices": [
-          "Why are you crying?",
-          "The dog was sick."
+          {
+            "id": "c1",
+            "text": "Why are you crying?"
+          },
+          {
+            "id": "c2",
+            "text": "The dog was sick."
+          }
         ]
       },
-      "correct_answer": "The dog was sick.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It presents information about the dog's condition.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Why are you crying? / The dog was sleeping.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Why are you crying? / The dog was sleeping.</span>",
       "options": {
         "choices": [
-          "Why are you crying?",
-          "The dog was sleeping."
+          {
+            "id": "c1",
+            "text": "Why are you crying?"
+          },
+          {
+            "id": "c2",
+            "text": "The dog was sleeping."
+          }
         ]
       },
-      "correct_answer": "The dog was sleeping.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It describes what the dog was doing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The rabbit was fluffy. / What time is it?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The rabbit was fluffy. / What time is it?</span>",
       "options": {
         "choices": [
-          "The rabbit was fluffy.",
-          "What time is it?"
+          {
+            "id": "c1",
+            "text": "The rabbit was fluffy."
+          },
+          {
+            "id": "c2",
+            "text": "What time is it?"
+          }
         ]
       },
-      "correct_answer": "The rabbit was fluffy.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It tells a characteristic of the rabbit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What time do you study? / The hen sat on the bench.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What time do you study? / The hen sat on the bench.</span>",
       "options": {
         "choices": [
-          "What time do you study?",
-          "The hen sat on the bench."
+          {
+            "id": "c1",
+            "text": "What time do you study?"
+          },
+          {
+            "id": "c2",
+            "text": "The hen sat on the bench."
+          }
         ]
       },
-      "correct_answer": "The hen sat on the bench.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It communicates an action directly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The school bell rang. / Will you go to Sam's house?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The school bell rang. / Will you go to Sam's house?</span>",
       "options": {
         "choices": [
-          "The school bell rang.",
-          "Will you go to Sam's house?"
+          {
+            "id": "c1",
+            "text": "The school bell rang."
+          },
+          {
+            "id": "c2",
+            "text": "Will you go to Sam's house?"
+          }
         ]
       },
-      "correct_answer": "The school bell rang.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It states a completed event.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The school bell rang very loud. / What is your favorite song?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The school bell rang very loud. / What is your favorite song?</span>",
       "options": {
         "choices": [
-          "The school bell rang very loud.",
-          "What is your favorite song?"
+          {
+            "id": "c1",
+            "text": "The school bell rang very loud."
+          },
+          {
+            "id": "c2",
+            "text": "What is your favorite song?"
+          }
         ]
       },
-      "correct_answer": "The school bell rang very loud.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It describes how the bell sounded.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The boy plays with Sam. / Is Sam your friend?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The boy plays with Sam. / Is Sam your friend?</span>",
       "options": {
         "choices": [
-          "The boy plays with Sam.",
-          "Is Sam your friend?"
+          {
+            "id": "c1",
+            "text": "The boy plays with Sam."
+          },
+          {
+            "id": "c2",
+            "text": "Is Sam your friend?"
+          }
         ]
       },
-      "correct_answer": "The boy plays with Sam.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It defines a factual occurrence.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The mouse ran away. / Did you see that mouse?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The mouse ran away. / Did you see that mouse?</span>",
       "options": {
         "choices": [
-          "The mouse ran away.",
-          "Did you see that mouse?"
+          {
+            "id": "c1",
+            "text": "The mouse ran away."
+          },
+          {
+            "id": "c2",
+            "text": "Did you see that mouse?"
+          }
         ]
       },
-      "correct_answer": "The mouse ran away.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It explains the action of the mouse.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The mouse ran behind the cat. / Did you see that cat?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The mouse ran behind the cat. / Did you see that cat?</span>",
       "options": {
         "choices": [
-          "The mouse ran behind the cat.",
-          "Did you see that cat?"
+          {
+            "id": "c1",
+            "text": "The mouse ran behind the cat."
+          },
+          {
+            "id": "c2",
+            "text": "Did you see that cat?"
+          }
         ]
       },
-      "correct_answer": "The mouse ran behind the cat.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It describes a location scenario.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The turtle moved to slow. / What was that on the table?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The turtle moved to slow. / What was that on the table?</span>",
       "options": {
         "choices": [
-          "The turtle moved to slow.",
-          "What was that on the table?"
+          {
+            "id": "c1",
+            "text": "The turtle moved to slow."
+          },
+          {
+            "id": "c2",
+            "text": "What was that on the table?"
+          }
         ]
       },
-      "correct_answer": "The turtle moved to slow.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It shares information about the turtle's pace.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Sandy walked up the hill. / What are you saying?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Sandy walked up the hill. / What are you saying?</span>",
       "options": {
         "choices": [
-          "Sandy walked up the hill.",
-          "What are you saying?"
+          {
+            "id": "c1",
+            "text": "Sandy walked up the hill."
+          },
+          {
+            "id": "c2",
+            "text": "What are you saying?"
+          }
         ]
       },
-      "correct_answer": "Sandy walked up the hill.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It tracks an evolutionary action vector.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What are you saying? / Sandy walked down the hill.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What are you saying? / Sandy walked down the hill.</span>",
       "options": {
         "choices": [
-          "What are you saying?",
-          "Sandy walked down the hill."
+          {
+            "id": "c1",
+            "text": "What are you saying?"
+          },
+          {
+            "id": "c2",
+            "text": "Sandy walked down the hill."
+          }
         ]
       },
-      "correct_answer": "Sandy walked down the hill.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It provides location movement parameters.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is he buying? / Sandy was writing a poem.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is he buying? / Sandy was writing a poem.</span>",
       "options": {
         "choices": [
-          "What is he buying?",
-          "Sandy was writing a poem."
+          {
+            "id": "c1",
+            "text": "What is he buying?"
+          },
+          {
+            "id": "c2",
+            "text": "Sandy was writing a poem."
+          }
         ]
       },
-      "correct_answer": "Sandy was writing a poem.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It notes a historical processing action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Dad is in the front yard. / Are you lost?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Dad is in the front yard. / Are you lost?</span>",
       "options": {
         "choices": [
-          "Dad is in the front yard.",
-          "Are you lost?"
+          {
+            "id": "c1",
+            "text": "Dad is in the front yard."
+          },
+          {
+            "id": "c2",
+            "text": "Are you lost?"
+          }
         ]
       },
-      "correct_answer": "Dad is in the front yard.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It defines parental orientation profiles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Dad was dancing. / Are you sick?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Dad was dancing. / Are you sick?</span>",
       "options": {
         "choices": [
-          "Dad was dancing.",
-          "Are you sick?"
+          {
+            "id": "c1",
+            "text": "Dad was dancing."
+          },
+          {
+            "id": "c2",
+            "text": "Are you sick?"
+          }
         ]
       },
-      "correct_answer": "Dad was dancing.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It catalogs continuous physical action flags.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Dad leaves to work early. / Are you sick?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Dad leaves to work early. / Are you sick?</span>",
       "options": {
         "choices": [
-          "Dad leaves to work early.",
-          "Are you sick?"
+          {
+            "id": "c1",
+            "text": "Dad leaves to work early."
+          },
+          {
+            "id": "c2",
+            "text": "Are you sick?"
+          }
         ]
       },
-      "correct_answer": "Dad leaves to work early.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It documents standard everyday schedule facts.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Did you catch the bus? / He walks every single day.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Did you catch the bus? / He walks every single day.</span>",
       "options": {
         "choices": [
-          "Did you catch the bus?",
-          "He walks every single day."
+          {
+            "id": "c1",
+            "text": "Did you catch the bus?"
+          },
+          {
+            "id": "c2",
+            "text": "He walks every single day."
+          }
         ]
       },
-      "correct_answer": "He walks every single day.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It identifies recurring behavior profiles safely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Did you know this? / She walks every single day.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Did you know this? / She walks every single day.</span>",
       "options": {
         "choices": [
-          "Did you know this?",
-          "She walks every single day."
+          {
+            "id": "c1",
+            "text": "Did you know this?"
+          },
+          {
+            "id": "c2",
+            "text": "She walks every single day."
+          }
         ]
       },
-      "correct_answer": "She walks every single day.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It details routine actions closing with a period.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>She studied yesterday. / What is she doing?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>She studied yesterday. / What is she doing?</span>",
       "options": {
         "choices": [
-          "She studied yesterday.",
-          "What is she doing?"
+          {
+            "id": "c1",
+            "text": "She studied yesterday."
+          },
+          {
+            "id": "c2",
+            "text": "What is she doing?"
+          }
         ]
       },
-      "correct_answer": "She studied yesterday.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It sets past educational activity logs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>They studied yesterday. / What is he doing?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>They studied yesterday. / What is he doing?</span>",
       "options": {
         "choices": [
-          "They studied yesterday.",
-          "What is he doing?"
+          {
+            "id": "c1",
+            "text": "They studied yesterday."
+          },
+          {
+            "id": "c2",
+            "text": "What is he doing?"
+          }
         ]
       },
-      "correct_answer": "They studied yesterday.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It reports group study completion vectors.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Where do bears live? / I live in Germany.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Where do bears live? / I live in Germany.</span>",
       "options": {
         "choices": [
-          "Where do bears live?",
-          "I live in Germany."
+          {
+            "id": "c1",
+            "text": "Where do bears live?"
+          },
+          {
+            "id": "c2",
+            "text": "I live in Germany."
+          }
         ]
       },
-      "correct_answer": "I live in Germany.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It profiles user localization attributes explicitly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>I live in Japan. / What is the capital city of Germany?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>I live in Japan. / What is the capital city of Germany?</span>",
       "options": {
         "choices": [
-          "I live in Japan.",
-          "What is the capital city of Germany?"
+          {
+            "id": "c1",
+            "text": "I live in Japan."
+          },
+          {
+            "id": "c2",
+            "text": "What is the capital city of Germany?"
+          }
         ]
       },
-      "correct_answer": "I live in Japan.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It confirms geographic residency indexes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is the capital city of Italy? / I live in London.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is the capital city of Italy? / I live in London.</span>",
       "options": {
         "choices": [
-          "What is the capital city of Italy?",
-          "I live in London."
+          {
+            "id": "c1",
+            "text": "What is the capital city of Italy?"
+          },
+          {
+            "id": "c2",
+            "text": "I live in London."
+          }
         ]
       },
-      "correct_answer": "I live in London.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It states residential positioning directly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>We will go to the zoo. / Where is my passport?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>We will go to the zoo. / Where is my passport?</span>",
       "options": {
         "choices": [
-          "We will go to the zoo.",
-          "Where is my passport?"
+          {
+            "id": "c1",
+            "text": "We will go to the zoo."
+          },
+          {
+            "id": "c2",
+            "text": "Where is my passport?"
+          }
         ]
       },
-      "correct_answer": "We will go to the zoo.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It declares a future movement target sequence.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>When is the party? / Sandy likes to work in her garden.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>When is the party? / Sandy likes to work in her garden.</span>",
       "options": {
         "choices": [
-          "When is the party?",
-          "Sandy likes to work in her garden."
+          {
+            "id": "c1",
+            "text": "When is the party?"
+          },
+          {
+            "id": "c2",
+            "text": "Sandy likes to work in her garden."
+          }
         ]
       },
-      "correct_answer": "Sandy likes to work in her garden.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It logs baseline personal hobby preferences.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Where is my phone? / The phone is in my purse.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Where is my phone? / The phone is in my purse.</span>",
       "options": {
         "choices": [
-          "Where is my phone?",
-          "The phone is in my purse."
+          {
+            "id": "c1",
+            "text": "Where is my phone?"
+          },
+          {
+            "id": "c2",
+            "text": "The phone is in my purse."
+          }
         ]
       },
-      "correct_answer": "The phone is in my purse.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It coordinates object location boundaries.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The wallet is in my purse. / Where is my wallet?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The wallet is in my purse. / Where is my wallet?</span>",
       "options": {
         "choices": [
-          "The wallet is in my purse.",
-          "Where is my wallet?"
+          {
+            "id": "c1",
+            "text": "The wallet is in my purse."
+          },
+          {
+            "id": "c2",
+            "text": "Where is my wallet?"
+          }
         ]
       },
-      "correct_answer": "The wallet is in my purse.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It establishes precise component placement conditions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Where is my money? / I love chocolate.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Where is my money? / I love chocolate.</span>",
       "options": {
         "choices": [
-          "Where is my money?",
-          "I love chocolate."
+          {
+            "id": "c1",
+            "text": "Where is my money?"
+          },
+          {
+            "id": "c2",
+            "text": "I love chocolate."
+          }
         ]
       },
-      "correct_answer": "I love chocolate.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It notes flavor affinity choices cleanly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>I love ice coffee. / Do you like ice coffee?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>I love ice coffee. / Do you like ice coffee?</span>",
       "options": {
         "choices": [
-          "I love ice coffee.",
-          "Do you like ice coffee?"
+          {
+            "id": "c1",
+            "text": "I love ice coffee."
+          },
+          {
+            "id": "c2",
+            "text": "Do you like ice coffee?"
+          }
         ]
       },
-      "correct_answer": "I love ice coffee.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It updates dynamic dietary choice logs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is the name of his new baby? / The sun is shining.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What is the name of his new baby? / The sun is shining.</span>",
       "options": {
         "choices": [
-          "What is the name of his new baby?",
-          "The sun is shining."
+          {
+            "id": "c1",
+            "text": "What is the name of his new baby?"
+          },
+          {
+            "id": "c2",
+            "text": "The sun is shining."
+          }
         ]
       },
-      "correct_answer": "The sun is shining.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It registers contextual weather observations directly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The sun is yellow. / What is the name of her new baby?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The sun is yellow. / What is the name of her new baby?</span>",
       "options": {
         "choices": [
-          "The sun is yellow.",
-          "What is the name of her new baby?"
+          {
+            "id": "c1",
+            "text": "The sun is yellow."
+          },
+          {
+            "id": "c2",
+            "text": "What is the name of her new baby?"
+          }
         ]
       },
-      "correct_answer": "The sun is yellow.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It asserts baseline astronomical properties.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>I have a red pen / Do you have a red pen?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>I have a red pen / Do you have a red pen?</span>",
       "options": {
         "choices": [
-          "I have a red pen",
-          "Do you have a red pen?"
+          {
+            "id": "c1",
+            "text": "I have a red pen"
+          },
+          {
+            "id": "c2",
+            "text": "Do you have a red pen?"
+          }
         ]
       },
-      "correct_answer": "I have a red pen",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It handles asset tracking updates.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you like Pizza? / I have a red car.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you like Pizza? / I have a red car.</span>",
       "options": {
         "choices": [
-          "Do you like Pizza?",
-          "I have a red car."
+          {
+            "id": "c1",
+            "text": "Do you like Pizza?"
+          },
+          {
+            "id": "c2",
+            "text": "I have a red car."
+          }
         ]
       },
-      "correct_answer": "I have a red car.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It inventories physical fleet configurations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>I have a red card. / Do you think it is ok?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>I have a red card. / Do you think it is ok?</span>",
       "options": {
         "choices": [
-          "I have a red card.",
-          "Do you think it is ok?"
+          {
+            "id": "c1",
+            "text": "I have a red card."
+          },
+          {
+            "id": "c2",
+            "text": "Do you think it is ok?"
+          }
         ]
       },
-      "correct_answer": "I have a red card.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It checks inventory card indicators directly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you have a red car? / I have one cat.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you have a red car? / I have one cat.</span>",
       "options": {
         "choices": [
-          "Do you have a red car?",
-          "I have one cat."
+          {
+            "id": "c1",
+            "text": "Do you have a red car?"
+          },
+          {
+            "id": "c2",
+            "text": "I have one cat."
+          }
         ]
       },
-      "correct_answer": "I have one cat.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It tracks domestic animal numbers cleanly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you have a red car? / I have two cats.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you have a red car? / I have two cats.</span>",
       "options": {
         "choices": [
-          "Do you have a red car?",
-          "I have two cats."
+          {
+            "id": "c1",
+            "text": "Do you have a red car?"
+          },
+          {
+            "id": "c2",
+            "text": "I have two cats."
+          }
         ]
       },
-      "correct_answer": "I have two cats.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It logs livestock or pet asset indexes accurately.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>My cat is so fluffy. / Do you have a bigger picture?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>My cat is so fluffy. / Do you have a bigger picture?</span>",
       "options": {
         "choices": [
-          "My cat is so fluffy.",
-          "Do you have a bigger picture?"
+          {
+            "id": "c1",
+            "text": "My cat is so fluffy."
+          },
+          {
+            "id": "c2",
+            "text": "Do you have a bigger picture?"
+          }
         ]
       },
-      "correct_answer": "My cat is so fluffy.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It tracks baseline visual properties via a period.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>My bird is colorful. / What is your favorite animal?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>My bird is colorful. / What is your favorite animal?</span>",
       "options": {
         "choices": [
-          "My bird is colorful.",
-          "What is your favorite animal?"
+          {
+            "id": "c1",
+            "text": "My bird is colorful."
+          },
+          {
+            "id": "c2",
+            "text": "What is your favorite animal?"
+          }
         ]
       },
-      "correct_answer": "My bird is colorful.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It reports visual animal configuration values.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you like to play Tennis? / I like Tennis.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you like to play Tennis? / I like Tennis.</span>",
       "options": {
         "choices": [
-          "Do you like to play Tennis?",
-          "I like Tennis."
+          {
+            "id": "c1",
+            "text": "Do you like to play Tennis?"
+          },
+          {
+            "id": "c2",
+            "text": "I like Tennis."
+          }
         ]
       },
-      "correct_answer": "I like Tennis.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It saves sporting validation options safely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>I like to fly kites. / Is Football great?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>I like to fly kites. / Is Football great?</span>",
       "options": {
         "choices": [
-          "I like to fly kites.",
-          "Is Football great?"
+          {
+            "id": "c1",
+            "text": "I like to fly kites."
+          },
+          {
+            "id": "c2",
+            "text": "Is Football great?"
+          }
         ]
       },
-      "correct_answer": "I like to fly kites.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It registers hobby profiles without question marks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Is the train coming? / We are in the park.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Is the train coming? / We are in the park.</span>",
       "options": {
         "choices": [
-          "Is the train coming?",
-          "We are in the park."
+          {
+            "id": "c1",
+            "text": "Is the train coming?"
+          },
+          {
+            "id": "c2",
+            "text": "We are in the park."
+          }
         ]
       },
-      "correct_answer": "We are in the park.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It sets position logs using a flat informative sentence.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>He is my friend. / Do you think he is my brother?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>He is my friend. / Do you think he is my brother?</span>",
       "options": {
         "choices": [
-          "He is my friend.",
-          "Do you think he is my brother?"
+          {
+            "id": "c1",
+            "text": "He is my friend."
+          },
+          {
+            "id": "c2",
+            "text": "Do you think he is my brother?"
+          }
         ]
       },
-      "correct_answer": "He is my friend.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It declares relationship status variables directly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>We are in the restaurant. / Did you go to that restaurant?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>We are in the restaurant. / Did you go to that restaurant?</span>",
       "options": {
         "choices": [
-          "We are in the restaurant.",
-          "Did you go to that restaurant?"
+          {
+            "id": "c1",
+            "text": "We are in the restaurant."
+          },
+          {
+            "id": "c2",
+            "text": "Did you go to that restaurant?"
+          }
         ]
       },
-      "correct_answer": "We are in the restaurant.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It details geometric user positions dynamically.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>It is raining. / What is your address again?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>It is raining. / What is your address again?</span>",
       "options": {
         "choices": [
-          "It is raining.",
-          "What is your address again?"
+          {
+            "id": "c1",
+            "text": "It is raining."
+          },
+          {
+            "id": "c2",
+            "text": "What is your address again?"
+          }
         ]
       },
-      "correct_answer": "It is raining.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It logs baseline weather metrics cleanly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>What do you want to do? / It is raining.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>What do you want to do? / It is raining.</span>",
       "options": {
         "choices": [
-          "What do you want to do?",
-          "It is raining."
+          {
+            "id": "c1",
+            "text": "What do you want to do?"
+          },
+          {
+            "id": "c2",
+            "text": "It is raining."
+          }
         ]
       },
-      "correct_answer": "It is raining.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It details continuous natural climate situations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The grass is green. / What color is the grass?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The grass is green. / What color is the grass?</span>",
       "options": {
         "choices": [
-          "The grass is green.",
-          "What color is the grass?"
+          {
+            "id": "c1",
+            "text": "The grass is green."
+          },
+          {
+            "id": "c2",
+            "text": "What color is the grass?"
+          }
         ]
       },
-      "correct_answer": "The grass is green.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It inventories physical surface properties.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>I am happy. / Are you happy?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>I am happy. / Are you happy?</span>",
       "options": {
         "choices": [
-          "I am happy.",
-          "Are you happy?"
+          {
+            "id": "c1",
+            "text": "I am happy."
+          },
+          {
+            "id": "c2",
+            "text": "Are you happy?"
+          }
         ]
       },
-      "correct_answer": "I am happy.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It records immediate personal emotion flags.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Are you sad? / I am sad.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Are you sad? / I am sad.</span>",
       "options": {
         "choices": [
-          "Are you sad?",
-          "I am sad."
+          {
+            "id": "c1",
+            "text": "Are you sad?"
+          },
+          {
+            "id": "c2",
+            "text": "I am sad."
+          }
         ]
       },
-      "correct_answer": "I am sad.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It processes current personal framework conditions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>She is singing. / Are you sitting?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>She is singing. / Are you sitting?</span>",
       "options": {
         "choices": [
-          "She is singing.",
-          "Are you sitting?"
+          {
+            "id": "c1",
+            "text": "She is singing."
+          },
+          {
+            "id": "c2",
+            "text": "Are you sitting?"
+          }
         ]
       },
-      "correct_answer": "She is singing.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It displays functional musical tracking parameters.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Can you explain why you are late? / We are eating lunch.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Can you explain why you are late? / We are eating lunch.</span>",
       "options": {
         "choices": [
-          "Can you explain why you are late?",
-          "We are eating lunch."
+          {
+            "id": "c1",
+            "text": "Can you explain why you are late?"
+          },
+          {
+            "id": "c2",
+            "text": "We are eating lunch."
+          }
         ]
       },
-      "correct_answer": "We are eating lunch.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It shares information regarding structural group routines.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The flowers are pretty. / Do you like flowers?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The flowers are pretty. / Do you like flowers?</span>",
       "options": {
         "choices": [
-          "The flowers are pretty.",
-          "Do you like flowers?"
+          {
+            "id": "c1",
+            "text": "The flowers are pretty."
+          },
+          {
+            "id": "c2",
+            "text": "Do you like flowers?"
+          }
         ]
       },
-      "correct_answer": "The flowers are pretty.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It documents descriptive features ending with a period.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Is the water cold? / The water is cold.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Is the water cold? / The water is cold.</span>",
       "options": {
         "choices": [
-          "Is the water cold?",
-          "The water is cold."
+          {
+            "id": "c1",
+            "text": "Is the water cold?"
+          },
+          {
+            "id": "c2",
+            "text": "The water is cold."
+          }
         ]
       },
-      "correct_answer": "The water is cold.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It documents temperature environmental constants.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The baby is born. / Where was the baby born?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The baby is born. / Where was the baby born?</span>",
       "options": {
         "choices": [
-          "The baby is born.",
-          "Where was the baby born?"
+          {
+            "id": "c1",
+            "text": "The baby is born."
+          },
+          {
+            "id": "c2",
+            "text": "Where was the baby born?"
+          }
         ]
       },
-      "correct_answer": "The baby is born.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It processes biographical milestone entries cleanly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>She is teacher. / Is the teacher responsible?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>She is teacher. / Is the teacher responsible?</span>",
       "options": {
         "choices": [
-          "She is teacher.",
-          "Is the teacher responsible?"
+          {
+            "id": "c1",
+            "text": "She is teacher."
+          },
+          {
+            "id": "c2",
+            "text": "Is the teacher responsible?"
+          }
         ]
       },
-      "correct_answer": "She is teacher.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It catalogs occupational parameter fields.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>We have homework. / Do we have homework?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>We have homework. / Do we have homework?</span>",
       "options": {
         "choices": [
-          "We have homework.",
-          "Do we have homework?"
+          {
+            "id": "c1",
+            "text": "We have homework."
+          },
+          {
+            "id": "c2",
+            "text": "Do we have homework?"
+          }
         ]
       },
-      "correct_answer": "We have homework.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It verifies structural academic data configurations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you like small bags? / The bag is heavy.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you like small bags? / The bag is heavy.</span>",
       "options": {
         "choices": [
-          "Do you like small bags?",
-          "The bag is heavy."
+          {
+            "id": "c1",
+            "text": "Do you like small bags?"
+          },
+          {
+            "id": "c2",
+            "text": "The bag is heavy."
+          }
         ]
       },
-      "correct_answer": "The bag is heavy.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It assesses structural load limits on hardware profiles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Is the road long? / The road is long.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Is the road long? / The road is long.</span>",
       "options": {
         "choices": [
-          "Is the road long?",
-          "The road is long."
+          {
+            "id": "c1",
+            "text": "Is the road long?"
+          },
+          {
+            "id": "c2",
+            "text": "The road is long."
+          }
         ]
       },
-      "correct_answer": "The road is long.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It reports geographic transport dimensions clearly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>I am learning English. / Do you like the idea?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>I am learning English. / Do you like the idea?</span>",
       "options": {
         "choices": [
-          "I am learning English.",
-          "Do you like the idea?"
+          {
+            "id": "c1",
+            "text": "I am learning English."
+          },
+          {
+            "id": "c2",
+            "text": "Do you like the idea?"
+          }
         ]
       },
-      "correct_answer": "I am learning English.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It tracks academic training updates dynamically.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you want to ask the teacher? / I am learning French.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you want to ask the teacher? / I am learning French.</span>",
       "options": {
         "choices": [
-          "Do you want to ask the teacher?",
-          "I am learning French."
+          {
+            "id": "c1",
+            "text": "Do you want to ask the teacher?"
+          },
+          {
+            "id": "c2",
+            "text": "I am learning French."
+          }
         ]
       },
-      "correct_answer": "I am learning French.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It tracks dynamic instructional lesson logs safely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>He drinks coffee. / Where did you buy the coffee?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>He drinks coffee. / Where did you buy the coffee?</span>",
       "options": {
         "choices": [
-          "He drinks coffee.",
-          "Where did you buy the coffee?"
+          {
+            "id": "c1",
+            "text": "He drinks coffee."
+          },
+          {
+            "id": "c2",
+            "text": "Where did you buy the coffee?"
+          }
         ]
       },
-      "correct_answer": "He drinks coffee.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It reports regular consumption routines with a period.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>I see the rainbow. / Did you see the text?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>I see the rainbow. / Did you see the text?</span>",
       "options": {
         "choices": [
-          "I see the rainbow.",
-          "Did you see the text?"
+          {
+            "id": "c1",
+            "text": "I see the rainbow."
+          },
+          {
+            "id": "c2",
+            "text": "Did you see the text?"
+          }
         ]
       },
-      "correct_answer": "I see the rainbow.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It monitors user environmental observation flags.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Did you ask yourself why? / I see the rainbow.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Did you ask yourself why? / I see the rainbow.</span>",
       "options": {
         "choices": [
-          "Did you ask yourself why?",
-          "I see the rainbow."
+          {
+            "id": "c1",
+            "text": "Did you ask yourself why?"
+          },
+          {
+            "id": "c2",
+            "text": "I see the rainbow."
+          }
         ]
       },
-      "correct_answer": "I see the rainbow.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It details visible atmospheric conditions safely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The moon is bright. / Did you see the game?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The moon is bright. / Did you see the game?</span>",
       "options": {
         "choices": [
-          "The moon is bright.",
-          "Did you see the game?"
+          {
+            "id": "c1",
+            "text": "The moon is bright."
+          },
+          {
+            "id": "c2",
+            "text": "Did you see the game?"
+          }
         ]
       },
-      "correct_answer": "The moon is bright.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It registers night ambient brightness attributes directly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>How are you? / I wear a hat.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>How are you? / I wear a hat.</span>",
       "options": {
         "choices": [
-          "How are you?",
-          "I wear a hat."
+          {
+            "id": "c1",
+            "text": "How are you?"
+          },
+          {
+            "id": "c2",
+            "text": "I wear a hat."
+          }
         ]
       },
-      "correct_answer": "I wear a hat.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It supplies personal apparel deployment metadata.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>I wear a mask on my face. / Did you cook dinner?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>I wear a mask on my face. / Did you cook dinner?</span>",
       "options": {
         "choices": [
-          "I wear a mask on my face.",
-          "Did you cook dinner?"
+          {
+            "id": "c1",
+            "text": "I wear a mask on my face."
+          },
+          {
+            "id": "c2",
+            "text": "Did you cook dinner?"
+          }
         ]
       },
-      "correct_answer": "I wear a mask on my face.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It captures structural clothing safety status metrics.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The shop is open. / Is the shop open?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The shop is open. / Is the shop open?</span>",
       "options": {
         "choices": [
-          "The shop is open.",
-          "Is the shop open?"
+          {
+            "id": "c1",
+            "text": "The shop is open."
+          },
+          {
+            "id": "c2",
+            "text": "Is the shop open?"
+          }
         ]
       },
-      "correct_answer": "The shop is open.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It establishes retail location functional parameters directly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Is the shop closed? / The shop is closed.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Is the shop closed? / The shop is closed.</span>",
       "options": {
         "choices": [
-          "Is the shop closed?",
-          "The shop is closed."
+          {
+            "id": "c1",
+            "text": "Is the shop closed?"
+          },
+          {
+            "id": "c2",
+            "text": "The shop is closed."
+          }
         ]
       },
-      "correct_answer": "The shop is closed.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It marks structural operational boundary parameters safely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>How are you? / I am fine.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>How are you? / I am fine.</span>",
       "options": {
         "choices": [
-          "How are you?",
-          "I am fine."
+          {
+            "id": "c1",
+            "text": "How are you?"
+          },
+          {
+            "id": "c2",
+            "text": "I am fine."
+          }
         ]
       },
-      "correct_answer": "I am fine.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It handles simple context tracking adjustments neatly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>She has two sisters. / Do you love me?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>She has two sisters. / Do you love me?</span>",
       "options": {
         "choices": [
-          "She has two sisters.",
-          "Do you love me?"
+          {
+            "id": "c1",
+            "text": "She has two sisters."
+          },
+          {
+            "id": "c2",
+            "text": "Do you love me?"
+          }
         ]
       },
-      "correct_answer": "She has two sisters.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It clarifies standard family entity associations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you love me? / She has three sisters.</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>Do you love me? / She has three sisters.</span>",
       "options": {
         "choices": [
-          "Do you love me?",
-          "She has three sisters."
+          {
+            "id": "c1",
+            "text": "Do you love me?"
+          },
+          {
+            "id": "c2",
+            "text": "She has three sisters."
+          }
         ]
       },
-      "correct_answer": "She has three sisters.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It supplies metric descriptions of a family structure.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The cake is sweet. / Do you like cakes?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The cake is sweet. / Do you like cakes?</span>",
       "options": {
         "choices": [
-          "The cake is sweet.",
-          "Do you like cakes?"
+          {
+            "id": "c1",
+            "text": "The cake is sweet."
+          },
+          {
+            "id": "c2",
+            "text": "Do you like cakes?"
+          }
         ]
       },
-      "correct_answer": "The cake is sweet.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It outlines product flavor attributes explicitly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>I am tired. / Are you tired?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>I am tired. / Are you tired?</span>",
       "options": {
         "choices": [
-          "I am tired.",
-          "Are you tired?"
+          {
+            "id": "c1",
+            "text": "I am tired."
+          },
+          {
+            "id": "c2",
+            "text": "Are you tired?"
+          }
         ]
       },
-      "correct_answer": "I am tired.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It displays continuous internal energy parameter levels.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>His shoes are new. / Did you buy shoes?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>His shoes are new. / Did you buy shoes?</span>",
       "options": {
         "choices": [
-          "His shoes are new.",
-          "Did you buy shoes?"
+          {
+            "id": "c1",
+            "text": "His shoes are new."
+          },
+          {
+            "id": "c2",
+            "text": "Did you buy shoes?"
+          }
         ]
       },
-      "correct_answer": "His shoes are new.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It monitors inventory status updates neatly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>She bought new clothes. / How did she leave the country?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>She bought new clothes. / How did she leave the country?</span>",
       "options": {
         "choices": [
-          "She bought new clothes.",
-          "How did she leave the country?"
+          {
+            "id": "c1",
+            "text": "She bought new clothes."
+          },
+          {
+            "id": "c2",
+            "text": "How did she leave the country?"
+          }
         ]
       },
-      "correct_answer": "She bought new clothes.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It records transaction event logs clearly via a period.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>He bought new shoes. / How old are?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>He bought new shoes. / How old are?</span>",
       "options": {
         "choices": [
-          "He bought new shoes.",
-          "How old are?"
+          {
+            "id": "c1",
+            "text": "He bought new shoes."
+          },
+          {
+            "id": "c2",
+            "text": "How old are?"
+          }
         ]
       },
-      "correct_answer": "He bought new shoes.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It reports standard commercial product changes directly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Which of the following is a statement?<br><span style='color:black'>The results were good. / Is she tall or short?</span>",
       "type": "mcq",
+      "prompt": "Which of the following is a statement?<br><span style='color:black'>The results were good. / Is she tall or short?</span>",
       "options": {
         "choices": [
-          "The results were good.",
-          "Is she tall or short?"
+          {
+            "id": "c1",
+            "text": "The results were good."
+          },
+          {
+            "id": "c2",
+            "text": "Is she tall or short?"
+          }
         ]
       },
-      "correct_answer": "The results were good.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It processes evaluation milestone outcomes cleanly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     }
   ]

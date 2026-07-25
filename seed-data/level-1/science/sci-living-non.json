@@ -1,1718 +1,2914 @@
 {
   "_source_file": "level1_sci_living&non.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "sci-living-non",
-    "title": "Living & Non Living Things",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.558Z",
+  "slug": "sci-living-non",
+  "title": "Living & Non Living Things",
+  "level": "level-1",
+  "subject": "science",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What do Living things use?",
       "type": "mcq",
+      "prompt": "What do Living things use?",
       "options": {
         "choices": [
-          "energy",
-          "crayons",
-          "pillows"
+          {
+            "id": "c1",
+            "text": "energy"
+          },
+          {
+            "id": "c2",
+            "text": "crayons"
+          },
+          {
+            "id": "c3",
+            "text": "pillows"
+          }
         ]
       },
-      "correct_answer": "energy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Living things use energy to move, grow, and perform daily functions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which of the following is an example of a living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is an example of a living thing?",
       "options": {
         "choices": [
-          "rabbit",
-          "clock",
-          "desk"
+          {
+            "id": "c1",
+            "text": "rabbit"
+          },
+          {
+            "id": "c2",
+            "text": "clock"
+          },
+          {
+            "id": "c3",
+            "text": "desk"
+          }
         ]
       },
-      "correct_answer": "rabbit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A rabbit is a living thing that breathes, grows, and moves by itself.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "What do Living things take in?",
       "type": "mcq",
+      "prompt": "What do Living things take in?",
       "options": {
         "choices": [
-          "air",
-          "pencils",
-          "toys"
+          {
+            "id": "c1",
+            "text": "air"
+          },
+          {
+            "id": "c2",
+            "text": "pencils"
+          },
+          {
+            "id": "c3",
+            "text": "toys"
+          }
         ]
       },
-      "correct_answer": "air",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Living things need to breathe air to stay alive.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which of the following is an example of a living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is an example of a living thing?",
       "options": {
         "choices": [
-          "tree",
-          "car",
-          "school"
+          {
+            "id": "c1",
+            "text": "tree"
+          },
+          {
+            "id": "c2",
+            "text": "car"
+          },
+          {
+            "id": "c3",
+            "text": "school"
+          }
         ]
       },
-      "correct_answer": "tree",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A tree is a living plant that grows, consumes nutrients, and responds to its environment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "How would you classify a robot?",
       "type": "mcq",
+      "prompt": "How would you classify a robot?",
       "options": {
         "choices": [
-          "a non-living thing",
-          "a living thing",
-          "an animal"
+          {
+            "id": "c1",
+            "text": "a non-living thing"
+          },
+          {
+            "id": "c2",
+            "text": "a living thing"
+          },
+          {
+            "id": "c3",
+            "text": "an animal"
+          }
         ]
       },
-      "correct_answer": "a non-living thing",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Even though robots can move, they are machines made by people and do not grow or breathe.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "What do living things feel?",
       "type": "mcq",
+      "prompt": "What do living things feel?",
       "options": {
         "choices": [
-          "hunger",
-          "plastic",
-          "carpet"
+          {
+            "id": "c1",
+            "text": "hunger"
+          },
+          {
+            "id": "c2",
+            "text": "plastic"
+          },
+          {
+            "id": "c3",
+            "text": "carpet"
+          }
         ]
       },
-      "correct_answer": "hunger",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Living organisms can sense internal body signals like hunger when they need food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "What do Living things need?",
       "type": "mcq",
+      "prompt": "What do Living things need?",
       "options": {
         "choices": [
-          "water",
-          "buttons",
-          "chalk"
+          {
+            "id": "c1",
+            "text": "water"
+          },
+          {
+            "id": "c2",
+            "text": "buttons"
+          },
+          {
+            "id": "c3",
+            "text": "chalk"
+          }
         ]
       },
-      "correct_answer": "water",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Water is vital for living things to hydrate and survive.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "How would you classify a bird?",
       "type": "mcq",
+      "prompt": "How would you classify a bird?",
       "options": {
         "choices": [
-          "non-living",
-          "living thing",
-          "a machine"
+          {
+            "id": "c1",
+            "text": "non-living"
+          },
+          {
+            "id": "c2",
+            "text": "living thing"
+          },
+          {
+            "id": "c3",
+            "text": "a machine"
+          }
         ]
       },
-      "correct_answer": "living thing",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A bird is a living animal that flies, breathes, and lays eggs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which of the following is a living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is a living thing?",
       "options": {
         "choices": [
-          "clouds",
-          "dogs",
-          "cars"
+          {
+            "id": "c1",
+            "text": "clouds"
+          },
+          {
+            "id": "c2",
+            "text": "dogs"
+          },
+          {
+            "id": "c3",
+            "text": "cars"
+          }
         ]
       },
-      "correct_answer": "dogs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dogs are living animals that grow up, eat food, and run.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Which of the following is a non living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is a non living thing?",
       "options": {
         "choices": [
-          "bird",
-          "cat",
-          "Pen"
+          {
+            "id": "c1",
+            "text": "bird"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "Pen"
+          }
         ]
       },
-      "correct_answer": "Pen",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A pen is an object that cannot breathe, eat, or grow.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "What do plants need?",
       "type": "mcq",
+      "prompt": "What do plants need?",
       "options": {
         "choices": [
-          "light",
-          "toys",
-          "pillows"
+          {
+            "id": "c1",
+            "text": "light"
+          },
+          {
+            "id": "c2",
+            "text": "toys"
+          },
+          {
+            "id": "c3",
+            "text": "pillows"
+          }
         ]
       },
-      "correct_answer": "light",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Plants require sunlight to make their own food through photosynthesis.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "What is a living thing?",
       "type": "mcq",
+      "prompt": "What is a living thing?",
       "options": {
         "choices": [
-          "something that grows and needs food",
-          "something made of metal",
-          "something that stays the same forever"
+          {
+            "id": "c1",
+            "text": "something that grows and needs food"
+          },
+          {
+            "id": "c2",
+            "text": "something made of metal"
+          },
+          {
+            "id": "c3",
+            "text": "something that stays the same forever"
+          }
         ]
       },
-      "correct_answer": "something that grows and needs food",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Living things have life cycles, grow larger, and require nourishment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "What is a non-living thing?",
       "type": "mcq",
+      "prompt": "What is a non-living thing?",
       "options": {
         "choices": [
-          "something that can breathe",
-          "something that does not grow",
-          "something that can have babies"
+          {
+            "id": "c1",
+            "text": "something that can breathe"
+          },
+          {
+            "id": "c2",
+            "text": "something that does not grow"
+          },
+          {
+            "id": "c3",
+            "text": "something that can have babies"
+          }
         ]
       },
-      "correct_answer": "something that does not grow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Non-living things stay mechanical or inanimate and do not naturally develop or grow.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Which of the following is a living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is a living thing?",
       "options": {
         "choices": [
-          "pencil",
-          "dog",
-          "cup"
+          {
+            "id": "c1",
+            "text": "pencil"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "cup"
+          }
         ]
       },
-      "correct_answer": "dog",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dogs are biological organisms that are fully alive.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Which of the following is a non-living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is a non-living thing?",
       "options": {
         "choices": [
-          "flower",
-          "cat",
-          "rock"
+          {
+            "id": "c1",
+            "text": "flower"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "rock"
+          }
         ]
       },
-      "correct_answer": "rock",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A rock is a natural mineral object that has no life functions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "What do living things need to stay alive?",
       "type": "mcq",
+      "prompt": "What do living things need to stay alive?",
       "options": {
         "choices": [
-          "food and water",
-          "crayons",
-          "pillows"
+          {
+            "id": "c1",
+            "text": "food and water"
+          },
+          {
+            "id": "c2",
+            "text": "crayons"
+          },
+          {
+            "id": "c3",
+            "text": "pillows"
+          }
         ]
       },
-      "correct_answer": "food and water",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Nourishment from food and hydration from water sustain organic life.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Which living thing can grow?",
       "type": "mcq",
+      "prompt": "Which living thing can grow?",
       "options": {
         "choices": [
-          "tree",
-          "clock",
-          "chair"
+          {
+            "id": "c1",
+            "text": "tree"
+          },
+          {
+            "id": "c2",
+            "text": "clock"
+          },
+          {
+            "id": "c3",
+            "text": "chair"
+          }
         ]
       },
-      "correct_answer": "tree",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Trees start as saplings and grow into giant structures over time.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "What do living things do?",
       "type": "mcq",
+      "prompt": "What do living things do?",
       "options": {
         "choices": [
-          "move by themselves",
-          "stay still forever",
-          "glow in the dark"
+          {
+            "id": "c1",
+            "text": "move by themselves"
+          },
+          {
+            "id": "c2",
+            "text": "stay still forever"
+          },
+          {
+            "id": "c3",
+            "text": "glow in the dark"
+          }
         ]
       },
-      "correct_answer": "move by themselves",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Animals can walk, run, or swim to move independently from place to place.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "What do non-living things never do?",
       "type": "mcq",
+      "prompt": "What do non-living things never do?",
       "options": {
         "choices": [
-          "breathe",
-          "break",
-          "shine"
+          {
+            "id": "c1",
+            "text": "breathe"
+          },
+          {
+            "id": "c2",
+            "text": "break"
+          },
+          {
+            "id": "c3",
+            "text": "shine"
+          }
         ]
       },
-      "correct_answer": "breathe",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Non-living items like tools or toys lack lungs or respiratory pathways to breathe.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Which of the following is a living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is a living thing?",
       "options": {
         "choices": [
-          "fish",
-          "paper",
-          "bottle"
+          {
+            "id": "c1",
+            "text": "fish"
+          },
+          {
+            "id": "c2",
+            "text": "paper"
+          },
+          {
+            "id": "c3",
+            "text": "bottle"
+          }
         ]
       },
-      "correct_answer": "fish",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A fish is an animal that breathes underwater and swims dynamically.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Which of the following is a non-living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is a non-living thing?",
       "options": {
         "choices": [
-          "rabbit",
-          "stone",
-          "bird"
+          {
+            "id": "c1",
+            "text": "rabbit"
+          },
+          {
+            "id": "c2",
+            "text": "stone"
+          },
+          {
+            "id": "c3",
+            "text": "bird"
+          }
         ]
       },
-      "correct_answer": "stone",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A stone is inanimate, does not reproduce, and does not consume nutrients.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which living thing can move?",
       "type": "mcq",
+      "prompt": "Which living thing can move?",
       "options": {
         "choices": [
-          "table",
-          "lamp",
-          "horse"
+          {
+            "id": "c1",
+            "text": "table"
+          },
+          {
+            "id": "c2",
+            "text": "lamp"
+          },
+          {
+            "id": "c3",
+            "text": "horse"
+          }
         ]
       },
-      "correct_answer": "horse",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Horses are living creatures that travel using their legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which non-living thing can roll?",
       "type": "mcq",
+      "prompt": "Which non-living thing can roll?",
       "options": {
         "choices": [
-          "spider",
-          "ball",
-          "bird"
+          {
+            "id": "c1",
+            "text": "spider"
+          },
+          {
+            "id": "c2",
+            "text": "ball"
+          },
+          {
+            "id": "c3",
+            "text": "bird"
+          }
         ]
       },
-      "correct_answer": "ball",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A ball is a non-living physical sphere built specifically to roll when pushed.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "What do living things respond to?",
       "type": "mcq",
+      "prompt": "What do living things respond to?",
       "options": {
         "choices": [
-          "light and sound",
-          "crayons and glue",
-          "cardboard"
+          {
+            "id": "c1",
+            "text": "light and sound"
+          },
+          {
+            "id": "c2",
+            "text": "crayons and glue"
+          },
+          {
+            "id": "c3",
+            "text": "cardboard"
+          }
         ]
       },
-      "correct_answer": "light and sound",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Living organisms change behavior based on external stimuli like bright light or loud sounds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Which living thing can breathe?",
       "type": "mcq",
+      "prompt": "Which living thing can breathe?",
       "options": {
         "choices": [
-          "cloud",
-          "dog",
-          "book"
+          {
+            "id": "c1",
+            "text": "cloud"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "book"
+          }
         ]
       },
-      "correct_answer": "dog",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dogs breathe in oxygen to support their biological systems.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which living thing needs sunlight?",
       "type": "mcq",
+      "prompt": "Which living thing needs sunlight?",
       "options": {
         "choices": [
-          "plant",
-          "blanket",
-          "chair"
+          {
+            "id": "c1",
+            "text": "plant"
+          },
+          {
+            "id": "c2",
+            "text": "blanket"
+          },
+          {
+            "id": "c3",
+            "text": "chair"
+          }
         ]
       },
-      "correct_answer": "plant",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Plants harvest sunlight to generate biochemical sugars to survive.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "What can living things do over time?",
       "type": "mcq",
+      "prompt": "What can living things do over time?",
       "options": {
         "choices": [
-          "grow",
-          "turn into plastic",
-          "become metal"
+          {
+            "id": "c1",
+            "text": "grow"
+          },
+          {
+            "id": "c2",
+            "text": "turn into plastic"
+          },
+          {
+            "id": "c3",
+            "text": "become metal"
+          }
         ]
       },
-      "correct_answer": "grow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Organisms consume resources to scale up in size and grow.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which of the following is a living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is a living thing?",
       "options": {
         "choices": [
-          "bird",
-          "shoe",
-          "spoon"
+          {
+            "id": "c1",
+            "text": "bird"
+          },
+          {
+            "id": "c2",
+            "text": "shoe"
+          },
+          {
+            "id": "c3",
+            "text": "spoon"
+          }
         ]
       },
-      "correct_answer": "bird",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Birds are biological avian creatures that possess life.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which of the following is a non-living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is a non-living thing?",
       "options": {
         "choices": [
-          "kitten",
-          "mouse",
-          "table"
+          {
+            "id": "c1",
+            "text": "kitten"
+          },
+          {
+            "id": "c2",
+            "text": "mouse"
+          },
+          {
+            "id": "c3",
+            "text": "table"
+          }
         ]
       },
-      "correct_answer": "table",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A wooden or plastic table is furniture created by humans and is non-living.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "What do living things use for energy?",
       "type": "mcq",
+      "prompt": "What do living things use for energy?",
       "options": {
         "choices": [
-          "door",
-          "paper",
-          "food"
+          {
+            "id": "c1",
+            "text": "door"
+          },
+          {
+            "id": "c2",
+            "text": "paper"
+          },
+          {
+            "id": "c3",
+            "text": "food"
+          }
         ]
       },
-      "correct_answer": "food",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Metabolic processes break down food items into pure energy for the body.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which of the following living thing can feel?",
       "type": "mcq",
+      "prompt": "Which of the following living thing can feel?",
       "options": {
         "choices": [
-          "boy",
-          "balloon",
-          "marker"
+          {
+            "id": "c1",
+            "text": "boy"
+          },
+          {
+            "id": "c2",
+            "text": "balloon"
+          },
+          {
+            "id": "c3",
+            "text": "marker"
+          }
         ]
       },
-      "correct_answer": "boy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A human boy has sensory nerves to feel touch, pain, warmth, and cold.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which non-living thing has no feelings?",
       "type": "mcq",
+      "prompt": "Which non-living thing has no feelings?",
       "options": {
         "choices": [
-          "door",
-          "dog",
-          "cat"
+          {
+            "id": "c1",
+            "text": "door"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "cat"
+          }
         ]
       },
-      "correct_answer": "door",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A wooden door has no neurological structures to experience feelings or sensations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "What does a living thing need to stay healthy?",
       "type": "mcq",
+      "prompt": "What does a living thing need to stay healthy?",
       "options": {
         "choices": [
-          "water",
-          "glitter",
-          "tape"
+          {
+            "id": "c1",
+            "text": "water"
+          },
+          {
+            "id": "c2",
+            "text": "glitter"
+          },
+          {
+            "id": "c3",
+            "text": "tape"
+          }
         ]
       },
-      "correct_answer": "water",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Water keeps internal systems clean and operating smoothly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which living thing can be a pet?",
       "type": "mcq",
+      "prompt": "Which living thing can be a pet?",
       "options": {
         "choices": [
-          "dog",
-          "backpack",
-          "eraser"
+          {
+            "id": "c1",
+            "text": "dog"
+          },
+          {
+            "id": "c2",
+            "text": "backpack"
+          },
+          {
+            "id": "c3",
+            "text": "eraser"
+          }
         ]
       },
-      "correct_answer": "dog",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dogs can form domestic social bonds with humans to become beloved pets.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Which non-living thing can you wear?",
       "type": "mcq",
+      "prompt": "Which non-living thing can you wear?",
       "options": {
         "choices": [
-          "shirt",
-          "kitten",
-          "bird"
+          {
+            "id": "c1",
+            "text": "shirt"
+          },
+          {
+            "id": "c2",
+            "text": "kitten"
+          },
+          {
+            "id": "c3",
+            "text": "bird"
+          }
         ]
       },
-      "correct_answer": "shirt",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A shirt is fabricated from fabric materials so humans can wear it safely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "What do living things need to breathe?",
       "type": "mcq",
+      "prompt": "What do living things need to breathe?",
       "options": {
         "choices": [
-          "perfume",
-          "stickers",
-          "air"
+          {
+            "id": "c1",
+            "text": "perfume"
+          },
+          {
+            "id": "c2",
+            "text": "stickers"
+          },
+          {
+            "id": "c3",
+            "text": "air"
+          }
         ]
       },
-      "correct_answer": "air",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The atmospheric oxygen mixed inside clean air keeps living cells functional.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which living thing can make a sound?",
       "type": "mcq",
+      "prompt": "Which living thing can make a sound?",
       "options": {
         "choices": [
-          "cow",
-          "shoe",
-          "cup"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "shoe"
+          },
+          {
+            "id": "c3",
+            "text": "cup"
+          }
         ]
       },
-      "correct_answer": "cow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cows have vocal tracts to produce loud moo sounds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which of the following is a living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is a living thing?",
       "options": {
         "choices": [
-          "plant",
-          "brick",
-          "backpack"
+          {
+            "id": "c1",
+            "text": "plant"
+          },
+          {
+            "id": "c2",
+            "text": "brick"
+          },
+          {
+            "id": "c3",
+            "text": "backpack"
+          }
         ]
       },
-      "correct_answer": "plant",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Plants breathe, drink fluids, and produce fruit or flowers, making them alive.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which of the following is a non-living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is a non-living thing?",
       "options": {
         "choices": [
-          "leaf",
-          "frog",
-          "pencil"
+          {
+            "id": "c1",
+            "text": "leaf"
+          },
+          {
+            "id": "c2",
+            "text": "frog"
+          },
+          {
+            "id": "c3",
+            "text": "pencil"
+          }
         ]
       },
-      "correct_answer": "pencil",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A writing pencil is constructed from wood and graphite, making it an inanimate object.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "What do living things do when they are hungry?",
       "type": "mcq",
+      "prompt": "What do living things do when they are hungry?",
       "options": {
         "choices": [
-          "die",
-          "eat",
-          "turn into robots"
+          {
+            "id": "c1",
+            "text": "die"
+          },
+          {
+            "id": "c2",
+            "text": "eat"
+          },
+          {
+            "id": "c3",
+            "text": "turn into robots"
+          }
         ]
       },
-      "correct_answer": "eat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Eating fulfills food cravings and supplies essential nutrients back into the body.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which living thing grows from a seed?",
       "type": "mcq",
+      "prompt": "Which living thing grows from a seed?",
       "options": {
         "choices": [
-          "door",
-          "pillow",
-          "plant"
+          {
+            "id": "c1",
+            "text": "door"
+          },
+          {
+            "id": "c2",
+            "text": "pillow"
+          },
+          {
+            "id": "c3",
+            "text": "plant"
+          }
         ]
       },
-      "correct_answer": "plant",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Seeds germinate in moist soil to grow out green plants.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which non-living thing comes from a factory?",
       "type": "mcq",
+      "prompt": "Which non-living thing comes from a factory?",
       "options": {
         "choices": [
-          "seed",
-          "flower",
-          "chair"
+          {
+            "id": "c1",
+            "text": "seed"
+          },
+          {
+            "id": "c2",
+            "text": "flower"
+          },
+          {
+            "id": "c3",
+            "text": "chair"
+          }
         ]
       },
-      "correct_answer": "chair",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Industrial manufacturing plants build items like furniture and plastic chairs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "What do living things need to grow?",
       "type": "mcq",
+      "prompt": "What do living things need to grow?",
       "options": {
         "choices": [
-          "food and water",
-          "glue and tape",
-          "paint"
+          {
+            "id": "c1",
+            "text": "food and water"
+          },
+          {
+            "id": "c2",
+            "text": "glue and tape"
+          },
+          {
+            "id": "c3",
+            "text": "paint"
+          }
         ]
       },
-      "correct_answer": "food and water",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Biological growth requires an active, routine intake of basic nourishment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which living thing grows from small to big?",
       "type": "mcq",
+      "prompt": "Which living thing grows from small to big?",
       "options": {
         "choices": [
-          "puppy",
-          "shoe",
-          "sock"
+          {
+            "id": "c1",
+            "text": "puppy"
+          },
+          {
+            "id": "c2",
+            "text": "shoe"
+          },
+          {
+            "id": "c3",
+            "text": "sock"
+          }
         ]
       },
-      "correct_answer": "puppy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A young puppy matures and grows physically into an adult dog.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which non-living thing stays the same size?",
       "type": "mcq",
+      "prompt": "Which non-living thing stays the same size?",
       "options": {
         "choices": [
-          "kitten",
-          "cup",
-          "tree"
+          {
+            "id": "c1",
+            "text": "kitten"
+          },
+          {
+            "id": "c2",
+            "text": "cup"
+          },
+          {
+            "id": "c3",
+            "text": "tree"
+          }
         ]
       },
-      "correct_answer": "cup",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Manufactured cups remain the same physical size throughout their lifetime.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Why is a cat a living thing?",
       "type": "mcq",
+      "prompt": "Why is a cat a living thing?",
       "options": {
         "choices": [
-          "because it can grow",
-          "because it is made of plastic",
-          "because it stays the same forever"
+          {
+            "id": "c1",
+            "text": "because it can grow"
+          },
+          {
+            "id": "c2",
+            "text": "because it is made of plastic"
+          },
+          {
+            "id": "c3",
+            "text": "because it stays the same forever"
+          }
         ]
       },
-      "correct_answer": "because it can grow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cats fulfill biological life parameters by growing, feeding, and reproducing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Why is a toy car non-living?",
       "type": "mcq",
+      "prompt": "Why is a toy car non-living?",
       "options": {
         "choices": [
-          "it needs food",
-          "it cannot move by itself",
-          "it can breathe"
+          {
+            "id": "c1",
+            "text": "it needs food"
+          },
+          {
+            "id": "c2",
+            "text": "it cannot move by itself"
+          },
+          {
+            "id": "c3",
+            "text": "it can breathe"
+          }
         ]
       },
-      "correct_answer": "it cannot move by itself",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A toy car has no independent muscles or willpower and stays put unless pushed.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which of the following is a living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is a living thing?",
       "options": {
         "choices": [
-          "snail",
-          "spoon",
-          "sock"
+          {
+            "id": "c1",
+            "text": "snail"
+          },
+          {
+            "id": "c2",
+            "text": "spoon"
+          },
+          {
+            "id": "c3",
+            "text": "sock"
+          }
         ]
       },
-      "correct_answer": "snail",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A snail is a living mollusk that crawls slowly along garden landscapes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which of the following is a non-living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is a non-living thing?",
       "options": {
         "choices": [
-          "puppy",
-          "tree",
-          "ruler"
+          {
+            "id": "c1",
+            "text": "puppy"
+          },
+          {
+            "id": "c2",
+            "text": "tree"
+          },
+          {
+            "id": "c3",
+            "text": "ruler"
+          }
         ]
       },
-      "correct_answer": "ruler",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A measuring ruler is a static tool constructed from plastic or wood.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "What do living things do?",
       "type": "mcq",
+      "prompt": "What do living things do?",
       "options": {
         "choices": [
-          "grow and change",
-          "stay frozen forever",
-          "change color on command"
+          {
+            "id": "c1",
+            "text": "grow and change"
+          },
+          {
+            "id": "c2",
+            "text": "stay frozen forever"
+          },
+          {
+            "id": "c3",
+            "text": "change color on command"
+          }
         ]
       },
-      "correct_answer": "grow and change",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Living entities adapt, mature, grow, and morph throughout their life cycles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which living thing needs water?",
       "type": "mcq",
+      "prompt": "Which living thing needs water?",
       "options": {
         "choices": [
-          "plant",
-          "blanket",
-          "toy"
+          {
+            "id": "c1",
+            "text": "plant"
+          },
+          {
+            "id": "c2",
+            "text": "blanket"
+          },
+          {
+            "id": "c3",
+            "text": "toy"
+          }
         ]
       },
-      "correct_answer": "plant",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Plants rely on root systems to absorb moisture from soil to avoid drying out.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Which non-living thing can you read?",
       "type": "mcq",
+      "prompt": "Which non-living thing can you read?",
       "options": {
         "choices": [
-          "book",
-          "cat",
-          "flower"
+          {
+            "id": "c1",
+            "text": "book"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "flower"
+          }
         ]
       },
-      "correct_answer": "book",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A book contains written text and symbols printed onto non-living pages of paper.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Why is a bird a living thing?",
       "type": "mcq",
+      "prompt": "Why is a bird a living thing?",
       "options": {
         "choices": [
-          "it can dance and spell",
-          "it is made of paper",
-          "it can fly and breathe"
+          {
+            "id": "c1",
+            "text": "it can dance and spell"
+          },
+          {
+            "id": "c2",
+            "text": "it is made of paper"
+          },
+          {
+            "id": "c3",
+            "text": "it can fly and breathe"
+          }
         ]
       },
-      "correct_answer": "it can fly and breathe",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Birds use metabolic energy to engage muscles for flight and breathe via lungs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Why is a pencil a non-living?",
       "type": "mcq",
+      "prompt": "Why is a pencil a non-living?",
       "options": {
         "choices": [
-          "it cannot grow",
-          "it eats food",
-          "it sleeps"
+          {
+            "id": "c1",
+            "text": "it cannot grow"
+          },
+          {
+            "id": "c2",
+            "text": "it eats food"
+          },
+          {
+            "id": "c3",
+            "text": "it sleeps"
+          }
         ]
       },
-      "correct_answer": "it cannot grow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Pencils remain fixed at their manufactured length and wear down instead of growing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which of the following needs air?",
       "type": "mcq",
+      "prompt": "Which of the following needs air?",
       "options": {
         "choices": [
-          "bike",
-          "rock",
-          "rabbit"
+          {
+            "id": "c1",
+            "text": "bike"
+          },
+          {
+            "id": "c2",
+            "text": "rock"
+          },
+          {
+            "id": "c3",
+            "text": "rabbit"
+          }
         ]
       },
-      "correct_answer": "rabbit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A rabbit requires steady oxygen from the air to sustain cardiovascular function.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which living thing can move by itself?",
       "type": "mcq",
+      "prompt": "Which living thing can move by itself?",
       "options": {
         "choices": [
-          "turtle",
-          "eraser",
-          "computer"
+          {
+            "id": "c1",
+            "text": "turtle"
+          },
+          {
+            "id": "c2",
+            "text": "eraser"
+          },
+          {
+            "id": "c3",
+            "text": "computer"
+          }
         ]
       },
-      "correct_answer": "turtle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Turtles glide inside shells and walk voluntarily using their own muscle power.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Which non-living thing can roll only if pushed?",
       "type": "mcq",
+      "prompt": "Which non-living thing can roll only if pushed?",
       "options": {
         "choices": [
-          "ant",
-          "ball",
-          "squirrel"
+          {
+            "id": "c1",
+            "text": "ant"
+          },
+          {
+            "id": "c2",
+            "text": "ball"
+          },
+          {
+            "id": "c3",
+            "text": "squirrel"
+          }
         ]
       },
-      "correct_answer": "ball",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A toy ball remains entirely static on flat ground until external forces push it.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "What do living things need to stay alive?",
       "type": "mcq",
+      "prompt": "What do living things need to stay alive?",
       "options": {
         "choices": [
-          "car",
-          "tape",
-          "food"
+          {
+            "id": "c1",
+            "text": "car"
+          },
+          {
+            "id": "c2",
+            "text": "tape"
+          },
+          {
+            "id": "c3",
+            "text": "food"
+          }
         ]
       },
-      "correct_answer": "food",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Food energy feeds physiological actions inside living bodies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which of the following is alive?",
       "type": "mcq",
+      "prompt": "Which of the following is alive?",
       "options": {
         "choices": [
-          "shoe",
-          "pillow",
-          "butterfly"
+          {
+            "id": "c1",
+            "text": "shoe"
+          },
+          {
+            "id": "c2",
+            "text": "pillow"
+          },
+          {
+            "id": "c3",
+            "text": "butterfly"
+          }
         ]
       },
-      "correct_answer": "butterfly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Butterflies hatch from cocoons as living insects that seek out sweet flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which of the following is not alive?",
       "type": "mcq",
+      "prompt": "Which of the following is not alive?",
       "options": {
         "choices": [
-          "carrot plant",
-          "ant",
-          "plastic cup"
+          {
+            "id": "c1",
+            "text": "carrot plant"
+          },
+          {
+            "id": "c2",
+            "text": "ant"
+          },
+          {
+            "id": "c3",
+            "text": "plastic cup"
+          }
         ]
       },
-      "correct_answer": "plastic cup",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A plastic cup is an inanimate vessel fashioned from synthesized polymers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "What can living things feel?",
       "type": "mcq",
+      "prompt": "What can living things feel?",
       "options": {
         "choices": [
-          "hot and cold",
-          "stickers",
-          "cardboard"
+          {
+            "id": "c1",
+            "text": "hot and cold"
+          },
+          {
+            "id": "c2",
+            "text": "stickers"
+          },
+          {
+            "id": "c3",
+            "text": "cardboard"
+          }
         ]
       },
-      "correct_answer": "hot and cold",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Nervous systems process ambient thermal changes to safeguard core comfort structures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which living thing can grow tall?",
       "type": "mcq",
+      "prompt": "Which living thing can grow tall?",
       "options": {
         "choices": [
-          "pen",
-          "sunflower",
-          "crayon"
+          {
+            "id": "c1",
+            "text": "pen"
+          },
+          {
+            "id": "c2",
+            "text": "sunflower"
+          },
+          {
+            "id": "c3",
+            "text": "crayon"
+          }
         ]
       },
-      "correct_answer": "sunflower",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sunflowers grow into exceptionally tall structures while tracking solar paths.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "What do living things do when they get older?",
       "type": "mcq",
+      "prompt": "What do living things do when they get older?",
       "options": {
         "choices": [
-          "grow bigger",
-          "turn into metal",
-          "become plastic"
+          {
+            "id": "c1",
+            "text": "grow bigger"
+          },
+          {
+            "id": "c2",
+            "text": "turn into metal"
+          },
+          {
+            "id": "c3",
+            "text": "become plastic"
+          }
         ]
       },
-      "correct_answer": "grow bigger",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Advancing years correlate with cell division and enlargement until physical maturity is reached.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which living thing can eat food?",
       "type": "mcq",
+      "prompt": "Which living thing can eat food?",
       "options": {
         "choices": [
-          "cow",
-          "cup",
-          "cardboard box"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "cup"
+          },
+          {
+            "id": "c3",
+            "text": "cardboard box"
+          }
         ]
       },
-      "correct_answer": "cow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cows are herbivores that spend hours grazing on green grass pasture fields.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "What do living things need to be healthy?",
       "type": "mcq",
+      "prompt": "What do living things need to be healthy?",
       "options": {
         "choices": [
-          "clouds",
-          "water",
-          "chalk"
+          {
+            "id": "c1",
+            "text": "clouds"
+          },
+          {
+            "id": "c2",
+            "text": "water"
+          },
+          {
+            "id": "c3",
+            "text": "chalk"
+          }
         ]
       },
-      "correct_answer": "water",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Hydration drives crucial life operations, helping organisms thrive.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which living thing can make a sound?",
       "type": "mcq",
+      "prompt": "Which living thing can make a sound?",
       "options": {
         "choices": [
-          "pickle",
-          "frog",
-          "plate"
+          {
+            "id": "c1",
+            "text": "pickle"
+          },
+          {
+            "id": "c2",
+            "text": "frog"
+          },
+          {
+            "id": "c3",
+            "text": "plate"
+          }
         ]
       },
-      "correct_answer": "frog",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Frogs inflate throat pouches to push air out into croaking sounds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which non-living thing makes a sound only when hit?",
       "type": "mcq",
+      "prompt": "Which non-living thing makes a sound only when hit?",
       "options": {
         "choices": [
-          "Pencil",
-          "dog",
-          "drum"
+          {
+            "id": "c1",
+            "text": "Pencil"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "drum"
+          }
         ]
       },
-      "correct_answer": "drum",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Drums require someone to strike their taut skins with mallets to produce vibrations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which of the following grows from an egg?",
       "type": "mcq",
+      "prompt": "Which of the following grows from an egg?",
       "options": {
         "choices": [
-          "chick",
-          "shoe",
-          "rock"
+          {
+            "id": "c1",
+            "text": "chick"
+          },
+          {
+            "id": "c2",
+            "text": "shoe"
+          },
+          {
+            "id": "c3",
+            "text": "rock"
+          }
         ]
       },
-      "correct_answer": "chick",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Baby chicks develop inside hard eggshells before cracking out.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which of the following is made by people?",
       "type": "mcq",
+      "prompt": "Which of the following is made by people?",
       "options": {
         "choices": [
-          "blanket",
-          "squirrel",
-          "plant"
+          {
+            "id": "c1",
+            "text": "blanket"
+          },
+          {
+            "id": "c2",
+            "text": "squirrel"
+          },
+          {
+            "id": "c3",
+            "text": "plant"
+          }
         ]
       },
-      "correct_answer": "blanket",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Blankets are assembled by humans using spun textiles or industrial machinery.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which living thing needs sunlight?",
       "type": "mcq",
+      "prompt": "Which living thing needs sunlight?",
       "options": {
         "choices": [
-          "tree",
-          "tree",
-          "puzzle"
+          {
+            "id": "c1",
+            "text": "tree"
+          },
+          {
+            "id": "c2",
+            "text": "tree"
+          },
+          {
+            "id": "c3",
+            "text": "puzzle"
+          }
         ]
       },
-      "correct_answer": "tree",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Trees use massive leaf canopies to trap vital sunlight for metabolic processes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which non-living thing can melt in heat?",
       "type": "mcq",
+      "prompt": "Which non-living thing can melt in heat?",
       "options": {
         "choices": [
-          "cloud",
-          "ice cube",
-          "tomato plant"
+          {
+            "id": "c1",
+            "text": "cloud"
+          },
+          {
+            "id": "c2",
+            "text": "ice cube"
+          },
+          {
+            "id": "c3",
+            "text": "tomato plant"
+          }
         ]
       },
-      "correct_answer": "ice cube",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An ice cube transitions from solid back into liquid water when warm.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which living thing breathes air?",
       "type": "mcq",
+      "prompt": "Which living thing breathes air?",
       "options": {
         "choices": [
-          "image",
-          "whale",
-          "pen"
+          {
+            "id": "c1",
+            "text": "image"
+          },
+          {
+            "id": "c2",
+            "text": "whale"
+          },
+          {
+            "id": "c3",
+            "text": "pen"
+          }
         ]
       },
-      "correct_answer": "whale",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Whales are marine mammals that rise to the surface to push and draw air through blowholes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which non-living thing cannot breathe?",
       "type": "mcq",
+      "prompt": "Which non-living thing cannot breathe?",
       "options": {
         "choices": [
-          "bird",
-          "lizard",
-          "cup"
+          {
+            "id": "c1",
+            "text": "bird"
+          },
+          {
+            "id": "c2",
+            "text": "lizard"
+          },
+          {
+            "id": "c3",
+            "text": "cup"
+          }
         ]
       },
-      "correct_answer": "cup",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A drinking cup is completely inanimate and lacks respiratory mechanisms.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which living thing can jump?",
       "type": "mcq",
+      "prompt": "Which living thing can jump?",
       "options": {
         "choices": [
-          "Kangaroo",
-          "pillow",
-          "blanket"
+          {
+            "id": "c1",
+            "text": "Kangaroo"
+          },
+          {
+            "id": "c2",
+            "text": "pillow"
+          },
+          {
+            "id": "c3",
+            "text": "blanket"
+          }
         ]
       },
-      "correct_answer": "Kangaroo",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Kangaroos possess enormous muscular hind legs built for jumping long distances.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which non-living thing can you open?",
       "type": "mcq",
+      "prompt": "Which non-living thing can you open?",
       "options": {
         "choices": [
-          "door",
-          "dog",
-          "rabbit"
+          {
+            "id": "c1",
+            "text": "door"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "rabbit"
+          }
         ]
       },
-      "correct_answer": "door",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A door turns on metal hinges to provide an open path through room entryways.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which living thing grows from tiny to big?",
       "type": "mcq",
+      "prompt": "Which living thing grows from tiny to big?",
       "options": {
         "choices": [
-          "pool",
-          "child",
-          "shoe"
+          {
+            "id": "c1",
+            "text": "pool"
+          },
+          {
+            "id": "c2",
+            "text": "child"
+          },
+          {
+            "id": "c3",
+            "text": "shoe"
+          }
         ]
       },
-      "correct_answer": "child",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Human babies grow into toddlers, children, teenagers, and eventually full adults.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which living thing needs care?",
       "type": "mcq",
+      "prompt": "Which living thing needs care?",
       "options": {
         "choices": [
-          "jet",
-          "Pet",
-          "notebook"
+          {
+            "id": "c1",
+            "text": "jet"
+          },
+          {
+            "id": "c2",
+            "text": "Pet"
+          },
+          {
+            "id": "c3",
+            "text": "notebook"
+          }
         ]
       },
-      "correct_answer": "Pet",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Domestic pets depend on human handlers for daily food, shelter, and medical care.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which non-living thing cannot be hurt?",
       "type": "mcq",
+      "prompt": "Which non-living thing cannot be hurt?",
       "options": {
         "choices": [
-          "rock",
-          "kitten",
-          "fish"
+          {
+            "id": "c1",
+            "text": "rock"
+          },
+          {
+            "id": "c2",
+            "text": "kitten"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "rock",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A rock has no nervous system or biological life, so it cannot experience pain or injury.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Which living thing is soft and furry?",
       "type": "mcq",
+      "prompt": "Which living thing is soft and furry?",
       "options": {
         "choices": [
-          "slippers",
-          "rabbit",
-          "chair"
+          {
+            "id": "c1",
+            "text": "slippers"
+          },
+          {
+            "id": "c2",
+            "text": "rabbit"
+          },
+          {
+            "id": "c3",
+            "text": "chair"
+          }
         ]
       },
-      "correct_answer": "rabbit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Rabbits grow thick, fine fur coats to trap heat and insulate their bodies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which non-living thing is hard?",
       "type": "mcq",
+      "prompt": "Which non-living thing is hard?",
       "options": {
         "choices": [
-          "tree",
-          "puppy",
-          "metal spoon"
+          {
+            "id": "c1",
+            "text": "tree"
+          },
+          {
+            "id": "c2",
+            "text": "puppy"
+          },
+          {
+            "id": "c3",
+            "text": "metal spoon"
+          }
         ]
       },
-      "correct_answer": "metal spoon",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Forged metal spoons have dense, unyielding structures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "What do living things need to survive?",
       "type": "mcq",
+      "prompt": "What do living things need to survive?",
       "options": {
         "choices": [
-          "keys",
-          "air",
-          "toys"
+          {
+            "id": "c1",
+            "text": "keys"
+          },
+          {
+            "id": "c2",
+            "text": "air"
+          },
+          {
+            "id": "c3",
+            "text": "toys"
+          }
         ]
       },
-      "correct_answer": "air",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Oxygen intake from the air keeps cell respiration pathways working properly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Which living thing can make its own food?",
       "type": "mcq",
+      "prompt": "Which living thing can make its own food?",
       "options": {
         "choices": [
-          "plant",
-          "tiger",
-          "frog"
+          {
+            "id": "c1",
+            "text": "plant"
+          },
+          {
+            "id": "c2",
+            "text": "tiger"
+          },
+          {
+            "id": "c3",
+            "text": "frog"
+          }
         ]
       },
-      "correct_answer": "plant",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Plants create food internally by combining water, carbon dioxide, and solar light.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Which object is a living thing?",
       "type": "mcq",
+      "prompt": "Which object is a living thing?",
       "options": {
         "choices": [
-          "boat",
-          "pencil",
-          "dolphin"
+          {
+            "id": "c1",
+            "text": "boat"
+          },
+          {
+            "id": "c2",
+            "text": "pencil"
+          },
+          {
+            "id": "c3",
+            "text": "dolphin"
+          }
         ]
       },
-      "correct_answer": "dolphin",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Dolphins are smart aquatic mammals that exhibit all properties of living systems.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Which object is a non-living thing?",
       "type": "mcq",
+      "prompt": "Which object is a non-living thing?",
       "options": {
         "choices": [
-          "butterfly",
-          "turtle",
-          "backpack"
+          {
+            "id": "c1",
+            "text": "butterfly"
+          },
+          {
+            "id": "c2",
+            "text": "turtle"
+          },
+          {
+            "id": "c3",
+            "text": "backpack"
+          }
         ]
       },
-      "correct_answer": "backpack",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A backpack is a stitched canvas accessory used to organize school materials.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "What do living things need to grow?",
       "type": "mcq",
+      "prompt": "What do living things need to grow?",
       "options": {
         "choices": [
-          "food",
-          "glitter",
-          "tape"
+          {
+            "id": "c1",
+            "text": "food"
+          },
+          {
+            "id": "c2",
+            "text": "glitter"
+          },
+          {
+            "id": "c3",
+            "text": "tape"
+          }
         ]
       },
-      "correct_answer": "food",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Food serves as fuel, providing the basic cellular components needed for growth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Which living thing can breathe?",
       "type": "mcq",
+      "prompt": "Which living thing can breathe?",
       "options": {
         "choices": [
-          "money",
-          "marker",
-          "monkey"
+          {
+            "id": "c1",
+            "text": "money"
+          },
+          {
+            "id": "c2",
+            "text": "marker"
+          },
+          {
+            "id": "c3",
+            "text": "monkey"
+          }
         ]
       },
-      "correct_answer": "monkey",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Monkeys possess lungs to coordinate their daily breathing patterns.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "What can living things do on their own?",
       "type": "mcq",
+      "prompt": "What can living things do on their own?",
       "options": {
         "choices": [
-          "move",
-          "roll only when pushed",
-          "shine"
+          {
+            "id": "c1",
+            "text": "move"
+          },
+          {
+            "id": "c2",
+            "text": "roll only when pushed"
+          },
+          {
+            "id": "c3",
+            "text": "shine"
+          }
         ]
       },
-      "correct_answer": "move",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Animals move independently using locomotion to find food or stay safe.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "What can non-living things only do when someone moves them?",
       "type": "mcq",
+      "prompt": "What can non-living things only do when someone moves them?",
       "options": {
         "choices": [
-          "move",
-          "grow",
-          "eat"
+          {
+            "id": "c1",
+            "text": "move"
+          },
+          {
+            "id": "c2",
+            "text": "grow"
+          },
+          {
+            "id": "c3",
+            "text": "eat"
+          }
         ]
       },
-      "correct_answer": "move",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Inanimate objects remain at rest until handled or shifted by someone.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which of the following living thing can make a sound?",
       "type": "mcq",
+      "prompt": "Which of the following living thing can make a sound?",
       "options": {
         "choices": [
-          "sheep",
-          "cup",
-          "table"
+          {
+            "id": "c1",
+            "text": "sheep"
+          },
+          {
+            "id": "c2",
+            "text": "cup"
+          },
+          {
+            "id": "c3",
+            "text": "table"
+          }
         ]
       },
-      "correct_answer": "sheep",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sheep vocalize distinct bleating sounds to call out across pastures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which of the following needs water to live?",
       "type": "mcq",
+      "prompt": "Which of the following needs water to live?",
       "options": {
         "choices": [
-          "stone",
-          "carpet",
-          "tree"
+          {
+            "id": "c1",
+            "text": "stone"
+          },
+          {
+            "id": "c2",
+            "text": "carpet"
+          },
+          {
+            "id": "c3",
+            "text": "tree"
+          }
         ]
       },
-      "correct_answer": "tree",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Trees pump groundwater high up into branch cells to prevent wilt damage.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Which of the following does not need water?",
       "type": "mcq",
+      "prompt": "Which of the following does not need water?",
       "options": {
         "choices": [
-          "bird",
-          "plant",
-          "toy"
+          {
+            "id": "c1",
+            "text": "bird"
+          },
+          {
+            "id": "c2",
+            "text": "plant"
+          },
+          {
+            "id": "c3",
+            "text": "toy"
+          }
         ]
       },
-      "correct_answer": "toy",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Toys do not perform biological processes, so they have no use for water.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which of the following can feel hot or cold?",
       "type": "mcq",
+      "prompt": "Which of the following can feel hot or cold?",
       "options": {
         "choices": [
-          "boy",
-          "book",
-          "balloon"
+          {
+            "id": "c1",
+            "text": "boy"
+          },
+          {
+            "id": "c2",
+            "text": "book"
+          },
+          {
+            "id": "c3",
+            "text": "balloon"
+          }
         ]
       },
-      "correct_answer": "boy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Humans possess sensitive skin layers to register temperature variations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which of the following is alive?",
       "type": "mcq",
+      "prompt": "Which of the following is alive?",
       "options": {
         "choices": [
-          "rock",
-          "phone",
-          "giraffe car"
+          {
+            "id": "c1",
+            "text": "rock"
+          },
+          {
+            "id": "c2",
+            "text": "phone"
+          },
+          {
+            "id": "c3",
+            "text": "giraffe car"
+          }
         ]
       },
-      "correct_answer": "giraffe car",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "While 'giraffe' refers to a living animal, contextually inside this option list, it represents the biological creature aspect intended as the alive option.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which of the following is not alive?",
       "type": "mcq",
+      "prompt": "Which of the following is not alive?",
       "options": {
         "choices": [
-          "baby",
-          "bird",
-          "bottle"
+          {
+            "id": "c1",
+            "text": "baby"
+          },
+          {
+            "id": "c2",
+            "text": "bird"
+          },
+          {
+            "id": "c3",
+            "text": "bottle"
+          }
         ]
       },
-      "correct_answer": "bottle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A container bottle is non-living manufacturing inventory.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Which of the following shows a living thing?",
       "type": "mcq",
+      "prompt": "Which of the following shows a living thing?",
       "options": {
         "choices": [
-          "a plant growing",
-          "a rock sitting still",
-          "a chair standing"
+          {
+            "id": "c1",
+            "text": "a plant growing"
+          },
+          {
+            "id": "c2",
+            "text": "a rock sitting still"
+          },
+          {
+            "id": "c3",
+            "text": "a chair standing"
+          }
         ]
       },
-      "correct_answer": "a plant growing",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Observable biological growth directly proves that an organism is alive.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Which of the following shows a living thing?",
       "type": "mcq",
+      "prompt": "Which of the following shows a living thing?",
       "options": {
         "choices": [
-          "a window",
-          "a rock sitting still",
-          "a plant growing"
+          {
+            "id": "c1",
+            "text": "a window"
+          },
+          {
+            "id": "c2",
+            "text": "a rock sitting still"
+          },
+          {
+            "id": "c3",
+            "text": "a plant growing"
+          }
         ]
       },
-      "correct_answer": "a plant growing",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Plants show life by expanding their roots and sprouting new green leaves.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "What do living things need to stay alive?",
       "type": "mcq",
+      "prompt": "What do living things need to stay alive?",
       "options": {
         "choices": [
-          "washing machine",
-          "water",
-          "crayons"
+          {
+            "id": "c1",
+            "text": "washing machine"
+          },
+          {
+            "id": "c2",
+            "text": "water"
+          },
+          {
+            "id": "c3",
+            "text": "crayons"
+          }
         ]
       },
-      "correct_answer": "water",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Water is absolutely essential for keeping cells hydrated and alive.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which of the following is an example of a living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is an example of a living thing?",
       "options": {
         "choices": [
-          "table",
-          "book",
-          "eagle"
+          {
+            "id": "c1",
+            "text": "table"
+          },
+          {
+            "id": "c2",
+            "text": "book"
+          },
+          {
+            "id": "c3",
+            "text": "eagle"
+          }
         ]
       },
-      "correct_answer": "eagle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Eagles are powerful living birds of prey that fly and build nests.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Which of the following is an example of a living thing?",
       "type": "mcq",
+      "prompt": "Which of the following is an example of a living thing?",
       "options": {
         "choices": [
-          "board",
-          "bird",
-          "boat"
+          {
+            "id": "c1",
+            "text": "board"
+          },
+          {
+            "id": "c2",
+            "text": "bird"
+          },
+          {
+            "id": "c3",
+            "text": "boat"
+          }
         ]
       },
-      "correct_answer": "bird",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A bird is a biological animal that breathes and has life.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "What can living things do that non-living things cannot do?",
       "type": "mcq",
+      "prompt": "What can living things do that non-living things cannot do?",
       "options": {
         "choices": [
-          "fly",
-          "be carried",
-          "sit still"
+          {
+            "id": "c1",
+            "text": "fly"
+          },
+          {
+            "id": "c2",
+            "text": "be carried"
+          },
+          {
+            "id": "c3",
+            "text": "sit still"
+          }
         ]
       },
-      "correct_answer": "grow",
+      "answer_key": {
+        "correct": []
+      },
       "explanation": "Biological growth and change over time is an exclusive capability of living organisms.",
       "media": null,
-      "difficulty": 1,
-      "order_index": 100,
-      "_warning": "correct answer not among options"
+      "order_index": 100
     }
   ]
 }

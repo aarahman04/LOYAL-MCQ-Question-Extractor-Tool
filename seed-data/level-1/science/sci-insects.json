@@ -1,1716 +1,2915 @@
 {
   "_source_file": "level1_sci_insects.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "sci-insects",
-    "title": "Insects",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.554Z",
+  "slug": "sci-insects",
+  "title": "Insects",
+  "level": "level-1",
+  "subject": "science",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What is an insect?",
       "type": "mcq",
+      "prompt": "What is an insect?",
       "options": {
         "choices": [
-          "a fish",
-          "a plant",
-          "an animal with 6 legs"
+          {
+            "id": "c1",
+            "text": "a fish"
+          },
+          {
+            "id": "c2",
+            "text": "a plant"
+          },
+          {
+            "id": "c3",
+            "text": "an animal with 6 legs"
+          }
         ]
       },
-      "correct_answer": "an animal with 6 legs",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "An insect is an animal with 6 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "How many legs do insects have?",
       "type": "mcq",
+      "prompt": "How many legs do insects have?",
       "options": {
         "choices": [
-          "8",
-          "6",
-          "4"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "All insects have 6 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "What do insects use to fly?",
       "type": "mcq",
+      "prompt": "What do insects use to fly?",
       "options": {
         "choices": [
-          "tails",
-          "fins",
-          "wings"
+          {
+            "id": "c1",
+            "text": "tails"
+          },
+          {
+            "id": "c2",
+            "text": "fins"
+          },
+          {
+            "id": "c3",
+            "text": "wings"
+          }
         ]
       },
-      "correct_answer": "wings",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Insects fly using their wings.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which insect makes honey?",
       "type": "mcq",
+      "prompt": "Which insect makes honey?",
       "options": {
         "choices": [
-          "bee",
-          "butterfly",
-          "ant"
+          {
+            "id": "c1",
+            "text": "bee"
+          },
+          {
+            "id": "c2",
+            "text": "butterfly"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "bee",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Bees make honey.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which insect has colorful wings?",
       "type": "mcq",
+      "prompt": "Which insect has colorful wings?",
       "options": {
         "choices": [
-          "fly",
-          "beetle",
-          "butterfly"
+          {
+            "id": "c1",
+            "text": "fly"
+          },
+          {
+            "id": "c2",
+            "text": "beetle"
+          },
+          {
+            "id": "c3",
+            "text": "butterfly"
+          }
         ]
       },
-      "correct_answer": "butterfly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Butterflies are known for their colorful wings.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Where do ants live?",
       "type": "mcq",
+      "prompt": "Where do ants live?",
       "options": {
         "choices": [
-          "clouds",
-          "ant hills",
-          "sea"
+          {
+            "id": "c1",
+            "text": "clouds"
+          },
+          {
+            "id": "c2",
+            "text": "ant hills"
+          },
+          {
+            "id": "c3",
+            "text": "sea"
+          }
         ]
       },
-      "correct_answer": "ant hills",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ants live in ant hills.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Which insect can jump very high?",
       "type": "mcq",
+      "prompt": "Which insect can jump very high?",
       "options": {
         "choices": [
-          "bee",
-          "grasshopper",
-          "caterpillar"
+          {
+            "id": "c1",
+            "text": "bee"
+          },
+          {
+            "id": "c2",
+            "text": "grasshopper"
+          },
+          {
+            "id": "c3",
+            "text": "caterpillar"
+          }
         ]
       },
-      "correct_answer": "grasshopper",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Grasshoppers can jump very high.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Which insect has spots?",
       "type": "mcq",
+      "prompt": "Which insect has spots?",
       "options": {
         "choices": [
-          "fly",
-          "ladybug",
-          "ant"
+          {
+            "id": "c1",
+            "text": "fly"
+          },
+          {
+            "id": "c2",
+            "text": "ladybug"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "ladybug",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ladybugs usually have spots.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which insect glows at night?",
       "type": "mcq",
+      "prompt": "Which insect glows at night?",
       "options": {
         "choices": [
-          "firefly",
-          "bee",
-          "grasshopper"
+          {
+            "id": "c1",
+            "text": "firefly"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "grasshopper"
+          }
         ]
       },
-      "correct_answer": "firefly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Fireflies glow at night.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "What do butterflies drink from flowers?",
       "type": "mcq",
+      "prompt": "What do butterflies drink from flowers?",
       "options": {
         "choices": [
-          "nectar",
-          "water",
-          "milk"
+          {
+            "id": "c1",
+            "text": "nectar"
+          },
+          {
+            "id": "c2",
+            "text": "water"
+          },
+          {
+            "id": "c3",
+            "text": "milk"
+          }
         ]
       },
-      "correct_answer": "nectar",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Butterflies drink nectar from flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Which insect has a stinger?",
       "type": "mcq",
+      "prompt": "Which insect has a stinger?",
       "options": {
         "choices": [
-          "beetle",
-          "bee",
-          "ant"
+          {
+            "id": "c1",
+            "text": "beetle"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "bee",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Bees have a stinger.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "What do caterpillars turn into?",
       "type": "mcq",
+      "prompt": "What do caterpillars turn into?",
       "options": {
         "choices": [
-          "butterflies",
-          "frogs",
-          "birds"
+          {
+            "id": "c1",
+            "text": "butterflies"
+          },
+          {
+            "id": "c2",
+            "text": "frogs"
+          },
+          {
+            "id": "c3",
+            "text": "birds"
+          }
         ]
       },
-      "correct_answer": "butterflies",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Caterpillars turn into butterflies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Which insect crawls?",
       "type": "mcq",
+      "prompt": "Which insect crawls?",
       "options": {
         "choices": [
-          "caterpillar",
-          "butterfly",
-          "bee"
+          {
+            "id": "c1",
+            "text": "caterpillar"
+          },
+          {
+            "id": "c2",
+            "text": "butterfly"
+          },
+          {
+            "id": "c3",
+            "text": "bee"
+          }
         ]
       },
-      "correct_answer": "caterpillar",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Caterpillars crawl.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Where do bees live?",
       "type": "mcq",
+      "prompt": "Where do bees live?",
       "options": {
         "choices": [
-          "bird nests",
-          "holes",
-          "beehives"
+          {
+            "id": "c1",
+            "text": "bird nests"
+          },
+          {
+            "id": "c2",
+            "text": "holes"
+          },
+          {
+            "id": "c3",
+            "text": "beehives"
+          }
         ]
       },
-      "correct_answer": "beehives",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Bees live in beehives.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Which insect often lands on food?",
       "type": "mcq",
+      "prompt": "Which insect often lands on food?",
       "options": {
         "choices": [
-          "ant",
-          "butterfly",
-          "fly"
+          {
+            "id": "c1",
+            "text": "ant"
+          },
+          {
+            "id": "c2",
+            "text": "butterfly"
+          },
+          {
+            "id": "c3",
+            "text": "fly"
+          }
         ]
       },
-      "correct_answer": "fly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Flies often land on food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "What do insects use to smell?",
       "type": "mcq",
+      "prompt": "What do insects use to smell?",
       "options": {
         "choices": [
-          "wings",
-          "antennae",
-          "nose"
+          {
+            "id": "c1",
+            "text": "wings"
+          },
+          {
+            "id": "c2",
+            "text": "antennae"
+          },
+          {
+            "id": "c3",
+            "text": "nose"
+          }
         ]
       },
-      "correct_answer": "antennae",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Insects use their antennae to smell.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Which insect is very tiny?",
       "type": "mcq",
+      "prompt": "Which insect is very tiny?",
       "options": {
         "choices": [
-          "grasshopper",
-          "beetle",
-          "ant"
+          {
+            "id": "c1",
+            "text": "grasshopper"
+          },
+          {
+            "id": "c2",
+            "text": "beetle"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "ant",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Ants are very tiny insects.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which insect can bite?",
       "type": "mcq",
+      "prompt": "Which insect can bite?",
       "options": {
         "choices": [
-          "mosquito",
-          "ladybug",
-          "butterfly"
+          {
+            "id": "c1",
+            "text": "mosquito"
+          },
+          {
+            "id": "c2",
+            "text": "ladybug"
+          },
+          {
+            "id": "c3",
+            "text": "butterfly"
+          }
         ]
       },
-      "correct_answer": "mosquito",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Mosquitoes can bite and suck blood.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Which animal builds a web?",
       "type": "mcq",
+      "prompt": "Which animal builds a web?",
       "options": {
         "choices": [
-          "bee",
-          "spider",
-          "ant"
+          {
+            "id": "c1",
+            "text": "bee"
+          },
+          {
+            "id": "c2",
+            "text": "spider"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "spider",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Spiders build webs, although they are arachnids rather than true insects.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Which insect chirps?",
       "type": "mcq",
+      "prompt": "Which insect chirps?",
       "options": {
         "choices": [
-          "fly",
-          "bee",
-          "cricket"
+          {
+            "id": "c1",
+            "text": "fly"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "cricket"
+          }
         ]
       },
-      "correct_answer": "cricket",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Crickets make chirping sounds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "What color are many ladybugs?",
       "type": "mcq",
+      "prompt": "What color are many ladybugs?",
       "options": {
         "choices": [
-          "pink",
-          "blue",
-          "red"
+          {
+            "id": "c1",
+            "text": "pink"
+          },
+          {
+            "id": "c2",
+            "text": "blue"
+          },
+          {
+            "id": "c3",
+            "text": "red"
+          }
         ]
       },
-      "correct_answer": "red",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Many common ladybugs feature a vibrant red color with black spots.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which insect loves sugar?",
       "type": "mcq",
+      "prompt": "Which insect loves sugar?",
       "options": {
         "choices": [
-          "butterfly",
-          "ant",
-          "grasshopper"
+          {
+            "id": "c1",
+            "text": "butterfly"
+          },
+          {
+            "id": "c2",
+            "text": "ant"
+          },
+          {
+            "id": "c3",
+            "text": "grasshopper"
+          }
         ]
       },
-      "correct_answer": "ant",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ants are strongly attracted to sweet things and sugar sources.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "What do butterflies come out of?",
       "type": "mcq",
+      "prompt": "What do butterflies come out of?",
       "options": {
         "choices": [
-          "nest",
-          "shell",
-          "cocoon"
+          {
+            "id": "c1",
+            "text": "nest"
+          },
+          {
+            "id": "c2",
+            "text": "shell"
+          },
+          {
+            "id": "c3",
+            "text": "cocoon"
+          }
         ]
       },
-      "correct_answer": "cocoon",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Butterflies emerge out of a protective chrysalis or cocoon wrapper.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Which insect buzzes?",
       "type": "mcq",
+      "prompt": "Which insect buzzes?",
       "options": {
         "choices": [
-          "ant",
-          "butterfly",
-          "bee"
+          {
+            "id": "c1",
+            "text": "ant"
+          },
+          {
+            "id": "c2",
+            "text": "butterfly"
+          },
+          {
+            "id": "c3",
+            "text": "bee"
+          }
         ]
       },
-      "correct_answer": "bee",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Bees create rapid vibrations that make a distinct buzzing sound.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Which insect hops and makes music?",
       "type": "mcq",
+      "prompt": "Which insect hops and makes music?",
       "options": {
         "choices": [
-          "ant",
-          "beetle",
-          "cricket"
+          {
+            "id": "c1",
+            "text": "ant"
+          },
+          {
+            "id": "c2",
+            "text": "beetle"
+          },
+          {
+            "id": "c3",
+            "text": "cricket"
+          }
         ]
       },
-      "correct_answer": "cricket",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Crickets hop around and rub their wings together to make musical chirps.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which insect has big eyes?",
       "type": "mcq",
+      "prompt": "Which insect has big eyes?",
       "options": {
         "choices": [
-          "ant",
-          "fly",
-          "caterpillar"
+          {
+            "id": "c1",
+            "text": "ant"
+          },
+          {
+            "id": "c2",
+            "text": "fly"
+          },
+          {
+            "id": "c3",
+            "text": "caterpillar"
+          }
         ]
       },
-      "correct_answer": "fly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Flies have large compound eyes covering much of their head structure.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "What do insects eat?",
       "type": "mcq",
+      "prompt": "What do insects eat?",
       "options": {
         "choices": [
-          "metal",
-          "rocks",
-          "plants and small things"
+          {
+            "id": "c1",
+            "text": "metal"
+          },
+          {
+            "id": "c2",
+            "text": "rocks"
+          },
+          {
+            "id": "c3",
+            "text": "plants and small things"
+          }
         ]
       },
-      "correct_answer": "plants and small things",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Most insects feed on leaves, wood, nectar, or other tiny organic items.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which insect is long and thin?",
       "type": "mcq",
+      "prompt": "Which insect is long and thin?",
       "options": {
         "choices": [
-          "bee",
-          "stick insect",
-          "ladybug"
+          {
+            "id": "c1",
+            "text": "bee"
+          },
+          {
+            "id": "c2",
+            "text": "stick insect"
+          },
+          {
+            "id": "c3",
+            "text": "ladybug"
+          }
         ]
       },
-      "correct_answer": "stick insect",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Stick insects have long, slender bodies that mimic natural twigs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which insect lives near water?",
       "type": "mcq",
+      "prompt": "Which insect lives near water?",
       "options": {
         "choices": [
-          "beetle",
-          "ant",
-          "dragonfly"
+          {
+            "id": "c1",
+            "text": "beetle"
+          },
+          {
+            "id": "c2",
+            "text": "ant"
+          },
+          {
+            "id": "c3",
+            "text": "dragonfly"
+          }
         ]
       },
-      "correct_answer": "dragonfly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Dragonflies stay near bodies of water where they lay eggs and hunt.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which insect stings and makes itchy bumps?",
       "type": "mcq",
+      "prompt": "Which insect stings and makes itchy bumps?",
       "options": {
         "choices": [
-          "mosquito",
-          "ladybug",
-          "grasshopper"
+          {
+            "id": "c1",
+            "text": "mosquito"
+          },
+          {
+            "id": "c2",
+            "text": "ladybug"
+          },
+          {
+            "id": "c3",
+            "text": "grasshopper"
+          }
         ]
       },
-      "correct_answer": "mosquito",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Mosquito bites leave an itchy red bump behind on your skin.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which insect helps flowers grow?",
       "type": "mcq",
+      "prompt": "Which insect helps flowers grow?",
       "options": {
         "choices": [
-          "fly",
-          "bee",
-          "ant"
+          {
+            "id": "c1",
+            "text": "fly"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "bee",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Bees pollinate flowers, transferring pollen to help new plants develop.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which insect rolls into a ball?",
       "type": "mcq",
+      "prompt": "Which insect rolls into a ball?",
       "options": {
         "choices": [
-          "butterfly",
-          "grasshopper",
-          "pill bug"
+          {
+            "id": "c1",
+            "text": "butterfly"
+          },
+          {
+            "id": "c2",
+            "text": "grasshopper"
+          },
+          {
+            "id": "c3",
+            "text": "pill bug"
+          }
         ]
       },
-      "correct_answer": "pill bug",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Pill bugs curl up tightly into a tiny armored sphere when disturbed.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Which insect walks in a line?",
       "type": "mcq",
+      "prompt": "Which insect walks in a line?",
       "options": {
         "choices": [
-          "ants",
-          "bees",
-          "butterflies"
+          {
+            "id": "c1",
+            "text": "ants"
+          },
+          {
+            "id": "c2",
+            "text": "bees"
+          },
+          {
+            "id": "c3",
+            "text": "butterflies"
+          }
         ]
       },
-      "correct_answer": "ants",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Ants use chemical trails to follow each other systematically in organized lines.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which insect walks sideways?",
       "type": "mcq",
+      "prompt": "Which insect walks sideways?",
       "options": {
         "choices": [
-          "cricket",
-          "spider",
-          "ant"
+          {
+            "id": "c1",
+            "text": "cricket"
+          },
+          {
+            "id": "c2",
+            "text": "spider"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "spider",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Certain multi-legged tiny creatures like crab spiders walk sideways easily.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Which insect makes a buzzing sound?",
       "type": "mcq",
+      "prompt": "Which insect makes a buzzing sound?",
       "options": {
         "choices": [
-          "ladybug",
-          "fly",
-          "caterpillar"
+          {
+            "id": "c1",
+            "text": "ladybug"
+          },
+          {
+            "id": "c2",
+            "text": "fly"
+          },
+          {
+            "id": "c3",
+            "text": "caterpillar"
+          }
         ]
       },
-      "correct_answer": "fly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Flies beat their wings up and down swiftly, generating a steady hum or buzz.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which insect lives in a colony?",
       "type": "mcq",
+      "prompt": "Which insect lives in a colony?",
       "options": {
         "choices": [
-          "butterfly",
-          "fly",
-          "ant"
+          {
+            "id": "c1",
+            "text": "butterfly"
+          },
+          {
+            "id": "c2",
+            "text": "fly"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "ant",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Ants operate together inside vast, structured social colonies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which insect has a long body and fast wings?",
       "type": "mcq",
+      "prompt": "Which insect has a long body and fast wings?",
       "options": {
         "choices": [
-          "ladybug",
-          "bee",
-          "dragonfly"
+          {
+            "id": "c1",
+            "text": "ladybug"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "dragonfly"
+          }
         ]
       },
-      "correct_answer": "dragonfly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Dragonflies display clear, double wings paired with elongated bodies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which insect grows wings as an adult?",
       "type": "mcq",
+      "prompt": "Which insect grows wings as an adult?",
       "options": {
         "choices": [
-          "caterpillar",
-          "ant",
-          "fly"
+          {
+            "id": "c1",
+            "text": "caterpillar"
+          },
+          {
+            "id": "c2",
+            "text": "ant"
+          },
+          {
+            "id": "c3",
+            "text": "fly"
+          }
         ]
       },
-      "correct_answer": "fly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Flies pass through a pupal transition stage to sprout functional adult wings.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which insect can walk on water?",
       "type": "mcq",
+      "prompt": "Which insect can walk on water?",
       "options": {
         "choices": [
-          "bee",
-          "water strider",
-          "grasshopper"
+          {
+            "id": "c1",
+            "text": "bee"
+          },
+          {
+            "id": "c2",
+            "text": "water strider"
+          },
+          {
+            "id": "c3",
+            "text": "grasshopper"
+          }
         ]
       },
-      "correct_answer": "water strider",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Water striders use surface tension to skitter across lake surfaces smoothly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which insect digs tunnels?",
       "type": "mcq",
+      "prompt": "Which insect digs tunnels?",
       "options": {
         "choices": [
-          "ant",
-          "firefly",
-          "butterfly"
+          {
+            "id": "c1",
+            "text": "ant"
+          },
+          {
+            "id": "c2",
+            "text": "firefly"
+          },
+          {
+            "id": "c3",
+            "text": "butterfly"
+          }
         ]
       },
-      "correct_answer": "ant",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Ants shovel soil fragments aside to form complex subterranean pathways.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "What color are bees usually?",
       "type": "mcq",
+      "prompt": "What color are bees usually?",
       "options": {
         "choices": [
-          "blue and white",
-          "pink and purple",
-          "black and yellow"
+          {
+            "id": "c1",
+            "text": "blue and white"
+          },
+          {
+            "id": "c2",
+            "text": "pink and purple"
+          },
+          {
+            "id": "c3",
+            "text": "black and yellow"
+          }
         ]
       },
-      "correct_answer": "black and yellow",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Most bees display distinctive warning stripes of black and yellow.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which insect makes a clicking sound?",
       "type": "mcq",
+      "prompt": "Which insect makes a clicking sound?",
       "options": {
         "choices": [
-          "click beetle",
-          "mosquito",
-          "ant"
+          {
+            "id": "c1",
+            "text": "click beetle"
+          },
+          {
+            "id": "c2",
+            "text": "mosquito"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "click beetle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Click beetles snap their body parts together to spring upward with a 'click'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which insect eats crops?",
       "type": "mcq",
+      "prompt": "Which insect eats crops?",
       "options": {
         "choices": [
-          "butterfly",
-          "ladybug",
-          "grasshopper"
+          {
+            "id": "c1",
+            "text": "butterfly"
+          },
+          {
+            "id": "c2",
+            "text": "ladybug"
+          },
+          {
+            "id": "c3",
+            "text": "grasshopper"
+          }
         ]
       },
-      "correct_answer": "grasshopper",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Large swarms of grasshoppers can quickly devour field crops and foliage.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which insect has tiny wings and lives in groups?",
       "type": "mcq",
+      "prompt": "Which insect has tiny wings and lives in groups?",
       "options": {
         "choices": [
-          "winged ant",
-          "worm",
-          "spider"
+          {
+            "id": "c1",
+            "text": "winged ant"
+          },
+          {
+            "id": "c2",
+            "text": "worm"
+          },
+          {
+            "id": "c3",
+            "text": "spider"
+          }
         ]
       },
-      "correct_answer": "winged ant",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Winged reproductive ants congregate during seasonal mating flights.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which insect smells with its feet?",
       "type": "mcq",
+      "prompt": "Which insect smells with its feet?",
       "options": {
         "choices": [
-          "firefly",
-          "butterfly",
-          "cricket"
+          {
+            "id": "c1",
+            "text": "firefly"
+          },
+          {
+            "id": "c2",
+            "text": "butterfly"
+          },
+          {
+            "id": "c3",
+            "text": "cricket"
+          }
         ]
       },
-      "correct_answer": "butterfly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Butterflies taste and identify host plants via chemo-receptors on their feet.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Which insect has a long tongue for nectar?",
       "type": "mcq",
+      "prompt": "Which insect has a long tongue for nectar?",
       "options": {
         "choices": [
-          "ant",
-          "butterfly",
-          "beetle"
+          {
+            "id": "c1",
+            "text": "ant"
+          },
+          {
+            "id": "c2",
+            "text": "butterfly"
+          },
+          {
+            "id": "c3",
+            "text": "beetle"
+          }
         ]
       },
-      "correct_answer": "butterfly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Butterflies unroll a long, tube-like tongue structure to drink deep nectar.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which insect has a hard outer body?",
       "type": "mcq",
+      "prompt": "Which insect has a hard outer body?",
       "options": {
         "choices": [
-          "beetle",
-          "bee",
-          "caterpillar"
+          {
+            "id": "c1",
+            "text": "beetle"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "caterpillar"
+          }
         ]
       },
-      "correct_answer": "beetle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Beetles have hardened shell modifications called elytra that shield their wings.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which insect spreads pollen?",
       "type": "mcq",
+      "prompt": "Which insect spreads pollen?",
       "options": {
         "choices": [
-          "ant",
-          "bee",
-          "grasshopper"
+          {
+            "id": "c1",
+            "text": "ant"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "grasshopper"
+          }
         ]
       },
-      "correct_answer": "bee",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Bees brush against flower centers, catching and redistributing pollen dust.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which insect starts life as an egg?",
       "type": "mcq",
+      "prompt": "Which insect starts life as an egg?",
       "options": {
         "choices": [
-          "only butterflies",
-          "all insects",
-          "only ants"
+          {
+            "id": "c1",
+            "text": "only butterflies"
+          },
+          {
+            "id": "c2",
+            "text": "all insects"
+          },
+          {
+            "id": "c3",
+            "text": "only ants"
+          }
         ]
       },
-      "correct_answer": "all insects",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Virtually all insect species cycle out from newly laid maternal eggs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which insect has long feelers on its head?",
       "type": "mcq",
+      "prompt": "Which insect has long feelers on its head?",
       "options": {
         "choices": [
-          "caterpillar",
-          "ant",
-          "moth"
+          {
+            "id": "c1",
+            "text": "caterpillar"
+          },
+          {
+            "id": "c2",
+            "text": "ant"
+          },
+          {
+            "id": "c3",
+            "text": "moth"
+          }
         ]
       },
-      "correct_answer": "moth",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Moths display distinctive long, specialized feathery feelers or antennae.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which insect has a curved stinger?",
       "type": "mcq",
+      "prompt": "Which insect has a curved stinger?",
       "options": {
         "choices": [
-          "wasp",
-          "beetle",
-          "butterfly"
+          {
+            "id": "c1",
+            "text": "wasp"
+          },
+          {
+            "id": "c2",
+            "text": "beetle"
+          },
+          {
+            "id": "c3",
+            "text": "butterfly"
+          }
         ]
       },
-      "correct_answer": "wasp",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Wasps carry smooth, sharp, needle-like curved stingers on their abdomens.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Which insect has wings that fold like a tent?",
       "type": "mcq",
+      "prompt": "Which insect has wings that fold like a tent?",
       "options": {
         "choices": [
-          "grasshopper",
-          "moth",
-          "ladybug"
+          {
+            "id": "c1",
+            "text": "grasshopper"
+          },
+          {
+            "id": "c2",
+            "text": "moth"
+          },
+          {
+            "id": "c3",
+            "text": "ladybug"
+          }
         ]
       },
-      "correct_answer": "moth",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Moths rest quietly by casting their wings flat against their back like a small tent.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Which insect makes a humming sound?",
       "type": "mcq",
+      "prompt": "Which insect makes a humming sound?",
       "options": {
         "choices": [
-          "mosquito",
-          "ant",
-          "dragonfly"
+          {
+            "id": "c1",
+            "text": "mosquito"
+          },
+          {
+            "id": "c2",
+            "text": "ant"
+          },
+          {
+            "id": "c3",
+            "text": "dragonfly"
+          }
         ]
       },
-      "correct_answer": "mosquito",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "High-speed wingbeats let female mosquitoes generate a sharp, whining hum.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which insect lives inside wood?",
       "type": "mcq",
+      "prompt": "Which insect lives inside wood?",
       "options": {
         "choices": [
-          "termite",
-          "bee",
-          "cricket"
+          {
+            "id": "c1",
+            "text": "termite"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "cricket"
+          }
         ]
       },
-      "correct_answer": "termite",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Termites construct deep social nesting chambers hidden directly inside wood structures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which insect drinks blood?",
       "type": "mcq",
+      "prompt": "Which insect drinks blood?",
       "options": {
         "choices": [
-          "butterfly",
-          "mosquito",
-          "caterpillar"
+          {
+            "id": "c1",
+            "text": "butterfly"
+          },
+          {
+            "id": "c2",
+            "text": "mosquito"
+          },
+          {
+            "id": "c3",
+            "text": "caterpillar"
+          }
         ]
       },
-      "correct_answer": "mosquito",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Female mosquitoes puncture skin boundaries to source blood protein nutrients.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which insect has a very strong jaw for cutting leaves?",
       "type": "mcq",
+      "prompt": "Which insect has a very strong jaw for cutting leaves?",
       "options": {
         "choices": [
-          "butterfly",
-          "bee",
-          "leaf-cutter ant"
+          {
+            "id": "c1",
+            "text": "butterfly"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "leaf-cutter ant"
+          }
         ]
       },
-      "correct_answer": "leaf-cutter ant",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Leaf-cutter ants scissor foliage cleanly with specialized powerful mouthparts.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Which insect has wings that shine like glass?",
       "type": "mcq",
+      "prompt": "Which insect has wings that shine like glass?",
       "options": {
         "choices": [
-          "dragonfly",
-          "beetle",
-          "ant"
+          {
+            "id": "c1",
+            "text": "dragonfly"
+          },
+          {
+            "id": "c2",
+            "text": "beetle"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "dragonfly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dragonfly wings are thin, translucent membranes that shimmer under bright light.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Which insect walks on plants and looks like a green leaf?",
       "type": "mcq",
+      "prompt": "Which insect walks on plants and looks like a green leaf?",
       "options": {
         "choices": [
-          "leaf insect",
-          "ladybug",
-          "firefly"
+          {
+            "id": "c1",
+            "text": "leaf insect"
+          },
+          {
+            "id": "c2",
+            "text": "ladybug"
+          },
+          {
+            "id": "c3",
+            "text": "firefly"
+          }
         ]
       },
-      "correct_answer": "leaf insect",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Leaf insects mimic leaf veins and matching green colors for camouflage.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which insect can spray a bad smell?",
       "type": "mcq",
+      "prompt": "Which insect can spray a bad smell?",
       "options": {
         "choices": [
-          "stink bug",
-          "bee",
-          "moth"
+          {
+            "id": "c1",
+            "text": "stink bug"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "moth"
+          }
         ]
       },
-      "correct_answer": "stink bug",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Stink bugs spray a pungent chemical mix to ward off hunting birds or lizards.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which insect has a long tail that looks like a needle?",
       "type": "mcq",
+      "prompt": "Which insect has a long tail that looks like a needle?",
       "options": {
         "choices": [
-          "wasp",
-          "grasshopper",
-          "firefly"
+          {
+            "id": "c1",
+            "text": "wasp"
+          },
+          {
+            "id": "c2",
+            "text": "grasshopper"
+          },
+          {
+            "id": "c3",
+            "text": "firefly"
+          }
         ]
       },
-      "correct_answer": "wasp",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Certain parasitic wasps hold long needle-like tails called ovipositors.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Which insect curls up inside leaves to rest?",
       "type": "mcq",
+      "prompt": "Which insect curls up inside leaves to rest?",
       "options": {
         "choices": [
-          "bee",
-          "caterpillar",
-          "dragonfly"
+          {
+            "id": "c1",
+            "text": "bee"
+          },
+          {
+            "id": "c2",
+            "text": "caterpillar"
+          },
+          {
+            "id": "c3",
+            "text": "dragonfly"
+          }
         ]
       },
-      "correct_answer": "caterpillar",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Many caterpillar species spin small silk pads to anchor and roll up inside protective leaves.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which insect makes tiny tunnels in wood?",
       "type": "mcq",
+      "prompt": "Which insect makes tiny tunnels in wood?",
       "options": {
         "choices": [
-          "termite",
-          "butterfly",
-          "beetle"
+          {
+            "id": "c1",
+            "text": "termite"
+          },
+          {
+            "id": "c2",
+            "text": "butterfly"
+          },
+          {
+            "id": "c3",
+            "text": "beetle"
+          }
         ]
       },
-      "correct_answer": "termite",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Termites tunnel systematically into wooden timbers, breaking down cellulose.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which insect is known for being noisy at night?",
       "type": "mcq",
+      "prompt": "Which insect is known for being noisy at night?",
       "options": {
         "choices": [
-          "cricket",
-          "moth",
-          "ant"
+          {
+            "id": "c1",
+            "text": "cricket"
+          },
+          {
+            "id": "c2",
+            "text": "moth"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "cricket",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Male crickets rub wing edges to amplify musical mating chirps during dark hours.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which insect has a round spotted shell?",
       "type": "mcq",
+      "prompt": "Which insect has a round spotted shell?",
       "options": {
         "choices": [
-          "bee",
-          "ladybug",
-          "dragonfly"
+          {
+            "id": "c1",
+            "text": "bee"
+          },
+          {
+            "id": "c2",
+            "text": "ladybug"
+          },
+          {
+            "id": "c3",
+            "text": "dragonfly"
+          }
         ]
       },
-      "correct_answer": "ladybug",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ladybugs boast a round, smooth dome structure painted with vivid contrast spots.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Which insect has a long thin nose for sucking nectar?",
       "type": "mcq",
+      "prompt": "Which insect has a long thin nose for sucking nectar?",
       "options": {
         "choices": [
-          "mosquito",
-          "butterfly",
-          "beetle"
+          {
+            "id": "c1",
+            "text": "mosquito"
+          },
+          {
+            "id": "c2",
+            "text": "butterfly"
+          },
+          {
+            "id": "c3",
+            "text": "beetle"
+          }
         ]
       },
-      "correct_answer": "butterfly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Butterflies use an adjustable, coiled proboscis tube to draw fluid from flower depths.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which insect lays eggs under leaves?",
       "type": "mcq",
+      "prompt": "Which insect lays eggs under leaves?",
       "options": {
         "choices": [
-          "ant",
-          "grasshopper",
-          "bee"
+          {
+            "id": "c1",
+            "text": "ant"
+          },
+          {
+            "id": "c2",
+            "text": "grasshopper"
+          },
+          {
+            "id": "c3",
+            "text": "bee"
+          }
         ]
       },
-      "correct_answer": "grasshopper",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "While many insects do this, grasshoppers also pack eggs safely inside environmental crevices or leaf folds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which insect folds its legs and hops?",
       "type": "mcq",
+      "prompt": "Which insect folds its legs and hops?",
       "options": {
         "choices": [
-          "beetle",
-          "grasshopper",
-          "wasp"
+          {
+            "id": "c1",
+            "text": "beetle"
+          },
+          {
+            "id": "c2",
+            "text": "grasshopper"
+          },
+          {
+            "id": "c3",
+            "text": "wasp"
+          }
         ]
       },
-      "correct_answer": "grasshopper",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Enlarged rear dynamic leg assemblies let grasshoppers propel themselves far.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which insect has a metallic-looking body?",
       "type": "mcq",
+      "prompt": "Which insect has a metallic-looking body?",
       "options": {
         "choices": [
-          "fire beetle",
-          "ant",
-          "cricket"
+          {
+            "id": "c1",
+            "text": "fire beetle"
+          },
+          {
+            "id": "c2",
+            "text": "ant"
+          },
+          {
+            "id": "c3",
+            "text": "cricket"
+          }
         ]
       },
-      "correct_answer": "fire beetle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Fire beetles display bright, shining metallic structural hues across their hard shells.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which insect swims using its legs?",
       "type": "mcq",
+      "prompt": "Which insect swims using its legs?",
       "options": {
         "choices": [
-          "water beetle",
-          "fly",
-          "bee"
+          {
+            "id": "c1",
+            "text": "water beetle"
+          },
+          {
+            "id": "c2",
+            "text": "fly"
+          },
+          {
+            "id": "c3",
+            "text": "bee"
+          }
         ]
       },
-      "correct_answer": "water beetle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Water beetles utilize hair-fringed rear legs like flat oars to paddle forward through ponds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which insect can bite and leave a red bump?",
       "type": "mcq",
+      "prompt": "Which insect can bite and leave a red bump?",
       "options": {
         "choices": [
-          "ladybug",
-          "fly",
-          "ant"
+          {
+            "id": "c1",
+            "text": "ladybug"
+          },
+          {
+            "id": "c2",
+            "text": "fly"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "ant",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Aggressive ants can pinch skin boundaries with mandibles, leaving localized sore updates.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which insect dances to talk to others?",
       "type": "mcq",
+      "prompt": "Which insect dances to talk to others?",
       "options": {
         "choices": [
-          "bee",
-          "spider",
-          "cricket"
+          {
+            "id": "c1",
+            "text": "bee"
+          },
+          {
+            "id": "c2",
+            "text": "spider"
+          },
+          {
+            "id": "c3",
+            "text": "cricket"
+          }
         ]
       },
-      "correct_answer": "bee",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Honeybees execute a unique figure-eight 'waggle dance' to map vector locations to fresh flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which insect has a long tongue called a proboscis?",
       "type": "mcq",
+      "prompt": "Which insect has a long tongue called a proboscis?",
       "options": {
         "choices": [
-          "butterfly",
-          "grasshopper",
-          "beetle"
+          {
+            "id": "c1",
+            "text": "butterfly"
+          },
+          {
+            "id": "c2",
+            "text": "grasshopper"
+          },
+          {
+            "id": "c3",
+            "text": "beetle"
+          }
         ]
       },
-      "correct_answer": "butterfly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The elongated sucking snout tool found on butterflies is scientifically named a proboscis.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which insect digs holes in the ground to live?",
       "type": "mcq",
+      "prompt": "Which insect digs holes in the ground to live?",
       "options": {
         "choices": [
-          "antlion",
-          "firefly",
-          "moth"
+          {
+            "id": "c1",
+            "text": "antlion"
+          },
+          {
+            "id": "c2",
+            "text": "firefly"
+          },
+          {
+            "id": "c3",
+            "text": "moth"
+          }
         ]
       },
-      "correct_answer": "antlion",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Antlion larvae carve out specialized conical sand traps to capture sliding ants.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which insect has two pairs of wings?",
       "type": "mcq",
+      "prompt": "Which insect has two pairs of wings?",
       "options": {
         "choices": [
-          "dinosaur",
-          "butterfly",
-          "ant"
+          {
+            "id": "c1",
+            "text": "dinosaur"
+          },
+          {
+            "id": "c2",
+            "text": "butterfly"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "butterfly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Butterflies balance flight patterns with two pairs of large colorful wings working together.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which insect has tiny hairs all over its body?",
       "type": "mcq",
+      "prompt": "Which insect has tiny hairs all over its body?",
       "options": {
         "choices": [
-          "caterpillar",
-          "beetle",
-          "dragonfly"
+          {
+            "id": "c1",
+            "text": "caterpillar"
+          },
+          {
+            "id": "c2",
+            "text": "beetle"
+          },
+          {
+            "id": "c3",
+            "text": "dragonfly"
+          }
         ]
       },
-      "correct_answer": "caterpillar",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Many moth and butterfly caterpillar varieties emerge heavily blanketed in sensory hairs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which insect can jump from plant to plant?",
       "type": "mcq",
+      "prompt": "Which insect can jump from plant to plant?",
       "options": {
         "choices": [
-          "grasshopper",
-          "butterfly",
-          "moth"
+          {
+            "id": "c1",
+            "text": "grasshopper"
+          },
+          {
+            "id": "c2",
+            "text": "butterfly"
+          },
+          {
+            "id": "c3",
+            "text": "moth"
+          }
         ]
       },
-      "correct_answer": "grasshopper",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "High-impact spring joints launch grasshoppers easily over adjacent field plants.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which insect makes buzzing sounds at night?",
       "type": "mcq",
+      "prompt": "Which insect makes buzzing sounds at night?",
       "options": {
         "choices": [
-          "cricket",
-          "june bug",
-          "ant"
+          {
+            "id": "c1",
+            "text": "cricket"
+          },
+          {
+            "id": "c2",
+            "text": "june bug"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "june bug",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "June bugs fly clumsy holding vectors near evening porch lights, humming loudly as they go.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which insect drinks nectar at night?",
       "type": "mcq",
+      "prompt": "Which insect drinks nectar at night?",
       "options": {
         "choices": [
-          "moth",
-          "bee",
-          "ladybug"
+          {
+            "id": "c1",
+            "text": "moth"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "ladybug"
+          }
         ]
       },
-      "correct_answer": "moth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Nocturnal moths navigate via starlight to drink from pale, night-blooming flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Which insect digs tiny holes in leaves?",
       "type": "mcq",
+      "prompt": "Which insect digs tiny holes in leaves?",
       "options": {
         "choices": [
-          "leaf miner",
-          "bee",
-          "cricket"
+          {
+            "id": "c1",
+            "text": "leaf miner"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "cricket"
+          }
         ]
       },
-      "correct_answer": "leaf miner",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Tiny leaf miner larvae feed within leaf structures, eating winding trails inside.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which insect has wings that look dusty?",
       "type": "mcq",
+      "prompt": "Which insect has wings that look dusty?",
       "options": {
         "choices": [
-          "moth",
-          "ant",
-          "dragonfly"
+          {
+            "id": "c1",
+            "text": "moth"
+          },
+          {
+            "id": "c2",
+            "text": "ant"
+          },
+          {
+            "id": "c3",
+            "text": "dragonfly"
+          }
         ]
       },
-      "correct_answer": "moth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Moths carry microscopic, delicate scale overlays that shed off like fine dust when touched.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which insect lives in huge mounds?",
       "type": "mcq",
+      "prompt": "Which insect lives in huge mounds?",
       "options": {
         "choices": [
-          "wasp",
-          "termite",
-          "butterfly"
+          {
+            "id": "c1",
+            "text": "wasp"
+          },
+          {
+            "id": "c2",
+            "text": "termite"
+          },
+          {
+            "id": "c3",
+            "text": "butterfly"
+          }
         ]
       },
-      "correct_answer": "termite",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Termites construct monumental earthen mounds to protect core nesting chambers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Which insect builds paper-like nests?",
       "type": "mcq",
+      "prompt": "Which insect builds paper-like nests?",
       "options": {
         "choices": [
-          "wasp",
-          "beetle",
-          "spider"
+          {
+            "id": "c1",
+            "text": "wasp"
+          },
+          {
+            "id": "c2",
+            "text": "beetle"
+          },
+          {
+            "id": "c3",
+            "text": "spider"
+          }
         ]
       },
-      "correct_answer": "wasp",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Wasps chew up weather-worn wood fibers into paste to mold thin, gray paper nest cells.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Which insect can change color to hide?",
       "type": "mcq",
+      "prompt": "Which insect can change color to hide?",
       "options": {
         "choices": [
-          "praying mantis",
-          "ant",
-          "fly"
+          {
+            "id": "c1",
+            "text": "praying mantis"
+          },
+          {
+            "id": "c2",
+            "text": "ant"
+          },
+          {
+            "id": "c3",
+            "text": "fly"
+          }
         ]
       },
-      "correct_answer": "praying mantis",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Certain mantis variants shift or match their body colors to hide along local vegetation fields.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Which insect catches other insects to eat?",
       "type": "mcq",
+      "prompt": "Which insect catches other insects to eat?",
       "options": {
         "choices": [
-          "praying mantis",
-          "beetle",
-          "firefly"
+          {
+            "id": "c1",
+            "text": "praying mantis"
+          },
+          {
+            "id": "c2",
+            "text": "beetle"
+          },
+          {
+            "id": "c3",
+            "text": "firefly"
+          }
         ]
       },
-      "correct_answer": "praying mantis",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Praying mantises utilize lightning-fast spiked front legs to capture and eat live prey insects.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Which insect can jump higher than its size?",
       "type": "mcq",
+      "prompt": "Which insect can jump higher than its size?",
       "options": {
         "choices": [
-          "flea",
-          "caterpillar",
-          "ant"
+          {
+            "id": "c1",
+            "text": "flea"
+          },
+          {
+            "id": "c2",
+            "text": "caterpillar"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "flea",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Fleas utilize a specialized elastic protein spring to vault up to 200 times their body length.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Which insect lives on pets and sucks blood?",
       "type": "mcq",
+      "prompt": "Which insect lives on pets and sucks blood?",
       "options": {
         "choices": [
-          "moth",
-          "flea",
-          "beetle"
+          {
+            "id": "c1",
+            "text": "moth"
+          },
+          {
+            "id": "c2",
+            "text": "flea"
+          },
+          {
+            "id": "c3",
+            "text": "beetle"
+          }
         ]
       },
-      "correct_answer": "flea",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Parasitic fleas live in dog or cat fur coats to consume small drops of blood.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which insect makes a clicking noise when it flips?",
       "type": "mcq",
+      "prompt": "Which insect makes a clicking noise when it flips?",
       "options": {
         "choices": [
-          "click beetle",
-          "fly",
-          "ladybug"
+          {
+            "id": "c1",
+            "text": "click beetle"
+          },
+          {
+            "id": "c2",
+            "text": "fly"
+          },
+          {
+            "id": "c3",
+            "text": "ladybug"
+          }
         ]
       },
-      "correct_answer": "click beetle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "When stranded on their back, click beetles flex a unique hinge mechanism to flip up with an audible snap.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Which insect has wings that open sideways?",
       "type": "mcq",
+      "prompt": "Which insect has wings that open sideways?",
       "options": {
         "choices": [
-          "dragonfly",
-          "ant",
-          "mosquito"
+          {
+            "id": "c1",
+            "text": "dragonfly"
+          },
+          {
+            "id": "c2",
+            "text": "ant"
+          },
+          {
+            "id": "c3",
+            "text": "mosquito"
+          }
         ]
       },
-      "correct_answer": "dragonfly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dragonflies rest with their long wings held wide out to the sides horizontally.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which insect has a strong shell and likes bright lights?",
       "type": "mcq",
+      "prompt": "Which insect has a strong shell and likes bright lights?",
       "options": {
         "choices": [
-          "june bug",
-          "spider",
-          "mosquito"
+          {
+            "id": "c1",
+            "text": "june bug"
+          },
+          {
+            "id": "c2",
+            "text": "spider"
+          },
+          {
+            "id": "c3",
+            "text": "mosquito"
+          }
         ]
       },
-      "correct_answer": "june bug",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Heavy-bodied June bugs are strongly attracted to artificial porch or window lights at night.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which insect drinks from fruit juices?",
       "type": "mcq",
+      "prompt": "Which insect drinks from fruit juices?",
       "options": {
         "choices": [
-          "butterfly",
-          "fly",
-          "beetle"
+          {
+            "id": "c1",
+            "text": "butterfly"
+          },
+          {
+            "id": "c2",
+            "text": "fly"
+          },
+          {
+            "id": "c3",
+            "text": "beetle"
+          }
         ]
       },
-      "correct_answer": "butterfly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Butterflies eagerly draw sugars out from bruised, decaying sweet fruits dropped on the ground.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Which insect has very short antennae?",
       "type": "mcq",
+      "prompt": "Which insect has very short antennae?",
       "options": {
         "choices": [
-          "beetle",
-          "butterfly",
-          "cricket"
+          {
+            "id": "c1",
+            "text": "beetle"
+          },
+          {
+            "id": "c2",
+            "text": "butterfly"
+          },
+          {
+            "id": "c3",
+            "text": "cricket"
+          }
         ]
       },
-      "correct_answer": "butterfly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "While many variants differ, standard houseflies or specific butterfly families present compact antennae gear.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which insect sings loudly during summer?",
       "type": "mcq",
+      "prompt": "Which insect sings loudly during summer?",
       "options": {
         "choices": [
-          "wasp",
-          "ant",
-          "cicada"
+          {
+            "id": "c1",
+            "text": "wasp"
+          },
+          {
+            "id": "c2",
+            "text": "ant"
+          },
+          {
+            "id": "c3",
+            "text": "cicada"
+          }
         ]
       },
-      "correct_answer": "cicada",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Male cicadas flex vibrating drum membranes called tymbals to generate a loud summer hum.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which insect has clear wings and a long thin body?",
       "type": "mcq",
+      "prompt": "Which insect has clear wings and a long thin body?",
       "options": {
         "choices": [
-          "dragonfly",
-          "cricket",
-          "bee"
+          {
+            "id": "c1",
+            "text": "dragonfly"
+          },
+          {
+            "id": "c2",
+            "text": "cricket"
+          },
+          {
+            "id": "c3",
+            "text": "bee"
+          }
         ]
       },
-      "correct_answer": "dragonfly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dragonflies combine needle-shaped slender frames with glass-clear wing sheets.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "What is another name for a ladybug?",
       "type": "mcq",
+      "prompt": "What is another name for a ladybug?",
       "options": {
         "choices": [
-          "ladybird",
-          "bee",
-          "beautiful bird"
+          {
+            "id": "c1",
+            "text": "ladybird"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "beautiful bird"
+          }
         ]
       },
-      "correct_answer": "ladybird",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "In many English-speaking regions, ladybugs are traditionally known as ladybird beetles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "What do bees make?",
       "type": "mcq",
+      "prompt": "What do bees make?",
       "options": {
         "choices": [
-          "juice",
-          "honey",
-          "milk"
+          {
+            "id": "c1",
+            "text": "juice"
+          },
+          {
+            "id": "c2",
+            "text": "honey"
+          },
+          {
+            "id": "c3",
+            "text": "milk"
+          }
         ]
       },
-      "correct_answer": "honey",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Bees process gathered nectar inside their hives to store sweet honey supplies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Where do bees live?",
       "type": "mcq",
+      "prompt": "Where do bees live?",
       "options": {
         "choices": [
-          "beehive",
-          "doghouse",
-          "cave"
+          {
+            "id": "c1",
+            "text": "beehive"
+          },
+          {
+            "id": "c2",
+            "text": "doghouse"
+          },
+          {
+            "id": "c3",
+            "text": "cave"
+          }
         ]
       },
-      "correct_answer": "beehive",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Social bee colonies build or find sheltered beehive enclosures to preserve their home structure.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "What do bees collect from flowers?",
       "type": "mcq",
+      "prompt": "What do bees collect from flowers?",
       "options": {
         "choices": [
-          "sand",
-          "nectar",
-          "water"
+          {
+            "id": "c1",
+            "text": "sand"
+          },
+          {
+            "id": "c2",
+            "text": "nectar"
+          },
+          {
+            "id": "c3",
+            "text": "water"
+          }
         ]
       },
-      "correct_answer": "nectar",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Bees lap up sweet liquid nectar from flower blooms to feed the hive.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which bee is the leader of the hive?",
       "type": "mcq",
+      "prompt": "Which bee is the leader of the hive?",
       "options": {
         "choices": [
-          "worker bee",
-          "queen bee",
-          "baby bee"
+          {
+            "id": "c1",
+            "text": "worker bee"
+          },
+          {
+            "id": "c2",
+            "text": "queen bee"
+          },
+          {
+            "id": "c3",
+            "text": "baby bee"
+          }
         ]
       },
-      "correct_answer": "queen bee",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The queen bee serves as the solitary reproductive core and matrix leader of the hive.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "What do bees use to protect themselves?",
       "type": "mcq",
+      "prompt": "What do bees use to protect themselves?",
       "options": {
         "choices": [
-          "stinger",
-          "claws",
-          "teeth"
+          {
+            "id": "c1",
+            "text": "stinger"
+          },
+          {
+            "id": "c2",
+            "text": "claws"
+          },
+          {
+            "id": "c3",
+            "text": "teeth"
+          }
         ]
       },
-      "correct_answer": "stinger",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Bees employ a sharp abdominal stinger structure to inject defensive venom.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "What do bees make their honeycomb from?",
       "type": "mcq",
+      "prompt": "What do bees make their honeycomb from?",
       "options": {
         "choices": [
-          "wax",
-          "mud",
-          "leaves"
+          {
+            "id": "c1",
+            "text": "wax"
+          },
+          {
+            "id": "c2",
+            "text": "mud"
+          },
+          {
+            "id": "c3",
+            "text": "leaves"
+          }
         ]
       },
-      "correct_answer": "wax",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Special gland outputs along a bee's abdomen create natural beeswax blocks to build comb patterns.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

@@ -1,2316 +1,3815 @@
 {
   "_source_file": "kg3_math_how_many.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "tap_select",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "math-how-many",
-    "title": "How Many?",
-    "quiz_type": "tap_select",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.507Z",
+  "slug": "math-how-many",
+  "title": "How Many?",
+  "level": "kg3",
+  "subject": "math",
+  "quiz_type": "tap_select",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "How many cars?",
       "type": "tap_select",
+      "prompt": "How many cars?",
       "options": {
         "mode": "match",
         "choices": [
-          "3",
-          "4",
-          "1",
-          "2"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "1"
+          },
+          {
+            "id": "c4",
+            "text": "2"
+          }
         ],
-        "scene_emoji": "🚗🚗🚗",
-        "correct_choices": [
-          "3"
+        "scene": {
+          "emoji": "🚗",
+          "count": 3
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "3",
       "explanation": "Count them: 1, 2, 3. There are three (3) cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "How many balloons?",
       "type": "tap_select",
+      "prompt": "How many balloons?",
       "options": {
         "mode": "match",
         "choices": [
-          "4",
-          "3",
-          "2",
-          "1"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          },
+          {
+            "id": "c4",
+            "text": "1"
+          }
         ],
-        "scene_emoji": "🎈🎈",
-        "correct_choices": [
-          "2"
+        "scene": {
+          "emoji": "🎈",
+          "count": 2
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "2",
       "explanation": "Count them: 1, 2. There are two (2) balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "How many ladybugs?",
       "type": "tap_select",
+      "prompt": "How many ladybugs?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "9",
-          "8",
-          "6"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🐞🐞🐞🐞🐞🐞🐞🐞",
-        "correct_choices": [
-          "8"
+        "scene": {
+          "emoji": "🐞",
+          "count": 8
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "8",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8. There are eight (8) ladybugs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "How many cars?",
       "type": "tap_select",
+      "prompt": "How many cars?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "8",
-          "5",
-          "6"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🚗🚗🚗🚗🚗🚗🚗",
-        "correct_choices": [
-          "7"
+        "scene": {
+          "emoji": "🚗",
+          "count": 7
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "7",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7. There are seven (7) cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "How many bananas?",
       "type": "tap_select",
+      "prompt": "How many bananas?",
       "options": {
         "mode": "match",
         "choices": [
-          "8",
-          "9",
-          "6",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "7"
+          }
         ],
-        "scene_emoji": "🍌🍌🍌🍌🍌🍌🍌🍌",
-        "correct_choices": [
-          "8"
+        "scene": {
+          "emoji": "🍌",
+          "count": 8
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "8",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8. There are eight (8) bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "How many oranges?",
       "type": "tap_select",
+      "prompt": "How many oranges?",
       "options": {
         "mode": "match",
         "choices": [
-          "3",
-          "2",
-          "4",
-          "1"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          },
+          {
+            "id": "c4",
+            "text": "1"
+          }
         ],
-        "scene_emoji": "🍊🍊",
-        "correct_choices": [
-          "2"
+        "scene": {
+          "emoji": "🍊",
+          "count": 2
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "2",
       "explanation": "Count them: 1, 2. There are two (2) oranges.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "How many turtles?",
       "type": "tap_select",
+      "prompt": "How many turtles?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "8",
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "9"
+          },
+          {
+            "id": "c4",
+            "text": "10"
+          }
         ],
-        "scene_emoji": "🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢",
-        "correct_choices": [
-          "10"
+        "scene": {
+          "emoji": "🐢",
+          "count": 10
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "10",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. There are ten (10) turtles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "How many dogs?",
       "type": "tap_select",
+      "prompt": "How many dogs?",
       "options": {
         "mode": "match",
         "choices": [
-          "2",
-          "1",
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          },
+          {
+            "id": "c4",
+            "text": "3"
+          }
         ],
-        "scene_emoji": "🐶",
-        "correct_choices": [
-          "1"
+        "scene": {
+          "emoji": "🐶",
+          "count": 1
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "1",
       "explanation": "Count them: 1. There are one (1) dogs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "How many fish?",
       "type": "tap_select",
+      "prompt": "How many fish?",
       "options": {
         "mode": "match",
         "choices": [
-          "1",
-          "2",
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🐟",
-        "correct_choices": [
-          "1"
+        "scene": {
+          "emoji": "🐟",
+          "count": 1
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "1",
       "explanation": "Count them: 1. There are one (1) fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "How many bees?",
       "type": "tap_select",
+      "prompt": "How many bees?",
       "options": {
         "mode": "match",
         "choices": [
-          "4",
-          "3",
-          "1",
-          "2"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "1"
+          },
+          {
+            "id": "c4",
+            "text": "2"
+          }
         ],
-        "scene_emoji": "🐝🐝🐝",
-        "correct_choices": [
-          "3"
+        "scene": {
+          "emoji": "🐝",
+          "count": 3
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "3",
       "explanation": "Count them: 1, 2, 3. There are three (3) bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "How many apples?",
       "type": "tap_select",
+      "prompt": "How many apples?",
       "options": {
         "mode": "match",
         "choices": [
-          "8",
-          "10",
-          "9",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "9"
+          },
+          {
+            "id": "c4",
+            "text": "7"
+          }
         ],
-        "scene_emoji": "🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎",
-        "correct_choices": [
-          "10"
+        "scene": {
+          "emoji": "🍎",
+          "count": 10
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "10",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. There are ten (10) apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "How many stars?",
       "type": "tap_select",
+      "prompt": "How many stars?",
       "options": {
         "mode": "match",
         "choices": [
-          "6",
-          "3",
-          "5",
-          "4"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "⭐⭐⭐⭐⭐",
-        "correct_choices": [
-          "5"
+        "scene": {
+          "emoji": "⭐",
+          "count": 5
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "5",
       "explanation": "Count them: 1, 2, 3, 4, 5. There are five (5) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "How many ducks?",
       "type": "tap_select",
+      "prompt": "How many ducks?",
       "options": {
         "mode": "match",
         "choices": [
-          "2",
-          "4",
-          "1",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "1"
+          },
+          {
+            "id": "c4",
+            "text": "3"
+          }
         ],
-        "scene_emoji": "🦆🦆",
-        "correct_choices": [
-          "2"
+        "scene": {
+          "emoji": "🦆",
+          "count": 2
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "2",
       "explanation": "Count them: 1, 2. There are two (2) ducks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "How many strawberries?",
       "type": "tap_select",
+      "prompt": "How many strawberries?",
       "options": {
         "mode": "match",
         "choices": [
-          "1",
-          "3",
-          "4",
-          "2"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          },
+          {
+            "id": "c4",
+            "text": "2"
+          }
         ],
-        "scene_emoji": "🍓🍓",
-        "correct_choices": [
-          "2"
+        "scene": {
+          "emoji": "🍓",
+          "count": 2
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "2",
       "explanation": "Count them: 1, 2. There are two (2) strawberries.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "How many stars?",
       "type": "tap_select",
+      "prompt": "How many stars?",
       "options": {
         "mode": "match",
         "choices": [
-          "8",
-          "6",
-          "9",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "9"
+          },
+          {
+            "id": "c4",
+            "text": "7"
+          }
         ],
-        "scene_emoji": "⭐⭐⭐⭐⭐⭐⭐⭐",
-        "correct_choices": [
-          "8"
+        "scene": {
+          "emoji": "⭐",
+          "count": 8
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "8",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8. There are eight (8) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "How many ducks?",
       "type": "tap_select",
+      "prompt": "How many ducks?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "8",
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "5"
+          }
         ],
-        "scene_emoji": "🦆🦆🦆🦆🦆🦆🦆",
-        "correct_choices": [
-          "7"
+        "scene": {
+          "emoji": "🦆",
+          "count": 7
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "7",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7. There are seven (7) ducks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "How many oranges?",
       "type": "tap_select",
+      "prompt": "How many oranges?",
       "options": {
         "mode": "match",
         "choices": [
-          "8",
-          "7",
-          "5",
-          "6"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🍊🍊🍊🍊🍊🍊🍊",
-        "correct_choices": [
-          "7"
+        "scene": {
+          "emoji": "🍊",
+          "count": 7
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "7",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7. There are seven (7) oranges.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "How many cats?",
       "type": "tap_select",
+      "prompt": "How many cats?",
       "options": {
         "mode": "match",
         "choices": [
-          "4",
-          "1",
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          },
+          {
+            "id": "c4",
+            "text": "3"
+          }
         ],
-        "scene_emoji": "🐱🐱🐱",
-        "correct_choices": [
-          "3"
+        "scene": {
+          "emoji": "🐱",
+          "count": 3
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "3",
       "explanation": "Count them: 1, 2, 3. There are three (3) cats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "How many strawberries?",
       "type": "tap_select",
+      "prompt": "How many strawberries?",
       "options": {
         "mode": "match",
         "choices": [
-          "2",
-          "4",
-          "3",
-          "5"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "5"
+          }
         ],
-        "scene_emoji": "🍓🍓🍓🍓",
-        "correct_choices": [
-          "4"
+        "scene": {
+          "emoji": "🍓",
+          "count": 4
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "4",
       "explanation": "Count them: 1, 2, 3, 4. There are four (4) strawberries.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "How many butterflies?",
       "type": "tap_select",
+      "prompt": "How many butterflies?",
       "options": {
         "mode": "match",
         "choices": [
-          "6",
-          "9",
-          "7",
-          "8"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          },
+          {
+            "id": "c4",
+            "text": "8"
+          }
         ],
-        "scene_emoji": "🦋🦋🦋🦋🦋🦋🦋🦋",
-        "correct_choices": [
-          "8"
+        "scene": {
+          "emoji": "🦋",
+          "count": 8
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "8",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8. There are eight (8) butterflies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "How many daisies?",
       "type": "tap_select",
+      "prompt": "How many daisies?",
       "options": {
         "mode": "match",
         "choices": [
-          "1",
-          "4",
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          },
+          {
+            "id": "c4",
+            "text": "3"
+          }
         ],
-        "scene_emoji": "🌼",
-        "correct_choices": [
-          "1"
+        "scene": {
+          "emoji": "🌼",
+          "count": 1
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "1",
       "explanation": "Count them: 1. There are one (1) daisies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "How many butterflies?",
       "type": "tap_select",
+      "prompt": "How many butterflies?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "5",
-          "8",
-          "6"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🦋🦋🦋🦋🦋🦋🦋",
-        "correct_choices": [
-          "7"
+        "scene": {
+          "emoji": "🦋",
+          "count": 7
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "7",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7. There are seven (7) butterflies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "How many cars?",
       "type": "tap_select",
+      "prompt": "How many cars?",
       "options": {
         "mode": "match",
         "choices": [
-          "8",
-          "10",
-          "9",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "9"
+          },
+          {
+            "id": "c4",
+            "text": "7"
+          }
         ],
-        "scene_emoji": "🚗🚗🚗🚗🚗🚗🚗🚗🚗",
-        "correct_choices": [
-          "9"
+        "scene": {
+          "emoji": "🚗",
+          "count": 9
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "9",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9. There are nine (9) cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "How many cats?",
       "type": "tap_select",
+      "prompt": "How many cats?",
       "options": {
         "mode": "match",
         "choices": [
-          "1",
-          "4",
-          "3",
-          "2"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "2"
+          }
         ],
-        "scene_emoji": "🐱",
-        "correct_choices": [
-          "1"
+        "scene": {
+          "emoji": "🐱",
+          "count": 1
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "1",
       "explanation": "Count them: 1. There are one (1) cats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "How many turtles?",
       "type": "tap_select",
+      "prompt": "How many turtles?",
       "options": {
         "mode": "match",
         "choices": [
-          "3",
-          "2",
-          "5",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🐢🐢🐢🐢",
-        "correct_choices": [
-          "4"
+        "scene": {
+          "emoji": "🐢",
+          "count": 4
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "4",
       "explanation": "Count them: 1, 2, 3, 4. There are four (4) turtles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "How many bees?",
       "type": "tap_select",
+      "prompt": "How many bees?",
       "options": {
         "mode": "match",
         "choices": [
-          "2",
-          "5",
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🐝🐝🐝🐝",
-        "correct_choices": [
-          "4"
+        "scene": {
+          "emoji": "🐝",
+          "count": 4
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "4",
       "explanation": "Count them: 1, 2, 3, 4. There are four (4) bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "How many dogs?",
       "type": "tap_select",
+      "prompt": "How many dogs?",
       "options": {
         "mode": "match",
         "choices": [
-          "4",
-          "3",
-          "2",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          },
+          {
+            "id": "c4",
+            "text": "5"
+          }
         ],
-        "scene_emoji": "🐶🐶🐶🐶",
-        "correct_choices": [
-          "4"
+        "scene": {
+          "emoji": "🐶",
+          "count": 4
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "4",
       "explanation": "Count them: 1, 2, 3, 4. There are four (4) dogs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "How many cookies?",
       "type": "tap_select",
+      "prompt": "How many cookies?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "5",
-          "6",
-          "8"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "8"
+          }
         ],
-        "scene_emoji": "🍪🍪🍪🍪🍪🍪🍪",
-        "correct_choices": [
-          "7"
+        "scene": {
+          "emoji": "🍪",
+          "count": 7
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "7",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7. There are seven (7) cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "How many butterflies?",
       "type": "tap_select",
+      "prompt": "How many butterflies?",
       "options": {
         "mode": "match",
         "choices": [
-          "3",
-          "4",
-          "5",
-          "2"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          },
+          {
+            "id": "c4",
+            "text": "2"
+          }
         ],
-        "scene_emoji": "🦋🦋🦋🦋",
-        "correct_choices": [
-          "4"
+        "scene": {
+          "emoji": "🦋",
+          "count": 4
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "4",
       "explanation": "Count them: 1, 2, 3, 4. There are four (4) butterflies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "How many bananas?",
       "type": "tap_select",
+      "prompt": "How many bananas?",
       "options": {
         "mode": "match",
         "choices": [
-          "8",
-          "7",
-          "5",
-          "6"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🍌🍌🍌🍌🍌🍌🍌",
-        "correct_choices": [
-          "7"
+        "scene": {
+          "emoji": "🍌",
+          "count": 7
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "7",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7. There are seven (7) bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "How many cats?",
       "type": "tap_select",
+      "prompt": "How many cats?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "9",
-          "10",
-          "8"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          },
+          {
+            "id": "c3",
+            "text": "10"
+          },
+          {
+            "id": "c4",
+            "text": "8"
+          }
         ],
-        "scene_emoji": "🐱🐱🐱🐱🐱🐱🐱🐱🐱",
-        "correct_choices": [
-          "9"
+        "scene": {
+          "emoji": "🐱",
+          "count": 9
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "9",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9. There are nine (9) cats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "How many ducks?",
       "type": "tap_select",
+      "prompt": "How many ducks?",
       "options": {
         "mode": "match",
         "choices": [
-          "2",
-          "5",
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🦆🦆🦆🦆",
-        "correct_choices": [
-          "4"
+        "scene": {
+          "emoji": "🦆",
+          "count": 4
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "4",
       "explanation": "Count them: 1, 2, 3, 4. There are four (4) ducks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "How many bananas?",
       "type": "tap_select",
+      "prompt": "How many bananas?",
       "options": {
         "mode": "match",
         "choices": [
-          "9",
-          "7",
-          "10",
-          "8"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "10"
+          },
+          {
+            "id": "c4",
+            "text": "8"
+          }
         ],
-        "scene_emoji": "🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌",
-        "correct_choices": [
-          "10"
+        "scene": {
+          "emoji": "🍌",
+          "count": 10
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "10",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. There are ten (10) bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "How many apples?",
       "type": "tap_select",
+      "prompt": "How many apples?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "8",
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "9"
+          },
+          {
+            "id": "c4",
+            "text": "10"
+          }
         ],
-        "scene_emoji": "🍎🍎🍎🍎🍎🍎🍎🍎🍎",
-        "correct_choices": [
-          "9"
+        "scene": {
+          "emoji": "🍎",
+          "count": 9
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "9",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9. There are nine (9) apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "How many cookies?",
       "type": "tap_select",
+      "prompt": "How many cookies?",
       "options": {
         "mode": "match",
         "choices": [
-          "5",
-          "7",
-          "6",
-          "4"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🍪🍪🍪🍪🍪🍪",
-        "correct_choices": [
-          "6"
+        "scene": {
+          "emoji": "🍪",
+          "count": 6
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "6",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6. There are six (6) cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "How many ladybugs?",
       "type": "tap_select",
+      "prompt": "How many ladybugs?",
       "options": {
         "mode": "match",
         "choices": [
-          "5",
-          "7",
-          "6",
-          "8"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "8"
+          }
         ],
-        "scene_emoji": "🐞🐞🐞🐞🐞🐞🐞",
-        "correct_choices": [
-          "7"
+        "scene": {
+          "emoji": "🐞",
+          "count": 7
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "7",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7. There are seven (7) ladybugs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "How many apples?",
       "type": "tap_select",
+      "prompt": "How many apples?",
       "options": {
         "mode": "match",
         "choices": [
-          "3",
-          "1",
-          "2",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🍎🍎",
-        "correct_choices": [
-          "2"
+        "scene": {
+          "emoji": "🍎",
+          "count": 2
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "2",
       "explanation": "Count them: 1, 2. There are two (2) apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "How many balloons?",
       "type": "tap_select",
+      "prompt": "How many balloons?",
       "options": {
         "mode": "match",
         "choices": [
-          "2",
-          "5",
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          },
+          {
+            "id": "c4",
+            "text": "3"
+          }
         ],
-        "scene_emoji": "🎈🎈🎈🎈",
-        "correct_choices": [
-          "4"
+        "scene": {
+          "emoji": "🎈",
+          "count": 4
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "4",
       "explanation": "Count them: 1, 2, 3, 4. There are four (4) balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "How many fish?",
       "type": "tap_select",
+      "prompt": "How many fish?",
       "options": {
         "mode": "match",
         "choices": [
-          "9",
-          "10",
-          "8",
-          "7"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          },
+          {
+            "id": "c4",
+            "text": "7"
+          }
         ],
-        "scene_emoji": "🐟🐟🐟🐟🐟🐟🐟🐟🐟",
-        "correct_choices": [
-          "9"
+        "scene": {
+          "emoji": "🐟",
+          "count": 9
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "9",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9. There are nine (9) fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "How many cars?",
       "type": "tap_select",
+      "prompt": "How many cars?",
       "options": {
         "mode": "match",
         "choices": [
-          "5",
-          "3",
-          "4",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🚗🚗🚗🚗🚗",
-        "correct_choices": [
-          "5"
+        "scene": {
+          "emoji": "🚗",
+          "count": 5
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "5",
       "explanation": "Count them: 1, 2, 3, 4, 5. There are five (5) cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "How many apples?",
       "type": "tap_select",
+      "prompt": "How many apples?",
       "options": {
         "mode": "match",
         "choices": [
-          "4",
-          "2",
-          "3",
-          "1"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "1"
+          }
         ],
-        "scene_emoji": "🍎",
-        "correct_choices": [
-          "1"
+        "scene": {
+          "emoji": "🍎",
+          "count": 1
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "1",
       "explanation": "Count them: 1. There are one (1) apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "How many apples?",
       "type": "tap_select",
+      "prompt": "How many apples?",
       "options": {
         "mode": "match",
         "choices": [
-          "3",
-          "6",
-          "5",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🍎🍎🍎🍎🍎",
-        "correct_choices": [
-          "5"
+        "scene": {
+          "emoji": "🍎",
+          "count": 5
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "5",
       "explanation": "Count them: 1, 2, 3, 4, 5. There are five (5) apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "How many cats?",
       "type": "tap_select",
+      "prompt": "How many cats?",
       "options": {
         "mode": "match",
         "choices": [
-          "9",
-          "8",
-          "7",
-          "6"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🐱🐱🐱🐱🐱🐱🐱🐱",
-        "correct_choices": [
-          "8"
+        "scene": {
+          "emoji": "🐱",
+          "count": 8
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "8",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8. There are eight (8) cats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "How many bees?",
       "type": "tap_select",
+      "prompt": "How many bees?",
       "options": {
         "mode": "match",
         "choices": [
-          "9",
-          "10",
-          "8",
-          "7"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          },
+          {
+            "id": "c4",
+            "text": "7"
+          }
         ],
-        "scene_emoji": "🐝🐝🐝🐝🐝🐝🐝🐝🐝",
-        "correct_choices": [
-          "9"
+        "scene": {
+          "emoji": "🐝",
+          "count": 9
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "9",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9. There are nine (9) bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "How many stars?",
       "type": "tap_select",
+      "prompt": "How many stars?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "6",
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          },
+          {
+            "id": "c4",
+            "text": "5"
+          }
         ],
-        "scene_emoji": "⭐⭐⭐⭐⭐⭐",
-        "correct_choices": [
-          "6"
+        "scene": {
+          "emoji": "⭐",
+          "count": 6
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "6",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6. There are six (6) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "How many turtles?",
       "type": "tap_select",
+      "prompt": "How many turtles?",
       "options": {
         "mode": "match",
         "choices": [
-          "4",
-          "2",
-          "3",
-          "1"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "1"
+          }
         ],
-        "scene_emoji": "🐢",
-        "correct_choices": [
-          "1"
+        "scene": {
+          "emoji": "🐢",
+          "count": 1
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "1",
       "explanation": "Count them: 1. There are one (1) turtles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "How many bananas?",
       "type": "tap_select",
+      "prompt": "How many bananas?",
       "options": {
         "mode": "match",
         "choices": [
-          "4",
-          "2",
-          "3",
-          "1"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "1"
+          }
         ],
-        "scene_emoji": "🍌",
-        "correct_choices": [
-          "1"
+        "scene": {
+          "emoji": "🍌",
+          "count": 1
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "1",
       "explanation": "Count them: 1. There are one (1) bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "How many fish?",
       "type": "tap_select",
+      "prompt": "How many fish?",
       "options": {
         "mode": "match",
         "choices": [
-          "9",
-          "8",
-          "7",
-          "6"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🐟🐟🐟🐟🐟🐟🐟🐟",
-        "correct_choices": [
-          "8"
+        "scene": {
+          "emoji": "🐟",
+          "count": 8
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "8",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8. There are eight (8) fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "How many ducks?",
       "type": "tap_select",
+      "prompt": "How many ducks?",
       "options": {
         "mode": "match",
         "choices": [
-          "1",
-          "3",
-          "2",
-          "4"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🦆🦆🦆",
-        "correct_choices": [
-          "3"
+        "scene": {
+          "emoji": "🦆",
+          "count": 3
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "3",
       "explanation": "Count them: 1, 2, 3. There are three (3) ducks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "How many stars?",
       "type": "tap_select",
+      "prompt": "How many stars?",
       "options": {
         "mode": "match",
         "choices": [
-          "1",
-          "2",
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "⭐⭐⭐",
-        "correct_choices": [
-          "3"
+        "scene": {
+          "emoji": "⭐",
+          "count": 3
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "3",
       "explanation": "Count them: 1, 2, 3. There are three (3) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "How many daisies?",
       "type": "tap_select",
+      "prompt": "How many daisies?",
       "options": {
         "mode": "match",
         "choices": [
-          "9",
-          "7",
-          "6",
-          "8"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "8"
+          }
         ],
-        "scene_emoji": "🌼🌼🌼🌼🌼🌼🌼🌼",
-        "correct_choices": [
-          "8"
+        "scene": {
+          "emoji": "🌼",
+          "count": 8
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "8",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8. There are eight (8) daisies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "How many flowers?",
       "type": "tap_select",
+      "prompt": "How many flowers?",
       "options": {
         "mode": "match",
         "choices": [
-          "6",
-          "3",
-          "5",
-          "4"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🌸🌸🌸🌸🌸",
-        "correct_choices": [
-          "5"
+        "scene": {
+          "emoji": "🌸",
+          "count": 5
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "5",
       "explanation": "Count them: 1, 2, 3, 4, 5. There are five (5) flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "How many cars?",
       "type": "tap_select",
+      "prompt": "How many cars?",
       "options": {
         "mode": "match",
         "choices": [
-          "8",
-          "9",
-          "10",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          },
+          {
+            "id": "c3",
+            "text": "10"
+          },
+          {
+            "id": "c4",
+            "text": "7"
+          }
         ],
-        "scene_emoji": "🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗",
-        "correct_choices": [
-          "10"
+        "scene": {
+          "emoji": "🚗",
+          "count": 10
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "10",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. There are ten (10) cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "How many stars?",
       "type": "tap_select",
+      "prompt": "How many stars?",
       "options": {
         "mode": "match",
         "choices": [
-          "10",
-          "7",
-          "9",
-          "8"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "9"
+          },
+          {
+            "id": "c4",
+            "text": "8"
+          }
         ],
-        "scene_emoji": "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐",
-        "correct_choices": [
-          "10"
+        "scene": {
+          "emoji": "⭐",
+          "count": 10
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "10",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. There are ten (10) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "How many oranges?",
       "type": "tap_select",
+      "prompt": "How many oranges?",
       "options": {
         "mode": "match",
         "choices": [
-          "4",
-          "2",
-          "3",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "5"
+          }
         ],
-        "scene_emoji": "🍊🍊🍊🍊",
-        "correct_choices": [
-          "4"
+        "scene": {
+          "emoji": "🍊",
+          "count": 4
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "4",
       "explanation": "Count them: 1, 2, 3, 4. There are four (4) oranges.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "How many apples?",
       "type": "tap_select",
+      "prompt": "How many apples?",
       "options": {
         "mode": "match",
         "choices": [
-          "5",
-          "4",
-          "3",
-          "2"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "2"
+          }
         ],
-        "scene_emoji": "🍎🍎🍎🍎",
-        "correct_choices": [
-          "4"
+        "scene": {
+          "emoji": "🍎",
+          "count": 4
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "4",
       "explanation": "Count them: 1, 2, 3, 4. There are four (4) apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "How many stars?",
       "type": "tap_select",
+      "prompt": "How many stars?",
       "options": {
         "mode": "match",
         "choices": [
-          "4",
-          "1",
-          "3",
-          "2"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "2"
+          }
         ],
-        "scene_emoji": "⭐",
-        "correct_choices": [
-          "1"
+        "scene": {
+          "emoji": "⭐",
+          "count": 1
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "1",
       "explanation": "Count them: 1. There are one (1) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "How many turtles?",
       "type": "tap_select",
+      "prompt": "How many turtles?",
       "options": {
         "mode": "match",
         "choices": [
-          "8",
-          "7",
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "9"
+          },
+          {
+            "id": "c4",
+            "text": "10"
+          }
         ],
-        "scene_emoji": "🐢🐢🐢🐢🐢🐢🐢🐢🐢",
-        "correct_choices": [
-          "9"
+        "scene": {
+          "emoji": "🐢",
+          "count": 9
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "9",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9. There are nine (9) turtles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "How many balloons?",
       "type": "tap_select",
+      "prompt": "How many balloons?",
       "options": {
         "mode": "match",
         "choices": [
-          "6",
-          "7",
-          "9",
-          "8"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "9"
+          },
+          {
+            "id": "c4",
+            "text": "8"
+          }
         ],
-        "scene_emoji": "🎈🎈🎈🎈🎈🎈🎈🎈",
-        "correct_choices": [
-          "8"
+        "scene": {
+          "emoji": "🎈",
+          "count": 8
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "8",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8. There are eight (8) balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "How many butterflies?",
       "type": "tap_select",
+      "prompt": "How many butterflies?",
       "options": {
         "mode": "match",
         "choices": [
-          "2",
-          "1",
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          },
+          {
+            "id": "c4",
+            "text": "3"
+          }
         ],
-        "scene_emoji": "🦋🦋",
-        "correct_choices": [
-          "2"
+        "scene": {
+          "emoji": "🦋",
+          "count": 2
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "2",
       "explanation": "Count them: 1, 2. There are two (2) butterflies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "How many cats?",
       "type": "tap_select",
+      "prompt": "How many cats?",
       "options": {
         "mode": "match",
         "choices": [
-          "5",
-          "7",
-          "6",
-          "4"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🐱🐱🐱🐱🐱🐱",
-        "correct_choices": [
-          "6"
+        "scene": {
+          "emoji": "🐱",
+          "count": 6
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "6",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6. There are six (6) cats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "How many butterflies?",
       "type": "tap_select",
+      "prompt": "How many butterflies?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "10",
-          "8",
-          "9"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          },
+          {
+            "id": "c4",
+            "text": "9"
+          }
         ],
-        "scene_emoji": "🦋🦋🦋🦋🦋🦋🦋🦋🦋",
-        "correct_choices": [
-          "9"
+        "scene": {
+          "emoji": "🦋",
+          "count": 9
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "9",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9. There are nine (9) butterflies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "How many cars?",
       "type": "tap_select",
+      "prompt": "How many cars?",
       "options": {
         "mode": "match",
         "choices": [
-          "9",
-          "8",
-          "7",
-          "6"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🚗🚗🚗🚗🚗🚗🚗🚗",
-        "correct_choices": [
-          "8"
+        "scene": {
+          "emoji": "🚗",
+          "count": 8
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "8",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8. There are eight (8) cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "How many cookies?",
       "type": "tap_select",
+      "prompt": "How many cookies?",
       "options": {
         "mode": "match",
         "choices": [
-          "8",
-          "10",
-          "9",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "9"
+          },
+          {
+            "id": "c4",
+            "text": "7"
+          }
         ],
-        "scene_emoji": "🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪",
-        "correct_choices": [
-          "10"
+        "scene": {
+          "emoji": "🍪",
+          "count": 10
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "10",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. There are ten (10) cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "How many balloons?",
       "type": "tap_select",
+      "prompt": "How many balloons?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "10",
-          "8",
-          "9"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          },
+          {
+            "id": "c4",
+            "text": "9"
+          }
         ],
-        "scene_emoji": "🎈🎈🎈🎈🎈🎈🎈🎈🎈",
-        "correct_choices": [
-          "9"
+        "scene": {
+          "emoji": "🎈",
+          "count": 9
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "9",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9. There are nine (9) balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "How many daisies?",
       "type": "tap_select",
+      "prompt": "How many daisies?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "9",
-          "8",
-          "10"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          },
+          {
+            "id": "c4",
+            "text": "10"
+          }
         ],
-        "scene_emoji": "🌼🌼🌼🌼🌼🌼🌼🌼🌼",
-        "correct_choices": [
-          "9"
+        "scene": {
+          "emoji": "🌼",
+          "count": 9
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "9",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9. There are nine (9) daisies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "How many flowers?",
       "type": "tap_select",
+      "prompt": "How many flowers?",
       "options": {
         "mode": "match",
         "choices": [
-          "3",
-          "2",
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          },
+          {
+            "id": "c4",
+            "text": "5"
+          }
         ],
-        "scene_emoji": "🌸🌸🌸🌸",
-        "correct_choices": [
-          "4"
+        "scene": {
+          "emoji": "🌸",
+          "count": 4
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "4",
       "explanation": "Count them: 1, 2, 3, 4. There are four (4) flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "How many bananas?",
       "type": "tap_select",
+      "prompt": "How many bananas?",
       "options": {
         "mode": "match",
         "choices": [
-          "3",
-          "2",
-          "4",
-          "1"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          },
+          {
+            "id": "c4",
+            "text": "1"
+          }
         ],
-        "scene_emoji": "🍌🍌",
-        "correct_choices": [
-          "2"
+        "scene": {
+          "emoji": "🍌",
+          "count": 2
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "2",
       "explanation": "Count them: 1, 2. There are two (2) bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "How many stars?",
       "type": "tap_select",
+      "prompt": "How many stars?",
       "options": {
         "mode": "match",
         "choices": [
-          "2",
-          "4",
-          "1",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "1"
+          },
+          {
+            "id": "c4",
+            "text": "3"
+          }
         ],
-        "scene_emoji": "⭐⭐",
-        "correct_choices": [
-          "2"
+        "scene": {
+          "emoji": "⭐",
+          "count": 2
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "2",
       "explanation": "Count them: 1, 2. There are two (2) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "How many ducks?",
       "type": "tap_select",
+      "prompt": "How many ducks?",
       "options": {
         "mode": "match",
         "choices": [
-          "5",
-          "4",
-          "3",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🦆🦆🦆🦆🦆",
-        "correct_choices": [
-          "5"
+        "scene": {
+          "emoji": "🦆",
+          "count": 5
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "5",
       "explanation": "Count them: 1, 2, 3, 4, 5. There are five (5) ducks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "How many cats?",
       "type": "tap_select",
+      "prompt": "How many cats?",
       "options": {
         "mode": "match",
         "choices": [
-          "4",
-          "3",
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "5"
+          }
         ],
-        "scene_emoji": "🐱🐱🐱🐱🐱",
-        "correct_choices": [
-          "5"
+        "scene": {
+          "emoji": "🐱",
+          "count": 5
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "5",
       "explanation": "Count them: 1, 2, 3, 4, 5. There are five (5) cats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "How many apples?",
       "type": "tap_select",
+      "prompt": "How many apples?",
       "options": {
         "mode": "match",
         "choices": [
-          "5",
-          "7",
-          "8",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🍎🍎🍎🍎🍎🍎🍎",
-        "correct_choices": [
-          "7"
+        "scene": {
+          "emoji": "🍎",
+          "count": 7
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "7",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7. There are seven (7) apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "How many balloons?",
       "type": "tap_select",
+      "prompt": "How many balloons?",
       "options": {
         "mode": "match",
         "choices": [
-          "4",
-          "5",
-          "6",
-          "3"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "3"
+          }
         ],
-        "scene_emoji": "🎈🎈🎈🎈🎈",
-        "correct_choices": [
-          "5"
+        "scene": {
+          "emoji": "🎈",
+          "count": 5
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "5",
       "explanation": "Count them: 1, 2, 3, 4, 5. There are five (5) balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "How many apples?",
       "type": "tap_select",
+      "prompt": "How many apples?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "6",
-          "5",
-          "4"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🍎🍎🍎🍎🍎🍎",
-        "correct_choices": [
-          "6"
+        "scene": {
+          "emoji": "🍎",
+          "count": 6
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "6",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6. There are six (6) apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "How many bees?",
       "type": "tap_select",
+      "prompt": "How many bees?",
       "options": {
         "mode": "match",
         "choices": [
-          "9",
-          "8",
-          "6",
-          "7"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "7"
+          }
         ],
-        "scene_emoji": "🐝🐝🐝🐝🐝🐝🐝🐝",
-        "correct_choices": [
-          "8"
+        "scene": {
+          "emoji": "🐝",
+          "count": 8
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "8",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8. There are eight (8) bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "How many turtles?",
       "type": "tap_select",
+      "prompt": "How many turtles?",
       "options": {
         "mode": "match",
         "choices": [
-          "8",
-          "6",
-          "7",
-          "9"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          },
+          {
+            "id": "c4",
+            "text": "9"
+          }
         ],
-        "scene_emoji": "🐢🐢🐢🐢🐢🐢🐢🐢",
-        "correct_choices": [
-          "8"
+        "scene": {
+          "emoji": "🐢",
+          "count": 8
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "8",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8. There are eight (8) turtles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "How many bees?",
       "type": "tap_select",
+      "prompt": "How many bees?",
       "options": {
         "mode": "match",
         "choices": [
-          "6",
-          "7",
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          },
+          {
+            "id": "c4",
+            "text": "5"
+          }
         ],
-        "scene_emoji": "🐝🐝🐝🐝🐝🐝",
-        "correct_choices": [
-          "6"
+        "scene": {
+          "emoji": "🐝",
+          "count": 6
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "6",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6. There are six (6) bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "How many flowers?",
       "type": "tap_select",
+      "prompt": "How many flowers?",
       "options": {
         "mode": "match",
         "choices": [
-          "4",
-          "3",
-          "2",
-          "1"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          },
+          {
+            "id": "c4",
+            "text": "1"
+          }
         ],
-        "scene_emoji": "🌸",
-        "correct_choices": [
-          "1"
+        "scene": {
+          "emoji": "🌸",
+          "count": 1
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "1",
       "explanation": "Count them: 1. There are one (1) flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "How many turtles?",
       "type": "tap_select",
+      "prompt": "How many turtles?",
       "options": {
         "mode": "match",
         "choices": [
-          "3",
-          "5",
-          "6",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🐢🐢🐢🐢🐢",
-        "correct_choices": [
-          "5"
+        "scene": {
+          "emoji": "🐢",
+          "count": 5
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "5",
       "explanation": "Count them: 1, 2, 3, 4, 5. There are five (5) turtles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "How many stars?",
       "type": "tap_select",
+      "prompt": "How many stars?",
       "options": {
         "mode": "match",
         "choices": [
-          "5",
-          "4",
-          "3",
-          "2"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "2"
+          }
         ],
-        "scene_emoji": "⭐⭐⭐⭐",
-        "correct_choices": [
-          "4"
+        "scene": {
+          "emoji": "⭐",
+          "count": 4
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "4",
       "explanation": "Count them: 1, 2, 3, 4. There are four (4) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "How many cats?",
       "type": "tap_select",
+      "prompt": "How many cats?",
       "options": {
         "mode": "match",
         "choices": [
-          "5",
-          "7",
-          "8",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🐱🐱🐱🐱🐱🐱🐱",
-        "correct_choices": [
-          "7"
+        "scene": {
+          "emoji": "🐱",
+          "count": 7
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "7",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7. There are seven (7) cats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "How many flowers?",
       "type": "tap_select",
+      "prompt": "How many flowers?",
       "options": {
         "mode": "match",
         "choices": [
-          "9",
-          "8",
-          "10",
-          "7"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "10"
+          },
+          {
+            "id": "c4",
+            "text": "7"
+          }
         ],
-        "scene_emoji": "🌸🌸🌸🌸🌸🌸🌸🌸🌸",
-        "correct_choices": [
-          "9"
+        "scene": {
+          "emoji": "🌸",
+          "count": 9
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "9",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9. There are nine (9) flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "How many fish?",
       "type": "tap_select",
+      "prompt": "How many fish?",
       "options": {
         "mode": "match",
         "choices": [
-          "3",
-          "2",
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          },
+          {
+            "id": "c4",
+            "text": "5"
+          }
         ],
-        "scene_emoji": "🐟🐟🐟🐟",
-        "correct_choices": [
-          "4"
+        "scene": {
+          "emoji": "🐟",
+          "count": 4
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "4",
       "explanation": "Count them: 1, 2, 3, 4. There are four (4) fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "How many strawberries?",
       "type": "tap_select",
+      "prompt": "How many strawberries?",
       "options": {
         "mode": "match",
         "choices": [
-          "2",
-          "4",
-          "1",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "1"
+          },
+          {
+            "id": "c4",
+            "text": "3"
+          }
         ],
-        "scene_emoji": "🍓",
-        "correct_choices": [
-          "1"
+        "scene": {
+          "emoji": "🍓",
+          "count": 1
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "1",
       "explanation": "Count them: 1. There are one (1) strawberries.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "How many cookies?",
       "type": "tap_select",
+      "prompt": "How many cookies?",
       "options": {
         "mode": "match",
         "choices": [
-          "1",
-          "3",
-          "4",
-          "2"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          },
+          {
+            "id": "c4",
+            "text": "2"
+          }
         ],
-        "scene_emoji": "🍪🍪",
-        "correct_choices": [
-          "2"
+        "scene": {
+          "emoji": "🍪",
+          "count": 2
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "2",
       "explanation": "Count them: 1, 2. There are two (2) cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "How many flowers?",
       "type": "tap_select",
+      "prompt": "How many flowers?",
       "options": {
         "mode": "match",
         "choices": [
-          "7",
-          "8",
-          "6",
-          "9"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "9"
+          }
         ],
-        "scene_emoji": "🌸🌸🌸🌸🌸🌸🌸🌸",
-        "correct_choices": [
-          "8"
+        "scene": {
+          "emoji": "🌸",
+          "count": 8
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "8",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8. There are eight (8) flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "How many turtles?",
       "type": "tap_select",
+      "prompt": "How many turtles?",
       "options": {
         "mode": "match",
         "choices": [
-          "8",
-          "5",
-          "7",
-          "6"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🐢🐢🐢🐢🐢🐢🐢",
-        "correct_choices": [
-          "7"
+        "scene": {
+          "emoji": "🐢",
+          "count": 7
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "7",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7. There are seven (7) turtles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "How many butterflies?",
       "type": "tap_select",
+      "prompt": "How many butterflies?",
       "options": {
         "mode": "match",
         "choices": [
-          "10",
-          "8",
-          "9",
-          "7"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "9"
+          },
+          {
+            "id": "c4",
+            "text": "7"
+          }
         ],
-        "scene_emoji": "🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋",
-        "correct_choices": [
-          "10"
+        "scene": {
+          "emoji": "🦋",
+          "count": 10
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "10",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. There are ten (10) butterflies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "How many ladybugs?",
       "type": "tap_select",
+      "prompt": "How many ladybugs?",
       "options": {
         "mode": "match",
         "choices": [
-          "1",
-          "4",
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          },
+          {
+            "id": "c4",
+            "text": "3"
+          }
         ],
-        "scene_emoji": "🐞🐞🐞",
-        "correct_choices": [
-          "3"
+        "scene": {
+          "emoji": "🐞",
+          "count": 3
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "3",
       "explanation": "Count them: 1, 2, 3. There are three (3) ladybugs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "How many butterflies?",
       "type": "tap_select",
+      "prompt": "How many butterflies?",
       "options": {
         "mode": "match",
         "choices": [
-          "4",
-          "6",
-          "3",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "5"
+          }
         ],
-        "scene_emoji": "🦋🦋🦋🦋🦋",
-        "correct_choices": [
-          "5"
+        "scene": {
+          "emoji": "🦋",
+          "count": 5
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c4"
         ]
       },
-      "correct_answer": "5",
       "explanation": "Count them: 1, 2, 3, 4, 5. There are five (5) butterflies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "How many balloons?",
       "type": "tap_select",
+      "prompt": "How many balloons?",
       "options": {
         "mode": "match",
         "choices": [
-          "8",
-          "6",
-          "7",
-          "5"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          },
+          {
+            "id": "c4",
+            "text": "5"
+          }
         ],
-        "scene_emoji": "🎈🎈🎈🎈🎈🎈🎈",
-        "correct_choices": [
-          "7"
+        "scene": {
+          "emoji": "🎈",
+          "count": 7
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "7",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7. There are seven (7) balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "How many daisies?",
       "type": "tap_select",
+      "prompt": "How many daisies?",
       "options": {
         "mode": "match",
         "choices": [
-          "3",
-          "5",
-          "6",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🌼🌼🌼🌼🌼",
-        "correct_choices": [
-          "5"
+        "scene": {
+          "emoji": "🌼",
+          "count": 5
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "5",
       "explanation": "Count them: 1, 2, 3, 4, 5. There are five (5) daisies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "How many oranges?",
       "type": "tap_select",
+      "prompt": "How many oranges?",
       "options": {
         "mode": "match",
         "choices": [
-          "2",
-          "1",
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🍊🍊🍊",
-        "correct_choices": [
-          "3"
+        "scene": {
+          "emoji": "🍊",
+          "count": 3
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "3",
       "explanation": "Count them: 1, 2, 3. There are three (3) oranges.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "How many fish?",
       "type": "tap_select",
+      "prompt": "How many fish?",
       "options": {
         "mode": "match",
         "choices": [
-          "6",
-          "5",
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          },
+          {
+            "id": "c4",
+            "text": "3"
+          }
         ],
-        "scene_emoji": "🐟🐟🐟🐟🐟",
-        "correct_choices": [
-          "5"
+        "scene": {
+          "emoji": "🐟",
+          "count": 5
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "5",
       "explanation": "Count them: 1, 2, 3, 4, 5. There are five (5) fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "How many daisies?",
       "type": "tap_select",
+      "prompt": "How many daisies?",
       "options": {
         "mode": "match",
         "choices": [
-          "9",
-          "7",
-          "10",
-          "8"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "10"
+          },
+          {
+            "id": "c4",
+            "text": "8"
+          }
         ],
-        "scene_emoji": "🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼",
-        "correct_choices": [
-          "10"
+        "scene": {
+          "emoji": "🌼",
+          "count": 10
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "10",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. There are ten (10) daisies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "How many flowers?",
       "type": "tap_select",
+      "prompt": "How many flowers?",
       "options": {
         "mode": "match",
         "choices": [
-          "2",
-          "3",
-          "1",
-          "4"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "1"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🌸🌸",
-        "correct_choices": [
-          "2"
+        "scene": {
+          "emoji": "🌸",
+          "count": 2
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c1"
         ]
       },
-      "correct_answer": "2",
       "explanation": "Count them: 1, 2. There are two (2) flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "How many dogs?",
       "type": "tap_select",
+      "prompt": "How many dogs?",
       "options": {
         "mode": "match",
         "choices": [
-          "8",
-          "9",
-          "10",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          },
+          {
+            "id": "c3",
+            "text": "10"
+          },
+          {
+            "id": "c4",
+            "text": "7"
+          }
         ],
-        "scene_emoji": "🐶🐶🐶🐶🐶🐶🐶🐶🐶",
-        "correct_choices": [
-          "9"
+        "scene": {
+          "emoji": "🐶",
+          "count": 9
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "9",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9. There are nine (9) dogs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "How many bees?",
       "type": "tap_select",
+      "prompt": "How many bees?",
       "options": {
         "mode": "match",
         "choices": [
-          "9",
-          "10",
-          "7",
-          "8"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          },
+          {
+            "id": "c4",
+            "text": "8"
+          }
         ],
-        "scene_emoji": "🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝",
-        "correct_choices": [
-          "10"
+        "scene": {
+          "emoji": "🐝",
+          "count": 10
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "10",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. There are ten (10) bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "How many dogs?",
       "type": "tap_select",
+      "prompt": "How many dogs?",
       "options": {
         "mode": "match",
         "choices": [
-          "5",
-          "8",
-          "7",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          },
+          {
+            "id": "c4",
+            "text": "6"
+          }
         ],
-        "scene_emoji": "🐶🐶🐶🐶🐶🐶🐶",
-        "correct_choices": [
-          "7"
+        "scene": {
+          "emoji": "🐶",
+          "count": 7
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c3"
         ]
       },
-      "correct_answer": "7",
       "explanation": "Count them: 1, 2, 3, 4, 5, 6, 7. There are seven (7) dogs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "How many strawberries?",
       "type": "tap_select",
+      "prompt": "How many strawberries?",
       "options": {
         "mode": "match",
         "choices": [
-          "3",
-          "5",
-          "6",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          },
+          {
+            "id": "c4",
+            "text": "4"
+          }
         ],
-        "scene_emoji": "🍓🍓🍓🍓🍓",
-        "correct_choices": [
-          "5"
+        "scene": {
+          "emoji": "🍓",
+          "count": 5
+        }
+      },
+      "answer_key": {
+        "correct": [
+          "c2"
         ]
       },
-      "correct_answer": "5",
       "explanation": "Count them: 1, 2, 3, 4, 5. There are five (5) strawberries.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

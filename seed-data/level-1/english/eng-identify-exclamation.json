@@ -1,1584 +1,2465 @@
 {
   "_source_file": "level_1_eng_identify_exclamation.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 98,
-  "exercise": {
-    "slug": "eng-identify-exclamation",
-    "title": "Identify Exclamations",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 98,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.542Z",
+  "slug": "eng-identify-exclamation",
+  "title": "Identify Exclamations",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 98,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "What a beautiful woman!",
-          "How are you?"
+          {
+            "id": "c1",
+            "text": "What a beautiful woman!"
+          },
+          {
+            "id": "c2",
+            "text": "How are you?"
+          }
         ]
       },
-      "correct_answer": "What a beautiful woman!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It expresses strong feeling or admiration and ends with an exclamation point.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "What is your name?",
-          "That song was really a hit!"
+          {
+            "id": "c1",
+            "text": "What is your name?"
+          },
+          {
+            "id": "c2",
+            "text": "That song was really a hit!"
+          }
         ]
       },
-      "correct_answer": "That song was really a hit!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It expresses excitement or strong emphasis instead of asking a question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "What is your mother's name?",
-          "Wow, the ocean was calm!"
+          {
+            "id": "c1",
+            "text": "What is your mother's name?"
+          },
+          {
+            "id": "c2",
+            "text": "Wow, the ocean was calm!"
+          }
         ]
       },
-      "correct_answer": "Wow, the ocean was calm!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It starts with an interjection ('Wow') and expresses strong emotion or wonder.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "What is your favorite book?",
-          "Yummy, this was lovely ice cream!"
+          {
+            "id": "c1",
+            "text": "What is your favorite book?"
+          },
+          {
+            "id": "c2",
+            "text": "Yummy, this was lovely ice cream!"
+          }
         ]
       },
-      "correct_answer": "Yummy, this was lovely ice cream!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It uses descriptive expressive language ('Yummy') to showcase strong appreciation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "The girl is beautiful.",
-          "Wow, I loved that color!"
+          {
+            "id": "c1",
+            "text": "The girl is beautiful."
+          },
+          {
+            "id": "c2",
+            "text": "Wow, I loved that color!"
+          }
         ]
       },
-      "correct_answer": "Wow, I loved that color!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It shows excitement and enthusiastic approval instead of a plain statement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Sam helped me so much!",
-          "What is your father's name?"
+          {
+            "id": "c1",
+            "text": "Sam helped me so much!"
+          },
+          {
+            "id": "c2",
+            "text": "What is your father's name?"
+          }
         ]
       },
-      "correct_answer": "Sam helped me so much!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It shows deep gratitude and emphasis, marked with an exclamation point.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Tom got an A+ on his last exam.",
-          "How are they doing?"
+          {
+            "id": "c1",
+            "text": "Tom got an A+ on his last exam."
+          },
+          {
+            "id": "c2",
+            "text": "How are they doing?"
+          }
         ]
       },
-      "correct_answer": "Tom got an A+ on his last exam.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Note: While the PDF lacks a trailing mark here, this selection functions as an emphatic declaration of a major accomplishment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "What is your opinion?",
-          "Wow, it was a great idea!"
+          {
+            "id": "c1",
+            "text": "What is your opinion?"
+          },
+          {
+            "id": "c2",
+            "text": "Wow, it was a great idea!"
+          }
         ]
       },
-      "correct_answer": "Wow, it was a great idea!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It uses 'Wow' to signify enthusiastic praise or strong agreement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Where is your school?",
-          "Our dog had five puppies!"
+          {
+            "id": "c1",
+            "text": "Where is your school?"
+          },
+          {
+            "id": "c2",
+            "text": "Our dog had five puppies!"
+          }
         ]
       },
-      "correct_answer": "Our dog had five puppies!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It highlights surprise or excitement regarding an event.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "The bank was full of people.",
-          "Hooray, the weekend is here!"
+          {
+            "id": "c1",
+            "text": "The bank was full of people."
+          },
+          {
+            "id": "c2",
+            "text": "Hooray, the weekend is here!"
+          }
         ]
       },
-      "correct_answer": "Hooray, the weekend is here!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It displays celebration using the expressive word 'Hooray'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "The road was closed.",
-          "Yikes, that's a big spider!"
+          {
+            "id": "c1",
+            "text": "The road was closed."
+          },
+          {
+            "id": "c2",
+            "text": "Yikes, that's a big spider!"
+          }
         ]
       },
-      "correct_answer": "Yikes, that's a big spider!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It conveys a sudden feeling of shock, alarm, or fear.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Yikes, that's a big ant!",
-          "What was the quiz about?"
+          {
+            "id": "c1",
+            "text": "Yikes, that's a big ant!"
+          },
+          {
+            "id": "c2",
+            "text": "What was the quiz about?"
+          }
         ]
       },
-      "correct_answer": "Yikes, that's a big ant!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It signals shock or disgust towards an insect encounter.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "The cat was fluffy.",
-          "Oops, I dropped my phone!"
+          {
+            "id": "c1",
+            "text": "The cat was fluffy."
+          },
+          {
+            "id": "c2",
+            "text": "Oops, I dropped my phone!"
+          }
         ]
       },
-      "correct_answer": "Oops, I dropped my phone!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It expresses an abrupt reaction to a sudden mishap or accident.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "What was your first impression?",
-          "Oops, I dropped my cup!"
+          {
+            "id": "c1",
+            "text": "What was your first impression?"
+          },
+          {
+            "id": "c2",
+            "text": "Oops, I dropped my cup!"
+          }
         ]
       },
-      "correct_answer": "Oops, I dropped my cup!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It notes a sudden accident with an immediate emotional reaction.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Do you like Ms Sandy?",
-          "That was close, phew!"
+          {
+            "id": "c1",
+            "text": "Do you like Ms Sandy?"
+          },
+          {
+            "id": "c2",
+            "text": "That was close, phew!"
+          }
         ]
       },
-      "correct_answer": "That was close, phew!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It includes 'phew' to convey a strong sense of relief after danger.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Some people are just very sensitive.",
-          "That was a big problem, ugh!"
+          {
+            "id": "c1",
+            "text": "Some people are just very sensitive."
+          },
+          {
+            "id": "c2",
+            "text": "That was a big problem, ugh!"
+          }
         ]
       },
-      "correct_answer": "That was a big problem, ugh!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It showcases a clear feeling of annoyance or frustration using 'ugh'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Some people are just very scary.",
-          "I can't believe it, wow!"
+          {
+            "id": "c1",
+            "text": "Some people are just very scary."
+          },
+          {
+            "id": "c2",
+            "text": "I can't believe it, wow!"
+          }
         ]
       },
-      "correct_answer": "I can't believe it, wow!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It communicates profound surprise or sudden shock.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "You scared me!",
-          "Some people are scared of spiders."
+          {
+            "id": "c1",
+            "text": "You scared me!"
+          },
+          {
+            "id": "c2",
+            "text": "Some people are scared of spiders."
+          }
         ]
       },
-      "correct_answer": "You scared me!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It records a sudden reaction to an unexpected fright.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Do you like swimming?",
-          "It slipped out of my hand, ouch!"
+          {
+            "id": "c1",
+            "text": "Do you like swimming?"
+          },
+          {
+            "id": "c2",
+            "text": "It slipped out of my hand, ouch!"
+          }
         ]
       },
-      "correct_answer": "It slipped out of my hand, ouch!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It features an outcry of discomfort or sudden physical distress ('ouch').",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "That really hurt, ouch!",
-          "I went to the market."
+          {
+            "id": "c1",
+            "text": "That really hurt, ouch!"
+          },
+          {
+            "id": "c2",
+            "text": "I went to the market."
+          }
         ]
       },
-      "correct_answer": "That really hurt, ouch!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It strongly captures physical pain with an exclamation point.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "We finally made it!",
-          "The cat was not allowed in the house."
+          {
+            "id": "c1",
+            "text": "We finally made it!"
+          },
+          {
+            "id": "c2",
+            "text": "The cat was not allowed in the house."
+          }
         ]
       },
-      "correct_answer": "We finally made it!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It voices relief, joy, or satisfaction over achieving a goal.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Was the dog allowed in the house?",
-          "She solved it all by herself!"
+          {
+            "id": "c1",
+            "text": "Was the dog allowed in the house?"
+          },
+          {
+            "id": "c2",
+            "text": "She solved it all by herself!"
+          }
         ]
       },
-      "correct_answer": "She solved it all by herself!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It shares a strong feeling of pride or amazement over an accomplishment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "What are you typing?",
-          "The cake is amazing!"
+          {
+            "id": "c1",
+            "text": "What are you typing?"
+          },
+          {
+            "id": "c2",
+            "text": "The cake is amazing!"
+          }
         ]
       },
-      "correct_answer": "The cake is amazing!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It highlights enthusiasm and delight regarding the food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "That's fantastic news!",
-          "Why are you crying?"
+          {
+            "id": "c1",
+            "text": "That's fantastic news!"
+          },
+          {
+            "id": "c2",
+            "text": "Why are you crying?"
+          }
         ]
       },
-      "correct_answer": "That's fantastic news!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It represents a celebratory reaction to an exciting update.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "That's great news!",
-          "What time is it?"
+          {
+            "id": "c1",
+            "text": "That's great news!"
+          },
+          {
+            "id": "c2",
+            "text": "What time is it?"
+          }
         ]
       },
-      "correct_answer": "That's great news!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It reveals delight or strong happiness about favorable updates.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "He just vanished!",
-          "The hen sat on the bench."
+          {
+            "id": "c1",
+            "text": "He just vanished!"
+          },
+          {
+            "id": "c2",
+            "text": "The hen sat on the bench."
+          }
         ]
       },
-      "correct_answer": "He just vanished!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It signals shock or utter bewilderment regarding a sudden disappearance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "The school bell rang.",
-          "I passed the quiz!"
+          {
+            "id": "c1",
+            "text": "The school bell rang."
+          },
+          {
+            "id": "c2",
+            "text": "I passed the quiz!"
+          }
         ]
       },
-      "correct_answer": "I passed the quiz!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It marks personal success or happiness at finishing an evaluation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "I am so happy for you!",
-          "The school bell rang very loud."
+          {
+            "id": "c1",
+            "text": "I am so happy for you!"
+          },
+          {
+            "id": "c2",
+            "text": "The school bell rang very loud."
+          }
         ]
       },
-      "correct_answer": "I am so happy for you!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It emphasizes an intense sentiment of empathy and validation for another person.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Is Sam your friend?",
-          "Carful with that glass!"
+          {
+            "id": "c1",
+            "text": "Is Sam your friend?"
+          },
+          {
+            "id": "c2",
+            "text": "Carful with that glass!"
+          }
         ]
       },
-      "correct_answer": "Carful with that glass!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It serves as an urgent, emphatic warning layout.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Oh my goodness!",
-          "The mouse ran away."
+          {
+            "id": "c1",
+            "text": "Oh my goodness!"
+          },
+          {
+            "id": "c2",
+            "text": "The mouse ran away."
+          }
         ]
       },
-      "correct_answer": "Oh my goodness!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It displays sudden awe, surprise, or minor concern.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "I love what I see!",
-          "Did you see that tiger?"
+          {
+            "id": "c1",
+            "text": "I love what I see!"
+          },
+          {
+            "id": "c2",
+            "text": "Did you see that tiger?"
+          }
         ]
       },
-      "correct_answer": "I love what I see!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It delivers strong passion and sensory excitement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "What was that on the table?",
-          "My baby was crying all night!"
+          {
+            "id": "c1",
+            "text": "What was that on the table?"
+          },
+          {
+            "id": "c2",
+            "text": "My baby was crying all night!"
+          }
         ]
       },
-      "correct_answer": "My baby was crying all night!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It reveals deep exhaustion, stress, or high concern.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "What are you saying?",
-          "Your cat bit my finger!"
+          {
+            "id": "c1",
+            "text": "What are you saying?"
+          },
+          {
+            "id": "c2",
+            "text": "Your cat bit my finger!"
+          }
         ]
       },
-      "correct_answer": "Your cat bit my finger!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It notes distress, pain, and surprise over a sudden injury.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Sandy walked down the hill.",
-          "Your dog bit my leg!"
+          {
+            "id": "c1",
+            "text": "Sandy walked down the hill."
+          },
+          {
+            "id": "c2",
+            "text": "Your dog bit my leg!"
+          }
         ]
       },
-      "correct_answer": "Your dog bit my leg!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It acts as a distressed, alarmed statement concerning a sudden strike.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "What is he buying?",
-          "Your cat bit your father's hand!"
+          {
+            "id": "c1",
+            "text": "What is he buying?"
+          },
+          {
+            "id": "c2",
+            "text": "Your cat bit your father's hand!"
+          }
         ]
       },
-      "correct_answer": "Your cat bit your father's hand!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It shows immediate alarm or intense shock over a painful event.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Are you lost?",
-          "There is a big tiger over there!"
+          {
+            "id": "c1",
+            "text": "Are you lost?"
+          },
+          {
+            "id": "c2",
+            "text": "There is a big tiger over there!"
+          }
         ]
       },
-      "correct_answer": "There is a big tiger over there!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It indicates terror or vital alertness upon discovering a dangerous predator.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Dad leaves to work early.",
-          "Sama guessed very fast!"
+          {
+            "id": "c1",
+            "text": "Dad leaves to work early."
+          },
+          {
+            "id": "c2",
+            "text": "Sama guessed very fast!"
+          }
         ]
       },
-      "correct_answer": "Sama guessed very fast!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It carries enthusiasm or admiration over speed and mental quickness.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "This restaurant is great!",
-          "He walks every single day."
+          {
+            "id": "c1",
+            "text": "This restaurant is great!"
+          },
+          {
+            "id": "c2",
+            "text": "He walks every single day."
+          }
         ]
       },
-      "correct_answer": "This restaurant is great!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It emphasizes exceptional praise for an establishment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "She walks every single day.",
-          "I don't want to go!"
+          {
+            "id": "c1",
+            "text": "She walks every single day."
+          },
+          {
+            "id": "c2",
+            "text": "I don't want to go!"
+          }
         ]
       },
-      "correct_answer": "I don't want to go!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It tracks intense opposition, defiance, or personal protest.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "What is she doing?",
-          "Please leave me!"
+          {
+            "id": "c1",
+            "text": "What is she doing?"
+          },
+          {
+            "id": "c2",
+            "text": "Please leave me!"
+          }
         ]
       },
-      "correct_answer": "Please leave me!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It registers intense panic, emotional pleading, or distress.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "They studied yesterday.",
-          "Sandy is going to win this time!"
+          {
+            "id": "c1",
+            "text": "They studied yesterday."
+          },
+          {
+            "id": "c2",
+            "text": "Sandy is going to win this time!"
+          }
         ]
       },
-      "correct_answer": "Sandy is going to win this time!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It represents highly passionate cheering, support, or firm confidence.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "My cat smells really bad!",
-          "Where do bears live?"
+          {
+            "id": "c1",
+            "text": "My cat smells really bad!"
+          },
+          {
+            "id": "c2",
+            "text": "Where do bears live?"
+          }
         ]
       },
-      "correct_answer": "My cat smells really bad!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It states a strong sense of disgust or physical aversion.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "I live in Japan.",
-          "Ouch, that hurt me!"
+          {
+            "id": "c1",
+            "text": "I live in Japan."
+          },
+          {
+            "id": "c2",
+            "text": "Ouch, that hurt me!"
+          }
         ]
       },
-      "correct_answer": "Ouch, that hurt me!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It delivers an explicit physical dynamic of discomfort or injury.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "I live in London.",
-          "You scared me!"
+          {
+            "id": "c1",
+            "text": "I live in London."
+          },
+          {
+            "id": "c2",
+            "text": "You scared me!"
+          }
         ]
       },
-      "correct_answer": "You scared me!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It logs an intense reaction to an unexpected surprise or fright.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Where is my passport?",
-          "I am so happy to see you!"
+          {
+            "id": "c1",
+            "text": "Where is my passport?"
+          },
+          {
+            "id": "c2",
+            "text": "I am so happy to see you!"
+          }
         ]
       },
-      "correct_answer": "I am so happy to see you!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It delivers a joyful, enthusiastic reception for someone.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Sandy likes to work in her garden.",
-          "I am so happy to hear from you!"
+          {
+            "id": "c1",
+            "text": "Sandy likes to work in her garden."
+          },
+          {
+            "id": "c2",
+            "text": "I am so happy to hear from you!"
+          }
         ]
       },
-      "correct_answer": "I am so happy to hear from you!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It displays a passionate feeling of connection or warmth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "The plan worked perfectly!",
-          "The phone is in my purse."
+          {
+            "id": "c1",
+            "text": "The plan worked perfectly!"
+          },
+          {
+            "id": "c2",
+            "text": "The phone is in my purse."
+          }
         ]
       },
-      "correct_answer": "The plan worked perfectly!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It highlights excitement and total validation over an outcome.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "His plan really worked amazingly!",
-          "Where is my wallet?"
+          {
+            "id": "c1",
+            "text": "His plan really worked amazingly!"
+          },
+          {
+            "id": "c2",
+            "text": "Where is my wallet?"
+          }
         ]
       },
-      "correct_answer": "His plan really worked amazingly!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It outlines intense marvel and delight regarding a dynamic result.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Where is my money?",
-          "The cat ate the flowers on the table!"
+          {
+            "id": "c1",
+            "text": "Where is my money?"
+          },
+          {
+            "id": "c2",
+            "text": "The cat ate the flowers on the table!"
+          }
         ]
       },
-      "correct_answer": "The cat ate the flowers on the table!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It communicates frustration or direct shock at a pet's actions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "You are kidding me!",
-          "Where is the police department?"
+          {
+            "id": "c1",
+            "text": "You are kidding me!"
+          },
+          {
+            "id": "c2",
+            "text": "Where is the police department?"
+          }
         ]
       },
-      "correct_answer": "You are kidding me!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It registers absolute disbelief, astonishment, or surprise.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "What is the name of his new baby?",
-          "How beautiful!"
+          {
+            "id": "c1",
+            "text": "What is the name of his new baby?"
+          },
+          {
+            "id": "c2",
+            "text": "How beautiful!"
+          }
         ]
       },
-      "correct_answer": "How beautiful!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It acts as a concise phrase expressing intense delight or aesthetic admiration.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "The sun is yellow.",
-          "Aha, I figured it out!"
+          {
+            "id": "c1",
+            "text": "The sun is yellow."
+          },
+          {
+            "id": "c2",
+            "text": "Aha, I figured it out!"
+          }
         ]
       },
-      "correct_answer": "Aha, I figured it out!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It documents a sudden moment of clarity or discovery using 'Aha'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "I have a red pen.",
-          "Dear me!"
+          {
+            "id": "c1",
+            "text": "I have a red pen."
+          },
+          {
+            "id": "c2",
+            "text": "Dear me!"
+          }
         ]
       },
-      "correct_answer": "Dear me!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An idiomatic exclamation signaling distress, shock, or surprise.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "What a great color!",
-          "I have a red car."
+          {
+            "id": "c1",
+            "text": "What a great color!"
+          },
+          {
+            "id": "c2",
+            "text": "I have a red car."
+          }
         ]
       },
-      "correct_answer": "What a great color!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It emphasizes high satisfaction or visual delight with an asset or color.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Bang, it broke!",
-          "I have a red card."
+          {
+            "id": "c1",
+            "text": "Bang, it broke!"
+          },
+          {
+            "id": "c2",
+            "text": "I have a red card."
+          }
         ]
       },
-      "correct_answer": "Bang, it broke!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It highlights surprise or an abrupt event using the descriptive word 'Bang'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "I have one cat.",
-          "I am glad it is over!"
+          {
+            "id": "c1",
+            "text": "I have one cat."
+          },
+          {
+            "id": "c2",
+            "text": "I am glad it is over!"
+          }
         ]
       },
-      "correct_answer": "I am glad it is over!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It highlights a profound sense of relief regarding a difficult task ending.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "It is snowing again!",
-          "I have two cats."
+          {
+            "id": "c1",
+            "text": "It is snowing again!"
+          },
+          {
+            "id": "c2",
+            "text": "I have two cats."
+          }
         ]
       },
-      "correct_answer": "It is snowing again!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It notes surprise or strong emotion concerning a weather development.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Do you have a bigger picture?",
-          "How could I have forgotten!"
+          {
+            "id": "c1",
+            "text": "Do you have a bigger picture?"
+          },
+          {
+            "id": "c2",
+            "text": "How could I have forgotten!"
+          }
         ]
       },
-      "correct_answer": "How could I have forgotten!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It logs profound self-reproach, oversight, or absolute shock at a mistake.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "My bird is colorful.",
-          "How authentic!"
+          {
+            "id": "c1",
+            "text": "My bird is colorful."
+          },
+          {
+            "id": "c2",
+            "text": "How authentic!"
+          }
         ]
       },
-      "correct_answer": "How authentic!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An assertive expression showing high praise or validation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "I like Tennis.",
-          "That was sudden!"
+          {
+            "id": "c1",
+            "text": "I like Tennis."
+          },
+          {
+            "id": "c2",
+            "text": "That was sudden!"
+          }
         ]
       },
-      "correct_answer": "That was sudden!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It details immediate shock or surprise regarding a quick occurrence.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "That is my seat!",
-          "I like to fly kites."
+          {
+            "id": "c1",
+            "text": "That is my seat!"
+          },
+          {
+            "id": "c2",
+            "text": "I like to fly kites."
+          }
         ]
       },
-      "correct_answer": "That is my seat!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It serves as an urgent, highly assertive claim over an item.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Is the train coming?",
-          "That is hilarious!"
+          {
+            "id": "c1",
+            "text": "Is the train coming?"
+          },
+          {
+            "id": "c2",
+            "text": "That is hilarious!"
+          }
         ]
       },
-      "correct_answer": "That is hilarious!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It records extreme amusement or deep laughter.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Do you think he is my friend?",
-          "This is so hilarious!"
+          {
+            "id": "c1",
+            "text": "Do you think he is my friend?"
+          },
+          {
+            "id": "c2",
+            "text": "This is so hilarious!"
+          }
         ]
       },
-      "correct_answer": "This is so hilarious!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It accentuates intense amusement and entertainment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "We are in the restaurant.",
-          "That my place!"
+          {
+            "id": "c1",
+            "text": "We are in the restaurant."
+          },
+          {
+            "id": "c2",
+            "text": "That my place!"
+          }
         ]
       },
-      "correct_answer": "That my place!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An abrupt, intense expression claiming a particular spot.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "It is raining.",
-          "Oh, rats!"
+          {
+            "id": "c1",
+            "text": "It is raining."
+          },
+          {
+            "id": "c2",
+            "text": "Oh, rats!"
+          }
         ]
       },
-      "correct_answer": "Oh, rats!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An expression conveying minor irritation, disappointment, or mild anger.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "I missed my plane!",
-          "It is raining."
+          {
+            "id": "c1",
+            "text": "I missed my plane!"
+          },
+          {
+            "id": "c2",
+            "text": "It is raining."
+          }
         ]
       },
-      "correct_answer": "I missed my plane!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It shows immediate panic, worry, or extreme frustration.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "The grass is green.",
-          "We won the championship!"
+          {
+            "id": "c1",
+            "text": "The grass is green."
+          },
+          {
+            "id": "c2",
+            "text": "We won the championship!"
+          }
         ]
       },
-      "correct_answer": "We won the championship!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It highlights vast victory, group pride, or pure ecstasy.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "I can't believe it!",
-          "Are you happy?"
+          {
+            "id": "c1",
+            "text": "I can't believe it!"
+          },
+          {
+            "id": "c2",
+            "text": "Are you happy?"
+          }
         ]
       },
-      "correct_answer": "I can't believe it!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It delivers sudden shock, amazement, or utter disbelief.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Are you sad?",
-          "What a relief!"
+          {
+            "id": "c1",
+            "text": "Are you sad?"
+          },
+          {
+            "id": "c2",
+            "text": "What a relief!"
+          }
         ]
       },
-      "correct_answer": "What a relief!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It underscores a powerful release from stress or tension.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "You are a genius!",
-          "Are you sitting?"
+          {
+            "id": "c1",
+            "text": "You are a genius!"
+          },
+          {
+            "id": "c2",
+            "text": "Are you sitting?"
+          }
         ]
       },
-      "correct_answer": "You are a genius!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It provides energetic praise or high esteem toward someone's actions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Can you explain why you are late?",
-          "How sweet of you!"
+          {
+            "id": "c1",
+            "text": "Can you explain why you are late?"
+          },
+          {
+            "id": "c2",
+            "text": "How sweet of you!"
+          }
         ]
       },
-      "correct_answer": "How sweet of you!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It shows appreciation for a kind or considerate gesture.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "The flowers are pretty.",
-          "That is unbelievable!"
+          {
+            "id": "c1",
+            "text": "The flowers are pretty."
+          },
+          {
+            "id": "c2",
+            "text": "That is unbelievable!"
+          }
         ]
       },
-      "correct_answer": "That is unbelievable!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It voices deep skepticism, amazement, or general wonder.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "You were amazing!",
-          "The water is cold."
+          {
+            "id": "c1",
+            "text": "You were amazing!"
+          },
+          {
+            "id": "c2",
+            "text": "The water is cold."
+          }
         ]
       },
-      "correct_answer": "You were amazing!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It carries passionate feedback or intense approval of a performance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "He was so unbelievable!",
-          "The baby is born."
+          {
+            "id": "c1",
+            "text": "He was so unbelievable!"
+          },
+          {
+            "id": "c2",
+            "text": "The baby is born."
+          }
         ]
       },
-      "correct_answer": "He was so unbelievable!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It spotlights deep emphasis, shock, or admiration of an individual.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "No way!",
-          "She is teacher."
+          {
+            "id": "c1",
+            "text": "No way!"
+          },
+          {
+            "id": "c2",
+            "text": "She is teacher."
+          }
         ]
       },
-      "correct_answer": "No way!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "An intense idiom expressing absolute surprise or active refusal.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "We have homework.",
-          "What a pity!"
+          {
+            "id": "c1",
+            "text": "We have homework."
+          },
+          {
+            "id": "c2",
+            "text": "What a pity!"
+          }
         ]
       },
-      "correct_answer": "What a pity!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It shares an immediate sense of sorrow, empathy, or mild disappointment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "You are late again!",
-          "The bag is heavy."
+          {
+            "id": "c1",
+            "text": "You are late again!"
+          },
+          {
+            "id": "c2",
+            "text": "The bag is heavy."
+          }
         ]
       },
-      "correct_answer": "You are late again!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It voices frustration, direct annoyance, or irritation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Is the road long?",
-          "I lost him!"
+          {
+            "id": "c1",
+            "text": "Is the road long?"
+          },
+          {
+            "id": "c2",
+            "text": "I lost him!"
+          }
         ]
       },
-      "correct_answer": "I lost him!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It details sudden distress, fear, or a severe loss scenario.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Do you like the idea?",
-          "We lost him!"
+          {
+            "id": "c1",
+            "text": "Do you like the idea?"
+          },
+          {
+            "id": "c2",
+            "text": "We lost him!"
+          }
         ]
       },
-      "correct_answer": "We lost him!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It conveys shared grief, urgent distress, or anxiety.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Do you want to ask the teacher?",
-          "Most welcome!"
+          {
+            "id": "c1",
+            "text": "Do you want to ask the teacher?"
+          },
+          {
+            "id": "c2",
+            "text": "Most welcome!"
+          }
         ]
       },
-      "correct_answer": "Most welcome!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An enthusiastic alternative phrasing used to show polite hospitality.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "He drinks coffee.",
-          "What a mess!"
+          {
+            "id": "c1",
+            "text": "He drinks coffee."
+          },
+          {
+            "id": "c2",
+            "text": "What a mess!"
+          }
         ]
       },
-      "correct_answer": "What a mess!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It documents annoyance or sudden distress when seeing disorder.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Did you see the text?",
-          "How dirty!"
+          {
+            "id": "c1",
+            "text": "Did you see the text?"
+          },
+          {
+            "id": "c2",
+            "text": "How dirty!"
+          }
         ]
       },
-      "correct_answer": "How dirty!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It highlights an emphatic reaction of physical or moral disgust.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "I see the rainbow.",
-          "No!"
+          {
+            "id": "c1",
+            "text": "I see the rainbow."
+          },
+          {
+            "id": "c2",
+            "text": "No!"
+          }
         ]
       },
-      "correct_answer": "No!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A vital, monosyllabic outcry signaling refusal, panic, or denial.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Oh my god!",
-          "The moon is bright."
+          {
+            "id": "c1",
+            "text": "Oh my god!"
+          },
+          {
+            "id": "c2",
+            "text": "The moon is bright."
+          }
         ]
       },
-      "correct_answer": "Oh my god!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "An everyday phrase capturing immediate awe, horror, or amazement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Help!",
-          "I wear a hat."
+          {
+            "id": "c1",
+            "text": "Help!"
+          },
+          {
+            "id": "c2",
+            "text": "I wear a hat."
+          }
         ]
       },
-      "correct_answer": "Help!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "An urgent, single-word emergency plea demanding instant intervention.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "I wear a mask on my face.",
-          "How fast he reads!"
+          {
+            "id": "c1",
+            "text": "I wear a mask on my face."
+          },
+          {
+            "id": "c2",
+            "text": "How fast he reads!"
+          }
         ]
       },
-      "correct_answer": "How fast he reads!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It details active wonder or astonishment at someone's performance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "How fast she writes!",
-          "The shop is open."
+          {
+            "id": "c1",
+            "text": "How fast she writes!"
+          },
+          {
+            "id": "c2",
+            "text": "The shop is open."
+          }
         ]
       },
-      "correct_answer": "How fast she writes!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It reports great surprise regarding structural writing capabilities.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Wow!",
-          "The shop is open."
+          {
+            "id": "c1",
+            "text": "Wow!"
+          },
+          {
+            "id": "c2",
+            "text": "The shop is open."
+          }
         ]
       },
-      "correct_answer": "Wow!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "An expressive interjection conveying sheer amazement or shock.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "The shop is closed.",
-          "Explain!"
+          {
+            "id": "c1",
+            "text": "The shop is closed."
+          },
+          {
+            "id": "c2",
+            "text": "Explain!"
+          }
         ]
       },
-      "correct_answer": "Explain!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An imperative demand delivered with sudden emotional force.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "How are you?",
-          "Oops!"
+          {
+            "id": "c1",
+            "text": "How are you?"
+          },
+          {
+            "id": "c2",
+            "text": "Oops!"
+          }
         ]
       },
-      "correct_answer": "Oops!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An interjection used to note a sudden clumsy error or minor slip.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "She has two sisters.",
-          "Mercy!"
+          {
+            "id": "c1",
+            "text": "She has two sisters."
+          },
+          {
+            "id": "c2",
+            "text": "Mercy!"
+          }
         ]
       },
-      "correct_answer": "Mercy!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An outcry used to show shock or plead for leniency.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Do you love me?",
-          "I am freezing!"
+          {
+            "id": "c1",
+            "text": "Do you love me?"
+          },
+          {
+            "id": "c2",
+            "text": "I am freezing!"
+          }
         ]
       },
-      "correct_answer": "I am freezing!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "It states an intense physical reaction to freezing environments.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "I am sad!",
-          "Do you like cakes?"
+          {
+            "id": "c1",
+            "text": "I am sad!"
+          },
+          {
+            "id": "c2",
+            "text": "Do you like cakes?"
+          }
         ]
       },
-      "correct_answer": "I am sad!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It communicates strong emotional vulnerability or distress.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "I am tired!",
-          "Are you tired?"
+          {
+            "id": "c1",
+            "text": "I am tired!"
+          },
+          {
+            "id": "c2",
+            "text": "Are you tired?"
+          }
         ]
       },
-      "correct_answer": "I am tired!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "It voices profound exhaustion or drainage.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "Did you buy shoes?",
-          "Stop!"
+          {
+            "id": "c1",
+            "text": "Did you buy shoes?"
+          },
+          {
+            "id": "c2",
+            "text": "Stop!"
+          }
         ]
       },
-      "correct_answer": "Stop!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An authoritative command meant to immediately halt an action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "She bought new clothes.",
-          "Oh no!"
+          {
+            "id": "c1",
+            "text": "She bought new clothes."
+          },
+          {
+            "id": "c2",
+            "text": "Oh no!"
+          }
         ]
       },
-      "correct_answer": "Oh no!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An interjection expressing dread, shock, or realization of bad news.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "He bought new shoes.",
-          "Oh yes!"
+          {
+            "id": "c1",
+            "text": "He bought new shoes."
+          },
+          {
+            "id": "c2",
+            "text": "Oh yes!"
+          }
         ]
       },
-      "correct_answer": "Oh yes!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An expression used to voice sudden agreement, satisfaction, or delight.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which of the following is an exclamation?",
       "type": "mcq",
+      "prompt": "Which of the following is an exclamation?",
       "options": {
         "choices": [
-          "The results were good.",
-          "Bravo!"
+          {
+            "id": "c1",
+            "text": "The results were good."
+          },
+          {
+            "id": "c2",
+            "text": "Bravo!"
+          }
         ]
       },
-      "correct_answer": "Bravo!",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An celebratory exclamation used to praise an excellent performance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     }
   ]

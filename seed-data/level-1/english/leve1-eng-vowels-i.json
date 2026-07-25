@@ -1,1717 +1,3555 @@
 {
   "_source_file": "leve1_eng_vowels_I.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "leve1-eng-vowels-i",
-    "title": "Leve1 Eng Vowels I",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.526Z",
+  "slug": "leve1-eng-vowels-i",
+  "title": "Leve1 Eng Vowels I",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 100,
+  "total_questions": 100,
+  "shuffle": false,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nSid is a girl.<br>\nSid will pick a fish.<br>\n\"Which fish will I pick?\"<br>\nThis fish is pink and silver.<br>\nThis fish zips and flips.<br>\nThis fish dips and spins.<br>\nThis little fish is quick!<br>\nIt swims with a big flick.<br>\n\"I like this swift fish!\"<br>\n\"I will pick the quick fish!\"\n</div><br>\n<span style=\"color:red;\">1. What is the name of the main character of the story?</span>",
       "type": "mcq",
+      "prompt": "What is the name of the main character of the story?",
       "options": {
         "choices": [
-          "Sandy",
-          "Sid",
-          "George"
+          {
+            "id": "c1",
+            "text": "Sandy"
+          },
+          {
+            "id": "c2",
+            "text": "Sid"
+          },
+          {
+            "id": "c3",
+            "text": "George"
+          }
         ]
       },
-      "correct_answer": "Sid",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story begins with 'This is Sid,' making Sid the main character.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 1
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/1.jpeg"
+      },
+      "order_index": 1,
+      "passage_id": "p1"
     },
     {
       "slug": "q002",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nSid is a girl.<br>\nSid will pick a fish.<br>\n\"Which fish will I pick?\"<br>\nThis fish is pink and silver.<br>\nThis fish zips and flips.<br>\nThis fish dips and spins.<br>\nThis little fish is quick!<br>\nIt swims with a big flick.<br>\n\"I like this swift fish!\"<br>\n\"I will pick the quick fish!\"\n</div><br>\n<span style=\"color:red;\">2. Who is Sid?</span>",
       "type": "mcq",
+      "prompt": "Who is Sid?",
       "options": {
         "choices": [
-          "Sid is a boy",
-          "Sid is a girl",
-          "Sid is a fish"
+          {
+            "id": "c1",
+            "text": "Sid is a boy"
+          },
+          {
+            "id": "c2",
+            "text": "Sid is a girl"
+          },
+          {
+            "id": "c3",
+            "text": "Sid is a fish"
+          }
         ]
       },
-      "correct_answer": "Sid is a girl",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Sid is a girl.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 2
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/1.jpeg"
+      },
+      "order_index": 2,
+      "passage_id": "p1"
     },
     {
       "slug": "q003",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nSid is a girl.<br>\nSid will pick a fish.<br>\n\"Which fish will I pick?\"<br>\nThis fish is pink and silver.<br>\nThis fish zips and flips.<br>\nThis fish dips and spins.<br>\nThis little fish is quick!<br>\nIt swims with a big flick.<br>\n\"I like this swift fish!\"<br>\n\"I will pick the quick fish!\"\n</div><br>\n<span style=\"color:red;\">3. What will Sid pick?</span>",
       "type": "mcq",
+      "prompt": "What will Sid pick?",
       "options": {
         "choices": [
-          "Sid will pick a jacket",
-          "Sid will pick a fish",
-          "Sid will pick a boat"
+          {
+            "id": "c1",
+            "text": "Sid will pick a jacket"
+          },
+          {
+            "id": "c2",
+            "text": "Sid will pick a fish"
+          },
+          {
+            "id": "c3",
+            "text": "Sid will pick a boat"
+          }
         ]
       },
-      "correct_answer": "Sid will pick a fish",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Sid will pick a fish.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 3
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/1.jpeg"
+      },
+      "order_index": 3,
+      "passage_id": "p1"
     },
     {
       "slug": "q004",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nSid is a girl.<br>\nSid will pick a fish.<br>\n\"Which fish will I pick?\"<br>\nThis fish is pink and silver.<br>\nThis fish zips and flips.<br>\nThis fish dips and spins.<br>\nThis little fish is quick!<br>\nIt swims with a big flick.<br>\n\"I like this swift fish!\"<br>\n\"I will pick the quick fish!\"\n</div><br>\n<span style=\"color:red;\">4. What color was the fish Sid liked?</span>",
       "type": "mcq",
+      "prompt": "What color was the fish Sid liked?",
       "options": {
         "choices": [
-          "pink and red",
-          "pink and silver",
-          "pink and blue"
+          {
+            "id": "c1",
+            "text": "pink and red"
+          },
+          {
+            "id": "c2",
+            "text": "pink and silver"
+          },
+          {
+            "id": "c3",
+            "text": "pink and blue"
+          }
         ]
       },
-      "correct_answer": "pink and silver",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'This fish is pink and silver.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 4
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/1.jpeg"
+      },
+      "order_index": 4,
+      "passage_id": "p1"
     },
     {
       "slug": "q005",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nSid is a girl.<br>\nSid will pick a fish.<br>\n\"Which fish will I pick?\"<br>\nThis fish is pink and silver.<br>\nThis fish zips and flips.<br>\nThis fish dips and spins.<br>\nThis little fish is quick!<br>\nIt swims with a big flick.<br>\n\"I like this swift fish!\"<br>\n\"I will pick the quick fish!\"\n</div><br>\n<span style=\"color:red;\">5. What will Sid do?</span>",
       "type": "mcq",
+      "prompt": "What will Sid do?",
       "options": {
         "choices": [
-          "Sid will pick a donkey",
-          "Sid will pick a cat",
-          "Sid will pick a fish"
+          {
+            "id": "c1",
+            "text": "Sid will pick a donkey"
+          },
+          {
+            "id": "c2",
+            "text": "Sid will pick a cat"
+          },
+          {
+            "id": "c3",
+            "text": "Sid will pick a fish"
+          }
         ]
       },
-      "correct_answer": "Sid will pick a fish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Throughout the story, Sid is choosing a fish to pick.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 5
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/1.jpeg"
+      },
+      "order_index": 5,
+      "passage_id": "p1"
     },
     {
       "slug": "q006",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nSid is a girl.<br>\nSid will pick a fish.<br>\n\"Which fish will I pick?\"<br>\nThis fish is pink and silver.<br>\nThis fish zips and flips.<br>\nThis fish dips and spins.<br>\nThis little fish is quick!<br>\nIt swims with a big flick.<br>\n\"I like this swift fish!\"<br>\n\"I will pick the quick fish!\"\n</div><br>\n<span style=\"color:red;\">6. What can the fish do?</span>",
       "type": "mcq",
+      "prompt": "What can the fish do?",
       "options": {
         "choices": [
-          "sleep and drink",
-          "zips and flips",
-          "dips and spins"
+          {
+            "id": "c1",
+            "text": "sleep and drink"
+          },
+          {
+            "id": "c2",
+            "text": "zips and flips"
+          },
+          {
+            "id": "c3",
+            "text": "dips and spins"
+          }
         ]
       },
-      "correct_answer": "zips and flips",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'This fish zips and flips.' Both are actions the fish can do.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 6
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/1.jpeg"
+      },
+      "order_index": 6,
+      "passage_id": "p1"
     },
     {
       "slug": "q007",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nSid is a girl.<br>\nSid will pick a fish.<br>\n\"Which fish will I pick?\"<br>\nThis fish is pink and silver.<br>\nThis fish zips and flips.<br>\nThis fish dips and spins.<br>\nThis little fish is quick!<br>\nIt swims with a big flick.<br>\n\"I like this swift fish!\"<br>\n\"I will pick the quick fish!\"\n</div><br>\n<span style=\"color:red;\">7. How does the fish swim?</span>",
       "type": "mcq",
+      "prompt": "How does the fish swim?",
       "options": {
         "choices": [
-          "the fish swims with a big flick",
-          "the fish swims with a small flick",
-          "the fish swims with a big jump"
+          {
+            "id": "c1",
+            "text": "the fish swims with a big flick"
+          },
+          {
+            "id": "c2",
+            "text": "the fish swims with a small flick"
+          },
+          {
+            "id": "c3",
+            "text": "the fish swims with a big jump"
+          }
         ]
       },
-      "correct_answer": "the fish swims with a big flick",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'It swims with a big flick.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 7
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/1.jpeg"
+      },
+      "order_index": 7,
+      "passage_id": "p1"
     },
     {
       "slug": "q008",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nSid is a girl.<br>\nSid will pick a fish.<br>\n\"Which fish will I pick?\"<br>\nThis fish is pink and silver.<br>\nThis fish zips and flips.<br>\nThis fish dips and spins.<br>\nThis little fish is quick!<br>\nIt swims with a big flick.<br>\n\"I like this swift fish!\"<br>\n\"I will pick the quick fish!\"\n</div><br>\n<span style=\"color:red;\">8. What can the fish do?</span>",
       "type": "mcq",
+      "prompt": "What can the fish do?",
       "options": {
         "choices": [
-          "the fish smiles and spins",
-          "the fish dips and jumps",
-          "the fish dips and spins"
+          {
+            "id": "c1",
+            "text": "the fish smiles and spins"
+          },
+          {
+            "id": "c2",
+            "text": "the fish dips and jumps"
+          },
+          {
+            "id": "c3",
+            "text": "the fish dips and spins"
+          }
         ]
       },
-      "correct_answer": "the fish dips and spins",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'This fish dips and spins.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 8
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/1.jpeg"
+      },
+      "order_index": 8,
+      "passage_id": "p1"
     },
     {
       "slug": "q009",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nSid is a girl.<br>\nSid will pick a fish.<br>\n\"Which fish will I pick?\"<br>\nThis fish is pink and silver.<br>\nThis fish zips and flips.<br>\nThis fish dips and spins.<br>\nThis little fish is quick!<br>\nIt swims with a big flick.<br>\n\"I like this swift fish!\"<br>\n\"I will pick the quick fish!\"\n</div><br>\n<span style=\"color:red;\">9. What does Sid like?</span>",
       "type": "mcq",
+      "prompt": "What does Sid like?",
       "options": {
         "choices": [
-          "Sid likes the swing fish",
-          "Sid likes the shift fish",
-          "Sid likes the swift fish"
+          {
+            "id": "c1",
+            "text": "Sid likes the swing fish"
+          },
+          {
+            "id": "c2",
+            "text": "Sid likes the shift fish"
+          },
+          {
+            "id": "c3",
+            "text": "Sid likes the swift fish"
+          }
         ]
       },
-      "correct_answer": "Sid likes the swift fish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Sid says 'I like this swift fish!' showing she likes the swift fish.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 9
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/1.jpeg"
+      },
+      "order_index": 9,
+      "passage_id": "p1"
     },
     {
       "slug": "q010",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nSid is a girl.<br>\nSid will pick a fish.<br>\n\"Which fish will I pick?\"<br>\nThis fish is pink and silver.<br>\nThis fish zips and flips.<br>\nThis fish dips and spins.<br>\nThis little fish is quick!<br>\nIt swims with a big flick.<br>\n\"I like this swift fish!\"<br>\n\"I will pick the quick fish!\"\n</div><br>\n<span style=\"color:red;\">10. What will Sid pick?</span>",
       "type": "mcq",
+      "prompt": "What will Sid pick?",
       "options": {
         "choices": [
-          "Sid will pick the quick car",
-          "Sid will pick the quick fish",
-          "Sid will pick the quick bike"
+          {
+            "id": "c1",
+            "text": "Sid will pick the quick car"
+          },
+          {
+            "id": "c2",
+            "text": "Sid will pick the quick fish"
+          },
+          {
+            "id": "c3",
+            "text": "Sid will pick the quick bike"
+          }
         ]
       },
-      "correct_answer": "Sid will pick the quick fish",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sid declares 'I will pick the quick fish!' at the end of the story.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 10
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/1.jpeg"
+      },
+      "order_index": 10,
+      "passage_id": "p1"
     },
     {
       "slug": "q011",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim sees a big pig.<br>\nThe pig will dig in the pit.<br>\nThe pig digs and digs in the pit.<br>\nThen, the pig will sit in the pit.<br>\nTim grins.<br>\n\"Will the pig fit?\" says Kim.<br>\nThe pig sits in the pit.<br>\nThe pig's big hips stick up!<br>\nTim and Kim giggle.<br>\n\"The pig is too big!\" says Tim.\n</div><br>\n<span style=\"color:red;\">11. What does Tim see?</span>",
       "type": "mcq",
+      "prompt": "What does Tim see?",
       "options": {
         "choices": [
-          "Tim sees a big horse",
-          "Tim sees a big dog",
-          "Tim sees a big pig"
+          {
+            "id": "c1",
+            "text": "Tim sees a big horse"
+          },
+          {
+            "id": "c2",
+            "text": "Tim sees a big dog"
+          },
+          {
+            "id": "c3",
+            "text": "Tim sees a big pig"
+          }
         ]
       },
-      "correct_answer": "Tim sees a big pig",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story begins with 'Tim sees a big pig.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 11
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/2.jpeg"
+      },
+      "order_index": 11,
+      "passage_id": "p2"
     },
     {
       "slug": "q012",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim sees a big pig.<br>\nThe pig will dig in the pit.<br>\nThe pig digs and digs in the pit.<br>\nThen, the pig will sit in the pit.<br>\nTim grins.<br>\n\"Will the pig fit?\" says Kim.<br>\nThe pig sits in the pit.<br>\nThe pig's big hips stick up!<br>\nTim and Kim giggle.<br>\n\"The pig is too big!\" says Tim.\n</div><br>\n<span style=\"color:red;\">12. Where will the pig dig?</span>",
       "type": "mcq",
+      "prompt": "Where will the pig dig?",
       "options": {
         "choices": [
-          "the pig will dig in the garden",
-          "the pig will dig in the ocean",
-          "the pig will dig in the pit"
+          {
+            "id": "c1",
+            "text": "the pig will dig in the garden"
+          },
+          {
+            "id": "c2",
+            "text": "the pig will dig in the ocean"
+          },
+          {
+            "id": "c3",
+            "text": "the pig will dig in the pit"
+          }
         ]
       },
-      "correct_answer": "the pig will dig in the pit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The pig will dig in the pit.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 12
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/2.jpeg"
+      },
+      "order_index": 12,
+      "passage_id": "p2"
     },
     {
       "slug": "q013",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim sees a big pig.<br>\nThe pig will dig in the pit.<br>\nThe pig digs and digs in the pit.<br>\nThen, the pig will sit in the pit.<br>\nTim grins.<br>\n\"Will the pig fit?\" says Kim.<br>\nThe pig sits in the pit.<br>\nThe pig's big hips stick up!<br>\nTim and Kim giggle.<br>\n\"The pig is too big!\" says Tim.\n</div><br>\n<span style=\"color:red;\">13. What does the pig do?</span>",
       "type": "mcq",
+      "prompt": "What does the pig do?",
       "options": {
         "choices": [
-          "the pig digs and digs",
-          "the cat digs and digs",
-          "the pig sleeps and sleeps"
+          {
+            "id": "c1",
+            "text": "the pig digs and digs"
+          },
+          {
+            "id": "c2",
+            "text": "the cat digs and digs"
+          },
+          {
+            "id": "c3",
+            "text": "the pig sleeps and sleeps"
+          }
         ]
       },
-      "correct_answer": "the pig digs and digs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'The pig digs and digs in the pit.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 13
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/2.jpeg"
+      },
+      "order_index": 13,
+      "passage_id": "p2"
     },
     {
       "slug": "q014",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim sees a big pig.<br>\nThe pig will dig in the pit.<br>\nThe pig digs and digs in the pit.<br>\nThen, the pig will sit in the pit.<br>\nTim grins.<br>\n\"Will the pig fit?\" says Kim.<br>\nThe pig sits in the pit.<br>\nThe pig's big hips stick up!<br>\nTim and Kim giggle.<br>\n\"The pig is too big!\" says Tim.\n</div><br>\n<span style=\"color:red;\">14. Where does the pig sit?</span>",
       "type": "mcq",
+      "prompt": "Where does the pig sit?",
       "options": {
         "choices": [
-          "the pig sits in the pit",
-          "the pig sits in the ground",
-          "the pig sits in the chair"
+          {
+            "id": "c1",
+            "text": "the pig sits in the pit"
+          },
+          {
+            "id": "c2",
+            "text": "the pig sits in the ground"
+          },
+          {
+            "id": "c3",
+            "text": "the pig sits in the chair"
+          }
         ]
       },
-      "correct_answer": "the pig sits in the pit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'The pig sits in the pit.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 14
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/2.jpeg"
+      },
+      "order_index": 14,
+      "passage_id": "p2"
     },
     {
       "slug": "q015",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim sees a big pig.<br>\nThe pig will dig in the pit.<br>\nThe pig digs and digs in the pit.<br>\nThen, the pig will sit in the pit.<br>\nTim grins.<br>\n\"Will the pig fit?\" says Kim.<br>\nThe pig sits in the pit.<br>\nThe pig's big hips stick up!<br>\nTim and Kim giggle.<br>\n\"The pig is too big!\" says Tim.\n</div><br>\n<span style=\"color:red;\">15. What does Kim say?</span>",
       "type": "mcq",
+      "prompt": "What does Kim say?",
       "options": {
         "choices": [
-          "\"Will the pig fit?\"",
-          "\"Will the pig sleep?\"",
-          "\"Will the cat fit?\""
+          {
+            "id": "c1",
+            "text": "\"Will the pig fit?\""
+          },
+          {
+            "id": "c2",
+            "text": "\"Will the pig sleep?\""
+          },
+          {
+            "id": "c3",
+            "text": "\"Will the cat fit?\""
+          }
         ]
       },
-      "correct_answer": "\"Will the pig fit?\"",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Kim asks 'Will the pig fit?' wondering if the pig will fit in the pit.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 15
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/2.jpeg"
+      },
+      "order_index": 15,
+      "passage_id": "p2"
     },
     {
       "slug": "q016",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim sees a big pig.<br>\nThe pig will dig in the pit.<br>\nThe pig digs and digs in the pit.<br>\nThen, the pig will sit in the pit.<br>\nTim grins.<br>\n\"Will the pig fit?\" says Kim.<br>\nThe pig sits in the pit.<br>\nThe pig's big hips stick up!<br>\nTim and Kim giggle.<br>\n\"The pig is too big!\" says Tim.\n</div><br>\n<span style=\"color:red;\">16. Why do Tim and Kim giggle?</span>",
       "type": "mcq",
+      "prompt": "Why do Tim and Kim giggle?",
       "options": {
         "choices": [
-          "The pig's big nose sticks up!",
-          "The pig's big mouth sticks up!",
-          "The pig's big hips stick up!"
+          {
+            "id": "c1",
+            "text": "The pig's big nose sticks up!"
+          },
+          {
+            "id": "c2",
+            "text": "The pig's big mouth sticks up!"
+          },
+          {
+            "id": "c3",
+            "text": "The pig's big hips stick up!"
+          }
         ]
       },
-      "correct_answer": "The pig's big hips stick up!",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The pig's big hips stick up!' which makes Tim and Kim giggle.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 16
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/2.jpeg"
+      },
+      "order_index": 16,
+      "passage_id": "p2"
     },
     {
       "slug": "q017",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim sees a big pig.<br>\nThe pig will dig in the pit.<br>\nThe pig digs and digs in the pit.<br>\nThen, the pig will sit in the pit.<br>\nTim grins.<br>\n\"Will the pig fit?\" says Kim.<br>\nThe pig sits in the pit.<br>\nThe pig's big hips stick up!<br>\nTim and Kim giggle.<br>\n\"The pig is too big!\" says Tim.\n</div><br>\n<span style=\"color:red;\">17. What conclusion does Tim come to?</span>",
       "type": "mcq",
+      "prompt": "What conclusion does Tim come to?",
       "options": {
         "choices": [
-          "\"The pig is too big!\" says Tim.",
-          "\"The pig is too fluffy!\" says Tim.",
-          "\"The pig is too small!\" says Tim."
+          {
+            "id": "c1",
+            "text": "\"The pig is too big!\" says Tim."
+          },
+          {
+            "id": "c2",
+            "text": "\"The pig is too fluffy!\" says Tim."
+          },
+          {
+            "id": "c3",
+            "text": "\"The pig is too small!\" says Tim."
+          }
         ]
       },
-      "correct_answer": "\"The pig is too big!\" says Tim.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Tim concludes 'The pig is too big!' after seeing the pig's hips sticking out of the pit.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 17
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/2.jpeg"
+      },
+      "order_index": 17,
+      "passage_id": "p2"
     },
     {
       "slug": "q018",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim sees a big pig.<br>\nThe pig will dig in the pit.<br>\nThe pig digs and digs in the pit.<br>\nThen, the pig will sit in the pit.<br>\nTim grins.<br>\n\"Will the pig fit?\" says Kim.<br>\nThe pig sits in the pit.<br>\nThe pig's big hips stick up!<br>\nTim and Kim giggle.<br>\n\"The pig is too big!\" says Tim.\n</div><br>\n<span style=\"color:red;\">18. What is another word for giggle?</span>",
       "type": "mcq",
+      "prompt": "What is another word for giggle?",
       "options": {
         "choices": [
-          "laugh",
-          "cry",
-          "jump"
+          {
+            "id": "c1",
+            "text": "laugh"
+          },
+          {
+            "id": "c2",
+            "text": "cry"
+          },
+          {
+            "id": "c3",
+            "text": "jump"
+          }
         ]
       },
-      "correct_answer": "laugh",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "To giggle means to laugh in a silly or light way.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 18
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/2.jpeg"
+      },
+      "order_index": 18,
+      "passage_id": "p2"
     },
     {
       "slug": "q019",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim sees a big pig.<br>\nThe pig will dig in the pit.<br>\nThe pig digs and digs in the pit.<br>\nThen, the pig will sit in the pit.<br>\nTim grins.<br>\n\"Will the pig fit?\" says Kim.<br>\nThe pig sits in the pit.<br>\nThe pig's big hips stick up!<br>\nTim and Kim giggle.<br>\n\"The pig is too big!\" says Tim.\n</div><br>\n<span style=\"color:red;\">19. What is the plural form of pig?</span>",
       "type": "mcq",
+      "prompt": "What is the plural form of pig?",
       "options": {
         "choices": [
-          "piggy",
-          "pigskin",
-          "pigs"
+          {
+            "id": "c1",
+            "text": "piggy"
+          },
+          {
+            "id": "c2",
+            "text": "pigskin"
+          },
+          {
+            "id": "c3",
+            "text": "pigs"
+          }
         ]
       },
-      "correct_answer": "pigs",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The plural of pig is pigs. We add -s to make it plural.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 19
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/2.jpeg"
+      },
+      "order_index": 19,
+      "passage_id": "p2"
     },
     {
       "slug": "q020",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim sees a big pig.<br>\nThe pig will dig in the pit.<br>\nThe pig digs and digs in the pit.<br>\nThen, the pig will sit in the pit.<br>\nTim grins.<br>\n\"Will the pig fit?\" says Kim.<br>\nThe pig sits in the pit.<br>\nThe pig's big hips stick up!<br>\nTim and Kim giggle.<br>\n\"The pig is too big!\" says Tim.\n</div><br>\n<span style=\"color:red;\">20. How many humans are there in the story?</span>",
       "type": "mcq",
+      "prompt": "How many humans are there in the story?",
       "options": {
         "choices": [
-          "2 humans",
-          "3 humans",
-          "No humans"
+          {
+            "id": "c1",
+            "text": "2 humans"
+          },
+          {
+            "id": "c2",
+            "text": "3 humans"
+          },
+          {
+            "id": "c3",
+            "text": "No humans"
+          }
         ]
       },
-      "correct_answer": "2 humans",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "There are two humans in the story: Tim and Kim.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 20
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/2.jpeg"
+      },
+      "order_index": 20,
+      "passage_id": "p2"
     },
     {
       "slug": "q021",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim and Nick kick.<br>\nTim kicks the big ball.<br>\nNick kicks to Tim.<br>\nTim kicks to Nick.<br>\nTim will spin.<br>\nNick will grin.<br>\nNick kicks it in.<br>\nThe kids win.<br>\nTim and Nick sing.<br>\n\"I like this win!\" says Tim.\n</div><br>\n<span style=\"color:red;\">21. Who kicks the ball with Tim?</span>",
       "type": "mcq",
+      "prompt": "Who kicks the ball with Tim?",
       "options": {
         "choices": [
-          "Kim",
-          "Nick",
-          "Sid"
+          {
+            "id": "c1",
+            "text": "Kim"
+          },
+          {
+            "id": "c2",
+            "text": "Nick"
+          },
+          {
+            "id": "c3",
+            "text": "Sid"
+          }
         ]
       },
-      "correct_answer": "Nick",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story begins with 'Tim and Nick kick,' showing Nick plays with Tim.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 21
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/3.jpeg"
+      },
+      "order_index": 21,
+      "passage_id": "p3"
     },
     {
       "slug": "q022",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim and Nick kick.<br>\nTim kicks the big ball.<br>\nNick kicks to Tim.<br>\nTim kicks to Nick.<br>\nTim will spin.<br>\nNick will grin.<br>\nNick kicks it in.<br>\nThe kids win.<br>\nTim and Nick sing.<br>\n\"I like this win!\" says Tim.\n</div><br>\n<span style=\"color:red;\">22. What do Tim and Nick kick?</span>",
       "type": "mcq",
+      "prompt": "What do Tim and Nick kick?",
       "options": {
         "choices": [
-          "a ball",
-          "a fish",
-          "a pig"
+          {
+            "id": "c1",
+            "text": "a ball"
+          },
+          {
+            "id": "c2",
+            "text": "a fish"
+          },
+          {
+            "id": "c3",
+            "text": "a pig"
+          }
         ]
       },
-      "correct_answer": "a ball",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Tim kicks the big ball.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 22
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/3.jpeg"
+      },
+      "order_index": 22,
+      "passage_id": "p3"
     },
     {
       "slug": "q023",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim and Nick kick.<br>\nTim kicks the big ball.<br>\nNick kicks to Tim.<br>\nTim kicks to Nick.<br>\nTim will spin.<br>\nNick will grin.<br>\nNick kicks it in.<br>\nThe kids win.<br>\nTim and Nick sing.<br>\n\"I like this win!\" says Tim.\n</div><br>\n<span style=\"color:red;\">23. Who will kick to Tim?</span>",
       "type": "mcq",
+      "prompt": "Who will kick to Tim?",
       "options": {
         "choices": [
-          "Tim",
-          "Nick",
-          "Kim"
+          {
+            "id": "c1",
+            "text": "Tim"
+          },
+          {
+            "id": "c2",
+            "text": "Nick"
+          },
+          {
+            "id": "c3",
+            "text": "Kim"
+          }
         ]
       },
-      "correct_answer": "Nick",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Nick kicks to Tim.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 23
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/3.jpeg"
+      },
+      "order_index": 23,
+      "passage_id": "p3"
     },
     {
       "slug": "q024",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim and Nick kick.<br>\nTim kicks the big ball.<br>\nNick kicks to Tim.<br>\nTim kicks to Nick.<br>\nTim will spin.<br>\nNick will grin.<br>\nNick kicks it in.<br>\nThe kids win.<br>\nTim and Nick sing.<br>\n\"I like this win!\" says Tim.\n</div><br>\n<span style=\"color:red;\">24. Who will pass the ball to Nick?</span>",
       "type": "mcq",
+      "prompt": "Who will pass the ball to Nick?",
       "options": {
         "choices": [
-          "Tim",
-          "Nick",
-          "Sid"
+          {
+            "id": "c1",
+            "text": "Tim"
+          },
+          {
+            "id": "c2",
+            "text": "Nick"
+          },
+          {
+            "id": "c3",
+            "text": "Sid"
+          }
         ]
       },
-      "correct_answer": "Tim",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Tim kicks to Nick,' so Tim passes to Nick.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 24
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/3.jpeg"
+      },
+      "order_index": 24,
+      "passage_id": "p3"
     },
     {
       "slug": "q025",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim and Nick kick.<br>\nTim kicks the big ball.<br>\nNick kicks to Tim.<br>\nTim kicks to Nick.<br>\nTim will spin.<br>\nNick will grin.<br>\nNick kicks it in.<br>\nThe kids win.<br>\nTim and Nick sing.<br>\n\"I like this win!\" says Tim.\n</div><br>\n<span style=\"color:red;\">25. What will Nick kick in?</span>",
       "type": "mcq",
+      "prompt": "What will Nick kick in?",
       "options": {
         "choices": [
-          "the pit",
-          "the fish",
-          "the ball"
+          {
+            "id": "c1",
+            "text": "the pit"
+          },
+          {
+            "id": "c2",
+            "text": "the fish"
+          },
+          {
+            "id": "c3",
+            "text": "the ball"
+          }
         ]
       },
-      "correct_answer": "the ball",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Nick kicks it in,' meaning Nick kicks the ball into the goal.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 25
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/3.jpeg"
+      },
+      "order_index": 25,
+      "passage_id": "p3"
     },
     {
       "slug": "q026",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim and Nick kick.<br>\nTim kicks the big ball.<br>\nNick kicks to Tim.<br>\nTim kicks to Nick.<br>\nTim will spin.<br>\nNick will grin.<br>\nNick kicks it in.<br>\nThe kids win.<br>\nTim and Nick sing.<br>\n\"I like this win!\" says Tim.\n</div><br>\n<span style=\"color:red;\">26. What game are Tim and Nick playing?</span>",
       "type": "mcq",
+      "prompt": "What game are Tim and Nick playing?",
       "options": {
         "choices": [
-          "soccer",
-          "fishing",
-          "swimming"
+          {
+            "id": "c1",
+            "text": "soccer"
+          },
+          {
+            "id": "c2",
+            "text": "fishing"
+          },
+          {
+            "id": "c3",
+            "text": "swimming"
+          }
         ]
       },
-      "correct_answer": "soccer",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Tim and Nick kick a ball and score a goal, which describes the game of soccer.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 26
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/3.jpeg"
+      },
+      "order_index": 26,
+      "passage_id": "p3"
     },
     {
       "slug": "q027",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim and Nick kick.<br>\nTim kicks the big ball.<br>\nNick kicks to Tim.<br>\nTim kicks to Nick.<br>\nTim will spin.<br>\nNick will grin.<br>\nNick kicks it in.<br>\nThe kids win.<br>\nTim and Nick sing.<br>\n\"I like this win!\" says Tim.\n</div><br>\n<span style=\"color:red;\">27. How many boys are playing?</span>",
       "type": "mcq",
+      "prompt": "How many boys are playing?",
       "options": {
         "choices": [
-          "one",
-          "two",
-          "three"
+          {
+            "id": "c1",
+            "text": "one"
+          },
+          {
+            "id": "c2",
+            "text": "two"
+          },
+          {
+            "id": "c3",
+            "text": "three"
+          }
         ]
       },
-      "correct_answer": "two",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "There are two boys playing: Tim and Nick.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 27
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/3.jpeg"
+      },
+      "order_index": 27,
+      "passage_id": "p3"
     },
     {
       "slug": "q028",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim and Nick kick.<br>\nTim kicks the big ball.<br>\nNick kicks to Tim.<br>\nTim kicks to Nick.<br>\nTim will spin.<br>\nNick will grin.<br>\nNick kicks it in.<br>\nThe kids win.<br>\nTim and Nick sing.<br>\n\"I like this win!\" says Tim.\n</div><br>\n<span style=\"color:red;\">28. Who will win?</span>",
       "type": "mcq",
+      "prompt": "Who will win?",
       "options": {
         "choices": [
-          "Tim and Nick",
-          "Sandy and Kim",
-          "Nick and Sid"
+          {
+            "id": "c1",
+            "text": "Tim and Nick"
+          },
+          {
+            "id": "c2",
+            "text": "Sandy and Kim"
+          },
+          {
+            "id": "c3",
+            "text": "Nick and Sid"
+          }
         ]
       },
-      "correct_answer": "Tim and Nick",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'The kids win,' and the kids in the story are Tim and Nick.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 28
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/3.jpeg"
+      },
+      "order_index": 28,
+      "passage_id": "p3"
     },
     {
       "slug": "q029",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim and Nick kick.<br>\nTim kicks the big ball.<br>\nNick kicks to Tim.<br>\nTim kicks to Nick.<br>\nTim will spin.<br>\nNick will grin.<br>\nNick kicks it in.<br>\nThe kids win.<br>\nTim and Nick sing.<br>\n\"I like this win!\" says Tim.\n</div><br>\n<span style=\"color:red;\">29. Who gets the ball from Nick?</span>",
       "type": "mcq",
+      "prompt": "Who gets the ball from Nick?",
       "options": {
         "choices": [
-          "Kim",
-          "Sid",
-          "Tim"
+          {
+            "id": "c1",
+            "text": "Kim"
+          },
+          {
+            "id": "c2",
+            "text": "Sid"
+          },
+          {
+            "id": "c3",
+            "text": "Tim"
+          }
         ]
       },
-      "correct_answer": "Tim",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Nick kicks to Tim,' so Tim receives the ball from Nick.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 29
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/3.jpeg"
+      },
+      "order_index": 29,
+      "passage_id": "p3"
     },
     {
       "slug": "q030",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim and Nick kick.<br>\nTim kicks the big ball.<br>\nNick kicks to Tim.<br>\nTim kicks to Nick.<br>\nTim will spin.<br>\nNick will grin.<br>\nNick kicks it in.<br>\nThe kids win.<br>\nTim and Nick sing.<br>\n\"I like this win!\" says Tim.\n</div><br>\n<span style=\"color:red;\">30. What happens at the end?</span>",
       "type": "mcq",
+      "prompt": "What happens at the end?",
       "options": {
         "choices": [
-          "Tim and Nick get wet",
-          "Tim and Nick win",
-          "Tim and Nick go to school"
+          {
+            "id": "c1",
+            "text": "Tim and Nick get wet"
+          },
+          {
+            "id": "c2",
+            "text": "Tim and Nick win"
+          },
+          {
+            "id": "c3",
+            "text": "Tim and Nick go to school"
+          }
         ]
       },
-      "correct_answer": "Tim and Nick win",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "At the end, 'The kids win' and they sing to celebrate.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 30
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/3.jpeg"
+      },
+      "order_index": 30,
+      "passage_id": "p3"
     },
     {
       "slug": "q031",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nThis is Kim.<br>\nSid and Kim are friends.<br>\nSid hid.<br>\nKim will find Sid.<br>\n\"Is Sid in the big bin?\" asks Kim.<br>\nKim will lift the lid.<br>\n\"Yes!\" says Kim.<br>\nSid is in the big bin!\n</div><br>\n<span style=\"color:red;\">31. What are Sid and Kim?</span>",
       "type": "mcq",
+      "prompt": "What are Sid and Kim?",
       "options": {
         "choices": [
-          "they are siblings",
-          "they are friends",
-          "they are Parents"
+          {
+            "id": "c1",
+            "text": "they are siblings"
+          },
+          {
+            "id": "c2",
+            "text": "they are friends"
+          },
+          {
+            "id": "c3",
+            "text": "they are Parents"
+          }
         ]
       },
-      "correct_answer": "they are friends",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Sid and Kim are friends.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 31
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/4.jpeg"
+      },
+      "order_index": 31,
+      "passage_id": "p4"
     },
     {
       "slug": "q032",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nThis is Kim.<br>\nSid and Kim are friends.<br>\nSid hid.<br>\nKim will find Sid.<br>\n\"Is Sid in the big bin?\" asks Kim.<br>\nKim will lift the lid.<br>\n\"Yes!\" says Kim.<br>\nSid is in the big bin!\n</div><br>\n<span style=\"color:red;\">32. Who hid?</span>",
       "type": "mcq",
+      "prompt": "Who hid?",
       "options": {
         "choices": [
-          "Sid hid",
-          "Sandy hid",
-          "mother hid"
+          {
+            "id": "c1",
+            "text": "Sid hid"
+          },
+          {
+            "id": "c2",
+            "text": "Sandy hid"
+          },
+          {
+            "id": "c3",
+            "text": "mother hid"
+          }
         ]
       },
-      "correct_answer": "Sid hid",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Sid hid,' meaning Sid is the one hiding.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 32
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/4.jpeg"
+      },
+      "order_index": 32,
+      "passage_id": "p4"
     },
     {
       "slug": "q033",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nThis is Kim.<br>\nSid and Kim are friends.<br>\nSid hid.<br>\nKim will find Sid.<br>\n\"Is Sid in the big bin?\" asks Kim.<br>\nKim will lift the lid.<br>\n\"Yes!\" says Kim.<br>\nSid is in the big bin!\n</div><br>\n<span style=\"color:red;\">33. Who will find Sid?</span>",
       "type": "mcq",
+      "prompt": "Who will find Sid?",
       "options": {
         "choices": [
-          "Kim will find Sandy",
-          "Kim will find Sid",
-          "Sid will be lost"
+          {
+            "id": "c1",
+            "text": "Kim will find Sandy"
+          },
+          {
+            "id": "c2",
+            "text": "Kim will find Sid"
+          },
+          {
+            "id": "c3",
+            "text": "Sid will be lost"
+          }
         ]
       },
-      "correct_answer": "Kim will find Sid",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Kim will find Sid.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 33
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/4.jpeg"
+      },
+      "order_index": 33,
+      "passage_id": "p4"
     },
     {
       "slug": "q034",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nThis is Kim.<br>\nSid and Kim are friends.<br>\nSid hid.<br>\nKim will find Sid.<br>\n\"Is Sid in the big bin?\" asks Kim.<br>\nKim will lift the lid.<br>\n\"Yes!\" says Kim.<br>\nSid is in the big bin!\n</div><br>\n<span style=\"color:red;\">34. Where was Sid hiding?</span>",
       "type": "mcq",
+      "prompt": "Where was Sid hiding?",
       "options": {
         "choices": [
-          "in the big bin",
-          "in the big box",
-          "in the big room"
+          {
+            "id": "c1",
+            "text": "in the big bin"
+          },
+          {
+            "id": "c2",
+            "text": "in the big box"
+          },
+          {
+            "id": "c3",
+            "text": "in the big room"
+          }
         ]
       },
-      "correct_answer": "in the big bin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Sid is in the big bin!'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 34
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/4.jpeg"
+      },
+      "order_index": 34,
+      "passage_id": "p4"
     },
     {
       "slug": "q035",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nThis is Kim.<br>\nSid and Kim are friends.<br>\nSid hid.<br>\nKim will find Sid.<br>\n\"Is Sid in the big bin?\" asks Kim.<br>\nKim will lift the lid.<br>\n\"Yes!\" says Kim.<br>\nSid is in the big bin!\n</div><br>\n<span style=\"color:red;\">35. Who will lift the lid?</span>",
       "type": "mcq",
+      "prompt": "Who will lift the lid?",
       "options": {
         "choices": [
-          "Kim will lift the lid",
-          "Sandy will lift the lid",
-          "Sam will lift the car"
+          {
+            "id": "c1",
+            "text": "Kim will lift the lid"
+          },
+          {
+            "id": "c2",
+            "text": "Sandy will lift the lid"
+          },
+          {
+            "id": "c3",
+            "text": "Sam will lift the car"
+          }
         ]
       },
-      "correct_answer": "Kim will lift the lid",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Kim will lift the lid' to look inside the bin for Sid.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 35
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/4.jpeg"
+      },
+      "order_index": 35,
+      "passage_id": "p4"
     },
     {
       "slug": "q036",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nThis is Kim.<br>\nSid and Kim are friends.<br>\nSid hid.<br>\nKim will find Sid.<br>\n\"Is Sid in the big bin?\" asks Kim.<br>\nKim will lift the lid.<br>\n\"Yes!\" says Kim.<br>\nSid is in the big bin!\n</div><br>\n<span style=\"color:red;\">36. What is the singular form of friends?</span>",
       "type": "mcq",
+      "prompt": "What is the singular form of friends?",
       "options": {
         "choices": [
-          "friend",
-          "person",
-          "people"
+          {
+            "id": "c1",
+            "text": "friend"
+          },
+          {
+            "id": "c2",
+            "text": "person"
+          },
+          {
+            "id": "c3",
+            "text": "people"
+          }
         ]
       },
-      "correct_answer": "friend",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The singular form of friends is friend.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 36
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/4.jpeg"
+      },
+      "order_index": 36,
+      "passage_id": "p4"
     },
     {
       "slug": "q037",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nThis is Kim.<br>\nSid and Kim are friends.<br>\nSid hid.<br>\nKim will find Sid.<br>\n\"Is Sid in the big bin?\" asks Kim.<br>\nKim will lift the lid.<br>\n\"Yes!\" says Kim.<br>\nSid is in the big bin!\n</div><br>\n<span style=\"color:red;\">37. What is another word for bin?</span>",
       "type": "mcq",
+      "prompt": "What is another word for bin?",
       "options": {
         "choices": [
-          "trash",
-          "box",
-          "bag"
+          {
+            "id": "c1",
+            "text": "trash"
+          },
+          {
+            "id": "c2",
+            "text": "box"
+          },
+          {
+            "id": "c3",
+            "text": "bag"
+          }
         ]
       },
-      "correct_answer": "trash",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A bin is commonly used as a container for trash or waste.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 37
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/4.jpeg"
+      },
+      "order_index": 37,
+      "passage_id": "p4"
     },
     {
       "slug": "q038",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nThis is Kim.<br>\nSid and Kim are friends.<br>\nSid hid.<br>\nKim will find Sid.<br>\n\"Is Sid in the big bin?\" asks Kim.<br>\nKim will lift the lid.<br>\n\"Yes!\" says Kim.<br>\nSid is in the big bin!\n</div><br>\n<span style=\"color:red;\">38. What is the present form of hid?</span>",
       "type": "mcq",
+      "prompt": "What is the present form of hid?",
       "options": {
         "choices": [
-          "hide",
-          "his",
-          "how"
+          {
+            "id": "c1",
+            "text": "hide"
+          },
+          {
+            "id": "c2",
+            "text": "his"
+          },
+          {
+            "id": "c3",
+            "text": "how"
+          }
         ]
       },
-      "correct_answer": "hide",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Hid is the past tense; the present form is hide.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 38
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/4.jpeg"
+      },
+      "order_index": 38,
+      "passage_id": "p4"
     },
     {
       "slug": "q039",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nThis is Kim.<br>\nSid and Kim are friends.<br>\nSid hid.<br>\nKim will find Sid.<br>\n\"Is Sid in the big bin?\" asks Kim.<br>\nKim will lift the lid.<br>\n\"Yes!\" says Kim.<br>\nSid is in the big bin!\n</div><br>\n<span style=\"color:red;\">39. How many characters are in the short story?</span>",
       "type": "mcq",
+      "prompt": "How many characters are in the short story?",
       "options": {
         "choices": [
-          "2 characters",
-          "3 characters",
-          "1 character"
+          {
+            "id": "c1",
+            "text": "2 characters"
+          },
+          {
+            "id": "c2",
+            "text": "3 characters"
+          },
+          {
+            "id": "c3",
+            "text": "1 character"
+          }
         ]
       },
-      "correct_answer": "2 characters",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "There are two characters in the story: Sid and Kim.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 39
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/4.jpeg"
+      },
+      "order_index": 39,
+      "passage_id": "p4"
     },
     {
       "slug": "q040",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Sid.<br>\nThis is Kim.<br>\nSid and Kim are friends.<br>\nSid hid.<br>\nKim will find Sid.<br>\n\"Is Sid in the big bin?\" asks Kim.<br>\nKim will lift the lid.<br>\n\"Yes!\" says Kim.<br>\nSid is in the big bin!\n</div><br>\n<span style=\"color:red;\">40. What does Kim say?</span>",
       "type": "mcq",
+      "prompt": "What does Kim say?",
       "options": {
         "choices": [
-          "no",
-          "yes",
-          "why"
+          {
+            "id": "c1",
+            "text": "no"
+          },
+          {
+            "id": "c2",
+            "text": "yes"
+          },
+          {
+            "id": "c3",
+            "text": "why"
+          }
         ]
       },
-      "correct_answer": "yes",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "When Kim lifts the lid and finds Sid, she exclaims 'Yes!'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 40
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/4.jpeg"
+      },
+      "order_index": 40,
+      "passage_id": "p4"
     },
     {
       "slug": "q041",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMit is a cat.<br>\nKit is a cat.<br>\nMit and Kit are friends.<br>\nMit likes Kit.<br>\nKit likes Mit.<br>\nThey sit on a hill.<br>\nThey sit on a sill.<br>\nThey sit in a pit.<br>\nThey hiss and sit.<br>\nThey sniff in the pit.<br>\nMit finds a big fish in the pit.<br>\nKit finds the fish, too.<br>\nMit and Kit fight and fight.<br>\nThey swish and kick.<br>\nFinally, Mit and Kit split the fish.<br>\nThey both win.<br>\nThen, Mit and Kit sit still and eat the fish together.\n</div><br>\n<span style=\"color:red;\">41. What is Mit?</span>",
       "type": "mcq",
+      "prompt": "What is Mit?",
       "options": {
         "choices": [
-          "Mit is a girl",
-          "Mit is a boy",
-          "Mit is a cat"
+          {
+            "id": "c1",
+            "text": "Mit is a girl"
+          },
+          {
+            "id": "c2",
+            "text": "Mit is a boy"
+          },
+          {
+            "id": "c3",
+            "text": "Mit is a cat"
+          }
         ]
       },
-      "correct_answer": "Mit is a cat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story begins with 'Mit is a cat.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 41
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/5.jpeg"
+      },
+      "order_index": 41,
+      "passage_id": "p5"
     },
     {
       "slug": "q042",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMit is a cat.<br>\nKit is a cat.<br>\nMit and Kit are friends.<br>\nMit likes Kit.<br>\nKit likes Mit.<br>\nThey sit on a hill.<br>\nThey sit on a sill.<br>\nThey sit in a pit.<br>\nThey hiss and sit.<br>\nThey sniff in the pit.<br>\nMit finds a big fish in the pit.<br>\nKit finds the fish, too.<br>\nMit and Kit fight and fight.<br>\nThey swish and kick.<br>\nFinally, Mit and Kit split the fish.<br>\nThey both win.<br>\nThen, Mit and Kit sit still and eat the fish together.\n</div><br>\n<span style=\"color:red;\">42. What is Kit?</span>",
       "type": "mcq",
+      "prompt": "What is Kit?",
       "options": {
         "choices": [
-          "Kit is a cat",
-          "Kit is a pet",
-          "Kit is a dog"
+          {
+            "id": "c1",
+            "text": "Kit is a cat"
+          },
+          {
+            "id": "c2",
+            "text": "Kit is a pet"
+          },
+          {
+            "id": "c3",
+            "text": "Kit is a dog"
+          }
         ]
       },
-      "correct_answer": "Kit is a cat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Kit is a cat.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 42
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/5.jpeg"
+      },
+      "order_index": 42,
+      "passage_id": "p5"
     },
     {
       "slug": "q043",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMit is a cat.<br>\nKit is a cat.<br>\nMit and Kit are friends.<br>\nMit likes Kit.<br>\nKit likes Mit.<br>\nThey sit on a hill.<br>\nThey sit on a sill.<br>\nThey sit in a pit.<br>\nThey hiss and sit.<br>\nThey sniff in the pit.<br>\nMit finds a big fish in the pit.<br>\nKit finds the fish, too.<br>\nMit and Kit fight and fight.<br>\nThey swish and kick.<br>\nFinally, Mit and Kit split the fish.<br>\nThey both win.<br>\nThen, Mit and Kit sit still and eat the fish together.\n</div><br>\n<span style=\"color:red;\">43. What are Mit and Kit?</span>",
       "type": "mcq",
+      "prompt": "What are Mit and Kit?",
       "options": {
         "choices": [
-          "they are both cats",
-          "they are both dogs",
-          "they are both girls"
+          {
+            "id": "c1",
+            "text": "they are both cats"
+          },
+          {
+            "id": "c2",
+            "text": "they are both dogs"
+          },
+          {
+            "id": "c3",
+            "text": "they are both girls"
+          }
         ]
       },
-      "correct_answer": "they are both cats",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Both Mit and Kit are described as cats in the story.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 43
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/5.jpeg"
+      },
+      "order_index": 43,
+      "passage_id": "p5"
     },
     {
       "slug": "q044",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMit is a cat.<br>\nKit is a cat.<br>\nMit and Kit are friends.<br>\nMit likes Kit.<br>\nKit likes Mit.<br>\nThey sit on a hill.<br>\nThey sit on a sill.<br>\nThey sit in a pit.<br>\nThey hiss and sit.<br>\nThey sniff in the pit.<br>\nMit finds a big fish in the pit.<br>\nKit finds the fish, too.<br>\nMit and Kit fight and fight.<br>\nThey swish and kick.<br>\nFinally, Mit and Kit split the fish.<br>\nThey both win.<br>\nThen, Mit and Kit sit still and eat the fish together.\n</div><br>\n<span style=\"color:red;\">44. Who does Kit like?</span>",
       "type": "mcq",
+      "prompt": "Who does Kit like?",
       "options": {
         "choices": [
-          "Kit likes Sandy",
-          "Kit likes dogs",
-          "Kit likes Mit"
+          {
+            "id": "c1",
+            "text": "Kit likes Sandy"
+          },
+          {
+            "id": "c2",
+            "text": "Kit likes dogs"
+          },
+          {
+            "id": "c3",
+            "text": "Kit likes Mit"
+          }
         ]
       },
-      "correct_answer": "Kit likes Mit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Kit likes Mit.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 44
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/5.jpeg"
+      },
+      "order_index": 44,
+      "passage_id": "p5"
     },
     {
       "slug": "q045",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMit is a cat.<br>\nKit is a cat.<br>\nMit and Kit are friends.<br>\nMit likes Kit.<br>\nKit likes Mit.<br>\nThey sit on a hill.<br>\nThey sit on a sill.<br>\nThey sit in a pit.<br>\nThey hiss and sit.<br>\nThey sniff in the pit.<br>\nMit finds a big fish in the pit.<br>\nKit finds the fish, too.<br>\nMit and Kit fight and fight.<br>\nThey swish and kick.<br>\nFinally, Mit and Kit split the fish.<br>\nThey both win.<br>\nThen, Mit and Kit sit still and eat the fish together.\n</div><br>\n<span style=\"color:red;\">45. Where do Mit and Kit sit?</span>",
       "type": "mcq",
+      "prompt": "Where do Mit and Kit sit?",
       "options": {
         "choices": [
-          "they sit on the sill",
-          "they sit on the table",
-          "they sit on the couch"
+          {
+            "id": "c1",
+            "text": "they sit on the sill"
+          },
+          {
+            "id": "c2",
+            "text": "they sit on the table"
+          },
+          {
+            "id": "c3",
+            "text": "they sit on the couch"
+          }
         ]
       },
-      "correct_answer": "they sit on the sill",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'They sit on a sill' among other places.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 45
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/5.jpeg"
+      },
+      "order_index": 45,
+      "passage_id": "p5"
     },
     {
       "slug": "q046",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMit is a cat.<br>\nKit is a cat.<br>\nMit and Kit are friends.<br>\nMit likes Kit.<br>\nKit likes Mit.<br>\nThey sit on a hill.<br>\nThey sit on a sill.<br>\nThey sit in a pit.<br>\nThey hiss and sit.<br>\nThey sniff in the pit.<br>\nMit finds a big fish in the pit.<br>\nKit finds the fish, too.<br>\nMit and Kit fight and fight.<br>\nThey swish and kick.<br>\nFinally, Mit and Kit split the fish.<br>\nThey both win.<br>\nThen, Mit and Kit sit still and eat the fish together.\n</div><br>\n<span style=\"color:red;\">46. Where do Mit and Kit sniff?</span>",
       "type": "mcq",
+      "prompt": "Where do Mit and Kit sniff?",
       "options": {
         "choices": [
-          "Mit and Kit sniff in the kitchen",
-          "Mit and Kit sniff in the restaurant",
-          "Mit and Kit sniff in the pit"
+          {
+            "id": "c1",
+            "text": "Mit and Kit sniff in the kitchen"
+          },
+          {
+            "id": "c2",
+            "text": "Mit and Kit sniff in the restaurant"
+          },
+          {
+            "id": "c3",
+            "text": "Mit and Kit sniff in the pit"
+          }
         ]
       },
-      "correct_answer": "Mit and Kit sniff in the pit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'They sniff in the pit.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 46
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/5.jpeg"
+      },
+      "order_index": 46,
+      "passage_id": "p5"
     },
     {
       "slug": "q047",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMit is a cat.<br>\nKit is a cat.<br>\nMit and Kit are friends.<br>\nMit likes Kit.<br>\nKit likes Mit.<br>\nThey sit on a hill.<br>\nThey sit on a sill.<br>\nThey sit in a pit.<br>\nThey hiss and sit.<br>\nThey sniff in the pit.<br>\nMit finds a big fish in the pit.<br>\nKit finds the fish, too.<br>\nMit and Kit fight and fight.<br>\nThey swish and kick.<br>\nFinally, Mit and Kit split the fish.<br>\nThey both win.<br>\nThen, Mit and Kit sit still and eat the fish together.\n</div><br>\n<span style=\"color:red;\">47. What do Mit and Kit find?</span>",
       "type": "mcq",
+      "prompt": "What do Mit and Kit find?",
       "options": {
         "choices": [
-          "a cow",
-          "a fish",
-          "a chicken"
+          {
+            "id": "c1",
+            "text": "a cow"
+          },
+          {
+            "id": "c2",
+            "text": "a fish"
+          },
+          {
+            "id": "c3",
+            "text": "a chicken"
+          }
         ]
       },
-      "correct_answer": "a fish",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Mit finds a big fish in the pit. Kit finds the fish, too.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 47
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/5.jpeg"
+      },
+      "order_index": 47,
+      "passage_id": "p5"
     },
     {
       "slug": "q048",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMit is a cat.<br>\nKit is a cat.<br>\nMit and Kit are friends.<br>\nMit likes Kit.<br>\nKit likes Mit.<br>\nThey sit on a hill.<br>\nThey sit on a sill.<br>\nThey sit in a pit.<br>\nThey hiss and sit.<br>\nThey sniff in the pit.<br>\nMit finds a big fish in the pit.<br>\nKit finds the fish, too.<br>\nMit and Kit fight and fight.<br>\nThey swish and kick.<br>\nFinally, Mit and Kit split the fish.<br>\nThey both win.<br>\nThen, Mit and Kit sit still and eat the fish together.\n</div><br>\n<span style=\"color:red;\">48. What happens between Mit and Kit?</span>",
       "type": "mcq",
+      "prompt": "What happens between Mit and Kit?",
       "options": {
         "choices": [
-          "they fight and swim",
-          "they fight and fly",
-          "they fight and fight"
+          {
+            "id": "c1",
+            "text": "they fight and swim"
+          },
+          {
+            "id": "c2",
+            "text": "they fight and fly"
+          },
+          {
+            "id": "c3",
+            "text": "they fight and fight"
+          }
         ]
       },
-      "correct_answer": "they fight and fight",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Mit and Kit fight and fight' over the fish they found.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 48
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/5.jpeg"
+      },
+      "order_index": 48,
+      "passage_id": "p5"
     },
     {
       "slug": "q049",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMit is a cat.<br>\nKit is a cat.<br>\nMit and Kit are friends.<br>\nMit likes Kit.<br>\nKit likes Mit.<br>\nThey sit on a hill.<br>\nThey sit on a sill.<br>\nThey sit in a pit.<br>\nThey hiss and sit.<br>\nThey sniff in the pit.<br>\nMit finds a big fish in the pit.<br>\nKit finds the fish, too.<br>\nMit and Kit fight and fight.<br>\nThey swish and kick.<br>\nFinally, Mit and Kit split the fish.<br>\nThey both win.<br>\nThen, Mit and Kit sit still and eat the fish together.\n</div><br>\n<span style=\"color:red;\">49. What happened finally between Mit and Kit?</span>",
       "type": "mcq",
+      "prompt": "What happened finally between Mit and Kit?",
       "options": {
         "choices": [
-          "Mit and Kit split the wish",
-          "Mit and Kit split the cow",
-          "Mit and Kit split the fish"
+          {
+            "id": "c1",
+            "text": "Mit and Kit split the wish"
+          },
+          {
+            "id": "c2",
+            "text": "Mit and Kit split the cow"
+          },
+          {
+            "id": "c3",
+            "text": "Mit and Kit split the fish"
+          }
         ]
       },
-      "correct_answer": "Mit and Kit split the fish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Finally, Mit and Kit split the fish and both win.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 49
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/5.jpeg"
+      },
+      "order_index": 49,
+      "passage_id": "p5"
     },
     {
       "slug": "q050",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMit is a cat.<br>\nKit is a cat.<br>\nMit and Kit are friends.<br>\nMit likes Kit.<br>\nKit likes Mit.<br>\nThey sit on a hill.<br>\nThey sit on a sill.<br>\nThey sit in a pit.<br>\nThey hiss and sit.<br>\nThey sniff in the pit.<br>\nMit finds a big fish in the pit.<br>\nKit finds the fish, too.<br>\nMit and Kit fight and fight.<br>\nThey swish and kick.<br>\nFinally, Mit and Kit split the fish.<br>\nThey both win.<br>\nThen, Mit and Kit sit still and eat the fish together.\n</div><br>\n<span style=\"color:red;\">50. Who wins the fight?</span>",
       "type": "mcq",
+      "prompt": "Who wins the fight?",
       "options": {
         "choices": [
-          "they both lose",
-          "they both eat",
-          "they both win"
+          {
+            "id": "c1",
+            "text": "they both lose"
+          },
+          {
+            "id": "c2",
+            "text": "they both eat"
+          },
+          {
+            "id": "c3",
+            "text": "they both win"
+          }
         ]
       },
-      "correct_answer": "they both win",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'They both win' after splitting the fish equally.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 50
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/5.jpeg"
+      },
+      "order_index": 50,
+      "passage_id": "p5"
     },
     {
       "slug": "q051",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Liz.<br>\nLiz is a pig.<br>\nLiz will pick a wig.<br>\nLiz picks the blue wig.<br>\nThe blue wig is big.<br>\nIt slips and dips.<br>\nLiz picks the green wig.<br>\nThe green wig is trim.<br>\nThe wig fits.<br>\nLiz grins.\n</div><br>\n<span style=\"color:red;\">51. Who is Liz?</span>",
       "type": "mcq",
+      "prompt": "Who is Liz?",
       "options": {
         "choices": [
-          "pig",
-          "mud",
-          "wig"
+          {
+            "id": "c1",
+            "text": "pig"
+          },
+          {
+            "id": "c2",
+            "text": "mud"
+          },
+          {
+            "id": "c3",
+            "text": "wig"
+          }
         ]
       },
-      "correct_answer": "pig",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Liz is a pig.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 51
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/6.jpeg"
+      },
+      "order_index": 51,
+      "passage_id": "p6"
     },
     {
       "slug": "q052",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Liz.<br>\nLiz is a pig.<br>\nLiz will pick a wig.<br>\nLiz picks the blue wig.<br>\nThe blue wig is big.<br>\nIt slips and dips.<br>\nLiz picks the green wig.<br>\nThe green wig is trim.<br>\nThe wig fits.<br>\nLiz grins.\n</div><br>\n<span style=\"color:red;\">52. What will Liz pick?</span>",
       "type": "mcq",
+      "prompt": "What will Liz pick?",
       "options": {
         "choices": [
-          "wig",
-          "cat",
-          "shoes"
+          {
+            "id": "c1",
+            "text": "wig"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "shoes"
+          }
         ]
       },
-      "correct_answer": "wig",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Liz will pick a wig.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 52
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/6.jpeg"
+      },
+      "order_index": 52,
+      "passage_id": "p6"
     },
     {
       "slug": "q053",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Liz.<br>\nLiz is a pig.<br>\nLiz will pick a wig.<br>\nLiz picks the blue wig.<br>\nThe blue wig is big.<br>\nIt slips and dips.<br>\nLiz picks the green wig.<br>\nThe green wig is trim.<br>\nThe wig fits.<br>\nLiz grins.\n</div><br>\n<span style=\"color:red;\">53. What wig color does Liz pick first?</span>",
       "type": "mcq",
+      "prompt": "What wig color does Liz pick first?",
       "options": {
         "choices": [
-          "red wig",
-          "blue wig",
-          "green wig"
+          {
+            "id": "c1",
+            "text": "red wig"
+          },
+          {
+            "id": "c2",
+            "text": "blue wig"
+          },
+          {
+            "id": "c3",
+            "text": "green wig"
+          }
         ]
       },
-      "correct_answer": "blue wig",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Liz picks the blue wig' first, before trying the green one.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 53
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/6.jpeg"
+      },
+      "order_index": 53,
+      "passage_id": "p6"
     },
     {
       "slug": "q054",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Liz.<br>\nLiz is a pig.<br>\nLiz will pick a wig.<br>\nLiz picks the blue wig.<br>\nThe blue wig is big.<br>\nIt slips and dips.<br>\nLiz picks the green wig.<br>\nThe green wig is trim.<br>\nThe wig fits.<br>\nLiz grins.\n</div><br>\n<span style=\"color:red;\">54. What size is the blue wig?</span>",
       "type": "mcq",
+      "prompt": "What size is the blue wig?",
       "options": {
         "choices": [
-          "the blue wig is tiny",
-          "the blue wig is small",
-          "the blue wig is big"
+          {
+            "id": "c1",
+            "text": "the blue wig is tiny"
+          },
+          {
+            "id": "c2",
+            "text": "the blue wig is small"
+          },
+          {
+            "id": "c3",
+            "text": "the blue wig is big"
+          }
         ]
       },
-      "correct_answer": "the blue wig is big",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The blue wig is big,' which is why it slips and dips.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 54
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/6.jpeg"
+      },
+      "order_index": 54,
+      "passage_id": "p6"
     },
     {
       "slug": "q055",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Liz.<br>\nLiz is a pig.<br>\nLiz will pick a wig.<br>\nLiz picks the blue wig.<br>\nThe blue wig is big.<br>\nIt slips and dips.<br>\nLiz picks the green wig.<br>\nThe green wig is trim.<br>\nThe wig fits.<br>\nLiz grins.\n</div><br>\n<span style=\"color:red;\">55. What color is the second wig?</span>",
       "type": "mcq",
+      "prompt": "What color is the second wig?",
       "options": {
         "choices": [
-          "green",
-          "purple",
-          "blue"
+          {
+            "id": "c1",
+            "text": "green"
+          },
+          {
+            "id": "c2",
+            "text": "purple"
+          },
+          {
+            "id": "c3",
+            "text": "blue"
+          }
         ]
       },
-      "correct_answer": "green",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The second wig Liz picks is the green wig.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 55
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/6.jpeg"
+      },
+      "order_index": 55,
+      "passage_id": "p6"
     },
     {
       "slug": "q056",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Liz.<br>\nLiz is a pig.<br>\nLiz will pick a wig.<br>\nLiz picks the blue wig.<br>\nThe blue wig is big.<br>\nIt slips and dips.<br>\nLiz picks the green wig.<br>\nThe green wig is trim.<br>\nThe wig fits.<br>\nLiz grins.\n</div><br>\n<span style=\"color:red;\">56. Which wig fits Liz?</span>",
       "type": "mcq",
+      "prompt": "Which wig fits Liz?",
       "options": {
         "choices": [
-          "the green hat",
-          "the blue wig",
-          "the green wig"
+          {
+            "id": "c1",
+            "text": "the green hat"
+          },
+          {
+            "id": "c2",
+            "text": "the blue wig"
+          },
+          {
+            "id": "c3",
+            "text": "the green wig"
+          }
         ]
       },
-      "correct_answer": "the green wig",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The wig fits' after Liz picks the green wig.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 56
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/6.jpeg"
+      },
+      "order_index": 56,
+      "passage_id": "p6"
     },
     {
       "slug": "q057",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Liz.<br>\nLiz is a pig.<br>\nLiz will pick a wig.<br>\nLiz picks the blue wig.<br>\nThe blue wig is big.<br>\nIt slips and dips.<br>\nLiz picks the green wig.<br>\nThe green wig is trim.<br>\nThe wig fits.<br>\nLiz grins.\n</div><br>\n<span style=\"color:red;\">57. Which wig slips and dips?</span>",
       "type": "mcq",
+      "prompt": "Which wig slips and dips?",
       "options": {
         "choices": [
-          "the blue wig",
-          "the green wig",
-          "the purple wig"
+          {
+            "id": "c1",
+            "text": "the blue wig"
+          },
+          {
+            "id": "c2",
+            "text": "the green wig"
+          },
+          {
+            "id": "c3",
+            "text": "the purple wig"
+          }
         ]
       },
-      "correct_answer": "the blue wig",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says the blue wig is big and 'It slips and dips.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 57
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/6.jpeg"
+      },
+      "order_index": 57,
+      "passage_id": "p6"
     },
     {
       "slug": "q058",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Liz.<br>\nLiz is a pig.<br>\nLiz will pick a wig.<br>\nLiz picks the blue wig.<br>\nThe blue wig is big.<br>\nIt slips and dips.<br>\nLiz picks the green wig.<br>\nThe green wig is trim.<br>\nThe wig fits.<br>\nLiz grins.\n</div><br>\n<span style=\"color:red;\">58. Which wig is trim?</span>",
       "type": "mcq",
+      "prompt": "Which wig is trim?",
       "options": {
         "choices": [
-          "the pink wig",
-          "the green wig",
-          "the blue wig"
+          {
+            "id": "c1",
+            "text": "the pink wig"
+          },
+          {
+            "id": "c2",
+            "text": "the green wig"
+          },
+          {
+            "id": "c3",
+            "text": "the blue wig"
+          }
         ]
       },
-      "correct_answer": "the green wig",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'The green wig is trim,' meaning it fits neatly.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 58
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/6.jpeg"
+      },
+      "order_index": 58,
+      "passage_id": "p6"
     },
     {
       "slug": "q059",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Liz.<br>\nLiz is a pig.<br>\nLiz will pick a wig.<br>\nLiz picks the blue wig.<br>\nThe blue wig is big.<br>\nIt slips and dips.<br>\nLiz picks the green wig.<br>\nThe green wig is trim.<br>\nThe wig fits.<br>\nLiz grins.\n</div><br>\n<span style=\"color:red;\">59. What is another word for grin?</span>",
       "type": "mcq",
+      "prompt": "What is another word for grin?",
       "options": {
         "choices": [
-          "smile",
-          "cry",
-          "pray"
+          {
+            "id": "c1",
+            "text": "smile"
+          },
+          {
+            "id": "c2",
+            "text": "cry"
+          },
+          {
+            "id": "c3",
+            "text": "pray"
+          }
         ]
       },
-      "correct_answer": "smile",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Grin means to smile broadly. Another word for grin is smile.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 59
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/6.jpeg"
+      },
+      "order_index": 59,
+      "passage_id": "p6"
     },
     {
       "slug": "q060",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThis is Liz.<br>\nLiz is a pig.<br>\nLiz will pick a wig.<br>\nLiz picks the blue wig.<br>\nThe blue wig is big.<br>\nIt slips and dips.<br>\nLiz picks the green wig.<br>\nThe green wig is trim.<br>\nThe wig fits.<br>\nLiz grins.\n</div><br>\n<span style=\"color:red;\">60. How many animals are there in the story?</span>",
       "type": "mcq",
+      "prompt": "How many animals are there in the story?",
       "options": {
         "choices": [
-          "1 animal",
-          "2 animals",
-          "3 animals"
+          {
+            "id": "c1",
+            "text": "1 animal"
+          },
+          {
+            "id": "c2",
+            "text": "2 animals"
+          },
+          {
+            "id": "c3",
+            "text": "3 animals"
+          }
         ]
       },
-      "correct_answer": "1 animal",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "There is only one animal in the story: Liz the pig.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 60
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/6.jpeg"
+      },
+      "order_index": 60,
+      "passage_id": "p6"
     },
     {
       "slug": "q061",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is on a big ship with his mom.<br>\nTim and his mom sit on the big ship.<br>\nTim and mom look for fish.<br>\nTim dips his chin and grins.<br>\n\"I think I will find a big fish!\" says Tim.<br>\nTim points and yells, \"I see a big fish!\"<br>\nMom squints and says, \"Yes, I see the big fin!\"<br>\nThe big fish swims in zigzags by the ship.<br>\nTim is thrilled to find such a big fish.<br>\n\"What a big, big fish!\" says Tim.\n</div><br>\n<span style=\"color:red;\">61. Where is Tim?</span>",
       "type": "mcq",
+      "prompt": "Where is Tim?",
       "options": {
         "choices": [
-          "Tim is on a big ship",
-          "Tim is on a big chair",
-          "Tim is on a big boat"
+          {
+            "id": "c1",
+            "text": "Tim is on a big ship"
+          },
+          {
+            "id": "c2",
+            "text": "Tim is on a big chair"
+          },
+          {
+            "id": "c3",
+            "text": "Tim is on a big boat"
+          }
         ]
       },
-      "correct_answer": "Tim is on a big ship",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story begins with 'Tim is on a big ship with his mom.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 61
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/7.jpeg"
+      },
+      "order_index": 61,
+      "passage_id": "p7"
     },
     {
       "slug": "q062",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is on a big ship with his mom.<br>\nTim and his mom sit on the big ship.<br>\nTim and mom look for fish.<br>\nTim dips his chin and grins.<br>\n\"I think I will find a big fish!\" says Tim.<br>\nTim points and yells, \"I see a big fish!\"<br>\nMom squints and says, \"Yes, I see the big fin!\"<br>\nThe big fish swims in zigzags by the ship.<br>\nTim is thrilled to find such a big fish.<br>\n\"What a big, big fish!\" says Tim.\n</div><br>\n<span style=\"color:red;\">62. Where do Tim and his mom sit?</span>",
       "type": "mcq",
+      "prompt": "Where do Tim and his mom sit?",
       "options": {
         "choices": [
-          "Tim and his mom sit on the couch",
-          "Tim and his mom sit on the big ship",
-          "Tim and his mom sit on the small ship"
+          {
+            "id": "c1",
+            "text": "Tim and his mom sit on the couch"
+          },
+          {
+            "id": "c2",
+            "text": "Tim and his mom sit on the big ship"
+          },
+          {
+            "id": "c3",
+            "text": "Tim and his mom sit on the small ship"
+          }
         ]
       },
-      "correct_answer": "Tim and his mom sit on the big ship",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Tim and his mom sit on the big ship.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 62
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/7.jpeg"
+      },
+      "order_index": 62,
+      "passage_id": "p7"
     },
     {
       "slug": "q063",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is on a big ship with his mom.<br>\nTim and his mom sit on the big ship.<br>\nTim and mom look for fish.<br>\nTim dips his chin and grins.<br>\n\"I think I will find a big fish!\" says Tim.<br>\nTim points and yells, \"I see a big fish!\"<br>\nMom squints and says, \"Yes, I see the big fin!\"<br>\nThe big fish swims in zigzags by the ship.<br>\nTim is thrilled to find such a big fish.<br>\n\"What a big, big fish!\" says Tim.\n</div><br>\n<span style=\"color:red;\">63. What do mom and Tim look for?</span>",
       "type": "mcq",
+      "prompt": "What do mom and Tim look for?",
       "options": {
         "choices": [
-          "Tim and mom look for dinosaurs",
-          "Tim and mom look for fish",
-          "Tim and mom look for cows"
+          {
+            "id": "c1",
+            "text": "Tim and mom look for dinosaurs"
+          },
+          {
+            "id": "c2",
+            "text": "Tim and mom look for fish"
+          },
+          {
+            "id": "c3",
+            "text": "Tim and mom look for cows"
+          }
         ]
       },
-      "correct_answer": "Tim and mom look for fish",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Tim and mom look for fish.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 63
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/7.jpeg"
+      },
+      "order_index": 63,
+      "passage_id": "p7"
     },
     {
       "slug": "q064",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is on a big ship with his mom.<br>\nTim and his mom sit on the big ship.<br>\nTim and mom look for fish.<br>\nTim dips his chin and grins.<br>\n\"I think I will find a big fish!\" says Tim.<br>\nTim points and yells, \"I see a big fish!\"<br>\nMom squints and says, \"Yes, I see the big fin!\"<br>\nThe big fish swims in zigzags by the ship.<br>\nTim is thrilled to find such a big fish.<br>\n\"What a big, big fish!\" says Tim.\n</div><br>\n<span style=\"color:red;\">64. What does Tim do as he dips his chin?</span>",
       "type": "mcq",
+      "prompt": "What does Tim do as he dips his chin?",
       "options": {
         "choices": [
-          "Tim grins",
-          "Tim smiles",
-          "Tim swims"
+          {
+            "id": "c1",
+            "text": "Tim grins"
+          },
+          {
+            "id": "c2",
+            "text": "Tim smiles"
+          },
+          {
+            "id": "c3",
+            "text": "Tim swims"
+          }
         ]
       },
-      "correct_answer": "Tim grins",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Tim dips his chin and grins.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 64
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/7.jpeg"
+      },
+      "order_index": 64,
+      "passage_id": "p7"
     },
     {
       "slug": "q065",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is on a big ship with his mom.<br>\nTim and his mom sit on the big ship.<br>\nTim and mom look for fish.<br>\nTim dips his chin and grins.<br>\n\"I think I will find a big fish!\" says Tim.<br>\nTim points and yells, \"I see a big fish!\"<br>\nMom squints and says, \"Yes, I see the big fin!\"<br>\nThe big fish swims in zigzags by the ship.<br>\nTim is thrilled to find such a big fish.<br>\n\"What a big, big fish!\" says Tim.\n</div><br>\n<span style=\"color:red;\">65. What did Tim think?</span>",
       "type": "mcq",
+      "prompt": "What did Tim think?",
       "options": {
         "choices": [
-          "He thinks he will find a better place",
-          "He thinks he will find a small whale",
-          "He thinks he will find a big fish"
+          {
+            "id": "c1",
+            "text": "He thinks he will find a better place"
+          },
+          {
+            "id": "c2",
+            "text": "He thinks he will find a small whale"
+          },
+          {
+            "id": "c3",
+            "text": "He thinks he will find a big fish"
+          }
         ]
       },
-      "correct_answer": "He thinks he will find a big fish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Tim says 'I think I will find a big fish!'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 65
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/7.jpeg"
+      },
+      "order_index": 65,
+      "passage_id": "p7"
     },
     {
       "slug": "q066",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is on a big ship with his mom.<br>\nTim and his mom sit on the big ship.<br>\nTim and mom look for fish.<br>\nTim dips his chin and grins.<br>\n\"I think I will find a big fish!\" says Tim.<br>\nTim points and yells, \"I see a big fish!\"<br>\nMom squints and says, \"Yes, I see the big fin!\"<br>\nThe big fish swims in zigzags by the ship.<br>\nTim is thrilled to find such a big fish.<br>\n\"What a big, big fish!\" says Tim.\n</div><br>\n<span style=\"color:red;\">66. What does mom say as she looks at the water surface?</span>",
       "type": "mcq",
+      "prompt": "What does mom say as she looks at the water surface?",
       "options": {
         "choices": [
-          "I see the big fin",
-          "I see the big helicopter",
-          "I see the big shoe"
+          {
+            "id": "c1",
+            "text": "I see the big fin"
+          },
+          {
+            "id": "c2",
+            "text": "I see the big helicopter"
+          },
+          {
+            "id": "c3",
+            "text": "I see the big shoe"
+          }
         ]
       },
-      "correct_answer": "I see the big fin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Mom squints and says 'Yes, I see the big fin!' spotting the fish's fin in the water.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 66
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/7.jpeg"
+      },
+      "order_index": 66,
+      "passage_id": "p7"
     },
     {
       "slug": "q067",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is on a big ship with his mom.<br>\nTim and his mom sit on the big ship.<br>\nTim and mom look for fish.<br>\nTim dips his chin and grins.<br>\n\"I think I will find a big fish!\" says Tim.<br>\nTim points and yells, \"I see a big fish!\"<br>\nMom squints and says, \"Yes, I see the big fin!\"<br>\nThe big fish swims in zigzags by the ship.<br>\nTim is thrilled to find such a big fish.<br>\n\"What a big, big fish!\" says Tim.\n</div><br>\n<span style=\"color:red;\">67. How does the big fish swim?</span>",
       "type": "mcq",
+      "prompt": "How does the big fish swim?",
       "options": {
         "choices": [
-          "in straight lines by the ship",
-          "in circles by the ship",
-          "in zigzags by the ship"
+          {
+            "id": "c1",
+            "text": "in straight lines by the ship"
+          },
+          {
+            "id": "c2",
+            "text": "in circles by the ship"
+          },
+          {
+            "id": "c3",
+            "text": "in zigzags by the ship"
+          }
         ]
       },
-      "correct_answer": "in zigzags by the ship",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The big fish swims in zigzags by the ship.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 67
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/7.jpeg"
+      },
+      "order_index": 67,
+      "passage_id": "p7"
     },
     {
       "slug": "q068",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is on a big ship with his mom.<br>\nTim and his mom sit on the big ship.<br>\nTim and mom look for fish.<br>\nTim dips his chin and grins.<br>\n\"I think I will find a big fish!\" says Tim.<br>\nTim points and yells, \"I see a big fish!\"<br>\nMom squints and says, \"Yes, I see the big fin!\"<br>\nThe big fish swims in zigzags by the ship.<br>\nTim is thrilled to find such a big fish.<br>\n\"What a big, big fish!\" says Tim.\n</div><br>\n<span style=\"color:red;\">68. How were Tim's emotions as he found the fish?</span>",
       "type": "mcq",
+      "prompt": "How were Tim's emotions as he found the fish?",
       "options": {
         "choices": [
-          "Tim was thrilled to find such a big fish",
-          "Tim was sad to find such a big fish",
-          "Tim was happy to find such a big fish"
+          {
+            "id": "c1",
+            "text": "Tim was thrilled to find such a big fish"
+          },
+          {
+            "id": "c2",
+            "text": "Tim was sad to find such a big fish"
+          },
+          {
+            "id": "c3",
+            "text": "Tim was happy to find such a big fish"
+          }
         ]
       },
-      "correct_answer": "Tim was thrilled to find such a big fish",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Tim is thrilled to find such a big fish.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 68
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/7.jpeg"
+      },
+      "order_index": 68,
+      "passage_id": "p7"
     },
     {
       "slug": "q069",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is on a big ship with his mom.<br>\nTim and his mom sit on the big ship.<br>\nTim and mom look for fish.<br>\nTim dips his chin and grins.<br>\n\"I think I will find a big fish!\" says Tim.<br>\nTim points and yells, \"I see a big fish!\"<br>\nMom squints and says, \"Yes, I see the big fin!\"<br>\nThe big fish swims in zigzags by the ship.<br>\nTim is thrilled to find such a big fish.<br>\n\"What a big, big fish!\" says Tim.\n</div><br>\n<span style=\"color:red;\">69. What is another meaning for squint?</span>",
       "type": "mcq",
+      "prompt": "What is another meaning for squint?",
       "options": {
         "choices": [
-          "looking with narrowed eyes",
-          "looking very happy",
-          "looking in the wrong direction"
+          {
+            "id": "c1",
+            "text": "looking with narrowed eyes"
+          },
+          {
+            "id": "c2",
+            "text": "looking very happy"
+          },
+          {
+            "id": "c3",
+            "text": "looking in the wrong direction"
+          }
         ]
       },
-      "correct_answer": "looking with narrowed eyes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "To squint means to look with partially closed or narrowed eyes, often to see better.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 69
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/7.jpeg"
+      },
+      "order_index": 69,
+      "passage_id": "p7"
     },
     {
       "slug": "q070",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is on a big ship with his mom.<br>\nTim and his mom sit on the big ship.<br>\nTim and mom look for fish.<br>\nTim dips his chin and grins.<br>\n\"I think I will find a big fish!\" says Tim.<br>\nTim points and yells, \"I see a big fish!\"<br>\nMom squints and says, \"Yes, I see the big fin!\"<br>\nThe big fish swims in zigzags by the ship.<br>\nTim is thrilled to find such a big fish.<br>\n\"What a big, big fish!\" says Tim.\n</div><br>\n<span style=\"color:red;\">70. What is the past tense of say?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of say?",
       "options": {
         "choices": [
-          "same",
-          "see",
-          "said"
+          {
+            "id": "c1",
+            "text": "same"
+          },
+          {
+            "id": "c2",
+            "text": "see"
+          },
+          {
+            "id": "c3",
+            "text": "said"
+          }
         ]
       },
-      "correct_answer": "said",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The past tense of say is said.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 70
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/7.jpeg"
+      },
+      "order_index": 70,
+      "passage_id": "p7"
     },
     {
       "slug": "q071",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJill is sick.<br>\nJill is in bed.<br>\nShe will not play.<br>\nNan is with Jill.<br>\nNan will sing.<br>\nJill will sip milk.<br>\nJill will grin.<br>\n\"You will be well in a bit,\" says Nan.<br>\nJill will rest.<br>\nJill will be fit.\n</div><br>\n<span style=\"color:red;\">71. In the short story, who is sick?</span>",
       "type": "mcq",
+      "prompt": "In the short story, who is sick?",
       "options": {
         "choices": [
-          "the boy is sick",
-          "Jill is sick",
-          "Ann is sick"
+          {
+            "id": "c1",
+            "text": "the boy is sick"
+          },
+          {
+            "id": "c2",
+            "text": "Jill is sick"
+          },
+          {
+            "id": "c3",
+            "text": "Ann is sick"
+          }
         ]
       },
-      "correct_answer": "Jill is sick",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story begins with 'Jill is sick.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 71
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/8.jpeg"
+      },
+      "order_index": 71,
+      "passage_id": "p8"
     },
     {
       "slug": "q072",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJill is sick.<br>\nJill is in bed.<br>\nShe will not play.<br>\nNan is with Jill.<br>\nNan will sing.<br>\nJill will sip milk.<br>\nJill will grin.<br>\n\"You will be well in a bit,\" says Nan.<br>\nJill will rest.<br>\nJill will be fit.\n</div><br>\n<span style=\"color:red;\">72. Where is Jill?</span>",
       "type": "mcq",
+      "prompt": "Where is Jill?",
       "options": {
         "choices": [
-          "Jill is at school",
-          "Jill is at the hospital",
-          "Jill is in bed"
+          {
+            "id": "c1",
+            "text": "Jill is at school"
+          },
+          {
+            "id": "c2",
+            "text": "Jill is at the hospital"
+          },
+          {
+            "id": "c3",
+            "text": "Jill is in bed"
+          }
         ]
       },
-      "correct_answer": "Jill is in bed",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Jill is in bed' because she is sick.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 72
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/8.jpeg"
+      },
+      "order_index": 72,
+      "passage_id": "p8"
     },
     {
       "slug": "q073",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJill is sick.<br>\nJill is in bed.<br>\nShe will not play.<br>\nNan is with Jill.<br>\nNan will sing.<br>\nJill will sip milk.<br>\nJill will grin.<br>\n\"You will be well in a bit,\" says Nan.<br>\nJill will rest.<br>\nJill will be fit.\n</div><br>\n<span style=\"color:red;\">73. Who is with Jill?</span>",
       "type": "mcq",
+      "prompt": "Who is with Jill?",
       "options": {
         "choices": [
-          "Nan is with Jill",
-          "Nan is with mom",
-          "Nan is with dad"
+          {
+            "id": "c1",
+            "text": "Nan is with Jill"
+          },
+          {
+            "id": "c2",
+            "text": "Nan is with mom"
+          },
+          {
+            "id": "c3",
+            "text": "Nan is with dad"
+          }
         ]
       },
-      "correct_answer": "Nan is with Jill",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Nan is with Jill.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 73
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/8.jpeg"
+      },
+      "order_index": 73,
+      "passage_id": "p8"
     },
     {
       "slug": "q074",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJill is sick.<br>\nJill is in bed.<br>\nShe will not play.<br>\nNan is with Jill.<br>\nNan will sing.<br>\nJill will sip milk.<br>\nJill will grin.<br>\n\"You will be well in a bit,\" says Nan.<br>\nJill will rest.<br>\nJill will be fit.\n</div><br>\n<span style=\"color:red;\">74. What will Nan do for Jill so she feels a little better?</span>",
       "type": "mcq",
+      "prompt": "What will Nan do for Jill so she feels a little better?",
       "options": {
         "choices": [
-          "Nan will jump",
-          "Nan will sing",
-          "Nan will draw"
+          {
+            "id": "c1",
+            "text": "Nan will jump"
+          },
+          {
+            "id": "c2",
+            "text": "Nan will sing"
+          },
+          {
+            "id": "c3",
+            "text": "Nan will draw"
+          }
         ]
       },
-      "correct_answer": "Nan will sing",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Nan will sing' to comfort Jill.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 74
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/8.jpeg"
+      },
+      "order_index": 74,
+      "passage_id": "p8"
     },
     {
       "slug": "q075",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJill is sick.<br>\nJill is in bed.<br>\nShe will not play.<br>\nNan is with Jill.<br>\nNan will sing.<br>\nJill will sip milk.<br>\nJill will grin.<br>\n\"You will be well in a bit,\" says Nan.<br>\nJill will rest.<br>\nJill will be fit.\n</div><br>\n<span style=\"color:red;\">75. Will Jill sip milk or coffee?</span>",
       "type": "mcq",
+      "prompt": "Will Jill sip milk or coffee?",
       "options": {
         "choices": [
-          "Jill will sip coffee",
-          "Jill will sip tea",
-          "Jill will sip milk"
+          {
+            "id": "c1",
+            "text": "Jill will sip coffee"
+          },
+          {
+            "id": "c2",
+            "text": "Jill will sip tea"
+          },
+          {
+            "id": "c3",
+            "text": "Jill will sip milk"
+          }
         ]
       },
-      "correct_answer": "Jill will sip milk",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Jill will sip milk.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 75
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/8.jpeg"
+      },
+      "order_index": 75,
+      "passage_id": "p8"
     },
     {
       "slug": "q076",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJill is sick.<br>\nJill is in bed.<br>\nShe will not play.<br>\nNan is with Jill.<br>\nNan will sing.<br>\nJill will sip milk.<br>\nJill will grin.<br>\n\"You will be well in a bit,\" says Nan.<br>\nJill will rest.<br>\nJill will be fit.\n</div><br>\n<span style=\"color:red;\">76. What must Jill do to become better?</span>",
       "type": "mcq",
+      "prompt": "What must Jill do to become better?",
       "options": {
         "choices": [
-          "Jill must fly",
-          "Jill must go to jail",
-          "Jill must rest"
+          {
+            "id": "c1",
+            "text": "Jill must fly"
+          },
+          {
+            "id": "c2",
+            "text": "Jill must go to jail"
+          },
+          {
+            "id": "c3",
+            "text": "Jill must rest"
+          }
         ]
       },
-      "correct_answer": "Jill must rest",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Jill will rest' so she can recover and be fit again.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 76
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/8.jpeg"
+      },
+      "order_index": 76,
+      "passage_id": "p8"
     },
     {
       "slug": "q077",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJill is sick.<br>\nJill is in bed.<br>\nShe will not play.<br>\nNan is with Jill.<br>\nNan will sing.<br>\nJill will sip milk.<br>\nJill will grin.<br>\n\"You will be well in a bit,\" says Nan.<br>\nJill will rest.<br>\nJill will be fit.\n</div><br>\n<span style=\"color:red;\">77. What will happen when Jill rests?</span>",
       "type": "mcq",
+      "prompt": "What will happen when Jill rests?",
       "options": {
         "choices": [
-          "Jill will be fit",
-          "Jill will be fine",
-          "Jill will die"
+          {
+            "id": "c1",
+            "text": "Jill will be fit"
+          },
+          {
+            "id": "c2",
+            "text": "Jill will be fine"
+          },
+          {
+            "id": "c3",
+            "text": "Jill will die"
+          }
         ]
       },
-      "correct_answer": "Jill will be fit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Jill will be fit' after she rests.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 77
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/8.jpeg"
+      },
+      "order_index": 77,
+      "passage_id": "p8"
     },
     {
       "slug": "q078",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJill is sick.<br>\nJill is in bed.<br>\nShe will not play.<br>\nNan is with Jill.<br>\nNan will sing.<br>\nJill will sip milk.<br>\nJill will grin.<br>\n\"You will be well in a bit,\" says Nan.<br>\nJill will rest.<br>\nJill will be fit.\n</div><br>\n<span style=\"color:red;\">78. What is the past tense of sing?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of sing?",
       "options": {
         "choices": [
-          "sang",
-          "sorry",
-          "song"
+          {
+            "id": "c1",
+            "text": "sang"
+          },
+          {
+            "id": "c2",
+            "text": "sorry"
+          },
+          {
+            "id": "c3",
+            "text": "song"
+          }
         ]
       },
-      "correct_answer": "sang",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The past tense of sing is sang.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 78
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/8.jpeg"
+      },
+      "order_index": 78,
+      "passage_id": "p8"
     },
     {
       "slug": "q079",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJill is sick.<br>\nJill is in bed.<br>\nShe will not play.<br>\nNan is with Jill.<br>\nNan will sing.<br>\nJill will sip milk.<br>\nJill will grin.<br>\n\"You will be well in a bit,\" says Nan.<br>\nJill will rest.<br>\nJill will be fit.\n</div><br>\n<span style=\"color:red;\">79. Which is the correct spelling in the following sentence?</span>",
       "type": "mcq",
+      "prompt": "Which is the correct spelling in the following sentence?",
       "options": {
         "choices": [
-          "You well be will in a bit",
-          "You will be well in a bit",
-          "You will be weel in a bit"
+          {
+            "id": "c1",
+            "text": "You well be will in a bit"
+          },
+          {
+            "id": "c2",
+            "text": "You will be well in a bit"
+          },
+          {
+            "id": "c3",
+            "text": "You will be weel in a bit"
+          }
         ]
       },
-      "correct_answer": "You will be well in a bit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct sentence is 'You will be well in a bit,' as Nan says to Jill.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 79
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/8.jpeg"
+      },
+      "order_index": 79,
+      "passage_id": "p8"
     },
     {
       "slug": "q080",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJill is sick.<br>\nJill is in bed.<br>\nShe will not play.<br>\nNan is with Jill.<br>\nNan will sing.<br>\nJill will sip milk.<br>\nJill will grin.<br>\n\"You will be well in a bit,\" says Nan.<br>\nJill will rest.<br>\nJill will be fit.\n</div><br>\n<span style=\"color:red;\">80. What is another word for grin?</span>",
       "type": "mcq",
+      "prompt": "What is another word for grin?",
       "options": {
         "choices": [
-          "scared",
-          "smile",
-          "cry"
+          {
+            "id": "c1",
+            "text": "scared"
+          },
+          {
+            "id": "c2",
+            "text": "smile"
+          },
+          {
+            "id": "c3",
+            "text": "cry"
+          }
         ]
       },
-      "correct_answer": "smile",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Grin means to smile broadly. Another word for grin is smile.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 80
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/8.jpeg"
+      },
+      "order_index": 80,
+      "passage_id": "p8"
     },
     {
       "slug": "q081",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is sad.<br>\nTim hit his chin.<br>\nTim sits and sniffs.<br>\nDad will pick up Tim.<br>\nDad will hug Tim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nTim nods.<br>\nDad will sit with Tim.<br>\nTim will sip from his cup.<br>\nDad will sing to Tim.<br>\nTim will grin.<br>\n\"I am all right,\" says Tim.<br>\nTim will skip and play again.\n</div><br>\n<span style=\"color:red;\">81. What happened to Tim?</span>",
       "type": "mcq",
+      "prompt": "What happened to Tim?",
       "options": {
         "choices": [
-          "Tim went to the mall",
-          "Tim hit his leg",
-          "Tim hit his chain"
+          {
+            "id": "c1",
+            "text": "Tim went to the mall"
+          },
+          {
+            "id": "c2",
+            "text": "Tim hit his leg"
+          },
+          {
+            "id": "c3",
+            "text": "Tim hit his chain"
+          }
         ]
       },
-      "correct_answer": "Tim hit his chain",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "According to the worksheet, Tim hit his chin (written as 'chain' in the options).",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 81
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/9.jpeg"
+      },
+      "order_index": 81,
+      "passage_id": "p9"
     },
     {
       "slug": "q082",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is sad.<br>\nTim hit his chin.<br>\nTim sits and sniffs.<br>\nDad will pick up Tim.<br>\nDad will hug Tim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nTim nods.<br>\nDad will sit with Tim.<br>\nTim will sip from his cup.<br>\nDad will sing to Tim.<br>\nTim will grin.<br>\n\"I am all right,\" says Tim.<br>\nTim will skip and play again.\n</div><br>\n<span style=\"color:red;\">82. What will dad do as Tim sits and sniffs?</span>",
       "type": "mcq",
+      "prompt": "What will dad do as Tim sits and sniffs?",
       "options": {
         "choices": [
-          "dad will shout",
-          "dad will hug Tim",
-          "dad will hit Tim"
+          {
+            "id": "c1",
+            "text": "dad will shout"
+          },
+          {
+            "id": "c2",
+            "text": "dad will hug Tim"
+          },
+          {
+            "id": "c3",
+            "text": "dad will hit Tim"
+          }
         ]
       },
-      "correct_answer": "dad will hug Tim",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Dad will hug Tim' to comfort him.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 82
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/9.jpeg"
+      },
+      "order_index": 82,
+      "passage_id": "p9"
     },
     {
       "slug": "q083",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is sad.<br>\nTim hit his chin.<br>\nTim sits and sniffs.<br>\nDad will pick up Tim.<br>\nDad will hug Tim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nTim nods.<br>\nDad will sit with Tim.<br>\nTim will sip from his cup.<br>\nDad will sing to Tim.<br>\nTim will grin.<br>\n\"I am all right,\" says Tim.<br>\nTim will skip and play again.\n</div><br>\n<span style=\"color:red;\">83. What did dad ask?</span>",
       "type": "mcq",
+      "prompt": "What did dad ask?",
       "options": {
         "choices": [
-          "did you go to the doctor",
-          "did you hit your chin",
-          "did you fly to China"
+          {
+            "id": "c1",
+            "text": "did you go to the doctor"
+          },
+          {
+            "id": "c2",
+            "text": "did you hit your chin"
+          },
+          {
+            "id": "c3",
+            "text": "did you fly to China"
+          }
         ]
       },
-      "correct_answer": "did you hit your chin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dad asks 'Did you hit your chin?' to check on Tim.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 83
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/9.jpeg"
+      },
+      "order_index": 83,
+      "passage_id": "p9"
     },
     {
       "slug": "q084",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is sad.<br>\nTim hit his chin.<br>\nTim sits and sniffs.<br>\nDad will pick up Tim.<br>\nDad will hug Tim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nTim nods.<br>\nDad will sit with Tim.<br>\nTim will sip from his cup.<br>\nDad will sing to Tim.<br>\nTim will grin.<br>\n\"I am all right,\" says Tim.<br>\nTim will skip and play again.\n</div><br>\n<span style=\"color:red;\">84. What will dad do to make Tim feel better?</span>",
       "type": "mcq",
+      "prompt": "What will dad do to make Tim feel better?",
       "options": {
         "choices": [
-          "dad will cry",
-          "dad will sing",
-          "dad will laugh"
+          {
+            "id": "c1",
+            "text": "dad will cry"
+          },
+          {
+            "id": "c2",
+            "text": "dad will sing"
+          },
+          {
+            "id": "c3",
+            "text": "dad will laugh"
+          }
         ]
       },
-      "correct_answer": "dad will sing",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Dad will sing to Tim' to help him feel better.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 84
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/9.jpeg"
+      },
+      "order_index": 84,
+      "passage_id": "p9"
     },
     {
       "slug": "q085",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is sad.<br>\nTim hit his chin.<br>\nTim sits and sniffs.<br>\nDad will pick up Tim.<br>\nDad will hug Tim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nTim nods.<br>\nDad will sit with Tim.<br>\nTim will sip from his cup.<br>\nDad will sing to Tim.<br>\nTim will grin.<br>\n\"I am all right,\" says Tim.<br>\nTim will skip and play again.\n</div><br>\n<span style=\"color:red;\">85. What did Tim tell his dad?</span>",
       "type": "mcq",
+      "prompt": "What did Tim tell his dad?",
       "options": {
         "choices": [
-          "I am not well",
-          "I am well",
-          "I am all right"
+          {
+            "id": "c1",
+            "text": "I am not well"
+          },
+          {
+            "id": "c2",
+            "text": "I am well"
+          },
+          {
+            "id": "c3",
+            "text": "I am all right"
+          }
         ]
       },
-      "correct_answer": "I am all right",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Tim says 'I am all right' to let his dad know he feels better.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 85
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/9.jpeg"
+      },
+      "order_index": 85,
+      "passage_id": "p9"
     },
     {
       "slug": "q086",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is sad.<br>\nTim hit his chin.<br>\nTim sits and sniffs.<br>\nDad will pick up Tim.<br>\nDad will hug Tim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nTim nods.<br>\nDad will sit with Tim.<br>\nTim will sip from his cup.<br>\nDad will sing to Tim.<br>\nTim will grin.<br>\n\"I am all right,\" says Tim.<br>\nTim will skip and play again.\n</div><br>\n<span style=\"color:red;\">86. What was the name of the boy in the story?</span>",
       "type": "mcq",
+      "prompt": "What was the name of the boy in the story?",
       "options": {
         "choices": [
-          "Tom",
-          "Tim",
-          "Time"
+          {
+            "id": "c1",
+            "text": "Tom"
+          },
+          {
+            "id": "c2",
+            "text": "Tim"
+          },
+          {
+            "id": "c3",
+            "text": "Time"
+          }
         ]
       },
-      "correct_answer": "Tim",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The boy in the story is named Tim.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 86
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/9.jpeg"
+      },
+      "order_index": 86,
+      "passage_id": "p9"
     },
     {
       "slug": "q087",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is sad.<br>\nTim hit his chin.<br>\nTim sits and sniffs.<br>\nDad will pick up Tim.<br>\nDad will hug Tim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nTim nods.<br>\nDad will sit with Tim.<br>\nTim will sip from his cup.<br>\nDad will sing to Tim.<br>\nTim will grin.<br>\n\"I am all right,\" says Tim.<br>\nTim will skip and play again.\n</div><br>\n<span style=\"color:red;\">87. What is the past tense of ask?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of ask?",
       "options": {
         "choices": [
-          "asks",
-          "asked",
-          "asking"
+          {
+            "id": "c1",
+            "text": "asks"
+          },
+          {
+            "id": "c2",
+            "text": "asked"
+          },
+          {
+            "id": "c3",
+            "text": "asking"
+          }
         ]
       },
-      "correct_answer": "asked",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The past tense of ask is asked.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 87
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/9.jpeg"
+      },
+      "order_index": 87,
+      "passage_id": "p9"
     },
     {
       "slug": "q088",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is sad.<br>\nTim hit his chin.<br>\nTim sits and sniffs.<br>\nDad will pick up Tim.<br>\nDad will hug Tim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nTim nods.<br>\nDad will sit with Tim.<br>\nTim will sip from his cup.<br>\nDad will sing to Tim.<br>\nTim will grin.<br>\n\"I am all right,\" says Tim.<br>\nTim will skip and play again.\n</div><br>\n<span style=\"color:red;\">88. What is the past tense of sit?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of sit?",
       "options": {
         "choices": [
-          "so",
-          "sat",
-          "sitting"
+          {
+            "id": "c1",
+            "text": "so"
+          },
+          {
+            "id": "c2",
+            "text": "sat"
+          },
+          {
+            "id": "c3",
+            "text": "sitting"
+          }
         ]
       },
-      "correct_answer": "sat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The past tense of sit is sat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 88
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/9.jpeg"
+      },
+      "order_index": 88,
+      "passage_id": "p9"
     },
     {
       "slug": "q089",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is sad.<br>\nTim hit his chin.<br>\nTim sits and sniffs.<br>\nDad will pick up Tim.<br>\nDad will hug Tim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nTim nods.<br>\nDad will sit with Tim.<br>\nTim will sip from his cup.<br>\nDad will sing to Tim.<br>\nTim will grin.<br>\n\"I am all right,\" says Tim.<br>\nTim will skip and play again.\n</div><br>\n<span style=\"color:red;\">89. What might Tim do after he is well again?</span>",
       "type": "mcq",
+      "prompt": "What might Tim do after he is well again?",
       "options": {
         "choices": [
-          "swim and slide",
-          "slide and write",
-          "skip and play"
+          {
+            "id": "c1",
+            "text": "swim and slide"
+          },
+          {
+            "id": "c2",
+            "text": "slide and write"
+          },
+          {
+            "id": "c3",
+            "text": "skip and play"
+          }
         ]
       },
-      "correct_answer": "skip and play",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Tim will skip and play again' when he is better.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 89
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/9.jpeg"
+      },
+      "order_index": 89,
+      "passage_id": "p9"
     },
     {
       "slug": "q090",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTim is sad.<br>\nTim hit his chin.<br>\nTim sits and sniffs.<br>\nDad will pick up Tim.<br>\nDad will hug Tim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nTim nods.<br>\nDad will sit with Tim.<br>\nTim will sip from his cup.<br>\nDad will sing to Tim.<br>\nTim will grin.<br>\n\"I am all right,\" says Tim.<br>\nTim will skip and play again.\n</div><br>\n<span style=\"color:red;\">90. What is another word for nod?</span>",
       "type": "mcq",
+      "prompt": "What is another word for nod?",
       "options": {
         "choices": [
-          "yes",
-          "no",
-          "not agree"
+          {
+            "id": "c1",
+            "text": "yes"
+          },
+          {
+            "id": "c2",
+            "text": "no"
+          },
+          {
+            "id": "c3",
+            "text": "not agree"
+          }
         ]
       },
-      "correct_answer": "yes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "To nod means to move your head up and down, which signals agreement or 'yes.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 90
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/9.jpeg"
+      },
+      "order_index": 90,
+      "passage_id": "p9"
     },
     {
       "slug": "q091",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nKim is sad.<br>\nKim hit her chin.<br>\nKim sits and sniffs.<br>\nDad will pick up Kim.<br>\nDad will hug Kim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nKim says, \"Yes.\"<br>\nDad will sit with Kim.<br>\nKim will sip from her cup.<br>\nDad will sing to Kim.<br>\nKim will grin.<br>\n\"I am all right,\" says Kim.<br>\nKim will skip and play again.\n</div><br>\n<span style=\"color:red;\">91. In the short story, who is sad?</span>",
       "type": "mcq",
+      "prompt": "In the short story, who is sad?",
       "options": {
         "choices": [
-          "Sandy",
-          "Kim",
-          "Tim"
+          {
+            "id": "c1",
+            "text": "Sandy"
+          },
+          {
+            "id": "c2",
+            "text": "Kim"
+          },
+          {
+            "id": "c3",
+            "text": "Tim"
+          }
         ]
       },
-      "correct_answer": "Kim",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story begins with 'Kim is sad.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 91
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/10.jpeg"
+      },
+      "order_index": 91,
+      "passage_id": "p9"
     },
     {
       "slug": "q092",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nKim is sad.<br>\nKim hit her chin.<br>\nKim sits and sniffs.<br>\nDad will pick up Kim.<br>\nDad will hug Kim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nKim says, \"Yes.\"<br>\nDad will sit with Kim.<br>\nKim will sip from her cup.<br>\nDad will sing to Kim.<br>\nKim will grin.<br>\n\"I am all right,\" says Kim.<br>\nKim will skip and play again.\n</div><br>\n<span style=\"color:red;\">92. What happened to Kim?</span>",
       "type": "mcq",
+      "prompt": "What happened to Kim?",
       "options": {
         "choices": [
-          "Kim went to the mall",
-          "Kim hit her leg",
-          "Kim hit her chain"
+          {
+            "id": "c1",
+            "text": "Kim went to the mall"
+          },
+          {
+            "id": "c2",
+            "text": "Kim hit her leg"
+          },
+          {
+            "id": "c3",
+            "text": "Kim hit her chain"
+          }
         ]
       },
-      "correct_answer": "Kim hit her chain",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "According to the worksheet, Kim hit her chin (written as 'chain' in the options).",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 92
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/10.jpeg"
+      },
+      "order_index": 92,
+      "passage_id": "p9"
     },
     {
       "slug": "q093",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nKim is sad.<br>\nKim hit her chin.<br>\nKim sits and sniffs.<br>\nDad will pick up Kim.<br>\nDad will hug Kim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nKim says, \"Yes.\"<br>\nDad will sit with Kim.<br>\nKim will sip from her cup.<br>\nDad will sing to Kim.<br>\nKim will grin.<br>\n\"I am all right,\" says Kim.<br>\nKim will skip and play again.\n</div><br>\n<span style=\"color:red;\">93. Where did Kim get hurt?</span>",
       "type": "mcq",
+      "prompt": "Where did Kim get hurt?",
       "options": {
         "choices": [
-          "chin",
-          "hand",
-          "leg"
+          {
+            "id": "c1",
+            "text": "chin"
+          },
+          {
+            "id": "c2",
+            "text": "hand"
+          },
+          {
+            "id": "c3",
+            "text": "leg"
+          }
         ]
       },
-      "correct_answer": "chin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Kim hit her chin,' so she was hurt on her chin.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 93
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/10.jpeg"
+      },
+      "order_index": 93,
+      "passage_id": "p9"
     },
     {
       "slug": "q094",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nKim is sad.<br>\nKim hit her chin.<br>\nKim sits and sniffs.<br>\nDad will pick up Kim.<br>\nDad will hug Kim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nKim says, \"Yes.\"<br>\nDad will sit with Kim.<br>\nKim will sip from her cup.<br>\nDad will sing to Kim.<br>\nKim will grin.<br>\n\"I am all right,\" says Kim.<br>\nKim will skip and play again.\n</div><br>\n<span style=\"color:red;\">94. How does Kim feel at the beginning of the story?</span>",
       "type": "mcq",
+      "prompt": "How does Kim feel at the beginning of the story?",
       "options": {
         "choices": [
-          "glad",
-          "sad",
-          "big"
+          {
+            "id": "c1",
+            "text": "glad"
+          },
+          {
+            "id": "c2",
+            "text": "sad"
+          },
+          {
+            "id": "c3",
+            "text": "big"
+          }
         ]
       },
-      "correct_answer": "sad",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story begins with 'Kim is sad.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 94
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/10.jpeg"
+      },
+      "order_index": 94,
+      "passage_id": "p9"
     },
     {
       "slug": "q095",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nKim is sad.<br>\nKim hit her chin.<br>\nKim sits and sniffs.<br>\nDad will pick up Kim.<br>\nDad will hug Kim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nKim says, \"Yes.\"<br>\nDad will sit with Kim.<br>\nKim will sip from her cup.<br>\nDad will sing to Kim.<br>\nKim will grin.<br>\n\"I am all right,\" says Kim.<br>\nKim will skip and play again.\n</div><br>\n<span style=\"color:red;\">95. What does Kim sip from?</span>",
       "type": "mcq",
+      "prompt": "What does Kim sip from?",
       "options": {
         "choices": [
-          "a cup",
-          "a bag",
-          "a dish"
+          {
+            "id": "c1",
+            "text": "a cup"
+          },
+          {
+            "id": "c2",
+            "text": "a bag"
+          },
+          {
+            "id": "c3",
+            "text": "a dish"
+          }
         ]
       },
-      "correct_answer": "a cup",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Kim will sip from her cup.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 95
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/10.jpeg"
+      },
+      "order_index": 95,
+      "passage_id": "p9"
     },
     {
       "slug": "q096",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nKim is sad.<br>\nKim hit her chin.<br>\nKim sits and sniffs.<br>\nDad will pick up Kim.<br>\nDad will hug Kim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nKim says, \"Yes.\"<br>\nDad will sit with Kim.<br>\nKim will sip from her cup.<br>\nDad will sing to Kim.<br>\nKim will grin.<br>\n\"I am all right,\" says Kim.<br>\nKim will skip and play again.\n</div><br>\n<span style=\"color:red;\">96. What will dad do to make Kim feel better?</span>",
       "type": "mcq",
+      "prompt": "What will dad do to make Kim feel better?",
       "options": {
         "choices": [
-          "dad will cry",
-          "dad will sing",
-          "dad will laugh"
+          {
+            "id": "c1",
+            "text": "dad will cry"
+          },
+          {
+            "id": "c2",
+            "text": "dad will sing"
+          },
+          {
+            "id": "c3",
+            "text": "dad will laugh"
+          }
         ]
       },
-      "correct_answer": "dad will sing",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Dad will sing to Kim' to help her feel better.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 96
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/10.jpeg"
+      },
+      "order_index": 96,
+      "passage_id": "p9"
     },
     {
       "slug": "q097",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nKim is sad.<br>\nKim hit her chin.<br>\nKim sits and sniffs.<br>\nDad will pick up Kim.<br>\nDad will hug Kim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nKim says, \"Yes.\"<br>\nDad will sit with Kim.<br>\nKim will sip from her cup.<br>\nDad will sing to Kim.<br>\nKim will grin.<br>\n\"I am all right,\" says Kim.<br>\nKim will skip and play again.\n</div><br>\n<span style=\"color:red;\">97. What is the past tense of skip?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of skip?",
       "options": {
         "choices": [
-          "skipping",
-          "skip",
-          "skipped"
+          {
+            "id": "c1",
+            "text": "skipping"
+          },
+          {
+            "id": "c2",
+            "text": "skip"
+          },
+          {
+            "id": "c3",
+            "text": "skipped"
+          }
         ]
       },
-      "correct_answer": "skipped",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The past tense of skip is skipped.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 97
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/10.jpeg"
+      },
+      "order_index": 97,
+      "passage_id": "p9"
     },
     {
       "slug": "q098",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nKim is sad.<br>\nKim hit her chin.<br>\nKim sits and sniffs.<br>\nDad will pick up Kim.<br>\nDad will hug Kim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nKim says, \"Yes.\"<br>\nDad will sit with Kim.<br>\nKim will sip from her cup.<br>\nDad will sing to Kim.<br>\nKim will grin.<br>\n\"I am all right,\" says Kim.<br>\nKim will skip and play again.\n</div><br>\n<span style=\"color:red;\">98. What is the meaning of grin?</span>",
       "type": "mcq",
+      "prompt": "What is the meaning of grin?",
       "options": {
         "choices": [
-          "grin means to cry",
-          "grin means to smile",
-          "grin means to fly"
+          {
+            "id": "c1",
+            "text": "grin means to cry"
+          },
+          {
+            "id": "c2",
+            "text": "grin means to smile"
+          },
+          {
+            "id": "c3",
+            "text": "grin means to fly"
+          }
         ]
       },
-      "correct_answer": "grin means to smile",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "To grin means to smile broadly or widely.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 98
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/10.jpeg"
+      },
+      "order_index": 98,
+      "passage_id": "p9"
     },
     {
       "slug": "q099",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nKim is sad.<br>\nKim hit her chin.<br>\nKim sits and sniffs.<br>\nDad will pick up Kim.<br>\nDad will hug Kim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nKim says, \"Yes.\"<br>\nDad will sit with Kim.<br>\nKim will sip from her cup.<br>\nDad will sing to Kim.<br>\nKim will grin.<br>\n\"I am all right,\" says Kim.<br>\nKim will skip and play again.\n</div><br>\n<span style=\"color:red;\">99. What is the meaning of skip?</span>",
       "type": "mcq",
+      "prompt": "What is the meaning of skip?",
       "options": {
         "choices": [
-          "jump lightly while moving",
-          "sleep lightly while moving",
-          "drink lightly while moving"
+          {
+            "id": "c1",
+            "text": "jump lightly while moving"
+          },
+          {
+            "id": "c2",
+            "text": "sleep lightly while moving"
+          },
+          {
+            "id": "c3",
+            "text": "drink lightly while moving"
+          }
         ]
       },
-      "correct_answer": "jump lightly while moving",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "To skip means to move forward with light, bouncy jumps.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 99
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/10.jpeg"
+      },
+      "order_index": 99,
+      "passage_id": "p9"
     },
     {
       "slug": "q100",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nKim is sad.<br>\nKim hit her chin.<br>\nKim sits and sniffs.<br>\nDad will pick up Kim.<br>\nDad will hug Kim.<br>\n\"Did you hit your chin?\" asks Dad.<br>\nKim says, \"Yes.\"<br>\nDad will sit with Kim.<br>\nKim will sip from her cup.<br>\nDad will sing to Kim.<br>\nKim will grin.<br>\n\"I am all right,\" says Kim.<br>\nKim will skip and play again.\n</div><br>\n<span style=\"color:red;\">100. What is the meaning of again?</span>",
       "type": "mcq",
+      "prompt": "What is the meaning of again?",
       "options": {
         "choices": [
-          "two more times",
-          "five more times or another time",
-          "one more time or another time"
+          {
+            "id": "c1",
+            "text": "two more times"
+          },
+          {
+            "id": "c2",
+            "text": "five more times or another time"
+          },
+          {
+            "id": "c3",
+            "text": "one more time or another time"
+          }
         ]
       },
-      "correct_answer": "one more time or another time",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Again means one more time or another time.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 100
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-i/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_I/10.jpeg"
+      },
+      "order_index": 100,
+      "passage_id": "p9"
+    }
+  ],
+  "title_needs_review": true,
+  "passages": [
+    {
+      "id": "p1",
+      "text": "This is Sid.\nSid is a girl.\nSid will pick a fish.\n\"Which fish will I pick?\"\nThis fish is pink and silver.\nThis fish zips and flips.\nThis fish dips and spins.\nThis little fish is quick!\nIt swims with a big flick.\n\"I like this swift fish!\"\n\"I will pick the quick fish!\""
+    },
+    {
+      "id": "p2",
+      "text": "Tim sees a big pig.\nThe pig will dig in the pit.\nThe pig digs and digs in the pit.\nThen, the pig will sit in the pit.\nTim grins.\n\"Will the pig fit?\" says Kim.\nThe pig sits in the pit.\nThe pig's big hips stick up!\nTim and Kim giggle.\n\"The pig is too big!\" says Tim."
+    },
+    {
+      "id": "p3",
+      "text": "Tim and Nick kick.\nTim kicks the big ball.\nNick kicks to Tim.\nTim kicks to Nick.\nTim will spin.\nNick will grin.\nNick kicks it in.\nThe kids win.\nTim and Nick sing.\n\"I like this win!\" says Tim."
+    },
+    {
+      "id": "p4",
+      "text": "This is Sid.\nThis is Kim.\nSid and Kim are friends.\nSid hid.\nKim will find Sid.\n\"Is Sid in the big bin?\" asks Kim.\nKim will lift the lid.\n\"Yes!\" says Kim.\nSid is in the big bin!"
+    },
+    {
+      "id": "p5",
+      "text": "Mit is a cat.\nKit is a cat.\nMit and Kit are friends.\nMit likes Kit.\nKit likes Mit.\nThey sit on a hill.\nThey sit on a sill.\nThey sit in a pit.\nThey hiss and sit.\nThey sniff in the pit.\nMit finds a big fish in the pit.\nKit finds the fish, too.\nMit and Kit fight and fight.\nThey swish and kick.\nFinally, Mit and Kit split the fish.\nThey both win.\nThen, Mit and Kit sit still and eat the fish together."
+    },
+    {
+      "id": "p6",
+      "text": "This is Liz.\nLiz is a pig.\nLiz will pick a wig.\nLiz picks the blue wig.\nThe blue wig is big.\nIt slips and dips.\nLiz picks the green wig.\nThe green wig is trim.\nThe wig fits.\nLiz grins."
+    },
+    {
+      "id": "p7",
+      "text": "Tim is on a big ship with his mom.\nTim and his mom sit on the big ship.\nTim and mom look for fish.\nTim dips his chin and grins.\n\"I think I will find a big fish!\" says Tim.\nTim points and yells, \"I see a big fish!\"\nMom squints and says, \"Yes, I see the big fin!\"\nThe big fish swims in zigzags by the ship.\nTim is thrilled to find such a big fish.\n\"What a big, big fish!\" says Tim."
+    },
+    {
+      "id": "p8",
+      "text": "Jill is sick.\nJill is in bed.\nShe will not play.\nNan is with Jill.\nNan will sing.\nJill will sip milk.\nJill will grin.\n\"You will be well in a bit,\" says Nan.\nJill will rest.\nJill will be fit."
+    },
+    {
+      "id": "p9",
+      "text": "Kim is sad.\nKim hit her chin.\nKim sits and sniffs.\nDad will pick up Kim.\nDad will hug Kim.\n\"Did you hit your chin?\" asks Dad.\nKim says, \"Yes.\"\nDad will sit with Kim.\nKim will sip from her cup.\nDad will sing to Kim.\nKim will grin.\n\"I am all right,\" says Kim.\nKim will skip and play again."
     }
   ]
 }

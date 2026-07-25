@@ -1,1716 +1,2915 @@
 {
   "_source_file": "level1_sci_marineanimas.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "sci-marineanimas",
-    "title": "Marine Animals",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.558Z",
+  "slug": "sci-marineanimas",
+  "title": "Marine Animals",
+  "level": "level-1",
+  "subject": "science",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What do we call the huge body of salty water on Earth ?",
       "type": "mcq",
+      "prompt": "What do we call the huge body of salty water on Earth ?",
       "options": {
         "choices": [
-          "ocean",
-          "pond",
-          "lake"
+          {
+            "id": "c1",
+            "text": "ocean"
+          },
+          {
+            "id": "c2",
+            "text": "pond"
+          },
+          {
+            "id": "c3",
+            "text": "lake"
+          }
         ]
       },
-      "correct_answer": "ocean",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The huge salty water body is called an ocean.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which animal is the largest in the ocean?",
       "type": "mcq",
+      "prompt": "Which animal is the largest in the ocean?",
       "options": {
         "choices": [
-          "pink whale",
-          "crab",
-          "blue whale"
+          {
+            "id": "c1",
+            "text": "pink whale"
+          },
+          {
+            "id": "c2",
+            "text": "crab"
+          },
+          {
+            "id": "c3",
+            "text": "blue whale"
+          }
         ]
       },
-      "correct_answer": "blue whale",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The blue whale is the largest animal in the ocean.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Which animal has eight arms?",
       "type": "mcq",
+      "prompt": "Which animal has eight arms?",
       "options": {
         "choices": [
-          "octopus",
-          "dolphin",
-          "shark"
+          {
+            "id": "c1",
+            "text": "octopus"
+          },
+          {
+            "id": "c2",
+            "text": "dolphin"
+          },
+          {
+            "id": "c3",
+            "text": "shark"
+          }
         ]
       },
-      "correct_answer": "octopus",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "An octopus has eight arms.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which ocean animal has sharp teeth and is a fast swimmer?",
       "type": "mcq",
+      "prompt": "Which ocean animal has sharp teeth and is a fast swimmer?",
       "options": {
         "choices": [
-          "tuna",
-          "turtle",
-          "shark"
+          {
+            "id": "c1",
+            "text": "tuna"
+          },
+          {
+            "id": "c2",
+            "text": "turtle"
+          },
+          {
+            "id": "c3",
+            "text": "shark"
+          }
         ]
       },
-      "correct_answer": "shark",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Sharks are fast swimmers with sharp teeth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which animal lives in a shell in the ocean?",
       "type": "mcq",
+      "prompt": "Which animal lives in a shell in the ocean?",
       "options": {
         "choices": [
-          "shark",
-          "dolphin",
-          "snail"
+          {
+            "id": "c1",
+            "text": "shark"
+          },
+          {
+            "id": "c2",
+            "text": "dolphin"
+          },
+          {
+            "id": "c3",
+            "text": "snail"
+          }
         ]
       },
-      "correct_answer": "snail",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Snails live in shells.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Which animal has a hard shell and swims slowly?",
       "type": "mcq",
+      "prompt": "Which animal has a hard shell and swims slowly?",
       "options": {
         "choices": [
-          "sea turtle",
-          "jellyfish",
-          "whale"
+          {
+            "id": "c1",
+            "text": "sea turtle"
+          },
+          {
+            "id": "c2",
+            "text": "jellyfish"
+          },
+          {
+            "id": "c3",
+            "text": "whale"
+          }
         ]
       },
-      "correct_answer": "sea turtle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sea turtles have hard shells and swim slowly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Which ocean animal has long arms with stingers?",
       "type": "mcq",
+      "prompt": "Which ocean animal has long arms with stingers?",
       "options": {
         "choices": [
-          "crab",
-          "seal",
-          "jellyfish"
+          {
+            "id": "c1",
+            "text": "crab"
+          },
+          {
+            "id": "c2",
+            "text": "seal"
+          },
+          {
+            "id": "c3",
+            "text": "jellyfish"
+          }
         ]
       },
-      "correct_answer": "jellyfish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Jellyfish have long stinging tentacles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Which animal blows water from a blowhole?",
       "type": "mcq",
+      "prompt": "Which animal blows water from a blowhole?",
       "options": {
         "choices": [
-          "fish",
-          "whale",
-          "crab"
+          {
+            "id": "c1",
+            "text": "fish"
+          },
+          {
+            "id": "c2",
+            "text": "whale"
+          },
+          {
+            "id": "c3",
+            "text": "crab"
+          }
         ]
       },
-      "correct_answer": "whale",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Whales blow water through their blowholes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which ocean animal has a big fin and jumps out of the water?",
       "type": "mcq",
+      "prompt": "Which ocean animal has a big fin and jumps out of the water?",
       "options": {
         "choices": [
-          "octopus",
-          "dolphin",
-          "octopus"
+          {
+            "id": "c1",
+            "text": "octopus"
+          },
+          {
+            "id": "c2",
+            "text": "dolphin"
+          },
+          {
+            "id": "c3",
+            "text": "octopus"
+          }
         ]
       },
-      "correct_answer": "dolphin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dolphins are known for jumping out of the water.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Which animal has a flat body and can sting?",
       "type": "mcq",
+      "prompt": "Which animal has a flat body and can sting?",
       "options": {
         "choices": [
-          "clown fish",
-          "stingray",
-          "seal"
+          {
+            "id": "c1",
+            "text": "clown fish"
+          },
+          {
+            "id": "c2",
+            "text": "stingray"
+          },
+          {
+            "id": "c3",
+            "text": "seal"
+          }
         ]
       },
-      "correct_answer": "stingray",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Stingrays have flat bodies and can sting.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Which animal in the ocean walks sideways?",
       "type": "mcq",
+      "prompt": "Which animal in the ocean walks sideways?",
       "options": {
         "choices": [
-          "turtle",
-          "shark",
-          "crab"
+          {
+            "id": "c1",
+            "text": "turtle"
+          },
+          {
+            "id": "c2",
+            "text": "shark"
+          },
+          {
+            "id": "c3",
+            "text": "crab"
+          }
         ]
       },
-      "correct_answer": "crab",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Crabs walk sideways.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Which animal has a star-shaped body?",
       "type": "mcq",
+      "prompt": "Which animal has a star-shaped body?",
       "options": {
         "choices": [
-          "shark",
-          "starfish",
-          "seal"
+          {
+            "id": "c1",
+            "text": "shark"
+          },
+          {
+            "id": "c2",
+            "text": "starfish"
+          },
+          {
+            "id": "c3",
+            "text": "seal"
+          }
         ]
       },
-      "correct_answer": "starfish",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Starfish have star-shaped bodies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "What do we call the salty water that covers most of Earth?",
       "type": "mcq",
+      "prompt": "What do we call the salty water that covers most of Earth?",
       "options": {
         "choices": [
-          "pond",
-          "river",
-          "ocean"
+          {
+            "id": "c1",
+            "text": "pond"
+          },
+          {
+            "id": "c2",
+            "text": "river"
+          },
+          {
+            "id": "c3",
+            "text": "ocean"
+          }
         ]
       },
-      "correct_answer": "ocean",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Most of Earth is covered by the ocean.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Which animal has flippers and can clap?",
       "type": "mcq",
+      "prompt": "Which animal has flippers and can clap?",
       "options": {
         "choices": [
-          "seal",
-          "octopus",
-          "shark"
+          {
+            "id": "c1",
+            "text": "seal"
+          },
+          {
+            "id": "c2",
+            "text": "octopus"
+          },
+          {
+            "id": "c3",
+            "text": "shark"
+          }
         ]
       },
-      "correct_answer": "seal",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Seals can clap with their flippers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Which ocean animal has a long nose called a snout?",
       "type": "mcq",
+      "prompt": "Which ocean animal has a long nose called a snout?",
       "options": {
         "choices": [
-          "penguin",
-          "crab",
-          "swordfish"
+          {
+            "id": "c1",
+            "text": "penguin"
+          },
+          {
+            "id": "c2",
+            "text": "crab"
+          },
+          {
+            "id": "c3",
+            "text": "swordfish"
+          }
         ]
       },
-      "correct_answer": "swordfish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Swordfish have a long pointed snout.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Which ocean animal has two big claws?",
       "type": "mcq",
+      "prompt": "Which ocean animal has two big claws?",
       "options": {
         "choices": [
-          "lobster",
-          "whale",
-          "seal"
+          {
+            "id": "c1",
+            "text": "lobster"
+          },
+          {
+            "id": "c2",
+            "text": "whale"
+          },
+          {
+            "id": "c3",
+            "text": "seal"
+          }
         ]
       },
-      "correct_answer": "lobster",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Lobsters are known for their two large claws.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Which animal swims in schools?",
       "type": "mcq",
+      "prompt": "Which animal swims in schools?",
       "options": {
         "choices": [
-          "fish",
-          "turtle",
-          "stingray"
+          {
+            "id": "c1",
+            "text": "fish"
+          },
+          {
+            "id": "c2",
+            "text": "turtle"
+          },
+          {
+            "id": "c3",
+            "text": "stingray"
+          }
         ]
       },
-      "correct_answer": "fish",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Fish often swim together in groups called schools.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which animal can change colors to hide?",
       "type": "mcq",
+      "prompt": "Which animal can change colors to hide?",
       "options": {
         "choices": [
-          "deer",
-          "shark",
-          "octopus"
+          {
+            "id": "c1",
+            "text": "deer"
+          },
+          {
+            "id": "c2",
+            "text": "shark"
+          },
+          {
+            "id": "c3",
+            "text": "octopus"
+          }
         ]
       },
-      "correct_answer": "octopus",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Octopuses can change color for camouflage.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Which ocean animal has a big mouth and tiny fish swim inside it?",
       "type": "mcq",
+      "prompt": "Which ocean animal has a big mouth and tiny fish swim inside it?",
       "options": {
         "choices": [
-          "octopus",
-          "whale shark",
-          "seal"
+          {
+            "id": "c1",
+            "text": "octopus"
+          },
+          {
+            "id": "c2",
+            "text": "whale shark"
+          },
+          {
+            "id": "c3",
+            "text": "seal"
+          }
         ]
       },
-      "correct_answer": "whale shark",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Whale sharks allow tiny fish to swim inside their mouths.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Which ocean animal has a long, wiggly body like a snake?",
       "type": "mcq",
+      "prompt": "Which ocean animal has a long, wiggly body like a snake?",
       "options": {
         "choices": [
-          "shark",
-          "eel",
-          "turtle"
+          {
+            "id": "c1",
+            "text": "shark"
+          },
+          {
+            "id": "c2",
+            "text": "eel"
+          },
+          {
+            "id": "c3",
+            "text": "turtle"
+          }
         ]
       },
-      "correct_answer": "eel",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Eels have long, snake-like bodies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Which bird swims in the ocean but cannot fly?",
       "type": "mcq",
+      "prompt": "Which bird swims in the ocean but cannot fly?",
       "options": {
         "choices": [
-          "eel",
-          "penguin",
-          "parrot"
+          {
+            "id": "c1",
+            "text": "eel"
+          },
+          {
+            "id": "c2",
+            "text": "penguin"
+          },
+          {
+            "id": "c3",
+            "text": "parrot"
+          }
         ]
       },
-      "correct_answer": "penguin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Penguins are flightless birds adapted perfectly to ocean swimming.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which animal has a soft body and no bones?",
       "type": "mcq",
+      "prompt": "Which animal has a soft body and no bones?",
       "options": {
         "choices": [
-          "shark",
-          "seal",
-          "jellyfish"
+          {
+            "id": "c1",
+            "text": "shark"
+          },
+          {
+            "id": "c2",
+            "text": "seal"
+          },
+          {
+            "id": "c3",
+            "text": "jellyfish"
+          }
         ]
       },
-      "correct_answer": "jellyfish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Jellyfish are invertebrates with soft, gelatinous bodies completely lacking bones.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which animal has a spiky body that rolls into a ball?",
       "type": "mcq",
+      "prompt": "Which animal has a spiky body that rolls into a ball?",
       "options": {
         "choices": [
-          "sea urchin",
-          "crab",
-          "seal"
+          {
+            "id": "c1",
+            "text": "sea urchin"
+          },
+          {
+            "id": "c2",
+            "text": "crab"
+          },
+          {
+            "id": "c3",
+            "text": "seal"
+          }
         ]
       },
-      "correct_answer": "sea urchin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sea urchins are covered in defensive spikes all over their round skeletal frames.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Which ocean animal sprays ink when scared?",
       "type": "mcq",
+      "prompt": "Which ocean animal sprays ink when scared?",
       "options": {
         "choices": [
-          "squid",
-          "whale",
-          "penguin"
+          {
+            "id": "c1",
+            "text": "squid"
+          },
+          {
+            "id": "c2",
+            "text": "whale"
+          },
+          {
+            "id": "c3",
+            "text": "penguin"
+          }
         ]
       },
-      "correct_answer": "squid",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Squids eject dark ink clouds into water spaces to blind and confuse predators.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Which ocean animal sleeps floating on its back?",
       "type": "mcq",
+      "prompt": "Which ocean animal sleeps floating on its back?",
       "options": {
         "choices": [
-          "shark",
-          "sea otter",
-          "tuna"
+          {
+            "id": "c1",
+            "text": "shark"
+          },
+          {
+            "id": "c2",
+            "text": "sea otter"
+          },
+          {
+            "id": "c3",
+            "text": "tuna"
+          }
         ]
       },
-      "correct_answer": "sea otter",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sea otters rest comfortably at the water surface by floating backwards on their thick fur.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which animal has a round body and many long arms?",
       "type": "mcq",
+      "prompt": "Which animal has a round body and many long arms?",
       "options": {
         "choices": [
-          "octopus",
-          "fish",
-          "turtle"
+          {
+            "id": "c1",
+            "text": "octopus"
+          },
+          {
+            "id": "c2",
+            "text": "fish"
+          },
+          {
+            "id": "c3",
+            "text": "turtle"
+          }
         ]
       },
-      "correct_answer": "octopus",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The globular body frame of the octopus features eight active tracking limbs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Which animal has a fin on its back and swims fast?",
       "type": "mcq",
+      "prompt": "Which animal has a fin on its back and swims fast?",
       "options": {
         "choices": [
-          "turtle",
-          "shark",
-          "seal"
+          {
+            "id": "c1",
+            "text": "turtle"
+          },
+          {
+            "id": "c2",
+            "text": "shark"
+          },
+          {
+            "id": "c3",
+            "text": "seal"
+          }
         ]
       },
-      "correct_answer": "shark",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sharks rely on stiff dorsal fins to coordinate fast aquatic navigation tracks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which ocean creature has a hard outside shell?",
       "type": "mcq",
+      "prompt": "Which ocean creature has a hard outside shell?",
       "options": {
         "choices": [
-          "frog",
-          "jellyfish",
-          "crab"
+          {
+            "id": "c1",
+            "text": "frog"
+          },
+          {
+            "id": "c2",
+            "text": "jellyfish"
+          },
+          {
+            "id": "c3",
+            "text": "crab"
+          }
         ]
       },
-      "correct_answer": "crab",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Crabs grow tough, calcified exoskeletons that armor their soft body parts.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which animal uses sonar to find food?",
       "type": "mcq",
+      "prompt": "Which animal uses sonar to find food?",
       "options": {
         "choices": [
-          "starfish",
-          "dolphin",
-          "stingray"
+          {
+            "id": "c1",
+            "text": "starfish"
+          },
+          {
+            "id": "c2",
+            "text": "dolphin"
+          },
+          {
+            "id": "c3",
+            "text": "stingray"
+          }
         ]
       },
-      "correct_answer": "dolphin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dolphins employ high-frequency sonar echolocation clicks to track prey coordinates.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which animal floats and moves with the ocean waves?",
       "type": "mcq",
+      "prompt": "Which animal floats and moves with the ocean waves?",
       "options": {
         "choices": [
-          "eel",
-          "shark",
-          "jellyfish"
+          {
+            "id": "c1",
+            "text": "eel"
+          },
+          {
+            "id": "c2",
+            "text": "shark"
+          },
+          {
+            "id": "c3",
+            "text": "jellyfish"
+          }
         ]
       },
-      "correct_answer": "jellyfish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Jellyfish drift primarily inside marine currents and wave swells.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which is the top layer of the ocean where sunlight reaches?",
       "type": "mcq",
+      "prompt": "Which is the top layer of the ocean where sunlight reaches?",
       "options": {
         "choices": [
-          "sunlight zone",
-          "midnight zone",
-          "twilight zone"
+          {
+            "id": "c1",
+            "text": "sunlight zone"
+          },
+          {
+            "id": "c2",
+            "text": "midnight zone"
+          },
+          {
+            "id": "c3",
+            "text": "twilight zone"
+          }
         ]
       },
-      "correct_answer": "sunlight zone",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The euphotic or sunlight zone represents the upper solar-lit ocean depth layer.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which ocean layer has warm water because the sun warms it?",
       "type": "mcq",
+      "prompt": "Which ocean layer has warm water because the sun warms it?",
       "options": {
         "choices": [
-          "midnight zone",
-          "twilight zone",
-          "sunlight zone"
+          {
+            "id": "c1",
+            "text": "midnight zone"
+          },
+          {
+            "id": "c2",
+            "text": "twilight zone"
+          },
+          {
+            "id": "c3",
+            "text": "sunlight zone"
+          }
         ]
       },
-      "correct_answer": "sunlight zone",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Solar radiation absorbs inside surface layers to sustain warmer marine water tables.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "What are the main zones of the ocean?",
       "type": "mcq",
+      "prompt": "What are the main zones of the ocean?",
       "options": {
         "choices": [
-          "sunlight zone, twilight zone, midnight zone",
-          "mountain zone, forest zone, desert zone",
-          "sky zone, cloud zone, rainbow zone"
+          {
+            "id": "c1",
+            "text": "sunlight zone, twilight zone, midnight zone"
+          },
+          {
+            "id": "c2",
+            "text": "mountain zone, forest zone, desert zone"
+          },
+          {
+            "id": "c3",
+            "text": "sky zone, cloud zone, rainbow zone"
+          }
         ]
       },
-      "correct_answer": "sunlight zone, twilight zone, midnight zone",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Oceanographers divide vertical depth domains into sunlight, twilight, and midnight tiers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which ocean animal has a big round head and two large eyes?",
       "type": "mcq",
+      "prompt": "Which ocean animal has a big round head and two large eyes?",
       "options": {
         "choices": [
-          "octopus",
-          "whale",
-          "crab"
+          {
+            "id": "c1",
+            "text": "octopus"
+          },
+          {
+            "id": "c2",
+            "text": "whale"
+          },
+          {
+            "id": "c3",
+            "text": "crab"
+          }
         ]
       },
-      "correct_answer": "octopus",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Octopuses have well-developed eyes paired with a large head structure.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Which animal lives in coral reefs and is small and colorful?",
       "type": "mcq",
+      "prompt": "Which animal lives in coral reefs and is small and colorful?",
       "options": {
         "choices": [
-          "shark",
-          "clownfish",
-          "penguin"
+          {
+            "id": "c1",
+            "text": "shark"
+          },
+          {
+            "id": "c2",
+            "text": "clownfish"
+          },
+          {
+            "id": "c3",
+            "text": "penguin"
+          }
         ]
       },
-      "correct_answer": "clownfish",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Small, brightly patterned clownfish reside safely within tropical reef anemones.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which ocean bird dives to catch fish?",
       "type": "mcq",
+      "prompt": "Which ocean bird dives to catch fish?",
       "options": {
         "choices": [
-          "parrot",
-          "seagull",
-          "parrot"
+          {
+            "id": "c1",
+            "text": "parrot"
+          },
+          {
+            "id": "c2",
+            "text": "seagull"
+          },
+          {
+            "id": "c3",
+            "text": "parrot"
+          }
         ]
       },
-      "correct_answer": "seagull",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Seagulls patrol shorelines and dive past wave breaks to grab surfaced baitfish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "What are the main zones of the ocean?",
       "type": "mcq",
+      "prompt": "What are the main zones of the ocean?",
       "options": {
         "choices": [
-          "sky zone, cloud zone, rainbow zone",
-          "sunlight zone, twilight zone, midnight zone",
-          "ocean zone, pond zone, rainbow zone"
+          {
+            "id": "c1",
+            "text": "sky zone, cloud zone, rainbow zone"
+          },
+          {
+            "id": "c2",
+            "text": "sunlight zone, twilight zone, midnight zone"
+          },
+          {
+            "id": "c3",
+            "text": "ocean zone, pond zone, rainbow zone"
+          }
         ]
       },
-      "correct_answer": "sunlight zone, twilight zone, midnight zone",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The core biological divisions of the ocean are the sunlight, twilight, and midnight depth zones.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which animal uses its long legs to walk on the ocean floor?",
       "type": "mcq",
+      "prompt": "Which animal uses its long legs to walk on the ocean floor?",
       "options": {
         "choices": [
-          "crab",
-          "whale",
-          "fish"
+          {
+            "id": "c1",
+            "text": "crab"
+          },
+          {
+            "id": "c2",
+            "text": "whale"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "crab",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Many specialized crab varieties rely on jointed walking legs to crawl along benthic depths.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which animal has a body shaped like a bell?",
       "type": "mcq",
+      "prompt": "Which animal has a body shaped like a bell?",
       "options": {
         "choices": [
-          "seal",
-          "shark",
-          "jellyfish"
+          {
+            "id": "c1",
+            "text": "seal"
+          },
+          {
+            "id": "c2",
+            "text": "shark"
+          },
+          {
+            "id": "c3",
+            "text": "jellyfish"
+          }
         ]
       },
-      "correct_answer": "jellyfish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The undulating pulsing top structure of a jellyfish is classified as a medusa bell.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which animal has a round, flat body and hides under sand?",
       "type": "mcq",
+      "prompt": "Which animal has a round, flat body and hides under sand?",
       "options": {
         "choices": [
-          "stingray",
-          "penguin",
-          "dolphin"
+          {
+            "id": "c1",
+            "text": "stingray"
+          },
+          {
+            "id": "c2",
+            "text": "penguin"
+          },
+          {
+            "id": "c3",
+            "text": "dolphin"
+          }
         ]
       },
-      "correct_answer": "stingray",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Flat stingrays settle onto the marine floor, fluttering sand across their backs for concealment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which ocean plant waves back and forth in the water?",
       "type": "mcq",
+      "prompt": "Which ocean plant waves back and forth in the water?",
       "options": {
         "choices": [
-          "cactus",
-          "seaweed",
-          "grass"
+          {
+            "id": "c1",
+            "text": "cactus"
+          },
+          {
+            "id": "c2",
+            "text": "seaweed"
+          },
+          {
+            "id": "c3",
+            "text": "grass"
+          }
         ]
       },
-      "correct_answer": "seaweed",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Marine algae or seaweed filaments flex smoothly with local sub-surface currents.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which animal lives in a hard coral home?",
       "type": "mcq",
+      "prompt": "Which animal lives in a hard coral home?",
       "options": {
         "choices": [
-          "clownfish",
-          "turtle",
-          "seal"
+          {
+            "id": "c1",
+            "text": "clownfish"
+          },
+          {
+            "id": "c2",
+            "text": "turtle"
+          },
+          {
+            "id": "c3",
+            "text": "seal"
+          }
         ]
       },
-      "correct_answer": "clownfish",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Clownfish maneuver expertly inside structural coral colonies to seek security.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which animal uses bubbles and clicks to talk?",
       "type": "mcq",
+      "prompt": "Which animal uses bubbles and clicks to talk?",
       "options": {
         "choices": [
-          "crab",
-          "dolphin",
-          "penguin"
+          {
+            "id": "c1",
+            "text": "crab"
+          },
+          {
+            "id": "c2",
+            "text": "dolphin"
+          },
+          {
+            "id": "c3",
+            "text": "penguin"
+          }
         ]
       },
-      "correct_answer": "dolphin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dolphins speak via patterned series of high-frequency vocal clicks, whistles, and bubble streams.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which animal has long tentacles to catch food?",
       "type": "mcq",
+      "prompt": "Which animal has long tentacles to catch food?",
       "options": {
         "choices": [
-          "whale",
-          "squid",
-          "seahorse"
+          {
+            "id": "c1",
+            "text": "whale"
+          },
+          {
+            "id": "c2",
+            "text": "squid"
+          },
+          {
+            "id": "c3",
+            "text": "seahorse"
+          }
         ]
       },
-      "correct_answer": "squid",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Squids utilize specialized tracking tentacles to ensnare moving prey targets.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which tiny creature forms coral reefs?",
       "type": "mcq",
+      "prompt": "Which tiny creature forms coral reefs?",
       "options": {
         "choices": [
-          "coral polyps",
-          "fish",
-          "turtles"
+          {
+            "id": "c1",
+            "text": "coral polyps"
+          },
+          {
+            "id": "c2",
+            "text": "fish"
+          },
+          {
+            "id": "c3",
+            "text": "turtles"
+          }
         ]
       },
-      "correct_answer": "coral polyps",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Colonies of minuscule coral polyps generate calcium carbonate skeletons to construct massive reefs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "What do we call tiny, soft-bodied marine animals that are the building blocks of coral reefs?",
       "type": "mcq",
+      "prompt": "What do we call tiny, soft-bodied marine animals that are the building blocks of coral reefs?",
       "options": {
         "choices": [
-          "turtle",
-          "whale",
-          "coral polyps"
+          {
+            "id": "c1",
+            "text": "turtle"
+          },
+          {
+            "id": "c2",
+            "text": "whale"
+          },
+          {
+            "id": "c3",
+            "text": "coral polyps"
+          }
         ]
       },
-      "correct_answer": "coral polyps",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Reef building processes rely on structural calcium secreted by individual coral polyps.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which animal has a curled tail and swims upright?",
       "type": "mcq",
+      "prompt": "Which animal has a curled tail and swims upright?",
       "options": {
         "choices": [
-          "eel",
-          "seahorse",
-          "shark"
+          {
+            "id": "c1",
+            "text": "eel"
+          },
+          {
+            "id": "c2",
+            "text": "seahorse"
+          },
+          {
+            "id": "c3",
+            "text": "shark"
+          }
         ]
       },
-      "correct_answer": "seahorse",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Seahorses travel slowly in vertical postures, anchoring to seagrass using a prehensile curled tail.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which animal can puff up into a round ball?",
       "type": "mcq",
+      "prompt": "Which animal can puff up into a round ball?",
       "options": {
         "choices": [
-          "seahorse",
-          "pufferfish",
-          "eel"
+          {
+            "id": "c1",
+            "text": "seahorse"
+          },
+          {
+            "id": "c2",
+            "text": "pufferfish"
+          },
+          {
+            "id": "c3",
+            "text": "eel"
+          }
         ]
       },
-      "correct_answer": "pufferfish",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Pufferfish ingest substantial water volumes rapidly to inflate their bodies into spiky balls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which ocean animal has a beak and eight arms?",
       "type": "mcq",
+      "prompt": "Which ocean animal has a beak and eight arms?",
       "options": {
         "choices": [
-          "octopus",
-          "whale",
-          "seal"
+          {
+            "id": "c1",
+            "text": "octopus"
+          },
+          {
+            "id": "c2",
+            "text": "whale"
+          },
+          {
+            "id": "c3",
+            "text": "seal"
+          }
         ]
       },
-      "correct_answer": "octopus",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Octopuses hide hard chitinous biting beaks underneath their central arm convergence nodes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "What do we call tiny, soft-bodied marine animals that are the building blocks of coral reefs?",
       "type": "mcq",
+      "prompt": "What do we call tiny, soft-bodied marine animals that are the building blocks of coral reefs?",
       "options": {
         "choices": [
-          "whale",
-          "coral polyps",
-          "turtle"
+          {
+            "id": "c1",
+            "text": "whale"
+          },
+          {
+            "id": "c2",
+            "text": "coral polyps"
+          },
+          {
+            "id": "c3",
+            "text": "turtle"
+          }
         ]
       },
-      "correct_answer": "coral polyps",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Coral polyps are the invertebrate biological entities whose skeletons form marine reef baselines.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which animal uses its whiskers to feel around underwater?",
       "type": "mcq",
+      "prompt": "Which animal uses its whiskers to feel around underwater?",
       "options": {
         "choices": [
-          "whale",
-          "seal",
-          "shark"
+          {
+            "id": "c1",
+            "text": "whale"
+          },
+          {
+            "id": "c2",
+            "text": "seal"
+          },
+          {
+            "id": "c3",
+            "text": "shark"
+          }
         ]
       },
-      "correct_answer": "seal",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Seals rely on highly sensitive facial whiskers (vibrissae) to track prey swimming trajectories.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Which animal has stripes and lives in the ocean?",
       "type": "mcq",
+      "prompt": "Which animal has stripes and lives in the ocean?",
       "options": {
         "choices": [
-          "seahorse",
-          "clownfish",
-          "tiger"
+          {
+            "id": "c1",
+            "text": "seahorse"
+          },
+          {
+            "id": "c2",
+            "text": "clownfish"
+          },
+          {
+            "id": "c3",
+            "text": "tiger"
+          }
         ]
       },
-      "correct_answer": "clownfish",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Clownfish display iconic bright white warning stripes across orange skin fields.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Which animal has two shells and lives buried in sand?",
       "type": "mcq",
+      "prompt": "Which animal has two shells and lives buried in sand?",
       "options": {
         "choices": [
-          "shark",
-          "clam",
-          "penguin"
+          {
+            "id": "c1",
+            "text": "shark"
+          },
+          {
+            "id": "c2",
+            "text": "clam"
+          },
+          {
+            "id": "c3",
+            "text": "penguin"
+          }
         ]
       },
-      "correct_answer": "clam",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Bivalve clams protect internal soft tissue with two matching hinged shells hidden in sediment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which animal squirts water from its blowhole for fun?",
       "type": "mcq",
+      "prompt": "Which animal squirts water from its blowhole for fun?",
       "options": {
         "choices": [
-          "dolphin",
-          "seal",
-          "crab"
+          {
+            "id": "c1",
+            "text": "dolphin"
+          },
+          {
+            "id": "c2",
+            "text": "seal"
+          },
+          {
+            "id": "c3",
+            "text": "crab"
+          }
         ]
       },
-      "correct_answer": "dolphin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dolphins surface systematically to vent atmospheric air and water remnants from their blowholes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "What do we call tiny, soft-bodied marine animals that are the building blocks of coral reefs?",
       "type": "mcq",
+      "prompt": "What do we call tiny, soft-bodied marine animals that are the building blocks of coral reefs?",
       "options": {
         "choices": [
-          "whale",
-          "coral polyps",
-          "turtle"
+          {
+            "id": "c1",
+            "text": "whale"
+          },
+          {
+            "id": "c2",
+            "text": "coral polyps"
+          },
+          {
+            "id": "c3",
+            "text": "turtle"
+          }
         ]
       },
-      "correct_answer": "coral polyps",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Reef frameworks assemble step-by-step from mineralized crusts generated by live coral polyps.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "What are the main zones of the ocean?",
       "type": "mcq",
+      "prompt": "What are the main zones of the ocean?",
       "options": {
         "choices": [
-          "sky zone, cloud zone, rainbow zone",
-          "sunlight zone, twilight zone, midnight zone",
-          "ocean zone, pond zone, rainbow zone"
+          {
+            "id": "c1",
+            "text": "sky zone, cloud zone, rainbow zone"
+          },
+          {
+            "id": "c2",
+            "text": "sunlight zone, twilight zone, midnight zone"
+          },
+          {
+            "id": "c3",
+            "text": "ocean zone, pond zone, rainbow zone"
+          }
         ]
       },
-      "correct_answer": "sunlight zone, twilight zone, midnight zone",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The light graduation layers of marine water encompass the sunlight, twilight, and dark midnight zones.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Which layer is the deepest part of the ocean?",
       "type": "mcq",
+      "prompt": "Which layer is the deepest part of the ocean?",
       "options": {
         "choices": [
-          "twilight zone",
-          "sunlight zone",
-          "midnight zone"
+          {
+            "id": "c1",
+            "text": "twilight zone"
+          },
+          {
+            "id": "c2",
+            "text": "sunlight zone"
+          },
+          {
+            "id": "c3",
+            "text": "midnight zone"
+          }
         ]
       },
-      "correct_answer": "midnight zone",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The deep midnight zone represents abyssal aquatic sectors shielded from any downwelling solar rays.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "What makes ocean water taste salty?",
       "type": "mcq",
+      "prompt": "What makes ocean water taste salty?",
       "options": {
         "choices": [
-          "sugar",
-          "salt",
-          "sand"
+          {
+            "id": "c1",
+            "text": "sugar"
+          },
+          {
+            "id": "c2",
+            "text": "salt"
+          },
+          {
+            "id": "c3",
+            "text": "sand"
+          }
         ]
       },
-      "correct_answer": "salt",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "High concentrations of dissolved mineral compounds like sodium chloride create ocean salinity.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "What do fish use to breathe underwater?",
       "type": "mcq",
+      "prompt": "What do fish use to breathe underwater?",
       "options": {
         "choices": [
-          "ears",
-          "gills",
-          "noses"
+          {
+            "id": "c1",
+            "text": "ears"
+          },
+          {
+            "id": "c2",
+            "text": "gills"
+          },
+          {
+            "id": "c3",
+            "text": "noses"
+          }
         ]
       },
-      "correct_answer": "gills",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Gills extract dissolved oxygen directly from oncoming water flows passing through the mouth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "What covers most of Earth's surface?",
       "type": "mcq",
+      "prompt": "What covers most of Earth's surface?",
       "options": {
         "choices": [
-          "oceans",
-          "mountains",
-          "deserts"
+          {
+            "id": "c1",
+            "text": "oceans"
+          },
+          {
+            "id": "c2",
+            "text": "mountains"
+          },
+          {
+            "id": "c3",
+            "text": "deserts"
+          }
         ]
       },
-      "correct_answer": "oceans",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Vast saltwater oceans blanket approximately seventy percent of the global Earth sphere.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "What do Author/whales use to breathe air?",
       "type": "mcq",
+      "prompt": "What do Author/whales use to breathe air?",
       "options": {
         "choices": [
-          "blowhole",
-          "tail",
-          "fin"
+          {
+            "id": "c1",
+            "text": "blowhole"
+          },
+          {
+            "id": "c2",
+            "text": "tail"
+          },
+          {
+            "id": "c3",
+            "text": "fin"
+          }
         ]
       },
-      "correct_answer": "blowhole",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Whales possess specialized dorsal blowholes that align with standard mammalian lung configurations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "What moves ocean water back and forth?",
       "type": "mcq",
+      "prompt": "What moves ocean water back and forth?",
       "options": {
         "choices": [
-          "fish",
-          "trees",
-          "wind"
+          {
+            "id": "c1",
+            "text": "fish"
+          },
+          {
+            "id": "c2",
+            "text": "trees"
+          },
+          {
+            "id": "c3",
+            "text": "wind"
+          }
         ]
       },
-      "correct_answer": "wind",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Frictional drag generated by sweeping wind systems shapes rolling open ocean surface waves.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "What is the sandy part of the ocean's edge called?",
       "type": "mcq",
+      "prompt": "What is the sandy part of the ocean's edge called?",
       "options": {
         "choices": [
-          "forest",
-          "beach",
-          "mountain"
+          {
+            "id": "c1",
+            "text": "forest"
+          },
+          {
+            "id": "c2",
+            "text": "beach"
+          },
+          {
+            "id": "c3",
+            "text": "mountain"
+          }
         ]
       },
-      "correct_answer": "beach",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Coastal zones coated with wave-washed sand sediments are designated as beaches.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "What do sea turtles lay in the sand?",
       "type": "mcq",
+      "prompt": "What do sea turtles lay in the sand?",
       "options": {
         "choices": [
-          "rocks",
-          "eggs",
-          "shells"
+          {
+            "id": "c1",
+            "text": "rocks"
+          },
+          {
+            "id": "c2",
+            "text": "eggs"
+          },
+          {
+            "id": "c3",
+            "text": "shells"
+          }
         ]
       },
-      "correct_answer": "eggs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Female sea turtles crawl inland at night to excavate warm beach pits for their eggs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "What animal makes clicking sounds to talk?",
       "type": "mcq",
+      "prompt": "What animal makes clicking sounds to talk?",
       "options": {
         "choices": [
-          "seahorse",
-          "dolphin",
-          "crab"
+          {
+            "id": "c1",
+            "text": "seahorse"
+          },
+          {
+            "id": "c2",
+            "text": "dolphin"
+          },
+          {
+            "id": "c3",
+            "text": "crab"
+          }
         ]
       },
-      "correct_answer": "dolphin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dolphins coordinate group hunting patterns via ultrasonic acoustic clicking arrays.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "What helps fish swim?",
       "type": "mcq",
+      "prompt": "What helps fish swim?",
       "options": {
         "choices": [
-          "wings",
-          "fins",
-          "claws"
+          {
+            "id": "c1",
+            "text": "wings"
+          },
+          {
+            "id": "c2",
+            "text": "fins"
+          },
+          {
+            "id": "c3",
+            "text": "claws"
+          }
         ]
       },
-      "correct_answer": "fins",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Fins provide critical stability, steering vectors, and forward propulsion forces inside water spaces.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "What grows in warm ocean water and looks like plants but is an animal?",
       "type": "mcq",
+      "prompt": "What grows in warm ocean water and looks like plants but is an animal?",
       "options": {
         "choices": [
-          "coral",
-          "grass",
-          "seaweed"
+          {
+            "id": "c1",
+            "text": "coral"
+          },
+          {
+            "id": "c2",
+            "text": "grass"
+          },
+          {
+            "id": "c3",
+            "text": "seaweed"
+          }
         ]
       },
-      "correct_answer": "coral",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Corals contain live colonies of animal organisms, despite their stony, branch-like visual shapes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which ocean layer gets the most sunlight?",
       "type": "mcq",
+      "prompt": "Which ocean layer gets the most sunlight?",
       "options": {
         "choices": [
-          "twilight zone",
-          "midnight zone",
-          "sunlight zone"
+          {
+            "id": "c1",
+            "text": "twilight zone"
+          },
+          {
+            "id": "c2",
+            "text": "midnight zone"
+          },
+          {
+            "id": "c3",
+            "text": "sunlight zone"
+          }
         ]
       },
-      "correct_answer": "sunlight zone",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The surface sunlight zone receives maximum direct exposure from radiant solar beams.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "What do ocean plants need so they can grow?",
       "type": "mcq",
+      "prompt": "What do ocean plants need so they can grow?",
       "options": {
         "choices": [
-          "sunlight",
-          "snow",
-          "dirt"
+          {
+            "id": "c1",
+            "text": "sunlight"
+          },
+          {
+            "id": "c2",
+            "text": "snow"
+          },
+          {
+            "id": "c3",
+            "text": "dirt"
+          }
         ]
       },
-      "correct_answer": "sunlight",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Marine flora and phytoplankton rely on downwelling sunlight to trigger photosynthesis.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "What animal has a big mouth and tiny fish swim inside it safely?",
       "type": "mcq",
+      "prompt": "What animal has a big mouth and tiny fish swim inside it safely?",
       "options": {
         "choices": [
-          "shark",
-          "whale shark",
-          "seal"
+          {
+            "id": "c1",
+            "text": "shark"
+          },
+          {
+            "id": "c2",
+            "text": "whale shark"
+          },
+          {
+            "id": "c3",
+            "text": "seal"
+          }
         ]
       },
-      "correct_answer": "whale shark",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The massive whale shark filters tiny plankton, allowing small remora fish to swim safely near its jaws.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which animal has a round body and lots of spikes?",
       "type": "mcq",
+      "prompt": "Which animal has a round body and lots of spikes?",
       "options": {
         "choices": [
-          "seahorse",
-          "sea urchin",
-          "fish"
+          {
+            "id": "c1",
+            "text": "seahorse"
+          },
+          {
+            "id": "c2",
+            "text": "sea urchin"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "sea urchin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The sea urchin presents a round calcareous shell heavily fortified with long sharp spines.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "What helps sea otters float on top of the water?",
       "type": "mcq",
+      "prompt": "What helps sea otters float on top of the water?",
       "options": {
         "choices": [
-          "their thick fur",
-          "their wings",
-          "their sharp teeth"
+          {
+            "id": "c1",
+            "text": "their thick fur"
+          },
+          {
+            "id": "c2",
+            "text": "their wings"
+          },
+          {
+            "id": "c3",
+            "text": "their sharp teeth"
+          }
         ]
       },
-      "correct_answer": "their thick fur",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The dense, water-repellent fur coat of a sea otter traps insulating air bubbles to assist flotation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "What is a group of dolphins called?",
       "type": "mcq",
+      "prompt": "What is a group of dolphins called?",
       "options": {
         "choices": [
-          "pack",
-          "pod",
-          "flock"
+          {
+            "id": "c1",
+            "text": "pack"
+          },
+          {
+            "id": "c2",
+            "text": "pod"
+          },
+          {
+            "id": "c3",
+            "text": "flock"
+          }
         ]
       },
-      "correct_answer": "pod",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A family or synchronized social collective of marine mammals like dolphins is termed a pod.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which animal sticks to rocks with its strong foot?",
       "type": "mcq",
+      "prompt": "Which animal sticks to rocks with its strong foot?",
       "options": {
         "choices": [
-          "spider",
-          "barnacle",
-          "whale"
+          {
+            "id": "c1",
+            "text": "spider"
+          },
+          {
+            "id": "c2",
+            "text": "barnacle"
+          },
+          {
+            "id": "c3",
+            "text": "whale"
+          }
         ]
       },
-      "correct_answer": "barnacle",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Barnacles secrete exceptionally permanent biological glues to cement themselves securely onto intertidal rocks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "What do crabs use their claws for?",
       "type": "mcq",
+      "prompt": "What do crabs use their claws for?",
       "options": {
         "choices": [
-          "picking up food",
-          "flying in the sky",
-          "sleeping"
+          {
+            "id": "c1",
+            "text": "picking up food"
+          },
+          {
+            "id": "c2",
+            "text": "flying in the sky"
+          },
+          {
+            "id": "c3",
+            "text": "sleeping"
+          }
         ]
       },
-      "correct_answer": "picking up food",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Crabs utilize their heavy pincer claws to grasp, crush, and pick up food fragments.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "What is the deepest, darkest part of the ocean called?",
       "type": "mcq",
+      "prompt": "What is the deepest, darkest part of the ocean called?",
       "options": {
         "choices": [
-          "sunlight zone",
-          "midnight zone",
-          "shallow zone"
+          {
+            "id": "c1",
+            "text": "sunlight zone"
+          },
+          {
+            "id": "c2",
+            "text": "midnight zone"
+          },
+          {
+            "id": "c3",
+            "text": "shallow zone"
+          }
         ]
       },
-      "correct_answer": "midnight zone",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The midnight zone represents aphotic water columns completely devoid of structural ambient light.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "What are the main zones of the ocean?",
       "type": "mcq",
+      "prompt": "What are the main zones of the ocean?",
       "options": {
         "choices": [
-          "sky zone, cloud zone, rainbow zone",
-          "ocean zone, pond zone, rainbow zone",
-          "sunlight zone, twilight zone, midnight zone"
+          {
+            "id": "c1",
+            "text": "sky zone, cloud zone, rainbow zone"
+          },
+          {
+            "id": "c2",
+            "text": "ocean zone, pond zone, rainbow zone"
+          },
+          {
+            "id": "c3",
+            "text": "sunlight zone, twilight zone, midnight zone"
+          }
         ]
       },
-      "correct_answer": "sunlight zone, twilight zone, midnight zone",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Light attenuation benchmarks delineate marine strata into sunlight, twilight, and midnight zones.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "What is water made of?",
       "type": "mcq",
+      "prompt": "What is water made of?",
       "options": {
         "choices": [
-          "oxygen and iron",
-          "hydrogen and oxygen",
-          "hydrogen and carbon"
+          {
+            "id": "c1",
+            "text": "oxygen and iron"
+          },
+          {
+            "id": "c2",
+            "text": "hydrogen and oxygen"
+          },
+          {
+            "id": "c3",
+            "text": "hydrogen and carbon"
+          }
         ]
       },
-      "correct_answer": "hydrogen and oxygen",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Chemical water formulations unite two hydrogen atoms bonded tightly to a solitary oxygen atom.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "What is the deepest point in all of the world's oceans called?",
       "type": "mcq",
+      "prompt": "What is the deepest point in all of the world's oceans called?",
       "options": {
         "choices": [
-          "Mariana Trench",
-          "Great Barrier Reef",
-          "Red Sea"
+          {
+            "id": "c1",
+            "text": "Mariana Trench"
+          },
+          {
+            "id": "c2",
+            "text": "Great Barrier Reef"
+          },
+          {
+            "id": "c3",
+            "text": "Red Sea"
+          }
         ]
       },
-      "correct_answer": "Mariana Trench",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The lowest crustal depression point measured globally is located within the Pacific's Mariana Trench.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "What is the name of the solid state of water?",
       "type": "mcq",
+      "prompt": "What is the name of the solid state of water?",
       "options": {
         "choices": [
-          "liquid",
-          "ice",
-          "gas"
+          {
+            "id": "c1",
+            "text": "liquid"
+          },
+          {
+            "id": "c2",
+            "text": "ice"
+          },
+          {
+            "id": "c3",
+            "text": "gas"
+          }
         ]
       },
-      "correct_answer": "ice",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "When thermal energy levels drop significantly, liquid water freezes into solid crystal structures known as ice.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "When does the ocean get colder?",
       "type": "mcq",
+      "prompt": "When does the ocean get colder?",
       "options": {
         "choices": [
-          "when we go higher",
-          "when we go deeper",
-          "when we go closer to land"
+          {
+            "id": "c1",
+            "text": "when we go higher"
+          },
+          {
+            "id": "c2",
+            "text": "when we go deeper"
+          },
+          {
+            "id": "c3",
+            "text": "when we go closer to land"
+          }
         ]
       },
-      "correct_answer": "when we go deeper",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ocean temperatures plunge as deep layers escape thermal contact with warm solar surface fields.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Many ocean animals use glowing light in the deep. What this light is called?",
       "type": "mcq",
+      "prompt": "Many ocean animals use glowing light in the deep. What this light is called?",
       "options": {
         "choices": [
-          "sunshine",
-          "bioluminescence",
-          "fireworks"
+          {
+            "id": "c1",
+            "text": "sunshine"
+          },
+          {
+            "id": "c2",
+            "text": "bioluminescence"
+          },
+          {
+            "id": "c3",
+            "text": "fireworks"
+          }
         ]
       },
-      "correct_answer": "bioluminescence",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The chemical synthesis of cool light coordinates executed by deep-sea organisms is titled bioluminescence.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "What do we call ocean water that moves in big, slow paths?",
       "type": "mcq",
+      "prompt": "What do we call ocean water that moves in big, slow paths?",
       "options": {
         "choices": [
-          "currents",
-          "roads",
-          "waves"
+          {
+            "id": "c1",
+            "text": "currents"
+          },
+          {
+            "id": "c2",
+            "text": "roads"
+          },
+          {
+            "id": "c3",
+            "text": "waves"
+          }
         ]
       },
-      "correct_answer": "currents",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Massive global planetary conveyor vectors carrying oceanic water blocks along fixed loops are ocean currents.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "What is the ocean floor covered with?",
       "type": "mcq",
+      "prompt": "What is the ocean floor covered with?",
       "options": {
         "choices": [
-          "sand and water",
-          "mountains and valleys",
-          "houses"
+          {
+            "id": "c1",
+            "text": "sand and water"
+          },
+          {
+            "id": "c2",
+            "text": "mountains and valleys"
+          },
+          {
+            "id": "c3",
+            "text": "houses"
+          }
         ]
       },
-      "correct_answer": "mountains and valleys",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The rugged benthic seascape contains deep oceanic valleys and immense mid-ocean mountain ridges.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "What do we call tiny ocean plants that make oxygen?",
       "type": "mcq",
+      "prompt": "What do we call tiny ocean plants that make oxygen?",
       "options": {
         "choices": [
-          "plankton",
-          "cacti",
-          "moss"
+          {
+            "id": "c1",
+            "text": "plankton"
+          },
+          {
+            "id": "c2",
+            "text": "cacti"
+          },
+          {
+            "id": "c3",
+            "text": "moss"
+          }
         ]
       },
-      "correct_answer": "plankton",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Microscopic photosynthetic phytoplankton drift through surface ocean waters and emit abundant oxygen fields.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "What do we call a huge wave caused by underwater earthquakes?",
       "type": "mcq",
+      "prompt": "What do we call a huge wave caused by underwater earthquakes?",
       "options": {
         "choices": [
-          "splash",
-          "tsunami",
-          "ripple"
+          {
+            "id": "c1",
+            "text": "splash"
+          },
+          {
+            "id": "c2",
+            "text": "tsunami"
+          },
+          {
+            "id": "c3",
+            "text": "ripple"
+          }
         ]
       },
-      "correct_answer": "tsunami",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Seismic shifts along underwater fault zones displace massive water volumes, triggering powerful tsunami waves.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "What do we call a special suit that helps people explore deep under the ocean?",
       "type": "mcq",
+      "prompt": "What do we call a special suit that helps people explore deep under the ocean?",
       "options": {
         "choices": [
-          "spacesuit",
-          "wetsuit",
-          "raincoat"
+          {
+            "id": "c1",
+            "text": "spacesuit"
+          },
+          {
+            "id": "c2",
+            "text": "wetsuit"
+          },
+          {
+            "id": "c3",
+            "text": "raincoat"
+          }
         ]
       },
-      "correct_answer": "wetsuit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Neoprene wetsuits trap thin insulating water layers against the body to protect deep divers from cold water spikes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "What do we call the place where the ocean meets the land?",
       "type": "mcq",
+      "prompt": "What do we call the place where the ocean meets the land?",
       "options": {
         "choices": [
-          "sky",
-          "shore",
-          "forest"
+          {
+            "id": "c1",
+            "text": "sky"
+          },
+          {
+            "id": "c2",
+            "text": "shore"
+          },
+          {
+            "id": "c3",
+            "text": "forest"
+          }
         ]
       },
-      "correct_answer": "shore",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The literal physical geographic interface separating land margins from marine water is the shore.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "What do we call the tallest underwater 'mountains' in the ocean?",
       "type": "mcq",
+      "prompt": "What do we call the tallest underwater 'mountains' in the ocean?",
       "options": {
         "choices": [
-          "volcanoes",
-          "towers",
-          "trees"
+          {
+            "id": "c1",
+            "text": "volcanoes"
+          },
+          {
+            "id": "c2",
+            "text": "towers"
+          },
+          {
+            "id": "c3",
+            "text": "trees"
+          }
         ]
       },
-      "correct_answer": "volcanoes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Towering underwater volcanic peaks that rise up from abyssal ocean plains are termed seamounts or submarine volcanoes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "What do we call tiny animals that drift in the ocean and feed many fish?",
       "type": "mcq",
+      "prompt": "What do we call tiny animals that drift in the ocean and feed many fish?",
       "options": {
         "choices": [
-          "zooplankton",
-          "bears",
-          "turtles"
+          {
+            "id": "c1",
+            "text": "zooplankton"
+          },
+          {
+            "id": "c2",
+            "text": "bears"
+          },
+          {
+            "id": "c3",
+            "text": "turtles"
+          }
         ]
       },
-      "correct_answer": "zooplankton",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Animal-based planktonic organisms drifting inside marine columns are scientifically classified as zooplankton.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "What helps protect tiny ocean fish by giving them hiding places?",
       "type": "mcq",
+      "prompt": "What helps protect tiny ocean fish by giving them hiding places?",
       "options": {
         "choices": [
-          "trees",
-          "coral reefs",
-          "rocks"
+          {
+            "id": "c1",
+            "text": "trees"
+          },
+          {
+            "id": "c2",
+            "text": "coral reefs"
+          },
+          {
+            "id": "c3",
+            "text": "rocks"
+          }
         ]
       },
-      "correct_answer": "coral reefs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The intricate structural matrix of a coral reef forms thousands of protective micro-caverns for baitfish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "What happens to the ocean if plankton disappear?",
       "type": "mcq",
+      "prompt": "What happens to the ocean if plankton disappear?",
       "options": {
         "choices": [
-          "many animals would lose food",
-          "the ocean would turn pink",
-          "the sand would melt"
+          {
+            "id": "c1",
+            "text": "many animals would lose food"
+          },
+          {
+            "id": "c2",
+            "text": "the ocean would turn pink"
+          },
+          {
+            "id": "c3",
+            "text": "the sand would melt"
+          }
         ]
       },
-      "correct_answer": "many animals would lose food",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Plankton anchor primary trophic pathways; their extinction would collapse higher trophic food chains instantly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Why are Plankton important?",
       "type": "mcq",
+      "prompt": "Why are Plankton important?",
       "options": {
         "choices": [
-          "because they dance for fish",
-          "because they make oxygen",
-          "because they help fish lay eggs"
+          {
+            "id": "c1",
+            "text": "because they dance for fish"
+          },
+          {
+            "id": "c2",
+            "text": "because they make oxygen"
+          },
+          {
+            "id": "c3",
+            "text": "because they help fish lay eggs"
+          }
         ]
       },
-      "correct_answer": "because they make oxygen",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Phytoplankton operations generate a highly substantial proportion of the biosphere's regular oxygen budget.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Where do plankton live?",
       "type": "mcq",
+      "prompt": "Where do plankton live?",
       "options": {
         "choices": [
-          "in the ocean",
-          "in the desert",
-          "in a tree"
+          {
+            "id": "c1",
+            "text": "in the ocean"
+          },
+          {
+            "id": "c2",
+            "text": "in the desert"
+          },
+          {
+            "id": "c3",
+            "text": "in a tree"
+          }
         ]
       },
-      "correct_answer": "in the ocean",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Plankton are aquatic organisms that spend their life cycles suspended within ocean fluid layers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Why do plankton stay near the top of the water?",
       "type": "mcq",
+      "prompt": "Why do plankton stay near the top of the water?",
       "options": {
         "choices": [
-          "to get moonlight",
-          "to get sunlight",
-          "to ride bikes"
+          {
+            "id": "c1",
+            "text": "to get moonlight"
+          },
+          {
+            "id": "c2",
+            "text": "to get sunlight"
+          },
+          {
+            "id": "c3",
+            "text": "to ride bikes"
+          }
         ]
       },
-      "correct_answer": "to get sunlight",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Phytoplankton congregate in upper pelagic columns to capture downwelling sunlight needed for solar photosynthesis.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "What do we call a collection of tiny organisms that live beneath the surface of lakes, rivers, ponds, and ocean?",
       "type": "mcq",
+      "prompt": "What do we call a collection of tiny organisms that live beneath the surface of lakes, rivers, ponds, and ocean?",
       "options": {
         "choices": [
-          "insects",
-          "plankton",
-          "creature"
+          {
+            "id": "c1",
+            "text": "insects"
+          },
+          {
+            "id": "c2",
+            "text": "plankton"
+          },
+          {
+            "id": "c3",
+            "text": "creature"
+          }
         ]
       },
-      "correct_answer": "plankton",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The overarching scientific collective designation for water-drifting microscopic entities is plankton.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "What do many small fish and whales eat for food?",
       "type": "mcq",
+      "prompt": "What do many small fish and whales eat for food?",
       "options": {
         "choices": [
-          "plankton",
-          "grass",
-          "rocks"
+          {
+            "id": "c1",
+            "text": "plankton"
+          },
+          {
+            "id": "c2",
+            "text": "grass"
+          },
+          {
+            "id": "c3",
+            "text": "rocks"
+          }
         ]
       },
-      "correct_answer": "plankton",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Vast swarms of small baitfish and massive baleen whales filter out nutritious plankton clouds for primary food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which group of animals eats lots of plankton?",
       "type": "mcq",
+      "prompt": "Which group of animals eats lots of plankton?",
       "options": {
         "choices": [
-          "whales",
-          "dogs",
-          "birds"
+          {
+            "id": "c1",
+            "text": "whales"
+          },
+          {
+            "id": "c2",
+            "text": "dogs"
+          },
+          {
+            "id": "c3",
+            "text": "birds"
+          }
         ]
       },
-      "correct_answer": "whales",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Filter-feeding baleen whales depend entirely on taking in enormous volumes of plankton biomass daily.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "What size are plankton?",
       "type": "mcq",
+      "prompt": "What size are plankton?",
       "options": {
         "choices": [
-          "very tiny",
-          "very tall",
-          "very loud"
+          {
+            "id": "c1",
+            "text": "very tiny"
+          },
+          {
+            "id": "c2",
+            "text": "very tall"
+          },
+          {
+            "id": "c3",
+            "text": "very loud"
+          }
         ]
       },
-      "correct_answer": "very tiny",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The majority of biological plankton components exist as microscopic or very tiny individual specimens.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "How do Plankton move in the water?",
       "type": "mcq",
+      "prompt": "How do Plankton move in the water?",
       "options": {
         "choices": [
-          "by drifting with waves",
-          "by walking on legs",
-          "by swimming with fins"
+          {
+            "id": "c1",
+            "text": "by drifting with waves"
+          },
+          {
+            "id": "c2",
+            "text": "by walking on legs"
+          },
+          {
+            "id": "c3",
+            "text": "by swimming with fins"
+          }
         ]
       },
-      "correct_answer": "by drifting with waves",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Plankton lack complex locomotive apparatus, moving passively by drifting with local current tracks and wave vectors.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

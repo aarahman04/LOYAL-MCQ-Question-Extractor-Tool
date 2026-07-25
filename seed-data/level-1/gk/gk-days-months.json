@@ -1,1716 +1,2915 @@
 {
   "_source_file": "level1_gk_days_months.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "gk-days-months",
-    "title": "GK – Days & Months",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.563Z",
+  "slug": "gk-days-months",
+  "title": "GK – Days & Months",
+  "level": "level-1",
+  "subject": "gk",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Which day comes after Friday?",
       "type": "mcq",
+      "prompt": "Which day comes after Friday?",
       "options": {
         "choices": [
-          "Tuesday",
-          "Saturday",
-          "Thursday"
+          {
+            "id": "c1",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c2",
+            "text": "Saturday"
+          },
+          {
+            "id": "c3",
+            "text": "Thursday"
+          }
         ]
       },
-      "correct_answer": "Saturday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After Friday comes Saturday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "What is the month just before October?",
       "type": "mcq",
+      "prompt": "What is the month just before October?",
       "options": {
         "choices": [
-          "September",
-          "June",
-          "May"
+          {
+            "id": "c1",
+            "text": "September"
+          },
+          {
+            "id": "c2",
+            "text": "June"
+          },
+          {
+            "id": "c3",
+            "text": "May"
+          }
         ]
       },
-      "correct_answer": "September",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before October comes September.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Which month comes after November?",
       "type": "mcq",
+      "prompt": "Which month comes after November?",
       "options": {
         "choices": [
-          "July",
-          "August",
-          "December"
+          {
+            "id": "c1",
+            "text": "July"
+          },
+          {
+            "id": "c2",
+            "text": "August"
+          },
+          {
+            "id": "c3",
+            "text": "December"
+          }
         ]
       },
-      "correct_answer": "December",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After November comes December.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which month comes after March?",
       "type": "mcq",
+      "prompt": "Which month comes after March?",
       "options": {
         "choices": [
-          "February",
-          "April",
-          "October"
+          {
+            "id": "c1",
+            "text": "February"
+          },
+          {
+            "id": "c2",
+            "text": "April"
+          },
+          {
+            "id": "c3",
+            "text": "October"
+          }
         ]
       },
-      "correct_answer": "April",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After March comes April.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which month comes between May and July?",
       "type": "mcq",
+      "prompt": "Which month comes between May and July?",
       "options": {
         "choices": [
-          "December",
-          "September",
-          "June"
+          {
+            "id": "c1",
+            "text": "December"
+          },
+          {
+            "id": "c2",
+            "text": "September"
+          },
+          {
+            "id": "c3",
+            "text": "June"
+          }
         ]
       },
-      "correct_answer": "June",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "June comes between May and July.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "What is the month just before March?",
       "type": "mcq",
+      "prompt": "What is the month just before March?",
       "options": {
         "choices": [
-          "February",
-          "October",
-          "May"
+          {
+            "id": "c1",
+            "text": "February"
+          },
+          {
+            "id": "c2",
+            "text": "October"
+          },
+          {
+            "id": "c3",
+            "text": "May"
+          }
         ]
       },
-      "correct_answer": "February",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before March comes February.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "What is the month just before July?",
       "type": "mcq",
+      "prompt": "What is the month just before July?",
       "options": {
         "choices": [
-          "November",
-          "February",
-          "June"
+          {
+            "id": "c1",
+            "text": "November"
+          },
+          {
+            "id": "c2",
+            "text": "February"
+          },
+          {
+            "id": "c3",
+            "text": "June"
+          }
         ]
       },
-      "correct_answer": "June",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Before July comes June.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Which day comes before Thursday?",
       "type": "mcq",
+      "prompt": "Which day comes before Thursday?",
       "options": {
         "choices": [
-          "Sunday",
-          "Wednesday",
-          "Thursday"
+          {
+            "id": "c1",
+            "text": "Sunday"
+          },
+          {
+            "id": "c2",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c3",
+            "text": "Thursday"
+          }
         ]
       },
-      "correct_answer": "Wednesday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before Thursday comes Wednesday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which day comes before Tuesday?",
       "type": "mcq",
+      "prompt": "Which day comes before Tuesday?",
       "options": {
         "choices": [
-          "Monday",
-          "Saturday",
-          "Sunday"
+          {
+            "id": "c1",
+            "text": "Monday"
+          },
+          {
+            "id": "c2",
+            "text": "Saturday"
+          },
+          {
+            "id": "c3",
+            "text": "Sunday"
+          }
         ]
       },
-      "correct_answer": "Monday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before Tuesday comes Monday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "What is the month right after January?",
       "type": "mcq",
+      "prompt": "What is the month right after January?",
       "options": {
         "choices": [
-          "November",
-          "December",
-          "February"
+          {
+            "id": "c1",
+            "text": "November"
+          },
+          {
+            "id": "c2",
+            "text": "December"
+          },
+          {
+            "id": "c3",
+            "text": "February"
+          }
         ]
       },
-      "correct_answer": "February",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After January comes February.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Which day comes after Sunday?",
       "type": "mcq",
+      "prompt": "Which day comes after Sunday?",
       "options": {
         "choices": [
-          "Monday",
-          "Sunday",
-          "Tuesday"
+          {
+            "id": "c1",
+            "text": "Monday"
+          },
+          {
+            "id": "c2",
+            "text": "Sunday"
+          },
+          {
+            "id": "c3",
+            "text": "Tuesday"
+          }
         ]
       },
-      "correct_answer": "Monday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After Sunday comes Monday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "What is the month right after December?",
       "type": "mcq",
+      "prompt": "What is the month right after December?",
       "options": {
         "choices": [
-          "May",
-          "February",
-          "January"
+          {
+            "id": "c1",
+            "text": "May"
+          },
+          {
+            "id": "c2",
+            "text": "February"
+          },
+          {
+            "id": "c3",
+            "text": "January"
+          }
         ]
       },
-      "correct_answer": "January",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After December comes January.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Which month comes between July and September?",
       "type": "mcq",
+      "prompt": "Which month comes between July and September?",
       "options": {
         "choices": [
-          "February",
-          "June",
-          "August"
+          {
+            "id": "c1",
+            "text": "February"
+          },
+          {
+            "id": "c2",
+            "text": "June"
+          },
+          {
+            "id": "c3",
+            "text": "August"
+          }
         ]
       },
-      "correct_answer": "August",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "August comes between July and September.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "What is the day right after Friday?",
       "type": "mcq",
+      "prompt": "What is the day right after Friday?",
       "options": {
         "choices": [
-          "Saturday",
-          "Sunday",
-          "Monday"
+          {
+            "id": "c1",
+            "text": "Saturday"
+          },
+          {
+            "id": "c2",
+            "text": "Sunday"
+          },
+          {
+            "id": "c3",
+            "text": "Monday"
+          }
         ]
       },
-      "correct_answer": "Saturday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After Friday comes Saturday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "What is the month just before June?",
       "type": "mcq",
+      "prompt": "What is the month just before June?",
       "options": {
         "choices": [
-          "May",
-          "July",
-          "January"
+          {
+            "id": "c1",
+            "text": "May"
+          },
+          {
+            "id": "c2",
+            "text": "July"
+          },
+          {
+            "id": "c3",
+            "text": "January"
+          }
         ]
       },
-      "correct_answer": "May",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before June comes May.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Which month comes before May?",
       "type": "mcq",
+      "prompt": "Which month comes before May?",
       "options": {
         "choices": [
-          "November",
-          "February",
-          "April"
+          {
+            "id": "c1",
+            "text": "November"
+          },
+          {
+            "id": "c2",
+            "text": "February"
+          },
+          {
+            "id": "c3",
+            "text": "April"
+          }
         ]
       },
-      "correct_answer": "April",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Before May comes April.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Which day comes after Monday?",
       "type": "mcq",
+      "prompt": "Which day comes after Monday?",
       "options": {
         "choices": [
-          "Wednesday",
-          "Tuesday",
-          "Friday"
+          {
+            "id": "c1",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c2",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c3",
+            "text": "Friday"
+          }
         ]
       },
-      "correct_answer": "Tuesday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After Monday comes Tuesday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which day comes between Friday and Sunday?",
       "type": "mcq",
+      "prompt": "Which day comes between Friday and Sunday?",
       "options": {
         "choices": [
-          "Sunday",
-          "Saturday",
-          "Thursday"
+          {
+            "id": "c1",
+            "text": "Sunday"
+          },
+          {
+            "id": "c2",
+            "text": "Saturday"
+          },
+          {
+            "id": "c3",
+            "text": "Thursday"
+          }
         ]
       },
-      "correct_answer": "Saturday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Saturday comes between Friday and Sunday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Which day comes before Saturday?",
       "type": "mcq",
+      "prompt": "Which day comes before Saturday?",
       "options": {
         "choices": [
-          "Friday",
-          "Wednesday",
-          "Saturday"
+          {
+            "id": "c1",
+            "text": "Friday"
+          },
+          {
+            "id": "c2",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c3",
+            "text": "Saturday"
+          }
         ]
       },
-      "correct_answer": "Friday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before Saturday comes Friday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "What is the month just before January?",
       "type": "mcq",
+      "prompt": "What is the month just before January?",
       "options": {
         "choices": [
-          "December",
-          "October",
-          "May"
+          {
+            "id": "c1",
+            "text": "December"
+          },
+          {
+            "id": "c2",
+            "text": "October"
+          },
+          {
+            "id": "c3",
+            "text": "May"
+          }
         ]
       },
-      "correct_answer": "December",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before January comes December.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "What is the day right after Thursday?",
       "type": "mcq",
+      "prompt": "What is the day right after Thursday?",
       "options": {
         "choices": [
-          "Friday",
-          "Thursday",
-          "Wednesday"
+          {
+            "id": "c1",
+            "text": "Friday"
+          },
+          {
+            "id": "c2",
+            "text": "Thursday"
+          },
+          {
+            "id": "c3",
+            "text": "Wednesday"
+          }
         ]
       },
-      "correct_answer": "Friday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After Thursday comes Friday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "What is the month right after August?",
       "type": "mcq",
+      "prompt": "What is the month right after August?",
       "options": {
         "choices": [
-          "September",
-          "June",
-          "January"
+          {
+            "id": "c1",
+            "text": "September"
+          },
+          {
+            "id": "c2",
+            "text": "June"
+          },
+          {
+            "id": "c3",
+            "text": "January"
+          }
         ]
       },
-      "correct_answer": "September",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After August comes September.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which month comes after October?",
       "type": "mcq",
+      "prompt": "Which month comes after October?",
       "options": {
         "choices": [
-          "December",
-          "September",
-          "November"
+          {
+            "id": "c1",
+            "text": "December"
+          },
+          {
+            "id": "c2",
+            "text": "September"
+          },
+          {
+            "id": "c3",
+            "text": "November"
+          }
         ]
       },
-      "correct_answer": "November",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After October comes November.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Which month comes after July?",
       "type": "mcq",
+      "prompt": "Which month comes after July?",
       "options": {
         "choices": [
-          "August",
-          "September",
-          "March"
+          {
+            "id": "c1",
+            "text": "August"
+          },
+          {
+            "id": "c2",
+            "text": "September"
+          },
+          {
+            "id": "c3",
+            "text": "March"
+          }
         ]
       },
-      "correct_answer": "August",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After July comes August.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "What is the month right after April?",
       "type": "mcq",
+      "prompt": "What is the month right after April?",
       "options": {
         "choices": [
-          "May",
-          "October",
-          "January"
+          {
+            "id": "c1",
+            "text": "May"
+          },
+          {
+            "id": "c2",
+            "text": "October"
+          },
+          {
+            "id": "c3",
+            "text": "January"
+          }
         ]
       },
-      "correct_answer": "May",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After April comes May.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which month comes between April and June?",
       "type": "mcq",
+      "prompt": "Which month comes between April and June?",
       "options": {
         "choices": [
-          "July",
-          "May",
-          "June"
+          {
+            "id": "c1",
+            "text": "July"
+          },
+          {
+            "id": "c2",
+            "text": "May"
+          },
+          {
+            "id": "c3",
+            "text": "June"
+          }
         ]
       },
-      "correct_answer": "May",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "May comes between April and June.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "What is the day right after Wednesday?",
       "type": "mcq",
+      "prompt": "What is the day right after Wednesday?",
       "options": {
         "choices": [
-          "Wednesday",
-          "Thursday",
-          "Saturday"
+          {
+            "id": "c1",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c2",
+            "text": "Thursday"
+          },
+          {
+            "id": "c3",
+            "text": "Saturday"
+          }
         ]
       },
-      "correct_answer": "Thursday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After Wednesday comes Thursday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which month comes before September?",
       "type": "mcq",
+      "prompt": "Which month comes before September?",
       "options": {
         "choices": [
-          "August",
-          "June",
-          "November"
+          {
+            "id": "c1",
+            "text": "August"
+          },
+          {
+            "id": "c2",
+            "text": "June"
+          },
+          {
+            "id": "c3",
+            "text": "November"
+          }
         ]
       },
-      "correct_answer": "August",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before September comes August.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which day comes between Monday and Wednesday?",
       "type": "mcq",
+      "prompt": "Which day comes between Monday and Wednesday?",
       "options": {
         "choices": [
-          "Monday",
-          "Sunday",
-          "Tuesday"
+          {
+            "id": "c1",
+            "text": "Monday"
+          },
+          {
+            "id": "c2",
+            "text": "Sunday"
+          },
+          {
+            "id": "c3",
+            "text": "Tuesday"
+          }
         ]
       },
-      "correct_answer": "Tuesday",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Tuesday comes between Monday and Wednesday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which month comes after January?",
       "type": "mcq",
+      "prompt": "Which month comes after January?",
       "options": {
         "choices": [
-          "August",
-          "January",
-          "February"
+          {
+            "id": "c1",
+            "text": "August"
+          },
+          {
+            "id": "c2",
+            "text": "January"
+          },
+          {
+            "id": "c3",
+            "text": "February"
+          }
         ]
       },
-      "correct_answer": "February",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After January comes February.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which month comes after February?",
       "type": "mcq",
+      "prompt": "Which month comes after February?",
       "options": {
         "choices": [
-          "August",
-          "March",
-          "June"
+          {
+            "id": "c1",
+            "text": "August"
+          },
+          {
+            "id": "c2",
+            "text": "March"
+          },
+          {
+            "id": "c3",
+            "text": "June"
+          }
         ]
       },
-      "correct_answer": "March",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After February comes March.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which month comes between August and October?",
       "type": "mcq",
+      "prompt": "Which month comes between August and October?",
       "options": {
         "choices": [
-          "February",
-          "November",
-          "September"
+          {
+            "id": "c1",
+            "text": "February"
+          },
+          {
+            "id": "c2",
+            "text": "November"
+          },
+          {
+            "id": "c3",
+            "text": "September"
+          }
         ]
       },
-      "correct_answer": "September",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "September comes between August and October.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Which day comes before Wednesday?",
       "type": "mcq",
+      "prompt": "Which day comes before Wednesday?",
       "options": {
         "choices": [
-          "Tuesday",
-          "Saturday",
-          "Wednesday"
+          {
+            "id": "c1",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c2",
+            "text": "Saturday"
+          },
+          {
+            "id": "c3",
+            "text": "Wednesday"
+          }
         ]
       },
-      "correct_answer": "Tuesday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before Wednesday comes Tuesday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which month comes between December and February?",
       "type": "mcq",
+      "prompt": "Which month comes between December and February?",
       "options": {
         "choices": [
-          "January",
-          "October",
-          "August"
+          {
+            "id": "c1",
+            "text": "January"
+          },
+          {
+            "id": "c2",
+            "text": "October"
+          },
+          {
+            "id": "c3",
+            "text": "August"
+          }
         ]
       },
-      "correct_answer": "January",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "January comes between December and February.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "What is the month just before August?",
       "type": "mcq",
+      "prompt": "What is the month just before August?",
       "options": {
         "choices": [
-          "February",
-          "July",
-          "October"
+          {
+            "id": "c1",
+            "text": "February"
+          },
+          {
+            "id": "c2",
+            "text": "July"
+          },
+          {
+            "id": "c3",
+            "text": "October"
+          }
         ]
       },
-      "correct_answer": "July",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before August comes July.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "What is the month just before December?",
       "type": "mcq",
+      "prompt": "What is the month just before December?",
       "options": {
         "choices": [
-          "November",
-          "October",
-          "July"
+          {
+            "id": "c1",
+            "text": "November"
+          },
+          {
+            "id": "c2",
+            "text": "October"
+          },
+          {
+            "id": "c3",
+            "text": "July"
+          }
         ]
       },
-      "correct_answer": "November",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before December comes November.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which day comes before Friday?",
       "type": "mcq",
+      "prompt": "Which day comes before Friday?",
       "options": {
         "choices": [
-          "Sunday",
-          "Saturday",
-          "Thursday"
+          {
+            "id": "c1",
+            "text": "Sunday"
+          },
+          {
+            "id": "c2",
+            "text": "Saturday"
+          },
+          {
+            "id": "c3",
+            "text": "Thursday"
+          }
         ]
       },
-      "correct_answer": "Thursday",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Before Friday comes Thursday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which day comes before Monday?",
       "type": "mcq",
+      "prompt": "Which day comes before Monday?",
       "options": {
         "choices": [
-          "Tuesday",
-          "Sunday",
-          "Saturday"
+          {
+            "id": "c1",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c2",
+            "text": "Sunday"
+          },
+          {
+            "id": "c3",
+            "text": "Saturday"
+          }
         ]
       },
-      "correct_answer": "Sunday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before Monday comes Sunday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "What is the day just before Saturday?",
       "type": "mcq",
+      "prompt": "What is the day just before Saturday?",
       "options": {
         "choices": [
-          "Friday",
-          "Wednesday",
-          "Thursday"
+          {
+            "id": "c1",
+            "text": "Friday"
+          },
+          {
+            "id": "c2",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c3",
+            "text": "Thursday"
+          }
         ]
       },
-      "correct_answer": "Friday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before Saturday comes Friday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which day comes between Thursday and Saturday?",
       "type": "mcq",
+      "prompt": "Which day comes between Thursday and Saturday?",
       "options": {
         "choices": [
-          "Wednesday",
-          "Friday",
-          "Tuesday"
+          {
+            "id": "c1",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c2",
+            "text": "Friday"
+          },
+          {
+            "id": "c3",
+            "text": "Tuesday"
+          }
         ]
       },
-      "correct_answer": "Friday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Friday comes between Thursday and Saturday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "What is the day just before Wednesday?",
       "type": "mcq",
+      "prompt": "What is the day just before Wednesday?",
       "options": {
         "choices": [
-          "Wednesday",
-          "Tuesday",
-          "Saturday"
+          {
+            "id": "c1",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c2",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c3",
+            "text": "Saturday"
+          }
         ]
       },
-      "correct_answer": "Tuesday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before Wednesday comes Tuesday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "What is the day just before Sunday?",
       "type": "mcq",
+      "prompt": "What is the day just before Sunday?",
       "options": {
         "choices": [
-          "Saturday",
-          "Tuesday",
-          "Friday"
+          {
+            "id": "c1",
+            "text": "Saturday"
+          },
+          {
+            "id": "c2",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c3",
+            "text": "Friday"
+          }
         ]
       },
-      "correct_answer": "Saturday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before Sunday comes Saturday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "What is the month right after March?",
       "type": "mcq",
+      "prompt": "What is the month right after March?",
       "options": {
         "choices": [
-          "June",
-          "April",
-          "December"
+          {
+            "id": "c1",
+            "text": "June"
+          },
+          {
+            "id": "c2",
+            "text": "April"
+          },
+          {
+            "id": "c3",
+            "text": "December"
+          }
         ]
       },
-      "correct_answer": "April",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After March comes April.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which day comes after Thursday?",
       "type": "mcq",
+      "prompt": "Which day comes after Thursday?",
       "options": {
         "choices": [
-          "Saturday",
-          "Friday",
-          "Sunday"
+          {
+            "id": "c1",
+            "text": "Saturday"
+          },
+          {
+            "id": "c2",
+            "text": "Friday"
+          },
+          {
+            "id": "c3",
+            "text": "Sunday"
+          }
         ]
       },
-      "correct_answer": "Friday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After Thursday comes Friday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which month comes between March and May?",
       "type": "mcq",
+      "prompt": "Which month comes between March and May?",
       "options": {
         "choices": [
-          "February",
-          "April",
-          "March"
+          {
+            "id": "c1",
+            "text": "February"
+          },
+          {
+            "id": "c2",
+            "text": "April"
+          },
+          {
+            "id": "c3",
+            "text": "March"
+          }
         ]
       },
-      "correct_answer": "April",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "April comes between March and May.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "What is the month just before November?",
       "type": "mcq",
+      "prompt": "What is the month just before November?",
       "options": {
         "choices": [
-          "April",
-          "October",
-          "February"
+          {
+            "id": "c1",
+            "text": "April"
+          },
+          {
+            "id": "c2",
+            "text": "October"
+          },
+          {
+            "id": "c3",
+            "text": "February"
+          }
         ]
       },
-      "correct_answer": "October",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before November comes October.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which month comes before October?",
       "type": "mcq",
+      "prompt": "Which month comes before October?",
       "options": {
         "choices": [
-          "January",
-          "September",
-          "August"
+          {
+            "id": "c1",
+            "text": "January"
+          },
+          {
+            "id": "c2",
+            "text": "September"
+          },
+          {
+            "id": "c3",
+            "text": "August"
+          }
         ]
       },
-      "correct_answer": "September",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before October comes September.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "What is the month right after February?",
       "type": "mcq",
+      "prompt": "What is the month right after February?",
       "options": {
         "choices": [
-          "March",
-          "July",
-          "December"
+          {
+            "id": "c1",
+            "text": "March"
+          },
+          {
+            "id": "c2",
+            "text": "July"
+          },
+          {
+            "id": "c3",
+            "text": "December"
+          }
         ]
       },
-      "correct_answer": "March",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After February comes March.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which of these is a weekend day?",
       "type": "mcq",
+      "prompt": "Which of these is a weekend day?",
       "options": {
         "choices": [
-          "Saturday",
-          "Tuesday",
-          "Monday"
+          {
+            "id": "c1",
+            "text": "Saturday"
+          },
+          {
+            "id": "c2",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c3",
+            "text": "Monday"
+          }
         ]
       },
-      "correct_answer": "Saturday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Saturday is a weekend day.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which is the first month of the year?",
       "type": "mcq",
+      "prompt": "Which is the first month of the year?",
       "options": {
         "choices": [
-          "August",
-          "February",
-          "January"
+          {
+            "id": "c1",
+            "text": "August"
+          },
+          {
+            "id": "c2",
+            "text": "February"
+          },
+          {
+            "id": "c3",
+            "text": "January"
+          }
         ]
       },
-      "correct_answer": "January",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "January is the first month of the year.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "What is the day right after Tuesday?",
       "type": "mcq",
+      "prompt": "What is the day right after Tuesday?",
       "options": {
         "choices": [
-          "Sunday",
-          "Wednesday",
-          "Tuesday"
+          {
+            "id": "c1",
+            "text": "Sunday"
+          },
+          {
+            "id": "c2",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c3",
+            "text": "Tuesday"
+          }
         ]
       },
-      "correct_answer": "Wednesday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After Tuesday comes Wednesday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "What is the day right after Saturday?",
       "type": "mcq",
+      "prompt": "What is the day right after Saturday?",
       "options": {
         "choices": [
-          "Sunday",
-          "Saturday",
-          "Wednesday"
+          {
+            "id": "c1",
+            "text": "Sunday"
+          },
+          {
+            "id": "c2",
+            "text": "Saturday"
+          },
+          {
+            "id": "c3",
+            "text": "Wednesday"
+          }
         ]
       },
-      "correct_answer": "Sunday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After Saturday comes Sunday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Which month comes before January?",
       "type": "mcq",
+      "prompt": "Which month comes before January?",
       "options": {
         "choices": [
-          "March",
-          "April",
-          "December"
+          {
+            "id": "c1",
+            "text": "March"
+          },
+          {
+            "id": "c2",
+            "text": "April"
+          },
+          {
+            "id": "c3",
+            "text": "December"
+          }
         ]
       },
-      "correct_answer": "December",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Before January comes December.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which month comes between February and April?",
       "type": "mcq",
+      "prompt": "Which month comes between February and April?",
       "options": {
         "choices": [
-          "July",
-          "February",
-          "March"
+          {
+            "id": "c1",
+            "text": "July"
+          },
+          {
+            "id": "c2",
+            "text": "February"
+          },
+          {
+            "id": "c3",
+            "text": "March"
+          }
         ]
       },
-      "correct_answer": "March",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "March comes between February and April.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which month comes between June and August?",
       "type": "mcq",
+      "prompt": "Which month comes between June and August?",
       "options": {
         "choices": [
-          "October",
-          "December",
-          "July"
+          {
+            "id": "c1",
+            "text": "October"
+          },
+          {
+            "id": "c2",
+            "text": "December"
+          },
+          {
+            "id": "c3",
+            "text": "July"
+          }
         ]
       },
-      "correct_answer": "July",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "July comes between June and August.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which month comes after August?",
       "type": "mcq",
+      "prompt": "Which month comes after August?",
       "options": {
         "choices": [
-          "January",
-          "December",
-          "September"
+          {
+            "id": "c1",
+            "text": "January"
+          },
+          {
+            "id": "c2",
+            "text": "December"
+          },
+          {
+            "id": "c3",
+            "text": "September"
+          }
         ]
       },
-      "correct_answer": "September",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After August comes September.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "What is the day just before Monday?",
       "type": "mcq",
+      "prompt": "What is the day just before Monday?",
       "options": {
         "choices": [
-          "Monday",
-          "Sunday",
-          "Tuesday"
+          {
+            "id": "c1",
+            "text": "Monday"
+          },
+          {
+            "id": "c2",
+            "text": "Sunday"
+          },
+          {
+            "id": "c3",
+            "text": "Tuesday"
+          }
         ]
       },
-      "correct_answer": "Sunday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before Monday comes Sunday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "What is the month just before February?",
       "type": "mcq",
+      "prompt": "What is the month just before February?",
       "options": {
         "choices": [
-          "May",
-          "January",
-          "August"
+          {
+            "id": "c1",
+            "text": "May"
+          },
+          {
+            "id": "c2",
+            "text": "January"
+          },
+          {
+            "id": "c3",
+            "text": "August"
+          }
         ]
       },
-      "correct_answer": "January",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before February comes January.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which month comes after June?",
       "type": "mcq",
+      "prompt": "Which month comes after June?",
       "options": {
         "choices": [
-          "August",
-          "May",
-          "July"
+          {
+            "id": "c1",
+            "text": "August"
+          },
+          {
+            "id": "c2",
+            "text": "May"
+          },
+          {
+            "id": "c3",
+            "text": "July"
+          }
         ]
       },
-      "correct_answer": "July",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After June comes July.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which day comes after Wednesday?",
       "type": "mcq",
+      "prompt": "Which day comes after Wednesday?",
       "options": {
         "choices": [
-          "Monday",
-          "Saturday",
-          "Thursday"
+          {
+            "id": "c1",
+            "text": "Monday"
+          },
+          {
+            "id": "c2",
+            "text": "Saturday"
+          },
+          {
+            "id": "c3",
+            "text": "Thursday"
+          }
         ]
       },
-      "correct_answer": "Thursday",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After Wednesday comes Thursday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Which month comes before June?",
       "type": "mcq",
+      "prompt": "Which month comes before June?",
       "options": {
         "choices": [
-          "August",
-          "May",
-          "July"
+          {
+            "id": "c1",
+            "text": "August"
+          },
+          {
+            "id": "c2",
+            "text": "May"
+          },
+          {
+            "id": "c3",
+            "text": "July"
+          }
         ]
       },
-      "correct_answer": "May",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before June comes May.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which day comes after Saturday?",
       "type": "mcq",
+      "prompt": "Which day comes after Saturday?",
       "options": {
         "choices": [
-          "Tuesday",
-          "Sunday",
-          "Friday"
+          {
+            "id": "c1",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c2",
+            "text": "Sunday"
+          },
+          {
+            "id": "c3",
+            "text": "Friday"
+          }
         ]
       },
-      "correct_answer": "Sunday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After Saturday comes Sunday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "What is the month just before April?",
       "type": "mcq",
+      "prompt": "What is the month just before April?",
       "options": {
         "choices": [
-          "April",
-          "March",
-          "January"
+          {
+            "id": "c1",
+            "text": "April"
+          },
+          {
+            "id": "c2",
+            "text": "March"
+          },
+          {
+            "id": "c3",
+            "text": "January"
+          }
         ]
       },
-      "correct_answer": "March",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before April comes March.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which month comes before December?",
       "type": "mcq",
+      "prompt": "Which month comes before December?",
       "options": {
         "choices": [
-          "April",
-          "February",
-          "November"
+          {
+            "id": "c1",
+            "text": "April"
+          },
+          {
+            "id": "c2",
+            "text": "February"
+          },
+          {
+            "id": "c3",
+            "text": "November"
+          }
         ]
       },
-      "correct_answer": "November",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Before December comes November.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Which month comes after December?",
       "type": "mcq",
+      "prompt": "Which month comes after December?",
       "options": {
         "choices": [
-          "March",
-          "January",
-          "August"
+          {
+            "id": "c1",
+            "text": "March"
+          },
+          {
+            "id": "c2",
+            "text": "January"
+          },
+          {
+            "id": "c3",
+            "text": "August"
+          }
         ]
       },
-      "correct_answer": "January",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After December comes January.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "What is the day just before Friday?",
       "type": "mcq",
+      "prompt": "What is the day just before Friday?",
       "options": {
         "choices": [
-          "Thursday",
-          "Tuesday",
-          "Friday"
+          {
+            "id": "c1",
+            "text": "Thursday"
+          },
+          {
+            "id": "c2",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c3",
+            "text": "Friday"
+          }
         ]
       },
-      "correct_answer": "Thursday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before Friday comes Thursday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "What is the month right after July?",
       "type": "mcq",
+      "prompt": "What is the month right after July?",
       "options": {
         "choices": [
-          "February",
-          "August",
-          "December"
+          {
+            "id": "c1",
+            "text": "February"
+          },
+          {
+            "id": "c2",
+            "text": "August"
+          },
+          {
+            "id": "c3",
+            "text": "December"
+          }
         ]
       },
-      "correct_answer": "August",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After July comes August.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which month comes before July?",
       "type": "mcq",
+      "prompt": "Which month comes before July?",
       "options": {
         "choices": [
-          "November",
-          "June",
-          "December"
+          {
+            "id": "c1",
+            "text": "November"
+          },
+          {
+            "id": "c2",
+            "text": "June"
+          },
+          {
+            "id": "c3",
+            "text": "December"
+          }
         ]
       },
-      "correct_answer": "June",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before July comes June.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which month comes between October and December?",
       "type": "mcq",
+      "prompt": "Which month comes between October and December?",
       "options": {
         "choices": [
-          "November",
-          "October",
-          "September"
+          {
+            "id": "c1",
+            "text": "November"
+          },
+          {
+            "id": "c2",
+            "text": "October"
+          },
+          {
+            "id": "c3",
+            "text": "September"
+          }
         ]
       },
-      "correct_answer": "November",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "November comes between October and December.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "How many days are there in a week?",
       "type": "mcq",
+      "prompt": "How many days are there in a week?",
       "options": {
         "choices": [
-          "7",
-          "12",
-          "6"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "12"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "There are 7 days in a week.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "What is the day right after Sunday?",
       "type": "mcq",
+      "prompt": "What is the day right after Sunday?",
       "options": {
         "choices": [
-          "Friday",
-          "Wednesday",
-          "Monday"
+          {
+            "id": "c1",
+            "text": "Friday"
+          },
+          {
+            "id": "c2",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c3",
+            "text": "Monday"
+          }
         ]
       },
-      "correct_answer": "Monday",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After Sunday comes Monday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "What is the month just before May?",
       "type": "mcq",
+      "prompt": "What is the month just before May?",
       "options": {
         "choices": [
-          "March",
-          "June",
-          "April"
+          {
+            "id": "c1",
+            "text": "March"
+          },
+          {
+            "id": "c2",
+            "text": "June"
+          },
+          {
+            "id": "c3",
+            "text": "April"
+          }
         ]
       },
-      "correct_answer": "April",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Before May comes April.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which month comes before February?",
       "type": "mcq",
+      "prompt": "Which month comes before February?",
       "options": {
         "choices": [
-          "May",
-          "January",
-          "August"
+          {
+            "id": "c1",
+            "text": "May"
+          },
+          {
+            "id": "c2",
+            "text": "January"
+          },
+          {
+            "id": "c3",
+            "text": "August"
+          }
         ]
       },
-      "correct_answer": "January",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before February comes January.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which month comes before November?",
       "type": "mcq",
+      "prompt": "Which month comes before November?",
       "options": {
         "choices": [
-          "October",
-          "August",
-          "November"
+          {
+            "id": "c1",
+            "text": "October"
+          },
+          {
+            "id": "c2",
+            "text": "August"
+          },
+          {
+            "id": "c3",
+            "text": "November"
+          }
         ]
       },
-      "correct_answer": "October",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before November comes October.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "What is the day just before Thursday?",
       "type": "mcq",
+      "prompt": "What is the day just before Thursday?",
       "options": {
         "choices": [
-          "Wednesday",
-          "Saturday",
-          "Thursday"
+          {
+            "id": "c1",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c2",
+            "text": "Saturday"
+          },
+          {
+            "id": "c3",
+            "text": "Thursday"
+          }
         ]
       },
-      "correct_answer": "Wednesday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before Thursday comes Wednesday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which day comes before Sunday?",
       "type": "mcq",
+      "prompt": "Which day comes before Sunday?",
       "options": {
         "choices": [
-          "Saturday",
-          "Monday",
-          "Friday"
+          {
+            "id": "c1",
+            "text": "Saturday"
+          },
+          {
+            "id": "c2",
+            "text": "Monday"
+          },
+          {
+            "id": "c3",
+            "text": "Friday"
+          }
         ]
       },
-      "correct_answer": "Saturday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before Sunday comes Saturday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "What is the day just before Tuesday?",
       "type": "mcq",
+      "prompt": "What is the day just before Tuesday?",
       "options": {
         "choices": [
-          "Monday",
-          "Thursday",
-          "Wednesday"
+          {
+            "id": "c1",
+            "text": "Monday"
+          },
+          {
+            "id": "c2",
+            "text": "Thursday"
+          },
+          {
+            "id": "c3",
+            "text": "Wednesday"
+          }
         ]
       },
-      "correct_answer": "Monday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before Tuesday comes Monday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which day comes after Tuesday?",
       "type": "mcq",
+      "prompt": "Which day comes after Tuesday?",
       "options": {
         "choices": [
-          "Monday",
-          "Sunday",
-          "Wednesday"
+          {
+            "id": "c1",
+            "text": "Monday"
+          },
+          {
+            "id": "c2",
+            "text": "Sunday"
+          },
+          {
+            "id": "c3",
+            "text": "Wednesday"
+          }
         ]
       },
-      "correct_answer": "Wednesday",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After Tuesday comes Wednesday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "What is the day right after Monday?",
       "type": "mcq",
+      "prompt": "What is the day right after Monday?",
       "options": {
         "choices": [
-          "Thursday",
-          "Saturday",
-          "Tuesday"
+          {
+            "id": "c1",
+            "text": "Thursday"
+          },
+          {
+            "id": "c2",
+            "text": "Saturday"
+          },
+          {
+            "id": "c3",
+            "text": "Tuesday"
+          }
         ]
       },
-      "correct_answer": "Tuesday",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After Monday comes Tuesday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which is the last month of the year?",
       "type": "mcq",
+      "prompt": "Which is the last month of the year?",
       "options": {
         "choices": [
-          "May",
-          "December",
-          "March"
+          {
+            "id": "c1",
+            "text": "May"
+          },
+          {
+            "id": "c2",
+            "text": "December"
+          },
+          {
+            "id": "c3",
+            "text": "March"
+          }
         ]
       },
-      "correct_answer": "December",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "December is the last month of the year.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which day comes between Sunday and Tuesday?",
       "type": "mcq",
+      "prompt": "Which day comes between Sunday and Tuesday?",
       "options": {
         "choices": [
-          "Monday",
-          "Tuesday",
-          "Thursday"
+          {
+            "id": "c1",
+            "text": "Monday"
+          },
+          {
+            "id": "c2",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c3",
+            "text": "Thursday"
+          }
         ]
       },
-      "correct_answer": "Monday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Monday comes between Sunday and Tuesday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "What is the month right after November?",
       "type": "mcq",
+      "prompt": "What is the month right after November?",
       "options": {
         "choices": [
-          "June",
-          "December",
-          "November"
+          {
+            "id": "c1",
+            "text": "June"
+          },
+          {
+            "id": "c2",
+            "text": "December"
+          },
+          {
+            "id": "c3",
+            "text": "November"
+          }
         ]
       },
-      "correct_answer": "December",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After November comes December.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Which month comes between September and November?",
       "type": "mcq",
+      "prompt": "Which month comes between September and November?",
       "options": {
         "choices": [
-          "March",
-          "November",
-          "October"
+          {
+            "id": "c1",
+            "text": "March"
+          },
+          {
+            "id": "c2",
+            "text": "November"
+          },
+          {
+            "id": "c3",
+            "text": "October"
+          }
         ]
       },
-      "correct_answer": "October",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "October comes between September and November.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "What is the month just before September?",
       "type": "mcq",
+      "prompt": "What is the month just before September?",
       "options": {
         "choices": [
-          "August",
-          "March",
-          "June"
+          {
+            "id": "c1",
+            "text": "August"
+          },
+          {
+            "id": "c2",
+            "text": "March"
+          },
+          {
+            "id": "c3",
+            "text": "June"
+          }
         ]
       },
-      "correct_answer": "August",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before September comes August.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "What is the month right after October?",
       "type": "mcq",
+      "prompt": "What is the month right after October?",
       "options": {
         "choices": [
-          "November",
-          "July",
-          "August"
+          {
+            "id": "c1",
+            "text": "November"
+          },
+          {
+            "id": "c2",
+            "text": "July"
+          },
+          {
+            "id": "c3",
+            "text": "August"
+          }
         ]
       },
-      "correct_answer": "November",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After October comes November.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Which month comes before March?",
       "type": "mcq",
+      "prompt": "Which month comes before March?",
       "options": {
         "choices": [
-          "February",
-          "October",
-          "September"
+          {
+            "id": "c1",
+            "text": "February"
+          },
+          {
+            "id": "c2",
+            "text": "October"
+          },
+          {
+            "id": "c3",
+            "text": "September"
+          }
         ]
       },
-      "correct_answer": "February",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before March comes February.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "How many months are there in a year?",
       "type": "mcq",
+      "prompt": "How many months are there in a year?",
       "options": {
         "choices": [
-          "30",
-          "12",
-          "10"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "12"
+          },
+          {
+            "id": "c3",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "There are 12 months in a year.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "What is the month right after September?",
       "type": "mcq",
+      "prompt": "What is the month right after September?",
       "options": {
         "choices": [
-          "November",
-          "October",
-          "February"
+          {
+            "id": "c1",
+            "text": "November"
+          },
+          {
+            "id": "c2",
+            "text": "October"
+          },
+          {
+            "id": "c3",
+            "text": "February"
+          }
         ]
       },
-      "correct_answer": "October",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After September comes October.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which day comes between Tuesday and Thursday?",
       "type": "mcq",
+      "prompt": "Which day comes between Tuesday and Thursday?",
       "options": {
         "choices": [
-          "Sunday",
-          "Wednesday",
-          "Thursday"
+          {
+            "id": "c1",
+            "text": "Sunday"
+          },
+          {
+            "id": "c2",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c3",
+            "text": "Thursday"
+          }
         ]
       },
-      "correct_answer": "Wednesday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Wednesday comes between Tuesday and Thursday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which month comes before April?",
       "type": "mcq",
+      "prompt": "Which month comes before April?",
       "options": {
         "choices": [
-          "March",
-          "December",
-          "April"
+          {
+            "id": "c1",
+            "text": "March"
+          },
+          {
+            "id": "c2",
+            "text": "December"
+          },
+          {
+            "id": "c3",
+            "text": "April"
+          }
         ]
       },
-      "correct_answer": "March",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Before April comes March.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "What is the month right after June?",
       "type": "mcq",
+      "prompt": "What is the month right after June?",
       "options": {
         "choices": [
-          "November",
-          "December",
-          "July"
+          {
+            "id": "c1",
+            "text": "November"
+          },
+          {
+            "id": "c2",
+            "text": "December"
+          },
+          {
+            "id": "c3",
+            "text": "July"
+          }
         ]
       },
-      "correct_answer": "July",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After June comes July.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which month comes after April?",
       "type": "mcq",
+      "prompt": "Which month comes after April?",
       "options": {
         "choices": [
-          "August",
-          "May",
-          "January"
+          {
+            "id": "c1",
+            "text": "August"
+          },
+          {
+            "id": "c2",
+            "text": "May"
+          },
+          {
+            "id": "c3",
+            "text": "January"
+          }
         ]
       },
-      "correct_answer": "May",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After April comes May.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which day comes between Saturday and Monday?",
       "type": "mcq",
+      "prompt": "Which day comes between Saturday and Monday?",
       "options": {
         "choices": [
-          "Friday",
-          "Saturday",
-          "Sunday"
+          {
+            "id": "c1",
+            "text": "Friday"
+          },
+          {
+            "id": "c2",
+            "text": "Saturday"
+          },
+          {
+            "id": "c3",
+            "text": "Sunday"
+          }
         ]
       },
-      "correct_answer": "Sunday",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Sunday comes between Saturday and Monday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which month comes after May?",
       "type": "mcq",
+      "prompt": "Which month comes after May?",
       "options": {
         "choices": [
-          "June",
-          "October",
-          "May"
+          {
+            "id": "c1",
+            "text": "June"
+          },
+          {
+            "id": "c2",
+            "text": "October"
+          },
+          {
+            "id": "c3",
+            "text": "May"
+          }
         ]
       },
-      "correct_answer": "June",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After May comes June.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "What is the month right after May?",
       "type": "mcq",
+      "prompt": "What is the month right after May?",
       "options": {
         "choices": [
-          "June",
-          "January",
-          "February"
+          {
+            "id": "c1",
+            "text": "June"
+          },
+          {
+            "id": "c2",
+            "text": "January"
+          },
+          {
+            "id": "c3",
+            "text": "February"
+          }
         ]
       },
-      "correct_answer": "June",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After May comes June.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Which day comes between Wednesday and Friday?",
       "type": "mcq",
+      "prompt": "Which day comes between Wednesday and Friday?",
       "options": {
         "choices": [
-          "Thursday",
-          "Tuesday",
-          "Sunday"
+          {
+            "id": "c1",
+            "text": "Thursday"
+          },
+          {
+            "id": "c2",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c3",
+            "text": "Sunday"
+          }
         ]
       },
-      "correct_answer": "Thursday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Thursday comes between Wednesday and Friday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Which month comes between November and January?",
       "type": "mcq",
+      "prompt": "Which month comes between November and January?",
       "options": {
         "choices": [
-          "December",
-          "February",
-          "June"
+          {
+            "id": "c1",
+            "text": "December"
+          },
+          {
+            "id": "c2",
+            "text": "February"
+          },
+          {
+            "id": "c3",
+            "text": "June"
+          }
         ]
       },
-      "correct_answer": "December",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "December comes between November and January.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which month comes before August?",
       "type": "mcq",
+      "prompt": "Which month comes before August?",
       "options": {
         "choices": [
-          "May",
-          "July",
-          "November"
+          {
+            "id": "c1",
+            "text": "May"
+          },
+          {
+            "id": "c2",
+            "text": "July"
+          },
+          {
+            "id": "c3",
+            "text": "November"
+          }
         ]
       },
-      "correct_answer": "July",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before August comes July.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Which month comes after September?",
       "type": "mcq",
+      "prompt": "Which month comes after September?",
       "options": {
         "choices": [
-          "August",
-          "October",
-          "May"
+          {
+            "id": "c1",
+            "text": "August"
+          },
+          {
+            "id": "c2",
+            "text": "October"
+          },
+          {
+            "id": "c3",
+            "text": "May"
+          }
         ]
       },
-      "correct_answer": "October",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After September comes October.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Which month comes between January and March?",
       "type": "mcq",
+      "prompt": "Which month comes between January and March?",
       "options": {
         "choices": [
-          "February",
-          "May",
-          "June"
+          {
+            "id": "c1",
+            "text": "February"
+          },
+          {
+            "id": "c2",
+            "text": "May"
+          },
+          {
+            "id": "c3",
+            "text": "June"
+          }
         ]
       },
-      "correct_answer": "February",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "February comes between January and March.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

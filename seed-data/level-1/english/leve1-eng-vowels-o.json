@@ -1,1564 +1,3240 @@
 {
   "_source_file": "leve1_eng_vowels_O.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 91,
-  "exercise": {
-    "slug": "leve1-eng-vowels-o",
-    "title": "Leve1 Eng Vowels O",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 91,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.526Z",
+  "slug": "leve1-eng-vowels-o",
+  "title": "Leve1 Eng Vowels O",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 91,
+  "total_questions": 91,
+  "shuffle": false,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom and Ron went to the toy shop.<br>\nTom and Ron got a box, a top, and a red robot.<br>\nRon said, \"Look at my top. It can hop and spin!\"<br>\nTom said, \"I got a robot. It can nod and bop.\"<br>\nThe robot sat in the box.<br>\nRon put his top on the box.<br>\nTom and Ron had lots of fun at the toy shop.<br>\nThen Mom said, \"Stop. It is not long to go home.\"<br>\nTom and Ron got in the van and went home.\n</div><br>\n<span style=\"color:red;\">1. Where did Tom and Ron go?</span>",
       "type": "mcq",
+      "prompt": "Where did Tom and Ron go?",
       "options": {
         "choices": [
-          "they went home",
-          "they went school",
-          "they went to the shop"
+          {
+            "id": "c1",
+            "text": "they went home"
+          },
+          {
+            "id": "c2",
+            "text": "they went school"
+          },
+          {
+            "id": "c3",
+            "text": "they went to the shop"
+          }
         ]
       },
-      "correct_answer": "they went to the shop",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says Tom and Ron went to the toy shop.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 1
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/1.jpeg"
+      },
+      "order_index": 1,
+      "passage_id": "p1"
     },
     {
       "slug": "q002",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom and Ron went to the toy shop.<br>\nTom and Ron got a box, a top, and a red robot.<br>\nRon said, \"Look at my top. It can hop and spin!\"<br>\nTom said, \"I got a robot. It can nod and bop.\"<br>\nThe robot sat in the box.<br>\nRon put his top on the box.<br>\nTom and Ron had lots of fun at the toy shop.<br>\nThen Mom said, \"Stop. It is not long to go home.\"<br>\nTom and Ron got in the van and went home.\n</div><br>\n<span style=\"color:red;\">2. What kind of shop did Tom and Ron go to?</span>",
       "type": "mcq",
+      "prompt": "What kind of shop did Tom and Ron go to?",
       "options": {
         "choices": [
-          "they went to the grocery shop",
-          "they went to the one dollar shop",
-          "they went to the toy shop"
+          {
+            "id": "c1",
+            "text": "they went to the grocery shop"
+          },
+          {
+            "id": "c2",
+            "text": "they went to the one dollar shop"
+          },
+          {
+            "id": "c3",
+            "text": "they went to the toy shop"
+          }
         ]
       },
-      "correct_answer": "they went to the toy shop",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "It was a toy shop where they bought toys.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 2
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/1.jpeg"
+      },
+      "order_index": 2,
+      "passage_id": "p1"
     },
     {
       "slug": "q003",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom and Ron went to the toy shop.<br>\nTom and Ron got a box, a top, and a red robot.<br>\nRon said, \"Look at my top. It can hop and spin!\"<br>\nTom said, \"I got a robot. It can nod and bop.\"<br>\nThe robot sat in the box.<br>\nRon put his top on the box.<br>\nTom and Ron had lots of fun at the toy shop.<br>\nThen Mom said, \"Stop. It is not long to go home.\"<br>\nTom and Ron got in the van and went home.\n</div><br>\n<span style=\"color:red;\">3. Who went to the toy shop?</span>",
       "type": "mcq",
+      "prompt": "Who went to the toy shop?",
       "options": {
         "choices": [
-          "Tom and Sandy",
-          "Tom and Ron",
-          "Ron and Sandy"
+          {
+            "id": "c1",
+            "text": "Tom and Sandy"
+          },
+          {
+            "id": "c2",
+            "text": "Tom and Ron"
+          },
+          {
+            "id": "c3",
+            "text": "Ron and Sandy"
+          }
         ]
       },
-      "correct_answer": "Tom and Ron",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The two boys in the story are Tom and Ron.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 3
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/1.jpeg"
+      },
+      "order_index": 3,
+      "passage_id": "p1"
     },
     {
       "slug": "q004",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom and Ron went to the toy shop.<br>\nTom and Ron got a box, a top, and a red robot.<br>\nRon said, \"Look at my top. It can hop and spin!\"<br>\nTom said, \"I got a robot. It can nod and bop.\"<br>\nThe robot sat in the box.<br>\nRon put his top on the box.<br>\nTom and Ron had lots of fun at the toy shop.<br>\nThen Mom said, \"Stop. It is not long to go home.\"<br>\nTom and Ron got in the van and went home.\n</div><br>\n<span style=\"color:red;\">4. What did Tom and Ron get from the shop?</span>",
       "type": "mcq",
+      "prompt": "What did Tom and Ron get from the shop?",
       "options": {
         "choices": [
-          "a box, a top, and a red robot",
-          "Tom and Ron got a box",
-          "Toy, car, and red robot"
+          {
+            "id": "c1",
+            "text": "a box, a top, and a red robot"
+          },
+          {
+            "id": "c2",
+            "text": "Tom and Ron got a box"
+          },
+          {
+            "id": "c3",
+            "text": "Toy, car, and red robot"
+          }
         ]
       },
-      "correct_answer": "a box, a top, and a red robot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "They got a box, a top, and a red robot.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 4
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/1.jpeg"
+      },
+      "order_index": 4,
+      "passage_id": "p1"
     },
     {
       "slug": "q005",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom and Ron went to the toy shop.<br>\nTom and Ron got a box, a top, and a red robot.<br>\nRon said, \"Look at my top. It can hop and spin!\"<br>\nTom said, \"I got a robot. It can nod and bop.\"<br>\nThe robot sat in the box.<br>\nRon put his top on the box.<br>\nTom and Ron had lots of fun at the toy shop.<br>\nThen Mom said, \"Stop. It is not long to go home.\"<br>\nTom and Ron got in the van and went home.\n</div><br>\n<span style=\"color:red;\">5. What color was the robot?</span>",
       "type": "mcq",
+      "prompt": "What color was the robot?",
       "options": {
         "choices": [
-          "blue",
-          "red",
-          "yellow"
+          {
+            "id": "c1",
+            "text": "blue"
+          },
+          {
+            "id": "c2",
+            "text": "red"
+          },
+          {
+            "id": "c3",
+            "text": "yellow"
+          }
         ]
       },
-      "correct_answer": "red",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The robot was red.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 5
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/1.jpeg"
+      },
+      "order_index": 5,
+      "passage_id": "p1"
     },
     {
       "slug": "q006",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom and Ron went to the toy shop.<br>\nTom and Ron got a box, a top, and a red robot.<br>\nRon said, \"Look at my top. It can hop and spin!\"<br>\nTom said, \"I got a robot. It can nod and bop.\"<br>\nThe robot sat in the box.<br>\nRon put his top on the box.<br>\nTom and Ron had lots of fun at the toy shop.<br>\nThen Mom said, \"Stop. It is not long to go home.\"<br>\nTom and Ron got in the van and went home.\n</div><br>\n<span style=\"color:red;\">6. What did Tom and Ron get from the shop?</span>",
       "type": "mcq",
+      "prompt": "What did Tom and Ron get from the shop?",
       "options": {
         "choices": [
-          "a box, a top, and a red robot",
-          "Tom and Ron got a box",
-          "Toy, car, and red robot"
+          {
+            "id": "c1",
+            "text": "a box, a top, and a red robot"
+          },
+          {
+            "id": "c2",
+            "text": "Tom and Ron got a box"
+          },
+          {
+            "id": "c3",
+            "text": "Toy, car, and red robot"
+          }
         ]
       },
-      "correct_answer": "a box, a top, and a red robot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "They got a box, a top, and a red robot.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 6
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/1.jpeg"
+      },
+      "order_index": 6,
+      "passage_id": "p1"
     },
     {
       "slug": "q007",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom and Ron went to the toy shop.<br>\nTom and Ron got a box, a top, and a red robot.<br>\nRon said, \"Look at my top. It can hop and spin!\"<br>\nTom said, \"I got a robot. It can nod and bop.\"<br>\nThe robot sat in the box.<br>\nRon put his top on the box.<br>\nTom and Ron had lots of fun at the toy shop.<br>\nThen Mom said, \"Stop. It is not long to go home.\"<br>\nTom and Ron got in the van and went home.\n</div><br>\n<span style=\"color:red;\">7. What did Ron get?</span>",
       "type": "mcq",
+      "prompt": "What did Ron get?",
       "options": {
         "choices": [
-          "a car and teddy",
-          "a top",
-          "a teddy"
+          {
+            "id": "c1",
+            "text": "a car and teddy"
+          },
+          {
+            "id": "c2",
+            "text": "a top"
+          },
+          {
+            "id": "c3",
+            "text": "a teddy"
+          }
         ]
       },
-      "correct_answer": "a top",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ron got a top that can hop and spin.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 7
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/1.jpeg"
+      },
+      "order_index": 7,
+      "passage_id": "p1"
     },
     {
       "slug": "q008",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom and Ron went to the toy shop.<br>\nTom and Ron got a box, a top, and a red robot.<br>\nRon said, \"Look at my top. It can hop and spin!\"<br>\nTom said, \"I got a robot. It can nod and bop.\"<br>\nThe robot sat in the box.<br>\nRon put his top on the box.<br>\nTom and Ron had lots of fun at the toy shop.<br>\nThen Mom said, \"Stop. It is not long to go home.\"<br>\nTom and Ron got in the van and went home.\n</div><br>\n<span style=\"color:red;\">8. What could the top do?</span>",
       "type": "mcq",
+      "prompt": "What could the top do?",
       "options": {
         "choices": [
-          "write and spin",
-          "hop and spin",
-          "hop and fly"
+          {
+            "id": "c1",
+            "text": "write and spin"
+          },
+          {
+            "id": "c2",
+            "text": "hop and spin"
+          },
+          {
+            "id": "c3",
+            "text": "hop and fly"
+          }
         ]
       },
-      "correct_answer": "hop and spin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ron said the top can hop and spin.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 8
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/1.jpeg"
+      },
+      "order_index": 8,
+      "passage_id": "p1"
     },
     {
       "slug": "q009",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom and Ron went to the toy shop.<br>\nTom and Ron got a box, a top, and a red robot.<br>\nRon said, \"Look at my top. It can hop and spin!\"<br>\nTom said, \"I got a robot. It can nod and bop.\"<br>\nThe robot sat in the box.<br>\nRon put his top on the box.<br>\nTom and Ron had lots of fun at the toy shop.<br>\nThen Mom said, \"Stop. It is not long to go home.\"<br>\nTom and Ron got in the van and went home.\n</div><br>\n<span style=\"color:red;\">9. What did Tom get?</span>",
       "type": "mcq",
+      "prompt": "What did Tom get?",
       "options": {
         "choices": [
-          "a red rock",
-          "a red stone",
-          "a red robot"
+          {
+            "id": "c1",
+            "text": "a red rock"
+          },
+          {
+            "id": "c2",
+            "text": "a red stone"
+          },
+          {
+            "id": "c3",
+            "text": "a red robot"
+          }
         ]
       },
-      "correct_answer": "a red robot",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Tom got a red robot.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 9
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/1.jpeg"
+      },
+      "order_index": 9,
+      "passage_id": "p1"
     },
     {
       "slug": "q010",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom and Ron went to the toy shop.<br>\nTom and Ron got a box, a top, and a red robot.<br>\nRon said, \"Look at my top. It can hop and spin!\"<br>\nTom said, \"I got a robot. It can nod and bop.\"<br>\nThe robot sat in the box.<br>\nRon put his top on the box.<br>\nTom and Ron had lots of fun at the toy shop.<br>\nThen Mom said, \"Stop. It is not long to go home.\"<br>\nTom and Ron got in the van and went home.\n</div><br>\n<span style=\"color:red;\">10. What could the robot do?</span>",
       "type": "mcq",
+      "prompt": "What could the robot do?",
       "options": {
         "choices": [
-          "hop and cry",
-          "nod and bop",
-          "write and draw"
+          {
+            "id": "c1",
+            "text": "hop and cry"
+          },
+          {
+            "id": "c2",
+            "text": "nod and bop"
+          },
+          {
+            "id": "c3",
+            "text": "write and draw"
+          }
         ]
       },
-      "correct_answer": "nod and bop",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Tom said the robot can nod and bop.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 10
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/1.jpeg"
+      },
+      "order_index": 10,
+      "passage_id": "p1"
     },
     {
       "slug": "q011",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom and Ron went to the toy shop.<br>\nTom and Ron got a box, a top, and a red robot.<br>\nRon said, \"Look at my top. It can hop and spin!\"<br>\nTom said, \"I got a robot. It can nod and bop.\"<br>\nThe robot sat in the box.<br>\nRon put his top on the box.<br>\nTom and Ron had lots of fun at the toy shop.<br>\nThen Mom said, \"Stop. It is not long to go home.\"<br>\nTom and Ron got in the van and went home.\n</div><br>\n<span style=\"color:red;\">11. How many kids were in the shop?</span>",
       "type": "mcq",
+      "prompt": "How many kids were in the shop?",
       "options": {
         "choices": [
-          "two children",
-          "three children",
-          "one child"
+          {
+            "id": "c1",
+            "text": "two children"
+          },
+          {
+            "id": "c2",
+            "text": "three children"
+          },
+          {
+            "id": "c3",
+            "text": "one child"
+          }
         ]
       },
-      "correct_answer": "two children",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Only Tom and Ron, so two children.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 11
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/1.jpeg"
+      },
+      "order_index": 11,
+      "passage_id": "p1"
     },
     {
       "slug": "q012",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJohn likes to jog.<br>\nJohn jogs to the dock.<br>\nJohn hops on the rocks.<br>\nJohn looks at the pond.<br>\nJohn spots a frog on a log.<br>\nNow, John is hot.<br>\nJohn sits on the dock.<br>\nPlop! John drops his cap on the rocks.<br>\nJohn pops up.<br>\nHe jogs back home.\n</div><br>\n<span style=\"color:red;\">12. What is the name of the character in the story?</span>",
       "type": "mcq",
+      "prompt": "What is the name of the character in the story?",
       "options": {
         "choices": [
-          "Tom",
-          "frog",
-          "John"
+          {
+            "id": "c1",
+            "text": "Tom"
+          },
+          {
+            "id": "c2",
+            "text": "frog"
+          },
+          {
+            "id": "c3",
+            "text": "John"
+          }
         ]
       },
-      "correct_answer": "John",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The character in this story is John.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 12
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/2.jpeg"
+      },
+      "order_index": 12,
+      "passage_id": "p2"
     },
     {
       "slug": "q013",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJohn likes to jog.<br>\nJohn jogs to the dock.<br>\nJohn hops on the rocks.<br>\nJohn looks at the pond.<br>\nJohn spots a frog on a log.<br>\nNow, John is hot.<br>\nJohn sits on the dock.<br>\nPlop! John drops his cap on the rocks.<br>\nJohn pops up.<br>\nHe jogs back home.\n</div><br>\n<span style=\"color:red;\">13. What does John like to do?</span>",
       "type": "mcq",
+      "prompt": "What does John like to do?",
       "options": {
         "choices": [
-          "jog and sleep",
-          "jog",
-          "write"
+          {
+            "id": "c1",
+            "text": "jog and sleep"
+          },
+          {
+            "id": "c2",
+            "text": "jog"
+          },
+          {
+            "id": "c3",
+            "text": "write"
+          }
         ]
       },
-      "correct_answer": "jog",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "John likes to jog.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 13
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/2.jpeg"
+      },
+      "order_index": 13,
+      "passage_id": "p2"
     },
     {
       "slug": "q014",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJohn likes to jog.<br>\nJohn jogs to the dock.<br>\nJohn hops on the rocks.<br>\nJohn looks at the pond.<br>\nJohn spots a frog on a log.<br>\nNow, John is hot.<br>\nJohn sits on the dock.<br>\nPlop! John drops his cap on the rocks.<br>\nJohn pops up.<br>\nHe jogs back home.\n</div><br>\n<span style=\"color:red;\">14. Where does John jog?</span>",
       "type": "mcq",
+      "prompt": "Where does John jog?",
       "options": {
         "choices": [
-          "to the flowers",
-          "to the dock",
-          "to the table"
+          {
+            "id": "c1",
+            "text": "to the flowers"
+          },
+          {
+            "id": "c2",
+            "text": "to the dock"
+          },
+          {
+            "id": "c3",
+            "text": "to the table"
+          }
         ]
       },
-      "correct_answer": "to the dock",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "John jogs to the dock.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 14
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/2.jpeg"
+      },
+      "order_index": 14,
+      "passage_id": "p2"
     },
     {
       "slug": "q015",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJohn likes to jog.<br>\nJohn jogs to the dock.<br>\nJohn hops on the rocks.<br>\nJohn looks at the pond.<br>\nJohn spots a frog on a log.<br>\nNow, John is hot.<br>\nJohn sits on the dock.<br>\nPlop! John drops his cap on the rocks.<br>\nJohn pops up.<br>\nHe jogs back home.\n</div><br>\n<span style=\"color:red;\">15. Where does John hop?</span>",
       "type": "mcq",
+      "prompt": "Where does John hop?",
       "options": {
         "choices": [
-          "John hops on the couch",
-          "John hops on the rocks",
-          "John hops on the flowers"
+          {
+            "id": "c1",
+            "text": "John hops on the couch"
+          },
+          {
+            "id": "c2",
+            "text": "John hops on the rocks"
+          },
+          {
+            "id": "c3",
+            "text": "John hops on the flowers"
+          }
         ]
       },
-      "correct_answer": "John hops on the rocks",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "John hops on the rocks.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 15
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/2.jpeg"
+      },
+      "order_index": 15,
+      "passage_id": "p2"
     },
     {
       "slug": "q016",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJohn likes to jog.<br>\nJohn jogs to the dock.<br>\nJohn hops on the rocks.<br>\nJohn looks at the pond.<br>\nJohn spots a frog on a log.<br>\nNow, John is hot.<br>\nJohn sits on the dock.<br>\nPlop! John drops his cap on the rocks.<br>\nJohn pops up.<br>\nHe jogs back home.\n</div><br>\n<span style=\"color:red;\">16. What does John look at?</span>",
       "type": "mcq",
+      "prompt": "What does John look at?",
       "options": {
         "choices": [
-          "John looks at the moon",
-          "John looks at the sun",
-          "John looks at the pond"
+          {
+            "id": "c1",
+            "text": "John looks at the moon"
+          },
+          {
+            "id": "c2",
+            "text": "John looks at the sun"
+          },
+          {
+            "id": "c3",
+            "text": "John looks at the pond"
+          }
         ]
       },
-      "correct_answer": "John looks at the pond",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "John looks at the pond.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 16
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/2.jpeg"
+      },
+      "order_index": 16,
+      "passage_id": "p2"
     },
     {
       "slug": "q017",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJohn likes to jog.<br>\nJohn jogs to the dock.<br>\nJohn hops on the rocks.<br>\nJohn looks at the pond.<br>\nJohn spots a frog on a log.<br>\nNow, John is hot.<br>\nJohn sits on the dock.<br>\nPlop! John drops his cap on the rocks.<br>\nJohn pops up.<br>\nHe jogs back home.\n</div><br>\n<span style=\"color:red;\">17. What does John spot?</span>",
       "type": "mcq",
+      "prompt": "What does John spot?",
       "options": {
         "choices": [
-          "John spots a frog on the dog",
-          "John spots a frog on the table",
-          "John spots a frog on the log"
+          {
+            "id": "c1",
+            "text": "John spots a frog on the dog"
+          },
+          {
+            "id": "c2",
+            "text": "John spots a frog on the table"
+          },
+          {
+            "id": "c3",
+            "text": "John spots a frog on the log"
+          }
         ]
       },
-      "correct_answer": "John spots a frog on the log",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "John spots a frog on a log.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 17
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/2.jpeg"
+      },
+      "order_index": 17,
+      "passage_id": "p2"
     },
     {
       "slug": "q018",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJohn likes to jog.<br>\nJohn jogs to the dock.<br>\nJohn hops on the rocks.<br>\nJohn looks at the pond.<br>\nJohn spots a frog on a log.<br>\nNow, John is hot.<br>\nJohn sits on the dock.<br>\nPlop! John drops his cap on the rocks.<br>\nJohn pops up.<br>\nHe jogs back home.\n</div><br>\n<span style=\"color:red;\">18. Why does John sit on the dock?</span>",
       "type": "mcq",
+      "prompt": "Why does John sit on the dock?",
       "options": {
         "choices": [
-          "John is sad",
-          "John is hot",
-          "John is cold"
+          {
+            "id": "c1",
+            "text": "John is sad"
+          },
+          {
+            "id": "c2",
+            "text": "John is hot"
+          },
+          {
+            "id": "c3",
+            "text": "John is cold"
+          }
         ]
       },
-      "correct_answer": "John is hot",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "John sits down because he is hot.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 18
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/2.jpeg"
+      },
+      "order_index": 18,
+      "passage_id": "p2"
     },
     {
       "slug": "q019",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJohn likes to jog.<br>\nJohn jogs to the dock.<br>\nJohn hops on the rocks.<br>\nJohn looks at the pond.<br>\nJohn spots a frog on a log.<br>\nNow, John is hot.<br>\nJohn sits on the dock.<br>\nPlop! John drops his cap on the rocks.<br>\nJohn pops up.<br>\nHe jogs back home.\n</div><br>\n<span style=\"color:red;\">19. Where does John sit?</span>",
       "type": "mcq",
+      "prompt": "Where does John sit?",
       "options": {
         "choices": [
-          "on the mat",
-          "on the dock",
-          "on the rocks"
+          {
+            "id": "c1",
+            "text": "on the mat"
+          },
+          {
+            "id": "c2",
+            "text": "on the dock"
+          },
+          {
+            "id": "c3",
+            "text": "on the rocks"
+          }
         ]
       },
-      "correct_answer": "on the dock",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "John sits on the dock.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 19
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/2.jpeg"
+      },
+      "order_index": 19,
+      "passage_id": "p2"
     },
     {
       "slug": "q020",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJohn likes to jog.<br>\nJohn jogs to the dock.<br>\nJohn hops on the rocks.<br>\nJohn looks at the pond.<br>\nJohn spots a frog on a log.<br>\nNow, John is hot.<br>\nJohn sits on the dock.<br>\nPlop! John drops his cap on the rocks.<br>\nJohn pops up.<br>\nHe jogs back home.\n</div><br>\n<span style=\"color:red;\">20. What does John drop on the rocks?</span>",
       "type": "mcq",
+      "prompt": "What does John drop on the rocks?",
       "options": {
         "choices": [
-          "his shoes",
-          "his cap",
-          "his necklace"
+          {
+            "id": "c1",
+            "text": "his shoes"
+          },
+          {
+            "id": "c2",
+            "text": "his cap"
+          },
+          {
+            "id": "c3",
+            "text": "his necklace"
+          }
         ]
       },
-      "correct_answer": "his cap",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "John drops his cap on the rocks.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 20
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/2.jpeg"
+      },
+      "order_index": 20,
+      "passage_id": "p2"
     },
     {
       "slug": "q021",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJohn likes to jog.<br>\nJohn jogs to the dock.<br>\nJohn hops on the rocks.<br>\nJohn looks at the pond.<br>\nJohn spots a frog on a log.<br>\nNow, John is hot.<br>\nJohn sits on the dock.<br>\nPlop! John drops his cap on the rocks.<br>\nJohn pops up.<br>\nHe jogs back home.\n</div><br>\n<span style=\"color:red;\">21. Where does John jog back to?</span>",
       "type": "mcq",
+      "prompt": "Where does John jog back to?",
       "options": {
         "choices": [
-          "John jogs back home",
-          "John jogs to school",
-          "John jogs to hospital"
+          {
+            "id": "c1",
+            "text": "John jogs back home"
+          },
+          {
+            "id": "c2",
+            "text": "John jogs to school"
+          },
+          {
+            "id": "c3",
+            "text": "John jogs to hospital"
+          }
         ]
       },
-      "correct_answer": "John jogs back home",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "John jogs back home.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 21
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/2.jpeg"
+      },
+      "order_index": 21,
+      "passage_id": "p2"
     },
     {
       "slug": "q022",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBob jogs.<br>\nBob got a big frog.<br>\nBob likes the frog a lot.<br>\nHop! Hop! went the frog.<br>\nBob hops on a log.<br>\nBob hops on rocks.<br>\nThe frog sits on a log.<br>\nBob looks on.<br>\nThe frog plops in the pond.<br>\nBob jogs to the dock.<br>\nBob sits on the dock.<br>\nThe frog pops up.<br>\nBob and the frog jog home.\n</div><br>\n<span style=\"color:red;\">22. What did Bob get?</span>",
       "type": "mcq",
+      "prompt": "What did Bob get?",
       "options": {
         "choices": [
-          "a big fish",
-          "a big cow",
-          "a big frog"
+          {
+            "id": "c1",
+            "text": "a big fish"
+          },
+          {
+            "id": "c2",
+            "text": "a big cow"
+          },
+          {
+            "id": "c3",
+            "text": "a big frog"
+          }
         ]
       },
-      "correct_answer": "a big frog",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Bob got a big frog.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 22
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/3.jpeg"
+      },
+      "order_index": 22,
+      "passage_id": "p3"
     },
     {
       "slug": "q023",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBob jogs.<br>\nBob got a big frog.<br>\nBob likes the frog a lot.<br>\nHop! Hop! went the frog.<br>\nBob hops on a log.<br>\nBob hops on rocks.<br>\nThe frog sits on a log.<br>\nBob looks on.<br>\nThe frog plops in the pond.<br>\nBob jogs to the dock.<br>\nBob sits on the dock.<br>\nThe frog pops up.<br>\nBob and the frog jog home.\n</div><br>\n<span style=\"color:red;\">23. What does Bob like a lot?</span>",
       "type": "mcq",
+      "prompt": "What does Bob like a lot?",
       "options": {
         "choices": [
-          "a frog",
-          "a pig",
-          "a spider"
+          {
+            "id": "c1",
+            "text": "a frog"
+          },
+          {
+            "id": "c2",
+            "text": "a pig"
+          },
+          {
+            "id": "c3",
+            "text": "a spider"
+          }
         ]
       },
-      "correct_answer": "a frog",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Bob likes the frog a lot.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 23
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/3.jpeg"
+      },
+      "order_index": 23,
+      "passage_id": "p3"
     },
     {
       "slug": "q024",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBob jogs.<br>\nBob got a big frog.<br>\nBob likes the frog a lot.<br>\nHop! Hop! went the frog.<br>\nBob hops on a log.<br>\nBob hops on rocks.<br>\nThe frog sits on a log.<br>\nBob looks on.<br>\nThe frog plops in the pond.<br>\nBob jogs to the dock.<br>\nBob sits on the dock.<br>\nThe frog pops up.<br>\nBob and the frog jog home.\n</div><br>\n<span style=\"color:red;\">24. What did the frog do, hop or fly?</span>",
       "type": "mcq",
+      "prompt": "What did the frog do, hop or fly?",
       "options": {
         "choices": [
-          "the frog flew",
-          "the frog sang",
-          "the frog hops"
+          {
+            "id": "c1",
+            "text": "the frog flew"
+          },
+          {
+            "id": "c2",
+            "text": "the frog sang"
+          },
+          {
+            "id": "c3",
+            "text": "the frog hops"
+          }
         ]
       },
-      "correct_answer": "the frog hops",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The frog hops (Hop! Hop! went the frog).",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 24
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/3.jpeg"
+      },
+      "order_index": 24,
+      "passage_id": "p3"
     },
     {
       "slug": "q025",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBob jogs.<br>\nBob got a big frog.<br>\nBob likes the frog a lot.<br>\nHop! Hop! went the frog.<br>\nBob hops on a log.<br>\nBob hops on rocks.<br>\nThe frog sits on a log.<br>\nBob looks on.<br>\nThe frog plops in the pond.<br>\nBob jogs to the dock.<br>\nBob sits on the dock.<br>\nThe frog pops up.<br>\nBob and the frog jog home.\n</div><br>\n<span style=\"color:red;\">25. Where does Bob hop first?</span>",
       "type": "mcq",
+      "prompt": "Where does Bob hop first?",
       "options": {
         "choices": [
-          "on a log",
-          "on a car",
-          "on a bath"
+          {
+            "id": "c1",
+            "text": "on a log"
+          },
+          {
+            "id": "c2",
+            "text": "on a car"
+          },
+          {
+            "id": "c3",
+            "text": "on a bath"
+          }
         ]
       },
-      "correct_answer": "on a log",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Bob hops on a log first.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 25
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/3.jpeg"
+      },
+      "order_index": 25,
+      "passage_id": "p3"
     },
     {
       "slug": "q026",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBob jogs.<br>\nBob got a big frog.<br>\nBob likes the frog a lot.<br>\nHop! Hop! went the frog.<br>\nBob hops on a log.<br>\nBob hops on rocks.<br>\nThe frog sits on a log.<br>\nBob looks on.<br>\nThe frog plops in the pond.<br>\nBob jogs to the dock.<br>\nBob sits on the dock.<br>\nThe frog pops up.<br>\nBob and the frog jog home.\n</div><br>\n<span style=\"color:red;\">26. Where does Bob hop second?</span>",
       "type": "mcq",
+      "prompt": "Where does Bob hop second?",
       "options": {
         "choices": [
-          "on a log",
-          "on a car",
-          "on the rocks"
+          {
+            "id": "c1",
+            "text": "on a log"
+          },
+          {
+            "id": "c2",
+            "text": "on a car"
+          },
+          {
+            "id": "c3",
+            "text": "on the rocks"
+          }
         ]
       },
-      "correct_answer": "on the rocks",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Bob hops on the rocks second.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 26
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/3.jpeg"
+      },
+      "order_index": 26,
+      "passage_id": "p3"
     },
     {
       "slug": "q027",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBob jogs.<br>\nBob got a big frog.<br>\nBob likes the frog a lot.<br>\nHop! Hop! went the frog.<br>\nBob hops on a log.<br>\nBob hops on rocks.<br>\nThe frog sits on a log.<br>\nBob looks on.<br>\nThe frog plops in the pond.<br>\nBob jogs to the dock.<br>\nBob sits on the dock.<br>\nThe frog pops up.<br>\nBob and the frog jog home.\n</div><br>\n<span style=\"color:red;\">27. Where does the frog sit?</span>",
       "type": "mcq",
+      "prompt": "Where does the frog sit?",
       "options": {
         "choices": [
-          "on the couch",
-          "on the sock",
-          "on the log"
+          {
+            "id": "c1",
+            "text": "on the couch"
+          },
+          {
+            "id": "c2",
+            "text": "on the sock"
+          },
+          {
+            "id": "c3",
+            "text": "on the log"
+          }
         ]
       },
-      "correct_answer": "on the log",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The frog sits on a log.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 27
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/3.jpeg"
+      },
+      "order_index": 27,
+      "passage_id": "p3"
     },
     {
       "slug": "q028",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBob jogs.<br>\nBob got a big frog.<br>\nBob likes the frog a lot.<br>\nHop! Hop! went the frog.<br>\nBob hops on a log.<br>\nBob hops on rocks.<br>\nThe frog sits on a log.<br>\nBob looks on.<br>\nThe frog plops in the pond.<br>\nBob jogs to the dock.<br>\nBob sits on the dock.<br>\nThe frog pops up.<br>\nBob and the frog jog home.\n</div><br>\n<span style=\"color:red;\">28. Where does the frog plop?</span>",
       "type": "mcq",
+      "prompt": "Where does the frog plop?",
       "options": {
         "choices": [
-          "in the pool",
-          "in the pond",
-          "in the air"
+          {
+            "id": "c1",
+            "text": "in the pool"
+          },
+          {
+            "id": "c2",
+            "text": "in the pond"
+          },
+          {
+            "id": "c3",
+            "text": "in the air"
+          }
         ]
       },
-      "correct_answer": "in the pond",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The frog plops in the pond.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 28
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/3.jpeg"
+      },
+      "order_index": 28,
+      "passage_id": "p3"
     },
     {
       "slug": "q029",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBob jogs.<br>\nBob got a big frog.<br>\nBob likes the frog a lot.<br>\nHop! Hop! went the frog.<br>\nBob hops on a log.<br>\nBob hops on rocks.<br>\nThe frog sits on a log.<br>\nBob looks on.<br>\nThe frog plops in the pond.<br>\nBob jogs to the dock.<br>\nBob sits on the dock.<br>\nThe frog pops up.<br>\nBob and the frog jog home.\n</div><br>\n<span style=\"color:red;\">29. Where does Bob jog?</span>",
       "type": "mcq",
+      "prompt": "Where does Bob jog?",
       "options": {
         "choices": [
-          "to the dock",
-          "to the house",
-          "to the hospital"
+          {
+            "id": "c1",
+            "text": "to the dock"
+          },
+          {
+            "id": "c2",
+            "text": "to the house"
+          },
+          {
+            "id": "c3",
+            "text": "to the hospital"
+          }
         ]
       },
-      "correct_answer": "to the dock",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Bob jogs to the dock.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 29
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/3.jpeg"
+      },
+      "order_index": 29,
+      "passage_id": "p3"
     },
     {
       "slug": "q030",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBob jogs.<br>\nBob got a big frog.<br>\nBob likes the frog a lot.<br>\nHop! Hop! went the frog.<br>\nBob hops on a log.<br>\nBob hops on rocks.<br>\nThe frog sits on a log.<br>\nBob looks on.<br>\nThe frog plops in the pond.<br>\nBob jogs to the dock.<br>\nBob sits on the dock.<br>\nThe frog pops up.<br>\nBob and the frog jog home.\n</div><br>\n<span style=\"color:red;\">30. Where does Bob sit?</span>",
       "type": "mcq",
+      "prompt": "Where does Bob sit?",
       "options": {
         "choices": [
-          "Bob sits in the chair",
-          "Bob sits on the dock",
-          "Bob sits on the frog"
+          {
+            "id": "c1",
+            "text": "Bob sits in the chair"
+          },
+          {
+            "id": "c2",
+            "text": "Bob sits on the dock"
+          },
+          {
+            "id": "c3",
+            "text": "Bob sits on the frog"
+          }
         ]
       },
-      "correct_answer": "Bob sits on the dock",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Bob sits on the dock.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 30
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/3.jpeg"
+      },
+      "order_index": 30,
+      "passage_id": "p3"
     },
     {
       "slug": "q031",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBob jogs.<br>\nBob got a big frog.<br>\nBob likes the frog a lot.<br>\nHop! Hop! went the frog.<br>\nBob hops on a log.<br>\nBob hops on rocks.<br>\nThe frog sits on a log.<br>\nBob looks on.<br>\nThe frog plops in the pond.<br>\nBob jogs to the dock.<br>\nBob sits on the dock.<br>\nThe frog pops up.<br>\nBob and the frog jog home.\n</div><br>\n<span style=\"color:red;\">31. What do Bob and the frog do?</span>",
       "type": "mcq",
+      "prompt": "What do Bob and the frog do?",
       "options": {
         "choices": [
-          "Bob and frog jog to the moon",
-          "Bob and frog jog home",
-          "Bob and frog jog to the lake"
+          {
+            "id": "c1",
+            "text": "Bob and frog jog to the moon"
+          },
+          {
+            "id": "c2",
+            "text": "Bob and frog jog home"
+          },
+          {
+            "id": "c3",
+            "text": "Bob and frog jog to the lake"
+          }
         ]
       },
-      "correct_answer": "Bob and frog jog home",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Bob and the frog jog home.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 31
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/3.jpeg"
+      },
+      "order_index": 31,
+      "passage_id": "p3"
     },
     {
       "slug": "q032",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBob jogs.<br>\nBob got a big frog.<br>\nBob likes the frog a lot.<br>\nHop! Hop! went the frog.<br>\nBob hops on a log.<br>\nBob hops on rocks.<br>\nThe frog sits on a log.<br>\nBob looks on.<br>\nThe frog plops in the pond.<br>\nBob jogs to the dock.<br>\nBob sits on the dock.<br>\nThe frog pops up.<br>\nBob and the frog jog home.\n</div><br>\n<span style=\"color:red;\">32. How many animals are there in the story?</span>",
       "type": "mcq",
+      "prompt": "How many animals are there in the story?",
       "options": {
         "choices": [
-          "one animal",
-          "two animals",
-          "three animals"
+          {
+            "id": "c1",
+            "text": "one animal"
+          },
+          {
+            "id": "c2",
+            "text": "two animals"
+          },
+          {
+            "id": "c3",
+            "text": "three animals"
+          }
         ]
       },
-      "correct_answer": "one animal",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Only the frog is an animal, so one animal.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 32
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/3.jpeg"
+      },
+      "order_index": 32,
+      "passage_id": "p3"
     },
     {
       "slug": "q033",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRod the dog likes to hop.<br>\nRod hops on a cot.<br>\nRod hops on a log.<br>\nRod hops on a box.<br>\nRod hops on a rock.<br>\nRod hops on a ball.<br>\nHop! Hop! Hop!<br>\nRod does a big hop.<br>\nOh no!<br>\nThe ball pops.<br>\nPop! Pop!<br>\nRod stops.<br>\nRod flops on the cot.\n</div><br>\n<span style=\"color:red;\">33. What does Rod the dog like to do?</span>",
       "type": "mcq",
+      "prompt": "What does Rod the dog like to do?",
       "options": {
         "choices": [
-          "Rod the dog likes to cry",
-          "Rod the dog likes to jump",
-          "Rod the dog likes to hop"
+          {
+            "id": "c1",
+            "text": "Rod the dog likes to cry"
+          },
+          {
+            "id": "c2",
+            "text": "Rod the dog likes to jump"
+          },
+          {
+            "id": "c3",
+            "text": "Rod the dog likes to hop"
+          }
         ]
       },
-      "correct_answer": "Rod the dog likes to hop",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Rod the dog likes to hop.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 33
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/4.jpeg"
+      },
+      "order_index": 33,
+      "passage_id": "p4"
     },
     {
       "slug": "q034",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRod the dog likes to hop.<br>\nRod hops on a cot.<br>\nRod hops on a log.<br>\nRod hops on a box.<br>\nRod hops on a rock.<br>\nRod hops on a ball.<br>\nHop! Hop! Hop!<br>\nRod does a big hop.<br>\nOh no!<br>\nThe ball pops.<br>\nPop! Pop!<br>\nRod stops.<br>\nRod flops on the cot.\n</div><br>\n<span style=\"color:red;\">34. What did Rod do first?</span>",
       "type": "mcq",
+      "prompt": "What did Rod do first?",
       "options": {
         "choices": [
-          "Rod hops on a cot",
-          "Rod hops on a map",
-          "Rod hops on a car"
+          {
+            "id": "c1",
+            "text": "Rod hops on a cot"
+          },
+          {
+            "id": "c2",
+            "text": "Rod hops on a map"
+          },
+          {
+            "id": "c3",
+            "text": "Rod hops on a car"
+          }
         ]
       },
-      "correct_answer": "Rod hops on a cot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Rod hops on a cot first.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 34
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/4.jpeg"
+      },
+      "order_index": 34,
+      "passage_id": "p4"
     },
     {
       "slug": "q035",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRod the dog likes to hop.<br>\nRod hops on a cot.<br>\nRod hops on a log.<br>\nRod hops on a box.<br>\nRod hops on a rock.<br>\nRod hops on a ball.<br>\nHop! Hop! Hop!<br>\nRod does a big hop.<br>\nOh no!<br>\nThe ball pops.<br>\nPop! Pop!<br>\nRod stops.<br>\nRod flops on the cot.\n</div><br>\n<span style=\"color:red;\">35. What did Rod do next?</span>",
       "type": "mcq",
+      "prompt": "What did Rod do next?",
       "options": {
         "choices": [
-          "Rod hops on a cot",
-          "Rod hops on a log",
-          "Rod hops on a car"
+          {
+            "id": "c1",
+            "text": "Rod hops on a cot"
+          },
+          {
+            "id": "c2",
+            "text": "Rod hops on a log"
+          },
+          {
+            "id": "c3",
+            "text": "Rod hops on a car"
+          }
         ]
       },
-      "correct_answer": "Rod hops on a log",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After the cot, Rod hops on a log.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 35
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/4.jpeg"
+      },
+      "order_index": 35,
+      "passage_id": "p4"
     },
     {
       "slug": "q036",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRod the dog likes to hop.<br>\nRod hops on a cot.<br>\nRod hops on a log.<br>\nRod hops on a box.<br>\nRod hops on a rock.<br>\nRod hops on a ball.<br>\nHop! Hop! Hop!<br>\nRod does a big hop.<br>\nOh no!<br>\nThe ball pops.<br>\nPop! Pop!<br>\nRod stops.<br>\nRod flops on the cot.\n</div><br>\n<span style=\"color:red;\">36. What happens to the ball?</span>",
       "type": "mcq",
+      "prompt": "What happens to the ball?",
       "options": {
         "choices": [
-          "the ball flies",
-          "the ball pops",
-          "the ball jumps"
+          {
+            "id": "c1",
+            "text": "the ball flies"
+          },
+          {
+            "id": "c2",
+            "text": "the ball pops"
+          },
+          {
+            "id": "c3",
+            "text": "the ball jumps"
+          }
         ]
       },
-      "correct_answer": "the ball pops",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The ball pops.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 36
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/4.jpeg"
+      },
+      "order_index": 36,
+      "passage_id": "p4"
     },
     {
       "slug": "q037",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRod the dog likes to hop.<br>\nRod hops on a cot.<br>\nRod hops on a log.<br>\nRod hops on a box.<br>\nRod hops on a rock.<br>\nRod hops on a ball.<br>\nHop! Hop! Hop!<br>\nRod does a big hop.<br>\nOh no!<br>\nThe ball pops.<br>\nPop! Pop!<br>\nRod stops.<br>\nRod flops on the cot.\n</div><br>\n<span style=\"color:red;\">37. Why did the ball pop?</span>",
       "type": "mcq",
+      "prompt": "Why did the ball pop?",
       "options": {
         "choices": [
-          "Rod does a big job",
-          "Rod does a big hop",
-          "Rod does a big jog"
+          {
+            "id": "c1",
+            "text": "Rod does a big job"
+          },
+          {
+            "id": "c2",
+            "text": "Rod does a big hop"
+          },
+          {
+            "id": "c3",
+            "text": "Rod does a big jog"
+          }
         ]
       },
-      "correct_answer": "Rod does a big hop",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The ball pops because Rod does a big hop on it.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 37
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/4.jpeg"
+      },
+      "order_index": 37,
+      "passage_id": "p4"
     },
     {
       "slug": "q038",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRod the dog likes to hop.<br>\nRod hops on a cot.<br>\nRod hops on a log.<br>\nRod hops on a box.<br>\nRod hops on a rock.<br>\nRod hops on a ball.<br>\nHop! Hop! Hop!<br>\nRod does a big hop.<br>\nOh no!<br>\nThe ball pops.<br>\nPop! Pop!<br>\nRod stops.<br>\nRod flops on the cot.\n</div><br>\n<span style=\"color:red;\">38. Where did Rod flop?</span>",
       "type": "mcq",
+      "prompt": "Where did Rod flop?",
       "options": {
         "choices": [
-          "Rod flops on the counter",
-          "Rod flops on the cot",
-          "Rod flops on the car"
+          {
+            "id": "c1",
+            "text": "Rod flops on the counter"
+          },
+          {
+            "id": "c2",
+            "text": "Rod flops on the cot"
+          },
+          {
+            "id": "c3",
+            "text": "Rod flops on the car"
+          }
         ]
       },
-      "correct_answer": "Rod flops on the cot",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Rod flops on the cot.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 38
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/4.jpeg"
+      },
+      "order_index": 38,
+      "passage_id": "p4"
     },
     {
       "slug": "q039",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRod the dog likes to hop.<br>\nRod hops on a cot.<br>\nRod hops on a log.<br>\nRod hops on a box.<br>\nRod hops on a rock.<br>\nRod hops on a ball.<br>\nHop! Hop! Hop!<br>\nRod does a big hop.<br>\nOh no!<br>\nThe ball pops.<br>\nPop! Pop!<br>\nRod stops.<br>\nRod flops on the cot.\n</div><br>\n<span style=\"color:red;\">39. What is the name of the dog?</span>",
       "type": "mcq",
+      "prompt": "What is the name of the dog?",
       "options": {
         "choices": [
-          "Tom",
-          "Rod",
-          "John"
+          {
+            "id": "c1",
+            "text": "Tom"
+          },
+          {
+            "id": "c2",
+            "text": "Rod"
+          },
+          {
+            "id": "c3",
+            "text": "John"
+          }
         ]
       },
-      "correct_answer": "Rod",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The dog's name is Rod.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 39
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/4.jpeg"
+      },
+      "order_index": 39,
+      "passage_id": "p4"
     },
     {
       "slug": "q040",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRod the dog likes to hop.<br>\nRod hops on a cot.<br>\nRod hops on a log.<br>\nRod hops on a box.<br>\nRod hops on a rock.<br>\nRod hops on a ball.<br>\nHop! Hop! Hop!<br>\nRod does a big hop.<br>\nOh no!<br>\nThe ball pops.<br>\nPop! Pop!<br>\nRod stops.<br>\nRod flops on the cot.\n</div><br>\n<span style=\"color:red;\">40. What is the past tense of \"like\"?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of \"like\"?",
       "options": {
         "choices": [
-          "like",
-          "liked",
-          "literally"
+          {
+            "id": "c1",
+            "text": "like"
+          },
+          {
+            "id": "c2",
+            "text": "liked"
+          },
+          {
+            "id": "c3",
+            "text": "literally"
+          }
         ]
       },
-      "correct_answer": "liked",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The past tense of like is liked.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 40
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/4.jpeg"
+      },
+      "order_index": 40,
+      "passage_id": "p4"
     },
     {
       "slug": "q041",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRod the dog likes to hop.<br>\nRod hops on a cot.<br>\nRod hops on a log.<br>\nRod hops on a box.<br>\nRod hops on a rock.<br>\nRod hops on a ball.<br>\nHop! Hop! Hop!<br>\nRod does a big hop.<br>\nOh no!<br>\nThe ball pops.<br>\nPop! Pop!<br>\nRod stops.<br>\nRod flops on the cot.\n</div><br>\n<span style=\"color:red;\">41. What is the past of \"stop\"?</span>",
       "type": "mcq",
+      "prompt": "What is the past of \"stop\"?",
       "options": {
         "choices": [
-          "stopping",
-          "stopped",
-          "stop"
+          {
+            "id": "c1",
+            "text": "stopping"
+          },
+          {
+            "id": "c2",
+            "text": "stopped"
+          },
+          {
+            "id": "c3",
+            "text": "stop"
+          }
         ]
       },
-      "correct_answer": "stopped",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The past tense of stop is stopped.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 41
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/4.jpeg"
+      },
+      "order_index": 41,
+      "passage_id": "p4"
     },
     {
       "slug": "q042",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom jogs.<br>\nMom jogs.<br>\nMom and Tom see frog.<br>\nFrog is on a log.<br>\nFrog hops on the moss.<br>\nFrog is hot.<br>\nFrog hops.<br>\nTom and Mom jog back home.\n</div><br>\n<span style=\"color:red;\">42. Who jogs?</span>",
       "type": "mcq",
+      "prompt": "Who jogs?",
       "options": {
         "choices": [
-          "Mom and Tom",
-          "Sandy and Frog",
-          "Tom and Ron"
+          {
+            "id": "c1",
+            "text": "Mom and Tom"
+          },
+          {
+            "id": "c2",
+            "text": "Sandy and Frog"
+          },
+          {
+            "id": "c3",
+            "text": "Tom and Ron"
+          }
         ]
       },
-      "correct_answer": "Mom and Tom",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Mom and Tom jog.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 42
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/5.jpeg"
+      },
+      "order_index": 42,
+      "passage_id": "p5"
     },
     {
       "slug": "q043",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom jogs.<br>\nMom jogs.<br>\nMom and Tom see frog.<br>\nFrog is on a log.<br>\nFrog hops on the moss.<br>\nFrog is hot.<br>\nFrog hops.<br>\nTom and Mom jog back home.\n</div><br>\n<span style=\"color:red;\">43. What does Mom and Tom do?</span>",
       "type": "mcq",
+      "prompt": "What does Mom and Tom do?",
       "options": {
         "choices": [
-          "Tom and Mom jog",
-          "Tom and Mom swim",
-          "Tom and Mom job"
+          {
+            "id": "c1",
+            "text": "Tom and Mom jog"
+          },
+          {
+            "id": "c2",
+            "text": "Tom and Mom swim"
+          },
+          {
+            "id": "c3",
+            "text": "Tom and Mom job"
+          }
         ]
       },
-      "correct_answer": "Tom and Mom jog",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Tom and Mom jog.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 43
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/5.jpeg"
+      },
+      "order_index": 43,
+      "passage_id": "p5"
     },
     {
       "slug": "q044",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom jogs.<br>\nMom jogs.<br>\nMom and Tom see frog.<br>\nFrog is on a log.<br>\nFrog hops on the moss.<br>\nFrog is hot.<br>\nFrog hops.<br>\nTom and Mom jog back home.\n</div><br>\n<span style=\"color:red;\">44. Where is the frog?</span>",
       "type": "mcq",
+      "prompt": "Where is the frog?",
       "options": {
         "choices": [
-          "frog is on a chair",
-          "frog is on a couch",
-          "frog is on a log"
+          {
+            "id": "c1",
+            "text": "frog is on a chair"
+          },
+          {
+            "id": "c2",
+            "text": "frog is on a couch"
+          },
+          {
+            "id": "c3",
+            "text": "frog is on a log"
+          }
         ]
       },
-      "correct_answer": "frog is on a log",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The frog is on a log.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 44
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/5.jpeg"
+      },
+      "order_index": 44,
+      "passage_id": "p5"
     },
     {
       "slug": "q045",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom jogs.<br>\nMom jogs.<br>\nMom and Tom see frog.<br>\nFrog is on a log.<br>\nFrog hops on the moss.<br>\nFrog is hot.<br>\nFrog hops.<br>\nTom and Mom jog back home.\n</div><br>\n<span style=\"color:red;\">45. Where does the frog hop?</span>",
       "type": "mcq",
+      "prompt": "Where does the frog hop?",
       "options": {
         "choices": [
-          "frog hops on the moss",
-          "frog hops on the ground",
-          "frog hops on the car"
+          {
+            "id": "c1",
+            "text": "frog hops on the moss"
+          },
+          {
+            "id": "c2",
+            "text": "frog hops on the ground"
+          },
+          {
+            "id": "c3",
+            "text": "frog hops on the car"
+          }
         ]
       },
-      "correct_answer": "frog hops on the moss",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The frog hops on the moss.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 45
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/5.jpeg"
+      },
+      "order_index": 45,
+      "passage_id": "p5"
     },
     {
       "slug": "q046",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom jogs.<br>\nMom jogs.<br>\nMom and Tom see frog.<br>\nFrog is on a log.<br>\nFrog hops on the moss.<br>\nFrog is hot.<br>\nFrog hops.<br>\nTom and Mom jog back home.\n</div><br>\n<span style=\"color:red;\">46. Is the frog hot or cold?</span>",
       "type": "mcq",
+      "prompt": "Is the frog hot or cold?",
       "options": {
         "choices": [
-          "frog is hot",
-          "frog is cold",
-          "frog is sad"
+          {
+            "id": "c1",
+            "text": "frog is hot"
+          },
+          {
+            "id": "c2",
+            "text": "frog is cold"
+          },
+          {
+            "id": "c3",
+            "text": "frog is sad"
+          }
         ]
       },
-      "correct_answer": "frog is hot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The frog is hot.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 46
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/5.jpeg"
+      },
+      "order_index": 46,
+      "passage_id": "p5"
     },
     {
       "slug": "q047",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom jogs.<br>\nMom jogs.<br>\nMom and Tom see frog.<br>\nFrog is on a log.<br>\nFrog hops on the moss.<br>\nFrog is hot.<br>\nFrog hops.<br>\nTom and Mom jog back home.\n</div><br>\n<span style=\"color:red;\">47. Where do Mom and Tom jog?</span>",
       "type": "mcq",
+      "prompt": "Where do Mom and Tom jog?",
       "options": {
         "choices": [
-          "Tom and frog jog to the bench",
-          "Tom and frog jog to the beach",
-          "Tom and frog jog back home"
+          {
+            "id": "c1",
+            "text": "Tom and frog jog to the bench"
+          },
+          {
+            "id": "c2",
+            "text": "Tom and frog jog to the beach"
+          },
+          {
+            "id": "c3",
+            "text": "Tom and frog jog back home"
+          }
         ]
       },
-      "correct_answer": "Tom and frog jog back home",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Tom and Mom jog back home.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 47
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/5.jpeg"
+      },
+      "order_index": 47,
+      "passage_id": "p5"
     },
     {
       "slug": "q048",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom jogs.<br>\nMom jogs.<br>\nMom and Tom see frog.<br>\nFrog is on a log.<br>\nFrog hops on the moss.<br>\nFrog is hot.<br>\nFrog hops.<br>\nTom and Mom jog back home.\n</div><br>\n<span style=\"color:red;\">48. How many animals are there in the story?</span>",
       "type": "mcq",
+      "prompt": "How many animals are there in the story?",
       "options": {
         "choices": [
-          "one animal",
-          "two animals",
-          "no animals"
+          {
+            "id": "c1",
+            "text": "one animal"
+          },
+          {
+            "id": "c2",
+            "text": "two animals"
+          },
+          {
+            "id": "c3",
+            "text": "no animals"
+          }
         ]
       },
-      "correct_answer": "one animal",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Only the frog is an animal, so one animal.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 48
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/5.jpeg"
+      },
+      "order_index": 48,
+      "passage_id": "p5"
     },
     {
       "slug": "q049",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom jogs.<br>\nMom jogs.<br>\nMom and Tom see frog.<br>\nFrog is on a log.<br>\nFrog hops on the moss.<br>\nFrog is hot.<br>\nFrog hops.<br>\nTom and Mom jog back home.\n</div><br>\n<span style=\"color:red;\">49. How many humans are there in the short story?</span>",
       "type": "mcq",
+      "prompt": "How many humans are there in the short story?",
       "options": {
         "choices": [
-          "1 human",
-          "2 humans",
-          "3 humans"
+          {
+            "id": "c1",
+            "text": "1 human"
+          },
+          {
+            "id": "c2",
+            "text": "2 humans"
+          },
+          {
+            "id": "c3",
+            "text": "3 humans"
+          }
         ]
       },
-      "correct_answer": "2 humans",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Mom and Tom are two humans.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 49
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/5.jpeg"
+      },
+      "order_index": 49,
+      "passage_id": "p5"
     },
     {
       "slug": "q050",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom jogs.<br>\nMom jogs.<br>\nMom and Tom see frog.<br>\nFrog is on a log.<br>\nFrog hops on the moss.<br>\nFrog is hot.<br>\nFrog hops.<br>\nTom and Mom jog back home.\n</div><br>\n<span style=\"color:red;\">50. What is the past tense of \"see\"?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of \"see\"?",
       "options": {
         "choices": [
-          "so",
-          "saw",
-          "some"
+          {
+            "id": "c1",
+            "text": "so"
+          },
+          {
+            "id": "c2",
+            "text": "saw"
+          },
+          {
+            "id": "c3",
+            "text": "some"
+          }
         ]
       },
-      "correct_answer": "saw",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The past tense of see is saw.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 50
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/5.jpeg"
+      },
+      "order_index": 50,
+      "passage_id": "p5"
     },
     {
       "slug": "q051",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTom jogs.<br>\nMom jogs.<br>\nMom and Tom see frog.<br>\nFrog is on a log.<br>\nFrog hops on the moss.<br>\nFrog is hot.<br>\nFrog hops.<br>\nTom and Mom jog back home.\n</div><br>\n<span style=\"color:red;\">51. What is the past tense of \"is\"?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of \"is\"?",
       "options": {
         "choices": [
-          "she",
-          "was",
-          "were"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "was"
+          },
+          {
+            "id": "c3",
+            "text": "were"
+          }
         ]
       },
-      "correct_answer": "was",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The past tense of is is was.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 51
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/5.jpeg"
+      },
+      "order_index": 51,
+      "passage_id": "p5"
     },
     {
       "slug": "q052",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a hog.<br>\nDon has a frog.<br>\nThe hog hops.<br>\nThe frog hops.<br>\nDon put socks in a box.<br>\nThe hog puts rocks on the box.<br>\nThe frog puts logs in the box.<br>\nThe box was on the soft moss.<br>\nThe hog did hop on the moss.<br>\nThe frog did hop on the moss.<br>\nDon said, \"I love my hog and my frog.\"<br>\nThe hog hops to Don.<br>\nThe frog hops to Don.<br>\nDon and the hog sat on the moss.<br>\nThe frog hops on the box.<br>\nDon said, \"I love my hog.\"\n</div><br>\n<span style=\"color:red;\">52. How many animals are mentioned in the story?</span>",
       "type": "mcq",
+      "prompt": "How many animals are mentioned in the story?",
       "options": {
         "choices": [
-          "one animal",
-          "two animals",
-          "three humans"
+          {
+            "id": "c1",
+            "text": "one animal"
+          },
+          {
+            "id": "c2",
+            "text": "two animals"
+          },
+          {
+            "id": "c3",
+            "text": "three humans"
+          }
         ]
       },
-      "correct_answer": "two animals",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The hog and the frog are two animals.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 52
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/6.jpeg"
+      },
+      "order_index": 52,
+      "passage_id": "p6"
     },
     {
       "slug": "q053",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a hog.<br>\nDon has a frog.<br>\nThe hog hops.<br>\nThe frog hops.<br>\nDon put socks in a box.<br>\nThe hog puts rocks on the box.<br>\nThe frog puts logs in the box.<br>\nThe box was on the soft moss.<br>\nThe hog did hop on the moss.<br>\nThe frog did hop on the moss.<br>\nDon said, \"I love my hog and my frog.\"<br>\nThe hog hops to Don.<br>\nThe frog hops to Don.<br>\nDon and the hog sat on the moss.<br>\nThe frog hops on the box.<br>\nDon said, \"I love my hog.\"\n</div><br>\n<span style=\"color:red;\">53. What is a hog?</span>",
       "type": "mcq",
+      "prompt": "What is a hog?",
       "options": {
         "choices": [
-          "a cat",
-          "a dog",
-          "a pig"
+          {
+            "id": "c1",
+            "text": "a cat"
+          },
+          {
+            "id": "c2",
+            "text": "a dog"
+          },
+          {
+            "id": "c3",
+            "text": "a pig"
+          }
         ]
       },
-      "correct_answer": "a pig",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A hog is a pig.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 53
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/6.jpeg"
+      },
+      "order_index": 53,
+      "passage_id": "p6"
     },
     {
       "slug": "q054",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a hog.<br>\nDon has a frog.<br>\nThe hog hops.<br>\nThe frog hops.<br>\nDon put socks in a box.<br>\nThe hog puts rocks on the box.<br>\nThe frog puts logs in the box.<br>\nThe box was on the soft moss.<br>\nThe hog did hop on the moss.<br>\nThe frog did hop on the moss.<br>\nDon said, \"I love my hog and my frog.\"<br>\nThe hog hops to Don.<br>\nThe frog hops to Don.<br>\nDon and the hog sat on the moss.<br>\nThe frog hops on the box.<br>\nDon said, \"I love my hog.\"\n</div><br>\n<span style=\"color:red;\">54. What do both hog and frog do?</span>",
       "type": "mcq",
+      "prompt": "What do both hog and frog do?",
       "options": {
         "choices": [
-          "both cry",
-          "both sleep",
-          "both hop"
+          {
+            "id": "c1",
+            "text": "both cry"
+          },
+          {
+            "id": "c2",
+            "text": "both sleep"
+          },
+          {
+            "id": "c3",
+            "text": "both hop"
+          }
         ]
       },
-      "correct_answer": "both hop",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Both the hog and the frog hop.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 54
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/6.jpeg"
+      },
+      "order_index": 54,
+      "passage_id": "p6"
     },
     {
       "slug": "q055",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a hog.<br>\nDon has a frog.<br>\nThe hog hops.<br>\nThe frog hops.<br>\nDon put socks in a box.<br>\nThe hog puts rocks on the box.<br>\nThe frog puts logs in the box.<br>\nThe box was on the soft moss.<br>\nThe hog did hop on the moss.<br>\nThe frog did hop on the moss.<br>\nDon said, \"I love my hog and my frog.\"<br>\nThe hog hops to Don.<br>\nThe frog hops to Don.<br>\nDon and the hog sat on the moss.<br>\nThe frog hops on the box.<br>\nDon said, \"I love my hog.\"\n</div><br>\n<span style=\"color:red;\">55. Where does Don put the socks?</span>",
       "type": "mcq",
+      "prompt": "Where does Don put the socks?",
       "options": {
         "choices": [
-          "Don put socks in a box",
-          "Don put socks in a bag",
-          "Don put socks on the bed"
+          {
+            "id": "c1",
+            "text": "Don put socks in a box"
+          },
+          {
+            "id": "c2",
+            "text": "Don put socks in a bag"
+          },
+          {
+            "id": "c3",
+            "text": "Don put socks on the bed"
+          }
         ]
       },
-      "correct_answer": "Don put socks in a box",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Don put the socks in a box.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 55
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/6.jpeg"
+      },
+      "order_index": 55,
+      "passage_id": "p6"
     },
     {
       "slug": "q056",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a hog.<br>\nDon has a frog.<br>\nThe hog hops.<br>\nThe frog hops.<br>\nDon put socks in a box.<br>\nThe hog puts rocks on the box.<br>\nThe frog puts logs in the box.<br>\nThe box was on the soft moss.<br>\nThe hog did hop on the moss.<br>\nThe frog did hop on the moss.<br>\nDon said, \"I love my hog and my frog.\"<br>\nThe hog hops to Don.<br>\nThe frog hops to Don.<br>\nDon and the hog sat on the moss.<br>\nThe frog hops on the box.<br>\nDon said, \"I love my hog.\"\n</div><br>\n<span style=\"color:red;\">56. Where does the hog put the rocks?</span>",
       "type": "mcq",
+      "prompt": "Where does the hog put the rocks?",
       "options": {
         "choices": [
-          "the hog puts rocks on the box",
-          "the hog puts rocks on the car",
-          "the hog puts rocks on the table"
+          {
+            "id": "c1",
+            "text": "the hog puts rocks on the box"
+          },
+          {
+            "id": "c2",
+            "text": "the hog puts rocks on the car"
+          },
+          {
+            "id": "c3",
+            "text": "the hog puts rocks on the table"
+          }
         ]
       },
-      "correct_answer": "the hog puts rocks on the box",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The hog puts rocks on the box.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 56
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/6.jpeg"
+      },
+      "order_index": 56,
+      "passage_id": "p6"
     },
     {
       "slug": "q057",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a hog.<br>\nDon has a frog.<br>\nThe hog hops.<br>\nThe frog hops.<br>\nDon put socks in a box.<br>\nThe hog puts rocks on the box.<br>\nThe frog puts logs in the box.<br>\nThe box was on the soft moss.<br>\nThe hog did hop on the moss.<br>\nThe frog did hop on the moss.<br>\nDon said, \"I love my hog and my frog.\"<br>\nThe hog hops to Don.<br>\nThe frog hops to Don.<br>\nDon and the hog sat on the moss.<br>\nThe frog hops on the box.<br>\nDon said, \"I love my hog.\"\n</div><br>\n<span style=\"color:red;\">57. Where does the frog put the logs?</span>",
       "type": "mcq",
+      "prompt": "Where does the frog put the logs?",
       "options": {
         "choices": [
-          "the frog puts logs in the car",
-          "the frog puts logs in the box",
-          "the frog puts logs in the cage"
+          {
+            "id": "c1",
+            "text": "the frog puts logs in the car"
+          },
+          {
+            "id": "c2",
+            "text": "the frog puts logs in the box"
+          },
+          {
+            "id": "c3",
+            "text": "the frog puts logs in the cage"
+          }
         ]
       },
-      "correct_answer": "the frog puts logs in the box",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The frog puts logs in the box.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 57
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/6.jpeg"
+      },
+      "order_index": 57,
+      "passage_id": "p6"
     },
     {
       "slug": "q058",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a hog.<br>\nDon has a frog.<br>\nThe hog hops.<br>\nThe frog hops.<br>\nDon put socks in a box.<br>\nThe hog puts rocks on the box.<br>\nThe frog puts logs in the box.<br>\nThe box was on the soft moss.<br>\nThe hog did hop on the moss.<br>\nThe frog did hop on the moss.<br>\nDon said, \"I love my hog and my frog.\"<br>\nThe hog hops to Don.<br>\nThe frog hops to Don.<br>\nDon and the hog sat on the moss.<br>\nThe frog hops on the box.<br>\nDon said, \"I love my hog.\"\n</div><br>\n<span style=\"color:red;\">58. Where was the box?</span>",
       "type": "mcq",
+      "prompt": "Where was the box?",
       "options": {
         "choices": [
-          "on the soft surface",
-          "on the soft grass",
-          "on the soft moss"
+          {
+            "id": "c1",
+            "text": "on the soft surface"
+          },
+          {
+            "id": "c2",
+            "text": "on the soft grass"
+          },
+          {
+            "id": "c3",
+            "text": "on the soft moss"
+          }
         ]
       },
-      "correct_answer": "on the soft moss",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The box was on the soft moss.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 58
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/6.jpeg"
+      },
+      "order_index": 58,
+      "passage_id": "p6"
     },
     {
       "slug": "q059",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a hog.<br>\nDon has a frog.<br>\nThe hog hops.<br>\nThe frog hops.<br>\nDon put socks in a box.<br>\nThe hog puts rocks on the box.<br>\nThe frog puts logs in the box.<br>\nThe box was on the soft moss.<br>\nThe hog did hop on the moss.<br>\nThe frog did hop on the moss.<br>\nDon said, \"I love my hog and my frog.\"<br>\nThe hog hops to Don.<br>\nThe frog hops to Don.<br>\nDon and the hog sat on the moss.<br>\nThe frog hops on the box.<br>\nDon said, \"I love my hog.\"\n</div><br>\n<span style=\"color:red;\">59. Who hopped on the soft moss?</span>",
       "type": "mcq",
+      "prompt": "Who hopped on the soft moss?",
       "options": {
         "choices": [
-          "hog and frog",
-          "cat and cow",
-          "cow and dog"
+          {
+            "id": "c1",
+            "text": "hog and frog"
+          },
+          {
+            "id": "c2",
+            "text": "cat and cow"
+          },
+          {
+            "id": "c3",
+            "text": "cow and dog"
+          }
         ]
       },
-      "correct_answer": "hog and frog",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The hog and the frog hopped on the moss.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 59
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/6.jpeg"
+      },
+      "order_index": 59,
+      "passage_id": "p6"
     },
     {
       "slug": "q060",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a hog.<br>\nDon has a frog.<br>\nThe hog hops.<br>\nThe frog hops.<br>\nDon put socks in a box.<br>\nThe hog puts rocks on the box.<br>\nThe frog puts logs in the box.<br>\nThe box was on the soft moss.<br>\nThe hog did hop on the moss.<br>\nThe frog did hop on the moss.<br>\nDon said, \"I love my hog and my frog.\"<br>\nThe hog hops to Don.<br>\nThe frog hops to Don.<br>\nDon and the hog sat on the moss.<br>\nThe frog hops on the box.<br>\nDon said, \"I love my hog.\"\n</div><br>\n<span style=\"color:red;\">60. What did Don say?</span>",
       "type": "mcq",
+      "prompt": "What did Don say?",
       "options": {
         "choices": [
-          "I love my mom and dad",
-          "I love my family",
-          "I love my hog and frog"
+          {
+            "id": "c1",
+            "text": "I love my mom and dad"
+          },
+          {
+            "id": "c2",
+            "text": "I love my family"
+          },
+          {
+            "id": "c3",
+            "text": "I love my hog and frog"
+          }
         ]
       },
-      "correct_answer": "I love my hog and frog",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Don said he loves his hog and frog.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 60
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/6.jpeg"
+      },
+      "order_index": 60,
+      "passage_id": "p6"
     },
     {
       "slug": "q061",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a hog.<br>\nDon has a frog.<br>\nThe hog hops.<br>\nThe frog hops.<br>\nDon put socks in a box.<br>\nThe hog puts rocks on the box.<br>\nThe frog puts logs in the box.<br>\nThe box was on the soft moss.<br>\nThe hog did hop on the moss.<br>\nThe frog did hop on the moss.<br>\nDon said, \"I love my hog and my frog.\"<br>\nThe hog hops to Don.<br>\nThe frog hops to Don.<br>\nDon and the hog sat on the moss.<br>\nThe frog hops on the box.<br>\nDon said, \"I love my hog.\"\n</div><br>\n<span style=\"color:red;\">61. What is the present form of \"said\"?</span>",
       "type": "mcq",
+      "prompt": "What is the present form of \"said\"?",
       "options": {
         "choices": [
-          "say",
-          "so",
-          "some"
+          {
+            "id": "c1",
+            "text": "say"
+          },
+          {
+            "id": "c2",
+            "text": "so"
+          },
+          {
+            "id": "c3",
+            "text": "some"
+          }
         ]
       },
-      "correct_answer": "say",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The present form of said is say.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 61
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/6.jpeg"
+      },
+      "order_index": 61,
+      "passage_id": "p6"
     },
     {
       "slug": "q062",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a job.<br>\nDon is a cop.<br>\nDon spots his pal Ron.<br>\nRon is a cop, too!<br>\nDon and Ron stop a rob.<br>\nDon and Ron jog to the shop.<br>\nThey lock up the shop.<br>\nDon and Ron nod.<br>\nThe shop boss says, \"Top job!\"<br>\nDon and Ron grin a lot.<br>\nDon says, \"I love my job!\"\n</div><br>\n<span style=\"color:red;\">62. How many police officers are there in the story?</span>",
       "type": "mcq",
+      "prompt": "How many police officers are there in the story?",
       "options": {
         "choices": [
-          "2 police officers",
-          "1 police officer",
-          "3 police officers"
+          {
+            "id": "c1",
+            "text": "2 police officers"
+          },
+          {
+            "id": "c2",
+            "text": "1 police officer"
+          },
+          {
+            "id": "c3",
+            "text": "3 police officers"
+          }
         ]
       },
-      "correct_answer": "2 police officers",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Don and Ron are both cops, so two police officers.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 62
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/7.jpeg"
+      },
+      "order_index": 62,
+      "passage_id": "p7"
     },
     {
       "slug": "q063",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a job.<br>\nDon is a cop.<br>\nDon spots his pal Ron.<br>\nRon is a cop, too!<br>\nDon and Ron stop a rob.<br>\nDon and Ron jog to the shop.<br>\nThey lock up the shop.<br>\nDon and Ron nod.<br>\nThe shop boss says, \"Top job!\"<br>\nDon and Ron grin a lot.<br>\nDon says, \"I love my job!\"\n</div><br>\n<span style=\"color:red;\">63. What is another name for a cop?</span>",
       "type": "mcq",
+      "prompt": "What is another name for a cop?",
       "options": {
         "choices": [
-          "police officer",
-          "busy man",
-          "business man"
+          {
+            "id": "c1",
+            "text": "police officer"
+          },
+          {
+            "id": "c2",
+            "text": "busy man"
+          },
+          {
+            "id": "c3",
+            "text": "business man"
+          }
         ]
       },
-      "correct_answer": "police officer",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cop is a police officer.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 63
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/7.jpeg"
+      },
+      "order_index": 63,
+      "passage_id": "p7"
     },
     {
       "slug": "q064",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a job.<br>\nDon is a cop.<br>\nDon spots his pal Ron.<br>\nRon is a cop, too!<br>\nDon and Ron stop a rob.<br>\nDon and Ron jog to the shop.<br>\nThey lock up the shop.<br>\nDon and Ron nod.<br>\nThe shop boss says, \"Top job!\"<br>\nDon and Ron grin a lot.<br>\nDon says, \"I love my job!\"\n</div><br>\n<span style=\"color:red;\">64. Who does Don spot?</span>",
       "type": "mcq",
+      "prompt": "Who does Don spot?",
       "options": {
         "choices": [
-          "Don spots his pal Tom",
-          "Don spots his pal John",
-          "Don spots his pal Ron"
+          {
+            "id": "c1",
+            "text": "Don spots his pal Tom"
+          },
+          {
+            "id": "c2",
+            "text": "Don spots his pal John"
+          },
+          {
+            "id": "c3",
+            "text": "Don spots his pal Ron"
+          }
         ]
       },
-      "correct_answer": "Don spots his pal Ron",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Don spots his pal Ron.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 64
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/7.jpeg"
+      },
+      "order_index": 64,
+      "passage_id": "p7"
     },
     {
       "slug": "q065",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a job.<br>\nDon is a cop.<br>\nDon spots his pal Ron.<br>\nRon is a cop, too!<br>\nDon and Ron stop a rob.<br>\nDon and Ron jog to the shop.<br>\nThey lock up the shop.<br>\nDon and Ron nod.<br>\nThe shop boss says, \"Top job!\"<br>\nDon and Ron grin a lot.<br>\nDon says, \"I love my job!\"\n</div><br>\n<span style=\"color:red;\">65. What do Don and Ron stop?</span>",
       "type": "mcq",
+      "prompt": "What do Don and Ron stop?",
       "options": {
         "choices": [
-          "Don and Ron stop a rob",
-          "Don and Ron stop a car",
-          "Don and Ron stop a truck"
+          {
+            "id": "c1",
+            "text": "Don and Ron stop a rob"
+          },
+          {
+            "id": "c2",
+            "text": "Don and Ron stop a car"
+          },
+          {
+            "id": "c3",
+            "text": "Don and Ron stop a truck"
+          }
         ]
       },
-      "correct_answer": "Don and Ron stop a rob",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Don and Ron stop a rob (robbery).",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 65
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/7.jpeg"
+      },
+      "order_index": 65,
+      "passage_id": "p7"
     },
     {
       "slug": "q066",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a job.<br>\nDon is a cop.<br>\nDon spots his pal Ron.<br>\nRon is a cop, too!<br>\nDon and Ron stop a rob.<br>\nDon and Ron jog to the shop.<br>\nThey lock up the shop.<br>\nDon and Ron nod.<br>\nThe shop boss says, \"Top job!\"<br>\nDon and Ron grin a lot.<br>\nDon says, \"I love my job!\"\n</div><br>\n<span style=\"color:red;\">66. Where do Don and Ron jog?</span>",
       "type": "mcq",
+      "prompt": "Where do Don and Ron jog?",
       "options": {
         "choices": [
-          "Don and Ron jog to the mall",
-          "Don and Ron jog to the shop",
-          "Don and Ron jog to the store"
+          {
+            "id": "c1",
+            "text": "Don and Ron jog to the mall"
+          },
+          {
+            "id": "c2",
+            "text": "Don and Ron jog to the shop"
+          },
+          {
+            "id": "c3",
+            "text": "Don and Ron jog to the store"
+          }
         ]
       },
-      "correct_answer": "Don and Ron jog to the shop",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Don and Ron jog to the shop.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 66
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/7.jpeg"
+      },
+      "order_index": 66,
+      "passage_id": "p7"
     },
     {
       "slug": "q067",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a job.<br>\nDon is a cop.<br>\nDon spots his pal Ron.<br>\nRon is a cop, too!<br>\nDon and Ron stop a rob.<br>\nDon and Ron jog to the shop.<br>\nThey lock up the shop.<br>\nDon and Ron nod.<br>\nThe shop boss says, \"Top job!\"<br>\nDon and Ron grin a lot.<br>\nDon says, \"I love my job!\"\n</div><br>\n<span style=\"color:red;\">67. What do Don and Ron lock up?</span>",
       "type": "mcq",
+      "prompt": "What do Don and Ron lock up?",
       "options": {
         "choices": [
-          "They lock up the car",
-          "They lock up the box",
-          "They lock up the shop"
+          {
+            "id": "c1",
+            "text": "They lock up the car"
+          },
+          {
+            "id": "c2",
+            "text": "They lock up the box"
+          },
+          {
+            "id": "c3",
+            "text": "They lock up the shop"
+          }
         ]
       },
-      "correct_answer": "They lock up the shop",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "They lock up the shop.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 67
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/7.jpeg"
+      },
+      "order_index": 67,
+      "passage_id": "p7"
     },
     {
       "slug": "q068",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a job.<br>\nDon is a cop.<br>\nDon spots his pal Ron.<br>\nRon is a cop, too!<br>\nDon and Ron stop a rob.<br>\nDon and Ron jog to the shop.<br>\nThey lock up the shop.<br>\nDon and Ron nod.<br>\nThe shop boss says, \"Top job!\"<br>\nDon and Ron grin a lot.<br>\nDon says, \"I love my job!\"\n</div><br>\n<span style=\"color:red;\">68. What does the boss say?</span>",
       "type": "mcq",
+      "prompt": "What does the boss say?",
       "options": {
         "choices": [
-          "great job",
-          "top job",
-          "top work"
+          {
+            "id": "c1",
+            "text": "great job"
+          },
+          {
+            "id": "c2",
+            "text": "top job"
+          },
+          {
+            "id": "c3",
+            "text": "top work"
+          }
         ]
       },
-      "correct_answer": "top job",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The shop boss says \"Top job!\"",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 68
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/7.jpeg"
+      },
+      "order_index": 68,
+      "passage_id": "p7"
     },
     {
       "slug": "q069",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a job.<br>\nDon is a cop.<br>\nDon spots his pal Ron.<br>\nRon is a cop, too!<br>\nDon and Ron stop a rob.<br>\nDon and Ron jog to the shop.<br>\nThey lock up the shop.<br>\nDon and Ron nod.<br>\nThe shop boss says, \"Top job!\"<br>\nDon and Ron grin a lot.<br>\nDon says, \"I love my job!\"\n</div><br>\n<span style=\"color:red;\">69. What does Don say?</span>",
       "type": "mcq",
+      "prompt": "What does Don say?",
       "options": {
         "choices": [
-          "I love my mom",
-          "I love my job",
-          "I love my family"
+          {
+            "id": "c1",
+            "text": "I love my mom"
+          },
+          {
+            "id": "c2",
+            "text": "I love my job"
+          },
+          {
+            "id": "c3",
+            "text": "I love my family"
+          }
         ]
       },
-      "correct_answer": "I love my job",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Don says he loves his job.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 69
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/7.jpeg"
+      },
+      "order_index": 69,
+      "passage_id": "p7"
     },
     {
       "slug": "q070",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a job.<br>\nDon is a cop.<br>\nDon spots his pal Ron.<br>\nRon is a cop, too!<br>\nDon and Ron stop a rob.<br>\nDon and Ron jog to the shop.<br>\nThey lock up the shop.<br>\nDon and Ron nod.<br>\nThe shop boss says, \"Top job!\"<br>\nDon and Ron grin a lot.<br>\nDon says, \"I love my job!\"\n</div><br>\n<span style=\"color:red;\">70. What is the meaning of \"grin\"?</span>",
       "type": "mcq",
+      "prompt": "What is the meaning of \"grin\"?",
       "options": {
         "choices": [
-          "smile",
-          "cry",
-          "join"
+          {
+            "id": "c1",
+            "text": "smile"
+          },
+          {
+            "id": "c2",
+            "text": "cry"
+          },
+          {
+            "id": "c3",
+            "text": "join"
+          }
         ]
       },
-      "correct_answer": "smile",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "To grin means to smile.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 70
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/7.jpeg"
+      },
+      "order_index": 70,
+      "passage_id": "p7"
     },
     {
       "slug": "q071",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a job.<br>\nDon is a cop.<br>\nDon spots his pal Ron.<br>\nRon is a cop, too!<br>\nDon and Ron stop a rob.<br>\nDon and Ron jog to the shop.<br>\nThey lock up the shop.<br>\nDon and Ron nod.<br>\nThe shop boss says, \"Top job!\"<br>\nDon and Ron grin a lot.<br>\nDon says, \"I love my job!\"\n</div><br>\n<span style=\"color:red;\">71. What is the opposite of \"lock\"?</span>",
       "type": "mcq",
+      "prompt": "What is the opposite of \"lock\"?",
       "options": {
         "choices": [
-          "open",
-          "close",
-          "run"
+          {
+            "id": "c1",
+            "text": "open"
+          },
+          {
+            "id": "c2",
+            "text": "close"
+          },
+          {
+            "id": "c3",
+            "text": "run"
+          }
         ]
       },
-      "correct_answer": "open",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The opposite of lock is open.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 71
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/7.jpeg"
+      },
+      "order_index": 71,
+      "passage_id": "p7"
     },
     {
       "slug": "q072",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a dog.<br>\nThe dog is Ozz.<br>\nDon and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nDon puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nDon says, \"I love Ozz!\"\n</div><br>\n<span style=\"color:red;\">72. What does Don have?</span>",
       "type": "mcq",
+      "prompt": "What does Don have?",
       "options": {
         "choices": [
-          "Don has a dog",
-          "Don has a horse",
-          "Don has a puppy"
+          {
+            "id": "c1",
+            "text": "Don has a dog"
+          },
+          {
+            "id": "c2",
+            "text": "Don has a horse"
+          },
+          {
+            "id": "c3",
+            "text": "Don has a puppy"
+          }
         ]
       },
-      "correct_answer": "Don has a dog",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Don has a dog named Ozz.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 72
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/8.jpeg"
+      },
+      "order_index": 72,
+      "passage_id": "p8"
     },
     {
       "slug": "q073",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a dog.<br>\nThe dog is Ozz.<br>\nDon and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nDon puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nDon says, \"I love Ozz!\"\n</div><br>\n<span style=\"color:red;\">73. What is the name of the dog?</span>",
       "type": "mcq",
+      "prompt": "What is the name of the dog?",
       "options": {
         "choices": [
-          "John",
-          "Joe",
-          "Ozz"
+          {
+            "id": "c1",
+            "text": "John"
+          },
+          {
+            "id": "c2",
+            "text": "Joe"
+          },
+          {
+            "id": "c3",
+            "text": "Ozz"
+          }
         ]
       },
-      "correct_answer": "Ozz",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The dog's name is Ozz.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 73
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/8.jpeg"
+      },
+      "order_index": 73,
+      "passage_id": "p8"
     },
     {
       "slug": "q074",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a dog.<br>\nThe dog is Ozz.<br>\nDon and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nDon puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nDon says, \"I love Ozz!\"\n</div><br>\n<span style=\"color:red;\">74. What do Don and Ozz do?</span>",
       "type": "mcq",
+      "prompt": "What do Don and Ozz do?",
       "options": {
         "choices": [
-          "sleep",
-          "jog",
-          "run"
+          {
+            "id": "c1",
+            "text": "sleep"
+          },
+          {
+            "id": "c2",
+            "text": "jog"
+          },
+          {
+            "id": "c3",
+            "text": "run"
+          }
         ]
       },
-      "correct_answer": "jog",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Don and Ozz jog.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 74
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/8.jpeg"
+      },
+      "order_index": 74,
+      "passage_id": "p8"
     },
     {
       "slug": "q075",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a dog.<br>\nThe dog is Ozz.<br>\nDon and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nDon puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nDon says, \"I love Ozz!\"\n</div><br>\n<span style=\"color:red;\">75. Where do Don and Ozz hop?</span>",
       "type": "mcq",
+      "prompt": "Where do Don and Ozz hop?",
       "options": {
         "choices": [
-          "they hop on the log",
-          "they hop on the moss",
-          "they hop on the rock"
+          {
+            "id": "c1",
+            "text": "they hop on the log"
+          },
+          {
+            "id": "c2",
+            "text": "they hop on the moss"
+          },
+          {
+            "id": "c3",
+            "text": "they hop on the rock"
+          }
         ]
       },
-      "correct_answer": "they hop on the log",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Don and Ozz hop on a log.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 75
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/8.jpeg"
+      },
+      "order_index": 75,
+      "passage_id": "p8"
     },
     {
       "slug": "q076",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a dog.<br>\nThe dog is Ozz.<br>\nDon and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nDon puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nDon says, \"I love Ozz!\"\n</div><br>\n<span style=\"color:red;\">76. What do Don and Ozz spot?</span>",
       "type": "mcq",
+      "prompt": "What do Don and Ozz spot?",
       "options": {
         "choices": [
-          "they spot a cow",
-          "they spot the others",
-          "they spot a box"
+          {
+            "id": "c1",
+            "text": "they spot a cow"
+          },
+          {
+            "id": "c2",
+            "text": "they spot the others"
+          },
+          {
+            "id": "c3",
+            "text": "they spot a box"
+          }
         ]
       },
-      "correct_answer": "they spot a box",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Don and Ozz spot a box.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 76
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/8.jpeg"
+      },
+      "order_index": 76,
+      "passage_id": "p8"
     },
     {
       "slug": "q077",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a dog.<br>\nThe dog is Ozz.<br>\nDon and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nDon puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nDon says, \"I love Ozz!\"\n</div><br>\n<span style=\"color:red;\">77. Where does Ozz drop the rocks?</span>",
       "type": "mcq",
+      "prompt": "Where does Ozz drop the rocks?",
       "options": {
         "choices": [
-          "in the bag",
-          "in the box",
-          "in the car"
+          {
+            "id": "c1",
+            "text": "in the bag"
+          },
+          {
+            "id": "c2",
+            "text": "in the box"
+          },
+          {
+            "id": "c3",
+            "text": "in the car"
+          }
         ]
       },
-      "correct_answer": "in the box",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ozz drops the rocks in the box.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 77
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/8.jpeg"
+      },
+      "order_index": 77,
+      "passage_id": "p8"
     },
     {
       "slug": "q078",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a dog.<br>\nThe dog is Ozz.<br>\nDon and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nDon puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nDon says, \"I love Ozz!\"\n</div><br>\n<span style=\"color:red;\">78. Who puts socks on Ozz?</span>",
       "type": "mcq",
+      "prompt": "Who puts socks on Ozz?",
       "options": {
         "choices": [
-          "Don",
-          "Sam",
-          "Sandy"
+          {
+            "id": "c1",
+            "text": "Don"
+          },
+          {
+            "id": "c2",
+            "text": "Sam"
+          },
+          {
+            "id": "c3",
+            "text": "Sandy"
+          }
         ]
       },
-      "correct_answer": "Don",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Don puts socks on Ozz.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 78
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/8.jpeg"
+      },
+      "order_index": 78,
+      "passage_id": "p8"
     },
     {
       "slug": "q079",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a dog.<br>\nThe dog is Ozz.<br>\nDon and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nDon puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nDon says, \"I love Ozz!\"\n</div><br>\n<span style=\"color:red;\">79. What happens after Ozz gets socks on?</span>",
       "type": "mcq",
+      "prompt": "What happens after Ozz gets socks on?",
       "options": {
         "choices": [
-          "Ozz gets cold",
-          "Ozz gets hot",
-          "Ozz gets warm"
+          {
+            "id": "c1",
+            "text": "Ozz gets cold"
+          },
+          {
+            "id": "c2",
+            "text": "Ozz gets hot"
+          },
+          {
+            "id": "c3",
+            "text": "Ozz gets warm"
+          }
         ]
       },
-      "correct_answer": "Ozz gets hot",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ozz gets too hot with the socks on.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 79
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/8.jpeg"
+      },
+      "order_index": 79,
+      "passage_id": "p8"
     },
     {
       "slug": "q080",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a dog.<br>\nThe dog is Ozz.<br>\nDon and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nDon puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nDon says, \"I love Ozz!\"\n</div><br>\n<span style=\"color:red;\">80. What did Don say?</span>",
       "type": "mcq",
+      "prompt": "What did Don say?",
       "options": {
         "choices": [
-          "I love Ozz",
-          "I love mom",
-          "I love cow"
+          {
+            "id": "c1",
+            "text": "I love Ozz"
+          },
+          {
+            "id": "c2",
+            "text": "I love mom"
+          },
+          {
+            "id": "c3",
+            "text": "I love cow"
+          }
         ]
       },
-      "correct_answer": "I love Ozz",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Don says he loves Ozz.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 80
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/8.jpeg"
+      },
+      "order_index": 80,
+      "passage_id": "p8"
     },
     {
       "slug": "q081",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDon has a dog.<br>\nThe dog is Ozz.<br>\nDon and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nDon puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nDon says, \"I love Ozz!\"\n</div><br>\n<span style=\"color:red;\">81. What is the opposite of \"hot\"?</span>",
       "type": "mcq",
+      "prompt": "What is the opposite of \"hot\"?",
       "options": {
         "choices": [
-          "cold",
-          "soft",
-          "fast"
+          {
+            "id": "c1",
+            "text": "cold"
+          },
+          {
+            "id": "c2",
+            "text": "soft"
+          },
+          {
+            "id": "c3",
+            "text": "fast"
+          }
         ]
       },
-      "correct_answer": "cold",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The opposite of hot is cold.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 81
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/8.jpeg"
+      },
+      "order_index": 81,
+      "passage_id": "p8"
     },
     {
       "slug": "q082",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMona has an octopus.<br>\nThe octopus is Ozz.<br>\nMona and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nMona puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nMona says, \"I love Ozz!\"<br>\nOzz looks and looks.<br>\nOzz loves Mona.\n</div><br>\n<span style=\"color:red;\">82. What does Mona have?</span>",
       "type": "mcq",
+      "prompt": "What does Mona have?",
       "options": {
         "choices": [
-          "an ocean",
-          "an octopus",
-          "an apple"
+          {
+            "id": "c1",
+            "text": "an ocean"
+          },
+          {
+            "id": "c2",
+            "text": "an octopus"
+          },
+          {
+            "id": "c3",
+            "text": "an apple"
+          }
         ]
       },
-      "correct_answer": "an octopus",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Mona has an octopus named Ozz.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 82
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/9.jpeg"
+      },
+      "order_index": 82,
+      "passage_id": "p9"
     },
     {
       "slug": "q083",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMona has an octopus.<br>\nThe octopus is Ozz.<br>\nMona and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nMona puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nMona says, \"I love Ozz!\"<br>\nOzz looks and looks.<br>\nOzz loves Mona.\n</div><br>\n<span style=\"color:red;\">83. What do Mona and Ozz do?</span>",
       "type": "mcq",
+      "prompt": "What do Mona and Ozz do?",
       "options": {
         "choices": [
-          "jump",
-          "hop",
-          "jog"
+          {
+            "id": "c1",
+            "text": "jump"
+          },
+          {
+            "id": "c2",
+            "text": "hop"
+          },
+          {
+            "id": "c3",
+            "text": "jog"
+          }
         ]
       },
-      "correct_answer": "jog",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Mona and Ozz jog.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 83
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/9.jpeg"
+      },
+      "order_index": 83,
+      "passage_id": "p9"
     },
     {
       "slug": "q084",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMona has an octopus.<br>\nThe octopus is Ozz.<br>\nMona and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nMona puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nMona says, \"I love Ozz!\"<br>\nOzz looks and looks.<br>\nOzz loves Mona.\n</div><br>\n<span style=\"color:red;\">84. Where do they hop?</span>",
       "type": "mcq",
+      "prompt": "Where do they hop?",
       "options": {
         "choices": [
-          "they hop on a log",
-          "they hop on a rock",
-          "they hop on a table"
+          {
+            "id": "c1",
+            "text": "they hop on a log"
+          },
+          {
+            "id": "c2",
+            "text": "they hop on a rock"
+          },
+          {
+            "id": "c3",
+            "text": "they hop on a table"
+          }
         ]
       },
-      "correct_answer": "they hop on a log",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "They hop on a log.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 84
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/9.jpeg"
+      },
+      "order_index": 84,
+      "passage_id": "p9"
     },
     {
       "slug": "q085",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMona has an octopus.<br>\nThe octopus is Ozz.<br>\nMona and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nMona puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nMona says, \"I love Ozz!\"<br>\nOzz looks and looks.<br>\nOzz loves Mona.\n</div><br>\n<span style=\"color:red;\">85. What is the name of the octopus?</span>",
       "type": "mcq",
+      "prompt": "What is the name of the octopus?",
       "options": {
         "choices": [
-          "John",
-          "Joe",
-          "Ozz"
+          {
+            "id": "c1",
+            "text": "John"
+          },
+          {
+            "id": "c2",
+            "text": "Joe"
+          },
+          {
+            "id": "c3",
+            "text": "Ozz"
+          }
         ]
       },
-      "correct_answer": "Ozz",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The octopus is named Ozz.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 85
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/9.jpeg"
+      },
+      "order_index": 85,
+      "passage_id": "p9"
     },
     {
       "slug": "q086",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMona has an octopus.<br>\nThe octopus is Ozz.<br>\nMona and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nMona puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nMona says, \"I love Ozz!\"<br>\nOzz looks and looks.<br>\nOzz loves Mona.\n</div><br>\n<span style=\"color:red;\">86. What do Mona and Ozz spot?</span>",
       "type": "mcq",
+      "prompt": "What do Mona and Ozz spot?",
       "options": {
         "choices": [
-          "they spot a box",
-          "they spot the cow",
-          "they spot the ocean"
+          {
+            "id": "c1",
+            "text": "they spot a box"
+          },
+          {
+            "id": "c2",
+            "text": "they spot the cow"
+          },
+          {
+            "id": "c3",
+            "text": "they spot the ocean"
+          }
         ]
       },
-      "correct_answer": "they spot a box",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Mona and Ozz spot a box.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 86
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/9.jpeg"
+      },
+      "order_index": 86,
+      "passage_id": "p9"
     },
     {
       "slug": "q087",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMona has an octopus.<br>\nThe octopus is Ozz.<br>\nMona and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nMona puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nMona says, \"I love Ozz!\"<br>\nOzz looks and looks.<br>\nOzz loves Mona.\n</div><br>\n<span style=\"color:red;\">87. What does Ozz drop in the box?</span>",
       "type": "mcq",
+      "prompt": "What does Ozz drop in the box?",
       "options": {
         "choices": [
-          "socks",
-          "bags",
-          "apples"
+          {
+            "id": "c1",
+            "text": "socks"
+          },
+          {
+            "id": "c2",
+            "text": "bags"
+          },
+          {
+            "id": "c3",
+            "text": "apples"
+          }
         ]
       },
-      "correct_answer": "socks",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Ozz drops things into the box.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 87
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/9.jpeg"
+      },
+      "order_index": 87,
+      "passage_id": "p9"
     },
     {
       "slug": "q088",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMona has an octopus.<br>\nThe octopus is Ozz.<br>\nMona and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nMona puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nMona says, \"I love Ozz!\"<br>\nOzz looks and looks.<br>\nOzz loves Mona.\n</div><br>\n<span style=\"color:red;\">88. What does Mona put on Ozz?</span>",
       "type": "mcq",
+      "prompt": "What does Mona put on Ozz?",
       "options": {
         "choices": [
-          "socks",
-          "rocks",
-          "necklace"
+          {
+            "id": "c1",
+            "text": "socks"
+          },
+          {
+            "id": "c2",
+            "text": "rocks"
+          },
+          {
+            "id": "c3",
+            "text": "necklace"
+          }
         ]
       },
-      "correct_answer": "socks",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Mona puts socks on Ozz.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 88
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/9.jpeg"
+      },
+      "order_index": 88,
+      "passage_id": "p9"
     },
     {
       "slug": "q089",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMona has an octopus.<br>\nThe octopus is Ozz.<br>\nMona and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nMona puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nMona says, \"I love Ozz!\"<br>\nOzz looks and looks.<br>\nOzz loves Mona.\n</div><br>\n<span style=\"color:red;\">89. Does Ozz get hot or cold?</span>",
       "type": "mcq",
+      "prompt": "Does Ozz get hot or cold?",
       "options": {
         "choices": [
-          "hot",
-          "cold",
-          "chilly"
+          {
+            "id": "c1",
+            "text": "hot"
+          },
+          {
+            "id": "c2",
+            "text": "cold"
+          },
+          {
+            "id": "c3",
+            "text": "chilly"
+          }
         ]
       },
-      "correct_answer": "hot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Ozz gets too hot.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 89
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/9.jpeg"
+      },
+      "order_index": 89,
+      "passage_id": "p9"
     },
     {
       "slug": "q090",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMona has an octopus.<br>\nThe octopus is Ozz.<br>\nMona and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nMona puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nMona says, \"I love Ozz!\"<br>\nOzz looks and looks.<br>\nOzz loves Mona.\n</div><br>\n<span style=\"color:red;\">90. What does Mona say?</span>",
       "type": "mcq",
+      "prompt": "What does Mona say?",
       "options": {
         "choices": [
-          "I love Ozz",
-          "I love mom",
-          "I love dad"
+          {
+            "id": "c1",
+            "text": "I love Ozz"
+          },
+          {
+            "id": "c2",
+            "text": "I love mom"
+          },
+          {
+            "id": "c3",
+            "text": "I love dad"
+          }
         ]
       },
-      "correct_answer": "I love Ozz",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Mona says she loves Ozz.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 90
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/9.jpeg"
+      },
+      "order_index": 90,
+      "passage_id": "p9"
     },
     {
       "slug": "q091",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMona has an octopus.<br>\nThe octopus is Ozz.<br>\nMona and Ozz jog.<br>\nThey hop on a log.<br>\nThey spot a box.<br>\nOzz drops rocks in the box.<br>\nMona puts socks on Ozz.<br>\nOzz gets too hot!<br>\nOzz pops off the socks.<br>\nMona says, \"I love Ozz!\"<br>\nOzz looks and looks.<br>\nOzz loves Mona.\n</div><br>\n<span style=\"color:red;\">91. Where do we put socks on?</span>",
       "type": "mcq",
+      "prompt": "Where do we put socks on?",
       "options": {
         "choices": [
-          "our feet",
-          "our hands",
-          "our legs"
+          {
+            "id": "c1",
+            "text": "our feet"
+          },
+          {
+            "id": "c2",
+            "text": "our hands"
+          },
+          {
+            "id": "c3",
+            "text": "our legs"
+          }
         ]
       },
-      "correct_answer": "our feet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "We put socks on our feet.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 91
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-o/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_O/9.jpeg"
+      },
+      "order_index": 91,
+      "passage_id": "p9"
+    }
+  ],
+  "title_needs_review": true,
+  "passages": [
+    {
+      "id": "p1",
+      "text": "Tom and Ron went to the toy shop.\nTom and Ron got a box, a top, and a red robot.\nRon said, \"Look at my top. It can hop and spin!\"\nTom said, \"I got a robot. It can nod and bop.\"\nThe robot sat in the box.\nRon put his top on the box.\nTom and Ron had lots of fun at the toy shop.\nThen Mom said, \"Stop. It is not long to go home.\"\nTom and Ron got in the van and went home."
+    },
+    {
+      "id": "p2",
+      "text": "John likes to jog.\nJohn jogs to the dock.\nJohn hops on the rocks.\nJohn looks at the pond.\nJohn spots a frog on a log.\nNow, John is hot.\nJohn sits on the dock.\nPlop! John drops his cap on the rocks.\nJohn pops up.\nHe jogs back home."
+    },
+    {
+      "id": "p3",
+      "text": "Bob jogs.\nBob got a big frog.\nBob likes the frog a lot.\nHop! Hop! went the frog.\nBob hops on a log.\nBob hops on rocks.\nThe frog sits on a log.\nBob looks on.\nThe frog plops in the pond.\nBob jogs to the dock.\nBob sits on the dock.\nThe frog pops up.\nBob and the frog jog home."
+    },
+    {
+      "id": "p4",
+      "text": "Rod the dog likes to hop.\nRod hops on a cot.\nRod hops on a log.\nRod hops on a box.\nRod hops on a rock.\nRod hops on a ball.\nHop! Hop! Hop!\nRod does a big hop.\nOh no!\nThe ball pops.\nPop! Pop!\nRod stops.\nRod flops on the cot."
+    },
+    {
+      "id": "p5",
+      "text": "Tom jogs.\nMom jogs.\nMom and Tom see frog.\nFrog is on a log.\nFrog hops on the moss.\nFrog is hot.\nFrog hops.\nTom and Mom jog back home."
+    },
+    {
+      "id": "p6",
+      "text": "Don has a hog.\nDon has a frog.\nThe hog hops.\nThe frog hops.\nDon put socks in a box.\nThe hog puts rocks on the box.\nThe frog puts logs in the box.\nThe box was on the soft moss.\nThe hog did hop on the moss.\nThe frog did hop on the moss.\nDon said, \"I love my hog and my frog.\"\nThe hog hops to Don.\nThe frog hops to Don.\nDon and the hog sat on the moss.\nThe frog hops on the box.\nDon said, \"I love my hog.\""
+    },
+    {
+      "id": "p7",
+      "text": "Don has a job.\nDon is a cop.\nDon spots his pal Ron.\nRon is a cop, too!\nDon and Ron stop a rob.\nDon and Ron jog to the shop.\nThey lock up the shop.\nDon and Ron nod.\nThe shop boss says, \"Top job!\"\nDon and Ron grin a lot.\nDon says, \"I love my job!\""
+    },
+    {
+      "id": "p8",
+      "text": "Don has a dog.\nThe dog is Ozz.\nDon and Ozz jog.\nThey hop on a log.\nThey spot a box.\nOzz drops rocks in the box.\nDon puts socks on Ozz.\nOzz gets too hot!\nOzz pops off the socks.\nDon says, \"I love Ozz!\""
+    },
+    {
+      "id": "p9",
+      "text": "Mona has an octopus.\nThe octopus is Ozz.\nMona and Ozz jog.\nThey hop on a log.\nThey spot a box.\nOzz drops rocks in the box.\nMona puts socks on Ozz.\nOzz gets too hot!\nOzz pops off the socks.\nMona says, \"I love Ozz!\"\nOzz looks and looks.\nOzz loves Mona."
     }
   ]
 }

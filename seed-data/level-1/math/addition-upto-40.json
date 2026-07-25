@@ -1,1616 +1,2515 @@
 {
   "_source_file": "level_1_addition_upto_40.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "addition-upto-40",
-    "title": "Add Upto 40",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.510Z",
+  "slug": "addition-upto-40",
+  "title": "Add Upto 40",
+  "level": "level-1",
+  "subject": "math",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What is 11 + 29?",
       "type": "mcq",
+      "prompt": "What is 11 + 29?",
       "options": {
         "choices": [
-          "41",
-          "40"
+          {
+            "id": "c1",
+            "text": "41"
+          },
+          {
+            "id": "c2",
+            "text": "40"
+          }
         ]
       },
-      "correct_answer": "40",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "11 + 29 = 40",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "What is 6 + 16?",
       "type": "mcq",
+      "prompt": "What is 6 + 16?",
       "options": {
         "choices": [
-          "21",
-          "22"
+          {
+            "id": "c1",
+            "text": "21"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "6 + 16 = 22",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "What is 6 + 17?",
       "type": "mcq",
+      "prompt": "What is 6 + 17?",
       "options": {
         "choices": [
-          "24",
-          "23"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "23",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "6 + 17 = 23",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "What is 29 + 9?",
       "type": "mcq",
+      "prompt": "What is 29 + 9?",
       "options": {
         "choices": [
-          "38",
-          "37"
+          {
+            "id": "c1",
+            "text": "38"
+          },
+          {
+            "id": "c2",
+            "text": "37"
+          }
         ]
       },
-      "correct_answer": "38",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "29 + 9 = 38",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "What is 14 + 21?",
       "type": "mcq",
+      "prompt": "What is 14 + 21?",
       "options": {
         "choices": [
-          "35",
-          "34"
+          {
+            "id": "c1",
+            "text": "35"
+          },
+          {
+            "id": "c2",
+            "text": "34"
+          }
         ]
       },
-      "correct_answer": "35",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "14 + 21 = 35",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "What is 9 + 25?",
       "type": "mcq",
+      "prompt": "What is 9 + 25?",
       "options": {
         "choices": [
-          "34",
-          "35"
+          {
+            "id": "c1",
+            "text": "34"
+          },
+          {
+            "id": "c2",
+            "text": "35"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "9 + 25 = 34",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "What is 21 + 0?",
       "type": "mcq",
+      "prompt": "What is 21 + 0?",
       "options": {
         "choices": [
-          "21",
-          "20"
+          {
+            "id": "c1",
+            "text": "21"
+          },
+          {
+            "id": "c2",
+            "text": "20"
+          }
         ]
       },
-      "correct_answer": "21",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "21 + 0 = 21",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "What is 20 + 12?",
       "type": "mcq",
+      "prompt": "What is 20 + 12?",
       "options": {
         "choices": [
-          "32",
-          "31"
+          {
+            "id": "c1",
+            "text": "32"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          }
         ]
       },
-      "correct_answer": "32",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "20 + 12 = 32",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "What is 33 + 3?",
       "type": "mcq",
+      "prompt": "What is 33 + 3?",
       "options": {
         "choices": [
-          "37",
-          "36"
+          {
+            "id": "c1",
+            "text": "37"
+          },
+          {
+            "id": "c2",
+            "text": "36"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "33 + 3 = 36",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "What is 5 + 13?",
       "type": "mcq",
+      "prompt": "What is 5 + 13?",
       "options": {
         "choices": [
-          "19",
-          "18"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 13 = 18",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "What is 4 + 19?",
       "type": "mcq",
+      "prompt": "What is 4 + 19?",
       "options": {
         "choices": [
-          "23",
-          "24"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "24"
+          }
         ]
       },
-      "correct_answer": "23",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "4 + 19 = 23",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "What is 19 + 20?",
       "type": "mcq",
+      "prompt": "What is 19 + 20?",
       "options": {
         "choices": [
-          "39",
-          "40"
+          {
+            "id": "c1",
+            "text": "39"
+          },
+          {
+            "id": "c2",
+            "text": "40"
+          }
         ]
       },
-      "correct_answer": "39",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "19 + 20 = 39",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "What is 7 + 31?",
       "type": "mcq",
+      "prompt": "What is 7 + 31?",
       "options": {
         "choices": [
-          "39",
-          "38"
+          {
+            "id": "c1",
+            "text": "39"
+          },
+          {
+            "id": "c2",
+            "text": "38"
+          }
         ]
       },
-      "correct_answer": "38",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "7 + 31 = 38",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "What is 13 + 6?",
       "type": "mcq",
+      "prompt": "What is 13 + 6?",
       "options": {
         "choices": [
-          "20",
-          "19"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "13 + 6 = 19",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "What is 19 + 3?",
       "type": "mcq",
+      "prompt": "What is 19 + 3?",
       "options": {
         "choices": [
-          "23",
-          "22"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "19 + 3 = 22",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "What is 5 + 30?",
       "type": "mcq",
+      "prompt": "What is 5 + 30?",
       "options": {
         "choices": [
-          "36",
-          "35"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "35"
+          }
         ]
       },
-      "correct_answer": "35",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 30 = 35",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "What is 2 + 21?",
       "type": "mcq",
+      "prompt": "What is 2 + 21?",
       "options": {
         "choices": [
-          "24",
-          "23"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "23",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "2 + 21 = 23",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "What is 19 + 11?",
       "type": "mcq",
+      "prompt": "What is 19 + 11?",
       "options": {
         "choices": [
-          "31",
-          "30"
+          {
+            "id": "c1",
+            "text": "31"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "19 + 11 = 30",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "What is 14 + 0?",
       "type": "mcq",
+      "prompt": "What is 14 + 0?",
       "options": {
         "choices": [
-          "14",
-          "13"
+          {
+            "id": "c1",
+            "text": "14"
+          },
+          {
+            "id": "c2",
+            "text": "13"
+          }
         ]
       },
-      "correct_answer": "14",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "14 + 0 = 14",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "What is 8 + 15?",
       "type": "mcq",
+      "prompt": "What is 8 + 15?",
       "options": {
         "choices": [
-          "22",
-          "23"
+          {
+            "id": "c1",
+            "text": "22"
+          },
+          {
+            "id": "c2",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "23",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "8 + 15 = 23",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "What is 18 + 21?",
       "type": "mcq",
+      "prompt": "What is 18 + 21?",
       "options": {
         "choices": [
-          "39",
-          "38"
+          {
+            "id": "c1",
+            "text": "39"
+          },
+          {
+            "id": "c2",
+            "text": "38"
+          }
         ]
       },
-      "correct_answer": "39",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "18 + 21 = 39",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "What is 2 + 17?",
       "type": "mcq",
+      "prompt": "What is 2 + 17?",
       "options": {
         "choices": [
-          "20",
-          "19"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "2 + 17 = 19",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "What is 9 + 10?",
       "type": "mcq",
+      "prompt": "What is 9 + 10?",
       "options": {
         "choices": [
-          "19",
-          "18"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "9 + 10 = 19",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "What is 10 + 19?",
       "type": "mcq",
+      "prompt": "What is 10 + 19?",
       "options": {
         "choices": [
-          "29",
-          "30"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          }
         ]
       },
-      "correct_answer": "29",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "10 + 19 = 29",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "What is 1 + 26?",
       "type": "mcq",
+      "prompt": "What is 1 + 26?",
       "options": {
         "choices": [
-          "28",
-          "27"
+          {
+            "id": "c1",
+            "text": "28"
+          },
+          {
+            "id": "c2",
+            "text": "27"
+          }
         ]
       },
-      "correct_answer": "27",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 + 26 = 27",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "What is 26 + 8?",
       "type": "mcq",
+      "prompt": "What is 26 + 8?",
       "options": {
         "choices": [
-          "34",
-          "33"
+          {
+            "id": "c1",
+            "text": "34"
+          },
+          {
+            "id": "c2",
+            "text": "33"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "26 + 8 = 34",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "What is 6 + 12?",
       "type": "mcq",
+      "prompt": "What is 6 + 12?",
       "options": {
         "choices": [
-          "19",
-          "18"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "6 + 12 = 18",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "What is 3 + 24?",
       "type": "mcq",
+      "prompt": "What is 3 + 24?",
       "options": {
         "choices": [
-          "28",
-          "27"
+          {
+            "id": "c1",
+            "text": "28"
+          },
+          {
+            "id": "c2",
+            "text": "27"
+          }
         ]
       },
-      "correct_answer": "27",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "3 + 24 = 27",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "What is 11 + 19?",
       "type": "mcq",
+      "prompt": "What is 11 + 19?",
       "options": {
         "choices": [
-          "31",
-          "30"
+          {
+            "id": "c1",
+            "text": "31"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "11 + 19 = 30",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "What is 9 + 26?",
       "type": "mcq",
+      "prompt": "What is 9 + 26?",
       "options": {
         "choices": [
-          "34",
-          "35"
+          {
+            "id": "c1",
+            "text": "34"
+          },
+          {
+            "id": "c2",
+            "text": "35"
+          }
         ]
       },
-      "correct_answer": "35",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 + 26 = 35",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "What is 1 + 10?",
       "type": "mcq",
+      "prompt": "What is 1 + 10?",
       "options": {
         "choices": [
-          "11",
-          "12"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "12"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 + 10 = 11",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "What is 3 + 33?",
       "type": "mcq",
+      "prompt": "What is 3 + 33?",
       "options": {
         "choices": [
-          "37",
-          "36"
+          {
+            "id": "c1",
+            "text": "37"
+          },
+          {
+            "id": "c2",
+            "text": "36"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "3 + 33 = 36",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "What is 13 + 10?",
       "type": "mcq",
+      "prompt": "What is 13 + 10?",
       "options": {
         "choices": [
-          "22",
-          "23"
+          {
+            "id": "c1",
+            "text": "22"
+          },
+          {
+            "id": "c2",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "23",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "13 + 10 = 23",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "What is 14 + 23?",
       "type": "mcq",
+      "prompt": "What is 14 + 23?",
       "options": {
         "choices": [
-          "36",
-          "37"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "37"
+          }
         ]
       },
-      "correct_answer": "37",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "14 + 23 = 37",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "What is 20 + 15?",
       "type": "mcq",
+      "prompt": "What is 20 + 15?",
       "options": {
         "choices": [
-          "34",
-          "35"
+          {
+            "id": "c1",
+            "text": "34"
+          },
+          {
+            "id": "c2",
+            "text": "35"
+          }
         ]
       },
-      "correct_answer": "35",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "20 + 15 = 35",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "What is 14 + 25?",
       "type": "mcq",
+      "prompt": "What is 14 + 25?",
       "options": {
         "choices": [
-          "38",
-          "39"
+          {
+            "id": "c1",
+            "text": "38"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "39",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "14 + 25 = 39",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "What is 11 + 23?",
       "type": "mcq",
+      "prompt": "What is 11 + 23?",
       "options": {
         "choices": [
-          "33",
-          "34"
+          {
+            "id": "c1",
+            "text": "33"
+          },
+          {
+            "id": "c2",
+            "text": "34"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "11 + 23 = 34",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "What is 10 + 26?",
       "type": "mcq",
+      "prompt": "What is 10 + 26?",
       "options": {
         "choices": [
-          "36",
-          "35"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "35"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "10 + 26 = 36",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "What is 11 + 2?",
       "type": "mcq",
+      "prompt": "What is 11 + 2?",
       "options": {
         "choices": [
-          "13",
-          "14"
+          {
+            "id": "c1",
+            "text": "13"
+          },
+          {
+            "id": "c2",
+            "text": "14"
+          }
         ]
       },
-      "correct_answer": "13",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "11 + 2 = 13",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "What is 8 + 14?",
       "type": "mcq",
+      "prompt": "What is 8 + 14?",
       "options": {
         "choices": [
-          "21",
-          "22"
+          {
+            "id": "c1",
+            "text": "21"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "8 + 14 = 22",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "What is 23 + 0?",
       "type": "mcq",
+      "prompt": "What is 23 + 0?",
       "options": {
         "choices": [
-          "24",
-          "23"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "23",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "23 + 0 = 23",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "What is 34 + 5?",
       "type": "mcq",
+      "prompt": "What is 34 + 5?",
       "options": {
         "choices": [
-          "39",
-          "40"
+          {
+            "id": "c1",
+            "text": "39"
+          },
+          {
+            "id": "c2",
+            "text": "40"
+          }
         ]
       },
-      "correct_answer": "39",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "34 + 5 = 39",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "What is 16 + 20?",
       "type": "mcq",
+      "prompt": "What is 16 + 20?",
       "options": {
         "choices": [
-          "36",
-          "35"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "35"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "16 + 20 = 36",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "What is 31 + 3?",
       "type": "mcq",
+      "prompt": "What is 31 + 3?",
       "options": {
         "choices": [
-          "33",
-          "34"
+          {
+            "id": "c1",
+            "text": "33"
+          },
+          {
+            "id": "c2",
+            "text": "34"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "31 + 3 = 34",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "What is 18 + 11?",
       "type": "mcq",
+      "prompt": "What is 18 + 11?",
       "options": {
         "choices": [
-          "29",
-          "30"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          }
         ]
       },
-      "correct_answer": "29",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "18 + 11 = 29",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "What is 5 + 12?",
       "type": "mcq",
+      "prompt": "What is 5 + 12?",
       "options": {
         "choices": [
-          "18",
-          "17"
+          {
+            "id": "c1",
+            "text": "18"
+          },
+          {
+            "id": "c2",
+            "text": "17"
+          }
         ]
       },
-      "correct_answer": "17",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 12 = 17",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "What is 12 + 27?",
       "type": "mcq",
+      "prompt": "What is 12 + 27?",
       "options": {
         "choices": [
-          "38",
-          "39"
+          {
+            "id": "c1",
+            "text": "38"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "39",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "12 + 27 = 39",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "What is 5 + 33?",
       "type": "mcq",
+      "prompt": "What is 5 + 33?",
       "options": {
         "choices": [
-          "37",
-          "38"
+          {
+            "id": "c1",
+            "text": "37"
+          },
+          {
+            "id": "c2",
+            "text": "38"
+          }
         ]
       },
-      "correct_answer": "38",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 33 = 38",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "What is 12 + 12?",
       "type": "mcq",
+      "prompt": "What is 12 + 12?",
       "options": {
         "choices": [
-          "24",
-          "23"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "12 + 12 = 24",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "What is 10 + 4?",
       "type": "mcq",
+      "prompt": "What is 10 + 4?",
       "options": {
         "choices": [
-          "14",
-          "15"
+          {
+            "id": "c1",
+            "text": "14"
+          },
+          {
+            "id": "c2",
+            "text": "15"
+          }
         ]
       },
-      "correct_answer": "14",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "10 + 4 = 14",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "What is 16 + 12?",
       "type": "mcq",
+      "prompt": "What is 16 + 12?",
       "options": {
         "choices": [
-          "27",
-          "28"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "16 + 12 = 28",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "What is 10 + 23?",
       "type": "mcq",
+      "prompt": "What is 10 + 23?",
       "options": {
         "choices": [
-          "33",
-          "34"
+          {
+            "id": "c1",
+            "text": "33"
+          },
+          {
+            "id": "c2",
+            "text": "34"
+          }
         ]
       },
-      "correct_answer": "33",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "10 + 23 = 33",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "What is 1 + 36?",
       "type": "mcq",
+      "prompt": "What is 1 + 36?",
       "options": {
         "choices": [
-          "37",
-          "38"
+          {
+            "id": "c1",
+            "text": "37"
+          },
+          {
+            "id": "c2",
+            "text": "38"
+          }
         ]
       },
-      "correct_answer": "37",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 + 36 = 37",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "What is 4 + 36?",
       "type": "mcq",
+      "prompt": "What is 4 + 36?",
       "options": {
         "choices": [
-          "41",
-          "40"
+          {
+            "id": "c1",
+            "text": "41"
+          },
+          {
+            "id": "c2",
+            "text": "40"
+          }
         ]
       },
-      "correct_answer": "40",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "4 + 36 = 40",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "What is 1 + 15?",
       "type": "mcq",
+      "prompt": "What is 1 + 15?",
       "options": {
         "choices": [
-          "15",
-          "16"
+          {
+            "id": "c1",
+            "text": "15"
+          },
+          {
+            "id": "c2",
+            "text": "16"
+          }
         ]
       },
-      "correct_answer": "16",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 + 15 = 16",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "What is 4 + 10?",
       "type": "mcq",
+      "prompt": "What is 4 + 10?",
       "options": {
         "choices": [
-          "14",
-          "15"
+          {
+            "id": "c1",
+            "text": "14"
+          },
+          {
+            "id": "c2",
+            "text": "15"
+          }
         ]
       },
-      "correct_answer": "14",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "4 + 10 = 14",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "What is 2 + 27?",
       "type": "mcq",
+      "prompt": "What is 2 + 27?",
       "options": {
         "choices": [
-          "29",
-          "30"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          }
         ]
       },
-      "correct_answer": "29",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "2 + 27 = 29",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "What is 28 + 8?",
       "type": "mcq",
+      "prompt": "What is 28 + 8?",
       "options": {
         "choices": [
-          "36",
-          "37"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "37"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "28 + 8 = 36",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "What is 3 + 8?",
       "type": "mcq",
+      "prompt": "What is 3 + 8?",
       "options": {
         "choices": [
-          "11",
-          "12"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "12"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "3 + 8 = 11",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "What is 30 + 2?",
       "type": "mcq",
+      "prompt": "What is 30 + 2?",
       "options": {
         "choices": [
-          "31",
-          "32"
+          {
+            "id": "c1",
+            "text": "31"
+          },
+          {
+            "id": "c2",
+            "text": "32"
+          }
         ]
       },
-      "correct_answer": "32",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "30 + 2 = 32",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "What is 7 + 8?",
       "type": "mcq",
+      "prompt": "What is 7 + 8?",
       "options": {
         "choices": [
-          "15",
-          "16"
+          {
+            "id": "c1",
+            "text": "15"
+          },
+          {
+            "id": "c2",
+            "text": "16"
+          }
         ]
       },
-      "correct_answer": "15",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "7 + 8 = 15",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "What is 27 + 9?",
       "type": "mcq",
+      "prompt": "What is 27 + 9?",
       "options": {
         "choices": [
-          "36",
-          "37"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "37"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "27 + 9 = 36",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "What is 24 + 15?",
       "type": "mcq",
+      "prompt": "What is 24 + 15?",
       "options": {
         "choices": [
-          "39",
-          "38"
+          {
+            "id": "c1",
+            "text": "39"
+          },
+          {
+            "id": "c2",
+            "text": "38"
+          }
         ]
       },
-      "correct_answer": "39",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "24 + 15 = 39",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "What is 24 + 11?",
       "type": "mcq",
+      "prompt": "What is 24 + 11?",
       "options": {
         "choices": [
-          "34",
-          "35"
+          {
+            "id": "c1",
+            "text": "34"
+          },
+          {
+            "id": "c2",
+            "text": "35"
+          }
         ]
       },
-      "correct_answer": "35",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "24 + 11 = 35",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "What is 29 + 7?",
       "type": "mcq",
+      "prompt": "What is 29 + 7?",
       "options": {
         "choices": [
-          "36",
-          "37"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "37"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "29 + 7 = 36",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "What is 5 + 26?",
       "type": "mcq",
+      "prompt": "What is 5 + 26?",
       "options": {
         "choices": [
-          "32",
-          "31"
+          {
+            "id": "c1",
+            "text": "32"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          }
         ]
       },
-      "correct_answer": "31",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 26 = 31",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "What is 23 + 10?",
       "type": "mcq",
+      "prompt": "What is 23 + 10?",
       "options": {
         "choices": [
-          "33",
-          "34"
+          {
+            "id": "c1",
+            "text": "33"
+          },
+          {
+            "id": "c2",
+            "text": "34"
+          }
         ]
       },
-      "correct_answer": "33",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "23 + 10 = 33",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "What is 11 + 7?",
       "type": "mcq",
+      "prompt": "What is 11 + 7?",
       "options": {
         "choices": [
-          "17",
-          "18"
+          {
+            "id": "c1",
+            "text": "17"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "11 + 7 = 18",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "What is 16 + 15?",
       "type": "mcq",
+      "prompt": "What is 16 + 15?",
       "options": {
         "choices": [
-          "30",
-          "31"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          }
         ]
       },
-      "correct_answer": "31",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "16 + 15 = 31",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "What is 9 + 15?",
       "type": "mcq",
+      "prompt": "What is 9 + 15?",
       "options": {
         "choices": [
-          "23",
-          "24"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "24"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 + 15 = 24",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "What is 37 + 3?",
       "type": "mcq",
+      "prompt": "What is 37 + 3?",
       "options": {
         "choices": [
-          "40",
-          "39"
+          {
+            "id": "c1",
+            "text": "40"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "40",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "37 + 3 = 40",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "What is 3 + 13?",
       "type": "mcq",
+      "prompt": "What is 3 + 13?",
       "options": {
         "choices": [
-          "15",
-          "16"
+          {
+            "id": "c1",
+            "text": "15"
+          },
+          {
+            "id": "c2",
+            "text": "16"
+          }
         ]
       },
-      "correct_answer": "16",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "3 + 13 = 16",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "What is 3 + 34?",
       "type": "mcq",
+      "prompt": "What is 3 + 34?",
       "options": {
         "choices": [
-          "37",
-          "36"
+          {
+            "id": "c1",
+            "text": "37"
+          },
+          {
+            "id": "c2",
+            "text": "36"
+          }
         ]
       },
-      "correct_answer": "37",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "3 + 34 = 37",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "What is 9 + 16?",
       "type": "mcq",
+      "prompt": "What is 9 + 16?",
       "options": {
         "choices": [
-          "24",
-          "25"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          }
         ]
       },
-      "correct_answer": "25",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 + 16 = 25",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "What is 5 + 32?",
       "type": "mcq",
+      "prompt": "What is 5 + 32?",
       "options": {
         "choices": [
-          "36",
-          "37"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "37"
+          }
         ]
       },
-      "correct_answer": "37",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 32 = 37",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "What is 0 + 9?",
       "type": "mcq",
+      "prompt": "What is 0 + 9?",
       "options": {
         "choices": [
-          "9",
-          "8"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "0 + 9 = 9",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "What is 29 + 1?",
       "type": "mcq",
+      "prompt": "What is 29 + 1?",
       "options": {
         "choices": [
-          "30",
-          "29"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "29 + 1 = 30",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "What is 15 + 19?",
       "type": "mcq",
+      "prompt": "What is 15 + 19?",
       "options": {
         "choices": [
-          "34",
-          "33"
+          {
+            "id": "c1",
+            "text": "34"
+          },
+          {
+            "id": "c2",
+            "text": "33"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "15 + 19 = 34",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "What is 35 + 0?",
       "type": "mcq",
+      "prompt": "What is 35 + 0?",
       "options": {
         "choices": [
-          "35",
-          "34"
+          {
+            "id": "c1",
+            "text": "35"
+          },
+          {
+            "id": "c2",
+            "text": "34"
+          }
         ]
       },
-      "correct_answer": "35",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "35 + 0 = 35",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "What is 13 + 2?",
       "type": "mcq",
+      "prompt": "What is 13 + 2?",
       "options": {
         "choices": [
-          "16",
-          "15"
+          {
+            "id": "c1",
+            "text": "16"
+          },
+          {
+            "id": "c2",
+            "text": "15"
+          }
         ]
       },
-      "correct_answer": "15",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "13 + 2 = 15",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "What is 22 + 12?",
       "type": "mcq",
+      "prompt": "What is 22 + 12?",
       "options": {
         "choices": [
-          "35",
-          "34"
+          {
+            "id": "c1",
+            "text": "35"
+          },
+          {
+            "id": "c2",
+            "text": "34"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "22 + 12 = 34",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "What is 28 + 0?",
       "type": "mcq",
+      "prompt": "What is 28 + 0?",
       "options": {
         "choices": [
-          "27",
-          "28"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "28 + 0 = 28",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "What is 5 + 14?",
       "type": "mcq",
+      "prompt": "What is 5 + 14?",
       "options": {
         "choices": [
-          "18",
-          "19"
+          {
+            "id": "c1",
+            "text": "18"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 14 = 19",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "What is 1 + 24?",
       "type": "mcq",
+      "prompt": "What is 1 + 24?",
       "options": {
         "choices": [
-          "25",
-          "24"
+          {
+            "id": "c1",
+            "text": "25"
+          },
+          {
+            "id": "c2",
+            "text": "24"
+          }
         ]
       },
-      "correct_answer": "25",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 + 24 = 25",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "What is 20 + 4?",
       "type": "mcq",
+      "prompt": "What is 20 + 4?",
       "options": {
         "choices": [
-          "25",
-          "24"
+          {
+            "id": "c1",
+            "text": "25"
+          },
+          {
+            "id": "c2",
+            "text": "24"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "20 + 4 = 24",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "What is 13 + 5?",
       "type": "mcq",
+      "prompt": "What is 13 + 5?",
       "options": {
         "choices": [
-          "19",
-          "18"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "13 + 5 = 18",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "What is 15 + 23?",
       "type": "mcq",
+      "prompt": "What is 15 + 23?",
       "options": {
         "choices": [
-          "38",
-          "39"
+          {
+            "id": "c1",
+            "text": "38"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "38",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "15 + 23 = 38",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "What is 21 + 1?",
       "type": "mcq",
+      "prompt": "What is 21 + 1?",
       "options": {
         "choices": [
-          "23",
-          "22"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "21 + 1 = 22",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "What is 27 + 12?",
       "type": "mcq",
+      "prompt": "What is 27 + 12?",
       "options": {
         "choices": [
-          "40",
-          "39"
+          {
+            "id": "c1",
+            "text": "40"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "39",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "27 + 12 = 39",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "What is 14 + 13?",
       "type": "mcq",
+      "prompt": "What is 14 + 13?",
       "options": {
         "choices": [
-          "27",
-          "28"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "27",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "14 + 13 = 27",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "What is 36 + 3?",
       "type": "mcq",
+      "prompt": "What is 36 + 3?",
       "options": {
         "choices": [
-          "38",
-          "39"
+          {
+            "id": "c1",
+            "text": "38"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "39",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "36 + 3 = 39",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "What is 16 + 17?",
       "type": "mcq",
+      "prompt": "What is 16 + 17?",
       "options": {
         "choices": [
-          "33",
-          "32"
+          {
+            "id": "c1",
+            "text": "33"
+          },
+          {
+            "id": "c2",
+            "text": "32"
+          }
         ]
       },
-      "correct_answer": "33",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "16 + 17 = 33",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "What is 0 + 29?",
       "type": "mcq",
+      "prompt": "What is 0 + 29?",
       "options": {
         "choices": [
-          "29",
-          "28"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "29",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "0 + 29 = 29",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "What is 22 + 17?",
       "type": "mcq",
+      "prompt": "What is 22 + 17?",
       "options": {
         "choices": [
-          "40",
-          "39"
+          {
+            "id": "c1",
+            "text": "40"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "39",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "22 + 17 = 39",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "What is 16 + 18?",
       "type": "mcq",
+      "prompt": "What is 16 + 18?",
       "options": {
         "choices": [
-          "34",
-          "33"
+          {
+            "id": "c1",
+            "text": "34"
+          },
+          {
+            "id": "c2",
+            "text": "33"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "16 + 18 = 34",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "What is 36 + 1?",
       "type": "mcq",
+      "prompt": "What is 36 + 1?",
       "options": {
         "choices": [
-          "37",
-          "38"
+          {
+            "id": "c1",
+            "text": "37"
+          },
+          {
+            "id": "c2",
+            "text": "38"
+          }
         ]
       },
-      "correct_answer": "37",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "36 + 1 = 37",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "What is 11 + 22?",
       "type": "mcq",
+      "prompt": "What is 11 + 22?",
       "options": {
         "choices": [
-          "34",
-          "33"
+          {
+            "id": "c1",
+            "text": "34"
+          },
+          {
+            "id": "c2",
+            "text": "33"
+          }
         ]
       },
-      "correct_answer": "33",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "11 + 22 = 33",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "What is 6 + 7?",
       "type": "mcq",
+      "prompt": "What is 6 + 7?",
       "options": {
         "choices": [
-          "13",
-          "12"
+          {
+            "id": "c1",
+            "text": "13"
+          },
+          {
+            "id": "c2",
+            "text": "12"
+          }
         ]
       },
-      "correct_answer": "13",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "6 + 7 = 13",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "What is 8 + 20?",
       "type": "mcq",
+      "prompt": "What is 8 + 20?",
       "options": {
         "choices": [
-          "29",
-          "28"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "8 + 20 = 28",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "What is 3 + 15?",
       "type": "mcq",
+      "prompt": "What is 3 + 15?",
       "options": {
         "choices": [
-          "18",
-          "17"
+          {
+            "id": "c1",
+            "text": "18"
+          },
+          {
+            "id": "c2",
+            "text": "17"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "3 + 15 = 18",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

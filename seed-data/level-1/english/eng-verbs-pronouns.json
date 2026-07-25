@@ -1,336 +1,615 @@
 {
   "_source_file": "level1_eng_verbs_pronouns.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 20,
-  "exercise": {
-    "slug": "eng-verbs-pronouns",
-    "title": "Identify Verbs — Images (Set 1–20)",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 20,
-    "total_questions": 20,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.537Z",
+  "slug": "eng-verbs-pronouns",
+  "title": "Identify Verbs — Images (Set 1–20)",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 20,
+  "total_questions": 20,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "runs",
-          "He"
+          {
+            "id": "c1",
+            "text": "runs"
+          },
+          {
+            "id": "c2",
+            "text": "He"
+          }
         ]
       },
-      "correct_answer": "runs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“runs” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (1).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (1).jpg"
+      },
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "hops",
-          "Sam"
+          {
+            "id": "c1",
+            "text": "hops"
+          },
+          {
+            "id": "c2",
+            "text": "Sam"
+          }
         ]
       },
-      "correct_answer": "hops",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“hops” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (2).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (2).jpg"
+      },
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "eat",
-          "I"
+          {
+            "id": "c1",
+            "text": "eat"
+          },
+          {
+            "id": "c2",
+            "text": "I"
+          }
         ]
       },
-      "correct_answer": "eat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“eat” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (3).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (3).jpg"
+      },
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "sing",
-          "We"
+          {
+            "id": "c1",
+            "text": "sing"
+          },
+          {
+            "id": "c2",
+            "text": "We"
+          }
         ]
       },
-      "correct_answer": "sing",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“sing” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (4).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (4).jpg"
+      },
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "play",
-          "They"
+          {
+            "id": "c1",
+            "text": "play"
+          },
+          {
+            "id": "c2",
+            "text": "They"
+          }
         ]
       },
-      "correct_answer": "play",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“play” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (5).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (5).jpg"
+      },
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "reads",
-          "Nina"
+          {
+            "id": "c1",
+            "text": "reads"
+          },
+          {
+            "id": "c2",
+            "text": "Nina"
+          }
         ]
       },
-      "correct_answer": "reads",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“reads” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (6).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (6).jpg"
+      },
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "sleeps",
-          "Coco"
+          {
+            "id": "c1",
+            "text": "sleeps"
+          },
+          {
+            "id": "c2",
+            "text": "Coco"
+          }
         ]
       },
-      "correct_answer": "sleeps",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“sleeps” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (7).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (7).jpg"
+      },
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "dances",
-          "Sandy"
+          {
+            "id": "c1",
+            "text": "dances"
+          },
+          {
+            "id": "c2",
+            "text": "Sandy"
+          }
         ]
       },
-      "correct_answer": "dances",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“dances” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (8).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (8).jpg"
+      },
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "draw",
-          "I"
+          {
+            "id": "c1",
+            "text": "draw"
+          },
+          {
+            "id": "c2",
+            "text": "I"
+          }
         ]
       },
-      "correct_answer": "draw",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“draw” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (9).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (9).jpg"
+      },
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "clap",
-          "We"
+          {
+            "id": "c1",
+            "text": "clap"
+          },
+          {
+            "id": "c2",
+            "text": "We"
+          }
         ]
       },
-      "correct_answer": "clap",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“clap” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (10).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (10).jpg"
+      },
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "swim",
-          "They"
+          {
+            "id": "c1",
+            "text": "swim"
+          },
+          {
+            "id": "c2",
+            "text": "They"
+          }
         ]
       },
-      "correct_answer": "swim",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“swim” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (11).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (11).jpg"
+      },
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "writes",
-          "doctor"
+          {
+            "id": "c1",
+            "text": "writes"
+          },
+          {
+            "id": "c2",
+            "text": "doctor"
+          }
         ]
       },
-      "correct_answer": "writes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“writes” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (12).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (12).jpg"
+      },
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "walks",
-          "Ben"
+          {
+            "id": "c1",
+            "text": "walks"
+          },
+          {
+            "id": "c2",
+            "text": "Ben"
+          }
         ]
       },
-      "correct_answer": "walks",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“walks” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (13).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (13).jpg"
+      },
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "paints",
-          "She"
+          {
+            "id": "c1",
+            "text": "paints"
+          },
+          {
+            "id": "c2",
+            "text": "She"
+          }
         ]
       },
-      "correct_answer": "paints",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“paints” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (14).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (14).jpg"
+      },
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "laughs",
-          "He"
+          {
+            "id": "c1",
+            "text": "laughs"
+          },
+          {
+            "id": "c2",
+            "text": "He"
+          }
         ]
       },
-      "correct_answer": "laughs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“laughs” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (15).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (15).jpg"
+      },
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "cooks",
-          "Dad"
+          {
+            "id": "c1",
+            "text": "cooks"
+          },
+          {
+            "id": "c2",
+            "text": "Dad"
+          }
         ]
       },
-      "correct_answer": "cooks",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“cooks” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (16).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (16).jpg"
+      },
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "talk",
-          "They"
+          {
+            "id": "c1",
+            "text": "talk"
+          },
+          {
+            "id": "c2",
+            "text": "They"
+          }
         ]
       },
-      "correct_answer": "talk",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“talk” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (17).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (17).jpg"
+      },
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "cuts",
-          "Tom"
+          {
+            "id": "c1",
+            "text": "cuts"
+          },
+          {
+            "id": "c2",
+            "text": "Tom"
+          }
         ]
       },
-      "correct_answer": "cuts",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“cuts” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (18).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (18).jpg"
+      },
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "kicks",
-          "He"
+          {
+            "id": "c1",
+            "text": "kicks"
+          },
+          {
+            "id": "c2",
+            "text": "He"
+          }
         ]
       },
-      "correct_answer": "kicks",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“kicks” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (19).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (19).jpg"
+      },
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "type": "mcq",
+      "prompt": "Look at the illustration. Select the verb that matches the picture.",
       "options": {
         "choices": [
-          "helps",
-          "He"
+          {
+            "id": "c1",
+            "text": "helps"
+          },
+          {
+            "id": "c2",
+            "text": "He"
+          }
         ]
       },
-      "correct_answer": "helps",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“helps” is the action shown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-verbs-pronouns/level1_eng_identify_image_verbs (20).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_verbs_pronouns_images/level1_eng_identify_image_verbs (20).jpg"
+      },
       "order_index": 20
     }
   ]

@@ -1,1616 +1,2515 @@
 {
   "_source_file": "level_1_eng_cocktails_pronouns.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "eng-cocktails-pronouns",
-    "title": "Cocktails Pop",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.538Z",
+  "slug": "eng-cocktails-pronouns",
+  "title": "Cocktails Pop",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He went to the market.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He went to the market.</span>",
       "options": {
         "choices": [
-          "he",
-          "market"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "market"
+          }
         ]
       },
-      "correct_answer": "he",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'he' is a subject pronoun functioning as the subject performing the action of going.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>He went to him for help.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>He went to him for help.</span>",
       "options": {
         "choices": [
-          "him",
-          "he"
+          {
+            "id": "c1",
+            "text": "him"
+          },
+          {
+            "id": "c2",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'him' is an object pronoun coming after the directional preposition 'to'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She was a little confused.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She was a little confused.</span>",
       "options": {
         "choices": [
-          "was",
-          "She"
+          {
+            "id": "c1",
+            "text": "was"
+          },
+          {
+            "id": "c2",
+            "text": "She"
+          }
         ]
       },
-      "correct_answer": "She",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'She' is the subject pronoun representing the individual who is experiencing confusion.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He was the world to her.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He was the world to her.</span>",
       "options": {
         "choices": [
-          "her",
-          "he"
+          {
+            "id": "c1",
+            "text": "her"
+          },
+          {
+            "id": "c2",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "he",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'he' is the subject pronoun heading the main clause before the verb 'was'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>They told us to leave the country.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>They told us to leave the country.</span>",
       "options": {
         "choices": [
-          "they",
-          "us"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' is an object pronoun arriving immediately after the active verb 'told'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>She always helps me.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>She always helps me.</span>",
       "options": {
         "choices": [
-          "she",
-          "me"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' is the object pronoun positioned directly after the action verb 'helps'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He wrote a long letter.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He wrote a long letter.</span>",
       "options": {
         "choices": [
-          "long",
-          "he"
+          {
+            "id": "c1",
+            "text": "long"
+          },
+          {
+            "id": "c2",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "he",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'he' is the subject pronoun positioned at the start, carrying out the action of writing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>We insist on good service.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>We insist on good service.</span>",
       "options": {
         "choices": [
-          "we",
-          "on"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "on"
+          }
         ]
       },
-      "correct_answer": "we",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'we' is the plural subject pronoun performing the action of insisting.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I insist on talking to him.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I insist on talking to him.</span>",
       "options": {
         "choices": [
-          "him",
-          "I"
+          {
+            "id": "c1",
+            "text": "him"
+          },
+          {
+            "id": "c2",
+            "text": "I"
+          }
         ]
       },
-      "correct_answer": "I",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'I' is the singular subject pronoun executing the action of insisting.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>He admires her a lot.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>He admires her a lot.</span>",
       "options": {
         "choices": [
-          "he",
-          "her"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' is the object pronoun receiving the mental action of the verb 'admires'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>I always tell you the truth.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>I always tell you the truth.</span>",
       "options": {
         "choices": [
-          "I",
-          "you"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "you"
+          }
         ]
       },
-      "correct_answer": "you",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'you' is the object pronoun functioning as the recipient after the verb 'tell'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She collects her books.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She collects her books.</span>",
       "options": {
         "choices": [
-          "her",
-          "she"
+          {
+            "id": "c1",
+            "text": "her"
+          },
+          {
+            "id": "c2",
+            "text": "she"
+          }
         ]
       },
-      "correct_answer": "she",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'she' is the subject pronoun executing the collection process.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>She collects her books.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>She collects her books.</span>",
       "options": {
         "choices": [
-          "her",
-          "she"
+          {
+            "id": "c1",
+            "text": "her"
+          },
+          {
+            "id": "c2",
+            "text": "she"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'her' acts here as a possessive determiner/pronoun identifying ownership of the books.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He collects them from the airport.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He collects them from the airport.</span>",
       "options": {
         "choices": [
-          "he",
-          "them"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "he",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'he' is the subject pronoun driving the active action 'collects'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>He collects them from the airport.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>He collects them from the airport.</span>",
       "options": {
         "choices": [
-          "them",
-          "he"
+          {
+            "id": "c1",
+            "text": "them"
+          },
+          {
+            "id": "c2",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'them' is the object pronoun following the active transition verb 'collects'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I often meet him at the park.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I often meet him at the park.</span>",
       "options": {
         "choices": [
-          "I",
-          "him"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "I",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'I' is the subject pronoun acting out the regular meeting.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>I often meet him at the park.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>I often meet him at the park.</span>",
       "options": {
         "choices": [
-          "I",
-          "him"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the target object pronoun located downstream from the verb 'meet'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She helps him with homework.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She helps him with homework.</span>",
       "options": {
         "choices": [
-          "him",
-          "she"
+          {
+            "id": "c1",
+            "text": "him"
+          },
+          {
+            "id": "c2",
+            "text": "she"
+          }
         ]
       },
-      "correct_answer": "she",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'she' is the subject pronoun located at the head of the sentence structure.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>The teacher gives them extra work.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>The teacher gives them extra work.</span>",
       "options": {
         "choices": [
-          "teacher",
-          "them"
+          {
+            "id": "c1",
+            "text": "teacher"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'them' is the object pronoun positioned after the ditransitive action verb 'gives'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I give them extra work.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I give them extra work.</span>",
       "options": {
         "choices": [
-          "I",
-          "them"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "I",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'I' is the primary subject pronoun acting as the source of the gift/work.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>She reads it every night.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>She reads it every night.</span>",
       "options": {
         "choices": [
-          "she",
-          "it"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' is the object pronoun representing the target item read after the verb 'reads'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She reads it every night.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She reads it every night.</span>",
       "options": {
         "choices": [
-          "it",
-          "She"
+          {
+            "id": "c1",
+            "text": "it"
+          },
+          {
+            "id": "c2",
+            "text": "She"
+          }
         ]
       },
-      "correct_answer": "She",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'She' is the subject pronoun performing the nighttime reading.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He uses it for school.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He uses it for school.</span>",
       "options": {
         "choices": [
-          "it",
-          "he"
+          {
+            "id": "c1",
+            "text": "it"
+          },
+          {
+            "id": "c2",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "he",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'he' is the subject pronoun operating the item.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>The police finally found him.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>The police finally found him.</span>",
       "options": {
         "choices": [
-          "him",
-          "the police"
+          {
+            "id": "c1",
+            "text": "him"
+          },
+          {
+            "id": "c2",
+            "text": "the police"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'him' is the object pronoun tracking behind the tracking verb 'found'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He captures the dog.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He captures the dog.</span>",
       "options": {
         "choices": [
-          "he",
-          "the dog"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "the dog"
+          }
         ]
       },
-      "correct_answer": "he",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'he' is the subject pronoun managing the capture.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>They invite her to lunch.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>They invite her to lunch.</span>",
       "options": {
         "choices": [
-          "her",
-          "they"
+          {
+            "id": "c1",
+            "text": "her"
+          },
+          {
+            "id": "c2",
+            "text": "they"
+          }
         ]
       },
-      "correct_answer": "they",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'they' is the subject pronoun presenting the social invitation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>They invite her to lunch.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>They invite her to lunch.</span>",
       "options": {
         "choices": [
-          "her",
-          "they"
+          {
+            "id": "c1",
+            "text": "her"
+          },
+          {
+            "id": "c2",
+            "text": "they"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'her' is the object pronoun placed immediately after 'invite'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>They clean it every morning.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>They clean it every morning.</span>",
       "options": {
         "choices": [
-          "it",
-          "they"
+          {
+            "id": "c1",
+            "text": "it"
+          },
+          {
+            "id": "c2",
+            "text": "they"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'it' is the object pronoun processing cleanup after the verb 'clean'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>People were focusing on him.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>People were focusing on him.</span>",
       "options": {
         "choices": [
-          "him",
-          "people"
+          {
+            "id": "c1",
+            "text": "him"
+          },
+          {
+            "id": "c2",
+            "text": "people"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'him' is the object pronoun placed directly after the preposition 'on'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>They were fascinated by flying.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>They were fascinated by flying.</span>",
       "options": {
         "choices": [
-          "were",
-          "they"
+          {
+            "id": "c1",
+            "text": "were"
+          },
+          {
+            "id": "c2",
+            "text": "they"
+          }
         ]
       },
-      "correct_answer": "they",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'they' is the subject pronoun experiencing fascination.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>We flew a kite outside.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>We flew a kite outside.</span>",
       "options": {
         "choices": [
-          "we",
-          "outside"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "we",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'we' is the plural subject pronoun handling the launch.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He flew the red kite.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He flew the red kite.</span>",
       "options": {
         "choices": [
-          "red",
-          "he"
+          {
+            "id": "c1",
+            "text": "red"
+          },
+          {
+            "id": "c2",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "he",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'he' is the subject pronoun managing flight routing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>The people were amazed by her ability.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>The people were amazed by her ability.</span>",
       "options": {
         "choices": [
-          "they",
-          "her"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' functions contextually to show attribute association links regarding ability.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>Dad and I made the kite carefully.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>Dad and I made the kite carefully.</span>",
       "options": {
         "choices": [
-          "I",
-          "Dad"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "Dad"
+          }
         ]
       },
-      "correct_answer": "I",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'I' is the subject pronoun forming part of the compound subject phrase.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>The wind was blowing all around us.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>The wind was blowing all around us.</span>",
       "options": {
         "choices": [
-          "was",
-          "us"
+          {
+            "id": "c1",
+            "text": "was"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' is the object pronoun anchored behind the complex spatial preposition 'around'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>The Chinese made them thousands of years ago.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>The Chinese made them thousands of years ago.</span>",
       "options": {
         "choices": [
-          "Chinese",
-          "them"
+          {
+            "id": "c1",
+            "text": "Chinese"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'them' is the target object pronoun located following the production verb 'made'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I handed the string to them.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I handed the string to them.</span>",
       "options": {
         "choices": [
-          "them",
-          "I"
+          {
+            "id": "c1",
+            "text": "them"
+          },
+          {
+            "id": "c2",
+            "text": "I"
+          }
         ]
       },
-      "correct_answer": "I",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'I' is the singular subject pronoun driving the handoff action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>They ran around it carefully.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>They ran around it carefully.</span>",
       "options": {
         "choices": [
-          "they",
-          "it"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' is the object pronoun following the spatial preposition 'around'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>I put it on the chair.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>I put it on the chair.</span>",
       "options": {
         "choices": [
-          "I",
-          "it"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' is the object pronoun tracking directly after the mechanical manipulation verb 'put'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I put it on the table.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I put it on the table.</span>",
       "options": {
         "choices": [
-          "I",
-          "it"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "I",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'I' is the subject pronoun launching the placement sequence.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>She went to him.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>She went to him.</span>",
       "options": {
         "choices": [
-          "she",
-          "him"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the object pronoun following the transit preposition 'to'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>They were used to her.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>They were used to her.</span>",
       "options": {
         "choices": [
-          "her",
-          "they"
+          {
+            "id": "c1",
+            "text": "her"
+          },
+          {
+            "id": "c2",
+            "text": "they"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'her' is the target object pronoun after the prepositional component 'to'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>They were used to her.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>They were used to her.</span>",
       "options": {
         "choices": [
-          "her",
-          "they"
+          {
+            "id": "c1",
+            "text": "her"
+          },
+          {
+            "id": "c2",
+            "text": "they"
+          }
         ]
       },
-      "correct_answer": "they",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'they' is the subject pronoun anchoring the passive state.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>Mark kicks him in the face.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>Mark kicks him in the face.</span>",
       "options": {
         "choices": [
-          "Mark",
-          "him"
+          {
+            "id": "c1",
+            "text": "Mark"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Note: 'him' is an object pronoun here receiving the kick. (Source layout limits choices to Mark vs him).",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>He helped her write it.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>He helped her write it.</span>",
       "options": {
         "choices": [
-          "her",
-          "he"
+          {
+            "id": "c1",
+            "text": "her"
+          },
+          {
+            "id": "c2",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'her' is the direct object pronoun tracking after the assistance verb 'helped'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>We read it together.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>We read it together.</span>",
       "options": {
         "choices": [
-          "we",
-          "it"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "we",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'we' is the subject pronoun organizing joint content analysis.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>I know them very well.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>I know them very well.</span>",
       "options": {
         "choices": [
-          "I",
-          "them"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'them' is the object pronoun positioned downstream from the verb 'know'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She asks us many questions.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She asks us many questions.</span>",
       "options": {
         "choices": [
-          "she",
-          "us"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "she",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'she' is the subject pronoun initiating the inquiries.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>He asks us many questions.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>He asks us many questions.</span>",
       "options": {
         "choices": [
-          "he",
-          "us"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' is the object pronoun acting as the audience after 'asks'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He sees you at the market.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He sees you at the market.</span>",
       "options": {
         "choices": [
-          "you",
-          "he"
+          {
+            "id": "c1",
+            "text": "you"
+          },
+          {
+            "id": "c2",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "he",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'he' is the subject pronoun managing visual monitoring tasks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>They need me in the group.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>They need me in the group.</span>",
       "options": {
         "choices": [
-          "they",
-          "me"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' is the object pronoun indicating requirement tracking after 'need'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>Our parents drive us to the nearest library.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>Our parents drive us to the nearest library.</span>",
       "options": {
         "choices": [
-          "us",
-          "parents"
+          {
+            "id": "c1",
+            "text": "us"
+          },
+          {
+            "id": "c2",
+            "text": "parents"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'us' is the object pronoun riding as passengers after 'drive'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He uses it for the first time.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He uses it for the first time.</span>",
       "options": {
         "choices": [
-          "time",
-          "he"
+          {
+            "id": "c1",
+            "text": "time"
+          },
+          {
+            "id": "c2",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "he",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'he' is the subject pronoun executing device initialization loops.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I looked at him.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I looked at him.</span>",
       "options": {
         "choices": [
-          "looked",
-          "I"
+          {
+            "id": "c1",
+            "text": "looked"
+          },
+          {
+            "id": "c2",
+            "text": "I"
+          }
         ]
       },
-      "correct_answer": "I",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'I' is the subject pronoun controlling camera gaze targets.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>He put it on the front door.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>He put it on the front door.</span>",
       "options": {
         "choices": [
-          "it",
-          "he"
+          {
+            "id": "c1",
+            "text": "it"
+          },
+          {
+            "id": "c2",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'it' is the object pronoun tracking asset placement steps.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She drove him to school.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She drove him to school.</span>",
       "options": {
         "choices": [
-          "him",
-          "she"
+          {
+            "id": "c1",
+            "text": "him"
+          },
+          {
+            "id": "c2",
+            "text": "she"
+          }
         ]
       },
-      "correct_answer": "she",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'she' is the subject pronoun running logistics operations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>You always support us.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>You always support us.</span>",
       "options": {
         "choices": [
-          "us",
-          "you"
+          {
+            "id": "c1",
+            "text": "us"
+          },
+          {
+            "id": "c2",
+            "text": "you"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'us' is the object pronoun receiving active backing parameters.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>Sam looked at him with surprised eyes.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>Sam looked at him with surprised eyes.</span>",
       "options": {
         "choices": [
-          "him",
-          "Sam"
+          {
+            "id": "c1",
+            "text": "him"
+          },
+          {
+            "id": "c2",
+            "text": "Sam"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Note: 'him' functions as an object pronoun following 'at'. (Source options select target index values).",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>George told her the news.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>George told her the news.</span>",
       "options": {
         "choices": [
-          "George",
-          "her"
+          {
+            "id": "c1",
+            "text": "George"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' is the destination object pronoun logging updates after 'told'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>Hana got her a big present.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>Hana got her a big present.</span>",
       "options": {
         "choices": [
-          "her",
-          "Hana"
+          {
+            "id": "c1",
+            "text": "her"
+          },
+          {
+            "id": "c2",
+            "text": "Hana"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Note: 'her' functions as an indirect object pronoun here receiving the asset. (Parsed context choice matches).",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>Sama made her own choice.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>Sama made her own choice.</span>",
       "options": {
         "choices": [
-          "own",
-          "her"
+          {
+            "id": "c1",
+            "text": "own"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' tracks personal property ownership identifiers in this path setup.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He uses it for work.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He uses it for work.</span>",
       "options": {
         "choices": [
-          "he",
-          "it"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "he",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'he' is the subject pronoun deploying equipment configurations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>They clean it every week.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>They clean it every week.</span>",
       "options": {
         "choices": [
-          "they",
-          "it"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' is the object pronoun maintaining clean states after 'clean'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>They invite us to the park.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>They invite us to the park.</span>",
       "options": {
         "choices": [
-          "they",
-          "us"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' is the object pronoun listed after the invitation handler 'invite'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>It was the world to us.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>It was the world to us.</span>",
       "options": {
         "choices": [
-          "it",
-          "us"
+          {
+            "id": "c1",
+            "text": "it"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'it' is the neutral subject pronoun anchoring existential significance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>He saw her at the beginning of class.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>He saw her at the beginning of class.</span>",
       "options": {
         "choices": [
-          "he",
-          "her"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' is the object pronoun captured by visual lines after 'saw'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>It helps me with my work.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>It helps me with my work.</span>",
       "options": {
         "choices": [
-          "it",
-          "me"
+          {
+            "id": "c1",
+            "text": "it"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'it' is the subject pronoun providing operational automated support.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>It follows you everywhere.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>It follows you everywhere.</span>",
       "options": {
         "choices": [
-          "it",
-          "you"
+          {
+            "id": "c1",
+            "text": "it"
+          },
+          {
+            "id": "c2",
+            "text": "you"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'it' is the subject pronoun executing tracking operations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>I ask her many questions.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>I ask her many questions.</span>",
       "options": {
         "choices": [
-          "I",
-          "her"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' is the target object pronoun questioned after 'ask'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>What did you tell her?</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>What did you tell her?</span>",
       "options": {
         "choices": [
-          "you",
-          "her"
+          {
+            "id": "c1",
+            "text": "you"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "you",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'you' is the subject pronoun executing statement outputs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>Did the people see it?</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>Did the people see it?</span>",
       "options": {
         "choices": [
-          "it",
-          "people"
+          {
+            "id": "c1",
+            "text": "it"
+          },
+          {
+            "id": "c2",
+            "text": "people"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'it' is the object pronoun tracked down from verification checks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>Do the girls see us?</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>Do the girls see us?</span>",
       "options": {
         "choices": [
-          "girls",
-          "us"
+          {
+            "id": "c1",
+            "text": "girls"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' is the target object pronoun inside scanning lines.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>Do the boys see him?</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>Do the boys see him?</span>",
       "options": {
         "choices": [
-          "him",
-          "do"
+          {
+            "id": "c1",
+            "text": "him"
+          },
+          {
+            "id": "c2",
+            "text": "do"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'him' is the object pronoun monitored behind the detection zone.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>They followed him.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>They followed him.</span>",
       "options": {
         "choices": [
-          "they",
-          "him"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "they",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'they' is the subject pronoun executing pursuit routes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He is in third grade.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He is in third grade.</span>",
       "options": {
         "choices": [
-          "he",
-          "is"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "is"
+          }
         ]
       },
-      "correct_answer": "he",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'he' is the single subject pronoun tracking classroom grade slots.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>They sing songs for us.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>They sing songs for us.</span>",
       "options": {
         "choices": [
-          "us",
-          "they"
+          {
+            "id": "c1",
+            "text": "us"
+          },
+          {
+            "id": "c2",
+            "text": "they"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'us' is the object pronoun tracking behind performance benefactors 'for'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>We are there for them.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>We are there for them.</span>",
       "options": {
         "choices": [
-          "we",
-          "them"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "we",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'we' is the collective subject pronoun backing support actions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>The teacher believes him.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>The teacher believes him.</span>",
       "options": {
         "choices": [
-          "believe",
-          "him"
+          {
+            "id": "c1",
+            "text": "believe"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the object pronoun receiving validation trust metrics after 'believes'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>We grow flowers in the garden.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>We grow flowers in the garden.</span>",
       "options": {
         "choices": [
-          "we",
-          "garden"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "garden"
+          }
         ]
       },
-      "correct_answer": "we",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'we' is the subject pronoun handling botanical propagation loops.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>It was great to see him.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>It was great to see him.</span>",
       "options": {
         "choices": [
-          "it",
-          "him"
+          {
+            "id": "c1",
+            "text": "it"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the target object pronoun located past the tracking vertex 'see'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>It was a beautiful weather.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>It was a beautiful weather.</span>",
       "options": {
         "choices": [
-          "it",
-          "was"
+          {
+            "id": "c1",
+            "text": "it"
+          },
+          {
+            "id": "c2",
+            "text": "was"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'it' handles automated atmospheric context placeholders safely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I caught a big fish.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>I caught a big fish.</span>",
       "options": {
         "choices": [
-          "I",
-          "fish"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "I",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'I' is the subject pronoun closing acquisition processes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He rides his bike to school.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He rides his bike to school.</span>",
       "options": {
         "choices": [
-          "he",
-          "bike"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "bike"
+          }
         ]
       },
-      "correct_answer": "he",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'he' is the subject pronoun activating transit equipment modules.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>You will pay them.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>You will pay them.</span>",
       "options": {
         "choices": [
-          "will",
-          "you"
+          {
+            "id": "c1",
+            "text": "will"
+          },
+          {
+            "id": "c2",
+            "text": "you"
+          }
         ]
       },
-      "correct_answer": "you",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'you' is the subject pronoun accountable for handling transaction tasks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>I will pay them.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>I will pay them.</span>",
       "options": {
         "choices": [
-          "I",
-          "them"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'them' is the object pronoun receiving clearing capital payouts.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>It will be with him.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>It will be with him.</span>",
       "options": {
         "choices": [
-          "it",
-          "him"
+          {
+            "id": "c1",
+            "text": "it"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the object pronoun positioned after custody location link words like 'with'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She was there on Saturday.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She was there on Saturday.</span>",
       "options": {
         "choices": [
-          "she",
-          "on"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "on"
+          }
         ]
       },
-      "correct_answer": "she",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'she' is the subject pronoun confirming physical location logging parameters.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>They were used to him.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>They were used to him.</span>",
       "options": {
         "choices": [
-          "they",
-          "him"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the target object pronoun following routine habit settings 'to'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>Sandy will bring him.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>Sandy will bring him.</span>",
       "options": {
         "choices": [
-          "will",
-          "him"
+          {
+            "id": "c1",
+            "text": "will"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the passenger object pronoun routed along after 'bring'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>I play football with them.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>I play football with them.</span>",
       "options": {
         "choices": [
-          "play",
-          "them"
+          {
+            "id": "c1",
+            "text": "play"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'them' is the collective object pronoun linked behind teammate tracker units 'with'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He plays chess with us.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>He plays chess with us.</span>",
       "options": {
         "choices": [
-          "with",
-          "he"
+          {
+            "id": "c1",
+            "text": "with"
+          },
+          {
+            "id": "c2",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "he",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'he' is the strategic subject pronoun opening game matrices.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>He bought for us many gifts.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>He bought for us many gifts.</span>",
       "options": {
         "choices": [
-          "he",
-          "us"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' is the beneficiary object pronoun assigned past the allocation flag 'for'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She wrote us the best story ever.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>She wrote us the best story ever.</span>",
       "options": {
         "choices": [
-          "She",
-          "us"
+          {
+            "id": "c1",
+            "text": "She"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "She",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'She' is the creative subject pronoun authorship source.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>It was written all over the wall.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>It was written all over the wall.</span>",
       "options": {
         "choices": [
-          "all",
-          "it"
+          {
+            "id": "c1",
+            "text": "all"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' is the subject pronoun holding logs verifying structural layout indicators.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>They meet you at the mall.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>They meet you at the mall.</span>",
       "options": {
         "choices": [
-          "they",
-          "you"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "you"
+          }
         ]
       },
-      "correct_answer": "you",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'you' is the destination object pronoun matched up via meeting intersections.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>We support her in every possible way.</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>We support her in every possible way.</span>",
       "options": {
         "choices": [
-          "her",
-          "we"
+          {
+            "id": "c1",
+            "text": "her"
+          },
+          {
+            "id": "c2",
+            "text": "we"
+          }
         ]
       },
-      "correct_answer": "we",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'we' is the subject pronoun handling collective system optimization goals.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>Did you clap for him?</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>Did you clap for him?</span>",
       "options": {
         "choices": [
-          "him",
-          "you"
+          {
+            "id": "c1",
+            "text": "him"
+          },
+          {
+            "id": "c2",
+            "text": "you"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'him' is the object pronoun acknowledging praise performance after 'for'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Identify the subject pronoun.<br><span style='color:black'>Do you like her?</span>",
       "type": "mcq",
+      "prompt": "Identify the subject pronoun.<br><span style='color:black'>Do you like her?</span>",
       "options": {
         "choices": [
-          "her",
-          "you"
+          {
+            "id": "c1",
+            "text": "her"
+          },
+          {
+            "id": "c2",
+            "text": "you"
+          }
         ]
       },
-      "correct_answer": "you",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'you' is the interpersonal subject pronoun tracking affinity index evaluations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>Bob gave them the correct spelling words.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>Bob gave them the correct spelling words.</span>",
       "options": {
         "choices": [
-          "them",
-          "gave"
+          {
+            "id": "c1",
+            "text": "them"
+          },
+          {
+            "id": "c2",
+            "text": "gave"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'them' is the student object pronoun allocated testing words after 'gave'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Identify the object pronoun.<br><span style='color:black'>I will travel with her to Paris.</span>",
       "type": "mcq",
+      "prompt": "Identify the object pronoun.<br><span style='color:black'>I will travel with her to Paris.</span>",
       "options": {
         "choices": [
-          "I",
-          "her"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' is the flight companion object pronoun tracking with cross-border routes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

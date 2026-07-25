@@ -1,1717 +1,3559 @@
 {
   "_source_file": "leve1_eng_vowels_U.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "leve1-eng-vowels-u",
-    "title": "Leve1 Eng Vowels U",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.530Z",
+  "slug": "leve1-eng-vowels-u",
+  "title": "Leve1 Eng Vowels U",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 100,
+  "total_questions": 100,
+  "shuffle": false,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBuck and Russ are buds.<br>\nBuck runs.<br>\nRuss runs.<br>\nBuck and Russ look for bugs.<br>\nBuck found ten bugs.<br>\nRuss found hundred of bugs.<br>\nBuck gets a bug.<br>\nRuss gets a jug.<br>\nNow the bugs are in the jug.\n</div><br>\n<span style=\"color:red;\">1. What are Buck and Ross?</span>",
       "type": "mcq",
+      "prompt": "What are Buck and Ross?",
       "options": {
         "choices": [
-          "good friends",
-          "bad friends",
-          "don't know each other"
+          {
+            "id": "c1",
+            "text": "good friends"
+          },
+          {
+            "id": "c2",
+            "text": "bad friends"
+          },
+          {
+            "id": "c3",
+            "text": "don't know each other"
+          }
         ]
       },
-      "correct_answer": "good friends",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Buck and Russ are buds — 'buds' means good friends.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 1
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/1.png"
+      },
+      "order_index": 1,
+      "passage_id": "p1"
     },
     {
       "slug": "q002",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBuck and Russ are buds.<br>\nBuck runs.<br>\nRuss runs.<br>\nBuck and Russ look for bugs.<br>\nBuck found ten bugs.<br>\nRuss found hundred of bugs.<br>\nBuck gets a bug.<br>\nRuss gets a jug.<br>\nNow the bugs are in the jug.\n</div><br>\n<span style=\"color:red;\">2. What did Buck and Ross do?</span>",
       "type": "mcq",
+      "prompt": "What did Buck and Ross do?",
       "options": {
         "choices": [
-          "run",
-          "hop",
-          "write"
+          {
+            "id": "c1",
+            "text": "run"
+          },
+          {
+            "id": "c2",
+            "text": "hop"
+          },
+          {
+            "id": "c3",
+            "text": "write"
+          }
         ]
       },
-      "correct_answer": "run",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Buck runs. Russ runs.' — they ran.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 2
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/1.png"
+      },
+      "order_index": 2,
+      "passage_id": "p1"
     },
     {
       "slug": "q003",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBuck and Russ are buds.<br>\nBuck runs.<br>\nRuss runs.<br>\nBuck and Russ look for bugs.<br>\nBuck found ten bugs.<br>\nRuss found hundred of bugs.<br>\nBuck gets a bug.<br>\nRuss gets a jug.<br>\nNow the bugs are in the jug.\n</div><br>\n<span style=\"color:red;\">3. What did Buck and Ross look for?</span>",
       "type": "mcq",
+      "prompt": "What did Buck and Ross look for?",
       "options": {
         "choices": [
-          "cats",
-          "bugs",
-          "cows"
+          {
+            "id": "c1",
+            "text": "cats"
+          },
+          {
+            "id": "c2",
+            "text": "bugs"
+          },
+          {
+            "id": "c3",
+            "text": "cows"
+          }
         ]
       },
-      "correct_answer": "bugs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Buck and Russ look for bugs.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 3
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/1.png"
+      },
+      "order_index": 3,
+      "passage_id": "p1"
     },
     {
       "slug": "q004",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBuck and Russ are buds.<br>\nBuck runs.<br>\nRuss runs.<br>\nBuck and Russ look for bugs.<br>\nBuck found ten bugs.<br>\nRuss found hundred of bugs.<br>\nBuck gets a bug.<br>\nRuss gets a jug.<br>\nNow the bugs are in the jug.\n</div><br>\n<span style=\"color:red;\">4. How many bugs did Buck find?</span>",
       "type": "mcq",
+      "prompt": "How many bugs did Buck find?",
       "options": {
         "choices": [
-          "five bugs",
-          "ten bugs",
-          "three bugs"
+          {
+            "id": "c1",
+            "text": "five bugs"
+          },
+          {
+            "id": "c2",
+            "text": "ten bugs"
+          },
+          {
+            "id": "c3",
+            "text": "three bugs"
+          }
         ]
       },
-      "correct_answer": "ten bugs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Buck found ten bugs.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 4
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/1.png"
+      },
+      "order_index": 4,
+      "passage_id": "p1"
     },
     {
       "slug": "q005",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBuck and Russ are buds.<br>\nBuck runs.<br>\nRuss runs.<br>\nBuck and Russ look for bugs.<br>\nBuck found ten bugs.<br>\nRuss found hundred of bugs.<br>\nBuck gets a bug.<br>\nRuss gets a jug.<br>\nNow the bugs are in the jug.\n</div><br>\n<span style=\"color:red;\">5. What did Russ find?</span>",
       "type": "mcq",
+      "prompt": "What did Russ find?",
       "options": {
         "choices": [
-          "Russ found hundred of bugs",
-          "Russ found ten bugs",
-          "Buck found hundred of bugs"
+          {
+            "id": "c1",
+            "text": "Russ found hundred of bugs"
+          },
+          {
+            "id": "c2",
+            "text": "Russ found ten bugs"
+          },
+          {
+            "id": "c3",
+            "text": "Buck found hundred of bugs"
+          }
         ]
       },
-      "correct_answer": "Russ found hundred of bugs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Russ found hundred of bugs.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 5
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/1.png"
+      },
+      "order_index": 5,
+      "passage_id": "p1"
     },
     {
       "slug": "q006",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBuck and Russ are buds.<br>\nBuck runs.<br>\nRuss runs.<br>\nBuck and Russ look for bugs.<br>\nBuck found ten bugs.<br>\nRuss found hundred of bugs.<br>\nBuck gets a bug.<br>\nRuss gets a jug.<br>\nNow the bugs are in the jug.\n</div><br>\n<span style=\"color:red;\">6. What did Buck get?</span>",
       "type": "mcq",
+      "prompt": "What did Buck get?",
       "options": {
         "choices": [
-          "a bug",
-          "a cat",
-          "a dog"
+          {
+            "id": "c1",
+            "text": "a bug"
+          },
+          {
+            "id": "c2",
+            "text": "a cat"
+          },
+          {
+            "id": "c3",
+            "text": "a dog"
+          }
         ]
       },
-      "correct_answer": "a bug",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Buck gets a bug.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 6
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/1.png"
+      },
+      "order_index": 6,
+      "passage_id": "p1"
     },
     {
       "slug": "q007",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBuck and Russ are buds.<br>\nBuck runs.<br>\nRuss runs.<br>\nBuck and Russ look for bugs.<br>\nBuck found ten bugs.<br>\nRuss found hundred of bugs.<br>\nBuck gets a bug.<br>\nRuss gets a jug.<br>\nNow the bugs are in the jug.\n</div><br>\n<span style=\"color:red;\">7. What does Russ get?</span>",
       "type": "mcq",
+      "prompt": "What does Russ get?",
       "options": {
         "choices": [
-          "Russ gets a jug",
-          "Russ gets a drink",
-          "Russ gets a cup"
+          {
+            "id": "c1",
+            "text": "Russ gets a jug"
+          },
+          {
+            "id": "c2",
+            "text": "Russ gets a drink"
+          },
+          {
+            "id": "c3",
+            "text": "Russ gets a cup"
+          }
         ]
       },
-      "correct_answer": "Russ gets a jug",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Russ gets a jug.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 7
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/1.png"
+      },
+      "order_index": 7,
+      "passage_id": "p1"
     },
     {
       "slug": "q008",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBuck and Russ are buds.<br>\nBuck runs.<br>\nRuss runs.<br>\nBuck and Russ look for bugs.<br>\nBuck found ten bugs.<br>\nRuss found hundred of bugs.<br>\nBuck gets a bug.<br>\nRuss gets a jug.<br>\nNow the bugs are in the jug.\n</div><br>\n<span style=\"color:red;\">8. Where did they put the bugs?</span>",
       "type": "mcq",
+      "prompt": "Where did they put the bugs?",
       "options": {
         "choices": [
-          "in the jug",
-          "in the freezer",
-          "in the refrigerator"
+          {
+            "id": "c1",
+            "text": "in the jug"
+          },
+          {
+            "id": "c2",
+            "text": "in the freezer"
+          },
+          {
+            "id": "c3",
+            "text": "in the refrigerator"
+          }
         ]
       },
-      "correct_answer": "in the jug",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Now the bugs are in the jug.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 8
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/1.png"
+      },
+      "order_index": 8,
+      "passage_id": "p1"
     },
     {
       "slug": "q009",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBuck and Russ are buds.<br>\nBuck runs.<br>\nRuss runs.<br>\nBuck and Russ look for bugs.<br>\nBuck found ten bugs.<br>\nRuss found hundred of bugs.<br>\nBuck gets a bug.<br>\nRuss gets a jug.<br>\nNow the bugs are in the jug.\n</div><br>\n<span style=\"color:red;\">9. Who found hundred of bugs?</span>",
       "type": "mcq",
+      "prompt": "Who found hundred of bugs?",
       "options": {
         "choices": [
-          "Russ",
-          "Buck",
-          "Moka"
+          {
+            "id": "c1",
+            "text": "Russ"
+          },
+          {
+            "id": "c2",
+            "text": "Buck"
+          },
+          {
+            "id": "c3",
+            "text": "Moka"
+          }
         ]
       },
-      "correct_answer": "Russ",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Russ found hundred of bugs.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 9
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/1.png"
+      },
+      "order_index": 9,
+      "passage_id": "p1"
     },
     {
       "slug": "q010",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nBuck and Russ are buds.<br>\nBuck runs.<br>\nRuss runs.<br>\nBuck and Russ look for bugs.<br>\nBuck found ten bugs.<br>\nRuss found hundred of bugs.<br>\nBuck gets a bug.<br>\nRuss gets a jug.<br>\nNow the bugs are in the jug.\n</div><br>\n<span style=\"color:red;\">10. Which character found ten bugs?</span>",
       "type": "mcq",
+      "prompt": "Which character found ten bugs?",
       "options": {
         "choices": [
-          "Buck",
-          "Russ",
-          "Sandy"
+          {
+            "id": "c1",
+            "text": "Buck"
+          },
+          {
+            "id": "c2",
+            "text": "Russ"
+          },
+          {
+            "id": "c3",
+            "text": "Sandy"
+          }
         ]
       },
-      "correct_answer": "Buck",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Buck found ten bugs.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 10
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/1.png"
+      },
+      "order_index": 10,
+      "passage_id": "p1"
     },
     {
       "slug": "q011",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus dug in the mud by the hut.<br>\nA nut was stuck in the mud!<br>\nGus gave a tug and a tug.<br>\nThe nut did not budge.<br>\nGus dug and dug.<br>\nHe gave one big tug.<br>\nUp came the nut with a thud!<br>\nGus sat on a rug.<br>\nHe ate the nut.<br>\n\"Yum!\" said Gus.\n</div><br>\n<span style=\"color:red;\">11. Who dug in the mud?</span>",
       "type": "mcq",
+      "prompt": "Who dug in the mud?",
       "options": {
         "choices": [
-          "Sandy",
-          "Gus",
-          "Mona"
+          {
+            "id": "c1",
+            "text": "Sandy"
+          },
+          {
+            "id": "c2",
+            "text": "Gus"
+          },
+          {
+            "id": "c3",
+            "text": "Mona"
+          }
         ]
       },
-      "correct_answer": "Gus",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story begins: 'Gus dug in the mud by the hut.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 11
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/2.png"
+      },
+      "order_index": 11,
+      "passage_id": "p2"
     },
     {
       "slug": "q012",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus dug in the mud by the hut.<br>\nA nut was stuck in the mud!<br>\nGus gave a tug and a tug.<br>\nThe nut did not budge.<br>\nGus dug and dug.<br>\nHe gave one big tug.<br>\nUp came the nut with a thud!<br>\nGus sat on a rug.<br>\nHe ate the nut.<br>\n\"Yum!\" said Gus.\n</div><br>\n<span style=\"color:red;\">12. Why did Gus dig by the hut?</span>",
       "type": "mcq",
+      "prompt": "Why did Gus dig by the hut?",
       "options": {
         "choices": [
-          "A nut was stuck in the garden",
-          "A nut was stuck in the mud",
-          "A nut was stuck in the soil"
+          {
+            "id": "c1",
+            "text": "A nut was stuck in the garden"
+          },
+          {
+            "id": "c2",
+            "text": "A nut was stuck in the mud"
+          },
+          {
+            "id": "c3",
+            "text": "A nut was stuck in the soil"
+          }
         ]
       },
-      "correct_answer": "A nut was stuck in the mud",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'A nut was stuck in the mud!' — that is why Gus dug.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 12
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/2.png"
+      },
+      "order_index": 12,
+      "passage_id": "p2"
     },
     {
       "slug": "q013",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus dug in the mud by the hut.<br>\nA nut was stuck in the mud!<br>\nGus gave a tug and a tug.<br>\nThe nut did not budge.<br>\nGus dug and dug.<br>\nHe gave one big tug.<br>\nUp came the nut with a thud!<br>\nGus sat on a rug.<br>\nHe ate the nut.<br>\n\"Yum!\" said Gus.\n</div><br>\n<span style=\"color:red;\">13. What did Gus try to do?</span>",
       "type": "mcq",
+      "prompt": "What did Gus try to do?",
       "options": {
         "choices": [
-          "tug and tug",
-          "dig and dig",
-          "cry and cry"
+          {
+            "id": "c1",
+            "text": "tug and tug"
+          },
+          {
+            "id": "c2",
+            "text": "dig and dig"
+          },
+          {
+            "id": "c3",
+            "text": "cry and cry"
+          }
         ]
       },
-      "correct_answer": "tug and tug",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Gus gave a tug and a tug' to pull the nut out.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 13
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/2.png"
+      },
+      "order_index": 13,
+      "passage_id": "p2"
     },
     {
       "slug": "q014",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus dug in the mud by the hut.<br>\nA nut was stuck in the mud!<br>\nGus gave a tug and a tug.<br>\nThe nut did not budge.<br>\nGus dug and dug.<br>\nHe gave one big tug.<br>\nUp came the nut with a thud!<br>\nGus sat on a rug.<br>\nHe ate the nut.<br>\n\"Yum!\" said Gus.\n</div><br>\n<span style=\"color:red;\">14. Did the nut budge out?</span>",
       "type": "mcq",
+      "prompt": "Did the nut budge out?",
       "options": {
         "choices": [
-          "the nut didn't bake",
-          "the nut didn't budge",
-          "the nut didn't ripe"
+          {
+            "id": "c1",
+            "text": "the nut didn't bake"
+          },
+          {
+            "id": "c2",
+            "text": "the nut didn't budge"
+          },
+          {
+            "id": "c3",
+            "text": "the nut didn't ripe"
+          }
         ]
       },
-      "correct_answer": "the nut didn't budge",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'The nut did not budge' when Gus first tugged.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 14
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/2.png"
+      },
+      "order_index": 14,
+      "passage_id": "p2"
     },
     {
       "slug": "q015",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus dug in the mud by the hut.<br>\nA nut was stuck in the mud!<br>\nGus gave a tug and a tug.<br>\nThe nut did not budge.<br>\nGus dug and dug.<br>\nHe gave one big tug.<br>\nUp came the nut with a thud!<br>\nGus sat on a rug.<br>\nHe ate the nut.<br>\n\"Yum!\" said Gus.\n</div><br>\n<span style=\"color:red;\">15. Did the nut come out?</span>",
       "type": "mcq",
+      "prompt": "Did the nut come out?",
       "options": {
         "choices": [
-          "Yes, the nut came up",
-          "No, the nut never came up",
-          "Maybe the nut came up"
+          {
+            "id": "c1",
+            "text": "Yes, the nut came up"
+          },
+          {
+            "id": "c2",
+            "text": "No, the nut never came up"
+          },
+          {
+            "id": "c3",
+            "text": "Maybe the nut came up"
+          }
         ]
       },
-      "correct_answer": "Yes, the nut came up",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Up came the nut with a thud!' — the nut finally came out.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 15
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/2.png"
+      },
+      "order_index": 15,
+      "passage_id": "p2"
     },
     {
       "slug": "q016",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus dug in the mud by the hut.<br>\nA nut was stuck in the mud!<br>\nGus gave a tug and a tug.<br>\nThe nut did not budge.<br>\nGus dug and dug.<br>\nHe gave one big tug.<br>\nUp came the nut with a thud!<br>\nGus sat on a rug.<br>\nHe ate the nut.<br>\n\"Yum!\" said Gus.\n</div><br>\n<span style=\"color:red;\">16. Where did Gus sit?</span>",
       "type": "mcq",
+      "prompt": "Where did Gus sit?",
       "options": {
         "choices": [
-          "on the car",
-          "on the rug",
-          "on the road"
+          {
+            "id": "c1",
+            "text": "on the car"
+          },
+          {
+            "id": "c2",
+            "text": "on the rug"
+          },
+          {
+            "id": "c3",
+            "text": "on the road"
+          }
         ]
       },
-      "correct_answer": "on the rug",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Gus sat on a rug.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 16
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/2.png"
+      },
+      "order_index": 16,
+      "passage_id": "p2"
     },
     {
       "slug": "q017",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus dug in the mud by the hut.<br>\nA nut was stuck in the mud!<br>\nGus gave a tug and a tug.<br>\nThe nut did not budge.<br>\nGus dug and dug.<br>\nHe gave one big tug.<br>\nUp came the nut with a thud!<br>\nGus sat on a rug.<br>\nHe ate the nut.<br>\n\"Yum!\" said Gus.\n</div><br>\n<span style=\"color:red;\">17. Who ate the nut?</span>",
       "type": "mcq",
+      "prompt": "Who ate the nut?",
       "options": {
         "choices": [
-          "Sandy",
-          "Sam",
-          "Gus"
+          {
+            "id": "c1",
+            "text": "Sandy"
+          },
+          {
+            "id": "c2",
+            "text": "Sam"
+          },
+          {
+            "id": "c3",
+            "text": "Gus"
+          }
         ]
       },
-      "correct_answer": "Gus",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'He ate the nut. Yum! said Gus.' — Gus ate the nut.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 17
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/2.png"
+      },
+      "order_index": 17,
+      "passage_id": "p2"
     },
     {
       "slug": "q018",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus dug in the mud by the hut.<br>\nA nut was stuck in the mud!<br>\nGus gave a tug and a tug.<br>\nThe nut did not budge.<br>\nGus dug and dug.<br>\nHe gave one big tug.<br>\nUp came the nut with a thud!<br>\nGus sat on a rug.<br>\nHe ate the nut.<br>\n\"Yum!\" said Gus.\n</div><br>\n<span style=\"color:red;\">18. What did Gus say as he ate the nut?</span>",
       "type": "mcq",
+      "prompt": "What did Gus say as he ate the nut?",
       "options": {
         "choices": [
-          "wow",
-          "yum",
-          "yuck"
+          {
+            "id": "c1",
+            "text": "wow"
+          },
+          {
+            "id": "c2",
+            "text": "yum"
+          },
+          {
+            "id": "c3",
+            "text": "yuck"
+          }
         ]
       },
-      "correct_answer": "yum",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says '\"Yum!\" said Gus' — he liked the nut.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 18
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/2.png"
+      },
+      "order_index": 18,
+      "passage_id": "p2"
     },
     {
       "slug": "q019",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus dug in the mud by the hut.<br>\nA nut was stuck in the mud!<br>\nGus gave a tug and a tug.<br>\nThe nut did not budge.<br>\nGus dug and dug.<br>\nHe gave one big tug.<br>\nUp came the nut with a thud!<br>\nGus sat on a rug.<br>\nHe ate the nut.<br>\n\"Yum!\" said Gus.\n</div><br>\n<span style=\"color:red;\">19. What is the present tense of ate?</span>",
       "type": "mcq",
+      "prompt": "What is the present tense of ate?",
       "options": {
         "choices": [
-          "eat",
-          "eel",
-          "eating"
+          {
+            "id": "c1",
+            "text": "eat"
+          },
+          {
+            "id": "c2",
+            "text": "eel"
+          },
+          {
+            "id": "c3",
+            "text": "eating"
+          }
         ]
       },
-      "correct_answer": "eat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Ate' is the past tense of 'eat.' The present tense is 'eat.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 19
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/2.png"
+      },
+      "order_index": 19,
+      "passage_id": "p2"
     },
     {
       "slug": "q020",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus dug in the mud by the hut.<br>\nA nut was stuck in the mud!<br>\nGus gave a tug and a tug.<br>\nThe nut did not budge.<br>\nGus dug and dug.<br>\nHe gave one big tug.<br>\nUp came the nut with a thud!<br>\nGus sat on a rug.<br>\nHe ate the nut.<br>\n\"Yum!\" said Gus.\n</div><br>\n<span style=\"color:red;\">20. What is the present tense of came?</span>",
       "type": "mcq",
+      "prompt": "What is the present tense of came?",
       "options": {
         "choices": [
-          "come",
-          "calm",
-          "coming"
+          {
+            "id": "c1",
+            "text": "come"
+          },
+          {
+            "id": "c2",
+            "text": "calm"
+          },
+          {
+            "id": "c3",
+            "text": "coming"
+          }
         ]
       },
-      "correct_answer": "come",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Came' is the past tense of 'come.' The present tense is 'come.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 20
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/2.png"
+      },
+      "order_index": 20,
+      "passage_id": "p2"
     },
     {
       "slug": "q021",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe sun is up.<br>\nThe sun is out.<br>\nSo is Bud the bug.<br>\nBuggy Bud is so cute and beautiful.<br>\nBuggy Bud will get a big bun.<br>\nBuggy Bud will eat a bit of the bun.<br>\nYum! Buggy Bud hugs the bun.<br>\nBuggy Bud hugs her mummy.\n</div><br>\n<span style=\"color:red;\">21. What is up in the sky?</span>",
       "type": "mcq",
+      "prompt": "What is up in the sky?",
       "options": {
         "choices": [
-          "sun",
-          "son",
-          "clouds"
+          {
+            "id": "c1",
+            "text": "sun"
+          },
+          {
+            "id": "c2",
+            "text": "son"
+          },
+          {
+            "id": "c3",
+            "text": "clouds"
+          }
         ]
       },
-      "correct_answer": "sun",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'The sun is up. The sun is out.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 21
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/3.png"
+      },
+      "order_index": 21,
+      "passage_id": "p3"
     },
     {
       "slug": "q022",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe sun is up.<br>\nThe sun is out.<br>\nSo is Bud the bug.<br>\nBuggy Bud is so cute and beautiful.<br>\nBuggy Bud will get a big bun.<br>\nBuggy Bud will eat a bit of the bun.<br>\nYum! Buggy Bud hugs the bun.<br>\nBuggy Bud hugs her mummy.\n</div><br>\n<span style=\"color:red;\">22. Who is out and about?</span>",
       "type": "mcq",
+      "prompt": "Who is out and about?",
       "options": {
         "choices": [
-          "Sandy",
-          "Buggy Bud",
-          "Sam"
+          {
+            "id": "c1",
+            "text": "Sandy"
+          },
+          {
+            "id": "c2",
+            "text": "Buggy Bud"
+          },
+          {
+            "id": "c3",
+            "text": "Sam"
+          }
         ]
       },
-      "correct_answer": "Buggy Bud",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'So is Bud the bug' — Buggy Bud is out when the sun is out.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 22
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/3.png"
+      },
+      "order_index": 22,
+      "passage_id": "p3"
     },
     {
       "slug": "q023",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe sun is up.<br>\nThe sun is out.<br>\nSo is Bud the bug.<br>\nBuggy Bud is so cute and beautiful.<br>\nBuggy Bud will get a big bun.<br>\nBuggy Bud will eat a bit of the bun.<br>\nYum! Buggy Bud hugs the bun.<br>\nBuggy Bud hugs her mummy.\n</div><br>\n<span style=\"color:red;\">23. How was Buggy Bud the bug characterized?</span>",
       "type": "mcq",
+      "prompt": "How was Buggy Bud the bug characterized?",
       "options": {
         "choices": [
-          "fat and ugly",
-          "beautiful and cute",
-          "smart and fast"
+          {
+            "id": "c1",
+            "text": "fat and ugly"
+          },
+          {
+            "id": "c2",
+            "text": "beautiful and cute"
+          },
+          {
+            "id": "c3",
+            "text": "smart and fast"
+          }
         ]
       },
-      "correct_answer": "beautiful and cute",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Buggy Bud is so cute and beautiful.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 23
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/3.png"
+      },
+      "order_index": 23,
+      "passage_id": "p3"
     },
     {
       "slug": "q024",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe sun is up.<br>\nThe sun is out.<br>\nSo is Bud the bug.<br>\nBuggy Bud is so cute and beautiful.<br>\nBuggy Bud will get a big bun.<br>\nBuggy Bud will eat a bit of the bun.<br>\nYum! Buggy Bud hugs the bun.<br>\nBuggy Bud hugs her mummy.\n</div><br>\n<span style=\"color:red;\">24. What will Buggy Bud get?</span>",
       "type": "mcq",
+      "prompt": "What will Buggy Bud get?",
       "options": {
         "choices": [
-          "a big leaf",
-          "a big bud",
-          "a big bun"
+          {
+            "id": "c1",
+            "text": "a big leaf"
+          },
+          {
+            "id": "c2",
+            "text": "a big bud"
+          },
+          {
+            "id": "c3",
+            "text": "a big bun"
+          }
         ]
       },
-      "correct_answer": "a big bun",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Buggy Bud will get a big bun.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 24
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/3.png"
+      },
+      "order_index": 24,
+      "passage_id": "p3"
     },
     {
       "slug": "q025",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe sun is up.<br>\nThe sun is out.<br>\nSo is Bud the bug.<br>\nBuggy Bud is so cute and beautiful.<br>\nBuggy Bud will get a big bun.<br>\nBuggy Bud will eat a bit of the bun.<br>\nYum! Buggy Bud hugs the bun.<br>\nBuggy Bud hugs her mummy.\n</div><br>\n<span style=\"color:red;\">25. What will Buggy Bud do?</span>",
       "type": "mcq",
+      "prompt": "What will Buggy Bud do?",
       "options": {
         "choices": [
-          "she will eat a hot dog",
-          "she will eat a bun",
-          "she will eat a burger"
+          {
+            "id": "c1",
+            "text": "she will eat a hot dog"
+          },
+          {
+            "id": "c2",
+            "text": "she will eat a bun"
+          },
+          {
+            "id": "c3",
+            "text": "she will eat a burger"
+          }
         ]
       },
-      "correct_answer": "she will eat a bun",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Buggy Bud will eat a bit of the bun.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 25
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/3.png"
+      },
+      "order_index": 25,
+      "passage_id": "p3"
     },
     {
       "slug": "q026",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe sun is up.<br>\nThe sun is out.<br>\nSo is Bud the bug.<br>\nBuggy Bud is so cute and beautiful.<br>\nBuggy Bud will get a big bun.<br>\nBuggy Bud will eat a bit of the bun.<br>\nYum! Buggy Bud hugs the bun.<br>\nBuggy Bud hugs her mummy.\n</div><br>\n<span style=\"color:red;\">26. What does Buggy Bud the bug do?</span>",
       "type": "mcq",
+      "prompt": "What does Buggy Bud the bug do?",
       "options": {
         "choices": [
-          "hug the cow",
-          "hug the mug",
-          "hug the bun"
+          {
+            "id": "c1",
+            "text": "hug the cow"
+          },
+          {
+            "id": "c2",
+            "text": "hug the mug"
+          },
+          {
+            "id": "c3",
+            "text": "hug the bun"
+          }
         ]
       },
-      "correct_answer": "hug the bun",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Yum! Buggy Bud hugs the bun.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 26
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/3.png"
+      },
+      "order_index": 26,
+      "passage_id": "p3"
     },
     {
       "slug": "q027",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe sun is up.<br>\nThe sun is out.<br>\nSo is Bud the bug.<br>\nBuggy Bud is so cute and beautiful.<br>\nBuggy Bud will get a big bun.<br>\nBuggy Bud will eat a bit of the bun.<br>\nYum! Buggy Bud hugs the bun.<br>\nBuggy Bud hugs her mummy.\n</div><br>\n<span style=\"color:red;\">27. What did Buggy Bud do to her mummy?</span>",
       "type": "mcq",
+      "prompt": "What did Buggy Bud do to her mummy?",
       "options": {
         "choices": [
-          "Buggy Bud hugs her gummy",
-          "Buggy Bud hugs her mummy",
-          "Buggy Bud hugs her bunny"
+          {
+            "id": "c1",
+            "text": "Buggy Bud hugs her gummy"
+          },
+          {
+            "id": "c2",
+            "text": "Buggy Bud hugs her mummy"
+          },
+          {
+            "id": "c3",
+            "text": "Buggy Bud hugs her bunny"
+          }
         ]
       },
-      "correct_answer": "Buggy Bud hugs her mummy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Buggy Bud hugs her mummy.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 27
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/3.png"
+      },
+      "order_index": 27,
+      "passage_id": "p3"
     },
     {
       "slug": "q028",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe sun is up.<br>\nThe sun is out.<br>\nSo is Bud the bug.<br>\nBuggy Bud is so cute and beautiful.<br>\nBuggy Bud will get a big bun.<br>\nBuggy Bud will eat a bit of the bun.<br>\nYum! Buggy Bud hugs the bun.<br>\nBuggy Bud hugs her mummy.\n</div><br>\n<span style=\"color:red;\">28. What is the past tense of get?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of get?",
       "options": {
         "choices": [
-          "got",
-          "mop",
-          "getting"
+          {
+            "id": "c1",
+            "text": "got"
+          },
+          {
+            "id": "c2",
+            "text": "mop"
+          },
+          {
+            "id": "c3",
+            "text": "getting"
+          }
         ]
       },
-      "correct_answer": "got",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Get' becomes 'got' in the past tense. It is an irregular verb.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 28
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/3.png"
+      },
+      "order_index": 28,
+      "passage_id": "p3"
     },
     {
       "slug": "q029",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe sun is up.<br>\nThe sun is out.<br>\nSo is Bud the bug.<br>\nBuggy Bud is so cute and beautiful.<br>\nBuggy Bud will get a big bun.<br>\nBuggy Bud will eat a bit of the bun.<br>\nYum! Buggy Bud hugs the bun.<br>\nBuggy Bud hugs her mummy.\n</div><br>\n<span style=\"color:red;\">29. What is the past tense of eat?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of eat?",
       "options": {
         "choices": [
-          "ate",
-          "eel",
-          "eating"
+          {
+            "id": "c1",
+            "text": "ate"
+          },
+          {
+            "id": "c2",
+            "text": "eel"
+          },
+          {
+            "id": "c3",
+            "text": "eating"
+          }
         ]
       },
-      "correct_answer": "ate",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Eat' becomes 'ate' in the past tense. It is an irregular verb.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 29
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/3.png"
+      },
+      "order_index": 29,
+      "passage_id": "p3"
     },
     {
       "slug": "q030",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe sun is up.<br>\nThe sun is out.<br>\nSo is Bud the bug.<br>\nBuggy Bud is so cute and beautiful.<br>\nBuggy Bud will get a big bun.<br>\nBuggy Bud will eat a bit of the bun.<br>\nYum! Buggy Bud hugs the bun.<br>\nBuggy Bud hugs her mummy.\n</div><br>\n<span style=\"color:red;\">30. What is the past tense of is?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of is?",
       "options": {
         "choices": [
-          "ate",
-          "was",
-          "were"
+          {
+            "id": "c1",
+            "text": "ate"
+          },
+          {
+            "id": "c2",
+            "text": "was"
+          },
+          {
+            "id": "c3",
+            "text": "were"
+          }
         ]
       },
-      "correct_answer": "was",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Is' (singular) becomes 'was' in the past tense.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 30
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/3.png"
+      },
+      "order_index": 30,
+      "passage_id": "p3"
     },
     {
       "slug": "q031",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMummy has a cub.<br>\nThe cub goes on the bus.<br>\nThe bus goes up and up.<br>\nThe cub hums and hums.<br>\nThe cub is in the mud.<br>\nMummy will get the tub.<br>\nThe cub rubs and rubs.<br>\nOh no! The cub is out of the tub.<br>\nThe cub is back in the mud!<br>\nThe bus is gone up and up.\n</div><br>\n<span style=\"color:red;\">31. What does Mummy have?</span>",
       "type": "mcq",
+      "prompt": "What does Mummy have?",
       "options": {
         "choices": [
-          "a cat",
-          "a car",
-          "a cub"
+          {
+            "id": "c1",
+            "text": "a cat"
+          },
+          {
+            "id": "c2",
+            "text": "a car"
+          },
+          {
+            "id": "c3",
+            "text": "a cub"
+          }
         ]
       },
-      "correct_answer": "a cub",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story begins 'Mummy has a cub.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 31
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/4.png"
+      },
+      "order_index": 31,
+      "passage_id": "p4"
     },
     {
       "slug": "q032",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMummy has a cub.<br>\nThe cub goes on the bus.<br>\nThe bus goes up and up.<br>\nThe cub hums and hums.<br>\nThe cub is in the mud.<br>\nMummy will get the tub.<br>\nThe cub rubs and rubs.<br>\nOh no! The cub is out of the tub.<br>\nThe cub is back in the mud!<br>\nThe bus is gone up and up.\n</div><br>\n<span style=\"color:red;\">32. Where does the cub get on?</span>",
       "type": "mcq",
+      "prompt": "Where does the cub get on?",
       "options": {
         "choices": [
-          "on the bus",
-          "on the table",
-          "on the airplane"
+          {
+            "id": "c1",
+            "text": "on the bus"
+          },
+          {
+            "id": "c2",
+            "text": "on the table"
+          },
+          {
+            "id": "c3",
+            "text": "on the airplane"
+          }
         ]
       },
-      "correct_answer": "on the bus",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'The cub goes on the bus.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 32
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/4.png"
+      },
+      "order_index": 32,
+      "passage_id": "p4"
     },
     {
       "slug": "q033",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMummy has a cub.<br>\nThe cub goes on the bus.<br>\nThe bus goes up and up.<br>\nThe cub hums and hums.<br>\nThe cub is in the mud.<br>\nMummy will get the tub.<br>\nThe cub rubs and rubs.<br>\nOh no! The cub is out of the tub.<br>\nThe cub is back in the mud!<br>\nThe bus is gone up and up.\n</div><br>\n<span style=\"color:red;\">33. How does the bus move?</span>",
       "type": "mcq",
+      "prompt": "How does the bus move?",
       "options": {
         "choices": [
-          "down and down",
-          "up and up",
-          "right and left"
+          {
+            "id": "c1",
+            "text": "down and down"
+          },
+          {
+            "id": "c2",
+            "text": "up and up"
+          },
+          {
+            "id": "c3",
+            "text": "right and left"
+          }
         ]
       },
-      "correct_answer": "up and up",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'The bus goes up and up.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 33
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/4.png"
+      },
+      "order_index": 33,
+      "passage_id": "p4"
     },
     {
       "slug": "q034",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMummy has a cub.<br>\nThe cub goes on the bus.<br>\nThe bus goes up and up.<br>\nThe cub hums and hums.<br>\nThe cub is in the mud.<br>\nMummy will get the tub.<br>\nThe cub rubs and rubs.<br>\nOh no! The cub is out of the tub.<br>\nThe cub is back in the mud!<br>\nThe bus is gone up and up.\n</div><br>\n<span style=\"color:red;\">34. As the bus moves, what does the cub do?</span>",
       "type": "mcq",
+      "prompt": "As the bus moves, what does the cub do?",
       "options": {
         "choices": [
-          "talks and talks",
-          "sings and sings",
-          "hums and hums"
+          {
+            "id": "c1",
+            "text": "talks and talks"
+          },
+          {
+            "id": "c2",
+            "text": "sings and sings"
+          },
+          {
+            "id": "c3",
+            "text": "hums and hums"
+          }
         ]
       },
-      "correct_answer": "hums and hums",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The cub hums and hums' as the bus moves.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 34
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/4.png"
+      },
+      "order_index": 34,
+      "passage_id": "p4"
     },
     {
       "slug": "q035",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMummy has a cub.<br>\nThe cub goes on the bus.<br>\nThe bus goes up and up.<br>\nThe cub hums and hums.<br>\nThe cub is in the mud.<br>\nMummy will get the tub.<br>\nThe cub rubs and rubs.<br>\nOh no! The cub is out of the tub.<br>\nThe cub is back in the mud!<br>\nThe bus is gone up and up.\n</div><br>\n<span style=\"color:red;\">35. Why did mummy get a tub?</span>",
       "type": "mcq",
+      "prompt": "Why did mummy get a tub?",
       "options": {
         "choices": [
-          "the cub was in the mud",
-          "the cub was very hot",
-          "the cub was stinky"
+          {
+            "id": "c1",
+            "text": "the cub was in the mud"
+          },
+          {
+            "id": "c2",
+            "text": "the cub was very hot"
+          },
+          {
+            "id": "c3",
+            "text": "the cub was stinky"
+          }
         ]
       },
-      "correct_answer": "the cub was in the mud",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'The cub is in the mud. Mummy will get the tub' — to clean the muddy cub.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 35
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/4.png"
+      },
+      "order_index": 35,
+      "passage_id": "p4"
     },
     {
       "slug": "q036",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMummy has a cub.<br>\nThe cub goes on the bus.<br>\nThe bus goes up and up.<br>\nThe cub hums and hums.<br>\nThe cub is in the mud.<br>\nMummy will get the tub.<br>\nThe cub rubs and rubs.<br>\nOh no! The cub is out of the tub.<br>\nThe cub is back in the mud!<br>\nThe bus is gone up and up.\n</div><br>\n<span style=\"color:red;\">36. What does the cub do in the tub?</span>",
       "type": "mcq",
+      "prompt": "What does the cub do in the tub?",
       "options": {
         "choices": [
-          "rub and rub",
-          "sleep and sleep",
-          "play and play"
+          {
+            "id": "c1",
+            "text": "rub and rub"
+          },
+          {
+            "id": "c2",
+            "text": "sleep and sleep"
+          },
+          {
+            "id": "c3",
+            "text": "play and play"
+          }
         ]
       },
-      "correct_answer": "rub and rub",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'The cub rubs and rubs' in the tub.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 36
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/4.png"
+      },
+      "order_index": 36,
+      "passage_id": "p4"
     },
     {
       "slug": "q037",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMummy has a cub.<br>\nThe cub goes on the bus.<br>\nThe bus goes up and up.<br>\nThe cub hums and hums.<br>\nThe cub is in the mud.<br>\nMummy will get the tub.<br>\nThe cub rubs and rubs.<br>\nOh no! The cub is out of the tub.<br>\nThe cub is back in the mud!<br>\nThe bus is gone up and up.\n</div><br>\n<span style=\"color:red;\">37. Why did mummy say \"Oh No?\"</span>",
       "type": "mcq",
+      "prompt": "Why did mummy say \"Oh No?\"",
       "options": {
         "choices": [
-          "the cub is out of the kitchen",
-          "the cub is out of the swimming pool",
-          "the cub is out of the tub"
+          {
+            "id": "c1",
+            "text": "the cub is out of the kitchen"
+          },
+          {
+            "id": "c2",
+            "text": "the cub is out of the swimming pool"
+          },
+          {
+            "id": "c3",
+            "text": "the cub is out of the tub"
+          }
         ]
       },
-      "correct_answer": "the cub is out of the tub",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Oh no! The cub is out of the tub.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 37
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/4.png"
+      },
+      "order_index": 37,
+      "passage_id": "p4"
     },
     {
       "slug": "q038",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMummy has a cub.<br>\nThe cub goes on the bus.<br>\nThe bus goes up and up.<br>\nThe cub hums and hums.<br>\nThe cub is in the mud.<br>\nMummy will get the tub.<br>\nThe cub rubs and rubs.<br>\nOh no! The cub is out of the tub.<br>\nThe cub is back in the mud!<br>\nThe bus is gone up and up.\n</div><br>\n<span style=\"color:red;\">38. Where did the cub go back in?</span>",
       "type": "mcq",
+      "prompt": "Where did the cub go back in?",
       "options": {
         "choices": [
-          "the mud",
-          "the water",
-          "the river"
+          {
+            "id": "c1",
+            "text": "the mud"
+          },
+          {
+            "id": "c2",
+            "text": "the water"
+          },
+          {
+            "id": "c3",
+            "text": "the river"
+          }
         ]
       },
-      "correct_answer": "the mud",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'The cub is back in the mud!'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 38
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/4.png"
+      },
+      "order_index": 38,
+      "passage_id": "p4"
     },
     {
       "slug": "q039",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMummy has a cub.<br>\nThe cub goes on the bus.<br>\nThe bus goes up and up.<br>\nThe cub hums and hums.<br>\nThe cub is in the mud.<br>\nMummy will get the tub.<br>\nThe cub rubs and rubs.<br>\nOh no! The cub is out of the tub.<br>\nThe cub is back in the mud!<br>\nThe bus is gone up and up.\n</div><br>\n<span style=\"color:red;\">39. What is the past tense of is?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of is?",
       "options": {
         "choices": [
-          "were",
-          "won",
-          "was"
+          {
+            "id": "c1",
+            "text": "were"
+          },
+          {
+            "id": "c2",
+            "text": "won"
+          },
+          {
+            "id": "c3",
+            "text": "was"
+          }
         ]
       },
-      "correct_answer": "was",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Is' (singular) becomes 'was' in the past tense.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 39
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/4.png"
+      },
+      "order_index": 39,
+      "passage_id": "p4"
     },
     {
       "slug": "q040",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMummy has a cub.<br>\nThe cub goes on the bus.<br>\nThe bus goes up and up.<br>\nThe cub hums and hums.<br>\nThe cub is in the mud.<br>\nMummy will get the tub.<br>\nThe cub rubs and rubs.<br>\nOh no! The cub is out of the tub.<br>\nThe cub is back in the mud!<br>\nThe bus is gone up and up.\n</div><br>\n<span style=\"color:red;\">40. What is the present tense of was?</span>",
       "type": "mcq",
+      "prompt": "What is the present tense of was?",
       "options": {
         "choices": [
-          "in",
-          "is",
-          "were"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "is"
+          },
+          {
+            "id": "c3",
+            "text": "were"
+          }
         ]
       },
-      "correct_answer": "is",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Was' is the past tense of 'is.' The present tense is 'is.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 40
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/4.png"
+      },
+      "order_index": 40,
+      "passage_id": "p4"
     },
     {
       "slug": "q041",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus and Puck.<br>\nGus has a pet duck.<br>\nThe duck is Puck.<br>\nPuck is in a rush.<br>\nPuck runs in the mud.<br>\nSplash! Puck slips with a thud.<br>\n\"Oh no!\" says Gus.<br>\nPuck got a little cut.<br>\n\"What bad luck!\" says Gus.<br>\nGus gets a cup and a rug.<br>\nGus helps Puck feel snug.\n</div><br>\n<span style=\"color:red;\">41. What pet does Gus have?</span>",
       "type": "mcq",
+      "prompt": "What pet does Gus have?",
       "options": {
         "choices": [
-          "a pet duck",
-          "a pet cat",
-          "a pet dog"
+          {
+            "id": "c1",
+            "text": "a pet duck"
+          },
+          {
+            "id": "c2",
+            "text": "a pet cat"
+          },
+          {
+            "id": "c3",
+            "text": "a pet dog"
+          }
         ]
       },
-      "correct_answer": "a pet duck",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Gus has a pet duck.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 41
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/5.png"
+      },
+      "order_index": 41,
+      "passage_id": "p5"
     },
     {
       "slug": "q042",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus and Puck.<br>\nGus has a pet duck.<br>\nThe duck is Puck.<br>\nPuck is in a rush.<br>\nPuck runs in the mud.<br>\nSplash! Puck slips with a thud.<br>\n\"Oh no!\" says Gus.<br>\nPuck got a little cut.<br>\n\"What bad luck!\" says Gus.<br>\nGus gets a cup and a rug.<br>\nGus helps Puck feel snug.\n</div><br>\n<span style=\"color:red;\">42. What is the name of the duck?</span>",
       "type": "mcq",
+      "prompt": "What is the name of the duck?",
       "options": {
         "choices": [
-          "Sam",
-          "Piky",
-          "Puck"
+          {
+            "id": "c1",
+            "text": "Sam"
+          },
+          {
+            "id": "c2",
+            "text": "Piky"
+          },
+          {
+            "id": "c3",
+            "text": "Puck"
+          }
         ]
       },
-      "correct_answer": "Puck",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The duck is Puck.' The duck's name is Puck.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 42
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/5.png"
+      },
+      "order_index": 42,
+      "passage_id": "p5"
     },
     {
       "slug": "q043",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus and Puck.<br>\nGus has a pet duck.<br>\nThe duck is Puck.<br>\nPuck is in a rush.<br>\nPuck runs in the mud.<br>\nSplash! Puck slips with a thud.<br>\n\"Oh no!\" says Gus.<br>\nPuck got a little cut.<br>\n\"What bad luck!\" says Gus.<br>\nGus gets a cup and a rug.<br>\nGus helps Puck feel snug.\n</div><br>\n<span style=\"color:red;\">43. Where does the duck Puck run to?</span>",
       "type": "mcq",
+      "prompt": "Where does the duck Puck run to?",
       "options": {
         "choices": [
-          "the mud",
-          "the cinema",
-          "the mall"
+          {
+            "id": "c1",
+            "text": "the mud"
+          },
+          {
+            "id": "c2",
+            "text": "the cinema"
+          },
+          {
+            "id": "c3",
+            "text": "the mall"
+          }
         ]
       },
-      "correct_answer": "the mud",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Puck runs in the mud.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 43
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/5.png"
+      },
+      "order_index": 43,
+      "passage_id": "p5"
     },
     {
       "slug": "q044",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus and Puck.<br>\nGus has a pet duck.<br>\nThe duck is Puck.<br>\nPuck is in a rush.<br>\nPuck runs in the mud.<br>\nSplash! Puck slips with a thud.<br>\n\"Oh no!\" says Gus.<br>\nPuck got a little cut.<br>\n\"What bad luck!\" says Gus.<br>\nGus gets a cup and a rug.<br>\nGus helps Puck feel snug.\n</div><br>\n<span style=\"color:red;\">44. Where does the duck Puck slip?</span>",
       "type": "mcq",
+      "prompt": "Where does the duck Puck slip?",
       "options": {
         "choices": [
-          "in the garden",
-          "in the garage",
-          "in the mud"
+          {
+            "id": "c1",
+            "text": "in the garden"
+          },
+          {
+            "id": "c2",
+            "text": "in the garage"
+          },
+          {
+            "id": "c3",
+            "text": "in the mud"
+          }
         ]
       },
-      "correct_answer": "in the mud",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Puck runs in the mud. Splash! Puck slips with a thud.' — Puck slipped in the mud.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 44
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/5.png"
+      },
+      "order_index": 44,
+      "passage_id": "p5"
     },
     {
       "slug": "q045",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus and Puck.<br>\nGus has a pet duck.<br>\nThe duck is Puck.<br>\nPuck is in a rush.<br>\nPuck runs in the mud.<br>\nSplash! Puck slips with a thud.<br>\n\"Oh no!\" says Gus.<br>\nPuck got a little cut.<br>\n\"What bad luck!\" says Gus.<br>\nGus gets a cup and a rug.<br>\nGus helps Puck feel snug.\n</div><br>\n<span style=\"color:red;\">45. How does the duck Puck slip?</span>",
       "type": "mcq",
+      "prompt": "How does the duck Puck slip?",
       "options": {
         "choices": [
-          "with a thud",
-          "with love",
-          "with a fall"
+          {
+            "id": "c1",
+            "text": "with a thud"
+          },
+          {
+            "id": "c2",
+            "text": "with love"
+          },
+          {
+            "id": "c3",
+            "text": "with a fall"
+          }
         ]
       },
-      "correct_answer": "with a thud",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Puck slips with a thud.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 45
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/5.png"
+      },
+      "order_index": 45,
+      "passage_id": "p5"
     },
     {
       "slug": "q046",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus and Puck.<br>\nGus has a pet duck.<br>\nThe duck is Puck.<br>\nPuck is in a rush.<br>\nPuck runs in the mud.<br>\nSplash! Puck slips with a thud.<br>\n\"Oh no!\" says Gus.<br>\nPuck got a little cut.<br>\n\"What bad luck!\" says Gus.<br>\nGus gets a cup and a rug.<br>\nGus helps Puck feel snug.\n</div><br>\n<span style=\"color:red;\">46. What happened to Puck?</span>",
       "type": "mcq",
+      "prompt": "What happened to Puck?",
       "options": {
         "choices": [
-          "Puck got a big cut",
-          "Puck got a middle cut",
-          "Puck got a little cut"
+          {
+            "id": "c1",
+            "text": "Puck got a big cut"
+          },
+          {
+            "id": "c2",
+            "text": "Puck got a middle cut"
+          },
+          {
+            "id": "c3",
+            "text": "Puck got a little cut"
+          }
         ]
       },
-      "correct_answer": "Puck got a little cut",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Puck got a little cut.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 46
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/5.png"
+      },
+      "order_index": 46,
+      "passage_id": "p5"
     },
     {
       "slug": "q047",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus and Puck.<br>\nGus has a pet duck.<br>\nThe duck is Puck.<br>\nPuck is in a rush.<br>\nPuck runs in the mud.<br>\nSplash! Puck slips with a thud.<br>\n\"Oh no!\" says Gus.<br>\nPuck got a little cut.<br>\n\"What bad luck!\" says Gus.<br>\nGus gets a cup and a rug.<br>\nGus helps Puck feel snug.\n</div><br>\n<span style=\"color:red;\">47. What did Gus say as he saw Puck?</span>",
       "type": "mcq",
+      "prompt": "What did Gus say as he saw Puck?",
       "options": {
         "choices": [
-          "what great luck",
-          "what a bad game",
-          "what bad luck"
+          {
+            "id": "c1",
+            "text": "what great luck"
+          },
+          {
+            "id": "c2",
+            "text": "what a bad game"
+          },
+          {
+            "id": "c3",
+            "text": "what bad luck"
+          }
         ]
       },
-      "correct_answer": "what bad luck",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says '\"What bad luck!\" says Gus.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 47
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/5.png"
+      },
+      "order_index": 47,
+      "passage_id": "p5"
     },
     {
       "slug": "q048",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus and Puck.<br>\nGus has a pet duck.<br>\nThe duck is Puck.<br>\nPuck is in a rush.<br>\nPuck runs in the mud.<br>\nSplash! Puck slips with a thud.<br>\n\"Oh no!\" says Gus.<br>\nPuck got a little cut.<br>\n\"What bad luck!\" says Gus.<br>\nGus gets a cup and a rug.<br>\nGus helps Puck feel snug.\n</div><br>\n<span style=\"color:red;\">48. What does Gus get for Puck?</span>",
       "type": "mcq",
+      "prompt": "What does Gus get for Puck?",
       "options": {
         "choices": [
-          "a spoon and fork",
-          "a cup and a thermometer",
-          "a cup and rug"
+          {
+            "id": "c1",
+            "text": "a spoon and fork"
+          },
+          {
+            "id": "c2",
+            "text": "a cup and a thermometer"
+          },
+          {
+            "id": "c3",
+            "text": "a cup and rug"
+          }
         ]
       },
-      "correct_answer": "a cup and rug",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Gus gets a cup and a rug' to help Puck.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 48
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/5.png"
+      },
+      "order_index": 48,
+      "passage_id": "p5"
     },
     {
       "slug": "q049",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus and Puck.<br>\nGus has a pet duck.<br>\nThe duck is Puck.<br>\nPuck is in a rush.<br>\nPuck runs in the mud.<br>\nSplash! Puck slips with a thud.<br>\n\"Oh no!\" says Gus.<br>\nPuck got a little cut.<br>\n\"What bad luck!\" says Gus.<br>\nGus gets a cup and a rug.<br>\nGus helps Puck feel snug.\n</div><br>\n<span style=\"color:red;\">49. How does Gus help Puck?</span>",
       "type": "mcq",
+      "prompt": "How does Gus help Puck?",
       "options": {
         "choices": [
-          "Gus helps Puck feel comfortable",
-          "Gus helps Puck feel happy",
-          "Gus helps Puck feel snug"
+          {
+            "id": "c1",
+            "text": "Gus helps Puck feel comfortable"
+          },
+          {
+            "id": "c2",
+            "text": "Gus helps Puck feel happy"
+          },
+          {
+            "id": "c3",
+            "text": "Gus helps Puck feel snug"
+          }
         ]
       },
-      "correct_answer": "Gus helps Puck feel snug",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Gus helps Puck feel snug' — snug means warm and comfortable.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 49
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/5.png"
+      },
+      "order_index": 49,
+      "passage_id": "p5"
     },
     {
       "slug": "q050",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus and Puck.<br>\nGus has a pet duck.<br>\nThe duck is Puck.<br>\nPuck is in a rush.<br>\nPuck runs in the mud.<br>\nSplash! Puck slips with a thud.<br>\n\"Oh no!\" says Gus.<br>\nPuck got a little cut.<br>\n\"What bad luck!\" says Gus.<br>\nGus gets a cup and a rug.<br>\nGus helps Puck feel snug.\n</div><br>\n<span style=\"color:red;\">50. What is the past tense of feel?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of feel?",
       "options": {
         "choices": [
-          "feed",
-          "felt",
-          "feels"
+          {
+            "id": "c1",
+            "text": "feed"
+          },
+          {
+            "id": "c2",
+            "text": "felt"
+          },
+          {
+            "id": "c3",
+            "text": "feels"
+          }
         ]
       },
-      "correct_answer": "felt",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Feel' becomes 'felt' in the past tense. It is an irregular verb.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 50
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/5.png"
+      },
+      "order_index": 50,
+      "passage_id": "p5"
     },
     {
       "slug": "q051",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">51. Where does Gus sit?</span>",
       "type": "mcq",
+      "prompt": "Where does Gus sit?",
       "options": {
         "choices": [
-          "under the hut",
-          "above the hut",
-          "by the mud"
+          {
+            "id": "c1",
+            "text": "under the hut"
+          },
+          {
+            "id": "c2",
+            "text": "above the hut"
+          },
+          {
+            "id": "c3",
+            "text": "by the mud"
+          }
         ]
       },
-      "correct_answer": "under the hut",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Gus sits under the hut.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 51
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 51,
+      "passage_id": "p6"
     },
     {
       "slug": "q052",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">52. How was the sun?</span>",
       "type": "mcq",
+      "prompt": "How was the sun?",
       "options": {
         "choices": [
-          "the sun was out",
-          "the sun was gone",
-          "the sun was behind the clouds"
+          {
+            "id": "c1",
+            "text": "the sun was out"
+          },
+          {
+            "id": "c2",
+            "text": "the sun was gone"
+          },
+          {
+            "id": "c3",
+            "text": "the sun was behind the clouds"
+          }
         ]
       },
-      "correct_answer": "the sun was out",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'The sun is out.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 52
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 52,
+      "passage_id": "p6"
     },
     {
       "slug": "q053",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">53. What does Gus see?</span>",
       "type": "mcq",
+      "prompt": "What does Gus see?",
       "options": {
         "choices": [
-          "a cat",
-          "a hat",
-          "a bug"
+          {
+            "id": "c1",
+            "text": "a cat"
+          },
+          {
+            "id": "c2",
+            "text": "a hat"
+          },
+          {
+            "id": "c3",
+            "text": "a bug"
+          }
         ]
       },
-      "correct_answer": "a bug",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Gus sees a bug.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 53
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 53,
+      "passage_id": "p6"
     },
     {
       "slug": "q054",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">54. How was the bug?</span>",
       "type": "mcq",
+      "prompt": "How was the bug?",
       "options": {
         "choices": [
-          "the bug was fat",
-          "the bug was cute",
-          "the bug was sick"
+          {
+            "id": "c1",
+            "text": "the bug was fat"
+          },
+          {
+            "id": "c2",
+            "text": "the bug was cute"
+          },
+          {
+            "id": "c3",
+            "text": "the bug was sick"
+          }
         ]
       },
-      "correct_answer": "the bug was cute",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'The bug is cute.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 54
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 54,
+      "passage_id": "p6"
     },
     {
       "slug": "q055",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">55. Where does the bug jump?</span>",
       "type": "mcq",
+      "prompt": "Where does the bug jump?",
       "options": {
         "choices": [
-          "in the pool",
-          "in the pond",
-          "in the mud"
+          {
+            "id": "c1",
+            "text": "in the pool"
+          },
+          {
+            "id": "c2",
+            "text": "in the pond"
+          },
+          {
+            "id": "c3",
+            "text": "in the mud"
+          }
         ]
       },
-      "correct_answer": "in the mud",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The bug jumps in the mud.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 55
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 55,
+      "passage_id": "p6"
     },
     {
       "slug": "q056",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">56. Where does the bug play?</span>",
       "type": "mcq",
+      "prompt": "Where does the bug play?",
       "options": {
         "choices": [
-          "in the bed",
-          "in the pool",
-          "in the mud"
+          {
+            "id": "c1",
+            "text": "in the bed"
+          },
+          {
+            "id": "c2",
+            "text": "in the pool"
+          },
+          {
+            "id": "c3",
+            "text": "in the mud"
+          }
         ]
       },
-      "correct_answer": "in the mud",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The bug plays in the mud.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 56
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 56,
+      "passage_id": "p6"
     },
     {
       "slug": "q057",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">57. What does Gus and the bug show?</span>",
       "type": "mcq",
+      "prompt": "What does Gus and the bug show?",
       "options": {
         "choices": [
-          "happiness",
-          "sadness",
-          "sickness"
+          {
+            "id": "c1",
+            "text": "happiness"
+          },
+          {
+            "id": "c2",
+            "text": "sadness"
+          },
+          {
+            "id": "c3",
+            "text": "sickness"
+          }
         ]
       },
-      "correct_answer": "happiness",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Gus laughs and bug laughs. Gus has fun.' — both are happy.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 57
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 57,
+      "passage_id": "p6"
     },
     {
       "slug": "q058",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">58. Where does Gus and bug go on?</span>",
       "type": "mcq",
+      "prompt": "Where does Gus and bug go on?",
       "options": {
         "choices": [
-          "the car",
-          "the bus",
-          "the train"
+          {
+            "id": "c1",
+            "text": "the car"
+          },
+          {
+            "id": "c2",
+            "text": "the bus"
+          },
+          {
+            "id": "c3",
+            "text": "the train"
+          }
         ]
       },
-      "correct_answer": "the bus",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Gus and bug go on the bus.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 58
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 58,
+      "passage_id": "p6"
     },
     {
       "slug": "q059",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">59. What color are the eyes of the bug?</span>",
       "type": "mcq",
+      "prompt": "What color are the eyes of the bug?",
       "options": {
         "choices": [
-          "black",
-          "blue",
-          "brown"
+          {
+            "id": "c1",
+            "text": "black"
+          },
+          {
+            "id": "c2",
+            "text": "blue"
+          },
+          {
+            "id": "c3",
+            "text": "brown"
+          }
         ]
       },
-      "correct_answer": "black",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Looking at the picture, the cute bug has big black eyes.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 59
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 59,
+      "passage_id": "p6"
     },
     {
       "slug": "q060",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">60. What is the opposite of laugh?</span>",
       "type": "mcq",
+      "prompt": "What is the opposite of laugh?",
       "options": {
         "choices": [
-          "jump",
-          "hop",
-          "cry"
+          {
+            "id": "c1",
+            "text": "jump"
+          },
+          {
+            "id": "c2",
+            "text": "hop"
+          },
+          {
+            "id": "c3",
+            "text": "cry"
+          }
         ]
       },
-      "correct_answer": "cry",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The opposite of 'laugh' (being happy) is 'cry' (being sad).",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 60
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 60,
+      "passage_id": "p6"
     },
     {
       "slug": "q061",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">61. What color are the shoes of Gus?</span>",
       "type": "mcq",
+      "prompt": "What color are the shoes of Gus?",
       "options": {
         "choices": [
-          "red",
-          "blue",
-          "black"
+          {
+            "id": "c1",
+            "text": "red"
+          },
+          {
+            "id": "c2",
+            "text": "blue"
+          },
+          {
+            "id": "c3",
+            "text": "black"
+          }
         ]
       },
-      "correct_answer": "red",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Looking at the picture, Gus is wearing red shoes.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 61
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 61,
+      "passage_id": "p6"
     },
     {
       "slug": "q062",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">62. What is the past tense of has?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of has?",
       "options": {
         "choices": [
-          "have",
-          "has",
-          "had"
+          {
+            "id": "c1",
+            "text": "have"
+          },
+          {
+            "id": "c2",
+            "text": "has"
+          },
+          {
+            "id": "c3",
+            "text": "had"
+          }
         ]
       },
-      "correct_answer": "had",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Has' becomes 'had' in the past tense. Example: 'Gus has fun' → 'Gus had fun.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 62
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 62,
+      "passage_id": "p6"
     },
     {
       "slug": "q063",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">63. What is the past tense of see?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of see?",
       "options": {
         "choices": [
-          "so",
-          "saw",
-          "sea"
+          {
+            "id": "c1",
+            "text": "so"
+          },
+          {
+            "id": "c2",
+            "text": "saw"
+          },
+          {
+            "id": "c3",
+            "text": "sea"
+          }
         ]
       },
-      "correct_answer": "saw",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'See' becomes 'saw' in the past tense. It is an irregular verb.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 63
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 63,
+      "passage_id": "p6"
     },
     {
       "slug": "q064",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">64. How many flowers do you see in the picture?</span>",
       "type": "mcq",
+      "prompt": "How many flowers do you see in the picture?",
       "options": {
         "choices": [
-          "three",
-          "two",
-          "none"
+          {
+            "id": "c1",
+            "text": "three"
+          },
+          {
+            "id": "c2",
+            "text": "two"
+          },
+          {
+            "id": "c3",
+            "text": "none"
+          }
         ]
       },
-      "correct_answer": "two",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Looking at the picture, there are two flowers visible in the scene.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 64
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 64,
+      "passage_id": "p6"
     },
     {
       "slug": "q065",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus sits under the hut.<br>\nThe sun is out.<br>\nGus sees a bug.<br>\nThe bug is cute.<br>\nThe bug jumps in the mud.<br>\nThe bug plays in the mud.<br>\nGus has fun.<br>\nThe bug jumps and jumps.<br>\nGus laughs and bug laughs.<br>\nGus and bug go on the bus.\n</div><br>\n<span style=\"color:red;\">65. What is the past tense of jump?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of jump?",
       "options": {
         "choices": [
-          "jumping",
-          "jumped",
-          "jump"
+          {
+            "id": "c1",
+            "text": "jumping"
+          },
+          {
+            "id": "c2",
+            "text": "jumped"
+          },
+          {
+            "id": "c3",
+            "text": "jump"
+          }
         ]
       },
-      "correct_answer": "jumped",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Jump' becomes 'jumped' in the past tense by adding -ed.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 65
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/6.png"
+      },
+      "order_index": 65,
+      "passage_id": "p6"
     },
     {
       "slug": "q066",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe red bug goes on the bus.<br>\nThe purple bug goes on the bus.<br>\nThe red bug and the purple bug jump on the bus.<br>\nGus is upset.<br>\nGus says, \"No jumping on the bus!\"<br>\nThe bus goes up and up.<br>\nThe red bug and the purple bug go up and up.<br>\nFinally, the bus goes down and down.\n</div><br>\n<span style=\"color:red;\">66. Who gets on the bus?</span>",
       "type": "mcq",
+      "prompt": "Who gets on the bus?",
       "options": {
         "choices": [
-          "red bug and yellow bug",
-          "red bug and white bug",
-          "red bug and purple bug"
+          {
+            "id": "c1",
+            "text": "red bug and yellow bug"
+          },
+          {
+            "id": "c2",
+            "text": "red bug and white bug"
+          },
+          {
+            "id": "c3",
+            "text": "red bug and purple bug"
+          }
         ]
       },
-      "correct_answer": "red bug and purple bug",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The red bug goes on the bus. The purple bug goes on the bus.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 66
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/7.png"
+      },
+      "order_index": 66,
+      "passage_id": "p7"
     },
     {
       "slug": "q067",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe red bug goes on the bus.<br>\nThe purple bug goes on the bus.<br>\nThe red bug and the purple bug jump on the bus.<br>\nGus is upset.<br>\nGus says, \"No jumping on the bus!\"<br>\nThe bus goes up and up.<br>\nThe red bug and the purple bug go up and up.<br>\nFinally, the bus goes down and down.\n</div><br>\n<span style=\"color:red;\">67. What do the bugs do on the bus?</span>",
       "type": "mcq",
+      "prompt": "What do the bugs do on the bus?",
       "options": {
         "choices": [
-          "shout on the bus",
-          "cry on the bus",
-          "jump on the bus"
+          {
+            "id": "c1",
+            "text": "shout on the bus"
+          },
+          {
+            "id": "c2",
+            "text": "cry on the bus"
+          },
+          {
+            "id": "c3",
+            "text": "jump on the bus"
+          }
         ]
       },
-      "correct_answer": "jump on the bus",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The red bug and the purple bug jump on the bus.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 67
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/7.png"
+      },
+      "order_index": 67,
+      "passage_id": "p7"
     },
     {
       "slug": "q068",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe red bug goes on the bus.<br>\nThe purple bug goes on the bus.<br>\nThe red bug and the purple bug jump on the bus.<br>\nGus is upset.<br>\nGus says, \"No jumping on the bus!\"<br>\nThe bus goes up and up.<br>\nThe red bug and the purple bug go up and up.<br>\nFinally, the bus goes down and down.\n</div><br>\n<span style=\"color:red;\">68. What emotions does Gus express?</span>",
       "type": "mcq",
+      "prompt": "What emotions does Gus express?",
       "options": {
         "choices": [
-          "he is happy",
-          "he is upset",
-          "he is crying"
+          {
+            "id": "c1",
+            "text": "he is happy"
+          },
+          {
+            "id": "c2",
+            "text": "he is upset"
+          },
+          {
+            "id": "c3",
+            "text": "he is crying"
+          }
         ]
       },
-      "correct_answer": "he is upset",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Gus is upset' when the bugs jump on the bus.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 68
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/7.png"
+      },
+      "order_index": 68,
+      "passage_id": "p7"
     },
     {
       "slug": "q069",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe red bug goes on the bus.<br>\nThe purple bug goes on the bus.<br>\nThe red bug and the purple bug jump on the bus.<br>\nGus is upset.<br>\nGus says, \"No jumping on the bus!\"<br>\nThe bus goes up and up.<br>\nThe red bug and the purple bug go up and up.<br>\nFinally, the bus goes down and down.\n</div><br>\n<span style=\"color:red;\">69. What did Gus tell the bugs?</span>",
       "type": "mcq",
+      "prompt": "What did Gus tell the bugs?",
       "options": {
         "choices": [
-          "no crying on the bus",
-          "no eating on the bus",
-          "no jumping on the bus"
+          {
+            "id": "c1",
+            "text": "no crying on the bus"
+          },
+          {
+            "id": "c2",
+            "text": "no eating on the bus"
+          },
+          {
+            "id": "c3",
+            "text": "no jumping on the bus"
+          }
         ]
       },
-      "correct_answer": "no jumping on the bus",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Gus says, \"No jumping on the bus!\"'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 69
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/7.png"
+      },
+      "order_index": 69,
+      "passage_id": "p7"
     },
     {
       "slug": "q070",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe red bug goes on the bus.<br>\nThe purple bug goes on the bus.<br>\nThe red bug and the purple bug jump on the bus.<br>\nGus is upset.<br>\nGus says, \"No jumping on the bus!\"<br>\nThe bus goes up and up.<br>\nThe red bug and the purple bug go up and up.<br>\nFinally, the bus goes down and down.\n</div><br>\n<span style=\"color:red;\">70. How does the bus move?</span>",
       "type": "mcq",
+      "prompt": "How does the bus move?",
       "options": {
         "choices": [
-          "up and up",
-          "right and left",
-          "left and right"
+          {
+            "id": "c1",
+            "text": "up and up"
+          },
+          {
+            "id": "c2",
+            "text": "right and left"
+          },
+          {
+            "id": "c3",
+            "text": "left and right"
+          }
         ]
       },
-      "correct_answer": "up and up",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'The bus goes up and up.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 70
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/7.png"
+      },
+      "order_index": 70,
+      "passage_id": "p7"
     },
     {
       "slug": "q071",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe red bug goes on the bus.<br>\nThe purple bug goes on the bus.<br>\nThe red bug and the purple bug jump on the bus.<br>\nGus is upset.<br>\nGus says, \"No jumping on the bus!\"<br>\nThe bus goes up and up.<br>\nThe red bug and the purple bug go up and up.<br>\nFinally, the bus goes down and down.\n</div><br>\n<span style=\"color:red;\">71. What happens at the end of the story?</span>",
       "type": "mcq",
+      "prompt": "What happens at the end of the story?",
       "options": {
         "choices": [
-          "bus goes left and middle",
-          "bus goes up and left",
-          "bus goes down and down"
+          {
+            "id": "c1",
+            "text": "bus goes left and middle"
+          },
+          {
+            "id": "c2",
+            "text": "bus goes up and left"
+          },
+          {
+            "id": "c3",
+            "text": "bus goes down and down"
+          }
         ]
       },
-      "correct_answer": "bus goes down and down",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Finally, the bus goes down and down.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 71
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/7.png"
+      },
+      "order_index": 71,
+      "passage_id": "p7"
     },
     {
       "slug": "q072",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe red bug goes on the bus.<br>\nThe purple bug goes on the bus.<br>\nThe red bug and the purple bug jump on the bus.<br>\nGus is upset.<br>\nGus says, \"No jumping on the bus!\"<br>\nThe bus goes up and up.<br>\nThe red bug and the purple bug go up and up.<br>\nFinally, the bus goes down and down.\n</div><br>\n<span style=\"color:red;\">72. What color is Gus's T-shirt?</span>",
       "type": "mcq",
+      "prompt": "What color is Gus's T-shirt?",
       "options": {
         "choices": [
-          "red",
-          "purple",
-          "orange"
+          {
+            "id": "c1",
+            "text": "red"
+          },
+          {
+            "id": "c2",
+            "text": "purple"
+          },
+          {
+            "id": "c3",
+            "text": "orange"
+          }
         ]
       },
-      "correct_answer": "orange",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Looking at the picture, Gus is wearing an orange T-shirt.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 72
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/7.png"
+      },
+      "order_index": 72,
+      "passage_id": "p7"
     },
     {
       "slug": "q073",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe red bug goes on the bus.<br>\nThe purple bug goes on the bus.<br>\nThe red bug and the purple bug jump on the bus.<br>\nGus is upset.<br>\nGus says, \"No jumping on the bus!\"<br>\nThe bus goes up and up.<br>\nThe red bug and the purple bug go up and up.<br>\nFinally, the bus goes down and down.\n</div><br>\n<span style=\"color:red;\">73. What is written on Gus's T-shirt?</span>",
       "type": "mcq",
+      "prompt": "What is written on Gus's T-shirt?",
       "options": {
         "choices": [
-          "Bug",
-          "Mama",
-          "Gus"
+          {
+            "id": "c1",
+            "text": "Bug"
+          },
+          {
+            "id": "c2",
+            "text": "Mama"
+          },
+          {
+            "id": "c3",
+            "text": "Gus"
+          }
         ]
       },
-      "correct_answer": "Gus",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Looking at the picture, the word 'GUS' is written on his T-shirt.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 73
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/7.png"
+      },
+      "order_index": 73,
+      "passage_id": "p7"
     },
     {
       "slug": "q074",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe red bug goes on the bus.<br>\nThe purple bug goes on the bus.<br>\nThe red bug and the purple bug jump on the bus.<br>\nGus is upset.<br>\nGus says, \"No jumping on the bus!\"<br>\nThe bus goes up and up.<br>\nThe red bug and the purple bug go up and up.<br>\nFinally, the bus goes down and down.\n</div><br>\n<span style=\"color:red;\">74. How many dots are present on the bugs?</span>",
       "type": "mcq",
+      "prompt": "How many dots are present on the bugs?",
       "options": {
         "choices": [
-          "total of 10",
-          "total of 7",
-          "total of 6"
+          {
+            "id": "c1",
+            "text": "total of 10"
+          },
+          {
+            "id": "c2",
+            "text": "total of 7"
+          },
+          {
+            "id": "c3",
+            "text": "total of 6"
+          }
         ]
       },
-      "correct_answer": "total of 7",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Looking at the picture carefully, the red bug and purple bug together have a total of 7 dots.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 74
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/7.png"
+      },
+      "order_index": 74,
+      "passage_id": "p7"
     },
     {
       "slug": "q075",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe red bug goes on the bus.<br>\nThe purple bug goes on the bus.<br>\nThe red bug and the purple bug jump on the bus.<br>\nGus is upset.<br>\nGus says, \"No jumping on the bus!\"<br>\nThe bus goes up and up.<br>\nThe red bug and the purple bug go up and up.<br>\nFinally, the bus goes down and down.\n</div><br>\n<span style=\"color:red;\">75. What is the opposite of upset?</span>",
       "type": "mcq",
+      "prompt": "What is the opposite of upset?",
       "options": {
         "choices": [
-          "happy",
-          "sad",
-          "beautiful"
+          {
+            "id": "c1",
+            "text": "happy"
+          },
+          {
+            "id": "c2",
+            "text": "sad"
+          },
+          {
+            "id": "c3",
+            "text": "beautiful"
+          }
         ]
       },
-      "correct_answer": "happy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The opposite of 'upset' (unhappy/troubled) is 'happy.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 75
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/7.png"
+      },
+      "order_index": 75,
+      "passage_id": "p7"
     },
     {
       "slug": "q076",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus hugs his mummy.<br>\nGus hugs his cub.<br>\nThe bug hugs the cub.<br>\nThe bug and the cub want to jump and jump.<br>\nBut Gus is in a rush.<br>\nGus runs for the bus.<br>\nThe bug and the cub jump and jump to the bus.\n</div><br>\n<span style=\"color:red;\">76. Who does Gus hug?</span>",
       "type": "mcq",
+      "prompt": "Who does Gus hug?",
       "options": {
         "choices": [
-          "Gus hugs his mummy",
-          "Gus hugs his dad",
-          "Gus hugs Grandma"
+          {
+            "id": "c1",
+            "text": "Gus hugs his mummy"
+          },
+          {
+            "id": "c2",
+            "text": "Gus hugs his dad"
+          },
+          {
+            "id": "c3",
+            "text": "Gus hugs Grandma"
+          }
         ]
       },
-      "correct_answer": "Gus hugs his mummy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Gus hugs his mummy' — the first person he hugs is his mummy.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 76
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/8.png"
+      },
+      "order_index": 76,
+      "passage_id": "p8"
     },
     {
       "slug": "q077",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus hugs his mummy.<br>\nGus hugs his cub.<br>\nThe bug hugs the cub.<br>\nThe bug and the cub want to jump and jump.<br>\nBut Gus is in a rush.<br>\nGus runs for the bus.<br>\nThe bug and the cub jump and jump to the bus.\n</div><br>\n<span style=\"color:red;\">77. Who does the bug hug?</span>",
       "type": "mcq",
+      "prompt": "Who does the bug hug?",
       "options": {
         "choices": [
-          "bug hugs dad",
-          "bug hugs mummy",
-          "bug hugs cub"
+          {
+            "id": "c1",
+            "text": "bug hugs dad"
+          },
+          {
+            "id": "c2",
+            "text": "bug hugs mummy"
+          },
+          {
+            "id": "c3",
+            "text": "bug hugs cub"
+          }
         ]
       },
-      "correct_answer": "bug hugs cub",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The bug hugs the cub.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 77
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/8.png"
+      },
+      "order_index": 77,
+      "passage_id": "p8"
     },
     {
       "slug": "q078",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus hugs his mummy.<br>\nGus hugs his cub.<br>\nThe bug hugs the cub.<br>\nThe bug and the cub want to jump and jump.<br>\nBut Gus is in a rush.<br>\nGus runs for the bus.<br>\nThe bug and the cub jump and jump to the bus.\n</div><br>\n<span style=\"color:red;\">78. What do the bug and cub want to do?</span>",
       "type": "mcq",
+      "prompt": "What do the bug and cub want to do?",
       "options": {
         "choices": [
-          "Play and play",
-          "write and write",
-          "jump and jump"
+          {
+            "id": "c1",
+            "text": "Play and play"
+          },
+          {
+            "id": "c2",
+            "text": "write and write"
+          },
+          {
+            "id": "c3",
+            "text": "jump and jump"
+          }
         ]
       },
-      "correct_answer": "jump and jump",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The bug and the cub want to jump and jump.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 78
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/8.png"
+      },
+      "order_index": 78,
+      "passage_id": "p8"
     },
     {
       "slug": "q079",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus hugs his mummy.<br>\nGus hugs his cub.<br>\nThe bug hugs the cub.<br>\nThe bug and the cub want to jump and jump.<br>\nBut Gus is in a rush.<br>\nGus runs for the bus.<br>\nThe bug and the cub jump and jump to the bus.\n</div><br>\n<span style=\"color:red;\">79. Where does Gus run?</span>",
       "type": "mcq",
+      "prompt": "Where does Gus run?",
       "options": {
         "choices": [
-          "Gus runs for the bus",
-          "Gus runs for the train",
-          "Gus runs for the city"
+          {
+            "id": "c1",
+            "text": "Gus runs for the bus"
+          },
+          {
+            "id": "c2",
+            "text": "Gus runs for the train"
+          },
+          {
+            "id": "c3",
+            "text": "Gus runs for the city"
+          }
         ]
       },
-      "correct_answer": "Gus runs for the bus",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Gus runs for the bus.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 79
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/8.png"
+      },
+      "order_index": 79,
+      "passage_id": "p8"
     },
     {
       "slug": "q080",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus hugs his mummy.<br>\nGus hugs his cub.<br>\nThe bug hugs the cub.<br>\nThe bug and the cub want to jump and jump.<br>\nBut Gus is in a rush.<br>\nGus runs for the bus.<br>\nThe bug and the cub jump and jump to the bus.\n</div><br>\n<span style=\"color:red;\">80. Where do the bug and cub jump to?</span>",
       "type": "mcq",
+      "prompt": "Where do the bug and cub jump to?",
       "options": {
         "choices": [
-          "they jump for the train",
-          "they jump for the bus",
-          "they jump for the car"
+          {
+            "id": "c1",
+            "text": "they jump for the train"
+          },
+          {
+            "id": "c2",
+            "text": "they jump for the bus"
+          },
+          {
+            "id": "c3",
+            "text": "they jump for the car"
+          }
         ]
       },
-      "correct_answer": "they jump for the bus",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'The bug and the cub jump and jump to the bus.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 80
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/8.png"
+      },
+      "order_index": 80,
+      "passage_id": "p8"
     },
     {
       "slug": "q081",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus hugs his mummy.<br>\nGus hugs his cub.<br>\nThe bug hugs the cub.<br>\nThe bug and the cub want to jump and jump.<br>\nBut Gus is in a rush.<br>\nGus runs for the bus.<br>\nThe bug and the cub jump and jump to the bus.\n</div><br>\n<span style=\"color:red;\">81. Was Gus in a rush?</span>",
       "type": "mcq",
+      "prompt": "Was Gus in a rush?",
       "options": {
         "choices": [
-          "no, Gus was not in a rush",
-          "yes, Gus was in a rush",
-          "I am not sure"
+          {
+            "id": "c1",
+            "text": "no, Gus was not in a rush"
+          },
+          {
+            "id": "c2",
+            "text": "yes, Gus was in a rush"
+          },
+          {
+            "id": "c3",
+            "text": "I am not sure"
+          }
         ]
       },
-      "correct_answer": "yes, Gus was in a rush",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'But Gus is in a rush' — he was hurrying.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 81
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/8.png"
+      },
+      "order_index": 81,
+      "passage_id": "p8"
     },
     {
       "slug": "q082",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus hugs his mummy.<br>\nGus hugs his cub.<br>\nThe bug hugs the cub.<br>\nThe bug and the cub want to jump and jump.<br>\nBut Gus is in a rush.<br>\nGus runs for the bus.<br>\nThe bug and the cub jump and jump to the bus.\n</div><br>\n<span style=\"color:red;\">82. Why was Gus in a rush?</span>",
       "type": "mcq",
+      "prompt": "Why was Gus in a rush?",
       "options": {
         "choices": [
-          "to catch the bus",
-          "to catch the plane",
-          "to catch the flight"
+          {
+            "id": "c1",
+            "text": "to catch the bus"
+          },
+          {
+            "id": "c2",
+            "text": "to catch the plane"
+          },
+          {
+            "id": "c3",
+            "text": "to catch the flight"
+          }
         ]
       },
-      "correct_answer": "to catch the bus",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Gus is in a rush. Gus runs for the bus.' — he was rushing to catch the bus.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 82
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/8.png"
+      },
+      "order_index": 82,
+      "passage_id": "p8"
     },
     {
       "slug": "q083",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus hugs his mummy.<br>\nGus hugs his cub.<br>\nThe bug hugs the cub.<br>\nThe bug and the cub want to jump and jump.<br>\nBut Gus is in a rush.<br>\nGus runs for the bus.<br>\nThe bug and the cub jump and jump to the bus.\n</div><br>\n<span style=\"color:red;\">83. Which line contains only verbs?</span>",
       "type": "mcq",
+      "prompt": "Which line contains only verbs?",
       "options": {
         "choices": [
-          "and, his, and in",
-          "hug, jump, and run",
-          "Gus, bug, and bus"
+          {
+            "id": "c1",
+            "text": "and, his, and in"
+          },
+          {
+            "id": "c2",
+            "text": "hug, jump, and run"
+          },
+          {
+            "id": "c3",
+            "text": "Gus, bug, and bus"
+          }
         ]
       },
-      "correct_answer": "hug, jump, and run",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Hug,' 'jump,' and 'run' are all action words (verbs). 'And/his/in' are not verbs. 'Gus/bug/bus' are nouns.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 83
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/8.png"
+      },
+      "order_index": 83,
+      "passage_id": "p8"
     },
     {
       "slug": "q084",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus hugs his mummy.<br>\nGus hugs his cub.<br>\nThe bug hugs the cub.<br>\nThe bug and the cub want to jump and jump.<br>\nBut Gus is in a rush.<br>\nGus runs for the bus.<br>\nThe bug and the cub jump and jump to the bus.\n</div><br>\n<span style=\"color:red;\">84. Which line contains only verbs?</span>",
       "type": "mcq",
+      "prompt": "Which line contains only verbs?",
       "options": {
         "choices": [
-          "bus, bug, cub",
-          "in, is, the",
-          "jump, want, run"
+          {
+            "id": "c1",
+            "text": "bus, bug, cub"
+          },
+          {
+            "id": "c2",
+            "text": "in, is, the"
+          },
+          {
+            "id": "c3",
+            "text": "jump, want, run"
+          }
         ]
       },
-      "correct_answer": "jump, want, run",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Jump,' 'want,' and 'run' are all action/doing words (verbs). The others are nouns or prepositions.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 84
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/8.png"
+      },
+      "order_index": 84,
+      "passage_id": "p8"
     },
     {
       "slug": "q085",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus hugs his mummy.<br>\nGus hugs his cub.<br>\nThe bug hugs the cub.<br>\nThe bug and the cub want to jump and jump.<br>\nBut Gus is in a rush.<br>\nGus runs for the bus.<br>\nThe bug and the cub jump and jump to the bus.\n</div><br>\n<span style=\"color:red;\">85. Does Gus hug the bug or the cub?</span>",
       "type": "mcq",
+      "prompt": "Does Gus hug the bug or the cub?",
       "options": {
         "choices": [
-          "Gus hugs both",
-          "Gus hugs the cub",
-          "Gus hugs mummy"
+          {
+            "id": "c1",
+            "text": "Gus hugs both"
+          },
+          {
+            "id": "c2",
+            "text": "Gus hugs the cub"
+          },
+          {
+            "id": "c3",
+            "text": "Gus hugs mummy"
+          }
         ]
       },
-      "correct_answer": "Gus hugs the cub",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Gus hugs his mummy. Gus hugs his cub.' — specifically, when choosing between bug or cub, the story shows Gus hugs the cub (not the bug).",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 85
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/8.png"
+      },
+      "order_index": 85,
+      "passage_id": "p8"
     },
     {
       "slug": "q086",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRufus is my cute pup.<br>\nRufus and I jump and run.<br>\nWe play together under the sun.<br>\nMy pup likes to tug on his rug.<br>\nSometimes we splash and jump in the mud.<br>\nI hug my fuzzy little pup every day.<br>\nRufus runs fast and has lots of fun.<br>\nHe loves to sniff, jump, and spin around.<br>\nWhen the day is done, he curls up beside me.<br>\nI love my sweet pup Rufus so much!\n</div><br>\n<span style=\"color:red;\">86. Who is Rufus?</span>",
       "type": "mcq",
+      "prompt": "Who is Rufus?",
       "options": {
         "choices": [
-          "a cute cat",
-          "a cute cub",
-          "a cute pup"
+          {
+            "id": "c1",
+            "text": "a cute cat"
+          },
+          {
+            "id": "c2",
+            "text": "a cute cub"
+          },
+          {
+            "id": "c3",
+            "text": "a cute pup"
+          }
         ]
       },
-      "correct_answer": "a cute pup",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Rufus is my cute pup.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 86
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/9.png"
+      },
+      "order_index": 86,
+      "passage_id": "p9"
     },
     {
       "slug": "q087",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRufus is my cute pup.<br>\nRufus and I jump and run.<br>\nWe play together under the sun.<br>\nMy pup likes to tug on his rug.<br>\nSometimes we splash and jump in the mud.<br>\nI hug my fuzzy little pup every day.<br>\nRufus runs fast and has lots of fun.<br>\nHe loves to sniff, jump, and spin around.<br>\nWhen the day is done, he curls up beside me.<br>\nI love my sweet pup Rufus so much!\n</div><br>\n<span style=\"color:red;\">87. What does Rufus like to do?</span>",
       "type": "mcq",
+      "prompt": "What does Rufus like to do?",
       "options": {
         "choices": [
-          "tug on his face",
-          "tug on rug",
-          "tug on the couch"
+          {
+            "id": "c1",
+            "text": "tug on his face"
+          },
+          {
+            "id": "c2",
+            "text": "tug on rug"
+          },
+          {
+            "id": "c3",
+            "text": "tug on the couch"
+          }
         ]
       },
-      "correct_answer": "tug on rug",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'My pup likes to tug on his rug.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 87
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/9.png"
+      },
+      "order_index": 87,
+      "passage_id": "p9"
     },
     {
       "slug": "q088",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRufus is my cute pup.<br>\nRufus and I jump and run.<br>\nWe play together under the sun.<br>\nMy pup likes to tug on his rug.<br>\nSometimes we splash and jump in the mud.<br>\nI hug my fuzzy little pup every day.<br>\nRufus runs fast and has lots of fun.<br>\nHe loves to sniff, jump, and spin around.<br>\nWhen the day is done, he curls up beside me.<br>\nI love my sweet pup Rufus so much!\n</div><br>\n<span style=\"color:red;\">88. Where does pup play?</span>",
       "type": "mcq",
+      "prompt": "Where does pup play?",
       "options": {
         "choices": [
-          "under the moon",
-          "under the stars",
-          "under the sun"
+          {
+            "id": "c1",
+            "text": "under the moon"
+          },
+          {
+            "id": "c2",
+            "text": "under the stars"
+          },
+          {
+            "id": "c3",
+            "text": "under the sun"
+          }
         ]
       },
-      "correct_answer": "under the sun",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'We play together under the sun.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 88
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/9.png"
+      },
+      "order_index": 88,
+      "passage_id": "p9"
     },
     {
       "slug": "q089",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRufus is my cute pup.<br>\nRufus and I jump and run.<br>\nWe play together under the sun.<br>\nMy pup likes to tug on his rug.<br>\nSometimes we splash and jump in the mud.<br>\nI hug my fuzzy little pup every day.<br>\nRufus runs fast and has lots of fun.<br>\nHe loves to sniff, jump, and spin around.<br>\nWhen the day is done, he curls up beside me.<br>\nI love my sweet pup Rufus so much!\n</div><br>\n<span style=\"color:red;\">89. Where does pup like to splash?</span>",
       "type": "mcq",
+      "prompt": "Where does pup like to splash?",
       "options": {
         "choices": [
-          "splash and jump in the water",
-          "splash and jump in the mud",
-          "splash and jump in the river"
+          {
+            "id": "c1",
+            "text": "splash and jump in the water"
+          },
+          {
+            "id": "c2",
+            "text": "splash and jump in the mud"
+          },
+          {
+            "id": "c3",
+            "text": "splash and jump in the river"
+          }
         ]
       },
-      "correct_answer": "splash and jump in the mud",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Sometimes we splash and jump in the mud.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 89
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/9.png"
+      },
+      "order_index": 89,
+      "passage_id": "p9"
     },
     {
       "slug": "q090",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRufus is my cute pup.<br>\nRufus and I jump and run.<br>\nWe play together under the sun.<br>\nMy pup likes to tug on his rug.<br>\nSometimes we splash and jump in the mud.<br>\nI hug my fuzzy little pup every day.<br>\nRufus runs fast and has lots of fun.<br>\nHe loves to sniff, jump, and spin around.<br>\nWhen the day is done, he curls up beside me.<br>\nI love my sweet pup Rufus so much!\n</div><br>\n<span style=\"color:red;\">90. How does Rufus run?</span>",
       "type": "mcq",
+      "prompt": "How does Rufus run?",
       "options": {
         "choices": [
-          "Rufus runs fast",
-          "Rufus runs slow",
-          "Rufus runs last"
+          {
+            "id": "c1",
+            "text": "Rufus runs fast"
+          },
+          {
+            "id": "c2",
+            "text": "Rufus runs slow"
+          },
+          {
+            "id": "c3",
+            "text": "Rufus runs last"
+          }
         ]
       },
-      "correct_answer": "Rufus runs fast",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Rufus runs fast and has lots of fun.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 90
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/9.png"
+      },
+      "order_index": 90,
+      "passage_id": "p9"
     },
     {
       "slug": "q091",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRufus is my cute pup.<br>\nRufus and I jump and run.<br>\nWe play together under the sun.<br>\nMy pup likes to tug on his rug.<br>\nSometimes we splash and jump in the mud.<br>\nI hug my fuzzy little pup every day.<br>\nRufus runs fast and has lots of fun.<br>\nHe loves to sniff, jump, and spin around.<br>\nWhen the day is done, he curls up beside me.<br>\nI love my sweet pup Rufus so much!\n</div><br>\n<span style=\"color:red;\">91. What are the things Rufus loves to do?</span>",
       "type": "mcq",
+      "prompt": "What are the things Rufus loves to do?",
       "options": {
         "choices": [
-          "swim, hide, and run around",
-          "write, sleep, and spin around",
-          "sniff, jump, and spin around"
+          {
+            "id": "c1",
+            "text": "swim, hide, and run around"
+          },
+          {
+            "id": "c2",
+            "text": "write, sleep, and spin around"
+          },
+          {
+            "id": "c3",
+            "text": "sniff, jump, and spin around"
+          }
         ]
       },
-      "correct_answer": "sniff, jump, and spin around",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'He loves to sniff, jump, and spin around.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 91
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/9.png"
+      },
+      "order_index": 91,
+      "passage_id": "p9"
     },
     {
       "slug": "q092",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRufus is my cute pup.<br>\nRufus and I jump and run.<br>\nWe play together under the sun.<br>\nMy pup likes to tug on his rug.<br>\nSometimes we splash and jump in the mud.<br>\nI hug my fuzzy little pup every day.<br>\nRufus runs fast and has lots of fun.<br>\nHe loves to sniff, jump, and spin around.<br>\nWhen the day is done, he curls up beside me.<br>\nI love my sweet pup Rufus so much!\n</div><br>\n<span style=\"color:red;\">92. What happens at the end of the day?</span>",
       "type": "mcq",
+      "prompt": "What happens at the end of the day?",
       "options": {
         "choices": [
-          "Rufus curls up beside me",
-          "Rufus sleeps up beside me",
-          "Rufus jumps up beside me"
+          {
+            "id": "c1",
+            "text": "Rufus curls up beside me"
+          },
+          {
+            "id": "c2",
+            "text": "Rufus sleeps up beside me"
+          },
+          {
+            "id": "c3",
+            "text": "Rufus jumps up beside me"
+          }
         ]
       },
-      "correct_answer": "Rufus curls up beside me",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'When the day is done, he curls up beside me.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 92
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/9.png"
+      },
+      "order_index": 92,
+      "passage_id": "p9"
     },
     {
       "slug": "q093",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRufus is my cute pup.<br>\nRufus and I jump and run.<br>\nWe play together under the sun.<br>\nMy pup likes to tug on his rug.<br>\nSometimes we splash and jump in the mud.<br>\nI hug my fuzzy little pup every day.<br>\nRufus runs fast and has lots of fun.<br>\nHe loves to sniff, jump, and spin around.<br>\nWhen the day is done, he curls up beside me.<br>\nI love my sweet pup Rufus so much!\n</div><br>\n<span style=\"color:red;\">93. Which line contains only verbs?</span>",
       "type": "mcq",
+      "prompt": "Which line contains only verbs?",
       "options": {
         "choices": [
-          "jump, run, and love",
-          "up, down, and me",
-          "I, my, and we"
+          {
+            "id": "c1",
+            "text": "jump, run, and love"
+          },
+          {
+            "id": "c2",
+            "text": "up, down, and me"
+          },
+          {
+            "id": "c3",
+            "text": "I, my, and we"
+          }
         ]
       },
-      "correct_answer": "jump, run, and love",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Jump,' 'run,' and 'love' are all action/doing words (verbs). 'Up/down/me' are not verbs, and 'I/my/we' are pronouns.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 93
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/9.png"
+      },
+      "order_index": 93,
+      "passage_id": "p9"
     },
     {
       "slug": "q094",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nRufus is my cute pup.<br>\nRufus and I jump and run.<br>\nWe play together under the sun.<br>\nMy pup likes to tug on his rug.<br>\nSometimes we splash and jump in the mud.<br>\nI hug my fuzzy little pup every day.<br>\nRufus runs fast and has lots of fun.<br>\nHe loves to sniff, jump, and spin around.<br>\nWhen the day is done, he curls up beside me.<br>\nI love my sweet pup Rufus so much!\n</div><br>\n<span style=\"color:red;\">94. Which line contains only verbs?</span>",
       "type": "mcq",
+      "prompt": "Which line contains only verbs?",
       "options": {
         "choices": [
-          "Rufus, Sandy, and Tom",
-          "love, run, and splash",
-          "in, is, and to"
+          {
+            "id": "c1",
+            "text": "Rufus, Sandy, and Tom"
+          },
+          {
+            "id": "c2",
+            "text": "love, run, and splash"
+          },
+          {
+            "id": "c3",
+            "text": "in, is, and to"
+          }
         ]
       },
-      "correct_answer": "love, run, and splash",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Love,' 'run,' and 'splash' are all action words (verbs). The others are a list of names or prepositions.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 94
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/9.png"
+      },
+      "order_index": 94,
+      "passage_id": "p9"
     },
     {
       "slug": "q095",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus has a pup.<br>\nThe pup jumps in the tub.<br>\nNow Gus jumps in the tub too.<br>\nThey splash and scrub in the tub.<br>\nThe pup likes to tug the rubber duck.<br>\nGus hums and laughs with his pup.<br>\nIt is such fun in the bubbly tub!\n</div><br>\n<span style=\"color:red;\">95. What does Gus own?</span>",
       "type": "mcq",
+      "prompt": "What does Gus own?",
       "options": {
         "choices": [
-          "Gus has a mug",
-          "Gus has a pump",
-          "Gus has a pup"
+          {
+            "id": "c1",
+            "text": "Gus has a mug"
+          },
+          {
+            "id": "c2",
+            "text": "Gus has a pump"
+          },
+          {
+            "id": "c3",
+            "text": "Gus has a pup"
+          }
         ]
       },
-      "correct_answer": "Gus has a pup",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Gus has a pup.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 95
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/10.png"
+      },
+      "order_index": 95,
+      "passage_id": "p10"
     },
     {
       "slug": "q096",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus has a pup.<br>\nThe pup jumps in the tub.<br>\nNow Gus jumps in the tub too.<br>\nThey splash and scrub in the tub.<br>\nThe pup likes to tug the rubber duck.<br>\nGus hums and laughs with his pup.<br>\nIt is such fun in the bubbly tub!\n</div><br>\n<span style=\"color:red;\">96. Where does the pup jump in?</span>",
       "type": "mcq",
+      "prompt": "Where does the pup jump in?",
       "options": {
         "choices": [
-          "the car",
-          "the bottle",
-          "the tub"
+          {
+            "id": "c1",
+            "text": "the car"
+          },
+          {
+            "id": "c2",
+            "text": "the bottle"
+          },
+          {
+            "id": "c3",
+            "text": "the tub"
+          }
         ]
       },
-      "correct_answer": "the tub",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The pup jumps in the tub.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 96
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/10.png"
+      },
+      "order_index": 96,
+      "passage_id": "p10"
     },
     {
       "slug": "q097",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus has a pup.<br>\nThe pup jumps in the tub.<br>\nNow Gus jumps in the tub too.<br>\nThey splash and scrub in the tub.<br>\nThe pup likes to tug the rubber duck.<br>\nGus hums and laughs with his pup.<br>\nIt is such fun in the bubbly tub!\n</div><br>\n<span style=\"color:red;\">97. Who jumps with pup in the tub?</span>",
       "type": "mcq",
+      "prompt": "Who jumps with pup in the tub?",
       "options": {
         "choices": [
-          "Gus",
-          "Tom",
-          "George"
+          {
+            "id": "c1",
+            "text": "Gus"
+          },
+          {
+            "id": "c2",
+            "text": "Tom"
+          },
+          {
+            "id": "c3",
+            "text": "George"
+          }
         ]
       },
-      "correct_answer": "Gus",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Now Gus jumps in the tub too.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 97
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/10.png"
+      },
+      "order_index": 97,
+      "passage_id": "p10"
     },
     {
       "slug": "q098",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus has a pup.<br>\nThe pup jumps in the tub.<br>\nNow Gus jumps in the tub too.<br>\nThey splash and scrub in the tub.<br>\nThe pup likes to tug the rubber duck.<br>\nGus hums and laughs with his pup.<br>\nIt is such fun in the bubbly tub!\n</div><br>\n<span style=\"color:red;\">98. What do Gus and pup do?</span>",
       "type": "mcq",
+      "prompt": "What do Gus and pup do?",
       "options": {
         "choices": [
-          "They splash and fight in the tub",
-          "They splash and scream in the tub",
-          "They splash and scrub in the tub"
+          {
+            "id": "c1",
+            "text": "They splash and fight in the tub"
+          },
+          {
+            "id": "c2",
+            "text": "They splash and scream in the tub"
+          },
+          {
+            "id": "c3",
+            "text": "They splash and scrub in the tub"
+          }
         ]
       },
-      "correct_answer": "They splash and scrub in the tub",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'They splash and scrub in the tub.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 98
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/10.png"
+      },
+      "order_index": 98,
+      "passage_id": "p10"
     },
     {
       "slug": "q099",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus has a pup.<br>\nThe pup jumps in the tub.<br>\nNow Gus jumps in the tub too.<br>\nThey splash and scrub in the tub.<br>\nThe pup likes to tug the rubber duck.<br>\nGus hums and laughs with his pup.<br>\nIt is such fun in the bubbly tub!\n</div><br>\n<span style=\"color:red;\">99. What does pup like to tug on?</span>",
       "type": "mcq",
+      "prompt": "What does pup like to tug on?",
       "options": {
         "choices": [
-          "on the rubber duck",
-          "on the rubber cat",
-          "on the rubber dog"
+          {
+            "id": "c1",
+            "text": "on the rubber duck"
+          },
+          {
+            "id": "c2",
+            "text": "on the rubber cat"
+          },
+          {
+            "id": "c3",
+            "text": "on the rubber dog"
+          }
         ]
       },
-      "correct_answer": "on the rubber duck",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'The pup likes to tug the rubber duck.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 99
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/10.png"
+      },
+      "order_index": 99,
+      "passage_id": "p10"
     },
     {
       "slug": "q100",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nGus has a pup.<br>\nThe pup jumps in the tub.<br>\nNow Gus jumps in the tub too.<br>\nThey splash and scrub in the tub.<br>\nThe pup likes to tug the rubber duck.<br>\nGus hums and laughs with his pup.<br>\nIt is such fun in the bubbly tub!\n</div><br>\n<span style=\"color:red;\">100. Where did Gus and pup have most fun?</span>",
       "type": "mcq",
+      "prompt": "Where did Gus and pup have most fun?",
       "options": {
         "choices": [
-          "in the mud",
-          "in the building",
-          "in the bubbly tub"
+          {
+            "id": "c1",
+            "text": "in the mud"
+          },
+          {
+            "id": "c2",
+            "text": "in the building"
+          },
+          {
+            "id": "c3",
+            "text": "in the bubbly tub"
+          }
         ]
       },
-      "correct_answer": "in the bubbly tub",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'It is such fun in the bubbly tub!' — they had the most fun there.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 100
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1-eng-vowels-u/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_U/10.png"
+      },
+      "order_index": 100,
+      "passage_id": "p10"
+    }
+  ],
+  "title_needs_review": true,
+  "passages": [
+    {
+      "id": "p1",
+      "text": "Buck and Russ are buds.\nBuck runs.\nRuss runs.\nBuck and Russ look for bugs.\nBuck found ten bugs.\nRuss found hundred of bugs.\nBuck gets a bug.\nRuss gets a jug.\nNow the bugs are in the jug."
+    },
+    {
+      "id": "p2",
+      "text": "Gus dug in the mud by the hut.\nA nut was stuck in the mud!\nGus gave a tug and a tug.\nThe nut did not budge.\nGus dug and dug.\nHe gave one big tug.\nUp came the nut with a thud!\nGus sat on a rug.\nHe ate the nut.\n\"Yum!\" said Gus."
+    },
+    {
+      "id": "p3",
+      "text": "The sun is up.\nThe sun is out.\nSo is Bud the bug.\nBuggy Bud is so cute and beautiful.\nBuggy Bud will get a big bun.\nBuggy Bud will eat a bit of the bun.\nYum! Buggy Bud hugs the bun.\nBuggy Bud hugs her mummy."
+    },
+    {
+      "id": "p4",
+      "text": "Mummy has a cub.\nThe cub goes on the bus.\nThe bus goes up and up.\nThe cub hums and hums.\nThe cub is in the mud.\nMummy will get the tub.\nThe cub rubs and rubs.\nOh no! The cub is out of the tub.\nThe cub is back in the mud!\nThe bus is gone up and up."
+    },
+    {
+      "id": "p5",
+      "text": "Gus and Puck.\nGus has a pet duck.\nThe duck is Puck.\nPuck is in a rush.\nPuck runs in the mud.\nSplash! Puck slips with a thud.\n\"Oh no!\" says Gus.\nPuck got a little cut.\n\"What bad luck!\" says Gus.\nGus gets a cup and a rug.\nGus helps Puck feel snug."
+    },
+    {
+      "id": "p6",
+      "text": "Gus sits under the hut.\nThe sun is out.\nGus sees a bug.\nThe bug is cute.\nThe bug jumps in the mud.\nThe bug plays in the mud.\nGus has fun.\nThe bug jumps and jumps.\nGus laughs and bug laughs.\nGus and bug go on the bus."
+    },
+    {
+      "id": "p7",
+      "text": "The red bug goes on the bus.\nThe purple bug goes on the bus.\nThe red bug and the purple bug jump on the bus.\nGus is upset.\nGus says, \"No jumping on the bus!\"\nThe bus goes up and up.\nThe red bug and the purple bug go up and up.\nFinally, the bus goes down and down."
+    },
+    {
+      "id": "p8",
+      "text": "Gus hugs his mummy.\nGus hugs his cub.\nThe bug hugs the cub.\nThe bug and the cub want to jump and jump.\nBut Gus is in a rush.\nGus runs for the bus.\nThe bug and the cub jump and jump to the bus."
+    },
+    {
+      "id": "p9",
+      "text": "Rufus is my cute pup.\nRufus and I jump and run.\nWe play together under the sun.\nMy pup likes to tug on his rug.\nSometimes we splash and jump in the mud.\nI hug my fuzzy little pup every day.\nRufus runs fast and has lots of fun.\nHe loves to sniff, jump, and spin around.\nWhen the day is done, he curls up beside me.\nI love my sweet pup Rufus so much!"
+    },
+    {
+      "id": "p10",
+      "text": "Gus has a pup.\nThe pup jumps in the tub.\nNow Gus jumps in the tub too.\nThey splash and scrub in the tub.\nThe pup likes to tug the rubber duck.\nGus hums and laughs with his pup.\nIt is such fun in the bubbly tub!"
     }
   ]
 }

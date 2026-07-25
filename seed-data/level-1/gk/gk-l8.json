@@ -1,1717 +1,2917 @@
 {
   "_source_file": "level1_gk_l8.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "gk-l8",
-    "title": "Level 8",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.570Z",
+  "slug": "gk-l8",
+  "title": "Level 8",
+  "level": "level-1",
+  "subject": "gk",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What twinkles in the sky at night?",
       "type": "mcq",
+      "prompt": "What twinkles in the sky at night?",
       "options": {
         "choices": [
-          "Grass",
-          "Stars",
-          "Sun"
+          {
+            "id": "c1",
+            "text": "Grass"
+          },
+          {
+            "id": "c2",
+            "text": "Stars"
+          },
+          {
+            "id": "c3",
+            "text": "Sun"
+          }
         ]
       },
-      "correct_answer": "Stars",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Stars twinkle at night.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which shape is round?",
       "type": "mcq",
+      "prompt": "Which shape is round?",
       "options": {
         "choices": [
-          "Triangle",
-          "Circle",
-          "Square"
+          {
+            "id": "c1",
+            "text": "Triangle"
+          },
+          {
+            "id": "c2",
+            "text": "Circle"
+          },
+          {
+            "id": "c3",
+            "text": "Square"
+          }
         ]
       },
-      "correct_answer": "Circle",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A circle is round and has no corners.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Which day comes before Sunday?",
       "type": "mcq",
+      "prompt": "Which day comes before Sunday?",
       "options": {
         "choices": [
-          "Monday",
-          "Thursday",
-          "Saturday"
+          {
+            "id": "c1",
+            "text": "Monday"
+          },
+          {
+            "id": "c2",
+            "text": "Thursday"
+          },
+          {
+            "id": "c3",
+            "text": "Saturday"
+          }
         ]
       },
-      "correct_answer": "Saturday",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Before Sunday comes Saturday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "What colour is the fire truck?",
       "type": "mcq",
+      "prompt": "What colour is the fire truck?",
       "options": {
         "choices": [
-          "Red",
-          "Brown",
-          "Purple"
+          {
+            "id": "c1",
+            "text": "Red"
+          },
+          {
+            "id": "c2",
+            "text": "Brown"
+          },
+          {
+            "id": "c3",
+            "text": "Purple"
+          }
         ]
       },
-      "correct_answer": "Red",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The fire truck is red.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "What colour is the blueberry?",
       "type": "mcq",
+      "prompt": "What colour is the blueberry?",
       "options": {
         "choices": [
-          "Blue",
-          "Brown",
-          "Black"
+          {
+            "id": "c1",
+            "text": "Blue"
+          },
+          {
+            "id": "c2",
+            "text": "Brown"
+          },
+          {
+            "id": "c3",
+            "text": "Black"
+          }
         ]
       },
-      "correct_answer": "Blue",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The blueberry is blue.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "What colour is the corn?",
       "type": "mcq",
+      "prompt": "What colour is the corn?",
       "options": {
         "choices": [
-          "Yellow",
-          "Green",
-          "Blue"
+          {
+            "id": "c1",
+            "text": "Yellow"
+          },
+          {
+            "id": "c2",
+            "text": "Green"
+          },
+          {
+            "id": "c3",
+            "text": "Blue"
+          }
         ]
       },
-      "correct_answer": "Yellow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The corn is yellow.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Is a pumpkin a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a pumpkin a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Fruit",
-          "Bird",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A pumpkin is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "The chick is usually which colour?",
       "type": "mcq",
+      "prompt": "The chick is usually which colour?",
       "options": {
         "choices": [
-          "White",
-          "Yellow",
-          "Orange"
+          {
+            "id": "c1",
+            "text": "White"
+          },
+          {
+            "id": "c2",
+            "text": "Yellow"
+          },
+          {
+            "id": "c3",
+            "text": "Orange"
+          }
         ]
       },
-      "correct_answer": "Yellow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The chick is yellow.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "How many legs does a dog have?",
       "type": "mcq",
+      "prompt": "How many legs does a dog have?",
       "options": {
         "choices": [
-          "4",
-          "2",
-          "8"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A dog has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "How many lips do we have?",
       "type": "mcq",
+      "prompt": "How many lips do we have?",
       "options": {
         "choices": [
-          "2",
-          "5",
-          "4"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "We have 2 lips.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "What sound does a dog make?",
       "type": "mcq",
+      "prompt": "What sound does a dog make?",
       "options": {
         "choices": [
-          "Bark",
-          "Hiss",
-          "Oink"
+          {
+            "id": "c1",
+            "text": "Bark"
+          },
+          {
+            "id": "c2",
+            "text": "Hiss"
+          },
+          {
+            "id": "c3",
+            "text": "Oink"
+          }
         ]
       },
-      "correct_answer": "Bark",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A dog says 'bark'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "The ant is usually which colour?",
       "type": "mcq",
+      "prompt": "The ant is usually which colour?",
       "options": {
         "choices": [
-          "Green",
-          "Purple",
-          "Black"
+          {
+            "id": "c1",
+            "text": "Green"
+          },
+          {
+            "id": "c2",
+            "text": "Purple"
+          },
+          {
+            "id": "c3",
+            "text": "Black"
+          }
         ]
       },
-      "correct_answer": "Black",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The ant is black.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "We call a papaya a ___.",
       "type": "mcq",
+      "prompt": "We call a papaya a ___.",
       "options": {
         "choices": [
-          "Animal",
-          "Vegetable",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Animal"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A papaya is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "A person has how many arms?",
       "type": "mcq",
+      "prompt": "A person has how many arms?",
       "options": {
         "choices": [
-          "4",
-          "10",
-          "2"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "We have 2 arms.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "What is the opposite of 'soft'?",
       "type": "mcq",
+      "prompt": "What is the opposite of 'soft'?",
       "options": {
         "choices": [
-          "hard",
-          "wet",
-          "night"
+          {
+            "id": "c1",
+            "text": "hard"
+          },
+          {
+            "id": "c2",
+            "text": "wet"
+          },
+          {
+            "id": "c3",
+            "text": "night"
+          }
         ]
       },
-      "correct_answer": "hard",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The opposite of soft is hard.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Is a orange a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a orange a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Vegetable",
-          "Animal",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A orange is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "A potato is a kind of ___.",
       "type": "mcq",
+      "prompt": "A potato is a kind of ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Bird",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A potato is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which of these is a vegetable — radish, papaya or pineapple?",
       "type": "mcq",
+      "prompt": "Which of these is a vegetable — radish, papaya or pineapple?",
       "options": {
         "choices": [
-          "Radish",
-          "Watermelon",
-          "Orange"
+          {
+            "id": "c1",
+            "text": "Radish"
+          },
+          {
+            "id": "c2",
+            "text": "Watermelon"
+          },
+          {
+            "id": "c3",
+            "text": "Orange"
+          }
         ]
       },
-      "correct_answer": "Radish",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A radish is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Which season is very hot?",
       "type": "mcq",
+      "prompt": "Which season is very hot?",
       "options": {
         "choices": [
-          "Rainy",
-          "Summer",
-          "Winter"
+          {
+            "id": "c1",
+            "text": "Rainy"
+          },
+          {
+            "id": "c2",
+            "text": "Summer"
+          },
+          {
+            "id": "c3",
+            "text": "Winter"
+          }
         ]
       },
-      "correct_answer": "Summer",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Summer is the hot season.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Where does a car move?",
       "type": "mcq",
+      "prompt": "Where does a car move?",
       "options": {
         "choices": [
-          "in the air",
-          "on the road",
-          "on water"
+          {
+            "id": "c1",
+            "text": "in the air"
+          },
+          {
+            "id": "c2",
+            "text": "on the road"
+          },
+          {
+            "id": "c3",
+            "text": "on water"
+          }
         ]
       },
-      "correct_answer": "on the road",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A car moves on the road.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "The bear is usually which colour?",
       "type": "mcq",
+      "prompt": "The bear is usually which colour?",
       "options": {
         "choices": [
-          "Orange",
-          "Brown",
-          "Red"
+          {
+            "id": "c1",
+            "text": "Orange"
+          },
+          {
+            "id": "c2",
+            "text": "Brown"
+          },
+          {
+            "id": "c3",
+            "text": "Red"
+          }
         ]
       },
-      "correct_answer": "Brown",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The bear is brown.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "What colour is the parrot?",
       "type": "mcq",
+      "prompt": "What colour is the parrot?",
       "options": {
         "choices": [
-          "Brown",
-          "Green",
-          "Purple"
+          {
+            "id": "c1",
+            "text": "Brown"
+          },
+          {
+            "id": "c2",
+            "text": "Green"
+          },
+          {
+            "id": "c3",
+            "text": "Purple"
+          }
         ]
       },
-      "correct_answer": "Green",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The parrot is green.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which animal makes the sound “Trumpet”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Trumpet”?",
       "options": {
         "choices": [
-          "Hen",
-          "Elephant",
-          "Bee"
+          {
+            "id": "c1",
+            "text": "Hen"
+          },
+          {
+            "id": "c2",
+            "text": "Elephant"
+          },
+          {
+            "id": "c3",
+            "text": "Bee"
+          }
         ]
       },
-      "correct_answer": "Elephant",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A elephant makes the sound 'trumpet'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "The chocolate is usually which colour?",
       "type": "mcq",
+      "prompt": "The chocolate is usually which colour?",
       "options": {
         "choices": [
-          "Brown",
-          "Black",
-          "Green"
+          {
+            "id": "c1",
+            "text": "Brown"
+          },
+          {
+            "id": "c2",
+            "text": "Black"
+          },
+          {
+            "id": "c3",
+            "text": "Green"
+          }
         ]
       },
-      "correct_answer": "Brown",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The chocolate is brown.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Where does a frog live?",
       "type": "mcq",
+      "prompt": "Where does a frog live?",
       "options": {
         "choices": [
-          "Tree",
-          "Pond",
-          "House"
+          {
+            "id": "c1",
+            "text": "Tree"
+          },
+          {
+            "id": "c2",
+            "text": "Pond"
+          },
+          {
+            "id": "c3",
+            "text": "House"
+          }
         ]
       },
-      "correct_answer": "Pond",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A frog lives in a pond.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Where does a fish live?",
       "type": "mcq",
+      "prompt": "Where does a fish live?",
       "options": {
         "choices": [
-          "Stable",
-          "Water",
-          "Coop"
+          {
+            "id": "c1",
+            "text": "Stable"
+          },
+          {
+            "id": "c2",
+            "text": "Water"
+          },
+          {
+            "id": "c3",
+            "text": "Coop"
+          }
         ]
       },
-      "correct_answer": "Water",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A fish lives in a water.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "A pineapple is a kind of ___.",
       "type": "mcq",
+      "prompt": "A pineapple is a kind of ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Vegetable",
-          "Animal"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Animal"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A pineapple is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "What does a cook do?",
       "type": "mcq",
+      "prompt": "What does a cook do?",
       "options": {
         "choices": [
-          "takes care of our teeth",
-          "flies an aeroplane",
-          "cooks food for us"
+          {
+            "id": "c1",
+            "text": "takes care of our teeth"
+          },
+          {
+            "id": "c2",
+            "text": "flies an aeroplane"
+          },
+          {
+            "id": "c3",
+            "text": "cooks food for us"
+          }
         ]
       },
-      "correct_answer": "cooks food for us",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A cook cooks food for us.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "What is the month right after August?",
       "type": "mcq",
+      "prompt": "What is the month right after August?",
       "options": {
         "choices": [
-          "August",
-          "November",
-          "September"
+          {
+            "id": "c1",
+            "text": "August"
+          },
+          {
+            "id": "c2",
+            "text": "November"
+          },
+          {
+            "id": "c3",
+            "text": "September"
+          }
         ]
       },
-      "correct_answer": "September",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After August comes September.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "We use our ___ to talk.",
       "type": "mcq",
+      "prompt": "We use our ___ to talk.",
       "options": {
         "choices": [
-          "mouth",
-          "nose",
-          "hair"
+          {
+            "id": "c1",
+            "text": "mouth"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "hair"
+          }
         ]
       },
-      "correct_answer": "mouth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "We use our mouth to talk.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "What colour is the cloud?",
       "type": "mcq",
+      "prompt": "What colour is the cloud?",
       "options": {
         "choices": [
-          "Purple",
-          "Black",
-          "White"
+          {
+            "id": "c1",
+            "text": "Purple"
+          },
+          {
+            "id": "c2",
+            "text": "Black"
+          },
+          {
+            "id": "c3",
+            "text": "White"
+          }
         ]
       },
-      "correct_answer": "White",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The cloud is white.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which of these floats on water?",
       "type": "mcq",
+      "prompt": "Which of these floats on water?",
       "options": {
         "choices": [
-          "Stone",
-          "Boat",
-          "Iron nail"
+          {
+            "id": "c1",
+            "text": "Stone"
+          },
+          {
+            "id": "c2",
+            "text": "Boat"
+          },
+          {
+            "id": "c3",
+            "text": "Iron nail"
+          }
         ]
       },
-      "correct_answer": "Boat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A boat floats on water.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "What is the month right after June?",
       "type": "mcq",
+      "prompt": "What is the month right after June?",
       "options": {
         "choices": [
-          "July",
-          "September",
-          "June"
+          {
+            "id": "c1",
+            "text": "July"
+          },
+          {
+            "id": "c2",
+            "text": "September"
+          },
+          {
+            "id": "c3",
+            "text": "June"
+          }
         ]
       },
-      "correct_answer": "July",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After June comes July.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "What is the body of a cow covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a cow covered with?",
       "options": {
         "choices": [
-          "Skin",
-          "Scales",
-          "Hair"
+          {
+            "id": "c1",
+            "text": "Skin"
+          },
+          {
+            "id": "c2",
+            "text": "Scales"
+          },
+          {
+            "id": "c3",
+            "text": "Hair"
+          }
         ]
       },
-      "correct_answer": "Hair",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A cow's body is covered with hair.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "A person has how many head?",
       "type": "mcq",
+      "prompt": "A person has how many head?",
       "options": {
         "choices": [
-          "1",
-          "10",
-          "5"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "We have 1 head.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which body part do we use to kick a ball?",
       "type": "mcq",
+      "prompt": "Which body part do we use to kick a ball?",
       "options": {
         "choices": [
-          "hands",
-          "legs",
-          "eyes"
+          {
+            "id": "c1",
+            "text": "hands"
+          },
+          {
+            "id": "c2",
+            "text": "legs"
+          },
+          {
+            "id": "c3",
+            "text": "eyes"
+          }
         ]
       },
-      "correct_answer": "legs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "We use our legs to kick a ball.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "What colour is the night sky?",
       "type": "mcq",
+      "prompt": "What colour is the night sky?",
       "options": {
         "choices": [
-          "Pink",
-          "Black",
-          "Green"
+          {
+            "id": "c1",
+            "text": "Pink"
+          },
+          {
+            "id": "c2",
+            "text": "Black"
+          },
+          {
+            "id": "c3",
+            "text": "Green"
+          }
         ]
       },
-      "correct_answer": "Black",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The night sky is black.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "We call a watermelon a ___.",
       "type": "mcq",
+      "prompt": "We call a watermelon a ___.",
       "options": {
         "choices": [
-          "Animal",
-          "Vegetable",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Animal"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A watermelon is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which of these is a fruit — guava, garlic or radish?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — guava, garlic or radish?",
       "options": {
         "choices": [
-          "Cauliflower",
-          "Guava",
-          "Onion"
+          {
+            "id": "c1",
+            "text": "Cauliflower"
+          },
+          {
+            "id": "c2",
+            "text": "Guava"
+          },
+          {
+            "id": "c3",
+            "text": "Onion"
+          }
         ]
       },
-      "correct_answer": "Guava",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A guava is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which of these is a fruit — mango, peas or garlic?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — mango, peas or garlic?",
       "options": {
         "choices": [
-          "Spinach",
-          "Mango",
-          "Radish"
+          {
+            "id": "c1",
+            "text": "Spinach"
+          },
+          {
+            "id": "c2",
+            "text": "Mango"
+          },
+          {
+            "id": "c3",
+            "text": "Radish"
+          }
         ]
       },
-      "correct_answer": "Mango",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A mango is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which day comes after Monday?",
       "type": "mcq",
+      "prompt": "Which day comes after Monday?",
       "options": {
         "choices": [
-          "Wednesday",
-          "Tuesday",
-          "Sunday"
+          {
+            "id": "c1",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c2",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c3",
+            "text": "Sunday"
+          }
         ]
       },
-      "correct_answer": "Tuesday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After Monday comes Tuesday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "What is the baby of a dog called?",
       "type": "mcq",
+      "prompt": "What is the baby of a dog called?",
       "options": {
         "choices": [
-          "Puppy",
-          "Cub",
-          "Piglet"
+          {
+            "id": "c1",
+            "text": "Puppy"
+          },
+          {
+            "id": "c2",
+            "text": "Cub"
+          },
+          {
+            "id": "c3",
+            "text": "Piglet"
+          }
         ]
       },
-      "correct_answer": "Puppy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A baby dog is called a puppy.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "What does a driver do?",
       "type": "mcq",
+      "prompt": "What does a driver do?",
       "options": {
         "choices": [
-          "drives a vehicle",
-          "stitches our clothes",
-          "teaches us in school"
+          {
+            "id": "c1",
+            "text": "drives a vehicle"
+          },
+          {
+            "id": "c2",
+            "text": "stitches our clothes"
+          },
+          {
+            "id": "c3",
+            "text": "teaches us in school"
+          }
         ]
       },
-      "correct_answer": "drives a vehicle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A driver drives a vehicle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Does a garlic grow under the ground or on a tree?",
       "type": "mcq",
+      "prompt": "Does a garlic grow under the ground or on a tree?",
       "options": {
         "choices": [
-          "Under the ground",
-          "On a tree",
-          "In the sky"
+          {
+            "id": "c1",
+            "text": "Under the ground"
+          },
+          {
+            "id": "c2",
+            "text": "On a tree"
+          },
+          {
+            "id": "c3",
+            "text": "In the sky"
+          }
         ]
       },
-      "correct_answer": "Under the ground",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A garlic grows under the ground.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Does a potato grow under the ground or on a tree?",
       "type": "mcq",
+      "prompt": "Does a potato grow under the ground or on a tree?",
       "options": {
         "choices": [
-          "In the sky",
-          "On a tree",
-          "Under the ground"
+          {
+            "id": "c1",
+            "text": "In the sky"
+          },
+          {
+            "id": "c2",
+            "text": "On a tree"
+          },
+          {
+            "id": "c3",
+            "text": "Under the ground"
+          }
         ]
       },
-      "correct_answer": "Under the ground",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A potato grows under the ground.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "What colour is the leaf?",
       "type": "mcq",
+      "prompt": "What colour is the leaf?",
       "options": {
         "choices": [
-          "Brown",
-          "Green",
-          "Orange"
+          {
+            "id": "c1",
+            "text": "Brown"
+          },
+          {
+            "id": "c2",
+            "text": "Green"
+          },
+          {
+            "id": "c3",
+            "text": "Orange"
+          }
         ]
       },
-      "correct_answer": "Green",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The leaf is green.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "What colour is the jamun?",
       "type": "mcq",
+      "prompt": "What colour is the jamun?",
       "options": {
         "choices": [
-          "Red",
-          "Purple",
-          "Blue"
+          {
+            "id": "c1",
+            "text": "Red"
+          },
+          {
+            "id": "c2",
+            "text": "Purple"
+          },
+          {
+            "id": "c3",
+            "text": "Blue"
+          }
         ]
       },
-      "correct_answer": "Purple",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The jamun is purple.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "We use our ___ to kick a ball.",
       "type": "mcq",
+      "prompt": "We use our ___ to kick a ball.",
       "options": {
         "choices": [
-          "hair",
-          "legs",
-          "ears"
+          {
+            "id": "c1",
+            "text": "hair"
+          },
+          {
+            "id": "c2",
+            "text": "legs"
+          },
+          {
+            "id": "c3",
+            "text": "ears"
+          }
         ]
       },
-      "correct_answer": "legs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "We use our legs to kick a ball.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Where does a bus move?",
       "type": "mcq",
+      "prompt": "Where does a bus move?",
       "options": {
         "choices": [
-          "in the air",
-          "on the road",
-          "on water"
+          {
+            "id": "c1",
+            "text": "in the air"
+          },
+          {
+            "id": "c2",
+            "text": "on the road"
+          },
+          {
+            "id": "c3",
+            "text": "on water"
+          }
         ]
       },
-      "correct_answer": "on the road",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A bus moves on the road.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "A spinach is a kind of ___.",
       "type": "mcq",
+      "prompt": "A spinach is a kind of ___.",
       "options": {
         "choices": [
-          "Bird",
-          "Fruit",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Bird"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A spinach is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "We call a cabbage a ___.",
       "type": "mcq",
+      "prompt": "We call a cabbage a ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Bird",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A cabbage is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "What does a gardener do?",
       "type": "mcq",
+      "prompt": "What does a gardener do?",
       "options": {
         "choices": [
-          "puts out fires",
-          "takes care of plants",
-          "flies an aeroplane"
+          {
+            "id": "c1",
+            "text": "puts out fires"
+          },
+          {
+            "id": "c2",
+            "text": "takes care of plants"
+          },
+          {
+            "id": "c3",
+            "text": "flies an aeroplane"
+          }
         ]
       },
-      "correct_answer": "takes care of plants",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A gardener takes care of plants.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "The brinjal is usually which colour?",
       "type": "mcq",
+      "prompt": "The brinjal is usually which colour?",
       "options": {
         "choices": [
-          "Red",
-          "Purple",
-          "White"
+          {
+            "id": "c1",
+            "text": "Red"
+          },
+          {
+            "id": "c2",
+            "text": "Purple"
+          },
+          {
+            "id": "c3",
+            "text": "White"
+          }
         ]
       },
-      "correct_answer": "Purple",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The brinjal is purple.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which body part do we use to run?",
       "type": "mcq",
+      "prompt": "Which body part do we use to run?",
       "options": {
         "choices": [
-          "tongue",
-          "teeth",
-          "legs"
+          {
+            "id": "c1",
+            "text": "tongue"
+          },
+          {
+            "id": "c2",
+            "text": "teeth"
+          },
+          {
+            "id": "c3",
+            "text": "legs"
+          }
         ]
       },
-      "correct_answer": "legs",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "We use our legs to run.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "The Sun gives us light and ___.",
       "type": "mcq",
+      "prompt": "The Sun gives us light and ___.",
       "options": {
         "choices": [
-          "rain",
-          "ice",
-          "heat"
+          {
+            "id": "c1",
+            "text": "rain"
+          },
+          {
+            "id": "c2",
+            "text": "ice"
+          },
+          {
+            "id": "c3",
+            "text": "heat"
+          }
         ]
       },
-      "correct_answer": "heat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The Sun gives us light and heat.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "A person has how many lips?",
       "type": "mcq",
+      "prompt": "A person has how many lips?",
       "options": {
         "choices": [
-          "1",
-          "2",
-          "5"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "We have 2 lips.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "What is the day just before Thursday?",
       "type": "mcq",
+      "prompt": "What is the day just before Thursday?",
       "options": {
         "choices": [
-          "Friday",
-          "Wednesday",
-          "Monday"
+          {
+            "id": "c1",
+            "text": "Friday"
+          },
+          {
+            "id": "c2",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c3",
+            "text": "Monday"
+          }
         ]
       },
-      "correct_answer": "Wednesday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Before Thursday comes Wednesday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "What is the body of a goat covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a goat covered with?",
       "options": {
         "choices": [
-          "Wool",
-          "Hair",
-          "Scales"
+          {
+            "id": "c1",
+            "text": "Wool"
+          },
+          {
+            "id": "c2",
+            "text": "Hair"
+          },
+          {
+            "id": "c3",
+            "text": "Scales"
+          }
         ]
       },
-      "correct_answer": "Hair",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A goat's body is covered with hair.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which month comes after March?",
       "type": "mcq",
+      "prompt": "Which month comes after March?",
       "options": {
         "choices": [
-          "September",
-          "June",
-          "April"
+          {
+            "id": "c1",
+            "text": "September"
+          },
+          {
+            "id": "c2",
+            "text": "June"
+          },
+          {
+            "id": "c3",
+            "text": "April"
+          }
         ]
       },
-      "correct_answer": "April",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After March comes April.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "A garlic is a kind of ___.",
       "type": "mcq",
+      "prompt": "A garlic is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A garlic is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "What colour is a lemon?",
       "type": "mcq",
+      "prompt": "What colour is a lemon?",
       "options": {
         "choices": [
-          "Yellow",
-          "Orange",
-          "White"
+          {
+            "id": "c1",
+            "text": "Yellow"
+          },
+          {
+            "id": "c2",
+            "text": "Orange"
+          },
+          {
+            "id": "c3",
+            "text": "White"
+          }
         ]
       },
-      "correct_answer": "Yellow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A lemon is yellow.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "The corn is usually which colour?",
       "type": "mcq",
+      "prompt": "The corn is usually which colour?",
       "options": {
         "choices": [
-          "Green",
-          "Yellow",
-          "Purple"
+          {
+            "id": "c1",
+            "text": "Green"
+          },
+          {
+            "id": "c2",
+            "text": "Yellow"
+          },
+          {
+            "id": "c3",
+            "text": "Purple"
+          }
         ]
       },
-      "correct_answer": "Yellow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The corn is yellow.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which body part do we use to chew food?",
       "type": "mcq",
+      "prompt": "Which body part do we use to chew food?",
       "options": {
         "choices": [
-          "ears",
-          "tongue",
-          "teeth"
+          {
+            "id": "c1",
+            "text": "ears"
+          },
+          {
+            "id": "c2",
+            "text": "tongue"
+          },
+          {
+            "id": "c3",
+            "text": "teeth"
+          }
         ]
       },
-      "correct_answer": "teeth",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "We use our teeth to chew food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which month comes between September and November?",
       "type": "mcq",
+      "prompt": "Which month comes between September and November?",
       "options": {
         "choices": [
-          "May",
-          "October",
-          "April"
+          {
+            "id": "c1",
+            "text": "May"
+          },
+          {
+            "id": "c2",
+            "text": "October"
+          },
+          {
+            "id": "c3",
+            "text": "April"
+          }
         ]
       },
-      "correct_answer": "October",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "October comes between September and November.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Is a cabbage a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a cabbage a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Vegetable",
-          "Bird",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cabbage is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Who treats sick people?",
       "type": "mcq",
+      "prompt": "Who treats sick people?",
       "options": {
         "choices": [
-          "carpenter",
-          "tailor",
-          "doctor"
+          {
+            "id": "c1",
+            "text": "carpenter"
+          },
+          {
+            "id": "c2",
+            "text": "tailor"
+          },
+          {
+            "id": "c3",
+            "text": "doctor"
+          }
         ]
       },
-      "correct_answer": "doctor",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A doctor treats sick people.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "What is the opposite of 'near'?",
       "type": "mcq",
+      "prompt": "What is the opposite of 'near'?",
       "options": {
         "choices": [
-          "dark",
-          "far",
-          "wet"
+          {
+            "id": "c1",
+            "text": "dark"
+          },
+          {
+            "id": "c2",
+            "text": "far"
+          },
+          {
+            "id": "c3",
+            "text": "wet"
+          }
         ]
       },
-      "correct_answer": "far",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The opposite of near is far.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "What colour is the cotton?",
       "type": "mcq",
+      "prompt": "What colour is the cotton?",
       "options": {
         "choices": [
-          "Brown",
-          "Black",
-          "White"
+          {
+            "id": "c1",
+            "text": "Brown"
+          },
+          {
+            "id": "c2",
+            "text": "Black"
+          },
+          {
+            "id": "c3",
+            "text": "White"
+          }
         ]
       },
-      "correct_answer": "White",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The cotton is white.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Who keeps us safe?",
       "type": "mcq",
+      "prompt": "Who keeps us safe?",
       "options": {
         "choices": [
-          "driver",
-          "carpenter",
-          "police officer"
+          {
+            "id": "c1",
+            "text": "driver"
+          },
+          {
+            "id": "c2",
+            "text": "carpenter"
+          },
+          {
+            "id": "c3",
+            "text": "police officer"
+          }
         ]
       },
-      "correct_answer": "police officer",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A police officer keeps us safe.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "We call a cherry a ___.",
       "type": "mcq",
+      "prompt": "We call a cherry a ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Animal",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cherry is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Where does a snake live?",
       "type": "mcq",
+      "prompt": "Where does a snake live?",
       "options": {
         "choices": [
-          "Shed",
-          "Pen",
-          "Hole"
+          {
+            "id": "c1",
+            "text": "Shed"
+          },
+          {
+            "id": "c2",
+            "text": "Pen"
+          },
+          {
+            "id": "c3",
+            "text": "Hole"
+          }
         ]
       },
-      "correct_answer": "Hole",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A snake lives in a hole.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "What is the baby of a pig called?",
       "type": "mcq",
+      "prompt": "What is the baby of a pig called?",
       "options": {
         "choices": [
-          "Tadpole",
-          "Baby",
-          "Piglet"
+          {
+            "id": "c1",
+            "text": "Tadpole"
+          },
+          {
+            "id": "c2",
+            "text": "Baby"
+          },
+          {
+            "id": "c3",
+            "text": "Piglet"
+          }
         ]
       },
-      "correct_answer": "Piglet",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A baby pig is called a piglet.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "How many eyebrows do we have?",
       "type": "mcq",
+      "prompt": "How many eyebrows do we have?",
       "options": {
         "choices": [
-          "2",
-          "5",
-          "1"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          },
+          {
+            "id": "c3",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "We have 2 eyebrows.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "The grass is usually which colour?",
       "type": "mcq",
+      "prompt": "The grass is usually which colour?",
       "options": {
         "choices": [
-          "Pink",
-          "Purple",
-          "Green"
+          {
+            "id": "c1",
+            "text": "Pink"
+          },
+          {
+            "id": "c2",
+            "text": "Purple"
+          },
+          {
+            "id": "c3",
+            "text": "Green"
+          }
         ]
       },
-      "correct_answer": "Green",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The grass is green.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "A person has how many nose?",
       "type": "mcq",
+      "prompt": "A person has how many nose?",
       "options": {
         "choices": [
-          "10",
-          "4",
-          "1"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "We have 1 nose.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which of these is a vegetable — cauliflower, pineapple or grapes?",
       "type": "mcq",
+      "prompt": "Which of these is a vegetable — cauliflower, pineapple or grapes?",
       "options": {
         "choices": [
-          "Strawberry",
-          "Pear",
-          "Cauliflower"
+          {
+            "id": "c1",
+            "text": "Strawberry"
+          },
+          {
+            "id": "c2",
+            "text": "Pear"
+          },
+          {
+            "id": "c3",
+            "text": "Cauliflower"
+          }
         ]
       },
-      "correct_answer": "Cauliflower",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A cauliflower is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which day comes between Saturday and Monday?",
       "type": "mcq",
+      "prompt": "Which day comes between Saturday and Monday?",
       "options": {
         "choices": [
-          "Friday",
-          "Sunday",
-          "Saturday"
+          {
+            "id": "c1",
+            "text": "Friday"
+          },
+          {
+            "id": "c2",
+            "text": "Sunday"
+          },
+          {
+            "id": "c3",
+            "text": "Saturday"
+          }
         ]
       },
-      "correct_answer": "Sunday",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sunday comes between Saturday and Monday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "What is the day right after Friday?",
       "type": "mcq",
+      "prompt": "What is the day right after Friday?",
       "options": {
         "choices": [
-          "Saturday",
-          "Wednesday",
-          "Sunday"
+          {
+            "id": "c1",
+            "text": "Saturday"
+          },
+          {
+            "id": "c2",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c3",
+            "text": "Sunday"
+          }
         ]
       },
-      "correct_answer": "Saturday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After Friday comes Saturday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "What colour is the camel?",
       "type": "mcq",
+      "prompt": "What colour is the camel?",
       "options": {
         "choices": [
-          "Yellow",
-          "Black",
-          "Brown"
+          {
+            "id": "c1",
+            "text": "Yellow"
+          },
+          {
+            "id": "c2",
+            "text": "Black"
+          },
+          {
+            "id": "c3",
+            "text": "Brown"
+          }
         ]
       },
-      "correct_answer": "Brown",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The camel is brown.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which of these is a fruit — peach, radish or cabbage?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — peach, radish or cabbage?",
       "options": {
         "choices": [
-          "Peach",
-          "Pumpkin",
-          "Onion"
+          {
+            "id": "c1",
+            "text": "Peach"
+          },
+          {
+            "id": "c2",
+            "text": "Pumpkin"
+          },
+          {
+            "id": "c3",
+            "text": "Onion"
+          }
         ]
       },
-      "correct_answer": "Peach",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A peach is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which body part do we use to jump?",
       "type": "mcq",
+      "prompt": "Which body part do we use to jump?",
       "options": {
         "choices": [
-          "ears",
-          "nose",
-          "legs"
+          {
+            "id": "c1",
+            "text": "ears"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "legs"
+          }
         ]
       },
-      "correct_answer": "legs",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "We use our legs to jump.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Is a apple a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a apple a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Fruit",
-          "Animal",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A apple is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "A peach is a kind of ___.",
       "type": "mcq",
+      "prompt": "A peach is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Animal",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A peach is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "What colour is the ladybird?",
       "type": "mcq",
+      "prompt": "What colour is the ladybird?",
       "options": {
         "choices": [
-          "Purple",
-          "Red",
-          "Yellow"
+          {
+            "id": "c1",
+            "text": "Purple"
+          },
+          {
+            "id": "c2",
+            "text": "Red"
+          },
+          {
+            "id": "c3",
+            "text": "Yellow"
+          }
         ]
       },
-      "correct_answer": "Red",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The ladybird is red.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Which of these is usually purple?",
       "type": "mcq",
+      "prompt": "Which of these is usually purple?",
       "options": {
         "choices": [
-          "butter",
-          "brinjal",
-          "peas"
+          {
+            "id": "c1",
+            "text": "butter"
+          },
+          {
+            "id": "c2",
+            "text": "brinjal"
+          },
+          {
+            "id": "c3",
+            "text": "peas"
+          }
         ]
       },
-      "correct_answer": "brinjal",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The brinjal is purple.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Is a carrot a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a carrot a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A carrot is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which body part do we use to talk?",
       "type": "mcq",
+      "prompt": "Which body part do we use to talk?",
       "options": {
         "choices": [
-          "tongue",
-          "mouth",
-          "eyes"
+          {
+            "id": "c1",
+            "text": "tongue"
+          },
+          {
+            "id": "c2",
+            "text": "mouth"
+          },
+          {
+            "id": "c3",
+            "text": "eyes"
+          }
         ]
       },
-      "correct_answer": "mouth",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "We use our mouth to talk.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "We use our ___ to watch TV.",
       "type": "mcq",
+      "prompt": "We use our ___ to watch TV.",
       "options": {
         "choices": [
-          "brain",
-          "hands",
-          "eyes"
+          {
+            "id": "c1",
+            "text": "brain"
+          },
+          {
+            "id": "c2",
+            "text": "hands"
+          },
+          {
+            "id": "c3",
+            "text": "eyes"
+          }
         ]
       },
-      "correct_answer": "eyes",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "We use our eyes to watch TV.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which month comes after May?",
       "type": "mcq",
+      "prompt": "Which month comes after May?",
       "options": {
         "choices": [
-          "September",
-          "June",
-          "December"
+          {
+            "id": "c1",
+            "text": "September"
+          },
+          {
+            "id": "c2",
+            "text": "June"
+          },
+          {
+            "id": "c3",
+            "text": "December"
+          }
         ]
       },
-      "correct_answer": "June",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After May comes June.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which day comes after Saturday?",
       "type": "mcq",
+      "prompt": "Which day comes after Saturday?",
       "options": {
         "choices": [
-          "Sunday",
-          "Tuesday",
-          "Wednesday"
+          {
+            "id": "c1",
+            "text": "Sunday"
+          },
+          {
+            "id": "c2",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c3",
+            "text": "Wednesday"
+          }
         ]
       },
-      "correct_answer": "Sunday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After Saturday comes Sunday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "The parrot is usually which colour?",
       "type": "mcq",
+      "prompt": "The parrot is usually which colour?",
       "options": {
         "choices": [
-          "Black",
-          "Orange",
-          "Green"
+          {
+            "id": "c1",
+            "text": "Black"
+          },
+          {
+            "id": "c2",
+            "text": "Orange"
+          },
+          {
+            "id": "c3",
+            "text": "Green"
+          }
         ]
       },
-      "correct_answer": "Green",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The parrot is green.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "What is the day just before Saturday?",
       "type": "mcq",
+      "prompt": "What is the day just before Saturday?",
       "options": {
         "choices": [
-          "Thursday",
-          "Saturday",
-          "Friday"
+          {
+            "id": "c1",
+            "text": "Thursday"
+          },
+          {
+            "id": "c2",
+            "text": "Saturday"
+          },
+          {
+            "id": "c3",
+            "text": "Friday"
+          }
         ]
       },
-      "correct_answer": "Friday",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Before Saturday comes Friday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which of these is a farm animal?",
       "type": "mcq",
+      "prompt": "Which of these is a farm animal?",
       "options": {
         "choices": [
-          "Elephant",
-          "Monkey",
-          "Cow"
+          {
+            "id": "c1",
+            "text": "Elephant"
+          },
+          {
+            "id": "c2",
+            "text": "Monkey"
+          },
+          {
+            "id": "c3",
+            "text": "Cow"
+          }
         ]
       },
-      "correct_answer": "Cow",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A cow is a farm animal.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Is a beans a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a beans a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Fruit",
-          "Vegetable",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A beans is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Which body part do we use to bite?",
       "type": "mcq",
+      "prompt": "Which body part do we use to bite?",
       "options": {
         "choices": [
-          "mouth",
-          "brain",
-          "teeth"
+          {
+            "id": "c1",
+            "text": "mouth"
+          },
+          {
+            "id": "c2",
+            "text": "brain"
+          },
+          {
+            "id": "c3",
+            "text": "teeth"
+          }
         ]
       },
-      "correct_answer": "teeth",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "We use our teeth to bite.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "What do we get from a hen?",
       "type": "mcq",
+      "prompt": "What do we get from a hen?",
       "options": {
         "choices": [
-          "Honey",
-          "Wool",
-          "Eggs"
+          {
+            "id": "c1",
+            "text": "Honey"
+          },
+          {
+            "id": "c2",
+            "text": "Wool"
+          },
+          {
+            "id": "c3",
+            "text": "Eggs"
+          }
         ]
       },
-      "correct_answer": "Eggs",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "We get eggs from a hen.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "What colour is the bubblegum?",
       "type": "mcq",
+      "prompt": "What colour is the bubblegum?",
       "options": {
         "choices": [
-          "Yellow",
-          "Purple",
-          "Pink"
+          {
+            "id": "c1",
+            "text": "Yellow"
+          },
+          {
+            "id": "c2",
+            "text": "Purple"
+          },
+          {
+            "id": "c3",
+            "text": "Pink"
+          }
         ]
       },
-      "correct_answer": "Pink",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The bubblegum is pink.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "What is the body of a frog covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a frog covered with?",
       "options": {
         "choices": [
-          "Wool",
-          "Skin",
-          "Hair"
+          {
+            "id": "c1",
+            "text": "Wool"
+          },
+          {
+            "id": "c2",
+            "text": "Skin"
+          },
+          {
+            "id": "c3",
+            "text": "Hair"
+          }
         ]
       },
-      "correct_answer": "Skin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A frog's body is covered with skin.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "How many legs does a bee have?",
       "type": "mcq",
+      "prompt": "How many legs does a bee have?",
       "options": {
         "choices": [
-          "4",
-          "6",
-          "8"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A bee has 6 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "What does a teacher do?",
       "type": "mcq",
+      "prompt": "What does a teacher do?",
       "options": {
         "choices": [
-          "teaches us in school",
-          "keeps us safe",
-          "delivers our letters"
+          {
+            "id": "c1",
+            "text": "teaches us in school"
+          },
+          {
+            "id": "c2",
+            "text": "keeps us safe"
+          },
+          {
+            "id": "c3",
+            "text": "delivers our letters"
+          }
         ]
       },
-      "correct_answer": "teaches us in school",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A teacher teaches us in school.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
-  ]
+  ],
+  "title_needs_review": true
 }

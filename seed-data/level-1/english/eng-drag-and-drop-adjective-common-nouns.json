@@ -1,716 +1,755 @@
 {
   "_source_file": "level_1_eng_drag_and_drop_adjective-common_nouns.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "drag_drop",
-  "_question_count": 20,
-  "exercise": {
-    "slug": "eng-drag-and-drop-adjective-common-nouns",
-    "title": "Drag & Drop – Adjective vs Common Nouns",
-    "quiz_type": "drag_drop",
-    "questions_per_attempt": 20,
-    "total_questions": 20,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.532Z",
+  "slug": "eng-drag-and-drop-adjective-common-nouns",
+  "title": "Drag & Drop – Adjective vs Common Nouns",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "drag_drop",
+  "questions_per_attempt": 20,
+  "total_questions": 20,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "tall"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "girl"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "1"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "2"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b1",
+          "i2": "b2"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"1\"],\"Common Noun\":[\"2\"]}",
       "explanation": "'tall' is an adjective; 'girl' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "boy"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "thin"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "2"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "1"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b2",
+          "i2": "b1"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"2\"],\"Common Noun\":[\"1\"]}",
       "explanation": "'thin' is an adjective; 'boy' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "big"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "school"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "1"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "2"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b1",
+          "i2": "b2"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"1\"],\"Common Noun\":[\"2\"]}",
       "explanation": "'big' is an adjective; 'school' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "elephant"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "gray"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "2"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "1"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b2",
+          "i2": "b1"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"2\"],\"Common Noun\":[\"1\"]}",
       "explanation": "'gray' is an adjective; 'elephant' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "great"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "author"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "1"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "2"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b1",
+          "i2": "b2"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"1\"],\"Common Noun\":[\"2\"]}",
       "explanation": "'great' is an adjective; 'author' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "flower"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "red"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "2"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "1"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b2",
+          "i2": "b1"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"2\"],\"Common Noun\":[\"1\"]}",
       "explanation": "'red' is an adjective; 'flower' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "white"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "airplane"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "1"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "2"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b1",
+          "i2": "b2"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"1\"],\"Common Noun\":[\"2\"]}",
       "explanation": "'white' is an adjective; 'airplane' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "grass"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "green"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "2"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "1"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b2",
+          "i2": "b1"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"2\"],\"Common Noun\":[\"1\"]}",
       "explanation": "'green' is an adjective; 'grass' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "pink"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "house"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "1"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "2"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b1",
+          "i2": "b2"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"1\"],\"Common Noun\":[\"2\"]}",
       "explanation": "'pink' is an adjective; 'house' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "long"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "road"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "1"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "2"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b1",
+          "i2": "b2"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"1\"],\"Common Noun\":[\"2\"]}",
       "explanation": "'long' is an adjective; 'road' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "beautiful"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "city"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "1"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "2"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b1",
+          "i2": "b2"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"1\"],\"Common Noun\":[\"2\"]}",
       "explanation": "'beautiful' is an adjective; 'city' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "crowded"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "city"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "1"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "2"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b1",
+          "i2": "b2"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"1\"],\"Common Noun\":[\"2\"]}",
       "explanation": "'crowded' is an adjective; 'city' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "people"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "noisy"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "2"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "1"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b2",
+          "i2": "b1"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"2\"],\"Common Noun\":[\"1\"]}",
       "explanation": "'noisy' is an adjective; 'people' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "boy"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "quick"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "2"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "1"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b2",
+          "i2": "b1"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"2\"],\"Common Noun\":[\"1\"]}",
       "explanation": "'quick' is an adjective; 'boy' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "quiet"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "baby"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "1"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "2"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b1",
+          "i2": "b2"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"1\"],\"Common Noun\":[\"2\"]}",
       "explanation": "'quiet' is an adjective; 'baby' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "tiger"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "fast"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "2"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "1"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b2",
+          "i2": "b1"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"2\"],\"Common Noun\":[\"1\"]}",
       "explanation": "'fast' is an adjective; 'tiger' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "slow"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "turtle"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "1"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "2"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b1",
+          "i2": "b2"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"1\"],\"Common Noun\":[\"2\"]}",
       "explanation": "'slow' is an adjective; 'turtle' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "sleepy"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "cat"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "1"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "2"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b1",
+          "i2": "b2"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"1\"],\"Common Noun\":[\"2\"]}",
       "explanation": "'sleepy' is an adjective; 'cat' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "black"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "box"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "1"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "2"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b1",
+          "i2": "b2"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"1\"],\"Common Noun\":[\"2\"]}",
       "explanation": "'black' is an adjective; 'box' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Drag each word to the correct box.",
       "type": "drag_drop",
+      "prompt": "Drag each word to the correct box.",
       "options": {
         "mode": "two_box_sort",
         "items": [
           {
-            "id": "1",
+            "id": "i1",
             "label": "yellow"
           },
           {
-            "id": "2",
+            "id": "i2",
             "label": "car"
           }
         ],
-        "box_a": {
-          "label": "Adjective",
-          "correct_items": [
-            "1"
-          ]
-        },
-        "box_b": {
-          "label": "Common Noun",
-          "correct_items": [
-            "2"
-          ]
+        "boxes": [
+          {
+            "id": "b1",
+            "label": "Adjective"
+          },
+          {
+            "id": "b2",
+            "label": "Common Noun"
+          }
+        ]
+      },
+      "answer_key": {
+        "placements": {
+          "i1": "b1",
+          "i2": "b2"
         }
       },
-      "correct_answer": "{\"Adjective\":[\"1\"],\"Common Noun\":[\"2\"]}",
       "explanation": "'yellow' is an adjective; 'car' is a common noun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     }
   ]

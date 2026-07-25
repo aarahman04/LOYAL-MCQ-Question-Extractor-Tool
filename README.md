@@ -68,7 +68,89 @@ prompt is cleaned.
 
 ---
 
-## Output
+## Output format (v2)
+
+Default output follows `LOYAL_QUIZ_Question_Format.md`. The central rule: every
+question has two sibling fields —
+
+| Field | Sent to browser | Contains |
+|---|---|---|
+| `options` | yes | everything needed to render |
+| `answer_key` | **never** | **only IDs** — no text, emoji, or content |
+
+so the render payload is structurally incapable of leaking the answer. Grading
+compares IDs, not strings.
+
+```jsonc
+{
+  "_source_file": "level_1_eng_adjectives.html",
+  "_extracted_at": "2026-07-22T09:00:00.000Z",   // source mtime → idempotent
+  "slug": "eng-adjectives", "title": "Adjectives",
+  "level": "level-1", "subject": "english",       // inferred from folder path
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25, "total_questions": 100,
+  "shuffle": true, "is_free": false, "order_index": 0,
+  "questions": [
+    { "slug": "q001", "type": "mcq",
+      "prompt": "Identify the adjective: The brown dog is happy.",
+      "options": { "choices": [ {"id":"c1","text":"the"}, {"id":"c2","text":"brown"} ] },
+      "answer_key": { "correct": ["c2"] },
+      "explanation": "…", "media": null, "order_index": 1 }
+  ]
+}
+```
+
+Per type: **mcq/audio** → `choices:[{id,text}]` + `answer_key.correct:[id]`
+(audio also carries `options.tts:{text,lang}`); **two-box sort** →
+`items:[{id,label}]` + `boxes:[{id,label}]` + `answer_key.placements`;
+**word order** → `words:[{id,text}]` (IDs in *presentation* order, never the
+correct order) + `answer_key.order`; **tap-select match** →
+`choices:[{id,emoji,size|count}]`; **tap-select count** → `{mode,emoji,item_count}`
++ `answer_key.target_count`. `difficulty` is dropped.
+
+**IDs** are prefixed (`c1`, `i1`, `b1`, `w1`) rather than bare `a`/`b`/`c`:
+choice *text* in this corpus is sometimes a single letter ("a" is a sight word),
+so letter IDs would collide with displayed content and defeat leak detection.
+
+**Size tokens** come from the source rem value — `<1.6` `sm`, `1.6–2.2` `md`,
+`2.2–3.0` `lg`, `>3.0` `xl`. The corpus uses 1.4 / 2.4 / 3.6 → `sm` / `lg` / `xl`.
+
+**Media** is a storage path, never a URL:
+`questions/{level}/{subject}/{slug}/{file}.webp`, plus `source_path` pointing at
+the original for the image-conversion step. `alt` is left `""` — never invented —
+and the count of missing alt text is reported.
+
+**Reading comprehension**: when a large block of prompt text repeats across
+questions, the passages are lifted to an exercise-level `passages:[{id,text}]`
+array, each question keeps a `passage_id`, prompts are stripped of the passage
+and the leading question number, and `shuffle` becomes `false` with
+`questions_per_attempt == total_questions`. Where copies had drifted, the
+*longest* variant becomes canonical and the drift is reported.
+
+### Legacy format
+
+`--format v1` emits the original shape for side-by-side comparison during
+migration. Everything else about the run is identical.
+
+### Validation
+
+Every exercise is checked against 11 assertions (IDs referenced in `answer_key`
+exist in `options`; no answer-ish field inside `options`; IDs unique; no
+displayed content in the answer key; MCQ/audio have 2–4 choices; `order` is a
+permutation of the word IDs; `placements` cover every item once;
+`total_questions` matches; `questions_per_attempt <= total_questions`; no empty
+prompt; no `style=` in `options`). Failures are printed per exercise and the
+process exits non-zero.
+
+The end-of-run report covers: files processed, questions converted, per-type
+counts, validation failures, answer-position warnings, images missing alt text,
+titles flagged for review, and reading-comprehension sets.
+
+---
+
+## Legacy output (v1)
+
+<details><summary>The original per-exercise shape, still available via <code>--format v1</code></summary>
 
 One `<slug>.json` per exercise plus a `_summary.csv`, written to the output
 folder. Each exercise file:
@@ -170,6 +252,8 @@ in `choices`/`correct_answer` because it is what distinguishes the options.
 ### `_summary.csv`
 Columns: `filename, slug, quiz_type, mode, question_count, has_explanations,
 status, warnings`.
+
+</details>
 
 ---
 

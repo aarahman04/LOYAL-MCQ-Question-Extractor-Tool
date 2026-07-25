@@ -1,1600 +1,2490 @@
 {
   "_source_file": "level_1_eng_object_pronoun.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 99,
-  "exercise": {
-    "slug": "eng-object-pronoun",
-    "title": "Object Pronouns",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 99,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.542Z",
+  "slug": "eng-object-pronoun",
+  "title": "Object Pronouns",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 99,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Sam saw him at school.",
       "type": "mcq",
+      "prompt": "Sam saw him at school.",
       "options": {
         "choices": [
-          "Sam",
-          "him"
+          {
+            "id": "c1",
+            "text": "Sam"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the object pronoun because it receives the action of the verb 'saw'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "The girl took her bag.",
       "type": "mcq",
+      "prompt": "The girl took her bag.",
       "options": {
         "choices": [
-          "her",
-          "girl"
+          {
+            "id": "c1",
+            "text": "her"
+          },
+          {
+            "id": "c2",
+            "text": "girl"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'her' acts as the possessive pronoun modifier receiving the action contextually alongside the noun object.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Grandfather blew his whistle.",
       "type": "mcq",
+      "prompt": "Grandfather blew his whistle.",
       "options": {
         "choices": [
-          "grandfather",
-          "his"
+          {
+            "id": "c1",
+            "text": "grandfather"
+          },
+          {
+            "id": "c2",
+            "text": "his"
+          }
         ]
       },
-      "correct_answer": "his",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'his' represents the pronoun indicator modified by the structural action context.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Grandma bought him candy.",
       "type": "mcq",
+      "prompt": "Grandma bought him candy.",
       "options": {
         "choices": [
-          "Grandma",
-          "him"
+          {
+            "id": "c1",
+            "text": "Grandma"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the indirect object pronoun receiving the buying action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Sam bit his own tongue.",
       "type": "mcq",
+      "prompt": "Sam bit his own tongue.",
       "options": {
         "choices": [
-          "his",
-          "bit"
+          {
+            "id": "c1",
+            "text": "his"
+          },
+          {
+            "id": "c2",
+            "text": "bit"
+          }
         ]
       },
-      "correct_answer": "his",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'his' is the pronominal modifier receiving the reflexive action trajectory.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Sandy got her bag.",
       "type": "mcq",
+      "prompt": "Sandy got her bag.",
       "options": {
         "choices": [
-          "Sandy",
-          "her"
+          {
+            "id": "c1",
+            "text": "Sandy"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' serves as the singular targeted feminine object pronominal modifier.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "The pilot gave him water.",
       "type": "mcq",
+      "prompt": "The pilot gave him water.",
       "options": {
         "choices": [
-          "water",
-          "him"
+          {
+            "id": "c1",
+            "text": "water"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' serves as the personal object pronoun receiving the package element.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "The manager gave him the book.",
       "type": "mcq",
+      "prompt": "The manager gave him the book.",
       "options": {
         "choices": [
-          "him",
-          "book"
+          {
+            "id": "c1",
+            "text": "him"
+          },
+          {
+            "id": "c2",
+            "text": "book"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'him' identifies the direct recipient character segment receiving the book.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Please give her the keys.",
       "type": "mcq",
+      "prompt": "Please give her the keys.",
       "options": {
         "choices": [
-          "give",
-          "her"
+          {
+            "id": "c1",
+            "text": "give"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' operates as the target object pronoun receiving the keys.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Can you hear me!",
       "type": "mcq",
+      "prompt": "Can you hear me!",
       "options": {
         "choices": [
-          "you",
-          "me"
+          {
+            "id": "c1",
+            "text": "you"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' is the first-person object pronoun receiving the action 'hear'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Can you listen to me!",
       "type": "mcq",
+      "prompt": "Can you listen to me!",
       "options": {
         "choices": [
-          "You",
-          "me"
+          {
+            "id": "c1",
+            "text": "You"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' receives the focus of the prepositional action phrase 'listen to'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Alexandra put her bag on the table.",
       "type": "mcq",
+      "prompt": "Alexandra put her bag on the table.",
       "options": {
         "choices": [
-          "on",
-          "her"
+          {
+            "id": "c1",
+            "text": "on"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' serves as the pronoun element tracking back to the subject.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Hana will invite you.",
       "type": "mcq",
+      "prompt": "Hana will invite you.",
       "options": {
         "choices": [
-          "Hana",
-          "you"
+          {
+            "id": "c1",
+            "text": "Hana"
+          },
+          {
+            "id": "c2",
+            "text": "you"
+          }
         ]
       },
-      "correct_answer": "you",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'you' is the second-person object pronoun receiving the action 'invite'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Will you invite me?",
       "type": "mcq",
+      "prompt": "Will you invite me?",
       "options": {
         "choices": [
-          "will",
-          "me"
+          {
+            "id": "c1",
+            "text": "will"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' is the object pronoun receiving the targeted action invitation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Please help her!",
       "type": "mcq",
+      "prompt": "Please help her!",
       "options": {
         "choices": [
-          "her",
-          "help"
+          {
+            "id": "c1",
+            "text": "her"
+          },
+          {
+            "id": "c2",
+            "text": "help"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'her' is the feminine object pronoun receiving assistance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Please help him!",
       "type": "mcq",
+      "prompt": "Please help him!",
       "options": {
         "choices": [
-          "help",
-          "him"
+          {
+            "id": "c1",
+            "text": "help"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the masculine singular object pronoun receiving the action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "They joined us later.",
       "type": "mcq",
+      "prompt": "They joined us later.",
       "options": {
         "choices": [
-          "They",
-          "us"
+          {
+            "id": "c1",
+            "text": "They"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' is the first-person plural object pronoun receiving the structural action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "We congratulated them.",
       "type": "mcq",
+      "prompt": "We congratulated them.",
       "options": {
         "choices": [
-          "we",
-          "them"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'them' is the third-person plural object pronoun receiving the congratulations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "We sent him home.",
       "type": "mcq",
+      "prompt": "We sent him home.",
       "options": {
         "choices": [
-          "we",
-          "him"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the third-person masculine singular object pronoun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Can you hear me?",
       "type": "mcq",
+      "prompt": "Can you hear me?",
       "options": {
         "choices": [
-          "you",
-          "me"
+          {
+            "id": "c1",
+            "text": "you"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' functions directly as the primary object pronoun receiving the action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "She called me last night.",
       "type": "mcq",
+      "prompt": "She called me last night.",
       "options": {
         "choices": [
-          "she",
-          "me"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' is the singular first-person pronoun target receiving the call.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "He called me yesterday.",
       "type": "mcq",
+      "prompt": "He called me yesterday.",
       "options": {
         "choices": [
-          "me",
-          "called"
+          {
+            "id": "c1",
+            "text": "me"
+          },
+          {
+            "id": "c2",
+            "text": "called"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'me' is the targeted first-person singular object pronoun segment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "My teacher helped me with the homework.",
       "type": "mcq",
+      "prompt": "My teacher helped me with the homework.",
       "options": {
         "choices": [
-          "teacher",
-          "me"
+          {
+            "id": "c1",
+            "text": "teacher"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' is the objective personal pronoun unit receiving academic support.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "I love you!",
       "type": "mcq",
+      "prompt": "I love you!",
       "options": {
         "choices": [
-          "I",
-          "you"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "you"
+          }
         ]
       },
-      "correct_answer": "you",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'you' is the target object pronoun receiving the affective action sentiment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Can you hear me now!",
       "type": "mcq",
+      "prompt": "Can you hear me now!",
       "options": {
         "choices": [
-          "you",
-          "me"
+          {
+            "id": "c1",
+            "text": "you"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' acts as the explicit targeted object pronoun entity.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "I will meet you after class.",
       "type": "mcq",
+      "prompt": "I will meet you after class.",
       "options": {
         "choices": [
-          "class",
-          "you"
+          {
+            "id": "c1",
+            "text": "class"
+          },
+          {
+            "id": "c2",
+            "text": "you"
+          }
         ]
       },
-      "correct_answer": "you",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'you' acts as the specific object pronoun tracking the individual met.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "The couch can hear you.",
       "type": "mcq",
+      "prompt": "The couch can hear you.",
       "options": {
         "choices": [
-          "couch",
-          "you"
+          {
+            "id": "c1",
+            "text": "couch"
+          },
+          {
+            "id": "c2",
+            "text": "you"
+          }
         ]
       },
-      "correct_answer": "you",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'you' acts as the object pronoun receiving the perception.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "I can understand you perfectly.",
       "type": "mcq",
+      "prompt": "I can understand you perfectly.",
       "options": {
         "choices": [
-          "can",
-          "you"
+          {
+            "id": "c1",
+            "text": "can"
+          },
+          {
+            "id": "c2",
+            "text": "you"
+          }
         ]
       },
-      "correct_answer": "you",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'you' is the objective individual pronoun targeted by understanding.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "I can count on him.",
       "type": "mcq",
+      "prompt": "I can count on him.",
       "options": {
         "choices": [
-          "him",
-          "count"
+          {
+            "id": "c1",
+            "text": "him"
+          },
+          {
+            "id": "c2",
+            "text": "count"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'him' operates as the objective pronominal target of the relational block.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "We met her parents yesterday.",
       "type": "mcq",
+      "prompt": "We met her parents yesterday.",
       "options": {
         "choices": [
-          "parents",
-          "her"
+          {
+            "id": "c1",
+            "text": "parents"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' serves as the singular personal pronoun entity within the objective scope.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "The teacher smiled at her.",
       "type": "mcq",
+      "prompt": "The teacher smiled at her.",
       "options": {
         "choices": [
-          "teacher",
-          "her"
+          {
+            "id": "c1",
+            "text": "teacher"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' serves as the target object pronoun of the preposition 'at'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Everyone admires him.",
       "type": "mcq",
+      "prompt": "Everyone admires him.",
       "options": {
         "choices": [
-          "him",
-          "admires"
+          {
+            "id": "c1",
+            "text": "him"
+          },
+          {
+            "id": "c2",
+            "text": "admires"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'him' is the masculine third-person object pronoun receiving admiration.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "She joined us for lunch.",
       "type": "mcq",
+      "prompt": "She joined us for lunch.",
       "options": {
         "choices": [
-          "joined",
-          "us"
+          {
+            "id": "c1",
+            "text": "joined"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' is the first-person plural object pronoun target.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "He joined him for dinner.",
       "type": "mcq",
+      "prompt": "He joined him for dinner.",
       "options": {
         "choices": [
-          "he",
-          "him"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' tracks as the correct singular masculine objective pronoun target.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Our parents drove us to school.",
       "type": "mcq",
+      "prompt": "Our parents drove us to school.",
       "options": {
         "choices": [
-          "our",
-          "us"
+          {
+            "id": "c1",
+            "text": "our"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' is the first-person objective pronoun receiving transportation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "We helped them move.",
       "type": "mcq",
+      "prompt": "We helped them move.",
       "options": {
         "choices": [
-          "we",
-          "them"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'them' is the plural third-person object pronoun receiving logistics support.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "They gave him a gift.",
       "type": "mcq",
+      "prompt": "They gave him a gift.",
       "options": {
         "choices": [
-          "gave",
-          "him"
+          {
+            "id": "c1",
+            "text": "gave"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the accurate recipient object pronoun of the giving process.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "They gave her a present.",
       "type": "mcq",
+      "prompt": "They gave her a present.",
       "options": {
         "choices": [
-          "present",
-          "her"
+          {
+            "id": "c1",
+            "text": "present"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' functions as the singular feminine objective pronoun recipient.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "We invited him to dinner.",
       "type": "mcq",
+      "prompt": "We invited him to dinner.",
       "options": {
         "choices": [
-          "we",
-          "him"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the objective tracking reference pronoun entity.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "She hit him on the face!",
       "type": "mcq",
+      "prompt": "She hit him on the face!",
       "options": {
         "choices": [
-          "hit",
-          "him"
+          {
+            "id": "c1",
+            "text": "hit"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' acts as the targeted pronoun element taking physical contact.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "The story made me laugh!",
       "type": "mcq",
+      "prompt": "The story made me laugh!",
       "options": {
         "choices": [
-          "story",
-          "me"
+          {
+            "id": "c1",
+            "text": "story"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' is the singular personal object pronoun influenced by the plot.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "The story made him cry!",
       "type": "mcq",
+      "prompt": "The story made him cry!",
       "options": {
         "choices": [
-          "him",
-          "story"
+          {
+            "id": "c1",
+            "text": "him"
+          },
+          {
+            "id": "c2",
+            "text": "story"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'him' functions as the singular objective target pronoun here.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "They warned us!",
       "type": "mcq",
+      "prompt": "They warned us!",
       "options": {
         "choices": [
-          "They",
-          "us"
+          {
+            "id": "c1",
+            "text": "They"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' represents the first-person plural object pronoun receiving security warning alerts.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "They called him.",
       "type": "mcq",
+      "prompt": "They called him.",
       "options": {
         "choices": [
-          "they",
-          "him"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' acts as the specific third-person singular object pronoun tracking target.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "They have us.",
       "type": "mcq",
+      "prompt": "They have us.",
       "options": {
         "choices": [
-          "they",
-          "us"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' captures the role of the objective plural personal pronoun entity.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "I have him.",
       "type": "mcq",
+      "prompt": "I have him.",
       "options": {
         "choices": [
-          "I",
-          "him"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' represents the masculine singular object pronoun target.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "They visit him on weekends.",
       "type": "mcq",
+      "prompt": "They visit him on weekends.",
       "options": {
         "choices": [
-          "they",
-          "him"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' coordinates as the correct targeted third-person singular object pronoun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "I visit her.",
       "type": "mcq",
+      "prompt": "I visit her.",
       "options": {
         "choices": [
-          "I",
-          "her"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' stands as the correct objective personal pronoun entity targeted.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "The teacher asks me many questions.",
       "type": "mcq",
+      "prompt": "The teacher asks me many questions.",
       "options": {
         "choices": [
-          "asks",
-          "me"
+          {
+            "id": "c1",
+            "text": "asks"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' is the direct first-person objective target pronoun variable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "She sees you in class.",
       "type": "mcq",
+      "prompt": "She sees you in class.",
       "options": {
         "choices": [
-          "she",
-          "you"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "you"
+          }
         ]
       },
-      "correct_answer": "you",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'you' acts as the recipient object pronoun target of vision.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "The boy left her smiling.",
       "type": "mcq",
+      "prompt": "The boy left her smiling.",
       "options": {
         "choices": [
-          "boy",
-          "her"
+          {
+            "id": "c1",
+            "text": "boy"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' is the feminine singular object pronoun tracking state shifts.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "The boy left her heartbroken.",
       "type": "mcq",
+      "prompt": "The boy left her heartbroken.",
       "options": {
         "choices": [
-          "boy",
-          "her"
+          {
+            "id": "c1",
+            "text": "boy"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' remains the target object pronoun receiving the situation outcome.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "They like it a lot.",
       "type": "mcq",
+      "prompt": "They like it a lot.",
       "options": {
         "choices": [
-          "they",
-          "it"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' acts as the neuter singular object pronoun tracking appreciation targets.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "She teaches us Arabic.",
       "type": "mcq",
+      "prompt": "She teaches us Arabic.",
       "options": {
         "choices": [
-          "Arabic",
-          "us"
+          {
+            "id": "c1",
+            "text": "Arabic"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' represents the group objective pronoun entity receiving tutoring.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "We see it in the garden.",
       "type": "mcq",
+      "prompt": "We see it in the garden.",
       "options": {
         "choices": [
-          "we",
-          "it"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' works as the object pronoun element spotted contextually.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "I used it for my homework.",
       "type": "mcq",
+      "prompt": "I used it for my homework.",
       "options": {
         "choices": [
-          "homework",
-          "it"
+          {
+            "id": "c1",
+            "text": "homework"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' represents the neuter object pronoun tracked inside action contexts.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "We watch him on T.V.",
       "type": "mcq",
+      "prompt": "We watch him on T.V.",
       "options": {
         "choices": [
-          "we",
-          "him"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' maps the third-person object pronoun targeted by visual streaming media.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "We help her with scheduling.",
       "type": "mcq",
+      "prompt": "We help her with scheduling.",
       "options": {
         "choices": [
-          "scheduling",
-          "her"
+          {
+            "id": "c1",
+            "text": "scheduling"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' serves as the singular feminine target object pronoun layer.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "I use it for my homework.",
       "type": "mcq",
+      "prompt": "I use it for my homework.",
       "options": {
         "choices": [
-          "use",
-          "it"
+          {
+            "id": "c1",
+            "text": "use"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' represents the targeted tool entity acting as an object pronoun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Sam reads it every night.",
       "type": "mcq",
+      "prompt": "Sam reads it every night.",
       "options": {
         "choices": [
-          "Sam",
-          "it"
+          {
+            "id": "c1",
+            "text": "Sam"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' acts as the structural resource item represented by an object pronoun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "She reads it to her mom.",
       "type": "mcq",
+      "prompt": "She reads it to her mom.",
       "options": {
         "choices": [
-          "mom",
-          "it"
+          {
+            "id": "c1",
+            "text": "mom"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' acts as the specific target object pronoun tracked through narration loops.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "She asks us to leave now!",
       "type": "mcq",
+      "prompt": "She asks us to leave now!",
       "options": {
         "choices": [
-          "leave",
-          "us"
+          {
+            "id": "c1",
+            "text": "leave"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' represents the first-person plural object pronoun target entity.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "We are singing her a beautiful song.",
       "type": "mcq",
+      "prompt": "We are singing her a beautiful song.",
       "options": {
         "choices": [
-          "song",
-          "her"
+          {
+            "id": "c1",
+            "text": "song"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' represents the objective indirect recipient pronoun targeted by melodies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "They always like them!",
       "type": "mcq",
+      "prompt": "They always like them!",
       "options": {
         "choices": [
-          "always",
-          "them"
+          {
+            "id": "c1",
+            "text": "always"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'them' functions accurately as the plural third-person object pronoun layer.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "We read it together.",
       "type": "mcq",
+      "prompt": "We read it together.",
       "options": {
         "choices": [
-          "together",
-          "it"
+          {
+            "id": "c1",
+            "text": "together"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' represents the unique object pronoun target block accessed textually.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "I see her at the bus stop.",
       "type": "mcq",
+      "prompt": "I see her at the bus stop.",
       "options": {
         "choices": [
-          "I",
-          "her"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' tracks as the correct singular objective target pronoun tracking metrics.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "The teacher teaches us hard lessons.",
       "type": "mcq",
+      "prompt": "The teacher teaches us hard lessons.",
       "options": {
         "choices": [
-          "lessons",
-          "us"
+          {
+            "id": "c1",
+            "text": "lessons"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' captures the correct group orientation indexical object pronoun format.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "The math teacher helped her a lot.",
       "type": "mcq",
+      "prompt": "The math teacher helped her a lot.",
       "options": {
         "choices": [
-          "teacher",
-          "her"
+          {
+            "id": "c1",
+            "text": "teacher"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' functions as the correct targeted third-person singular objective pronoun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "My father drives us to school.",
       "type": "mcq",
+      "prompt": "My father drives us to school.",
       "options": {
         "choices": [
-          "father",
-          "us"
+          {
+            "id": "c1",
+            "text": "father"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' coordinates cleanly as the specific first-person group object pronoun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "We invite him to come to the party.",
       "type": "mcq",
+      "prompt": "We invite him to come to the party.",
       "options": {
         "choices": [
-          "party",
-          "him"
+          {
+            "id": "c1",
+            "text": "party"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' operates as the target object pronoun receiving event credentials.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "He gives her the old book.",
       "type": "mcq",
+      "prompt": "He gives her the old book.",
       "options": {
         "choices": [
-          "he",
-          "her"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' serves contextually as the indirect recipient entity tracking as an object pronoun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "I always thought her hair looked amazing!",
       "type": "mcq",
+      "prompt": "I always thought her hair looked amazing!",
       "options": {
         "choices": [
-          "always",
-          "her"
+          {
+            "id": "c1",
+            "text": "always"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' handles the standard pronominal identifier slot within the modified structure.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "He was everything to her.",
       "type": "mcq",
+      "prompt": "He was everything to her.",
       "options": {
         "choices": [
-          "everything",
-          "her"
+          {
+            "id": "c1",
+            "text": "everything"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' acts as the specific destination object pronoun following prepositions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "They want them to listen.",
       "type": "mcq",
+      "prompt": "They want them to listen.",
       "options": {
         "choices": [
-          "want",
-          "them"
+          {
+            "id": "c1",
+            "text": "want"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'them' functions as the third-person plural object pronoun target.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Sarah saw me at the market.",
       "type": "mcq",
+      "prompt": "Sarah saw me at the market.",
       "options": {
         "choices": [
-          "market",
-          "me"
+          {
+            "id": "c1",
+            "text": "market"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' is the primary object pronoun receiving the visual action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "The manager called us yesterday.",
       "type": "mcq",
+      "prompt": "The manager called us yesterday.",
       "options": {
         "choices": [
-          "manager",
-          "us"
+          {
+            "id": "c1",
+            "text": "manager"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' functions cleanly as the targeted group object pronoun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Listen to him carefully.",
       "type": "mcq",
+      "prompt": "Listen to him carefully.",
       "options": {
         "choices": [
-          "carefully",
-          "him"
+          {
+            "id": "c1",
+            "text": "carefully"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' serves as the pronoun entity tracking focus targets.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "We found it near the car.",
       "type": "mcq",
+      "prompt": "We found it near the car.",
       "options": {
         "choices": [
-          "car",
-          "it"
+          {
+            "id": "c1",
+            "text": "car"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' tracks as the target item objective pronoun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "The doctor examined her.",
       "type": "mcq",
+      "prompt": "The doctor examined her.",
       "options": {
         "choices": [
-          "doctor",
-          "her"
+          {
+            "id": "c1",
+            "text": "doctor"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' is the targeted personal pronoun taking diagnostic review.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "They will meet us at noon.",
       "type": "mcq",
+      "prompt": "They will meet us at noon.",
       "options": {
         "choices": [
-          "noon",
-          "us"
+          {
+            "id": "c1",
+            "text": "noon"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' handles the structural group object pronoun assignment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Please show them the office.",
       "type": "mcq",
+      "prompt": "Please show them the office.",
       "options": {
         "choices": [
-          "office",
-          "them"
+          {
+            "id": "c1",
+            "text": "office"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'them' operates as the target object pronoun receiving navigation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "The dog followed me home.",
       "type": "mcq",
+      "prompt": "The dog followed me home.",
       "options": {
         "choices": [
-          "home",
-          "me"
+          {
+            "id": "c1",
+            "text": "home"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' acts as the tracked objective destination reference pronoun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "The dynamic music surprised him.",
       "type": "mcq",
+      "prompt": "The dynamic music surprised him.",
       "options": {
         "choices": [
-          "music",
-          "him"
+          {
+            "id": "c1",
+            "text": "music"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' captures the third-person masculine singular object pronoun slot.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "We need to tell her the truth.",
       "type": "mcq",
+      "prompt": "We need to tell her the truth.",
       "options": {
         "choices": [
-          "truth",
-          "her"
+          {
+            "id": "c1",
+            "text": "truth"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' operates as the target objective pronoun receiving declarations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "The storm scared them last night.",
       "type": "mcq",
+      "prompt": "The storm scared them last night.",
       "options": {
         "choices": [
-          "storm",
-          "them"
+          {
+            "id": "c1",
+            "text": "storm"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'them' handles the plural third-person targeted objective assignment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Can you guide me through this?",
       "type": "mcq",
+      "prompt": "Can you guide me through this?",
       "options": {
         "choices": [
-          "guide",
-          "me"
+          {
+            "id": "c1",
+            "text": "guide"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' acts as the first-person target receiving directional feedback.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "The team selected him as captain.",
       "type": "mcq",
+      "prompt": "The team selected him as captain.",
       "options": {
         "choices": [
-          "team",
-          "him"
+          {
+            "id": "c1",
+            "text": "team"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' is the specific object pronoun capturing structural leadership selections.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "He left it on the counter.",
       "type": "mcq",
+      "prompt": "He left it on the counter.",
       "options": {
         "choices": [
-          "counter",
-          "it"
+          {
+            "id": "c1",
+            "text": "counter"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' marks the neutral target item acting as the object pronoun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "The dynamic guide helped us cross.",
       "type": "mcq",
+      "prompt": "The dynamic guide helped us cross.",
       "options": {
         "choices": [
-          "guide",
-          "us"
+          {
+            "id": "c1",
+            "text": "guide"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' remains the first-person plural grouping tracking object pronoun actions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "I will contact her tomorrow morning.",
       "type": "mcq",
+      "prompt": "I will contact her tomorrow morning.",
       "options": {
         "choices": [
-          "morning",
-          "her"
+          {
+            "id": "c1",
+            "text": "morning"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' remains the individual objective target pronoun for communications.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "The postman brought them letters.",
       "type": "mcq",
+      "prompt": "The postman brought them letters.",
       "options": {
         "choices": [
-          "letters",
-          "them"
+          {
+            "id": "c1",
+            "text": "letters"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'them' tracks contextually as the target grouping object pronoun receiving mail.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "A tracking signal reached me over the radio.",
       "type": "mcq",
+      "prompt": "A tracking signal reached me over the radio.",
       "options": {
         "choices": [
-          "radio",
-          "me"
+          {
+            "id": "c1",
+            "text": "radio"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' acts as the targeted personal pronoun capturing audio output streams.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "The children pushed it down the hill.",
       "type": "mcq",
+      "prompt": "The children pushed it down the hill.",
       "options": {
         "choices": [
-          "hill",
-          "it"
+          {
+            "id": "c1",
+            "text": "hill"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' acts as the physical entity placeholder tracked via an object pronoun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Our coach trained him for weeks.",
       "type": "mcq",
+      "prompt": "Our coach trained him for weeks.",
       "options": {
         "choices": [
-          "weeks",
-          "him"
+          {
+            "id": "c1",
+            "text": "weeks"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "him",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'him' covers the masculine singular object pronoun designation layer perfectly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "The principal invited us inside.",
       "type": "mcq",
+      "prompt": "The principal invited us inside.",
       "options": {
         "choices": [
-          "inside",
-          "us"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "us"
+          }
         ]
       },
-      "correct_answer": "us",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'us' handles the standard first-person destination group object pronoun parameters.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "The artist painted her beautifully.",
       "type": "mcq",
+      "prompt": "The artist painted her beautifully.",
       "options": {
         "choices": [
-          "artist",
-          "her"
+          {
+            "id": "c1",
+            "text": "artist"
+          },
+          {
+            "id": "c2",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "her",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'her' serves as the targeted canvas model parameter tracking object pronouns.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "The firm hired them instantly.",
       "type": "mcq",
+      "prompt": "The firm hired them instantly.",
       "options": {
         "choices": [
-          "instantly",
-          "them"
+          {
+            "id": "c1",
+            "text": "instantly"
+          },
+          {
+            "id": "c2",
+            "text": "them"
+          }
         ]
       },
-      "correct_answer": "them",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'them' functions as the plural target corporate workforce object pronoun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Please hand me that report file.",
       "type": "mcq",
+      "prompt": "Please hand me that report file.",
       "options": {
         "choices": [
-          "file",
-          "me"
+          {
+            "id": "c1",
+            "text": "file"
+          },
+          {
+            "id": "c2",
+            "text": "me"
+          }
         ]
       },
-      "correct_answer": "me",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'me' tracks accurately as the personal recipient first-person object pronoun configuration.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "The system tracked it dynamically.",
       "type": "mcq",
+      "prompt": "The system tracked it dynamically.",
       "options": {
         "choices": [
-          "system",
-          "it"
+          {
+            "id": "c1",
+            "text": "system"
+          },
+          {
+            "id": "c2",
+            "text": "it"
+          }
         ]
       },
-      "correct_answer": "it",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'it' works as the target parameter entity tracked via an object pronoun model.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     }
   ]

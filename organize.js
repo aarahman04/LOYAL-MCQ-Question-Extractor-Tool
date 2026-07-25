@@ -77,10 +77,13 @@ function main() {
       continue;
     }
 
-    const slug = (data.exercise && data.exercise.slug) || path.basename(file, ".json");
-    const detectedLevel = levelFor(slug, data._source_file);
+    // v2 files carry level/subject natively; v1 files fall back to detection.
+    const ex = data.exercise || data;
+    const slug = ex.slug || path.basename(file, ".json");
+    const detectedLevel = (ex.level && ex.level !== UNCLASSIFIED ? ex.level : null) ||
+      levelFor(slug, data._source_file);
     const level = detectedLevel || UNCLASSIFIED;
-    const subject = subjectFor(slug);
+    const subject = ex.subject || subjectFor(slug);
 
     if (!detectedLevel) unclassified.push({ file, source: data._source_file });
 

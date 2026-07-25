@@ -1,816 +1,1515 @@
 {
   "_source_file": "level1_eng_identify_image_verbs.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 50,
-  "exercise": {
-    "slug": "eng-identify-image-verbs",
-    "title": "Identify Verbs",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 50,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.532Z",
+  "slug": "eng-identify-image-verbs",
+  "title": "Identify Verbs",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 50,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The bunny is hopping</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The bunny is hopping</span>",
       "options": {
         "choices": [
-          "hopping",
-          "bunny"
+          {
+            "id": "c1",
+            "text": "hopping"
+          },
+          {
+            "id": "c2",
+            "text": "bunny"
+          }
         ]
       },
-      "correct_answer": "hopping",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“hopping” is the action being done by the bunny.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(1).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(1).jpg"
+      },
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sam and Sama play</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sam and Sama play</span>",
       "options": {
         "choices": [
-          "play",
-          "Sam"
+          {
+            "id": "c1",
+            "text": "play"
+          },
+          {
+            "id": "c2",
+            "text": "Sam"
+          }
         ]
       },
-      "correct_answer": "play",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“play” is the action; “Sam” is a noun (name).",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(2).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(2).jpg"
+      },
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The king is talking</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The king is talking</span>",
       "options": {
         "choices": [
-          "talking",
-          "king"
+          {
+            "id": "c1",
+            "text": "talking"
+          },
+          {
+            "id": "c2",
+            "text": "king"
+          }
         ]
       },
-      "correct_answer": "talking",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“talking” is the action in progress.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(3).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(3).jpg"
+      },
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sama hears the music</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sama hears the music</span>",
       "options": {
         "choices": [
-          "hears",
-          "music"
+          {
+            "id": "c1",
+            "text": "hears"
+          },
+          {
+            "id": "c2",
+            "text": "music"
+          }
         ]
       },
-      "correct_answer": "hears",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“hears” is the action Sama performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(4).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(4).jpg"
+      },
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The cat sleeps</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The cat sleeps</span>",
       "options": {
         "choices": [
-          "sleeps",
-          "cat"
+          {
+            "id": "c1",
+            "text": "sleeps"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          }
         ]
       },
-      "correct_answer": "sleeps",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“sleeps” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(5).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(5).jpg"
+      },
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The dog naps</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The dog naps</span>",
       "options": {
         "choices": [
-          "naps",
-          "dog"
+          {
+            "id": "c1",
+            "text": "naps"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          }
         ]
       },
-      "correct_answer": "naps",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“naps” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(6).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(6).jpg"
+      },
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Tim feeds the birds</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Tim feeds the birds</span>",
       "options": {
         "choices": [
-          "feeds",
-          "birds"
+          {
+            "id": "c1",
+            "text": "feeds"
+          },
+          {
+            "id": "c2",
+            "text": "birds"
+          }
         ]
       },
-      "correct_answer": "feeds",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“feeds” is the action Tim performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(7).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(7).jpg"
+      },
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The cats dig</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The cats dig</span>",
       "options": {
         "choices": [
-          "dig",
-          "cats"
+          {
+            "id": "c1",
+            "text": "dig"
+          },
+          {
+            "id": "c2",
+            "text": "cats"
+          }
         ]
       },
-      "correct_answer": "dig",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“dig” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(8).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(8).jpg"
+      },
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The boys walk</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The boys walk</span>",
       "options": {
         "choices": [
-          "walk",
-          "boys"
+          {
+            "id": "c1",
+            "text": "walk"
+          },
+          {
+            "id": "c2",
+            "text": "boys"
+          }
         ]
       },
-      "correct_answer": "walk",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“walk” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(9).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(9).jpg"
+      },
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sam opens the door</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sam opens the door</span>",
       "options": {
         "choices": [
-          "opens",
-          "door"
+          {
+            "id": "c1",
+            "text": "opens"
+          },
+          {
+            "id": "c2",
+            "text": "door"
+          }
         ]
       },
-      "correct_answer": "opens",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“opens” is the action Sam performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(10).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(10).jpg"
+      },
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sama closes the door</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sama closes the door</span>",
       "options": {
         "choices": [
-          "closes",
-          "door"
+          {
+            "id": "c1",
+            "text": "closes"
+          },
+          {
+            "id": "c2",
+            "text": "door"
+          }
         ]
       },
-      "correct_answer": "closes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“closes” is the action Sama performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(11).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(11).jpg"
+      },
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">My friend eats the cake</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">My friend eats the cake</span>",
       "options": {
         "choices": [
-          "eats",
-          "friend"
+          {
+            "id": "c1",
+            "text": "eats"
+          },
+          {
+            "id": "c2",
+            "text": "friend"
+          }
         ]
       },
-      "correct_answer": "eats",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“eats” is the action performed by ‘friend’.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(12).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(12).jpg"
+      },
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The fish swims</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The fish swims</span>",
       "options": {
         "choices": [
-          "swims",
-          "fish"
+          {
+            "id": "c1",
+            "text": "swims"
+          },
+          {
+            "id": "c2",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "swims",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“swims” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(13).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(13).jpg"
+      },
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">I wash my clothes</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">I wash my clothes</span>",
       "options": {
         "choices": [
-          "wash",
-          "clothes"
+          {
+            "id": "c1",
+            "text": "wash"
+          },
+          {
+            "id": "c2",
+            "text": "clothes"
+          }
         ]
       },
-      "correct_answer": "wash",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“wash” is the action done by ‘I’.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(14).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(14).jpg"
+      },
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The chef cuts the onions</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The chef cuts the onions</span>",
       "options": {
         "choices": [
-          "cuts",
-          "chef"
+          {
+            "id": "c1",
+            "text": "cuts"
+          },
+          {
+            "id": "c2",
+            "text": "chef"
+          }
         ]
       },
-      "correct_answer": "cuts",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“cuts” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(15).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(15).jpg"
+      },
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The kids cry</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The kids cry</span>",
       "options": {
         "choices": [
-          "cry",
-          "kids"
+          {
+            "id": "c1",
+            "text": "cry"
+          },
+          {
+            "id": "c2",
+            "text": "kids"
+          }
         ]
       },
-      "correct_answer": "cry",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“cry” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(16).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(16).jpg"
+      },
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">I hug mom</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">I hug mom</span>",
       "options": {
         "choices": [
-          "hug",
-          "mom"
+          {
+            "id": "c1",
+            "text": "hug"
+          },
+          {
+            "id": "c2",
+            "text": "mom"
+          }
         ]
       },
-      "correct_answer": "hug",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“hug” is the action done by ‘I’.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(17).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(17).jpg"
+      },
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The birds fly</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The birds fly</span>",
       "options": {
         "choices": [
-          "fly",
-          "birds"
+          {
+            "id": "c1",
+            "text": "fly"
+          },
+          {
+            "id": "c2",
+            "text": "birds"
+          }
         ]
       },
-      "correct_answer": "fly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“fly” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(18).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(18).jpg"
+      },
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Dad works on the computer</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Dad works on the computer</span>",
       "options": {
         "choices": [
-          "works",
-          "computer"
+          {
+            "id": "c1",
+            "text": "works"
+          },
+          {
+            "id": "c2",
+            "text": "computer"
+          }
         ]
       },
-      "correct_answer": "works",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“works” is the action Dad performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(19).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(19).jpg"
+      },
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sandy chops the meat</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sandy chops the meat</span>",
       "options": {
         "choices": [
-          "chops",
-          "meat"
+          {
+            "id": "c1",
+            "text": "chops"
+          },
+          {
+            "id": "c2",
+            "text": "meat"
+          }
         ]
       },
-      "correct_answer": "chops",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“chops” is the action Sandy performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(20).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(20).jpg"
+      },
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Nina reads the book</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Nina reads the book</span>",
       "options": {
         "choices": [
-          "reads",
-          "book"
+          {
+            "id": "c1",
+            "text": "reads"
+          },
+          {
+            "id": "c2",
+            "text": "book"
+          }
         ]
       },
-      "correct_answer": "reads",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“reads” is the action Nina performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(21).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(21).jpg"
+      },
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sama bakes the croissants</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sama bakes the croissants</span>",
       "options": {
         "choices": [
-          "bakes",
-          "croissants"
+          {
+            "id": "c1",
+            "text": "bakes"
+          },
+          {
+            "id": "c2",
+            "text": "croissants"
+          }
         ]
       },
-      "correct_answer": "bakes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“bakes” is the action Sama performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(22).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(22).jpg"
+      },
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The boy jumps up and down</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The boy jumps up and down</span>",
       "options": {
         "choices": [
-          "jumps",
-          "boy"
+          {
+            "id": "c1",
+            "text": "jumps"
+          },
+          {
+            "id": "c2",
+            "text": "boy"
+          }
         ]
       },
-      "correct_answer": "jumps",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“jumps” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(23).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(23).jpg"
+      },
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The dogs run very fast</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The dogs run very fast</span>",
       "options": {
         "choices": [
-          "run",
-          "dogs"
+          {
+            "id": "c1",
+            "text": "run"
+          },
+          {
+            "id": "c2",
+            "text": "dogs"
+          }
         ]
       },
-      "correct_answer": "run",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“run” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(24).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(24).jpg"
+      },
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The kids ride horses</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The kids ride horses</span>",
       "options": {
         "choices": [
-          "ride",
-          "horses"
+          {
+            "id": "c1",
+            "text": "ride"
+          },
+          {
+            "id": "c2",
+            "text": "horses"
+          }
         ]
       },
-      "correct_answer": "ride",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“ride” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(25).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(25).jpg"
+      },
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The cat sits on the table</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The cat sits on the table</span>",
       "options": {
         "choices": [
-          "sits",
-          "table"
+          {
+            "id": "c1",
+            "text": "sits"
+          },
+          {
+            "id": "c2",
+            "text": "table"
+          }
         ]
       },
-      "correct_answer": "sits",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“sits” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(26).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(26).jpg"
+      },
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Tom pops the balloon</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Tom pops the balloon</span>",
       "options": {
         "choices": [
-          "pops",
-          "balloon"
+          {
+            "id": "c1",
+            "text": "pops"
+          },
+          {
+            "id": "c2",
+            "text": "balloon"
+          }
         ]
       },
-      "correct_answer": "pops",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“pops” is the action Tom performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(27).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(27).jpg"
+      },
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Dad helps the old lady cross the road</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Dad helps the old lady cross the road</span>",
       "options": {
         "choices": [
-          "helps",
-          "lady"
+          {
+            "id": "c1",
+            "text": "helps"
+          },
+          {
+            "id": "c2",
+            "text": "lady"
+          }
         ]
       },
-      "correct_answer": "helps",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“helps” is the main action in the sentence.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(28).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(28).jpg"
+      },
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sam wins the contest</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sam wins the contest</span>",
       "options": {
         "choices": [
-          "wins",
-          "contest"
+          {
+            "id": "c1",
+            "text": "wins"
+          },
+          {
+            "id": "c2",
+            "text": "contest"
+          }
         ]
       },
-      "correct_answer": "wins",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“wins” is the action Sam performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(29).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(29).jpg"
+      },
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">I hit the ball</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">I hit the ball</span>",
       "options": {
         "choices": [
-          "hit",
-          "ball"
+          {
+            "id": "c1",
+            "text": "hit"
+          },
+          {
+            "id": "c2",
+            "text": "ball"
+          }
         ]
       },
-      "correct_answer": "hit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“hit” is the action done by ‘I’.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(30).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(30).jpg"
+      },
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">I throw the ball</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">I throw the ball</span>",
       "options": {
         "choices": [
-          "throw",
-          "ball"
+          {
+            "id": "c1",
+            "text": "throw"
+          },
+          {
+            "id": "c2",
+            "text": "ball"
+          }
         ]
       },
-      "correct_answer": "throw",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“throw” is the action done by ‘I’.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(31).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(31).jpg"
+      },
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">I see an insect on the wall</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">I see an insect on the wall</span>",
       "options": {
         "choices": [
-          "see",
-          "insect"
+          {
+            "id": "c1",
+            "text": "see"
+          },
+          {
+            "id": "c2",
+            "text": "insect"
+          }
         ]
       },
-      "correct_answer": "see",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“see” is the action done by ‘I’.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(32).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(32).jpg"
+      },
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">I drink water</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">I drink water</span>",
       "options": {
         "choices": [
-          "drink",
-          "water"
+          {
+            "id": "c1",
+            "text": "drink"
+          },
+          {
+            "id": "c2",
+            "text": "water"
+          }
         ]
       },
-      "correct_answer": "drink",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“drink” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(33).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(33).jpg"
+      },
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Tom sips his tea</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Tom sips his tea</span>",
       "options": {
         "choices": [
-          "sips",
-          "tea"
+          {
+            "id": "c1",
+            "text": "sips"
+          },
+          {
+            "id": "c2",
+            "text": "tea"
+          }
         ]
       },
-      "correct_answer": "sips",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“sips” is the action Tom performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(34).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(34).jpg"
+      },
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sam and Sama play tug</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sam and Sama play tug</span>",
       "options": {
         "choices": [
-          "play",
-          "tug"
+          {
+            "id": "c1",
+            "text": "play"
+          },
+          {
+            "id": "c2",
+            "text": "tug"
+          }
         ]
       },
-      "correct_answer": "play",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“play” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(35).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(35).jpg"
+      },
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sama makes a beautiful cake</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sama makes a beautiful cake</span>",
       "options": {
         "choices": [
-          "makes",
-          "cake"
+          {
+            "id": "c1",
+            "text": "makes"
+          },
+          {
+            "id": "c2",
+            "text": "cake"
+          }
         ]
       },
-      "correct_answer": "makes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“makes” is the action Sama performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(36).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(36).jpg"
+      },
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The children pet the puppies</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The children pet the puppies</span>",
       "options": {
         "choices": [
-          "pet",
-          "puppies"
+          {
+            "id": "c1",
+            "text": "pet"
+          },
+          {
+            "id": "c2",
+            "text": "puppies"
+          }
         ]
       },
-      "correct_answer": "pet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“pet” is the action the children perform.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(37).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(37).jpg"
+      },
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The baby rubs his eye</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The baby rubs his eye</span>",
       "options": {
         "choices": [
-          "rubs",
-          "eye"
+          {
+            "id": "c1",
+            "text": "rubs"
+          },
+          {
+            "id": "c2",
+            "text": "eye"
+          }
         ]
       },
-      "correct_answer": "rubs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“rubs” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(38).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(38).jpg"
+      },
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Mummy pushes the stroller</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Mummy pushes the stroller</span>",
       "options": {
         "choices": [
-          "pushes",
-          "stroller"
+          {
+            "id": "c1",
+            "text": "pushes"
+          },
+          {
+            "id": "c2",
+            "text": "stroller"
+          }
         ]
       },
-      "correct_answer": "pushes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“pushes” is the action Mummy performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(39).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(39).jpg"
+      },
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Ben laughs happily</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Ben laughs happily</span>",
       "options": {
         "choices": [
-          "laughs",
-          "Ben"
+          {
+            "id": "c1",
+            "text": "laughs"
+          },
+          {
+            "id": "c2",
+            "text": "Ben"
+          }
         ]
       },
-      "correct_answer": "laughs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“laughs” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(40).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(40).jpg"
+      },
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sam and Sama jog everyday</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sam and Sama jog everyday</span>",
       "options": {
         "choices": [
-          "jog",
-          "everyday"
+          {
+            "id": "c1",
+            "text": "jog"
+          },
+          {
+            "id": "c2",
+            "text": "everyday"
+          }
         ]
       },
-      "correct_answer": "jog",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“jog” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(41).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(41).jpg"
+      },
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The children mix the cake ingredients</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The children mix the cake ingredients</span>",
       "options": {
         "choices": [
-          "mix",
-          "ingredients"
+          {
+            "id": "c1",
+            "text": "mix"
+          },
+          {
+            "id": "c2",
+            "text": "ingredients"
+          }
         ]
       },
-      "correct_answer": "mix",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“mix” is the action the children perform.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(42).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(42).jpg"
+      },
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Mom zips Didi's beautiful dress</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Mom zips Didi's beautiful dress</span>",
       "options": {
         "choices": [
-          "zips",
-          "dress"
+          {
+            "id": "c1",
+            "text": "zips"
+          },
+          {
+            "id": "c2",
+            "text": "dress"
+          }
         ]
       },
-      "correct_answer": "zips",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“zips” is the action Mom performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(43).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(43).jpg"
+      },
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Nina dips her chips in the hot sauce.</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Nina dips her chips in the hot sauce.</span>",
       "options": {
         "choices": [
-          "dips",
-          "chips"
+          {
+            "id": "c1",
+            "text": "dips"
+          },
+          {
+            "id": "c2",
+            "text": "chips"
+          }
         ]
       },
-      "correct_answer": "dips",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“dips” is the action Nina performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(44).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(44).jpg"
+      },
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The mechanic fixes the broken engine</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The mechanic fixes the broken engine</span>",
       "options": {
         "choices": [
-          "fixes",
-          "engine"
+          {
+            "id": "c1",
+            "text": "fixes"
+          },
+          {
+            "id": "c2",
+            "text": "engine"
+          }
         ]
       },
-      "correct_answer": "fixes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“fixes” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(45).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(45).jpg"
+      },
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The baby bites Sam's finger</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The baby bites Sam's finger</span>",
       "options": {
         "choices": [
-          "bites",
-          "finger"
+          {
+            "id": "c1",
+            "text": "bites"
+          },
+          {
+            "id": "c2",
+            "text": "finger"
+          }
         ]
       },
-      "correct_answer": "bites",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“bites” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(46).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(46).jpg"
+      },
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Jim wakes up at 8.00 AM</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Jim wakes up at 8.00 AM</span>",
       "options": {
         "choices": [
-          "wakes",
-          "Jim"
+          {
+            "id": "c1",
+            "text": "wakes"
+          },
+          {
+            "id": "c2",
+            "text": "Jim"
+          }
         ]
       },
-      "correct_answer": "wakes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“wakes” is the action Jim performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(47).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(47).jpg"
+      },
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sandy loves to Smile</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Sandy loves to Smile</span>",
       "options": {
         "choices": [
-          "loves",
-          "Smile"
+          {
+            "id": "c1",
+            "text": "loves"
+          },
+          {
+            "id": "c2",
+            "text": "Smile"
+          }
         ]
       },
-      "correct_answer": "loves",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“loves” is the main verb; ‘to Smile’ is an infinitive phrase.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(48).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(48).jpg"
+      },
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Mom cooks delicious food</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">Mom cooks delicious food</span>",
       "options": {
         "choices": [
-          "cooks",
-          "food"
+          {
+            "id": "c1",
+            "text": "cooks"
+          },
+          {
+            "id": "c2",
+            "text": "food"
+          }
         ]
       },
-      "correct_answer": "cooks",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“cooks” is the action Mom performs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(49).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(49).jpg"
+      },
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The cop runs fast</span>",
       "type": "mcq",
+      "prompt": "Select the verb in the sentence:<br><span style=\"color:black\">The cop runs fast</span>",
       "options": {
         "choices": [
-          "runs",
-          "cop"
+          {
+            "id": "c1",
+            "text": "runs"
+          },
+          {
+            "id": "c2",
+            "text": "cop"
+          }
         ]
       },
-      "correct_answer": "runs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "“runs” is the action.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-identify-image-verbs/lvl_1_eng_identify_image_verbs(50).webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_identify_image_verbs/lvl_1_eng_identify_image_verbs(50).jpg"
+      },
       "order_index": 50
     }
   ]

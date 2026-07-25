@@ -1,1716 +1,2915 @@
 {
   "_source_file": "level_1_before_and_after_numbers.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "before-and-after-numbers",
-    "title": "Before and After Numbers",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.510Z",
+  "slug": "before-and-after-numbers",
+  "title": "Before and After Numbers",
+  "level": "level-1",
+  "subject": "math",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>35</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>35</span>?",
       "options": {
         "choices": [
-          "34",
-          "33",
-          "35"
+          {
+            "id": "c1",
+            "text": "34"
+          },
+          {
+            "id": "c2",
+            "text": "33"
+          },
+          {
+            "id": "c3",
+            "text": "35"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 35 is 34.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>25</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>25</span>?",
       "options": {
         "choices": [
-          "24",
-          "25",
-          "23"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          },
+          {
+            "id": "c3",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 25 is 24.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>6</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>6</span>?",
       "options": {
         "choices": [
-          "6",
-          "8",
-          "7"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 6 is 7.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>35</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>35</span>?",
       "options": {
         "choices": [
-          "35",
-          "36",
-          "37"
+          {
+            "id": "c1",
+            "text": "35"
+          },
+          {
+            "id": "c2",
+            "text": "36"
+          },
+          {
+            "id": "c3",
+            "text": "37"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 35 is 36.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>16</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>16</span>?",
       "options": {
         "choices": [
-          "16",
-          "15",
-          "14"
+          {
+            "id": "c1",
+            "text": "16"
+          },
+          {
+            "id": "c2",
+            "text": "15"
+          },
+          {
+            "id": "c3",
+            "text": "14"
+          }
         ]
       },
-      "correct_answer": "15",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 16 is 15.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>11</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>11</span>?",
       "options": {
         "choices": [
-          "9",
-          "10",
-          "11"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 11 is 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>30</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>30</span>?",
       "options": {
         "choices": [
-          "30",
-          "31",
-          "32"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          },
+          {
+            "id": "c3",
+            "text": "32"
+          }
         ]
       },
-      "correct_answer": "31",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 30 is 31.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>33</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>33</span>?",
       "options": {
         "choices": [
-          "35",
-          "33",
-          "34"
+          {
+            "id": "c1",
+            "text": "35"
+          },
+          {
+            "id": "c2",
+            "text": "33"
+          },
+          {
+            "id": "c3",
+            "text": "34"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 33 is 34.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>5</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>5</span>?",
       "options": {
         "choices": [
-          "5",
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 5 is 4.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>13</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>13</span>?",
       "options": {
         "choices": [
-          "15",
-          "13",
-          "14"
+          {
+            "id": "c1",
+            "text": "15"
+          },
+          {
+            "id": "c2",
+            "text": "13"
+          },
+          {
+            "id": "c3",
+            "text": "14"
+          }
         ]
       },
-      "correct_answer": "14",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 13 is 14.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>10</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>10</span>?",
       "options": {
         "choices": [
-          "11",
-          "10",
-          "12"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "12"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 10 is 11.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>38</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>38</span>?",
       "options": {
         "choices": [
-          "40",
-          "39",
-          "38"
+          {
+            "id": "c1",
+            "text": "40"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          },
+          {
+            "id": "c3",
+            "text": "38"
+          }
         ]
       },
-      "correct_answer": "39",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 38 is 39.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>21</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>21</span>?",
       "options": {
         "choices": [
-          "20",
-          "19",
-          "21"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          },
+          {
+            "id": "c3",
+            "text": "21"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 21 is 20.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>48</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>48</span>?",
       "options": {
         "choices": [
-          "49",
-          "50",
-          "48"
+          {
+            "id": "c1",
+            "text": "49"
+          },
+          {
+            "id": "c2",
+            "text": "50"
+          },
+          {
+            "id": "c3",
+            "text": "48"
+          }
         ]
       },
-      "correct_answer": "49",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 48 is 49.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>18</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>18</span>?",
       "options": {
         "choices": [
-          "18",
-          "16",
-          "17"
+          {
+            "id": "c1",
+            "text": "18"
+          },
+          {
+            "id": "c2",
+            "text": "16"
+          },
+          {
+            "id": "c3",
+            "text": "17"
+          }
         ]
       },
-      "correct_answer": "17",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number before 18 is 17.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>24</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>24</span>?",
       "options": {
         "choices": [
-          "23",
-          "24",
-          "22"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "24"
+          },
+          {
+            "id": "c3",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "23",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 24 is 23.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>26</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>26</span>?",
       "options": {
         "choices": [
-          "24",
-          "25",
-          "26"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          },
+          {
+            "id": "c3",
+            "text": "26"
+          }
         ]
       },
-      "correct_answer": "25",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 26 is 25.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>5</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>5</span>?",
       "options": {
         "choices": [
-          "5",
-          "6",
-          "7"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 5 is 6.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>41</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>41</span>?",
       "options": {
         "choices": [
-          "41",
-          "43",
-          "42"
+          {
+            "id": "c1",
+            "text": "41"
+          },
+          {
+            "id": "c2",
+            "text": "43"
+          },
+          {
+            "id": "c3",
+            "text": "42"
+          }
         ]
       },
-      "correct_answer": "42",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 41 is 42.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>46</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>46</span>?",
       "options": {
         "choices": [
-          "48",
-          "46",
-          "47"
+          {
+            "id": "c1",
+            "text": "48"
+          },
+          {
+            "id": "c2",
+            "text": "46"
+          },
+          {
+            "id": "c3",
+            "text": "47"
+          }
         ]
       },
-      "correct_answer": "47",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 46 is 47.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>33</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>33</span>?",
       "options": {
         "choices": [
-          "33",
-          "31",
-          "32"
+          {
+            "id": "c1",
+            "text": "33"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          },
+          {
+            "id": "c3",
+            "text": "32"
+          }
         ]
       },
-      "correct_answer": "32",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number before 33 is 32.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>13</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>13</span>?",
       "options": {
         "choices": [
-          "11",
-          "12",
-          "13"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "12"
+          },
+          {
+            "id": "c3",
+            "text": "13"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 13 is 12.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>44</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>44</span>?",
       "options": {
         "choices": [
-          "46",
-          "44",
-          "45"
+          {
+            "id": "c1",
+            "text": "46"
+          },
+          {
+            "id": "c2",
+            "text": "44"
+          },
+          {
+            "id": "c3",
+            "text": "45"
+          }
         ]
       },
-      "correct_answer": "45",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 44 is 45.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>26</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>26</span>?",
       "options": {
         "choices": [
-          "27",
-          "26",
-          "28"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "26"
+          },
+          {
+            "id": "c3",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "27",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 26 is 27.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>14</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>14</span>?",
       "options": {
         "choices": [
-          "13",
-          "14",
-          "12"
+          {
+            "id": "c1",
+            "text": "13"
+          },
+          {
+            "id": "c2",
+            "text": "14"
+          },
+          {
+            "id": "c3",
+            "text": "12"
+          }
         ]
       },
-      "correct_answer": "13",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 14 is 13.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>22</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>22</span>?",
       "options": {
         "choices": [
-          "21",
-          "20",
-          "22"
+          {
+            "id": "c1",
+            "text": "21"
+          },
+          {
+            "id": "c2",
+            "text": "20"
+          },
+          {
+            "id": "c3",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "21",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 22 is 21.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>17</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>17</span>?",
       "options": {
         "choices": [
-          "15",
-          "17",
-          "16"
+          {
+            "id": "c1",
+            "text": "15"
+          },
+          {
+            "id": "c2",
+            "text": "17"
+          },
+          {
+            "id": "c3",
+            "text": "16"
+          }
         ]
       },
-      "correct_answer": "16",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number before 17 is 16.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>50</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>50</span>?",
       "options": {
         "choices": [
-          "51",
-          "52",
-          "50"
+          {
+            "id": "c1",
+            "text": "51"
+          },
+          {
+            "id": "c2",
+            "text": "52"
+          },
+          {
+            "id": "c3",
+            "text": "50"
+          }
         ]
       },
-      "correct_answer": "51",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 50 is 51.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>18</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>18</span>?",
       "options": {
         "choices": [
-          "20",
-          "19",
-          "18"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          },
+          {
+            "id": "c3",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 18 is 19.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>40</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>40</span>?",
       "options": {
         "choices": [
-          "41",
-          "42",
-          "40"
+          {
+            "id": "c1",
+            "text": "41"
+          },
+          {
+            "id": "c2",
+            "text": "42"
+          },
+          {
+            "id": "c3",
+            "text": "40"
+          }
         ]
       },
-      "correct_answer": "41",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 40 is 41.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>32</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>32</span>?",
       "options": {
         "choices": [
-          "30",
-          "31",
-          "32"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          },
+          {
+            "id": "c3",
+            "text": "32"
+          }
         ]
       },
-      "correct_answer": "31",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 32 is 31.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>2</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>2</span>?",
       "options": {
         "choices": [
-          "3",
-          "4",
-          "2"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 2 is 3.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>22</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>22</span>?",
       "options": {
         "choices": [
-          "23",
-          "22",
-          "24"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          },
+          {
+            "id": "c3",
+            "text": "24"
+          }
         ]
       },
-      "correct_answer": "23",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 22 is 23.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>4</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>4</span>?",
       "options": {
         "choices": [
-          "3",
-          "2",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 4 is 3.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>25</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>25</span>?",
       "options": {
         "choices": [
-          "27",
-          "25",
-          "26"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          },
+          {
+            "id": "c3",
+            "text": "26"
+          }
         ]
       },
-      "correct_answer": "26",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 25 is 26.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>34</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>34</span>?",
       "options": {
         "choices": [
-          "36",
-          "35",
-          "34"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "35"
+          },
+          {
+            "id": "c3",
+            "text": "34"
+          }
         ]
       },
-      "correct_answer": "35",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 34 is 35.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>16</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>16</span>?",
       "options": {
         "choices": [
-          "17",
-          "18",
-          "16"
+          {
+            "id": "c1",
+            "text": "17"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          },
+          {
+            "id": "c3",
+            "text": "16"
+          }
         ]
       },
-      "correct_answer": "17",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 16 is 17.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>43</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>43</span>?",
       "options": {
         "choices": [
-          "43",
-          "44",
-          "45"
+          {
+            "id": "c1",
+            "text": "43"
+          },
+          {
+            "id": "c2",
+            "text": "44"
+          },
+          {
+            "id": "c3",
+            "text": "45"
+          }
         ]
       },
-      "correct_answer": "44",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 43 is 44.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>11</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>11</span>?",
       "options": {
         "choices": [
-          "13",
-          "11",
-          "12"
+          {
+            "id": "c1",
+            "text": "13"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          },
+          {
+            "id": "c3",
+            "text": "12"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 11 is 12.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>9</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>9</span>?",
       "options": {
         "choices": [
-          "9",
-          "8",
-          "7"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 9 is 8.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>39</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>39</span>?",
       "options": {
         "choices": [
-          "38",
-          "37",
-          "39"
+          {
+            "id": "c1",
+            "text": "38"
+          },
+          {
+            "id": "c2",
+            "text": "37"
+          },
+          {
+            "id": "c3",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "38",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 39 is 38.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>12</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>12</span>?",
       "options": {
         "choices": [
-          "10",
-          "12",
-          "11"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "12"
+          },
+          {
+            "id": "c3",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number before 12 is 11.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>14</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>14</span>?",
       "options": {
         "choices": [
-          "16",
-          "15",
-          "14"
+          {
+            "id": "c1",
+            "text": "16"
+          },
+          {
+            "id": "c2",
+            "text": "15"
+          },
+          {
+            "id": "c3",
+            "text": "14"
+          }
         ]
       },
-      "correct_answer": "15",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 14 is 15.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>41</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>41</span>?",
       "options": {
         "choices": [
-          "40",
-          "41",
-          "39"
+          {
+            "id": "c1",
+            "text": "40"
+          },
+          {
+            "id": "c2",
+            "text": "41"
+          },
+          {
+            "id": "c3",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "40",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 41 is 40.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>27</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>27</span>?",
       "options": {
         "choices": [
-          "29",
-          "28",
-          "27"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          },
+          {
+            "id": "c3",
+            "text": "27"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 27 is 28.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>40</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>40</span>?",
       "options": {
         "choices": [
-          "38",
-          "39",
-          "40"
+          {
+            "id": "c1",
+            "text": "38"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          },
+          {
+            "id": "c3",
+            "text": "40"
+          }
         ]
       },
-      "correct_answer": "39",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 40 is 39.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>29</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>29</span>?",
       "options": {
         "choices": [
-          "27",
-          "28",
-          "29"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          },
+          {
+            "id": "c3",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 29 is 28.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>37</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>37</span>?",
       "options": {
         "choices": [
-          "38",
-          "37",
-          "39"
+          {
+            "id": "c1",
+            "text": "38"
+          },
+          {
+            "id": "c2",
+            "text": "37"
+          },
+          {
+            "id": "c3",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "38",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 37 is 38.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>42</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>42</span>?",
       "options": {
         "choices": [
-          "42",
-          "43",
-          "44"
+          {
+            "id": "c1",
+            "text": "42"
+          },
+          {
+            "id": "c2",
+            "text": "43"
+          },
+          {
+            "id": "c3",
+            "text": "44"
+          }
         ]
       },
-      "correct_answer": "43",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 42 is 43.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>6</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>6</span>?",
       "options": {
         "choices": [
-          "5",
-          "4",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 6 is 5.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>31</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>31</span>?",
       "options": {
         "choices": [
-          "31",
-          "30",
-          "29"
+          {
+            "id": "c1",
+            "text": "31"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          },
+          {
+            "id": "c3",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 31 is 30.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>38</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>38</span>?",
       "options": {
         "choices": [
-          "36",
-          "38",
-          "37"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "38"
+          },
+          {
+            "id": "c3",
+            "text": "37"
+          }
         ]
       },
-      "correct_answer": "37",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number before 38 is 37.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>48</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>48</span>?",
       "options": {
         "choices": [
-          "46",
-          "47",
-          "48"
+          {
+            "id": "c1",
+            "text": "46"
+          },
+          {
+            "id": "c2",
+            "text": "47"
+          },
+          {
+            "id": "c3",
+            "text": "48"
+          }
         ]
       },
-      "correct_answer": "47",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 48 is 47.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>4</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>4</span>?",
       "options": {
         "choices": [
-          "4",
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 4 is 5.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>31</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>31</span>?",
       "options": {
         "choices": [
-          "32",
-          "33",
-          "31"
+          {
+            "id": "c1",
+            "text": "32"
+          },
+          {
+            "id": "c2",
+            "text": "33"
+          },
+          {
+            "id": "c3",
+            "text": "31"
+          }
         ]
       },
-      "correct_answer": "32",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 31 is 32.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>19</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>19</span>?",
       "options": {
         "choices": [
-          "19",
-          "20",
-          "21"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "20"
+          },
+          {
+            "id": "c3",
+            "text": "21"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 19 is 20.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>29</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>29</span>?",
       "options": {
         "choices": [
-          "29",
-          "30",
-          "31"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          },
+          {
+            "id": "c3",
+            "text": "31"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 29 is 30.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>28</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>28</span>?",
       "options": {
         "choices": [
-          "27",
-          "28",
-          "26"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          },
+          {
+            "id": "c3",
+            "text": "26"
+          }
         ]
       },
-      "correct_answer": "27",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 28 is 27.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>37</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>37</span>?",
       "options": {
         "choices": [
-          "36",
-          "35",
-          "37"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "35"
+          },
+          {
+            "id": "c3",
+            "text": "37"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 37 is 36.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>49</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>49</span>?",
       "options": {
         "choices": [
-          "51",
-          "49",
-          "50"
+          {
+            "id": "c1",
+            "text": "51"
+          },
+          {
+            "id": "c2",
+            "text": "49"
+          },
+          {
+            "id": "c3",
+            "text": "50"
+          }
         ]
       },
-      "correct_answer": "50",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 49 is 50.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>27</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>27</span>?",
       "options": {
         "choices": [
-          "26",
-          "27",
-          "25"
+          {
+            "id": "c1",
+            "text": "26"
+          },
+          {
+            "id": "c2",
+            "text": "27"
+          },
+          {
+            "id": "c3",
+            "text": "25"
+          }
         ]
       },
-      "correct_answer": "26",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 27 is 26.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>3</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>3</span>?",
       "options": {
         "choices": [
-          "3",
-          "1",
-          "2"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number before 3 is 2.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>2</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>2</span>?",
       "options": {
         "choices": [
-          "0",
-          "2",
-          "1"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number before 2 is 1.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>8</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>8</span>?",
       "options": {
         "choices": [
-          "6",
-          "8",
-          "7"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number before 8 is 7.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>47</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>47</span>?",
       "options": {
         "choices": [
-          "49",
-          "47",
-          "48"
+          {
+            "id": "c1",
+            "text": "49"
+          },
+          {
+            "id": "c2",
+            "text": "47"
+          },
+          {
+            "id": "c3",
+            "text": "48"
+          }
         ]
       },
-      "correct_answer": "48",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 47 is 48.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>19</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>19</span>?",
       "options": {
         "choices": [
-          "18",
-          "17",
-          "19"
+          {
+            "id": "c1",
+            "text": "18"
+          },
+          {
+            "id": "c2",
+            "text": "17"
+          },
+          {
+            "id": "c3",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 19 is 18.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>17</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>17</span>?",
       "options": {
         "choices": [
-          "17",
-          "18",
-          "19"
+          {
+            "id": "c1",
+            "text": "17"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          },
+          {
+            "id": "c3",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 17 is 18.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>3</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>3</span>?",
       "options": {
         "choices": [
-          "5",
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 3 is 4.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>49</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>49</span>?",
       "options": {
         "choices": [
-          "49",
-          "47",
-          "48"
+          {
+            "id": "c1",
+            "text": "49"
+          },
+          {
+            "id": "c2",
+            "text": "47"
+          },
+          {
+            "id": "c3",
+            "text": "48"
+          }
         ]
       },
-      "correct_answer": "48",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number before 49 is 48.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>45</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>45</span>?",
       "options": {
         "choices": [
-          "45",
-          "44",
-          "43"
+          {
+            "id": "c1",
+            "text": "45"
+          },
+          {
+            "id": "c2",
+            "text": "44"
+          },
+          {
+            "id": "c3",
+            "text": "43"
+          }
         ]
       },
-      "correct_answer": "44",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 45 is 44.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>50</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>50</span>?",
       "options": {
         "choices": [
-          "49",
-          "50",
-          "48"
+          {
+            "id": "c1",
+            "text": "49"
+          },
+          {
+            "id": "c2",
+            "text": "50"
+          },
+          {
+            "id": "c3",
+            "text": "48"
+          }
         ]
       },
-      "correct_answer": "49",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 50 is 49.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>15</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>15</span>?",
       "options": {
         "choices": [
-          "17",
-          "16",
-          "15"
+          {
+            "id": "c1",
+            "text": "17"
+          },
+          {
+            "id": "c2",
+            "text": "16"
+          },
+          {
+            "id": "c3",
+            "text": "15"
+          }
         ]
       },
-      "correct_answer": "16",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 15 is 16.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>1</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>1</span>?",
       "options": {
         "choices": [
-          "1",
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 1 is 2.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>8</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>8</span>?",
       "options": {
         "choices": [
-          "8",
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          },
+          {
+            "id": "c3",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 8 is 9.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>21</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>21</span>?",
       "options": {
         "choices": [
-          "23",
-          "22",
-          "21"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          },
+          {
+            "id": "c3",
+            "text": "21"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 21 is 22.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>1</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>1</span>?",
       "options": {
         "choices": [
-          "2",
-          "1",
-          "0"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          },
+          {
+            "id": "c3",
+            "text": "0"
+          }
         ]
       },
-      "correct_answer": "0",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number before 1 is 0.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>9</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>9</span>?",
       "options": {
         "choices": [
-          "9",
-          "11",
-          "10"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          },
+          {
+            "id": "c3",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 9 is 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>20</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>20</span>?",
       "options": {
         "choices": [
-          "18",
-          "19",
-          "20"
+          {
+            "id": "c1",
+            "text": "18"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          },
+          {
+            "id": "c3",
+            "text": "20"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 20 is 19.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>39</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>39</span>?",
       "options": {
         "choices": [
-          "40",
-          "39",
-          "41"
+          {
+            "id": "c1",
+            "text": "40"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          },
+          {
+            "id": "c3",
+            "text": "41"
+          }
         ]
       },
-      "correct_answer": "40",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 39 is 40.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>23</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>23</span>?",
       "options": {
         "choices": [
-          "23",
-          "21",
-          "22"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "21"
+          },
+          {
+            "id": "c3",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number before 23 is 22.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>32</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>32</span>?",
       "options": {
         "choices": [
-          "33",
-          "32",
-          "34"
+          {
+            "id": "c1",
+            "text": "33"
+          },
+          {
+            "id": "c2",
+            "text": "32"
+          },
+          {
+            "id": "c3",
+            "text": "34"
+          }
         ]
       },
-      "correct_answer": "33",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 32 is 33.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>36</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>36</span>?",
       "options": {
         "choices": [
-          "35",
-          "34",
-          "36"
+          {
+            "id": "c1",
+            "text": "35"
+          },
+          {
+            "id": "c2",
+            "text": "34"
+          },
+          {
+            "id": "c3",
+            "text": "36"
+          }
         ]
       },
-      "correct_answer": "35",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 36 is 35.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>28</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>28</span>?",
       "options": {
         "choices": [
-          "29",
-          "30",
-          "28"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          },
+          {
+            "id": "c3",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "29",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 28 is 29.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>34</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>34</span>?",
       "options": {
         "choices": [
-          "32",
-          "34",
-          "33"
+          {
+            "id": "c1",
+            "text": "32"
+          },
+          {
+            "id": "c2",
+            "text": "34"
+          },
+          {
+            "id": "c3",
+            "text": "33"
+          }
         ]
       },
-      "correct_answer": "33",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number before 34 is 33.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>42</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>42</span>?",
       "options": {
         "choices": [
-          "40",
-          "41",
-          "42"
+          {
+            "id": "c1",
+            "text": "40"
+          },
+          {
+            "id": "c2",
+            "text": "41"
+          },
+          {
+            "id": "c3",
+            "text": "42"
+          }
         ]
       },
-      "correct_answer": "41",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 42 is 41.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>12</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>12</span>?",
       "options": {
         "choices": [
-          "12",
-          "13",
-          "14"
+          {
+            "id": "c1",
+            "text": "12"
+          },
+          {
+            "id": "c2",
+            "text": "13"
+          },
+          {
+            "id": "c3",
+            "text": "14"
+          }
         ]
       },
-      "correct_answer": "13",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 12 is 13.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>7</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>7</span>?",
       "options": {
         "choices": [
-          "5",
-          "6",
-          "7"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 7 is 6.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>36</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>36</span>?",
       "options": {
         "choices": [
-          "38",
-          "36",
-          "37"
+          {
+            "id": "c1",
+            "text": "38"
+          },
+          {
+            "id": "c2",
+            "text": "36"
+          },
+          {
+            "id": "c3",
+            "text": "37"
+          }
         ]
       },
-      "correct_answer": "37",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 36 is 37.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>10</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>10</span>?",
       "options": {
         "choices": [
-          "9",
-          "10",
-          "8"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 10 is 9.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>23</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>23</span>?",
       "options": {
         "choices": [
-          "25",
-          "23",
-          "24"
+          {
+            "id": "c1",
+            "text": "25"
+          },
+          {
+            "id": "c2",
+            "text": "23"
+          },
+          {
+            "id": "c3",
+            "text": "24"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 23 is 24.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>30</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>30</span>?",
       "options": {
         "choices": [
-          "30",
-          "29",
-          "28"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          },
+          {
+            "id": "c3",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "29",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 30 is 29.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>15</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>15</span>?",
       "options": {
         "choices": [
-          "13",
-          "15",
-          "14"
+          {
+            "id": "c1",
+            "text": "13"
+          },
+          {
+            "id": "c2",
+            "text": "15"
+          },
+          {
+            "id": "c3",
+            "text": "14"
+          }
         ]
       },
-      "correct_answer": "14",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number before 15 is 14.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>43</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>43</span>?",
       "options": {
         "choices": [
-          "42",
-          "41",
-          "43"
+          {
+            "id": "c1",
+            "text": "42"
+          },
+          {
+            "id": "c2",
+            "text": "41"
+          },
+          {
+            "id": "c3",
+            "text": "43"
+          }
         ]
       },
-      "correct_answer": "42",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number before 43 is 42.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>24</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>24</span>?",
       "options": {
         "choices": [
-          "24",
-          "25",
-          "26"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          },
+          {
+            "id": "c3",
+            "text": "26"
+          }
         ]
       },
-      "correct_answer": "25",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number after 24 is 25.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>46</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>46</span>?",
       "options": {
         "choices": [
-          "44",
-          "45",
-          "46"
+          {
+            "id": "c1",
+            "text": "44"
+          },
+          {
+            "id": "c2",
+            "text": "45"
+          },
+          {
+            "id": "c3",
+            "text": "46"
+          }
         ]
       },
-      "correct_answer": "45",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 46 is 45.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>45</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>45</span>?",
       "options": {
         "choices": [
-          "46",
-          "47",
-          "45"
+          {
+            "id": "c1",
+            "text": "46"
+          },
+          {
+            "id": "c2",
+            "text": "47"
+          },
+          {
+            "id": "c3",
+            "text": "45"
+          }
         ]
       },
-      "correct_answer": "46",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The number after 45 is 46.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>20</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>20</span>?",
       "options": {
         "choices": [
-          "22",
-          "20",
-          "21"
+          {
+            "id": "c1",
+            "text": "22"
+          },
+          {
+            "id": "c2",
+            "text": "20"
+          },
+          {
+            "id": "c3",
+            "text": "21"
+          }
         ]
       },
-      "correct_answer": "21",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 20 is 21.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>7</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>AFTER</strong> <span style='color:black;'>7</span>?",
       "options": {
         "choices": [
-          "7",
-          "9",
-          "8"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The number after 7 is 8.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>44</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>44</span>?",
       "options": {
         "choices": [
-          "44",
-          "43",
-          "42"
+          {
+            "id": "c1",
+            "text": "44"
+          },
+          {
+            "id": "c2",
+            "text": "43"
+          },
+          {
+            "id": "c3",
+            "text": "42"
+          }
         ]
       },
-      "correct_answer": "43",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 44 is 43.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>47</span>?",
       "type": "mcq",
+      "prompt": "What number comes <strong>BEFORE</strong> <span style='color:black;'>47</span>?",
       "options": {
         "choices": [
-          "47",
-          "46",
-          "45"
+          {
+            "id": "c1",
+            "text": "47"
+          },
+          {
+            "id": "c2",
+            "text": "46"
+          },
+          {
+            "id": "c3",
+            "text": "45"
+          }
         ]
       },
-      "correct_answer": "46",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The number before 47 is 46.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

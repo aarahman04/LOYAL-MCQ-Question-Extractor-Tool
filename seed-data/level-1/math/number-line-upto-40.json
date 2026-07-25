@@ -1,1617 +1,3017 @@
 {
   "_source_file": "level_1_number_line_upto_40.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "number-line-upto-40",
-    "title": "Number Line Upto 40",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.514Z",
+  "slug": "number-line-upto-40",
+  "title": "Number Line Upto 40",
+  "level": "level-1",
+  "subject": "math",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What number is between 9 and 11?",
       "type": "mcq",
+      "prompt": "What number is between 9 and 11?",
       "options": {
         "choices": [
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "10 sits between 9 and 11 on the number line.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Find the number just after 18 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number just after 18 on the number line.",
       "options": {
         "choices": [
-          "19",
-          "18"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 18 comes 19.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Which number comes just before 22?",
       "type": "mcq",
+      "prompt": "Which number comes just before 22?",
       "options": {
         "choices": [
-          "22",
-          "21"
+          {
+            "id": "c1",
+            "text": "22"
+          },
+          {
+            "id": "c2",
+            "text": "21"
+          }
         ]
       },
-      "correct_answer": "21",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 22 comes 21.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which number comes just before 7?",
       "type": "mcq",
+      "prompt": "Which number comes just before 7?",
       "options": {
         "choices": [
-          "6",
-          "7"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 7 comes 6.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which number comes right after 10?",
       "type": "mcq",
+      "prompt": "Which number comes right after 10?",
       "options": {
         "choices": [
-          "11",
-          "10"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 10 comes 11.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "What comes before 3?",
       "type": "mcq",
+      "prompt": "What comes before 3?",
       "options": {
         "choices": [
-          "2",
-          "1"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 3 comes 2.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Which number comes just before 37?",
       "type": "mcq",
+      "prompt": "Which number comes just before 37?",
       "options": {
         "choices": [
-          "37",
-          "36"
+          {
+            "id": "c1",
+            "text": "37"
+          },
+          {
+            "id": "c2",
+            "text": "36"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 37 comes 36.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "What is 1 more than 4?",
       "type": "mcq",
+      "prompt": "What is 1 more than 4?",
       "options": {
         "choices": [
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 more than 4 is 5.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which number comes right after 19?",
       "type": "mcq",
+      "prompt": "Which number comes right after 19?",
       "options": {
         "choices": [
-          "20",
-          "21"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "21"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 19 comes 20.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Which number comes right after 25?",
       "type": "mcq",
+      "prompt": "Which number comes right after 25?",
       "options": {
         "choices": [
-          "26",
-          "27"
+          {
+            "id": "c1",
+            "text": "26"
+          },
+          {
+            "id": "c2",
+            "text": "27"
+          }
         ]
       },
-      "correct_answer": "26",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 25 comes 26.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "What number is between 1 and 3?",
       "type": "mcq",
+      "prompt": "What number is between 1 and 3?",
       "options": {
         "choices": [
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "2 sits between 1 and 3 on the number line.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Find the number just after 38 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number just after 38 on the number line.",
       "options": {
         "choices": [
-          "38",
-          "39"
+          {
+            "id": "c1",
+            "text": "38"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "39",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 38 comes 39.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "What number is between 21 and 23?",
       "type": "mcq",
+      "prompt": "What number is between 21 and 23?",
       "options": {
         "choices": [
-          "21",
-          "22"
+          {
+            "id": "c1",
+            "text": "21"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "22 sits between 21 and 23 on the number line.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Find the number right before 17 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number right before 17 on the number line.",
       "options": {
         "choices": [
-          "16",
-          "15"
+          {
+            "id": "c1",
+            "text": "16"
+          },
+          {
+            "id": "c2",
+            "text": "15"
+          }
         ]
       },
-      "correct_answer": "16",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 17 comes 16.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "What is 1 less than 9?",
       "type": "mcq",
+      "prompt": "What is 1 less than 9?",
       "options": {
         "choices": [
-          "8",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 less than 9 is 8.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Which number comes right after 14?",
       "type": "mcq",
+      "prompt": "Which number comes right after 14?",
       "options": {
         "choices": [
-          "15",
-          "16"
+          {
+            "id": "c1",
+            "text": "15"
+          },
+          {
+            "id": "c2",
+            "text": "16"
+          }
         ]
       },
-      "correct_answer": "15",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 14 comes 15.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "What comes before 15?",
       "type": "mcq",
+      "prompt": "What comes before 15?",
       "options": {
         "choices": [
-          "14",
-          "15"
+          {
+            "id": "c1",
+            "text": "14"
+          },
+          {
+            "id": "c2",
+            "text": "15"
+          }
         ]
       },
-      "correct_answer": "14",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 15 comes 14.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which number comes just before 9?",
       "type": "mcq",
+      "prompt": "Which number comes just before 9?",
       "options": {
         "choices": [
-          "7",
-          "8"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 9 comes 8.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Find the number just after 30 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number just after 30 on the number line.",
       "options": {
         "choices": [
-          "30",
-          "31"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          }
         ]
       },
-      "correct_answer": "31",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 30 comes 31.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Which number comes right after 26?",
       "type": "mcq",
+      "prompt": "Which number comes right after 26?",
       "options": {
         "choices": [
-          "26",
-          "27"
+          {
+            "id": "c1",
+            "text": "26"
+          },
+          {
+            "id": "c2",
+            "text": "27"
+          }
         ]
       },
-      "correct_answer": "27",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 26 comes 27.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Which number comes right after 31?",
       "type": "mcq",
+      "prompt": "Which number comes right after 31?",
       "options": {
         "choices": [
-          "32",
-          "33"
+          {
+            "id": "c1",
+            "text": "32"
+          },
+          {
+            "id": "c2",
+            "text": "33"
+          }
         ]
       },
-      "correct_answer": "32",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 31 comes 32.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Find the number right before 22 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number right before 22 on the number line.",
       "options": {
         "choices": [
-          "21",
-          "22"
+          {
+            "id": "c1",
+            "text": "21"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "21",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 22 comes 21.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "What comes after 9?",
       "type": "mcq",
+      "prompt": "What comes after 9?",
       "options": {
         "choices": [
-          "10",
-          "11"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 9 comes 10.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Which number comes right after 18?",
       "type": "mcq",
+      "prompt": "Which number comes right after 18?",
       "options": {
         "choices": [
-          "19",
-          "20"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "20"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 18 comes 19.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "What comes before 21?",
       "type": "mcq",
+      "prompt": "What comes before 21?",
       "options": {
         "choices": [
-          "20",
-          "19"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 21 comes 20.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "What comes after 15?",
       "type": "mcq",
+      "prompt": "What comes after 15?",
       "options": {
         "choices": [
-          "16",
-          "15"
+          {
+            "id": "c1",
+            "text": "16"
+          },
+          {
+            "id": "c2",
+            "text": "15"
+          }
         ]
       },
-      "correct_answer": "16",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 15 comes 16.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "What comes before 7?",
       "type": "mcq",
+      "prompt": "What comes before 7?",
       "options": {
         "choices": [
-          "5",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 7 comes 6.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which number comes right after 38?",
       "type": "mcq",
+      "prompt": "Which number comes right after 38?",
       "options": {
         "choices": [
-          "39",
-          "40"
+          {
+            "id": "c1",
+            "text": "39"
+          },
+          {
+            "id": "c2",
+            "text": "40"
+          }
         ]
       },
-      "correct_answer": "39",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 38 comes 39.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "What is 1 less than 21?",
       "type": "mcq",
+      "prompt": "What is 1 less than 21?",
       "options": {
         "choices": [
-          "20",
-          "19"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 less than 21 is 20.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which number comes just before 29?",
       "type": "mcq",
+      "prompt": "Which number comes just before 29?",
       "options": {
         "choices": [
-          "28",
-          "29"
+          {
+            "id": "c1",
+            "text": "28"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 29 comes 28.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "What comes before 9?",
       "type": "mcq",
+      "prompt": "What comes before 9?",
       "options": {
         "choices": [
-          "7",
-          "8"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 9 comes 8.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Find the number right before 27 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number right before 27 on the number line.",
       "options": {
         "choices": [
-          "25",
-          "26"
+          {
+            "id": "c1",
+            "text": "25"
+          },
+          {
+            "id": "c2",
+            "text": "26"
+          }
         ]
       },
-      "correct_answer": "26",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 27 comes 26.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "What comes before 18?",
       "type": "mcq",
+      "prompt": "What comes before 18?",
       "options": {
         "choices": [
-          "17",
-          "18"
+          {
+            "id": "c1",
+            "text": "17"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "17",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 18 comes 17.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "What comes before 35?",
       "type": "mcq",
+      "prompt": "What comes before 35?",
       "options": {
         "choices": [
-          "34",
-          "33"
+          {
+            "id": "c1",
+            "text": "34"
+          },
+          {
+            "id": "c2",
+            "text": "33"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 35 comes 34.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "What is 1 more than 16?",
       "type": "mcq",
+      "prompt": "What is 1 more than 16?",
       "options": {
         "choices": [
-          "16",
-          "17"
+          {
+            "id": "c1",
+            "text": "16"
+          },
+          {
+            "id": "c2",
+            "text": "17"
+          }
         ]
       },
-      "correct_answer": "17",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 more than 16 is 17.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "What comes after 27?",
       "type": "mcq",
+      "prompt": "What comes after 27?",
       "options": {
         "choices": [
-          "28",
-          "29"
+          {
+            "id": "c1",
+            "text": "28"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 27 comes 28.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "What is 1 more than 26?",
       "type": "mcq",
+      "prompt": "What is 1 more than 26?",
       "options": {
         "choices": [
-          "26",
-          "27"
+          {
+            "id": "c1",
+            "text": "26"
+          },
+          {
+            "id": "c2",
+            "text": "27"
+          }
         ]
       },
-      "correct_answer": "27",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 more than 26 is 27.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which number comes just before 13?",
       "type": "mcq",
+      "prompt": "Which number comes just before 13?",
       "options": {
         "choices": [
-          "12",
-          "11"
+          {
+            "id": "c1",
+            "text": "12"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 13 comes 12.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "What is 1 less than 5?",
       "type": "mcq",
+      "prompt": "What is 1 less than 5?",
       "options": {
         "choices": [
-          "5",
-          "4"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 less than 5 is 4.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "What comes after 16?",
       "type": "mcq",
+      "prompt": "What comes after 16?",
       "options": {
         "choices": [
-          "16",
-          "17"
+          {
+            "id": "c1",
+            "text": "16"
+          },
+          {
+            "id": "c2",
+            "text": "17"
+          }
         ]
       },
-      "correct_answer": "17",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 16 comes 17.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Find the number just after 35 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number just after 35 on the number line.",
       "options": {
         "choices": [
-          "35",
-          "36"
+          {
+            "id": "c1",
+            "text": "35"
+          },
+          {
+            "id": "c2",
+            "text": "36"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 35 comes 36.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Find the number right before 5 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number right before 5 on the number line.",
       "options": {
         "choices": [
-          "5",
-          "4"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 5 comes 4.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "What is 1 more than 1?",
       "type": "mcq",
+      "prompt": "What is 1 more than 1?",
       "options": {
         "choices": [
-          "1",
-          "2"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 more than 1 is 2.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Find the number just after 15 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number just after 15 on the number line.",
       "options": {
         "choices": [
-          "16",
-          "15"
+          {
+            "id": "c1",
+            "text": "16"
+          },
+          {
+            "id": "c2",
+            "text": "15"
+          }
         ]
       },
-      "correct_answer": "16",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 15 comes 16.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Find the number right before 23 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number right before 23 on the number line.",
       "options": {
         "choices": [
-          "23",
-          "22"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 23 comes 22.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Which number comes just before 4?",
       "type": "mcq",
+      "prompt": "Which number comes just before 4?",
       "options": {
         "choices": [
-          "3",
-          "2"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 4 comes 3.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "What comes after 11?",
       "type": "mcq",
+      "prompt": "What comes after 11?",
       "options": {
         "choices": [
-          "12",
-          "13"
+          {
+            "id": "c1",
+            "text": "12"
+          },
+          {
+            "id": "c2",
+            "text": "13"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 11 comes 12.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which number comes just before 19?",
       "type": "mcq",
+      "prompt": "Which number comes just before 19?",
       "options": {
         "choices": [
-          "18",
-          "19"
+          {
+            "id": "c1",
+            "text": "18"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 19 comes 18.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Find the number just after 2 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number just after 2 on the number line.",
       "options": {
         "choices": [
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 2 comes 3.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which number comes just before 10?",
       "type": "mcq",
+      "prompt": "Which number comes just before 10?",
       "options": {
         "choices": [
-          "10",
-          "9"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 10 comes 9.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which number comes right after 39?",
       "type": "mcq",
+      "prompt": "Which number comes right after 39?",
       "options": {
         "choices": [
-          "40",
-          "39"
+          {
+            "id": "c1",
+            "text": "40"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "40",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 39 comes 40.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "What is 1 less than 38?",
       "type": "mcq",
+      "prompt": "What is 1 less than 38?",
       "options": {
         "choices": [
-          "36",
-          "37"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "37"
+          }
         ]
       },
-      "correct_answer": "37",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 less than 38 is 37.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "What number is between 19 and 21?",
       "type": "mcq",
+      "prompt": "What number is between 19 and 21?",
       "options": {
         "choices": [
-          "19",
-          "20"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "20"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "20 sits between 19 and 21 on the number line.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "What comes before 29?",
       "type": "mcq",
+      "prompt": "What comes before 29?",
       "options": {
         "choices": [
-          "29",
-          "28"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 29 comes 28.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "What is 1 less than 16?",
       "type": "mcq",
+      "prompt": "What is 1 less than 16?",
       "options": {
         "choices": [
-          "15",
-          "16"
+          {
+            "id": "c1",
+            "text": "15"
+          },
+          {
+            "id": "c2",
+            "text": "16"
+          }
         ]
       },
-      "correct_answer": "15",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 less than 16 is 15.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "What is 1 more than 22?",
       "type": "mcq",
+      "prompt": "What is 1 more than 22?",
       "options": {
         "choices": [
-          "23",
-          "22"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "23",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 more than 22 is 23.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Find the number right before 6 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number right before 6 on the number line.",
       "options": {
         "choices": [
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 6 comes 5.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Find the number right before 25 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number right before 25 on the number line.",
       "options": {
         "choices": [
-          "24",
-          "25"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 25 comes 24.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which number comes just before 38?",
       "type": "mcq",
+      "prompt": "Which number comes just before 38?",
       "options": {
         "choices": [
-          "36",
-          "37"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "37"
+          }
         ]
       },
-      "correct_answer": "37",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 38 comes 37.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "What comes before 5?",
       "type": "mcq",
+      "prompt": "What comes before 5?",
       "options": {
         "choices": [
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 5 comes 4.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "What comes before 2?",
       "type": "mcq",
+      "prompt": "What comes before 2?",
       "options": {
         "choices": [
-          "1",
-          "0"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "0"
+          }
         ]
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 2 comes 1.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which number comes just before 32?",
       "type": "mcq",
+      "prompt": "Which number comes just before 32?",
       "options": {
         "choices": [
-          "31",
-          "30"
+          {
+            "id": "c1",
+            "text": "31"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          }
         ]
       },
-      "correct_answer": "31",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 32 comes 31.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which number comes just before 18?",
       "type": "mcq",
+      "prompt": "Which number comes just before 18?",
       "options": {
         "choices": [
-          "16",
-          "17"
+          {
+            "id": "c1",
+            "text": "16"
+          },
+          {
+            "id": "c2",
+            "text": "17"
+          }
         ]
       },
-      "correct_answer": "17",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 18 comes 17.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "What number is between 22 and 24?",
       "type": "mcq",
+      "prompt": "What number is between 22 and 24?",
       "options": {
         "choices": [
-          "24",
-          "23"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "23",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "23 sits between 22 and 24 on the number line.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "What comes after 34?",
       "type": "mcq",
+      "prompt": "What comes after 34?",
       "options": {
         "choices": [
-          "36",
-          "35"
+          {
+            "id": "c1",
+            "text": "36"
+          },
+          {
+            "id": "c2",
+            "text": "35"
+          }
         ]
       },
-      "correct_answer": "35",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 34 comes 35.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "What number is between 14 and 16?",
       "type": "mcq",
+      "prompt": "What number is between 14 and 16?",
       "options": {
         "choices": [
-          "14",
-          "15"
+          {
+            "id": "c1",
+            "text": "14"
+          },
+          {
+            "id": "c2",
+            "text": "15"
+          }
         ]
       },
-      "correct_answer": "15",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "15 sits between 14 and 16 on the number line.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Find the number just after 10 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number just after 10 on the number line.",
       "options": {
         "choices": [
-          "10",
-          "11"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 10 comes 11.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "What comes before 25?",
       "type": "mcq",
+      "prompt": "What comes before 25?",
       "options": {
         "choices": [
-          "23",
-          "24"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "24"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 25 comes 24.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "What is 1 more than 37?",
       "type": "mcq",
+      "prompt": "What is 1 more than 37?",
       "options": {
         "choices": [
-          "38",
-          "39"
+          {
+            "id": "c1",
+            "text": "38"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "38",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 more than 37 is 38.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "What is 1 more than 24?",
       "type": "mcq",
+      "prompt": "What is 1 more than 24?",
       "options": {
         "choices": [
-          "24",
-          "25"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          }
         ]
       },
-      "correct_answer": "25",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 more than 24 is 25.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "What comes after 24?",
       "type": "mcq",
+      "prompt": "What comes after 24?",
       "options": {
         "choices": [
-          "24",
-          "25"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          }
         ]
       },
-      "correct_answer": "25",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 24 comes 25.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "What is 1 more than 32?",
       "type": "mcq",
+      "prompt": "What is 1 more than 32?",
       "options": {
         "choices": [
-          "32",
-          "33"
+          {
+            "id": "c1",
+            "text": "32"
+          },
+          {
+            "id": "c2",
+            "text": "33"
+          }
         ]
       },
-      "correct_answer": "33",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 more than 32 is 33.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "What comes before 23?",
       "type": "mcq",
+      "prompt": "What comes before 23?",
       "options": {
         "choices": [
-          "22",
-          "21"
+          {
+            "id": "c1",
+            "text": "22"
+          },
+          {
+            "id": "c2",
+            "text": "21"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 23 comes 22.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "What comes after 18?",
       "type": "mcq",
+      "prompt": "What comes after 18?",
       "options": {
         "choices": [
-          "20",
-          "19"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 18 comes 19.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "What is 1 more than 12?",
       "type": "mcq",
+      "prompt": "What is 1 more than 12?",
       "options": {
         "choices": [
-          "13",
-          "14"
+          {
+            "id": "c1",
+            "text": "13"
+          },
+          {
+            "id": "c2",
+            "text": "14"
+          }
         ]
       },
-      "correct_answer": "13",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 more than 12 is 13.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "What comes after 36?",
       "type": "mcq",
+      "prompt": "What comes after 36?",
       "options": {
         "choices": [
-          "38",
-          "37"
+          {
+            "id": "c1",
+            "text": "38"
+          },
+          {
+            "id": "c2",
+            "text": "37"
+          }
         ]
       },
-      "correct_answer": "37",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 36 comes 37.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "What number is between 23 and 25?",
       "type": "mcq",
+      "prompt": "What number is between 23 and 25?",
       "options": {
         "choices": [
-          "24",
-          "25"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "24 sits between 23 and 25 on the number line.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which number comes just before 12?",
       "type": "mcq",
+      "prompt": "Which number comes just before 12?",
       "options": {
         "choices": [
-          "11",
-          "12"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "12"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 12 comes 11.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Find the number just after 23 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number just after 23 on the number line.",
       "options": {
         "choices": [
-          "24",
-          "25"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 23 comes 24.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "What number is between 18 and 20?",
       "type": "mcq",
+      "prompt": "What number is between 18 and 20?",
       "options": {
         "choices": [
-          "20",
-          "19"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "19 sits between 18 and 20 on the number line.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Find the number right before 12 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number right before 12 on the number line.",
       "options": {
         "choices": [
-          "12",
-          "11"
+          {
+            "id": "c1",
+            "text": "12"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 12 comes 11.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "What is 1 less than 28?",
       "type": "mcq",
+      "prompt": "What is 1 less than 28?",
       "options": {
         "choices": [
-          "27",
-          "28"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "27",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 less than 28 is 27.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Find the number right before 29 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number right before 29 on the number line.",
       "options": {
         "choices": [
-          "29",
-          "28"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 29 comes 28.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "What is 1 more than 10?",
       "type": "mcq",
+      "prompt": "What is 1 more than 10?",
       "options": {
         "choices": [
-          "10",
-          "11"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 more than 10 is 11.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "What is 1 more than 31?",
       "type": "mcq",
+      "prompt": "What is 1 more than 31?",
       "options": {
         "choices": [
-          "33",
-          "32"
+          {
+            "id": "c1",
+            "text": "33"
+          },
+          {
+            "id": "c2",
+            "text": "32"
+          }
         ]
       },
-      "correct_answer": "32",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 more than 31 is 32.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "What comes before 4?",
       "type": "mcq",
+      "prompt": "What comes before 4?",
       "options": {
         "choices": [
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 4 comes 3.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Find the number just after 17 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number just after 17 on the number line.",
       "options": {
         "choices": [
-          "17",
-          "18"
+          {
+            "id": "c1",
+            "text": "17"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 17 comes 18.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Find the number just after 16 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number just after 16 on the number line.",
       "options": {
         "choices": [
-          "17",
-          "16"
+          {
+            "id": "c1",
+            "text": "17"
+          },
+          {
+            "id": "c2",
+            "text": "16"
+          }
         ]
       },
-      "correct_answer": "17",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 16 comes 17.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "What is 1 less than 8?",
       "type": "mcq",
+      "prompt": "What is 1 less than 8?",
       "options": {
         "choices": [
-          "6",
-          "7"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 less than 8 is 7.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Find the number just after 27 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number just after 27 on the number line.",
       "options": {
         "choices": [
-          "27",
-          "28"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 27 comes 28.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Find the number right before 7 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number right before 7 on the number line.",
       "options": {
         "choices": [
-          "5",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 7 comes 6.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which number comes just before 34?",
       "type": "mcq",
+      "prompt": "Which number comes just before 34?",
       "options": {
         "choices": [
-          "33",
-          "32"
+          {
+            "id": "c1",
+            "text": "33"
+          },
+          {
+            "id": "c2",
+            "text": "32"
+          }
         ]
       },
-      "correct_answer": "33",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, before 34 comes 33.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "What comes after 5?",
       "type": "mcq",
+      "prompt": "What comes after 5?",
       "options": {
         "choices": [
-          "5",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 5 comes 6.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "What number is between 10 and 12?",
       "type": "mcq",
+      "prompt": "What number is between 10 and 12?",
       "options": {
         "choices": [
-          "10",
-          "11"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "11 sits between 10 and 12 on the number line.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Find the number right before 21 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number right before 21 on the number line.",
       "options": {
         "choices": [
-          "19",
-          "20"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "20"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 21 comes 20.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "What comes after 37?",
       "type": "mcq",
+      "prompt": "What comes after 37?",
       "options": {
         "choices": [
-          "38",
-          "39"
+          {
+            "id": "c1",
+            "text": "38"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "38",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On the number line, after 37 comes 38.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "What number is between 4 and 6?",
       "type": "mcq",
+      "prompt": "What number is between 4 and 6?",
       "options": {
         "choices": [
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 sits between 4 and 6 on the number line.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Find the number just after 25 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number just after 25 on the number line.",
       "options": {
         "choices": [
-          "27",
-          "26"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "26"
+          }
         ]
       },
-      "correct_answer": "26",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, after 25 comes 26.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "What number is between 30 and 32?",
       "type": "mcq",
+      "prompt": "What number is between 30 and 32?",
       "options": {
         "choices": [
-          "31",
-          "32"
+          {
+            "id": "c1",
+            "text": "31"
+          },
+          {
+            "id": "c2",
+            "text": "32"
+          }
         ]
       },
-      "correct_answer": "31",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "31 sits between 30 and 32 on the number line.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Find the number right before 35 on the number line.",
       "type": "mcq",
+      "prompt": "Find the number right before 35 on the number line.",
       "options": {
         "choices": [
-          "35",
-          "34"
+          {
+            "id": "c1",
+            "text": "35"
+          },
+          {
+            "id": "c2",
+            "text": "34"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On the number line, before 35 comes 34.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/number-line-upto-40/number_line_1_to_50.webp",
+        "alt": "",
+        "source_path": "../../image/level_1_math/number_line_1_to_50.jpg"
+      },
       "order_index": 100
     }
-  ]
+  ],
+  "title_needs_review": true
 }

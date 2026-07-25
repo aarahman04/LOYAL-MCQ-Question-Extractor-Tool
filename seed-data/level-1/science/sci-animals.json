@@ -1,1716 +1,2915 @@
 {
   "_source_file": "level1_sci_animals.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "sci-animals",
-    "title": "Animals",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.550Z",
+  "slug": "sci-animals",
+  "title": "Animals",
+  "level": "level-1",
+  "subject": "science",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Which animal says 'moo'?",
       "type": "mcq",
+      "prompt": "Which animal says 'moo'?",
       "options": {
         "choices": [
-          "dog",
-          "cow",
-          "cat"
+          {
+            "id": "c1",
+            "text": "dog"
+          },
+          {
+            "id": "c2",
+            "text": "cow"
+          },
+          {
+            "id": "c3",
+            "text": "cat"
+          }
         ]
       },
-      "correct_answer": "cow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Cows make the 'moo' sound.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which animal has a long trunk?",
       "type": "mcq",
+      "prompt": "Which animal has a long trunk?",
       "options": {
         "choices": [
-          "elephant",
-          "lion",
-          "bird"
+          {
+            "id": "c1",
+            "text": "elephant"
+          },
+          {
+            "id": "c2",
+            "text": "lion"
+          },
+          {
+            "id": "c3",
+            "text": "bird"
+          }
         ]
       },
-      "correct_answer": "elephant",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Elephants use their trunks to eat and drink.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Which animal lives in the ocean?",
       "type": "mcq",
+      "prompt": "Which animal lives in the ocean?",
       "options": {
         "choices": [
-          "fish",
-          "horse",
-          "monkey"
+          {
+            "id": "c1",
+            "text": "fish"
+          },
+          {
+            "id": "c2",
+            "text": "horse"
+          },
+          {
+            "id": "c3",
+            "text": "monkey"
+          }
         ]
       },
-      "correct_answer": "fish",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Fish live in oceans, rivers, and lakes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which animal hops?",
       "type": "mcq",
+      "prompt": "Which animal hops?",
       "options": {
         "choices": [
-          "kangaroo",
-          "snake",
-          "cow"
+          {
+            "id": "c1",
+            "text": "kangaroo"
+          },
+          {
+            "id": "c2",
+            "text": "snake"
+          },
+          {
+            "id": "c3",
+            "text": "cow"
+          }
         ]
       },
-      "correct_answer": "kangaroo",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Kangaroos move by hopping.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which animal barks?",
       "type": "mcq",
+      "prompt": "Which animal barks?",
       "options": {
         "choices": [
-          "dog",
-          "sheep",
-          "goat"
+          {
+            "id": "c1",
+            "text": "dog"
+          },
+          {
+            "id": "c2",
+            "text": "sheep"
+          },
+          {
+            "id": "c3",
+            "text": "goat"
+          }
         ]
       },
-      "correct_answer": "dog",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dogs bark.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Which animal can fly?",
       "type": "mcq",
+      "prompt": "Which animal can fly?",
       "options": {
         "choices": [
-          "bird",
-          "tiger",
-          "cat"
+          {
+            "id": "c1",
+            "text": "bird"
+          },
+          {
+            "id": "c2",
+            "text": "tiger"
+          },
+          {
+            "id": "c3",
+            "text": "cat"
+          }
         ]
       },
-      "correct_answer": "bird",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Birds can fly using their wings.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Which animal has stripes?",
       "type": "mcq",
+      "prompt": "Which animal has stripes?",
       "options": {
         "choices": [
-          "zebra",
-          "pig",
-          "duck"
+          {
+            "id": "c1",
+            "text": "zebra"
+          },
+          {
+            "id": "c2",
+            "text": "pig"
+          },
+          {
+            "id": "c3",
+            "text": "duck"
+          }
         ]
       },
-      "correct_answer": "zebra",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Zebras have black and white stripes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Which animal gives us milk?",
       "type": "mcq",
+      "prompt": "Which animal gives us milk?",
       "options": {
         "choices": [
-          "cow",
-          "lion",
-          "frog"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "lion"
+          },
+          {
+            "id": "c3",
+            "text": "frog"
+          }
         ]
       },
-      "correct_answer": "cow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cows give milk.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which animal has a mane?",
       "type": "mcq",
+      "prompt": "Which animal has a mane?",
       "options": {
         "choices": [
-          "rabbit",
-          "turtle",
-          "lion"
+          {
+            "id": "c1",
+            "text": "rabbit"
+          },
+          {
+            "id": "c2",
+            "text": "turtle"
+          },
+          {
+            "id": "c3",
+            "text": "lion"
+          }
         ]
       },
-      "correct_answer": "lion",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Male lions have a mane around their neck.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Which animal swims and has scales?",
       "type": "mcq",
+      "prompt": "Which animal swims and has scales?",
       "options": {
         "choices": [
-          "bird",
-          "dog",
-          "fish"
+          {
+            "id": "c1",
+            "text": "bird"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "fish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Fish have scales and swim in water.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Which animal says 'meow'?",
       "type": "mcq",
+      "prompt": "Which animal says 'meow'?",
       "options": {
         "choices": [
-          "horse",
-          "cat",
-          "chicken"
+          {
+            "id": "c1",
+            "text": "horse"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "chicken"
+          }
         ]
       },
-      "correct_answer": "cat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Cats make the 'meow' sound.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Which animal lives on a farm?",
       "type": "mcq",
+      "prompt": "Which animal lives on a farm?",
       "options": {
         "choices": [
-          "shark",
-          "sheep",
-          "eagle"
+          {
+            "id": "c1",
+            "text": "shark"
+          },
+          {
+            "id": "c2",
+            "text": "sheep"
+          },
+          {
+            "id": "c3",
+            "text": "eagle"
+          }
         ]
       },
-      "correct_answer": "sheep",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sheep are common farm animals.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Which animal has wings?",
       "type": "mcq",
+      "prompt": "Which animal has wings?",
       "options": {
         "choices": [
-          "butterfly",
-          "cow",
-          "dog"
+          {
+            "id": "c1",
+            "text": "butterfly"
+          },
+          {
+            "id": "c2",
+            "text": "cow"
+          },
+          {
+            "id": "c3",
+            "text": "dog"
+          }
         ]
       },
-      "correct_answer": "butterfly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Butterflies have wings and can fly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Which animal is the king of the jungle?",
       "type": "mcq",
+      "prompt": "Which animal is the king of the jungle?",
       "options": {
         "choices": [
-          "ant",
-          "lion",
-          "rabbit"
+          {
+            "id": "c1",
+            "text": "ant"
+          },
+          {
+            "id": "c2",
+            "text": "lion"
+          },
+          {
+            "id": "c3",
+            "text": "rabbit"
+          }
         ]
       },
-      "correct_answer": "lion",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The lion is often called the king of the jungle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Which animal has a hard shell?",
       "type": "mcq",
+      "prompt": "Which animal has a hard shell?",
       "options": {
         "choices": [
-          "pig",
-          "cat",
-          "turtle"
+          {
+            "id": "c1",
+            "text": "pig"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "turtle"
+          }
         ]
       },
-      "correct_answer": "turtle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Turtles have a hard protective shell.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Which animal has long ears?",
       "type": "mcq",
+      "prompt": "Which animal has long ears?",
       "options": {
         "choices": [
-          "rabbit",
-          "frog",
-          "goat"
+          {
+            "id": "c1",
+            "text": "rabbit"
+          },
+          {
+            "id": "c2",
+            "text": "frog"
+          },
+          {
+            "id": "c3",
+            "text": "goat"
+          }
         ]
       },
-      "correct_answer": "rabbit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Rabbits have long ears.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Which animal gives wool?",
       "type": "mcq",
+      "prompt": "Which animal gives wool?",
       "options": {
         "choices": [
-          "sheep",
-          "zebra",
-          "duck"
+          {
+            "id": "c1",
+            "text": "sheep"
+          },
+          {
+            "id": "c2",
+            "text": "zebra"
+          },
+          {
+            "id": "c3",
+            "text": "duck"
+          }
         ]
       },
-      "correct_answer": "sheep",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sheep give wool.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which animal slithers?",
       "type": "mcq",
+      "prompt": "Which animal slithers?",
       "options": {
         "choices": [
-          "snake",
-          "horse",
-          "dog"
+          {
+            "id": "c1",
+            "text": "snake"
+          },
+          {
+            "id": "c2",
+            "text": "horse"
+          },
+          {
+            "id": "c3",
+            "text": "dog"
+          }
         ]
       },
-      "correct_answer": "snake",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Snakes move by slithering.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Which animal lives in trees?",
       "type": "mcq",
+      "prompt": "Which animal lives in trees?",
       "options": {
         "choices": [
-          "cow",
-          "fish",
-          "monkey"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "fish"
+          },
+          {
+            "id": "c3",
+            "text": "monkey"
+          }
         ]
       },
-      "correct_answer": "monkey",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Monkeys often live in trees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Which animal quacks?",
       "type": "mcq",
+      "prompt": "Which animal quacks?",
       "options": {
         "choices": [
-          "duck",
-          "tiger",
-          "sheep"
+          {
+            "id": "c1",
+            "text": "duck"
+          },
+          {
+            "id": "c2",
+            "text": "tiger"
+          },
+          {
+            "id": "c3",
+            "text": "sheep"
+          }
         ]
       },
-      "correct_answer": "duck",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Ducks make the quacking sound.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Which animal has a pouch for its baby?",
       "type": "mcq",
+      "prompt": "Which animal has a pouch for its baby?",
       "options": {
         "choices": [
-          "bird",
-          "kangaroo",
-          "sheep"
+          {
+            "id": "c1",
+            "text": "bird"
+          },
+          {
+            "id": "c2",
+            "text": "kangaroo"
+          },
+          {
+            "id": "c3",
+            "text": "sheep"
+          }
         ]
       },
-      "correct_answer": "kangaroo",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Female kangaroos carry their underdeveloped young in a specialized abdominal pouch.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which animal is the biggest?",
       "type": "mcq",
+      "prompt": "Which animal is the biggest?",
       "options": {
         "choices": [
-          "cat",
-          "goat",
-          "elephant"
+          {
+            "id": "c1",
+            "text": "cat"
+          },
+          {
+            "id": "c2",
+            "text": "goat"
+          },
+          {
+            "id": "c3",
+            "text": "elephant"
+          }
         ]
       },
-      "correct_answer": "elephant",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The elephant stands as the largest living land mammal across the globe.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which animal has a long neck?",
       "type": "mcq",
+      "prompt": "Which animal has a long neck?",
       "options": {
         "choices": [
-          "lion",
-          "frog",
-          "giraffe"
+          {
+            "id": "c1",
+            "text": "lion"
+          },
+          {
+            "id": "c2",
+            "text": "frog"
+          },
+          {
+            "id": "c3",
+            "text": "giraffe"
+          }
         ]
       },
-      "correct_answer": "giraffe",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Giraffes possess extremely long necks to browse foliage from tall tree canopies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Which animal croaks?",
       "type": "mcq",
+      "prompt": "Which animal croaks?",
       "options": {
         "choices": [
-          "cow",
-          "cat",
-          "frog"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "frog"
+          }
         ]
       },
-      "correct_answer": "frog",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Frogs use their vocal sacs to emit characteristic croaking vocalizations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Which animal can climb trees very well?",
       "type": "mcq",
+      "prompt": "Which animal can climb trees very well?",
       "options": {
         "choices": [
-          "fish",
-          "sheep",
-          "monkey"
+          {
+            "id": "c1",
+            "text": "fish"
+          },
+          {
+            "id": "c2",
+            "text": "sheep"
+          },
+          {
+            "id": "c3",
+            "text": "monkey"
+          }
         ]
       },
-      "correct_answer": "monkey",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Monkeys are highly adapted with prehensile limits or strong grips to climb trees easily.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which animal has a bushy tail?",
       "type": "mcq",
+      "prompt": "Which animal has a bushy tail?",
       "options": {
         "choices": [
-          "fox",
-          "duck",
-          "cow"
+          {
+            "id": "c1",
+            "text": "fox"
+          },
+          {
+            "id": "c2",
+            "text": "duck"
+          },
+          {
+            "id": "c3",
+            "text": "cow"
+          }
         ]
       },
-      "correct_answer": "fox",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Foxes carry prominent, dense, bushy tails often referred to as brushes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Which animal lays eggs?",
       "type": "mcq",
+      "prompt": "Which animal lays eggs?",
       "options": {
         "choices": [
-          "horse",
-          "chicken",
-          "dog"
+          {
+            "id": "c1",
+            "text": "horse"
+          },
+          {
+            "id": "c2",
+            "text": "chicken"
+          },
+          {
+            "id": "c3",
+            "text": "dog"
+          }
         ]
       },
-      "correct_answer": "chicken",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Chickens are birds that reproduce by laying hard-shelled eggs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which animal lives under water?",
       "type": "mcq",
+      "prompt": "Which animal lives under water?",
       "options": {
         "choices": [
-          "octopus",
-          "cat",
-          "monkey"
+          {
+            "id": "c1",
+            "text": "octopus"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "monkey"
+          }
         ]
       },
-      "correct_answer": "octopus",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The octopus is a marine mollusk that resides completely submerged in underwater habitats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which animal has fins?",
       "type": "mcq",
+      "prompt": "Which animal has fins?",
       "options": {
         "choices": [
-          "dog",
-          "sheep",
-          "fish"
+          {
+            "id": "c1",
+            "text": "dog"
+          },
+          {
+            "id": "c2",
+            "text": "sheep"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "fish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Fish use structural bony appendages called fins to navigate, balance, and steer in aquatic environments.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which farm animal oinks?",
       "type": "mcq",
+      "prompt": "Which farm animal oinks?",
       "options": {
         "choices": [
-          "pig",
-          "cow",
-          "goat"
+          {
+            "id": "c1",
+            "text": "pig"
+          },
+          {
+            "id": "c2",
+            "text": "cow"
+          },
+          {
+            "id": "c3",
+            "text": "goat"
+          }
         ]
       },
-      "correct_answer": "pig",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Pigs are domesticated farm animals that communicate with grunting or oinking sounds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which animal has a big horn?",
       "type": "mcq",
+      "prompt": "Which animal has a big horn?",
       "options": {
         "choices": [
-          "rabbit",
-          "rhino",
-          "duck"
+          {
+            "id": "c1",
+            "text": "rabbit"
+          },
+          {
+            "id": "c2",
+            "text": "rhino"
+          },
+          {
+            "id": "c3",
+            "text": "duck"
+          }
         ]
       },
-      "correct_answer": "rhino",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Rhinoceroses have distinctive, prominent keratin horn structures growing from their snout noses.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which animal can run very fast?",
       "type": "mcq",
+      "prompt": "Which animal can run very fast?",
       "options": {
         "choices": [
-          "cheetah",
-          "turtle",
-          "cow"
+          {
+            "id": "c1",
+            "text": "cheetah"
+          },
+          {
+            "id": "c2",
+            "text": "turtle"
+          },
+          {
+            "id": "c3",
+            "text": "cow"
+          }
         ]
       },
-      "correct_answer": "cheetah",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The cheetah can cross ground rapidly, hitting land speeds unmatched by any other land creature.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Which animal loves bananas?",
       "type": "mcq",
+      "prompt": "Which animal loves bananas?",
       "options": {
         "choices": [
-          "goat",
-          "monkey",
-          "horse"
+          {
+            "id": "c1",
+            "text": "goat"
+          },
+          {
+            "id": "c2",
+            "text": "monkey"
+          },
+          {
+            "id": "c3",
+            "text": "horse"
+          }
         ]
       },
-      "correct_answer": "monkey",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Monkeys naturally consume various wild fruits, famously including bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which animal has hooves?",
       "type": "mcq",
+      "prompt": "Which animal has hooves?",
       "options": {
         "choices": [
-          "tiger",
-          "cat",
-          "horse"
+          {
+            "id": "c1",
+            "text": "tiger"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "horse"
+          }
         ]
       },
-      "correct_answer": "horse",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Horses run on specialized ungulate digital extremities protected by hard keratinous hooves.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Which bird cannot fly?",
       "type": "mcq",
+      "prompt": "Which bird cannot fly?",
       "options": {
         "choices": [
-          "eagle",
-          "cat",
-          "penguin"
+          {
+            "id": "c1",
+            "text": "eagle"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "penguin"
+          }
         ]
       },
-      "correct_answer": "penguin",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Penguins are flightless marine birds whose wings have adapted into functional underwater flippers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which animal has a fluffy tail?",
       "type": "mcq",
+      "prompt": "Which animal has a fluffy tail?",
       "options": {
         "choices": [
-          "snake",
-          "squirrel",
-          "cow"
+          {
+            "id": "c1",
+            "text": "snake"
+          },
+          {
+            "id": "c2",
+            "text": "squirrel"
+          },
+          {
+            "id": "c3",
+            "text": "cow"
+          }
         ]
       },
-      "correct_answer": "squirrel",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Squirrels maintain dense, heavily furred, fluffy tails used for balance and communication.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which animal is very tall?",
       "type": "mcq",
+      "prompt": "Which animal is very tall?",
       "options": {
         "choices": [
-          "rabbit",
-          "sheep",
-          "giraffe"
+          {
+            "id": "c1",
+            "text": "rabbit"
+          },
+          {
+            "id": "c2",
+            "text": "sheep"
+          },
+          {
+            "id": "c3",
+            "text": "giraffe"
+          }
         ]
       },
-      "correct_answer": "giraffe",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Due to extended leg and neck frameworks, the giraffe is the tallest living land animal species.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which animal lives in cold places?",
       "type": "mcq",
+      "prompt": "Which animal lives in cold places?",
       "options": {
         "choices": [
-          "polar bear",
-          "lion",
-          "frog"
+          {
+            "id": "c1",
+            "text": "polar bear"
+          },
+          {
+            "id": "c2",
+            "text": "lion"
+          },
+          {
+            "id": "c3",
+            "text": "frog"
+          }
         ]
       },
-      "correct_answer": "polar bear",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Polar bears are specialized maritime carnivores residing amidst arctic ice fields.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which animal has sharp claws?",
       "type": "mcq",
+      "prompt": "Which animal has sharp claws?",
       "options": {
         "choices": [
-          "cow",
-          "tiger",
-          "sheep"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "tiger"
+          },
+          {
+            "id": "c3",
+            "text": "sheep"
+          }
         ]
       },
-      "correct_answer": "tiger",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Tigers use powerful, protractible, sharp claws to climb, capture, and hold target prey items.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which animal lives in the desert?",
       "type": "mcq",
+      "prompt": "Which animal lives in the desert?",
       "options": {
         "choices": [
-          "fish",
-          "monkey",
-          "camel"
+          {
+            "id": "c1",
+            "text": "fish"
+          },
+          {
+            "id": "c2",
+            "text": "monkey"
+          },
+          {
+            "id": "c3",
+            "text": "camel"
+          }
         ]
       },
-      "correct_answer": "camel",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Camels feature biological adaptations, like water storage tissue, suited to arid desert ranges.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which small animal squeaks?",
       "type": "mcq",
+      "prompt": "Which small animal squeaks?",
       "options": {
         "choices": [
-          "cow",
-          "horse",
-          "mouse"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "horse"
+          },
+          {
+            "id": "c3",
+            "text": "mouse"
+          }
         ]
       },
-      "correct_answer": "mouse",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Mice are compact rodents that communicate via high-pitched acoustic squeaking sounds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which animal likes honey?",
       "type": "mcq",
+      "prompt": "Which animal likes honey?",
       "options": {
         "choices": [
-          "bear",
-          "wolf",
-          "goat"
+          {
+            "id": "c1",
+            "text": "bear"
+          },
+          {
+            "id": "c2",
+            "text": "wolf"
+          },
+          {
+            "id": "c3",
+            "text": "goat"
+          }
         ]
       },
-      "correct_answer": "bear",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Bears often target bee hives to ingest nutritional larvae frames and sweet honey stores.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which animal walks sideways?",
       "type": "mcq",
+      "prompt": "Which animal walks sideways?",
       "options": {
         "choices": [
-          "duck",
-          "crab",
-          "lion"
+          {
+            "id": "c1",
+            "text": "duck"
+          },
+          {
+            "id": "c2",
+            "text": "crab"
+          },
+          {
+            "id": "c3",
+            "text": "lion"
+          }
         ]
       },
-      "correct_answer": "crab",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Crabs feature leg joints structured to rotate or push best in lateral, sideways direction loops.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which animal has tusks?",
       "type": "mcq",
+      "prompt": "Which animal has tusks?",
       "options": {
         "choices": [
-          "rabbit",
-          "sheep",
-          "elephant"
+          {
+            "id": "c1",
+            "text": "rabbit"
+          },
+          {
+            "id": "c2",
+            "text": "sheep"
+          },
+          {
+            "id": "c3",
+            "text": "elephant"
+          }
         ]
       },
-      "correct_answer": "elephant",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Elephants produce elongated, continuous-growth incisor teeth structures known as tusks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which animal lives in the jungle?",
       "type": "mcq",
+      "prompt": "Which animal lives in the jungle?",
       "options": {
         "choices": [
-          "tiger",
-          "chicken",
-          "cow"
+          {
+            "id": "c1",
+            "text": "tiger"
+          },
+          {
+            "id": "c2",
+            "text": "chicken"
+          },
+          {
+            "id": "c3",
+            "text": "cow"
+          }
         ]
       },
-      "correct_answer": "tiger",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Tigers are apex forest predators inhabiting diverse woodland and jungle ecosystems.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Which animal has a long tail and climbs trees?",
       "type": "mcq",
+      "prompt": "Which animal has a long tail and climbs trees?",
       "options": {
         "choices": [
-          "cow",
-          "monkey",
-          "bird"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "monkey"
+          },
+          {
+            "id": "c3",
+            "text": "bird"
+          }
         ]
       },
-      "correct_answer": "monkey",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Monkeys pair active tree-climbing maneuvers with stabilizing, extended tail constructs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which animal is pink and lives in water and mud?",
       "type": "mcq",
+      "prompt": "Which animal is pink and lives in water and mud?",
       "options": {
         "choices": [
-          "dog",
-          "chicken",
-          "pig"
+          {
+            "id": "c1",
+            "text": "dog"
+          },
+          {
+            "id": "c2",
+            "text": "chicken"
+          },
+          {
+            "id": "c3",
+            "text": "pig"
+          }
         ]
       },
-      "correct_answer": "pig",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Pigs use wallowing behaviors in wet mud to cool down their skins and guard against insects.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which animal is known for being slow?",
       "type": "mcq",
+      "prompt": "Which animal is known for being slow?",
       "options": {
         "choices": [
-          "horse",
-          "turtle",
-          "lion"
+          {
+            "id": "c1",
+            "text": "horse"
+          },
+          {
+            "id": "c2",
+            "text": "turtle"
+          },
+          {
+            "id": "c3",
+            "text": "lion"
+          }
         ]
       },
-      "correct_answer": "turtle",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Turtles demonstrate a deliberate, slow pace on land due to their protective heavy shell structures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which animal makes webs?",
       "type": "mcq",
+      "prompt": "Which animal makes webs?",
       "options": {
         "choices": [
-          "snake",
-          "frog",
-          "spider"
+          {
+            "id": "c1",
+            "text": "snake"
+          },
+          {
+            "id": "c2",
+            "text": "frog"
+          },
+          {
+            "id": "c3",
+            "text": "spider"
+          }
         ]
       },
-      "correct_answer": "spider",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Spiders use silk glands to weave webs configured to capture incoming insects.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which animal swims with flippers?",
       "type": "mcq",
+      "prompt": "Which animal swims with flippers?",
       "options": {
         "choices": [
-          "goat",
-          "seal",
-          "cow"
+          {
+            "id": "c1",
+            "text": "goat"
+          },
+          {
+            "id": "c2",
+            "text": "seal"
+          },
+          {
+            "id": "c3",
+            "text": "cow"
+          }
         ]
       },
-      "correct_answer": "seal",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Seals carry streamlined marine limbs reshaped into flexible swimming flippers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which animal has gray skin?",
       "type": "mcq",
+      "prompt": "Which animal has gray skin?",
       "options": {
         "choices": [
-          "horse",
-          "elephant",
-          "cat"
+          {
+            "id": "c1",
+            "text": "horse"
+          },
+          {
+            "id": "c2",
+            "text": "elephant"
+          },
+          {
+            "id": "c3",
+            "text": "cat"
+          }
         ]
       },
-      "correct_answer": "elephant",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Elephants typically exhibit thick, deep gray epidermal skin surfaces.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Which animal hops on two legs?",
       "type": "mcq",
+      "prompt": "Which animal hops on two legs?",
       "options": {
         "choices": [
-          "kangaroo",
-          "cow",
-          "sheep"
+          {
+            "id": "c1",
+            "text": "kangaroo"
+          },
+          {
+            "id": "c2",
+            "text": "cow"
+          },
+          {
+            "id": "c3",
+            "text": "sheep"
+          }
         ]
       },
-      "correct_answer": "kangaroo",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The kangaroo uses a specialized bipedal hopping mechanism to cover vast distances rapidly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Which animal gives us wool?",
       "type": "mcq",
+      "prompt": "Which animal gives us wool?",
       "options": {
         "choices": [
-          "lion",
-          "sheep",
-          "zebra"
+          {
+            "id": "c1",
+            "text": "lion"
+          },
+          {
+            "id": "c2",
+            "text": "sheep"
+          },
+          {
+            "id": "c3",
+            "text": "zebra"
+          }
         ]
       },
-      "correct_answer": "sheep",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Domestic sheep produce a thick, treatable fleece coat that humans shear for wool fiber textile processing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which animal lives in the ocean?",
       "type": "mcq",
+      "prompt": "Which animal lives in the ocean?",
       "options": {
         "choices": [
-          "dolphin",
-          "giraffe",
-          "monkey"
+          {
+            "id": "c1",
+            "text": "dolphin"
+          },
+          {
+            "id": "c2",
+            "text": "giraffe"
+          },
+          {
+            "id": "c3",
+            "text": "monkey"
+          }
         ]
       },
-      "correct_answer": "dolphin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dolphins are aquatic mammals that reside entirely within maritime oceanic domains.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which animal has black and white stripes?",
       "type": "mcq",
+      "prompt": "Which animal has black and white stripes?",
       "options": {
         "choices": [
-          "bear",
-          "zebra",
-          "tiger"
+          {
+            "id": "c1",
+            "text": "bear"
+          },
+          {
+            "id": "c2",
+            "text": "zebra"
+          },
+          {
+            "id": "c3",
+            "text": "tiger"
+          }
         ]
       },
-      "correct_answer": "zebra",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Zebras present iconic, disruptive pelage coloration split into black and white linear stripes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which animal says 'moo'?",
       "type": "mcq",
+      "prompt": "Which animal says 'moo'?",
       "options": {
         "choices": [
-          "cow",
-          "bee",
-          "owl"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "owl"
+          }
         ]
       },
-      "correct_answer": "cow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Domestic cattle produce a low, resonant 'moo' sound.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Which animal can mimic humans?",
       "type": "mcq",
+      "prompt": "Which animal can mimic humans?",
       "options": {
         "choices": [
-          "cat",
-          "bird",
-          "parrot"
+          {
+            "id": "c1",
+            "text": "cat"
+          },
+          {
+            "id": "c2",
+            "text": "bird"
+          },
+          {
+            "id": "c3",
+            "text": "parrot"
+          }
         ]
       },
-      "correct_answer": "parrot",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Parrots contain vocal structures capable of replicating human spoken sound waves accurately.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Which animal sleeps hanging upside down?",
       "type": "mcq",
+      "prompt": "Which animal sleeps hanging upside down?",
       "options": {
         "choices": [
-          "squirrel",
-          "dog",
-          "bat"
+          {
+            "id": "c1",
+            "text": "squirrel"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "bat"
+          }
         ]
       },
-      "correct_answer": "bat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Bats hold specialized claw locks allowing them to rest suspended upside down safely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which animal makes honey?",
       "type": "mcq",
+      "prompt": "Which animal makes honey?",
       "options": {
         "choices": [
-          "butterfly",
-          "bee",
-          "snail"
+          {
+            "id": "c1",
+            "text": "butterfly"
+          },
+          {
+            "id": "c2",
+            "text": "bee"
+          },
+          {
+            "id": "c3",
+            "text": "snail"
+          }
         ]
       },
-      "correct_answer": "bee",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Honeybees collect floral nectar and process it biochemically inside hives into honey stores.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which animal is known as man's best friend?",
       "type": "mcq",
+      "prompt": "Which animal is known as man's best friend?",
       "options": {
         "choices": [
-          "dog",
-          "snake",
-          "fish"
+          {
+            "id": "c1",
+            "text": "dog"
+          },
+          {
+            "id": "c2",
+            "text": "snake"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "dog",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dogs earned this title over millennia due to close companion bonds with human households.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Which animal lives in a hive?",
       "type": "mcq",
+      "prompt": "Which animal lives in a hive?",
       "options": {
         "choices": [
-          "camel",
-          "mouse",
-          "bee"
+          {
+            "id": "c1",
+            "text": "camel"
+          },
+          {
+            "id": "c2",
+            "text": "mouse"
+          },
+          {
+            "id": "c3",
+            "text": "bee"
+          }
         ]
       },
-      "correct_answer": "bee",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Bees structure highly social insect colonies inside complex wax hives.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which animal has tusks?",
       "type": "mcq",
+      "prompt": "Which animal has tusks?",
       "options": {
         "choices": [
-          "rabbit",
-          "elephant",
-          "goat"
+          {
+            "id": "c1",
+            "text": "rabbit"
+          },
+          {
+            "id": "c2",
+            "text": "elephant"
+          },
+          {
+            "id": "c3",
+            "text": "goat"
+          }
         ]
       },
-      "correct_answer": "elephant",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Elongated, exposed ivory incisors formulate the distinctive tusks of elephants.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which animal is the largest on land?",
       "type": "mcq",
+      "prompt": "Which animal is the largest on land?",
       "options": {
         "choices": [
-          "lion",
-          "elephant",
-          "tiger"
+          {
+            "id": "c1",
+            "text": "lion"
+          },
+          {
+            "id": "c2",
+            "text": "elephant"
+          },
+          {
+            "id": "c3",
+            "text": "tiger"
+          }
         ]
       },
-      "correct_answer": "elephant",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The African bush elephant remains the heaviest and largest standing terrestrial mammal.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which animal can change its color?",
       "type": "mcq",
+      "prompt": "Which animal can change its color?",
       "options": {
         "choices": [
-          "chameleon",
-          "cow",
-          "bear"
+          {
+            "id": "c1",
+            "text": "chameleon"
+          },
+          {
+            "id": "c2",
+            "text": "cow"
+          },
+          {
+            "id": "c3",
+            "text": "bear"
+          }
         ]
       },
-      "correct_answer": "chameleon",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Chameleons alter skin pigment cell layouts to change color profiles for display and camouflage.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Which animal lives in the Arctic?",
       "type": "mcq",
+      "prompt": "Which animal lives in the Arctic?",
       "options": {
         "choices": [
-          "cheetah",
-          "polar bear",
-          "horse"
+          {
+            "id": "c1",
+            "text": "cheetah"
+          },
+          {
+            "id": "c2",
+            "text": "polar bear"
+          },
+          {
+            "id": "c3",
+            "text": "horse"
+          }
         ]
       },
-      "correct_answer": "polar bear",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Polar bears possess specialized evolutionary fat and fur layers to hunt across freezing Arctic waters.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which animal can swim and waddle?",
       "type": "mcq",
+      "prompt": "Which animal can swim and waddle?",
       "options": {
         "choices": [
-          "panda",
-          "penguin",
-          "camel"
+          {
+            "id": "c1",
+            "text": "panda"
+          },
+          {
+            "id": "c2",
+            "text": "penguin"
+          },
+          {
+            "id": "c3",
+            "text": "camel"
+          }
         ]
       },
-      "correct_answer": "penguin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Penguins demonstrate a distinct terrestrial waddling stride while acting as expert swimming marine divers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which animal has a pouch for its baby?",
       "type": "mcq",
+      "prompt": "Which animal has a pouch for its baby?",
       "options": {
         "choices": [
-          "kangaroo",
-          "goat",
-          "lion"
+          {
+            "id": "c1",
+            "text": "kangaroo"
+          },
+          {
+            "id": "c2",
+            "text": "goat"
+          },
+          {
+            "id": "c3",
+            "text": "lion"
+          }
         ]
       },
-      "correct_answer": "kangaroo",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Marsupials like kangaroos rear vulnerable neonate joeys inside an external maternal pouch.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which animal is pink and lives on farms?",
       "type": "mcq",
+      "prompt": "Which animal is pink and lives on farms?",
       "options": {
         "choices": [
-          "bear",
-          "wolf",
-          "pig"
+          {
+            "id": "c1",
+            "text": "bear"
+          },
+          {
+            "id": "c2",
+            "text": "wolf"
+          },
+          {
+            "id": "c3",
+            "text": "pig"
+          }
         ]
       },
-      "correct_answer": "pig",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Domesticated industrial swine breeds often present a pale pink body skin coloring.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which animal has a big horn on its nose?",
       "type": "mcq",
+      "prompt": "Which animal has a big horn on its nose?",
       "options": {
         "choices": [
-          "mouse",
-          "rhinoceros",
-          "deer"
+          {
+            "id": "c1",
+            "text": "mouse"
+          },
+          {
+            "id": "c2",
+            "text": "rhinoceros"
+          },
+          {
+            "id": "c3",
+            "text": "deer"
+          }
         ]
       },
-      "correct_answer": "rhinoceros",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The name 'rhinoceros' literally highlights the dense horn projecting over the animal's nasal bridge.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which animal can climb trees easily?",
       "type": "mcq",
+      "prompt": "Which animal can climb trees easily?",
       "options": {
         "choices": [
-          "cow",
-          "fish",
-          "monkey"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "fish"
+          },
+          {
+            "id": "c3",
+            "text": "monkey"
+          }
         ]
       },
-      "correct_answer": "monkey",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Climbing behaviors are second nature to primates due to their dextrous limb configurations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which animal has wings but cannot fly?",
       "type": "mcq",
+      "prompt": "Which animal has wings but cannot fly?",
       "options": {
         "choices": [
-          "eagle",
-          "ostrich",
-          "bat"
+          {
+            "id": "c1",
+            "text": "eagle"
+          },
+          {
+            "id": "c2",
+            "text": "ostrich"
+          },
+          {
+            "id": "c3",
+            "text": "bat"
+          }
         ]
       },
-      "correct_answer": "ostrich",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The ostrich is a giant ratite bird carrying evolutionary wings repurposed for display and balance rather than flight.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which animal is known for jumping and long legs?",
       "type": "mcq",
+      "prompt": "Which animal is known for jumping and long legs?",
       "options": {
         "choices": [
-          "snake",
-          "turtle",
-          "kangaroo"
+          {
+            "id": "c1",
+            "text": "snake"
+          },
+          {
+            "id": "c2",
+            "text": "turtle"
+          },
+          {
+            "id": "c3",
+            "text": "kangaroo"
+          }
         ]
       },
-      "correct_answer": "kangaroo",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Strong, elongated hind leg structures power the jumping locomotion of the kangaroo.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which animal curls into a ball?",
       "type": "mcq",
+      "prompt": "Which animal curls into a ball?",
       "options": {
         "choices": [
-          "zebra",
-          "hedgehog",
-          "goat"
+          {
+            "id": "c1",
+            "text": "zebra"
+          },
+          {
+            "id": "c2",
+            "text": "hedgehog"
+          },
+          {
+            "id": "c3",
+            "text": "goat"
+          }
         ]
       },
-      "correct_answer": "hedgehog",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Hedgehogs roll into defensive spherical shapes, exposing an exterior array of protective sharp spines.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which animal swings from tree to tree?",
       "type": "mcq",
+      "prompt": "Which animal swings from tree to tree?",
       "options": {
         "choices": [
-          "snake",
-          "cow",
-          "monkey"
+          {
+            "id": "c1",
+            "text": "snake"
+          },
+          {
+            "id": "c2",
+            "text": "cow"
+          },
+          {
+            "id": "c3",
+            "text": "monkey"
+          }
         ]
       },
-      "correct_answer": "monkey",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Monkeys travel via brachiation or agile leaps across forest tree canopies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which animal has a big hump?",
       "type": "mcq",
+      "prompt": "Which animal has a big hump?",
       "options": {
         "choices": [
-          "dog",
-          "horse",
-          "camel"
+          {
+            "id": "c1",
+            "text": "dog"
+          },
+          {
+            "id": "c2",
+            "text": "horse"
+          },
+          {
+            "id": "c3",
+            "text": "camel"
+          }
         ]
       },
-      "correct_answer": "camel",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Camels consolidate fatty reserves into single or double dorsal hump zones to survive lean periods.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which animal can live both in water and on land?",
       "type": "mcq",
+      "prompt": "Which animal can live both in water and on land?",
       "options": {
         "choices": [
-          "chicken",
-          "frog",
-          "tiger"
+          {
+            "id": "c1",
+            "text": "chicken"
+          },
+          {
+            "id": "c2",
+            "text": "frog"
+          },
+          {
+            "id": "c3",
+            "text": "tiger"
+          }
         ]
       },
-      "correct_answer": "frog",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Frogs are amphibious organisms transitioning life cycles seamlessly across watery and terrestrial platforms.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which animal sleeps most of the day?",
       "type": "mcq",
+      "prompt": "Which animal sleeps most of the day?",
       "options": {
         "choices": [
-          "squirrel",
-          "koala",
-          "duck"
+          {
+            "id": "c1",
+            "text": "squirrel"
+          },
+          {
+            "id": "c2",
+            "text": "koala"
+          },
+          {
+            "id": "c3",
+            "text": "duck"
+          }
         ]
       },
-      "correct_answer": "koala",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Koalas maintain extremely low metabolic thresholds, sleeping up to twenty hours daily while processing eucalyptus leaves.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which animal has eight legs?",
       "type": "mcq",
+      "prompt": "Which animal has eight legs?",
       "options": {
         "choices": [
-          "spider",
-          "bird",
-          "fish"
+          {
+            "id": "c1",
+            "text": "spider"
+          },
+          {
+            "id": "c2",
+            "text": "bird"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "spider",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Spiders belong to the class Arachnida, which systematically presents an eight-legged anatomical standard.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Which animal purrs?",
       "type": "mcq",
+      "prompt": "Which animal purrs?",
       "options": {
         "choices": [
-          "cat",
-          "fish",
-          "rabbit"
+          {
+            "id": "c1",
+            "text": "cat"
+          },
+          {
+            "id": "c2",
+            "text": "fish"
+          },
+          {
+            "id": "c3",
+            "text": "rabbit"
+          }
         ]
       },
-      "correct_answer": "cat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Felines generate a low, vibrating acoustic purr sign to demonstrate safety and comfort states.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which animal has a bushy tail and likes nuts?",
       "type": "mcq",
+      "prompt": "Which animal has a bushy tail and likes nuts?",
       "options": {
         "choices": [
-          "cow",
-          "squirrel",
-          "goat"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "squirrel"
+          },
+          {
+            "id": "c3",
+            "text": "goat"
+          }
         ]
       },
-      "correct_answer": "squirrel",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Squirrels rely on large bushy tails for stability while harvesting or caching tree nuts.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which animal lives in a burrow?",
       "type": "mcq",
+      "prompt": "Which animal lives in a burrow?",
       "options": {
         "choices": [
-          "rabbit",
-          "lion",
-          "zebra"
+          {
+            "id": "c1",
+            "text": "rabbit"
+          },
+          {
+            "id": "c2",
+            "text": "lion"
+          },
+          {
+            "id": "c3",
+            "text": "zebra"
+          }
         ]
       },
-      "correct_answer": "rabbit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Rabbits create secure underground burrow networks, often called warrens, to evade predators.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Which animal is known for its black mask on its face?",
       "type": "mcq",
+      "prompt": "Which animal is known for its black mask on its face?",
       "options": {
         "choices": [
-          "raccoon",
-          "giraffe",
-          "sheep"
+          {
+            "id": "c1",
+            "text": "raccoon"
+          },
+          {
+            "id": "c2",
+            "text": "giraffe"
+          },
+          {
+            "id": "c3",
+            "text": "sheep"
+          }
         ]
       },
-      "correct_answer": "raccoon",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Raccoons feature a prominent, distinctive patch of dark fur surrounding both optical facial tracks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Which animal is the fastest on land?",
       "type": "mcq",
+      "prompt": "Which animal is the fastest on land?",
       "options": {
         "choices": [
-          "elephant",
-          "cheetah",
-          "buffalo"
+          {
+            "id": "c1",
+            "text": "elephant"
+          },
+          {
+            "id": "c2",
+            "text": "cheetah"
+          },
+          {
+            "id": "c3",
+            "text": "buffalo"
+          }
         ]
       },
-      "correct_answer": "cheetah",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The flexible skeletal design of the cheetah lets it run faster than any other terrestrial organism.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Which animal eats bamboo?",
       "type": "mcq",
+      "prompt": "Which animal eats bamboo?",
       "options": {
         "choices": [
-          "elephant",
-          "wolf",
-          "panda"
+          {
+            "id": "c1",
+            "text": "elephant"
+          },
+          {
+            "id": "c2",
+            "text": "wolf"
+          },
+          {
+            "id": "c3",
+            "text": "panda"
+          }
         ]
       },
-      "correct_answer": "panda",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Giant pandas maintain highly specialized dietary tracts dependent almost exclusively on raw bamboo stalks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Which animal has a long pink tongue?",
       "type": "mcq",
+      "prompt": "Which animal has a long pink tongue?",
       "options": {
         "choices": [
-          "giraffe",
-          "sheep",
-          "chicken"
+          {
+            "id": "c1",
+            "text": "giraffe"
+          },
+          {
+            "id": "c2",
+            "text": "sheep"
+          },
+          {
+            "id": "c3",
+            "text": "chicken"
+          }
         ]
       },
-      "correct_answer": "giraffe",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Giraffes deploy strong, prehensile tongues reaching up to 45 centimeters to pluck leaves from acacia thorns safely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Which animal lives in a pack?",
       "type": "mcq",
+      "prompt": "Which animal lives in a pack?",
       "options": {
         "choices": [
-          "horse",
-          "wolf",
-          "duck"
+          {
+            "id": "c1",
+            "text": "horse"
+          },
+          {
+            "id": "c2",
+            "text": "wolf"
+          },
+          {
+            "id": "c3",
+            "text": "duck"
+          }
         ]
       },
-      "correct_answer": "wolf",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Wolves maintain tightly coordinated family social orders known as packs to hunt and defend territories.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which animal has spots and runs very fast?",
       "type": "mcq",
+      "prompt": "Which animal has spots and runs very fast?",
       "options": {
         "choices": [
-          "hippo",
-          "cheetah",
-          "goat"
+          {
+            "id": "c1",
+            "text": "hippo"
+          },
+          {
+            "id": "c2",
+            "text": "cheetah"
+          },
+          {
+            "id": "c3",
+            "text": "goat"
+          }
         ]
       },
-      "correct_answer": "cheetah",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The cheetah tracks down targets utilizing a camouflaging spotted coat pattern matched with sprint mechanics.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Which bird is known for its bright pink feathers?",
       "type": "mcq",
+      "prompt": "Which bird is known for its bright pink feathers?",
       "options": {
         "choices": [
-          "hawk",
-          "flamingo",
-          "owl"
+          {
+            "id": "c1",
+            "text": "hawk"
+          },
+          {
+            "id": "c2",
+            "text": "flamingo"
+          },
+          {
+            "id": "c3",
+            "text": "owl"
+          }
         ]
       },
-      "correct_answer": "flamingo",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Flamingos process carotenoid pigments from their aquatic diet, transforming their feather color into bright pink.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which bird is famous for mimicking sounds and speech?",
       "type": "mcq",
+      "prompt": "Which bird is famous for mimicking sounds and speech?",
       "options": {
         "choices": [
-          "parrot",
-          "eagle",
-          "swan"
+          {
+            "id": "c1",
+            "text": "parrot"
+          },
+          {
+            "id": "c2",
+            "text": "eagle"
+          },
+          {
+            "id": "c3",
+            "text": "swan"
+          }
         ]
       },
-      "correct_answer": "parrot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Parrots mirror environmental calls and human voices through learned behavioral mimicry tracks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which bird hunts at night and has large eyes?",
       "type": "mcq",
+      "prompt": "Which bird hunts at night and has large eyes?",
       "options": {
         "choices": [
-          "duck",
-          "owl",
-          "chicken"
+          {
+            "id": "c1",
+            "text": "duck"
+          },
+          {
+            "id": "c2",
+            "text": "owl"
+          },
+          {
+            "id": "c3",
+            "text": "chicken"
+          }
         ]
       },
-      "correct_answer": "owl",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Owls are nocturnal avian hunters carrying large forward-facing eyes to track prey in dim conditions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Which bird is the smallest in the world?",
       "type": "mcq",
+      "prompt": "Which bird is the smallest in the world?",
       "options": {
         "choices": [
-          "goose",
-          "turkey",
-          "hummingbird"
+          {
+            "id": "c1",
+            "text": "goose"
+          },
+          {
+            "id": "c2",
+            "text": "turkey"
+          },
+          {
+            "id": "c3",
+            "text": "hummingbird"
+          }
         ]
       },
-      "correct_answer": "hummingbird",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Hummingbirds, specifically the bee hummingbird variant, represent the absolute smallest avian mass metrics globally.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which bird is often used to symbolize peace?",
       "type": "mcq",
+      "prompt": "Which bird is often used to symbolize peace?",
       "options": {
         "choices": [
-          "dove",
-          "penguin",
-          "ostrich"
+          {
+            "id": "c1",
+            "text": "dove"
+          },
+          {
+            "id": "c2",
+            "text": "penguin"
+          },
+          {
+            "id": "c3",
+            "text": "ostrich"
+          }
         ]
       },
-      "correct_answer": "dove",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "White doves are historically recognized across cultural contexts as symbols representing peace and tranquility.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which bird can swim but cannot fly?",
       "type": "mcq",
+      "prompt": "Which bird can swim but cannot fly?",
       "options": {
         "choices": [
-          "penguin",
-          "eagle",
-          "falcon"
+          {
+            "id": "c1",
+            "text": "penguin"
+          },
+          {
+            "id": "c2",
+            "text": "eagle"
+          },
+          {
+            "id": "c3",
+            "text": "falcon"
+          }
         ]
       },
-      "correct_answer": "penguin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Penguins feature high-density bones and slick waterproof plumage crafted for marine swimming instead of flight.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which bird is known for its colorful tail feathers?",
       "type": "mcq",
+      "prompt": "Which bird is known for its colorful tail feathers?",
       "options": {
         "choices": [
-          "peacock",
-          "crow",
-          "crane"
+          {
+            "id": "c1",
+            "text": "peacock"
+          },
+          {
+            "id": "c2",
+            "text": "crow"
+          },
+          {
+            "id": "c3",
+            "text": "crane"
+          }
         ]
       },
-      "correct_answer": "peacock",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Male peacocks grow grand, colorful tail coverts adorned with iridescing ocelli 'eyespots' to attract mates.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Which bird builds large nests in tall trees?",
       "type": "mcq",
+      "prompt": "Which bird builds large nests in tall trees?",
       "options": {
         "choices": [
-          "eagle",
-          "chickadee",
-          "finch"
+          {
+            "id": "c1",
+            "text": "eagle"
+          },
+          {
+            "id": "c2",
+            "text": "chickadee"
+          },
+          {
+            "id": "c3",
+            "text": "finch"
+          }
         ]
       },
-      "correct_answer": "eagle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Eagles construct immense stick nests, called eyries, high inside sturdy tree lines or over cliffs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Which bird is known for its strong beak used to crack seeds?",
       "type": "mcq",
+      "prompt": "Which bird is known for its strong beak used to crack seeds?",
       "options": {
         "choices": [
-          "sparrow",
-          "pelican",
-          "gull"
+          {
+            "id": "c1",
+            "text": "sparrow"
+          },
+          {
+            "id": "c2",
+            "text": "pelican"
+          },
+          {
+            "id": "c3",
+            "text": "gull"
+          }
         ]
       },
-      "correct_answer": "sparrow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sparrows operate with compact, conical, robust beaks optimized to split open seed husks mechanically.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Which bird soars high and watches for prey?",
       "type": "mcq",
+      "prompt": "Which bird soars high and watches for prey?",
       "options": {
         "choices": [
-          "flamingo",
-          "puffin",
-          "hawk"
+          {
+            "id": "c1",
+            "text": "flamingo"
+          },
+          {
+            "id": "c2",
+            "text": "puffin"
+          },
+          {
+            "id": "c3",
+            "text": "hawk"
+          }
         ]
       },
-      "correct_answer": "hawk",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Hawks leverage large thermals to soar at high altitudes while using sharp vision to detect movement below.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which bird has webbed feet?",
       "type": "mcq",
+      "prompt": "Which bird has webbed feet?",
       "options": {
         "choices": [
-          "goose",
-          "robin",
-          "falcon"
+          {
+            "id": "c1",
+            "text": "goose"
+          },
+          {
+            "id": "c2",
+            "text": "robin"
+          },
+          {
+            "id": "c3",
+            "text": "falcon"
+          }
         ]
       },
-      "correct_answer": "goose",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Geese carry interdigital skin webs on their feet to paddle smoothly through aquatic environments.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Which bird is known for tapping on tree trunks?",
       "type": "mcq",
+      "prompt": "Which bird is known for tapping on tree trunks?",
       "options": {
         "choices": [
-          "peacock",
-          "owl",
-          "woodpecker"
+          {
+            "id": "c1",
+            "text": "peacock"
+          },
+          {
+            "id": "c2",
+            "text": "owl"
+          },
+          {
+            "id": "c3",
+            "text": "woodpecker"
+          }
         ]
       },
-      "correct_answer": "woodpecker",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Woodpeckers hammer tree bark rapidly with chisel-like bills to locate insects hiding underneath.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Which bird carries fish in its big mouth pouch?",
       "type": "mcq",
+      "prompt": "Which bird carries fish in its big mouth pouch?",
       "options": {
         "choices": [
-          "pelican",
-          "vulture",
-          "pigeon"
+          {
+            "id": "c1",
+            "text": "pelican"
+          },
+          {
+            "id": "c2",
+            "text": "vulture"
+          },
+          {
+            "id": "c3",
+            "text": "pigeon"
+          }
         ]
       },
-      "correct_answer": "pelican",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Pelicans have an expandable gular pouch underneath their bill to scoop up and drain water away from target fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

@@ -1,1700 +1,3383 @@
 {
   "_source_file": "level1_eng_reading_vocabulary_1.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 99,
-  "exercise": {
-    "slug": "eng-reading-vocabulary-1",
-    "title": "Eng Reading Vocabulary 1",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 99,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.532Z",
+  "slug": "eng-reading-vocabulary-1",
+  "title": "Eng Reading Vocabulary 1",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 99,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "watermelon",
-          "apple",
-          "water"
+          {
+            "id": "c1",
+            "text": "watermelon"
+          },
+          {
+            "id": "c2",
+            "text": "apple"
+          },
+          {
+            "id": "c3",
+            "text": "water"
+          }
         ]
       },
-      "correct_answer": "watermelon",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is watermelon.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/1.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/1.png"
+      },
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "watermelon",
-          "strawberry",
-          "water"
+          {
+            "id": "c1",
+            "text": "watermelon"
+          },
+          {
+            "id": "c2",
+            "text": "strawberry"
+          },
+          {
+            "id": "c3",
+            "text": "water"
+          }
         ]
       },
-      "correct_answer": "strawberry",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is strawberry.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/2.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/2.png"
+      },
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "bananas",
-          "strawberries",
-          "water"
+          {
+            "id": "c1",
+            "text": "bananas"
+          },
+          {
+            "id": "c2",
+            "text": "strawberries"
+          },
+          {
+            "id": "c3",
+            "text": "water"
+          }
         ]
       },
-      "correct_answer": "bananas",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is bananas.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/3.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/3.png"
+      },
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "bananas",
-          "strawberries",
-          "pineapple"
+          {
+            "id": "c1",
+            "text": "bananas"
+          },
+          {
+            "id": "c2",
+            "text": "strawberries"
+          },
+          {
+            "id": "c3",
+            "text": "pineapple"
+          }
         ]
       },
-      "correct_answer": "pineapple",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is pineapple.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/4.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/4.png"
+      },
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "bananas",
-          "strawberries",
-          "grapes"
+          {
+            "id": "c1",
+            "text": "bananas"
+          },
+          {
+            "id": "c2",
+            "text": "strawberries"
+          },
+          {
+            "id": "c3",
+            "text": "grapes"
+          }
         ]
       },
-      "correct_answer": "grapes",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is grapes.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/5.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/5.png"
+      },
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "lemons",
-          "lemonade",
-          "grapes"
+          {
+            "id": "c1",
+            "text": "lemons"
+          },
+          {
+            "id": "c2",
+            "text": "lemonade"
+          },
+          {
+            "id": "c3",
+            "text": "grapes"
+          }
         ]
       },
-      "correct_answer": "lemons",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is lemons.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/6.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/6.png"
+      },
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "apple",
-          "avoid",
-          "avocado"
+          {
+            "id": "c1",
+            "text": "apple"
+          },
+          {
+            "id": "c2",
+            "text": "avoid"
+          },
+          {
+            "id": "c3",
+            "text": "avocado"
+          }
         ]
       },
-      "correct_answer": "avocado",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is avocado.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/7.png"
+      },
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "apple",
-          "cherries",
-          "strawberries"
+          {
+            "id": "c1",
+            "text": "apple"
+          },
+          {
+            "id": "c2",
+            "text": "cherries"
+          },
+          {
+            "id": "c3",
+            "text": "strawberries"
+          }
         ]
       },
-      "correct_answer": "cherries",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is cherries.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/8.png"
+      },
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "juice",
-          "oats",
-          "oatmeal"
+          {
+            "id": "c1",
+            "text": "juice"
+          },
+          {
+            "id": "c2",
+            "text": "oats"
+          },
+          {
+            "id": "c3",
+            "text": "oatmeal"
+          }
         ]
       },
-      "correct_answer": "juice",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is juice.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/9.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/9.png"
+      },
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "apple",
-          "orange",
-          "mangosteen"
+          {
+            "id": "c1",
+            "text": "apple"
+          },
+          {
+            "id": "c2",
+            "text": "orange"
+          },
+          {
+            "id": "c3",
+            "text": "mangosteen"
+          }
         ]
       },
-      "correct_answer": "mangosteen",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is mangosteen.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/10.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/10.png"
+      },
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "apple",
-          "pomegranate",
-          "broccoli"
+          {
+            "id": "c1",
+            "text": "apple"
+          },
+          {
+            "id": "c2",
+            "text": "pomegranate"
+          },
+          {
+            "id": "c3",
+            "text": "broccoli"
+          }
         ]
       },
-      "correct_answer": "pomegranate",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is pomegranate.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/11.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/11.png"
+      },
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "coconut",
-          "pomegranate",
-          "broccoli"
+          {
+            "id": "c1",
+            "text": "coconut"
+          },
+          {
+            "id": "c2",
+            "text": "pomegranate"
+          },
+          {
+            "id": "c3",
+            "text": "broccoli"
+          }
         ]
       },
-      "correct_answer": "coconut",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is coconut.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/12.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/12.png"
+      },
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "bananas",
-          "apples on a tree",
-          "applesauce"
+          {
+            "id": "c1",
+            "text": "bananas"
+          },
+          {
+            "id": "c2",
+            "text": "apples on a tree"
+          },
+          {
+            "id": "c3",
+            "text": "applesauce"
+          }
         ]
       },
-      "correct_answer": "apples on a tree",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is apples on a tree.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/13.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/13.png"
+      },
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "artist",
-          "art",
-          "arrow"
+          {
+            "id": "c1",
+            "text": "artist"
+          },
+          {
+            "id": "c2",
+            "text": "art"
+          },
+          {
+            "id": "c3",
+            "text": "arrow"
+          }
         ]
       },
-      "correct_answer": "artist",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is artist.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/14.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/14.png"
+      },
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "lighthouse",
-          "school",
-          "mosquitoes"
+          {
+            "id": "c1",
+            "text": "lighthouse"
+          },
+          {
+            "id": "c2",
+            "text": "school"
+          },
+          {
+            "id": "c3",
+            "text": "mosquitoes"
+          }
         ]
       },
-      "correct_answer": "lighthouse",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is lighthouse.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/15.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/15.png"
+      },
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "spider",
-          "snail",
-          "ant"
+          {
+            "id": "c1",
+            "text": "spider"
+          },
+          {
+            "id": "c2",
+            "text": "snail"
+          },
+          {
+            "id": "c3",
+            "text": "ant"
+          }
         ]
       },
-      "correct_answer": "snail",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is snail.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/16.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/16.png"
+      },
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "flowers",
-          "plants",
-          "planets"
+          {
+            "id": "c1",
+            "text": "flowers"
+          },
+          {
+            "id": "c2",
+            "text": "plants"
+          },
+          {
+            "id": "c3",
+            "text": "planets"
+          }
         ]
       },
-      "correct_answer": "flowers",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is flowers.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/17.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/17.png"
+      },
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "cooking",
-          "fishing",
-          "student"
+          {
+            "id": "c1",
+            "text": "cooking"
+          },
+          {
+            "id": "c2",
+            "text": "fishing"
+          },
+          {
+            "id": "c3",
+            "text": "student"
+          }
         ]
       },
-      "correct_answer": "cooking",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is cooking.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/18.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/18.png"
+      },
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "kitchen",
-          "living room",
-          "bedroom"
+          {
+            "id": "c1",
+            "text": "kitchen"
+          },
+          {
+            "id": "c2",
+            "text": "living room"
+          },
+          {
+            "id": "c3",
+            "text": "bedroom"
+          }
         ]
       },
-      "correct_answer": "kitchen",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is kitchen.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/19.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/19.png"
+      },
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "referring",
-          "refreshing",
-          "refrigerator"
+          {
+            "id": "c1",
+            "text": "referring"
+          },
+          {
+            "id": "c2",
+            "text": "refreshing"
+          },
+          {
+            "id": "c3",
+            "text": "refrigerator"
+          }
         ]
       },
-      "correct_answer": "refrigerator",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is refrigerator.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/20.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/20.png"
+      },
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "dough",
-          "doughnut",
-          "doesn't"
+          {
+            "id": "c1",
+            "text": "dough"
+          },
+          {
+            "id": "c2",
+            "text": "doughnut"
+          },
+          {
+            "id": "c3",
+            "text": "doesn't"
+          }
         ]
       },
-      "correct_answer": "doughnut",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is doughnut.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/21.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/21.png"
+      },
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "healthy food",
-          "junk food",
-          "dinner food"
+          {
+            "id": "c1",
+            "text": "healthy food"
+          },
+          {
+            "id": "c2",
+            "text": "junk food"
+          },
+          {
+            "id": "c3",
+            "text": "dinner food"
+          }
         ]
       },
-      "correct_answer": "healthy food",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is healthy food.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/22.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/22.png"
+      },
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "healthy food",
-          "junk food",
-          "dinner food"
+          {
+            "id": "c1",
+            "text": "healthy food"
+          },
+          {
+            "id": "c2",
+            "text": "junk food"
+          },
+          {
+            "id": "c3",
+            "text": "dinner food"
+          }
         ]
       },
-      "correct_answer": "junk food",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is junk food.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/23.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/23.png"
+      },
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "eggs",
-          "aggregate",
-          "egoism"
+          {
+            "id": "c1",
+            "text": "eggs"
+          },
+          {
+            "id": "c2",
+            "text": "aggregate"
+          },
+          {
+            "id": "c3",
+            "text": "egoism"
+          }
         ]
       },
-      "correct_answer": "eggs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is eggs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/24.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/24.png"
+      },
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "legumes",
-          "lettuce",
-          "later"
+          {
+            "id": "c1",
+            "text": "legumes"
+          },
+          {
+            "id": "c2",
+            "text": "lettuce"
+          },
+          {
+            "id": "c3",
+            "text": "later"
+          }
         ]
       },
-      "correct_answer": "lettuce",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is lettuce.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/25.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/25.png"
+      },
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "chicken",
-          "chapter",
-          "check"
+          {
+            "id": "c1",
+            "text": "chicken"
+          },
+          {
+            "id": "c2",
+            "text": "chapter"
+          },
+          {
+            "id": "c3",
+            "text": "check"
+          }
         ]
       },
-      "correct_answer": "chicken",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is chicken.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/26.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/26.png"
+      },
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "jellybeans",
-          "jellyshark",
-          "jellyfish"
+          {
+            "id": "c1",
+            "text": "jellybeans"
+          },
+          {
+            "id": "c2",
+            "text": "jellyshark"
+          },
+          {
+            "id": "c3",
+            "text": "jellyfish"
+          }
         ]
       },
-      "correct_answer": "jellyfish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is jellyfish.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/27.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/27.png"
+      },
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "crew",
-          "cow",
-          "come"
+          {
+            "id": "c1",
+            "text": "crew"
+          },
+          {
+            "id": "c2",
+            "text": "cow"
+          },
+          {
+            "id": "c3",
+            "text": "come"
+          }
         ]
       },
-      "correct_answer": "cow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is cow.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/28.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/28.png"
+      },
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "bat",
-          "but",
-          "bit"
+          {
+            "id": "c1",
+            "text": "bat"
+          },
+          {
+            "id": "c2",
+            "text": "but"
+          },
+          {
+            "id": "c3",
+            "text": "bit"
+          }
         ]
       },
-      "correct_answer": "bat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is bat.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/29.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/29.png"
+      },
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "change",
-          "chin",
-          "chain"
+          {
+            "id": "c1",
+            "text": "change"
+          },
+          {
+            "id": "c2",
+            "text": "chin"
+          },
+          {
+            "id": "c3",
+            "text": "chain"
+          }
         ]
       },
-      "correct_answer": "chain",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is chain.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/30.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/30.png"
+      },
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "chip",
-          "ship",
-          "should"
+          {
+            "id": "c1",
+            "text": "chip"
+          },
+          {
+            "id": "c2",
+            "text": "ship"
+          },
+          {
+            "id": "c3",
+            "text": "should"
+          }
         ]
       },
-      "correct_answer": "ship",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is ship.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/31.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/31.png"
+      },
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "gorgeous",
-          "garlic",
-          "gorilla"
+          {
+            "id": "c1",
+            "text": "gorgeous"
+          },
+          {
+            "id": "c2",
+            "text": "garlic"
+          },
+          {
+            "id": "c3",
+            "text": "gorilla"
+          }
         ]
       },
-      "correct_answer": "gorilla",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is gorilla.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/32.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/32.png"
+      },
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "goldfish",
-          "gift",
-          "giraffe"
+          {
+            "id": "c1",
+            "text": "goldfish"
+          },
+          {
+            "id": "c2",
+            "text": "gift"
+          },
+          {
+            "id": "c3",
+            "text": "giraffe"
+          }
         ]
       },
-      "correct_answer": "giraffe",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is giraffe.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/33.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/33.png"
+      },
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "door",
-          "donut",
-          "duck"
+          {
+            "id": "c1",
+            "text": "door"
+          },
+          {
+            "id": "c2",
+            "text": "donut"
+          },
+          {
+            "id": "c3",
+            "text": "duck"
+          }
         ]
       },
-      "correct_answer": "duck",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is duck.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/34.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/34.png"
+      },
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "egypt",
-          "elephant",
-          "egg"
+          {
+            "id": "c1",
+            "text": "egypt"
+          },
+          {
+            "id": "c2",
+            "text": "elephant"
+          },
+          {
+            "id": "c3",
+            "text": "egg"
+          }
         ]
       },
-      "correct_answer": "elephant",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is elephant.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/35.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/35.png"
+      },
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "arm",
-          "anchor",
-          "acorn"
+          {
+            "id": "c1",
+            "text": "arm"
+          },
+          {
+            "id": "c2",
+            "text": "anchor"
+          },
+          {
+            "id": "c3",
+            "text": "acorn"
+          }
         ]
       },
-      "correct_answer": "anchor",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is anchor.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/36.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/36.png"
+      },
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "arm",
-          "anchor",
-          "acorn"
+          {
+            "id": "c1",
+            "text": "arm"
+          },
+          {
+            "id": "c2",
+            "text": "anchor"
+          },
+          {
+            "id": "c3",
+            "text": "acorn"
+          }
         ]
       },
-      "correct_answer": "acorn",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is acorn.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/37.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/37.png"
+      },
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "arrow",
-          "anchor",
-          "acorn"
+          {
+            "id": "c1",
+            "text": "arrow"
+          },
+          {
+            "id": "c2",
+            "text": "anchor"
+          },
+          {
+            "id": "c3",
+            "text": "acorn"
+          }
         ]
       },
-      "correct_answer": "arrow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is arrow.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/38.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/38.png"
+      },
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "arrow",
-          "astronaut",
-          "acorn"
+          {
+            "id": "c1",
+            "text": "arrow"
+          },
+          {
+            "id": "c2",
+            "text": "astronaut"
+          },
+          {
+            "id": "c3",
+            "text": "acorn"
+          }
         ]
       },
-      "correct_answer": "astronaut",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is astronaut.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/39.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/39.png"
+      },
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "baker",
-          "bread",
-          "bird"
+          {
+            "id": "c1",
+            "text": "baker"
+          },
+          {
+            "id": "c2",
+            "text": "bread"
+          },
+          {
+            "id": "c3",
+            "text": "bird"
+          }
         ]
       },
-      "correct_answer": "baker",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is baker.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/40.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/40.png"
+      },
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "baker",
-          "bread",
-          "bird"
+          {
+            "id": "c1",
+            "text": "baker"
+          },
+          {
+            "id": "c2",
+            "text": "bread"
+          },
+          {
+            "id": "c3",
+            "text": "bird"
+          }
         ]
       },
-      "correct_answer": "bread",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is bread.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/41.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/41.png"
+      },
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "baker",
-          "dinner",
-          "breakfast"
+          {
+            "id": "c1",
+            "text": "baker"
+          },
+          {
+            "id": "c2",
+            "text": "dinner"
+          },
+          {
+            "id": "c3",
+            "text": "breakfast"
+          }
         ]
       },
-      "correct_answer": "breakfast",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is breakfast.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/42.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/42.png"
+      },
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "bird",
-          "bitter",
-          "break"
+          {
+            "id": "c1",
+            "text": "bird"
+          },
+          {
+            "id": "c2",
+            "text": "bitter"
+          },
+          {
+            "id": "c3",
+            "text": "break"
+          }
         ]
       },
-      "correct_answer": "bird",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is bird.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/43.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/43.png"
+      },
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "bird",
-          "butterfly",
-          "break"
+          {
+            "id": "c1",
+            "text": "bird"
+          },
+          {
+            "id": "c2",
+            "text": "butterfly"
+          },
+          {
+            "id": "c3",
+            "text": "break"
+          }
         ]
       },
-      "correct_answer": "butterfly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is butterfly.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/44.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/44.png"
+      },
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "baby",
-          "butterfly",
-          "break"
+          {
+            "id": "c1",
+            "text": "baby"
+          },
+          {
+            "id": "c2",
+            "text": "butterfly"
+          },
+          {
+            "id": "c3",
+            "text": "break"
+          }
         ]
       },
-      "correct_answer": "baby",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is baby.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/45.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/45.png"
+      },
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "cat",
-          "cut",
-          "can"
+          {
+            "id": "c1",
+            "text": "cat"
+          },
+          {
+            "id": "c2",
+            "text": "cut"
+          },
+          {
+            "id": "c3",
+            "text": "can"
+          }
         ]
       },
-      "correct_answer": "cat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is cat.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/46.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/46.png"
+      },
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "catch",
-          "caroline",
-          "carrot"
+          {
+            "id": "c1",
+            "text": "catch"
+          },
+          {
+            "id": "c2",
+            "text": "caroline"
+          },
+          {
+            "id": "c3",
+            "text": "carrot"
+          }
         ]
       },
-      "correct_answer": "carrot",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is carrot.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/47.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/47.png"
+      },
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "catch",
-          "caroline",
-          "cactus"
+          {
+            "id": "c1",
+            "text": "catch"
+          },
+          {
+            "id": "c2",
+            "text": "caroline"
+          },
+          {
+            "id": "c3",
+            "text": "cactus"
+          }
         ]
       },
-      "correct_answer": "cactus",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is cactus.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/48.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/48.png"
+      },
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "catch",
-          "crab",
-          "cactus"
+          {
+            "id": "c1",
+            "text": "catch"
+          },
+          {
+            "id": "c2",
+            "text": "crab"
+          },
+          {
+            "id": "c3",
+            "text": "cactus"
+          }
         ]
       },
-      "correct_answer": "crab",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is crab.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/49.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/49.png"
+      },
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "caterpillar",
-          "crab",
-          "cactus"
+          {
+            "id": "c1",
+            "text": "caterpillar"
+          },
+          {
+            "id": "c2",
+            "text": "crab"
+          },
+          {
+            "id": "c3",
+            "text": "cactus"
+          }
         ]
       },
-      "correct_answer": "caterpillar",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is caterpillar.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/50.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/50.png"
+      },
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "draw",
-          "dog",
-          "doesn't"
+          {
+            "id": "c1",
+            "text": "draw"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "doesn't"
+          }
         ]
       },
-      "correct_answer": "dog",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is dog.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/51.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/51.png"
+      },
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "dragon",
-          "dog",
-          "doesn't"
+          {
+            "id": "c1",
+            "text": "dragon"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "doesn't"
+          }
         ]
       },
-      "correct_answer": "dragon",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is dragon.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/52.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/52.png"
+      },
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "dragon",
-          "dice",
-          "doesn't"
+          {
+            "id": "c1",
+            "text": "dragon"
+          },
+          {
+            "id": "c2",
+            "text": "dice"
+          },
+          {
+            "id": "c3",
+            "text": "doesn't"
+          }
         ]
       },
-      "correct_answer": "dice",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is dice.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/53.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/53.png"
+      },
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "dragon",
-          "dice",
-          "dress"
+          {
+            "id": "c1",
+            "text": "dragon"
+          },
+          {
+            "id": "c2",
+            "text": "dice"
+          },
+          {
+            "id": "c3",
+            "text": "dress"
+          }
         ]
       },
-      "correct_answer": "dress",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is dress.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/54.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/54.png"
+      },
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "even",
-          "egg",
-          "eagle"
+          {
+            "id": "c1",
+            "text": "even"
+          },
+          {
+            "id": "c2",
+            "text": "egg"
+          },
+          {
+            "id": "c3",
+            "text": "eagle"
+          }
         ]
       },
-      "correct_answer": "eagle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is eagle.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/55.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/55.png"
+      },
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "even",
-          "eskimo",
-          "eagle"
+          {
+            "id": "c1",
+            "text": "even"
+          },
+          {
+            "id": "c2",
+            "text": "eskimo"
+          },
+          {
+            "id": "c3",
+            "text": "eagle"
+          }
         ]
       },
-      "correct_answer": "eskimo",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is eskimo.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/56.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/56.png"
+      },
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "environment",
-          "eskimo",
-          "envelope"
+          {
+            "id": "c1",
+            "text": "environment"
+          },
+          {
+            "id": "c2",
+            "text": "eskimo"
+          },
+          {
+            "id": "c3",
+            "text": "envelope"
+          }
         ]
       },
-      "correct_answer": "envelope",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is envelope.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/57.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/57.png"
+      },
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "environment",
-          "earth",
-          "envelope"
+          {
+            "id": "c1",
+            "text": "environment"
+          },
+          {
+            "id": "c2",
+            "text": "earth"
+          },
+          {
+            "id": "c3",
+            "text": "envelope"
+          }
         ]
       },
-      "correct_answer": "earth",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is earth.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/58.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/58.png"
+      },
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "elevator",
-          "earth",
-          "elements"
+          {
+            "id": "c1",
+            "text": "elevator"
+          },
+          {
+            "id": "c2",
+            "text": "earth"
+          },
+          {
+            "id": "c3",
+            "text": "elements"
+          }
         ]
       },
-      "correct_answer": "elevator",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is elevator.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/59.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/59.png"
+      },
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "frog",
-          "from",
-          "finally"
+          {
+            "id": "c1",
+            "text": "frog"
+          },
+          {
+            "id": "c2",
+            "text": "from"
+          },
+          {
+            "id": "c3",
+            "text": "finally"
+          }
         ]
       },
-      "correct_answer": "frog",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is frog.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/60.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/60.png"
+      },
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "frog",
-          "fish",
-          "finally"
+          {
+            "id": "c1",
+            "text": "frog"
+          },
+          {
+            "id": "c2",
+            "text": "fish"
+          },
+          {
+            "id": "c3",
+            "text": "finally"
+          }
         ]
       },
-      "correct_answer": "fish",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is fish.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/61.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/61.png"
+      },
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "frog",
-          "fire",
-          "fire truck"
+          {
+            "id": "c1",
+            "text": "frog"
+          },
+          {
+            "id": "c2",
+            "text": "fire"
+          },
+          {
+            "id": "c3",
+            "text": "fire truck"
+          }
         ]
       },
-      "correct_answer": "fire truck",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is fire truck.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/62.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/62.png"
+      },
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "frog",
-          "fire distinguisher",
-          "fire truck"
+          {
+            "id": "c1",
+            "text": "frog"
+          },
+          {
+            "id": "c2",
+            "text": "fire distinguisher"
+          },
+          {
+            "id": "c3",
+            "text": "fire truck"
+          }
         ]
       },
-      "correct_answer": "fire distinguisher",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is fire distinguisher.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/63.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/63.png"
+      },
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "girl",
-          "gingerbread",
-          "ginger"
+          {
+            "id": "c1",
+            "text": "girl"
+          },
+          {
+            "id": "c2",
+            "text": "gingerbread"
+          },
+          {
+            "id": "c3",
+            "text": "ginger"
+          }
         ]
       },
-      "correct_answer": "gingerbread",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is gingerbread.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/64.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/64.png"
+      },
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "goat",
-          "ginger bread",
-          "gum"
+          {
+            "id": "c1",
+            "text": "goat"
+          },
+          {
+            "id": "c2",
+            "text": "ginger bread"
+          },
+          {
+            "id": "c3",
+            "text": "gum"
+          }
         ]
       },
-      "correct_answer": "goat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is goat.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/65.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/65.png"
+      },
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "guide",
-          "guitar",
-          "gum"
+          {
+            "id": "c1",
+            "text": "guide"
+          },
+          {
+            "id": "c2",
+            "text": "guitar"
+          },
+          {
+            "id": "c3",
+            "text": "gum"
+          }
         ]
       },
-      "correct_answer": "guitar",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is guitar.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/66.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/66.png"
+      },
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "goose",
-          "giraffe",
-          "gum"
+          {
+            "id": "c1",
+            "text": "goose"
+          },
+          {
+            "id": "c2",
+            "text": "giraffe"
+          },
+          {
+            "id": "c3",
+            "text": "gum"
+          }
         ]
       },
-      "correct_answer": "goose",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is goose.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/67.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/67.png"
+      },
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "glasses",
-          "glass",
-          "gun"
+          {
+            "id": "c1",
+            "text": "glasses"
+          },
+          {
+            "id": "c2",
+            "text": "glass"
+          },
+          {
+            "id": "c3",
+            "text": "gun"
+          }
         ]
       },
-      "correct_answer": "glass",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is glass.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/68.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/68.png"
+      },
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "glasses",
-          "glass",
-          "gun"
+          {
+            "id": "c1",
+            "text": "glasses"
+          },
+          {
+            "id": "c2",
+            "text": "glass"
+          },
+          {
+            "id": "c3",
+            "text": "gun"
+          }
         ]
       },
-      "correct_answer": "glasses",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is glasses.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/69.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/69.png"
+      },
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "glasses",
-          "gate",
-          "gun"
+          {
+            "id": "c1",
+            "text": "glasses"
+          },
+          {
+            "id": "c2",
+            "text": "gate"
+          },
+          {
+            "id": "c3",
+            "text": "gun"
+          }
         ]
       },
-      "correct_answer": "gate",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is gate.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/70.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/70.png"
+      },
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "how",
-          "hey",
-          "house"
+          {
+            "id": "c1",
+            "text": "how"
+          },
+          {
+            "id": "c2",
+            "text": "hey"
+          },
+          {
+            "id": "c3",
+            "text": "house"
+          }
         ]
       },
-      "correct_answer": "house",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is house.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/71.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/71.png"
+      },
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "hedges",
-          "hedgehog",
-          "house"
+          {
+            "id": "c1",
+            "text": "hedges"
+          },
+          {
+            "id": "c2",
+            "text": "hedgehog"
+          },
+          {
+            "id": "c3",
+            "text": "house"
+          }
         ]
       },
-      "correct_answer": "hedgehog",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is hedgehog.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/72.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/72.png"
+      },
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "home",
-          "hey",
-          "helicopter"
+          {
+            "id": "c1",
+            "text": "home"
+          },
+          {
+            "id": "c2",
+            "text": "hey"
+          },
+          {
+            "id": "c3",
+            "text": "helicopter"
+          }
         ]
       },
-      "correct_answer": "helicopter",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is helicopter.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/73.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/73.png"
+      },
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "horse",
-          "hey",
-          "helicopter"
+          {
+            "id": "c1",
+            "text": "horse"
+          },
+          {
+            "id": "c2",
+            "text": "hey"
+          },
+          {
+            "id": "c3",
+            "text": "helicopter"
+          }
         ]
       },
-      "correct_answer": "horse",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is horse.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/74.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/74.png"
+      },
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "horse",
-          "hospital",
-          "helicopter"
+          {
+            "id": "c1",
+            "text": "horse"
+          },
+          {
+            "id": "c2",
+            "text": "hospital"
+          },
+          {
+            "id": "c3",
+            "text": "helicopter"
+          }
         ]
       },
-      "correct_answer": "hospital",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is hospital.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/75.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/75.png"
+      },
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "ice cream",
-          "igloo",
-          "iconic"
+          {
+            "id": "c1",
+            "text": "ice cream"
+          },
+          {
+            "id": "c2",
+            "text": "igloo"
+          },
+          {
+            "id": "c3",
+            "text": "iconic"
+          }
         ]
       },
-      "correct_answer": "igloo",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is igloo.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/76.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/76.png"
+      },
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "ice cream",
-          "igloo",
-          "iconic"
+          {
+            "id": "c1",
+            "text": "ice cream"
+          },
+          {
+            "id": "c2",
+            "text": "igloo"
+          },
+          {
+            "id": "c3",
+            "text": "iconic"
+          }
         ]
       },
-      "correct_answer": "ice cream",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is ice cream.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/77.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/77.png"
+      },
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "ice cream",
-          "igloo",
-          "iguana"
+          {
+            "id": "c1",
+            "text": "ice cream"
+          },
+          {
+            "id": "c2",
+            "text": "igloo"
+          },
+          {
+            "id": "c3",
+            "text": "iguana"
+          }
         ]
       },
-      "correct_answer": "iguana",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is iguana.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/78.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/78.png"
+      },
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "ice cream",
-          "island",
-          "iguana"
+          {
+            "id": "c1",
+            "text": "ice cream"
+          },
+          {
+            "id": "c2",
+            "text": "island"
+          },
+          {
+            "id": "c3",
+            "text": "iguana"
+          }
         ]
       },
-      "correct_answer": "island",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is island.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/79.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/79.png"
+      },
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "ice cream",
-          "injection",
-          "iguana"
+          {
+            "id": "c1",
+            "text": "ice cream"
+          },
+          {
+            "id": "c2",
+            "text": "injection"
+          },
+          {
+            "id": "c3",
+            "text": "iguana"
+          }
         ]
       },
-      "correct_answer": "injection",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is injection.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/80.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/80.png"
+      },
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "ink",
-          "injection",
-          "iguana"
+          {
+            "id": "c1",
+            "text": "ink"
+          },
+          {
+            "id": "c2",
+            "text": "injection"
+          },
+          {
+            "id": "c3",
+            "text": "iguana"
+          }
         ]
       },
-      "correct_answer": "ink",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is ink.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/81.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/81.png"
+      },
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "jellybeans",
-          "jelly shark",
-          "jellyfish"
+          {
+            "id": "c1",
+            "text": "jellybeans"
+          },
+          {
+            "id": "c2",
+            "text": "jelly shark"
+          },
+          {
+            "id": "c3",
+            "text": "jellyfish"
+          }
         ]
       },
-      "correct_answer": "jellybeans",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is jellybeans.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/82.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/82.png"
+      },
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "jellybeans",
-          "jelly shark",
-          "jellyfish"
+          {
+            "id": "c1",
+            "text": "jellybeans"
+          },
+          {
+            "id": "c2",
+            "text": "jelly shark"
+          },
+          {
+            "id": "c3",
+            "text": "jellyfish"
+          }
         ]
       },
-      "correct_answer": "jellyfish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is jellyfish.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/83.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/83.png"
+      },
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "jelly",
-          "jump",
-          "jelly fish"
+          {
+            "id": "c1",
+            "text": "jelly"
+          },
+          {
+            "id": "c2",
+            "text": "jump"
+          },
+          {
+            "id": "c3",
+            "text": "jelly fish"
+          }
         ]
       },
-      "correct_answer": "jump",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is jump.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/84.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/84.png"
+      },
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "joker",
-          "jump",
-          "jelly fish"
+          {
+            "id": "c1",
+            "text": "joker"
+          },
+          {
+            "id": "c2",
+            "text": "jump"
+          },
+          {
+            "id": "c3",
+            "text": "jelly fish"
+          }
         ]
       },
-      "correct_answer": "joker",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is joker.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/85.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/85.png"
+      },
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "joker",
-          "jump",
-          "jam"
+          {
+            "id": "c1",
+            "text": "joker"
+          },
+          {
+            "id": "c2",
+            "text": "jump"
+          },
+          {
+            "id": "c3",
+            "text": "jam"
+          }
         ]
       },
-      "correct_answer": "jam",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is jam.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/86.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/86.png"
+      },
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "kitten",
-          "kit",
-          "king"
+          {
+            "id": "c1",
+            "text": "kitten"
+          },
+          {
+            "id": "c2",
+            "text": "kit"
+          },
+          {
+            "id": "c3",
+            "text": "king"
+          }
         ]
       },
-      "correct_answer": "king",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is king.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/87.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/87.png"
+      },
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "koala",
-          "kit",
-          "king"
+          {
+            "id": "c1",
+            "text": "koala"
+          },
+          {
+            "id": "c2",
+            "text": "kit"
+          },
+          {
+            "id": "c3",
+            "text": "king"
+          }
         ]
       },
-      "correct_answer": "koala",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is koala.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/88.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/88.png"
+      },
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "koala",
-          "Kangaroo",
-          "king"
+          {
+            "id": "c1",
+            "text": "koala"
+          },
+          {
+            "id": "c2",
+            "text": "Kangaroo"
+          },
+          {
+            "id": "c3",
+            "text": "king"
+          }
         ]
       },
-      "correct_answer": "Kangaroo",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is Kangaroo.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/89.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/89.png"
+      },
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "like",
-          "list",
-          "leaf"
+          {
+            "id": "c1",
+            "text": "like"
+          },
+          {
+            "id": "c2",
+            "text": "list"
+          },
+          {
+            "id": "c3",
+            "text": "leaf"
+          }
         ]
       },
-      "correct_answer": "leaf",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is leaf.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/90.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/90.png"
+      },
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "ladybird",
-          "lady",
-          "lagoon"
+          {
+            "id": "c1",
+            "text": "ladybird"
+          },
+          {
+            "id": "c2",
+            "text": "lady"
+          },
+          {
+            "id": "c3",
+            "text": "lagoon"
+          }
         ]
       },
-      "correct_answer": "ladybird",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is ladybird.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/91.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/91.png"
+      },
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "ladybird",
-          "lion",
-          "lagoon"
+          {
+            "id": "c1",
+            "text": "ladybird"
+          },
+          {
+            "id": "c2",
+            "text": "lion"
+          },
+          {
+            "id": "c3",
+            "text": "lagoon"
+          }
         ]
       },
-      "correct_answer": "lion",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is lion.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/92.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/92.png"
+      },
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "log",
-          "lion",
-          "lagoons"
+          {
+            "id": "c1",
+            "text": "log"
+          },
+          {
+            "id": "c2",
+            "text": "lion"
+          },
+          {
+            "id": "c3",
+            "text": "lagoons"
+          }
         ]
       },
-      "correct_answer": "log",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is log.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/93.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/93.png"
+      },
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "log",
-          "lamb",
-          "language"
+          {
+            "id": "c1",
+            "text": "log"
+          },
+          {
+            "id": "c2",
+            "text": "lamb"
+          },
+          {
+            "id": "c3",
+            "text": "language"
+          }
         ]
       },
-      "correct_answer": "lamb",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is lamb.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/94.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/94.png"
+      },
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "money",
-          "monkey",
-          "mouse"
+          {
+            "id": "c1",
+            "text": "money"
+          },
+          {
+            "id": "c2",
+            "text": "monkey"
+          },
+          {
+            "id": "c3",
+            "text": "mouse"
+          }
         ]
       },
-      "correct_answer": "monkey",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is monkey.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/95.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/95.png"
+      },
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "money",
-          "monkey",
-          "mouse"
+          {
+            "id": "c1",
+            "text": "money"
+          },
+          {
+            "id": "c2",
+            "text": "monkey"
+          },
+          {
+            "id": "c3",
+            "text": "mouse"
+          }
         ]
       },
-      "correct_answer": "money",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is money.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/96.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/96.png"
+      },
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "machine",
-          "monkey",
-          "mushroom"
+          {
+            "id": "c1",
+            "text": "machine"
+          },
+          {
+            "id": "c2",
+            "text": "monkey"
+          },
+          {
+            "id": "c3",
+            "text": "mushroom"
+          }
         ]
       },
-      "correct_answer": "mushroom",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is mushroom.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/97.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/97.png"
+      },
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "milk",
-          "monkey",
-          "mushroom"
+          {
+            "id": "c1",
+            "text": "milk"
+          },
+          {
+            "id": "c2",
+            "text": "monkey"
+          },
+          {
+            "id": "c3",
+            "text": "mushroom"
+          }
         ]
       },
-      "correct_answer": "milk",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is milk.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/98.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/98.png"
+      },
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Which word correctly describes the image?",
       "type": "mcq",
+      "prompt": "Which word correctly describes the image?",
       "options": {
         "choices": [
-          "milk",
-          "mouse",
-          "mushroom"
+          {
+            "id": "c1",
+            "text": "milk"
+          },
+          {
+            "id": "c2",
+            "text": "mouse"
+          },
+          {
+            "id": "c3",
+            "text": "mushroom"
+          }
         ]
       },
-      "correct_answer": "mouse",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is mouse.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/eng-reading-vocabulary-1/99.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_eng_reading_vocabulary_1/99.png"
+      },
       "order_index": 99
     }
-  ]
+  ],
+  "title_needs_review": true
 }

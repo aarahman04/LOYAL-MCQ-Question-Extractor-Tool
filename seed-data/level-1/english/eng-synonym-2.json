@@ -1,1716 +1,2915 @@
 {
   "_source_file": "level_1_eng_synonym_2.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "eng-synonym-2",
-    "title": "Synonyms 2",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.546Z",
+  "slug": "eng-synonym-2",
+  "title": "Synonyms 2",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Which word is a synonym for big?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for big?",
       "options": {
         "choices": [
-          "tiny",
-          "large",
-          "cold"
+          {
+            "id": "c1",
+            "text": "tiny"
+          },
+          {
+            "id": "c2",
+            "text": "large"
+          },
+          {
+            "id": "c3",
+            "text": "cold"
+          }
         ]
       },
-      "correct_answer": "large",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'large' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which word is a synonym for happy?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for happy?",
       "options": {
         "choices": [
-          "sad",
-          "glad",
-          "slow"
+          {
+            "id": "c1",
+            "text": "sad"
+          },
+          {
+            "id": "c2",
+            "text": "glad"
+          },
+          {
+            "id": "c3",
+            "text": "slow"
+          }
         ]
       },
-      "correct_answer": "glad",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'glad' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Which word is a synonym for fast?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for fast?",
       "options": {
         "choices": [
-          "quick",
-          "sleepy",
-          "loud"
+          {
+            "id": "c1",
+            "text": "quick"
+          },
+          {
+            "id": "c2",
+            "text": "sleepy"
+          },
+          {
+            "id": "c3",
+            "text": "loud"
+          }
         ]
       },
-      "correct_answer": "quick",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'quick' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which word is a synonym for small?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for small?",
       "options": {
         "choices": [
-          "huge",
-          "little",
-          "bright"
+          {
+            "id": "c1",
+            "text": "huge"
+          },
+          {
+            "id": "c2",
+            "text": "little"
+          },
+          {
+            "id": "c3",
+            "text": "bright"
+          }
         ]
       },
-      "correct_answer": "little",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'little' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which word is a synonym for smart?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for smart?",
       "options": {
         "choices": [
-          "clever",
-          "messy",
-          "weak"
+          {
+            "id": "c1",
+            "text": "clever"
+          },
+          {
+            "id": "c2",
+            "text": "messy"
+          },
+          {
+            "id": "c3",
+            "text": "weak"
+          }
         ]
       },
-      "correct_answer": "clever",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'clever' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Which word is a synonym for cold?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for cold?",
       "options": {
         "choices": [
-          "freezing",
-          "warm",
-          "dry"
+          {
+            "id": "c1",
+            "text": "freezing"
+          },
+          {
+            "id": "c2",
+            "text": "warm"
+          },
+          {
+            "id": "c3",
+            "text": "dry"
+          }
         ]
       },
-      "correct_answer": "freezing",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'freezing' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Which word is a synonym for begin?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for begin?",
       "options": {
         "choices": [
-          "end",
-          "start",
-          "jump"
+          {
+            "id": "c1",
+            "text": "end"
+          },
+          {
+            "id": "c2",
+            "text": "start"
+          },
+          {
+            "id": "c3",
+            "text": "jump"
+          }
         ]
       },
-      "correct_answer": "start",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'start' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Which word is a synonym for pretty?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for pretty?",
       "options": {
         "choices": [
-          "ugly",
-          "beautiful",
-          "dark"
+          {
+            "id": "c1",
+            "text": "ugly"
+          },
+          {
+            "id": "c2",
+            "text": "beautiful"
+          },
+          {
+            "id": "c3",
+            "text": "dark"
+          }
         ]
       },
-      "correct_answer": "beautiful",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'beautiful' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which word is a synonym for funny?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for funny?",
       "options": {
         "choices": [
-          "silly",
-          "angry",
-          "quiet"
+          {
+            "id": "c1",
+            "text": "silly"
+          },
+          {
+            "id": "c2",
+            "text": "angry"
+          },
+          {
+            "id": "c3",
+            "text": "quiet"
+          }
         ]
       },
-      "correct_answer": "silly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'silly' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Which word is a synonym for jump?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for jump?",
       "options": {
         "choices": [
-          "hop",
-          "sit",
-          "read"
+          {
+            "id": "c1",
+            "text": "hop"
+          },
+          {
+            "id": "c2",
+            "text": "sit"
+          },
+          {
+            "id": "c3",
+            "text": "read"
+          }
         ]
       },
-      "correct_answer": "hop",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'hop' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Which word is a synonym for baby?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for baby?",
       "options": {
         "choices": [
-          "infant",
-          "teacher",
-          "giant"
+          {
+            "id": "c1",
+            "text": "infant"
+          },
+          {
+            "id": "c2",
+            "text": "teacher"
+          },
+          {
+            "id": "c3",
+            "text": "giant"
+          }
         ]
       },
-      "correct_answer": "infant",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'infant' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Which word is a synonym for end?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for end?",
       "options": {
         "choices": [
-          "finish",
-          "open",
-          "climb"
+          {
+            "id": "c1",
+            "text": "finish"
+          },
+          {
+            "id": "c2",
+            "text": "open"
+          },
+          {
+            "id": "c3",
+            "text": "climb"
+          }
         ]
       },
-      "correct_answer": "finish",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'finish' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Which word is a synonym for mad?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for mad?",
       "options": {
         "choices": [
-          "angry",
-          "hungry",
-          "sleepy"
+          {
+            "id": "c1",
+            "text": "angry"
+          },
+          {
+            "id": "c2",
+            "text": "hungry"
+          },
+          {
+            "id": "c3",
+            "text": "sleepy"
+          }
         ]
       },
-      "correct_answer": "angry",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'angry' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Which word is a synonym for wet?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for wet?",
       "options": {
         "choices": [
-          "dry",
-          "soaked",
-          "dusty"
+          {
+            "id": "c1",
+            "text": "dry"
+          },
+          {
+            "id": "c2",
+            "text": "soaked"
+          },
+          {
+            "id": "c3",
+            "text": "dusty"
+          }
         ]
       },
-      "correct_answer": "soaked",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'soaked' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Which word is a synonym for look?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for look?",
       "options": {
         "choices": [
-          "see",
-          "taste",
-          "jump"
+          {
+            "id": "c1",
+            "text": "see"
+          },
+          {
+            "id": "c2",
+            "text": "taste"
+          },
+          {
+            "id": "c3",
+            "text": "jump"
+          }
         ]
       },
-      "correct_answer": "see",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'see' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Which word is a synonym for friend?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for friend?",
       "options": {
         "choices": [
-          "enemy",
-          "buddy",
-          "stranger"
+          {
+            "id": "c1",
+            "text": "enemy"
+          },
+          {
+            "id": "c2",
+            "text": "buddy"
+          },
+          {
+            "id": "c3",
+            "text": "stranger"
+          }
         ]
       },
-      "correct_answer": "buddy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'buddy' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Which word is a synonym for tiny?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for tiny?",
       "options": {
         "choices": [
-          "huge",
-          "little",
-          "noisy"
+          {
+            "id": "c1",
+            "text": "huge"
+          },
+          {
+            "id": "c2",
+            "text": "little"
+          },
+          {
+            "id": "c3",
+            "text": "noisy"
+          }
         ]
       },
-      "correct_answer": "little",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'little' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which word is a synonym for laugh?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for laugh?",
       "options": {
         "choices": [
-          "giggle",
-          "cry",
-          "hide"
+          {
+            "id": "c1",
+            "text": "giggle"
+          },
+          {
+            "id": "c2",
+            "text": "cry"
+          },
+          {
+            "id": "c3",
+            "text": "hide"
+          }
         ]
       },
-      "correct_answer": "giggle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'giggle' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Which word is a synonym for job?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for job?",
       "options": {
         "choices": [
-          "word",
-          "work",
-          "game"
+          {
+            "id": "c1",
+            "text": "word"
+          },
+          {
+            "id": "c2",
+            "text": "work"
+          },
+          {
+            "id": "c3",
+            "text": "game"
+          }
         ]
       },
-      "correct_answer": "work",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'work' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Which word is a synonym for house?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for house?",
       "options": {
         "choices": [
-          "school",
-          "home",
-          "park"
+          {
+            "id": "c1",
+            "text": "school"
+          },
+          {
+            "id": "c2",
+            "text": "home"
+          },
+          {
+            "id": "c3",
+            "text": "park"
+          }
         ]
       },
-      "correct_answer": "home",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'home' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Which word is a synonym for cry?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for cry?",
       "options": {
         "choices": [
-          "sob",
-          "smile",
-          "dance"
+          {
+            "id": "c1",
+            "text": "sob"
+          },
+          {
+            "id": "c2",
+            "text": "smile"
+          },
+          {
+            "id": "c3",
+            "text": "dance"
+          }
         ]
       },
-      "correct_answer": "sob",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'sob' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which word is a synonym for rich?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for rich?",
       "options": {
         "choices": [
-          "poor",
-          "wealthy",
-          "tiny"
+          {
+            "id": "c1",
+            "text": "poor"
+          },
+          {
+            "id": "c2",
+            "text": "wealthy"
+          },
+          {
+            "id": "c3",
+            "text": "tiny"
+          }
         ]
       },
-      "correct_answer": "wealthy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'wealthy' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which word is a synonym for road?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for road?",
       "options": {
         "choices": [
-          "street",
-          "pillow",
-          "blanket"
+          {
+            "id": "c1",
+            "text": "street"
+          },
+          {
+            "id": "c2",
+            "text": "pillow"
+          },
+          {
+            "id": "c3",
+            "text": "blanket"
+          }
         ]
       },
-      "correct_answer": "street",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'street' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Which word is a synonym for beginner?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for beginner?",
       "options": {
         "choices": [
-          "expert",
-          "learner",
-          "captain"
+          {
+            "id": "c1",
+            "text": "expert"
+          },
+          {
+            "id": "c2",
+            "text": "learner"
+          },
+          {
+            "id": "c3",
+            "text": "captain"
+          }
         ]
       },
-      "correct_answer": "learner",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'learner' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Which word is a synonym for clean?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for clean?",
       "options": {
         "choices": [
-          "dirty",
-          "tidy",
-          "rough"
+          {
+            "id": "c1",
+            "text": "dirty"
+          },
+          {
+            "id": "c2",
+            "text": "tidy"
+          },
+          {
+            "id": "c3",
+            "text": "rough"
+          }
         ]
       },
-      "correct_answer": "tidy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'tidy' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which word is a synonym for strong?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for strong?",
       "options": {
         "choices": [
-          "weak",
-          "powerful",
-          "lazy"
+          {
+            "id": "c1",
+            "text": "weak"
+          },
+          {
+            "id": "c2",
+            "text": "powerful"
+          },
+          {
+            "id": "c3",
+            "text": "lazy"
+          }
         ]
       },
-      "correct_answer": "powerful",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'powerful' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Which word is a synonym for quiet?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for quiet?",
       "options": {
         "choices": [
-          "silent",
-          "noisy",
-          "bright"
+          {
+            "id": "c1",
+            "text": "silent"
+          },
+          {
+            "id": "c2",
+            "text": "noisy"
+          },
+          {
+            "id": "c3",
+            "text": "bright"
+          }
         ]
       },
-      "correct_answer": "silent",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'silent' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which word is a synonym for gift?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for gift?",
       "options": {
         "choices": [
-          "present",
-          "chair",
-          "window"
+          {
+            "id": "c1",
+            "text": "present"
+          },
+          {
+            "id": "c2",
+            "text": "chair"
+          },
+          {
+            "id": "c3",
+            "text": "window"
+          }
         ]
       },
-      "correct_answer": "present",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'present' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which word is a synonym for brave?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for brave?",
       "options": {
         "choices": [
-          "scared",
-          "courageous",
-          "shy"
+          {
+            "id": "c1",
+            "text": "scared"
+          },
+          {
+            "id": "c2",
+            "text": "courageous"
+          },
+          {
+            "id": "c3",
+            "text": "shy"
+          }
         ]
       },
-      "correct_answer": "courageous",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'courageous' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which word is a synonym for eat?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for eat?",
       "options": {
         "choices": [
-          "chew",
-          "throw",
-          "kick"
+          {
+            "id": "c1",
+            "text": "chew"
+          },
+          {
+            "id": "c2",
+            "text": "throw"
+          },
+          {
+            "id": "c3",
+            "text": "kick"
+          }
         ]
       },
-      "correct_answer": "chew",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'chew' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which word is a synonym for beautiful?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for beautiful?",
       "options": {
         "choices": [
-          "lovely",
-          "broken",
-          "tiny"
+          {
+            "id": "c1",
+            "text": "lovely"
+          },
+          {
+            "id": "c2",
+            "text": "broken"
+          },
+          {
+            "id": "c3",
+            "text": "tiny"
+          }
         ]
       },
-      "correct_answer": "lovely",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'lovely' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which word is a synonym for walk?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for walk?",
       "options": {
         "choices": [
-          "stroll",
-          "shout",
-          "paint"
+          {
+            "id": "c1",
+            "text": "stroll"
+          },
+          {
+            "id": "c2",
+            "text": "shout"
+          },
+          {
+            "id": "c3",
+            "text": "paint"
+          }
         ]
       },
-      "correct_answer": "stroll",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'stroll' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Which word is a synonym for hard?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for hard?",
       "options": {
         "choices": [
-          "soft",
-          "difficult",
-          "smooth"
+          {
+            "id": "c1",
+            "text": "soft"
+          },
+          {
+            "id": "c2",
+            "text": "difficult"
+          },
+          {
+            "id": "c3",
+            "text": "smooth"
+          }
         ]
       },
-      "correct_answer": "difficult",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'difficult' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which word is a synonym for teacher?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for teacher?",
       "options": {
         "choices": [
-          "student",
-          "educator",
-          "driver"
+          {
+            "id": "c1",
+            "text": "student"
+          },
+          {
+            "id": "c2",
+            "text": "educator"
+          },
+          {
+            "id": "c3",
+            "text": "driver"
+          }
         ]
       },
-      "correct_answer": "educator",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'educator' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Which word is a synonym for help?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for help?",
       "options": {
         "choices": [
-          "assist",
-          "hide",
-          "climb"
+          {
+            "id": "c1",
+            "text": "assist"
+          },
+          {
+            "id": "c2",
+            "text": "hide"
+          },
+          {
+            "id": "c3",
+            "text": "climb"
+          }
         ]
       },
-      "correct_answer": "assist",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'assist' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which word is a synonym for story?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for story?",
       "options": {
         "choices": [
-          "tale",
-          "rock",
-          "shoe"
+          {
+            "id": "c1",
+            "text": "tale"
+          },
+          {
+            "id": "c2",
+            "text": "rock"
+          },
+          {
+            "id": "c3",
+            "text": "shoe"
+          }
         ]
       },
-      "correct_answer": "tale",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'tale' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which word is a synonym for angry?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for angry?",
       "options": {
         "choices": [
-          "calm",
-          "upset",
-          "playful"
+          {
+            "id": "c1",
+            "text": "calm"
+          },
+          {
+            "id": "c2",
+            "text": "upset"
+          },
+          {
+            "id": "c3",
+            "text": "playful"
+          }
         ]
       },
-      "correct_answer": "upset",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'upset' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which word is a synonym for tiny?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for tiny?",
       "options": {
         "choices": [
-          "enormous",
-          "small",
-          "heavy"
+          {
+            "id": "c1",
+            "text": "enormous"
+          },
+          {
+            "id": "c2",
+            "text": "small"
+          },
+          {
+            "id": "c3",
+            "text": "heavy"
+          }
         ]
       },
-      "correct_answer": "small",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'small' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which word is a synonym for shout?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for shout?",
       "options": {
         "choices": [
-          "whisper",
-          "yell",
-          "nap"
+          {
+            "id": "c1",
+            "text": "whisper"
+          },
+          {
+            "id": "c2",
+            "text": "yell"
+          },
+          {
+            "id": "c3",
+            "text": "nap"
+          }
         ]
       },
-      "correct_answer": "yell",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'yell' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which word is a synonym for child?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for child?",
       "options": {
         "choices": [
-          "adult",
-          "kid",
-          "parent"
+          {
+            "id": "c1",
+            "text": "adult"
+          },
+          {
+            "id": "c2",
+            "text": "kid"
+          },
+          {
+            "id": "c3",
+            "text": "parent"
+          }
         ]
       },
-      "correct_answer": "kid",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'kid' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which word is a synonym for cold?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for cold?",
       "options": {
         "choices": [
-          "chilly",
-          "hot",
-          "bright"
+          {
+            "id": "c1",
+            "text": "chilly"
+          },
+          {
+            "id": "c2",
+            "text": "hot"
+          },
+          {
+            "id": "c3",
+            "text": "bright"
+          }
         ]
       },
-      "correct_answer": "chilly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'chilly' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which word is a synonym for sad?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for sad?",
       "options": {
         "choices": [
-          "unhappy",
-          "excited",
-          "strong"
+          {
+            "id": "c1",
+            "text": "unhappy"
+          },
+          {
+            "id": "c2",
+            "text": "excited"
+          },
+          {
+            "id": "c3",
+            "text": "strong"
+          }
         ]
       },
-      "correct_answer": "unhappy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'unhappy' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which word is a synonym for run?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for run?",
       "options": {
         "choices": [
-          "race",
-          "sleep",
-          "draw"
+          {
+            "id": "c1",
+            "text": "race"
+          },
+          {
+            "id": "c2",
+            "text": "sleep"
+          },
+          {
+            "id": "c3",
+            "text": "draw"
+          }
         ]
       },
-      "correct_answer": "race",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'race' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which word is a synonym for tiny?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for tiny?",
       "options": {
         "choices": [
-          "big",
-          "little",
-          "loud"
+          {
+            "id": "c1",
+            "text": "big"
+          },
+          {
+            "id": "c2",
+            "text": "little"
+          },
+          {
+            "id": "c3",
+            "text": "loud"
+          }
         ]
       },
-      "correct_answer": "little",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'little' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which word is a synonym for friend?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for friend?",
       "options": {
         "choices": [
-          "cat",
-          "energy",
-          "pal"
+          {
+            "id": "c1",
+            "text": "cat"
+          },
+          {
+            "id": "c2",
+            "text": "energy"
+          },
+          {
+            "id": "c3",
+            "text": "pal"
+          }
         ]
       },
-      "correct_answer": "pal",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'pal' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Which word is a synonym for jump?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for jump?",
       "options": {
         "choices": [
-          "frog",
-          "crawl",
-          "leap"
+          {
+            "id": "c1",
+            "text": "frog"
+          },
+          {
+            "id": "c2",
+            "text": "crawl"
+          },
+          {
+            "id": "c3",
+            "text": "leap"
+          }
         ]
       },
-      "correct_answer": "leap",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'leap' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which word is a synonym for smart?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for smart?",
       "options": {
         "choices": [
-          "fun",
-          "clever",
-          "sleepy"
+          {
+            "id": "c1",
+            "text": "fun"
+          },
+          {
+            "id": "c2",
+            "text": "clever"
+          },
+          {
+            "id": "c3",
+            "text": "sleepy"
+          }
         ]
       },
-      "correct_answer": "clever",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'clever' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which word is a synonym for love?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for love?",
       "options": {
         "choices": [
-          "adrenaline",
-          "adore",
-          "forget"
+          {
+            "id": "c1",
+            "text": "adrenaline"
+          },
+          {
+            "id": "c2",
+            "text": "adore"
+          },
+          {
+            "id": "c3",
+            "text": "forget"
+          }
         ]
       },
-      "correct_answer": "adore",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'adore' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which word is a synonym for clean?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for clean?",
       "options": {
         "choices": [
-          "near",
-          "muddy",
-          "neat"
+          {
+            "id": "c1",
+            "text": "near"
+          },
+          {
+            "id": "c2",
+            "text": "muddy"
+          },
+          {
+            "id": "c3",
+            "text": "neat"
+          }
         ]
       },
-      "correct_answer": "neat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'neat' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which word is a synonym for fun?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for fun?",
       "options": {
         "choices": [
-          "smart",
-          "enjoyable",
-          "difficult"
+          {
+            "id": "c1",
+            "text": "smart"
+          },
+          {
+            "id": "c2",
+            "text": "enjoyable"
+          },
+          {
+            "id": "c3",
+            "text": "difficult"
+          }
         ]
       },
-      "correct_answer": "enjoyable",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'enjoyable' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which word is a synonym for begin?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for begin?",
       "options": {
         "choices": [
-          "sleep",
-          "start",
-          "stop"
+          {
+            "id": "c1",
+            "text": "sleep"
+          },
+          {
+            "id": "c2",
+            "text": "start"
+          },
+          {
+            "id": "c3",
+            "text": "stop"
+          }
         ]
       },
-      "correct_answer": "start",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'start' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Which word is a synonym for tiny?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for tiny?",
       "options": {
         "choices": [
-          "noisy",
-          "giant",
-          "small"
+          {
+            "id": "c1",
+            "text": "noisy"
+          },
+          {
+            "id": "c2",
+            "text": "giant"
+          },
+          {
+            "id": "c3",
+            "text": "small"
+          }
         ]
       },
-      "correct_answer": "small",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'small' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Which word is a synonym for yell?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for yell?",
       "options": {
         "choices": [
-          "shout",
-          "whisper",
-          "tiptoe"
+          {
+            "id": "c1",
+            "text": "shout"
+          },
+          {
+            "id": "c2",
+            "text": "whisper"
+          },
+          {
+            "id": "c3",
+            "text": "tiptoe"
+          }
         ]
       },
-      "correct_answer": "shout",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'shout' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which word is a synonym for glad?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for glad?",
       "options": {
         "choices": [
-          "tired",
-          "happy",
-          "angry"
+          {
+            "id": "c1",
+            "text": "tired"
+          },
+          {
+            "id": "c2",
+            "text": "happy"
+          },
+          {
+            "id": "c3",
+            "text": "angry"
+          }
         ]
       },
-      "correct_answer": "happy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'happy' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which word is a synonym for close?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for close?",
       "options": {
         "choices": [
-          "toss",
-          "open",
-          "shut"
+          {
+            "id": "c1",
+            "text": "toss"
+          },
+          {
+            "id": "c2",
+            "text": "open"
+          },
+          {
+            "id": "c3",
+            "text": "shut"
+          }
         ]
       },
-      "correct_answer": "shut",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'shut' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which word is a synonym for jump?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for jump?",
       "options": {
         "choices": [
-          "nap",
-          "leap",
-          "crawl"
+          {
+            "id": "c1",
+            "text": "nap"
+          },
+          {
+            "id": "c2",
+            "text": "leap"
+          },
+          {
+            "id": "c3",
+            "text": "crawl"
+          }
         ]
       },
-      "correct_answer": "leap",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'leap' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Which word is a synonym for ill?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for ill?",
       "options": {
         "choices": [
-          "hungry",
-          "healthy",
-          "sick"
+          {
+            "id": "c1",
+            "text": "hungry"
+          },
+          {
+            "id": "c2",
+            "text": "healthy"
+          },
+          {
+            "id": "c3",
+            "text": "sick"
+          }
         ]
       },
-      "correct_answer": "sick",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'sick' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Which word is a synonym for fast?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for fast?",
       "options": {
         "choices": [
-          "sleepy",
-          "slow",
-          "quick"
+          {
+            "id": "c1",
+            "text": "sleepy"
+          },
+          {
+            "id": "c2",
+            "text": "slow"
+          },
+          {
+            "id": "c3",
+            "text": "quick"
+          }
         ]
       },
-      "correct_answer": "quick",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'quick' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which word is a synonym for trash?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for trash?",
       "options": {
         "choices": [
-          "flower",
-          "garbage",
-          "blanket"
+          {
+            "id": "c1",
+            "text": "flower"
+          },
+          {
+            "id": "c2",
+            "text": "garbage"
+          },
+          {
+            "id": "c3",
+            "text": "blanket"
+          }
         ]
       },
-      "correct_answer": "garbage",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'garbage' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which word is a synonym for bright?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for bright?",
       "options": {
         "choices": [
-          "soft",
-          "shiny",
-          "dark"
+          {
+            "id": "c1",
+            "text": "soft"
+          },
+          {
+            "id": "c2",
+            "text": "shiny"
+          },
+          {
+            "id": "c3",
+            "text": "dark"
+          }
         ]
       },
-      "correct_answer": "shiny",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'shiny' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Which word is a synonym for fix?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for fix?",
       "options": {
         "choices": [
-          "break",
-          "throw",
-          "repair"
+          {
+            "id": "c1",
+            "text": "break"
+          },
+          {
+            "id": "c2",
+            "text": "throw"
+          },
+          {
+            "id": "c3",
+            "text": "repair"
+          }
         ]
       },
-      "correct_answer": "repair",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'repair' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which word is a synonym for quiet?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for quiet?",
       "options": {
         "choices": [
-          "messy",
-          "loud",
-          "silent"
+          {
+            "id": "c1",
+            "text": "messy"
+          },
+          {
+            "id": "c2",
+            "text": "loud"
+          },
+          {
+            "id": "c3",
+            "text": "silent"
+          }
         ]
       },
-      "correct_answer": "silent",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'silent' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which word is a synonym for gift?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for gift?",
       "options": {
         "choices": [
-          "present",
-          "rug",
-          "box"
+          {
+            "id": "c1",
+            "text": "present"
+          },
+          {
+            "id": "c2",
+            "text": "rug"
+          },
+          {
+            "id": "c3",
+            "text": "box"
+          }
         ]
       },
-      "correct_answer": "present",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'present' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which word is a synonym for laugh?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for laugh?",
       "options": {
         "choices": [
-          "cry",
-          "giggle",
-          "shout"
+          {
+            "id": "c1",
+            "text": "cry"
+          },
+          {
+            "id": "c2",
+            "text": "giggle"
+          },
+          {
+            "id": "c3",
+            "text": "shout"
+          }
         ]
       },
-      "correct_answer": "giggle",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'giggle' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Which word is a synonym for angry?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for angry?",
       "options": {
         "choices": [
-          "upset",
-          "calm",
-          "joyful"
+          {
+            "id": "c1",
+            "text": "upset"
+          },
+          {
+            "id": "c2",
+            "text": "calm"
+          },
+          {
+            "id": "c3",
+            "text": "joyful"
+          }
         ]
       },
-      "correct_answer": "upset",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'upset' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which word is a synonym for job?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for job?",
       "options": {
         "choices": [
-          "work",
-          "snack",
-          "game"
+          {
+            "id": "c1",
+            "text": "work"
+          },
+          {
+            "id": "c2",
+            "text": "snack"
+          },
+          {
+            "id": "c3",
+            "text": "game"
+          }
         ]
       },
-      "correct_answer": "work",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'work' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which word is a synonym for look?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for look?",
       "options": {
         "choices": [
-          "she",
-          "see",
-          "jump"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "see"
+          },
+          {
+            "id": "c3",
+            "text": "jump"
+          }
         ]
       },
-      "correct_answer": "see",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'see' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which word is a synonym for strong?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for strong?",
       "options": {
         "choices": [
-          "shy",
-          "weak",
-          "powerful"
+          {
+            "id": "c1",
+            "text": "shy"
+          },
+          {
+            "id": "c2",
+            "text": "weak"
+          },
+          {
+            "id": "c3",
+            "text": "powerful"
+          }
         ]
       },
-      "correct_answer": "powerful",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'powerful' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which word is a synonym for clean?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for clean?",
       "options": {
         "choices": [
-          "sticky",
-          "tidy",
-          "muddy"
+          {
+            "id": "c1",
+            "text": "sticky"
+          },
+          {
+            "id": "c2",
+            "text": "tidy"
+          },
+          {
+            "id": "c3",
+            "text": "muddy"
+          }
         ]
       },
-      "correct_answer": "tidy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'tidy' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which word is a synonym for smart?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for smart?",
       "options": {
         "choices": [
-          "sleepy",
-          "lever",
-          "sharp"
+          {
+            "id": "c1",
+            "text": "sleepy"
+          },
+          {
+            "id": "c2",
+            "text": "lever"
+          },
+          {
+            "id": "c3",
+            "text": "sharp"
+          }
         ]
       },
-      "correct_answer": "sharp",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'sharp' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which word is a synonym for cry?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for cry?",
       "options": {
         "choices": [
-          "grin",
-          "clap",
-          "sob"
+          {
+            "id": "c1",
+            "text": "grin"
+          },
+          {
+            "id": "c2",
+            "text": "clap"
+          },
+          {
+            "id": "c3",
+            "text": "sob"
+          }
         ]
       },
-      "correct_answer": "sob",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'sob' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which word is a synonym for story?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for story?",
       "options": {
         "choices": [
-          "take",
-          "tale",
-          "stone"
+          {
+            "id": "c1",
+            "text": "take"
+          },
+          {
+            "id": "c2",
+            "text": "tale"
+          },
+          {
+            "id": "c3",
+            "text": "stone"
+          }
         ]
       },
-      "correct_answer": "tale",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'tale' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which word is a synonym for brave?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for brave?",
       "options": {
         "choices": [
-          "shy",
-          "courageous",
-          "afraid"
+          {
+            "id": "c1",
+            "text": "shy"
+          },
+          {
+            "id": "c2",
+            "text": "courageous"
+          },
+          {
+            "id": "c3",
+            "text": "afraid"
+          }
         ]
       },
-      "correct_answer": "courageous",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'courageous' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which word is a synonym for walk?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for walk?",
       "options": {
         "choices": [
-          "toss",
-          "sprint",
-          "stroll"
+          {
+            "id": "c1",
+            "text": "toss"
+          },
+          {
+            "id": "c2",
+            "text": "sprint"
+          },
+          {
+            "id": "c3",
+            "text": "stroll"
+          }
         ]
       },
-      "correct_answer": "stroll",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'stroll' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which word is a synonym for end?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for end?",
       "options": {
         "choices": [
-          "laugh",
-          "finish",
-          "begin"
+          {
+            "id": "c1",
+            "text": "laugh"
+          },
+          {
+            "id": "c2",
+            "text": "finish"
+          },
+          {
+            "id": "c3",
+            "text": "begin"
+          }
         ]
       },
-      "correct_answer": "finish",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'finish' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which word is a synonym for sad?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for sad?",
       "options": {
         "choices": [
-          "unhappy",
-          "excited",
-          "cheerful"
+          {
+            "id": "c1",
+            "text": "unhappy"
+          },
+          {
+            "id": "c2",
+            "text": "excited"
+          },
+          {
+            "id": "c3",
+            "text": "cheerful"
+          }
         ]
       },
-      "correct_answer": "unhappy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'unhappy' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which word is a synonym for house?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for house?",
       "options": {
         "choices": [
-          "school",
-          "cave",
-          "home"
+          {
+            "id": "c1",
+            "text": "school"
+          },
+          {
+            "id": "c2",
+            "text": "cave"
+          },
+          {
+            "id": "c3",
+            "text": "home"
+          }
         ]
       },
-      "correct_answer": "home",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'home' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which word is a synonym for run?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for run?",
       "options": {
         "choices": [
-          "rack",
-          "race",
-          "sit"
+          {
+            "id": "c1",
+            "text": "rack"
+          },
+          {
+            "id": "c2",
+            "text": "race"
+          },
+          {
+            "id": "c3",
+            "text": "sit"
+          }
         ]
       },
-      "correct_answer": "race",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'race' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Which word is a synonym for teacher?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for teacher?",
       "options": {
         "choices": [
-          "singer",
-          "educator",
-          "driver"
+          {
+            "id": "c1",
+            "text": "singer"
+          },
+          {
+            "id": "c2",
+            "text": "educator"
+          },
+          {
+            "id": "c3",
+            "text": "driver"
+          }
         ]
       },
-      "correct_answer": "educator",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'educator' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which word is a synonym for funny?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for funny?",
       "options": {
         "choices": [
-          "grumpy",
-          "serious",
-          "silly"
+          {
+            "id": "c1",
+            "text": "grumpy"
+          },
+          {
+            "id": "c2",
+            "text": "serious"
+          },
+          {
+            "id": "c3",
+            "text": "silly"
+          }
         ]
       },
-      "correct_answer": "silly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'silly' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which word is a synonym for road?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for road?",
       "options": {
         "choices": [
-          "street",
-          "pillow",
-          "spoon"
+          {
+            "id": "c1",
+            "text": "street"
+          },
+          {
+            "id": "c2",
+            "text": "pillow"
+          },
+          {
+            "id": "c3",
+            "text": "spoon"
+          }
         ]
       },
-      "correct_answer": "street",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'street' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Which word is a synonym for baby?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for baby?",
       "options": {
         "choices": [
-          "captain",
-          "infant",
-          "giant"
+          {
+            "id": "c1",
+            "text": "captain"
+          },
+          {
+            "id": "c2",
+            "text": "infant"
+          },
+          {
+            "id": "c3",
+            "text": "giant"
+          }
         ]
       },
-      "correct_answer": "infant",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'infant' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Which word is a synonym for rich?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for rich?",
       "options": {
         "choices": [
-          "poor",
-          "empty",
-          "wealthy"
+          {
+            "id": "c1",
+            "text": "poor"
+          },
+          {
+            "id": "c2",
+            "text": "empty"
+          },
+          {
+            "id": "c3",
+            "text": "wealthy"
+          }
         ]
       },
-      "correct_answer": "wealthy",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'wealthy' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Which word is a synonym for help?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for help?",
       "options": {
         "choices": [
-          "skip",
-          "assist",
-          "hide"
+          {
+            "id": "c1",
+            "text": "skip"
+          },
+          {
+            "id": "c2",
+            "text": "assist"
+          },
+          {
+            "id": "c3",
+            "text": "hide"
+          }
         ]
       },
-      "correct_answer": "assist",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'assist' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Which word is a synonym for pretty?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for pretty?",
       "options": {
         "choices": [
-          "rough",
-          "lovely",
-          "ugly"
+          {
+            "id": "c1",
+            "text": "rough"
+          },
+          {
+            "id": "c2",
+            "text": "lovely"
+          },
+          {
+            "id": "c3",
+            "text": "ugly"
+          }
         ]
       },
-      "correct_answer": "lovely",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'lovely' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Which word is a synonym for eat?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for eat?",
       "options": {
         "choices": [
-          "paint",
-          "chew",
-          "toss"
+          {
+            "id": "c1",
+            "text": "paint"
+          },
+          {
+            "id": "c2",
+            "text": "chew"
+          },
+          {
+            "id": "c3",
+            "text": "toss"
+          }
         ]
       },
-      "correct_answer": "chew",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'chew' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which word is a synonym for mad?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for mad?",
       "options": {
         "choices": [
-          "calm",
-          "angry",
-          "sleepy"
+          {
+            "id": "c1",
+            "text": "calm"
+          },
+          {
+            "id": "c2",
+            "text": "angry"
+          },
+          {
+            "id": "c3",
+            "text": "sleepy"
+          }
         ]
       },
-      "correct_answer": "angry",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'angry' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Which word is a synonym for small?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for small?",
       "options": {
         "choices": [
-          "giant",
-          "bright",
-          "tiny"
+          {
+            "id": "c1",
+            "text": "giant"
+          },
+          {
+            "id": "c2",
+            "text": "bright"
+          },
+          {
+            "id": "c3",
+            "text": "tiny"
+          }
         ]
       },
-      "correct_answer": "tiny",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'tiny' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which word is a synonym for hard?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for hard?",
       "options": {
         "choices": [
-          "difficult",
-          "smooth",
-          "easy"
+          {
+            "id": "c1",
+            "text": "difficult"
+          },
+          {
+            "id": "c2",
+            "text": "smooth"
+          },
+          {
+            "id": "c3",
+            "text": "easy"
+          }
         ]
       },
-      "correct_answer": "difficult",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'difficult' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which word is a synonym for love?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for love?",
       "options": {
         "choices": [
-          "ignore",
-          "dislike",
-          "adore"
+          {
+            "id": "c1",
+            "text": "ignore"
+          },
+          {
+            "id": "c2",
+            "text": "dislike"
+          },
+          {
+            "id": "c3",
+            "text": "adore"
+          }
         ]
       },
-      "correct_answer": "adore",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'adore' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Which word is a synonym for lady?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for lady?",
       "options": {
         "choices": [
-          "child",
-          "teacher",
-          "woman"
+          {
+            "id": "c1",
+            "text": "child"
+          },
+          {
+            "id": "c2",
+            "text": "teacher"
+          },
+          {
+            "id": "c3",
+            "text": "woman"
+          }
         ]
       },
-      "correct_answer": "woman",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'woman' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which word is a synonym for tug?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for tug?",
       "options": {
         "choices": [
-          "adults",
-          "pull",
-          "did"
+          {
+            "id": "c1",
+            "text": "adults"
+          },
+          {
+            "id": "c2",
+            "text": "pull"
+          },
+          {
+            "id": "c3",
+            "text": "did"
+          }
         ]
       },
-      "correct_answer": "pull",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'pull' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which word is a synonym for dinner?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for dinner?",
       "options": {
         "choices": [
-          "difficulty",
-          "supper",
-          "boxing"
+          {
+            "id": "c1",
+            "text": "difficulty"
+          },
+          {
+            "id": "c2",
+            "text": "supper"
+          },
+          {
+            "id": "c3",
+            "text": "boxing"
+          }
         ]
       },
-      "correct_answer": "supper",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'supper' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which word is a synonym for bike?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for bike?",
       "options": {
         "choices": [
-          "dull",
-          "lovely",
-          "bicycle"
+          {
+            "id": "c1",
+            "text": "dull"
+          },
+          {
+            "id": "c2",
+            "text": "lovely"
+          },
+          {
+            "id": "c3",
+            "text": "bicycle"
+          }
         ]
       },
-      "correct_answer": "bicycle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'bicycle' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Which word is a synonym for hello?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for hello?",
       "options": {
         "choices": [
-          "leader",
-          "hi",
-          "expert"
+          {
+            "id": "c1",
+            "text": "leader"
+          },
+          {
+            "id": "c2",
+            "text": "hi"
+          },
+          {
+            "id": "c3",
+            "text": "expert"
+          }
         ]
       },
-      "correct_answer": "hi",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'hi' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Which word is a synonym for good?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for good?",
       "options": {
         "choices": [
-          "unlock",
-          "great",
-          "open"
+          {
+            "id": "c1",
+            "text": "unlock"
+          },
+          {
+            "id": "c2",
+            "text": "great"
+          },
+          {
+            "id": "c3",
+            "text": "open"
+          }
         ]
       },
-      "correct_answer": "great",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'great' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Which word is a synonym for floor?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for floor?",
       "options": {
         "choices": [
-          "car",
-          "ground",
-          "house"
+          {
+            "id": "c1",
+            "text": "car"
+          },
+          {
+            "id": "c2",
+            "text": "ground"
+          },
+          {
+            "id": "c3",
+            "text": "house"
+          }
         ]
       },
-      "correct_answer": "ground",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'ground' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which word is a synonym for warm?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for warm?",
       "options": {
         "choices": [
-          "cold",
-          "bath",
-          "hot"
+          {
+            "id": "c1",
+            "text": "cold"
+          },
+          {
+            "id": "c2",
+            "text": "bath"
+          },
+          {
+            "id": "c3",
+            "text": "hot"
+          }
         ]
       },
-      "correct_answer": "hot",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'hot' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Which word is a synonym for cap?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for cap?",
       "options": {
         "choices": [
-          "hot",
-          "hat",
-          "mat"
+          {
+            "id": "c1",
+            "text": "hot"
+          },
+          {
+            "id": "c2",
+            "text": "hat"
+          },
+          {
+            "id": "c3",
+            "text": "mat"
+          }
         ]
       },
-      "correct_answer": "hat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'hat' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Which word is a synonym for think?",
       "type": "mcq",
+      "prompt": "Which word is a synonym for think?",
       "options": {
         "choices": [
-          "edit",
-          "believe",
-          "drive"
+          {
+            "id": "c1",
+            "text": "edit"
+          },
+          {
+            "id": "c2",
+            "text": "believe"
+          },
+          {
+            "id": "c3",
+            "text": "drive"
+          }
         ]
       },
-      "correct_answer": "believe",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'believe' is a synonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

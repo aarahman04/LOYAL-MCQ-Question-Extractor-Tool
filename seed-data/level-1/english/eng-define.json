@@ -1,1616 +1,2515 @@
 {
   "_source_file": "level_1_eng_define.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "eng-define",
-    "title": "Define",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.538Z",
+  "slug": "eng-define",
+  "title": "Define",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What word best defines the phrase:<br><span style='color:black;'>full of light</span>",
       "type": "mcq",
+      "prompt": "What word best defines the phrase:<br><span style='color:black;'>full of light</span>",
       "options": {
         "choices": [
-          "bright",
-          "do not have light"
+          {
+            "id": "c1",
+            "text": "bright"
+          },
+          {
+            "id": "c2",
+            "text": "do not have light"
+          }
         ]
       },
-      "correct_answer": "bright",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Bright' means radiating or filled with light.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "What word best defines the phrase:<br><span style='color:black;'>having a low temperature</span>",
       "type": "mcq",
+      "prompt": "What word best defines the phrase:<br><span style='color:black;'>having a low temperature</span>",
       "options": {
         "choices": [
-          "warm",
-          "cold"
+          {
+            "id": "c1",
+            "text": "warm"
+          },
+          {
+            "id": "c2",
+            "text": "cold"
+          }
         ]
       },
-      "correct_answer": "cold",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Cold' refers to an uncomfortably low temperature or a lack of heat.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>feeling joy or pleasure</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>feeling joy or pleasure</span>",
       "options": {
         "choices": [
-          "happy",
-          "fine with the world"
+          {
+            "id": "c1",
+            "text": "happy"
+          },
+          {
+            "id": "c2",
+            "text": "fine with the world"
+          }
         ]
       },
-      "correct_answer": "happy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Happy' is the standard term that means feeling or showing pleasure and contentment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>feeling unhappy</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>feeling unhappy</span>",
       "options": {
         "choices": [
-          "sad",
-          "not very sad"
+          {
+            "id": "c1",
+            "text": "sad"
+          },
+          {
+            "id": "c2",
+            "text": "not very sad"
+          }
         ]
       },
-      "correct_answer": "sad",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Sad' is defined as feeling or showing sorrow or unhappiness.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>moving quickly</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>moving quickly</span>",
       "options": {
         "choices": [
-          "slow",
-          "fast"
+          {
+            "id": "c1",
+            "text": "slow"
+          },
+          {
+            "id": "c2",
+            "text": "fast"
+          }
         ]
       },
-      "correct_answer": "fast",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Fast' means moving or capable of moving at high speed.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>moving with little speed</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>moving with little speed</span>",
       "options": {
         "choices": [
-          "slow",
-          "turtle steps"
+          {
+            "id": "c1",
+            "text": "slow"
+          },
+          {
+            "id": "c2",
+            "text": "turtle steps"
+          }
         ]
       },
-      "correct_answer": "slow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Slow' means operating, moving, or happening at a low speed.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>large in size</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>large in size</span>",
       "options": {
         "choices": [
-          "big",
-          "maybe big"
+          {
+            "id": "c1",
+            "text": "big"
+          },
+          {
+            "id": "c2",
+            "text": "maybe big"
+          }
         ]
       },
-      "correct_answer": "big",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Big' describes something of considerable size, weight, or extent.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>little in size</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>little in size</span>",
       "options": {
         "choices": [
-          "big",
-          "small"
+          {
+            "id": "c1",
+            "text": "big"
+          },
+          {
+            "id": "c2",
+            "text": "small"
+          }
         ]
       },
-      "correct_answer": "small",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Small' means less than normal or usual size.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>having a high temperature</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>having a high temperature</span>",
       "options": {
         "choices": [
-          "hot",
-          "hit"
+          {
+            "id": "c1",
+            "text": "hot"
+          },
+          {
+            "id": "c2",
+            "text": "hit"
+          }
         ]
       },
-      "correct_answer": "hot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Hot' means having a high temperature.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>not difficult</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>not difficult</span>",
       "options": {
         "choices": [
-          "easy",
-          "thinking skills"
+          {
+            "id": "c1",
+            "text": "easy"
+          },
+          {
+            "id": "c2",
+            "text": "thinking skills"
+          }
         ]
       },
-      "correct_answer": "easy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Easy' means achieved without great effort or difficulty.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>not easy</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>not easy</span>",
       "options": {
         "choices": [
-          "talking about it",
-          "difficult"
+          {
+            "id": "c1",
+            "text": "talking about it"
+          },
+          {
+            "id": "c2",
+            "text": "difficult"
+          }
         ]
       },
-      "correct_answer": "difficult",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Difficult' means needing much effort or skill to accomplish or understand.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>caring and helpful</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>caring and helpful</span>",
       "options": {
         "choices": [
-          "love you",
-          "kind"
+          {
+            "id": "c1",
+            "text": "love you"
+          },
+          {
+            "id": "c2",
+            "text": "kind"
+          }
         ]
       },
-      "correct_answer": "kind",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Kind' means having or showing a friendly, generous, and considerate nature.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>feeling mad & upset</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>feeling mad & upset</span>",
       "options": {
         "choices": [
-          "angry",
-          "sleeping"
+          {
+            "id": "c1",
+            "text": "angry"
+          },
+          {
+            "id": "c2",
+            "text": "sleeping"
+          }
         ]
       },
-      "correct_answer": "angry",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Angry' describes feeling or showing strong annoyance, displeasure, or hostility.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>free from dirt</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>free from dirt</span>",
       "options": {
         "choices": [
-          "clean",
-          "dirty"
+          {
+            "id": "c1",
+            "text": "clean"
+          },
+          {
+            "id": "c2",
+            "text": "dirty"
+          }
         ]
       },
-      "correct_answer": "clean",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Clean' means free from dirt, marks, or unwanted substances.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>not clean & covered in dirt</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>not clean & covered in dirt</span>",
       "options": {
         "choices": [
-          "clean",
-          "dirty"
+          {
+            "id": "c1",
+            "text": "clean"
+          },
+          {
+            "id": "c2",
+            "text": "dirty"
+          }
         ]
       },
-      "correct_answer": "dirty",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Dirty' means covered or marked with an unclean substance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>having lived for many years</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>having lived for many years</span>",
       "options": {
         "choices": [
-          "young",
-          "old"
+          {
+            "id": "c1",
+            "text": "young"
+          },
+          {
+            "id": "c2",
+            "text": "old"
+          }
         ]
       },
-      "correct_answer": "old",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Old' describes an individual or thing that has lived or existed for a long time.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>not old</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>not old</span>",
       "options": {
         "choices": [
-          "young",
-          "people"
+          {
+            "id": "c1",
+            "text": "young"
+          },
+          {
+            "id": "c2",
+            "text": "people"
+          }
         ]
       },
-      "correct_answer": "young",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Young' means having lived or existed for only a short time.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>having power or force</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>having power or force</span>",
       "options": {
         "choices": [
-          "training",
-          "strong"
+          {
+            "id": "c1",
+            "text": "training"
+          },
+          {
+            "id": "c2",
+            "text": "strong"
+          }
         ]
       },
-      "correct_answer": "strong",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Strong' means possessing physical power or power of execution.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>not strong</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>not strong</span>",
       "options": {
         "choices": [
-          "strong",
-          "weak"
+          {
+            "id": "c1",
+            "text": "strong"
+          },
+          {
+            "id": "c2",
+            "text": "weak"
+          }
         ]
       },
-      "correct_answer": "weak",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Weak' describes lacking the power to perform physically demanding tasks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>having great height</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>having great height</span>",
       "options": {
         "choices": [
-          "tall",
-          "short"
+          {
+            "id": "c1",
+            "text": "tall"
+          },
+          {
+            "id": "c2",
+            "text": "short"
+          }
         ]
       },
-      "correct_answer": "tall",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Tall' means of great or more than average height.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>not tall in height</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>not tall in height</span>",
       "options": {
         "choices": [
-          "tall",
-          "short"
+          {
+            "id": "c1",
+            "text": "tall"
+          },
+          {
+            "id": "c2",
+            "text": "short"
+          }
         ]
       },
-      "correct_answer": "short",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Short' means measuring a small distance from end to end, or bottom to top.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>having a lot of money</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>having a lot of money</span>",
       "options": {
         "choices": [
-          "poor",
-          "rich"
+          {
+            "id": "c1",
+            "text": "poor"
+          },
+          {
+            "id": "c2",
+            "text": "rich"
+          }
         ]
       },
-      "correct_answer": "rich",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Rich' means having a great deal of money or assets.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>not having much money</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>not having much money</span>",
       "options": {
         "choices": [
-          "rich",
-          "poor"
+          {
+            "id": "c1",
+            "text": "rich"
+          },
+          {
+            "id": "c2",
+            "text": "poor"
+          }
         ]
       },
-      "correct_answer": "poor",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Poor' means lacking sufficient money to live at a comfortable standard.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>making you laugh</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>making you laugh</span>",
       "options": {
         "choices": [
-          "happy",
-          "funny"
+          {
+            "id": "c1",
+            "text": "happy"
+          },
+          {
+            "id": "c2",
+            "text": "funny"
+          }
         ]
       },
-      "correct_answer": "funny",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Funny' means causing laughter or amusement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>very nice to look at</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>very nice to look at</span>",
       "options": {
         "choices": [
-          "ugly",
-          "beautiful"
+          {
+            "id": "c1",
+            "text": "ugly"
+          },
+          {
+            "id": "c2",
+            "text": "beautiful"
+          }
         ]
       },
-      "correct_answer": "beautiful",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Beautiful' means pleasing the senses or mind aesthetically.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>not beautiful</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>not beautiful</span>",
       "options": {
         "choices": [
-          "nice",
-          "ugly"
+          {
+            "id": "c1",
+            "text": "nice"
+          },
+          {
+            "id": "c2",
+            "text": "ugly"
+          }
         ]
       },
-      "correct_answer": "ugly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Ugly' means unpleasant or repulsive in appearance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>making a lot of sound</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>making a lot of sound</span>",
       "options": {
         "choices": [
-          "noisy",
-          "quiet"
+          {
+            "id": "c1",
+            "text": "noisy"
+          },
+          {
+            "id": "c2",
+            "text": "quiet"
+          }
         ]
       },
-      "correct_answer": "noisy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Noisy' means making or given to making a lot of loud or unpleasant noise.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>making little or no noise</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>making little or no noise</span>",
       "options": {
         "choices": [
-          "funny",
-          "quiet"
+          {
+            "id": "c1",
+            "text": "funny"
+          },
+          {
+            "id": "c2",
+            "text": "quiet"
+          }
         ]
       },
-      "correct_answer": "quiet",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Quiet' means making very little or no noise.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>having a sugar taste</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>having a sugar taste</span>",
       "options": {
         "choices": [
-          "sweet",
-          "sour"
+          {
+            "id": "c1",
+            "text": "sweet"
+          },
+          {
+            "id": "c2",
+            "text": "sour"
+          }
         ]
       },
-      "correct_answer": "sweet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Sweet' means having the pleasant taste characteristic of sugar or honey.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>full of heat</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>full of heat</span>",
       "options": {
         "choices": [
-          "warm",
-          "hot"
+          {
+            "id": "c1",
+            "text": "warm"
+          },
+          {
+            "id": "c2",
+            "text": "hot"
+          }
         ]
       },
-      "correct_answer": "hot",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Hot' implies a high degree of heat, whereas warm is moderate heat.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>a little cold</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>a little cold</span>",
       "options": {
         "choices": [
-          "cool",
-          "warm"
+          {
+            "id": "c1",
+            "text": "cool"
+          },
+          {
+            "id": "c2",
+            "text": "warm"
+          }
         ]
       },
-      "correct_answer": "cool",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Cool' means fairly cold, or comfortably low in temperature.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>having nothing inside</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>having nothing inside</span>",
       "options": {
         "choices": [
-          "empty",
-          "employment"
+          {
+            "id": "c1",
+            "text": "empty"
+          },
+          {
+            "id": "c2",
+            "text": "employment"
+          }
         ]
       },
-      "correct_answer": "empty",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Empty' means containing nothing; not filled or occupied.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>having no space left</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>having no space left</span>",
       "options": {
         "choices": [
-          "full",
-          "empty"
+          {
+            "id": "c1",
+            "text": "full"
+          },
+          {
+            "id": "c2",
+            "text": "empty"
+          }
         ]
       },
-      "correct_answer": "full",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Full' means containing or holding as much or as many as possible.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>needing rest or sleep</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>needing rest or sleep</span>",
       "options": {
         "choices": [
-          "emoji",
-          "tired"
+          {
+            "id": "c1",
+            "text": "emoji"
+          },
+          {
+            "id": "c2",
+            "text": "tired"
+          }
         ]
       },
-      "correct_answer": "tired",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Tired' means in need of sleep or rest; weary.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>showing courage</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>showing courage</span>",
       "options": {
         "choices": [
-          "emoji",
-          "brave"
+          {
+            "id": "c1",
+            "text": "emoji"
+          },
+          {
+            "id": "c2",
+            "text": "brave"
+          }
         ]
       },
-      "correct_answer": "brave",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Brave' means ready to face and endure danger or pain; showing courage.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>not afraid</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>not afraid</span>",
       "options": {
         "choices": [
-          "brave",
-          "scary"
+          {
+            "id": "c1",
+            "text": "brave"
+          },
+          {
+            "id": "c2",
+            "text": "scary"
+          }
         ]
       },
-      "correct_answer": "brave",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Being 'brave' means you exhibit strength and are not easily afraid.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>not wanting to work</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>not wanting to work</span>",
       "options": {
         "choices": [
-          "lazy",
-          "low in carbs"
+          {
+            "id": "c1",
+            "text": "lazy"
+          },
+          {
+            "id": "c2",
+            "text": "low in carbs"
+          }
         ]
       },
-      "correct_answer": "lazy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Lazy' means unwilling to work or use energy.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>having many things to do</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>having many things to do</span>",
       "options": {
         "choices": [
-          "flying",
-          "busy"
+          {
+            "id": "c1",
+            "text": "flying"
+          },
+          {
+            "id": "c2",
+            "text": "busy"
+          }
         ]
       },
-      "correct_answer": "busy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Busy' means actively or fully engaged in work or an activity.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>having good fortune</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>having good fortune</span>",
       "options": {
         "choices": [
-          "kind",
-          "lucky"
+          {
+            "id": "c1",
+            "text": "kind"
+          },
+          {
+            "id": "c2",
+            "text": "lucky"
+          }
         ]
       },
-      "correct_answer": "lucky",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Lucky' means having, bringing, or resulting from good luck or fortune.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>having bad fortune</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>having bad fortune</span>",
       "options": {
         "choices": [
-          "lazy",
-          "unlucky"
+          {
+            "id": "c1",
+            "text": "lazy"
+          },
+          {
+            "id": "c2",
+            "text": "unlucky"
+          }
         ]
       },
-      "correct_answer": "unlucky",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Unlucky' means marked by or suffering from bad luck.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>not polite</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>not polite</span>",
       "options": {
         "choices": [
-          "loved",
-          "rude"
+          {
+            "id": "c1",
+            "text": "loved"
+          },
+          {
+            "id": "c2",
+            "text": "rude"
+          }
         ]
       },
-      "correct_answer": "rude",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Rude' means offensively impolite or bad-mannered.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>telling the truth</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>telling the truth</span>",
       "options": {
         "choices": [
-          "loved",
-          "honest"
+          {
+            "id": "c1",
+            "text": "loved"
+          },
+          {
+            "id": "c2",
+            "text": "honest"
+          }
         ]
       },
-      "correct_answer": "honest",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Honest' means free of deceit; truthful and sincere.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to start something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to start something</span>",
       "options": {
         "choices": [
-          "gone",
-          "begin"
+          {
+            "id": "c1",
+            "text": "gone"
+          },
+          {
+            "id": "c2",
+            "text": "begin"
+          }
         ]
       },
-      "correct_answer": "begin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Begin' means to perform the first part of an action or activity.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to finish something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to finish something</span>",
       "options": {
         "choices": [
-          "end",
-          "quiet"
+          {
+            "id": "c1",
+            "text": "end"
+          },
+          {
+            "id": "c2",
+            "text": "quiet"
+          }
         ]
       },
-      "correct_answer": "end",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'End' means to come to a finish, or bring to a final close.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to shut something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to shut something</span>",
       "options": {
         "choices": [
-          "open",
-          "close"
+          {
+            "id": "c1",
+            "text": "open"
+          },
+          {
+            "id": "c2",
+            "text": "close"
+          }
         ]
       },
-      "correct_answer": "close",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Close' means to move something so that it covers an opening.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to take food into the mouth</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to take food into the mouth</span>",
       "options": {
         "choices": [
-          "sleep",
-          "eat"
+          {
+            "id": "c1",
+            "text": "sleep"
+          },
+          {
+            "id": "c2",
+            "text": "eat"
+          }
         ]
       },
-      "correct_answer": "eat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Eat' means to consume solid food through the mouth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to take liquid into the mouth</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to take liquid into the mouth</span>",
       "options": {
         "choices": [
-          "drink",
-          "eat"
+          {
+            "id": "c1",
+            "text": "drink"
+          },
+          {
+            "id": "c2",
+            "text": "eat"
+          }
         ]
       },
-      "correct_answer": "drink",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Drink' means to swallow or take in a liquid substance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to rest your body and mind</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to rest your body and mind</span>",
       "options": {
         "choices": [
-          "sleep",
-          "leave"
+          {
+            "id": "c1",
+            "text": "sleep"
+          },
+          {
+            "id": "c2",
+            "text": "leave"
+          }
         ]
       },
-      "correct_answer": "sleep",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Sleep' is a natural state of rest where the body and mind rest deeply.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to form words with a pen or pencil</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to form words with a pen or pencil</span>",
       "options": {
         "choices": [
-          "write",
-          "draw"
+          {
+            "id": "c1",
+            "text": "write"
+          },
+          {
+            "id": "c2",
+            "text": "draw"
+          }
         ]
       },
-      "correct_answer": "write",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Write' means to mark letters or words on a surface with an instrument.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to move through water using arms and legs</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to move through water using arms and legs</span>",
       "options": {
         "choices": [
-          "swim",
-          "sail"
+          {
+            "id": "c1",
+            "text": "swim"
+          },
+          {
+            "id": "c2",
+            "text": "sail"
+          }
         ]
       },
-      "correct_answer": "swim",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Swim' is the activity of moving through water using bodily limbs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to push yourself off the ground into the air</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to push yourself off the ground into the air</span>",
       "options": {
         "choices": [
-          "jump",
-          "fly"
+          {
+            "id": "c1",
+            "text": "jump"
+          },
+          {
+            "id": "c2",
+            "text": "fly"
+          }
         ]
       },
-      "correct_answer": "jump",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Jump' means to push oneself suddenly off the ground using foot muscles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to shed tears because of sadness or pain</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to shed tears because of sadness or pain</span>",
       "options": {
         "choices": [
-          "cry",
-          "scream"
+          {
+            "id": "c1",
+            "text": "cry"
+          },
+          {
+            "id": "c2",
+            "text": "scream"
+          }
         ]
       },
-      "correct_answer": "cry",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Cry' means to shed tears in response to an emotional state or physical pain.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>rest on the chair</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>rest on the chair</span>",
       "options": {
         "choices": [
-          "sit",
-          "count"
+          {
+            "id": "c1",
+            "text": "sit"
+          },
+          {
+            "id": "c2",
+            "text": "count"
+          }
         ]
       },
-      "correct_answer": "sit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Sit' means to adopt or be in a position in which one's weight is supported by one's buttocks rather than one's feet.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to receive or grab something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to receive or grab something</span>",
       "options": {
         "choices": [
-          "take",
-          "sit"
+          {
+            "id": "c1",
+            "text": "take"
+          },
+          {
+            "id": "c2",
+            "text": "sit"
+          }
         ]
       },
-      "correct_answer": "take",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Take' means to reach out for and lay hold of something; to grab.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to be on your feet</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to be on your feet</span>",
       "options": {
         "choices": [
-          "statement",
-          "stand"
+          {
+            "id": "c1",
+            "text": "statement"
+          },
+          {
+            "id": "c2",
+            "text": "stand"
+          }
         ]
       },
-      "correct_answer": "stand",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Stand' means to maintain an upright position on one's feet.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to move your body to music</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to move your body to music</span>",
       "options": {
         "choices": [
-          "believe",
-          "dance"
+          {
+            "id": "c1",
+            "text": "believe"
+          },
+          {
+            "id": "c2",
+            "text": "dance"
+          }
         ]
       },
-      "correct_answer": "dance",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Dance' means to move rhythmically to music, typically following a set sequence of steps.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to speak to someone</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to speak to someone</span>",
       "options": {
         "choices": [
-          "talk",
-          "sing"
+          {
+            "id": "c1",
+            "text": "talk"
+          },
+          {
+            "id": "c2",
+            "text": "sing"
+          }
         ]
       },
-      "correct_answer": "talk",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Talk' means to speak in order to give information or express ideas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to use your ears to hear</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to use your ears to hear</span>",
       "options": {
         "choices": [
-          "lost",
-          "listen"
+          {
+            "id": "c1",
+            "text": "lost"
+          },
+          {
+            "id": "c2",
+            "text": "listen"
+          }
         ]
       },
-      "correct_answer": "listen",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Listen' means to give attention to sound with your ears.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to take part in a game or an active activity</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to take part in a game or an active activity</span>",
       "options": {
         "choices": [
-          "play",
-          "sit"
+          {
+            "id": "c1",
+            "text": "play"
+          },
+          {
+            "id": "c2",
+            "text": "sit"
+          }
         ]
       },
-      "correct_answer": "play",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Play' means to engage in activity for enjoyment and recreation rather than a serious purpose.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to do a job or a task</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to do a job or a task</span>",
       "options": {
         "choices": [
-          "work",
-          "trying"
+          {
+            "id": "c1",
+            "text": "work"
+          },
+          {
+            "id": "c2",
+            "text": "trying"
+          }
         ]
       },
-      "correct_answer": "work",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Work' means to engage in physical or mental activity in order to achieve a purpose or result.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to learn about something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to learn about something</span>",
       "options": {
         "choices": [
-          "read",
-          "study"
+          {
+            "id": "c1",
+            "text": "read"
+          },
+          {
+            "id": "c2",
+            "text": "study"
+          }
         ]
       },
-      "correct_answer": "study",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Study' means to devote time and attention to acquiring knowledge on an academic subject.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to help others learn</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to help others learn</span>",
       "options": {
         "choices": [
-          "play",
-          "teach"
+          {
+            "id": "c1",
+            "text": "play"
+          },
+          {
+            "id": "c2",
+            "text": "teach"
+          }
         ]
       },
-      "correct_answer": "teach",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Teach' means to impart knowledge or instruct someone on how to do something.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to get knowledge or skill</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to get knowledge or skill</span>",
       "options": {
         "choices": [
-          "learn",
-          "think"
+          {
+            "id": "c1",
+            "text": "learn"
+          },
+          {
+            "id": "c2",
+            "text": "think"
+          }
         ]
       },
-      "correct_answer": "learn",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Learn' means to gain or acquire knowledge or skill in something by study or experience.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to make a picture with lines</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to make a picture with lines</span>",
       "options": {
         "choices": [
-          "learn",
-          "draw"
+          {
+            "id": "c1",
+            "text": "learn"
+          },
+          {
+            "id": "c2",
+            "text": "draw"
+          }
         ]
       },
-      "correct_answer": "draw",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Draw' means to produce a picture or diagram by making lines and marks on paper.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to make art with colors</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to make art with colors</span>",
       "options": {
         "choices": [
-          "think",
-          "paint"
+          {
+            "id": "c1",
+            "text": "think"
+          },
+          {
+            "id": "c2",
+            "text": "paint"
+          }
         ]
       },
-      "correct_answer": "paint",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Paint' means to apply liquid color medium to a surface to generate artwork.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to get something by paying for it</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to get something by paying for it</span>",
       "options": {
         "choices": [
-          "buy",
-          "present"
+          {
+            "id": "c1",
+            "text": "buy"
+          },
+          {
+            "id": "c2",
+            "text": "present"
+          }
         ]
       },
-      "correct_answer": "buy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Buy' means to obtain something in exchange for payment.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to give something for money</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to give something for money</span>",
       "options": {
         "choices": [
-          "buy",
-          "sell"
+          {
+            "id": "c1",
+            "text": "buy"
+          },
+          {
+            "id": "c2",
+            "text": "sell"
+          }
         ]
       },
-      "correct_answer": "sell",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Sell' means to hand over a product or service in exchange for financial currency.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to feel strong affection for someone</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to feel strong affection for someone</span>",
       "options": {
         "choices": [
-          "care",
-          "love"
+          {
+            "id": "c1",
+            "text": "care"
+          },
+          {
+            "id": "c2",
+            "text": "love"
+          }
         ]
       },
-      "correct_answer": "love",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Love' describes an intense feeling of deep affection and emotional connection.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to dislike very much</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to dislike very much</span>",
       "options": {
         "choices": [
-          "like",
-          "hate"
+          {
+            "id": "c1",
+            "text": "like"
+          },
+          {
+            "id": "c2",
+            "text": "hate"
+          }
         ]
       },
-      "correct_answer": "hate",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Hate' means to feel intense dislike or aversion toward something or someone.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to make it easier for someone</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to make it easier for someone</span>",
       "options": {
         "choices": [
-          "love",
-          "help"
+          {
+            "id": "c1",
+            "text": "love"
+          },
+          {
+            "id": "c2",
+            "text": "help"
+          }
         ]
       },
-      "correct_answer": "help",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Help' means to make it easier for someone to do a job or solve a problem.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to discover something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to discover something</span>",
       "options": {
         "choices": [
-          "find",
-          "help"
+          {
+            "id": "c1",
+            "text": "find"
+          },
+          {
+            "id": "c2",
+            "text": "help"
+          }
         ]
       },
-      "correct_answer": "find",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Find' means to discover or perceive unexpectedly or by searching.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to not be able to find something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to not be able to find something</span>",
       "options": {
         "choices": [
-          "lose",
-          "find"
+          {
+            "id": "c1",
+            "text": "lose"
+          },
+          {
+            "id": "c2",
+            "text": "find"
+          }
         ]
       },
-      "correct_answer": "lose",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Lose' means to be deprived of or cease to have or be able to locate something.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to hand something to someone</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to hand something to someone</span>",
       "options": {
         "choices": [
-          "find",
-          "give"
+          {
+            "id": "c1",
+            "text": "find"
+          },
+          {
+            "id": "c2",
+            "text": "give"
+          }
         ]
       },
-      "correct_answer": "give",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Give' means to freely transfer the possession of something to someone.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to create or produce something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to create or produce something</span>",
       "options": {
         "choices": [
-          "sleep",
-          "make"
+          {
+            "id": "c1",
+            "text": "sleep"
+          },
+          {
+            "id": "c2",
+            "text": "make"
+          }
         ]
       },
-      "correct_answer": "make",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Make' means to form an object or produce something by putting parts together or combining substances.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to build something up</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to build something up</span>",
       "options": {
         "choices": [
-          "build",
-          "tear down"
+          {
+            "id": "c1",
+            "text": "build"
+          },
+          {
+            "id": "c2",
+            "text": "tear down"
+          }
         ]
       },
-      "correct_answer": "build",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Build' means to construct an object by putting structural materials together.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to be on your feet</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to be on your feet</span>",
       "options": {
         "choices": [
-          "jump",
-          "stand"
+          {
+            "id": "c1",
+            "text": "jump"
+          },
+          {
+            "id": "c2",
+            "text": "stand"
+          }
         ]
       },
-      "correct_answer": "stand",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Stand' means to maintain an upright posture supported by the feet.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to no longer move or do something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to no longer move or do something</span>",
       "options": {
         "choices": [
-          "stop",
-          "think"
+          {
+            "id": "c1",
+            "text": "stop"
+          },
+          {
+            "id": "c2",
+            "text": "think"
+          }
         ]
       },
-      "correct_answer": "stop",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Stop' means to come to an end, cease a movement, or halt an action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to begin to do something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to begin to do something</span>",
       "options": {
         "choices": [
-          "stop",
-          "start"
+          {
+            "id": "c1",
+            "text": "stop"
+          },
+          {
+            "id": "c2",
+            "text": "start"
+          }
         ]
       },
-      "correct_answer": "start",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Start' means to embark upon or set going an action, journey, or motion.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to stay until something happens</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to stay until something happens</span>",
       "options": {
         "choices": [
-          "wait",
-          "stop"
+          {
+            "id": "c1",
+            "text": "wait"
+          },
+          {
+            "id": "c2",
+            "text": "stop"
+          }
         ]
       },
-      "correct_answer": "wait",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Wait' means to stay where one is or delay action until a particular time or event occurs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to look at something carefully</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to look at something carefully</span>",
       "options": {
         "choices": [
-          "watch",
-          "listen"
+          {
+            "id": "c1",
+            "text": "watch"
+          },
+          {
+            "id": "c2",
+            "text": "listen"
+          }
         ]
       },
-      "correct_answer": "watch",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Watch' means to look at or observe attentively over a period of time.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to use something sharp to divide</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to use something sharp to divide</span>",
       "options": {
         "choices": [
-          "burn",
-          "cut"
+          {
+            "id": "c1",
+            "text": "burn"
+          },
+          {
+            "id": "c2",
+            "text": "cut"
+          }
         ]
       },
-      "correct_answer": "cut",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Cut' means to open, penetrate, or divide something with a sharp-edged tool.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to make something by putting something together</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to make something by putting something together</span>",
       "options": {
         "choices": [
-          "build",
-          "write"
+          {
+            "id": "c1",
+            "text": "build"
+          },
+          {
+            "id": "c2",
+            "text": "write"
+          }
         ]
       },
-      "correct_answer": "build",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Build' means to construct a physical structure by assembling parts or components.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to separate into pieces</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to separate into pieces</span>",
       "options": {
         "choices": [
-          "rub",
-          "break"
+          {
+            "id": "c1",
+            "text": "rub"
+          },
+          {
+            "id": "c2",
+            "text": "break"
+          }
         ]
       },
-      "correct_answer": "break",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Break' means to separate into pieces as a result of a blow, shock, or strain.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to show happiness on your face</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to show happiness on your face</span>",
       "options": {
         "choices": [
-          "rub",
-          "smile"
+          {
+            "id": "c1",
+            "text": "rub"
+          },
+          {
+            "id": "c2",
+            "text": "smile"
+          }
         ]
       },
-      "correct_answer": "smile",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Smile' means to form one's features into a pleased, kind, or amused expression.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to have the same opinion</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to have the same opinion</span>",
       "options": {
         "choices": [
-          "not to say yes",
-          "agree"
+          {
+            "id": "c1",
+            "text": "not to say yes"
+          },
+          {
+            "id": "c2",
+            "text": "agree"
+          }
         ]
       },
-      "correct_answer": "agree",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Agree' means to hold the same opinion or reach a consensus on an idea.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to come to a place</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to come to a place</span>",
       "options": {
         "choices": [
-          "go",
-          "arrive"
+          {
+            "id": "c1",
+            "text": "go"
+          },
+          {
+            "id": "c2",
+            "text": "arrive"
+          }
         ]
       },
-      "correct_answer": "arrive",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Arrive' means to reach a destination at the end of a journey.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to cook in an oven</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to cook in an oven</span>",
       "options": {
         "choices": [
-          "cook",
-          "bake"
+          {
+            "id": "c1",
+            "text": "cook"
+          },
+          {
+            "id": "c2",
+            "text": "bake"
+          }
         ]
       },
-      "correct_answer": "bake",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Bake' means to cook food using dry heat without direct exposure to a flame, typically in an oven.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to take something and return it later</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to take something and return it later</span>",
       "options": {
         "choices": [
-          "lost",
-          "borrow"
+          {
+            "id": "c1",
+            "text": "lost"
+          },
+          {
+            "id": "c2",
+            "text": "borrow"
+          }
         ]
       },
-      "correct_answer": "borrow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Borrow' means to take and use something belonging to someone else with the intention of returning it.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to make or construct something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to make or construct something</span>",
       "options": {
         "choices": [
-          "cook",
-          "build"
+          {
+            "id": "c1",
+            "text": "cook"
+          },
+          {
+            "id": "c2",
+            "text": "build"
+          }
         ]
       },
-      "correct_answer": "build",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Build' involves putting structural materials together to form an entity.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to take hold of something moving</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to take hold of something moving</span>",
       "options": {
         "choices": [
-          "concept",
-          "catch"
+          {
+            "id": "c1",
+            "text": "concept"
+          },
+          {
+            "id": "c2",
+            "text": "catch"
+          }
         ]
       },
-      "correct_answer": "catch",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Catch' means to intercept and hold something that has been thrown, dropped, or is in motion.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to remove dirt</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to remove dirt</span>",
       "options": {
         "choices": [
-          "go",
-          "clean"
+          {
+            "id": "c1",
+            "text": "go"
+          },
+          {
+            "id": "c2",
+            "text": "clean"
+          }
         ]
       },
-      "correct_answer": "clean",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Clean' means to make free of dirt, marks, or pollution by washing, brushing, or wiping.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to prepare food</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to prepare food</span>",
       "options": {
         "choices": [
-          "cook",
-          "write"
+          {
+            "id": "c1",
+            "text": "cook"
+          },
+          {
+            "id": "c2",
+            "text": "write"
+          }
         ]
       },
-      "correct_answer": "cook",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Cook' means to prepare food, a dish, or a meal by combining and heating ingredients.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to produce tears when sad</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to produce tears when sad</span>",
       "options": {
         "choices": [
-          "laugh",
-          "cry"
+          {
+            "id": "c1",
+            "text": "laugh"
+          },
+          {
+            "id": "c2",
+            "text": "cry"
+          }
         ]
       },
-      "correct_answer": "cry",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Cry' means to produce tears as an expression of pain, distress, or sadness.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to move to music</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to move to music</span>",
       "options": {
         "choices": [
-          "drive",
-          "dance"
+          {
+            "id": "c1",
+            "text": "drive"
+          },
+          {
+            "id": "c2",
+            "text": "dance"
+          }
         ]
       },
-      "correct_answer": "dance",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Dance' means to perform a rhythmic series of steps and movements to musical sound.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to control a car</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to control a car</span>",
       "options": {
         "choices": [
-          "drive",
-          "draw"
+          {
+            "id": "c1",
+            "text": "drive"
+          },
+          {
+            "id": "c2",
+            "text": "draw"
+          }
         ]
       },
-      "correct_answer": "drive",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Drive' means to operate and control the direction and speed of a motor vehicle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to like something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to like something</span>",
       "options": {
         "choices": [
-          "dance",
-          "enjoy"
+          {
+            "id": "c1",
+            "text": "dance"
+          },
+          {
+            "id": "c2",
+            "text": "enjoy"
+          }
         ]
       },
-      "correct_answer": "enjoy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Enjoy' means to take pleasure or satisfaction in an activity or thing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to go down suddenly</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to go down suddenly</span>",
       "options": {
         "choices": [
-          "climb",
-          "fall"
+          {
+            "id": "c1",
+            "text": "climb"
+          },
+          {
+            "id": "c2",
+            "text": "fall"
+          }
         ]
       },
-      "correct_answer": "fall",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Fall' means to drop down uncontrollably from a higher to a lower position under gravity force.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to discover something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to discover something</span>",
       "options": {
         "choices": [
-          "congratulations",
-          "find"
+          {
+            "id": "c1",
+            "text": "congratulations"
+          },
+          {
+            "id": "c2",
+            "text": "find"
+          }
         ]
       },
-      "correct_answer": "find",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Find' means to unexpectedly encounter or locate a missing item.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to repair something</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to repair something</span>",
       "options": {
         "choices": [
-          "found",
-          "fix"
+          {
+            "id": "c1",
+            "text": "found"
+          },
+          {
+            "id": "c2",
+            "text": "fix"
+          }
         ]
       },
-      "correct_answer": "fix",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Fix' means to repair or mend something that is broken or damaged.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "What word defines the phrase:<br><span style='color:black;'>to make sound when something is very funny</span>",
       "type": "mcq",
+      "prompt": "What word defines the phrase:<br><span style='color:black;'>to make sound when something is very funny</span>",
       "options": {
         "choices": [
-          "smile",
-          "laugh"
+          {
+            "id": "c1",
+            "text": "smile"
+          },
+          {
+            "id": "c2",
+            "text": "laugh"
+          }
         ]
       },
-      "correct_answer": "laugh",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Laugh' means to make spontaneous sounds and movements of the face and body that express amusement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

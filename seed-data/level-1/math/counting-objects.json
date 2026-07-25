@@ -1,1617 +1,2517 @@
 {
   "_source_file": "level_1_counting_objects.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "counting-objects",
-    "title": "Counting Objects",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.514Z",
+  "slug": "counting-objects",
+  "title": "Counting Objects",
+  "level": "level-1",
+  "subject": "math",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Which group shows <strong>6</strong> cookies?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>6</strong> cookies?",
       "options": {
         "choices": [
-          "🍪🍪🍪🍪🍪🍪🍪",
-          "🍪🍪🍪🍪🍪🍪"
+          {
+            "id": "c1",
+            "text": "🍪🍪🍪🍪🍪🍪🍪"
+          },
+          {
+            "id": "c2",
+            "text": "🍪🍪🍪🍪🍪🍪"
+          }
         ]
       },
-      "correct_answer": "🍪🍪🍪🍪🍪🍪",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍪🍪🍪🍪🍪🍪 shows 6 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which group shows <strong>10</strong> bananas?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>10</strong> bananas?",
       "options": {
         "choices": [
-          "🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌",
-          "🍌🍌🍌🍌🍌🍌🍌🍌🍌"
+          {
+            "id": "c1",
+            "text": "🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌"
+          },
+          {
+            "id": "c2",
+            "text": "🍌🍌🍌🍌🍌🍌🍌🍌🍌"
+          }
         ]
       },
-      "correct_answer": "🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌 shows 10 bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Which group shows <strong>8</strong> fish?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>8</strong> fish?",
       "options": {
         "choices": [
-          "🐟🐟🐟🐟🐟🐟🐟🐟🐟",
-          "🐟🐟🐟🐟🐟🐟🐟🐟"
+          {
+            "id": "c1",
+            "text": "🐟🐟🐟🐟🐟🐟🐟🐟🐟"
+          },
+          {
+            "id": "c2",
+            "text": "🐟🐟🐟🐟🐟🐟🐟🐟"
+          }
         ]
       },
-      "correct_answer": "🐟🐟🐟🐟🐟🐟🐟🐟",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🐟🐟🐟🐟🐟🐟🐟🐟 shows 8 fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which group shows <strong>2</strong> cookies?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>2</strong> cookies?",
       "options": {
         "choices": [
-          "🍪🍪",
-          "🍪🍪🍪"
+          {
+            "id": "c1",
+            "text": "🍪🍪"
+          },
+          {
+            "id": "c2",
+            "text": "🍪🍪🍪"
+          }
         ]
       },
-      "correct_answer": "🍪🍪",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍪🍪 shows 2 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which group shows <strong>1</strong> stars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>1</strong> stars?",
       "options": {
         "choices": [
-          "⭐⭐",
-          "⭐"
+          {
+            "id": "c1",
+            "text": "⭐⭐"
+          },
+          {
+            "id": "c2",
+            "text": "⭐"
+          }
         ]
       },
-      "correct_answer": "⭐",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "⭐ shows 1 stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Which group shows <strong>2</strong> balls?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>2</strong> balls?",
       "options": {
         "choices": [
-          "⚽⚽⚽",
-          "⚽⚽"
+          {
+            "id": "c1",
+            "text": "⚽⚽⚽"
+          },
+          {
+            "id": "c2",
+            "text": "⚽⚽"
+          }
         ]
       },
-      "correct_answer": "⚽⚽",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "⚽⚽ shows 2 balls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Which group shows <strong>4</strong> fish?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>4</strong> fish?",
       "options": {
         "choices": [
-          "🐟🐟🐟🐟",
-          "🐟🐟🐟🐟🐟"
+          {
+            "id": "c1",
+            "text": "🐟🐟🐟🐟"
+          },
+          {
+            "id": "c2",
+            "text": "🐟🐟🐟🐟🐟"
+          }
         ]
       },
-      "correct_answer": "🐟🐟🐟🐟",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🐟🐟🐟🐟 shows 4 fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Which group shows <strong>6</strong> bees?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>6</strong> bees?",
       "options": {
         "choices": [
-          "🐝🐝🐝🐝🐝🐝",
-          "🐝🐝🐝🐝🐝🐝🐝"
+          {
+            "id": "c1",
+            "text": "🐝🐝🐝🐝🐝🐝"
+          },
+          {
+            "id": "c2",
+            "text": "🐝🐝🐝🐝🐝🐝🐝"
+          }
         ]
       },
-      "correct_answer": "🐝🐝🐝🐝🐝🐝",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🐝🐝🐝🐝🐝🐝 shows 6 bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which group shows <strong>10</strong> flowers?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>10</strong> flowers?",
       "options": {
         "choices": [
-          "🌸🌸🌸🌸🌸🌸🌸🌸🌸",
-          "🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"
+          {
+            "id": "c1",
+            "text": "🌸🌸🌸🌸🌸🌸🌸🌸🌸"
+          },
+          {
+            "id": "c2",
+            "text": "🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"
+          }
         ]
       },
-      "correct_answer": "🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸 shows 10 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Which group shows <strong>5</strong> stars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>5</strong> stars?",
       "options": {
         "choices": [
-          "⭐⭐⭐⭐⭐",
-          "⭐⭐⭐⭐⭐⭐"
+          {
+            "id": "c1",
+            "text": "⭐⭐⭐⭐⭐"
+          },
+          {
+            "id": "c2",
+            "text": "⭐⭐⭐⭐⭐⭐"
+          }
         ]
       },
-      "correct_answer": "⭐⭐⭐⭐⭐",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "⭐⭐⭐⭐⭐ shows 5 stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Which group shows <strong>9</strong> stars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>9</strong> stars?",
       "options": {
         "choices": [
-          "⭐⭐⭐⭐⭐⭐⭐⭐⭐",
-          "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐"
+          {
+            "id": "c1",
+            "text": "⭐⭐⭐⭐⭐⭐⭐⭐⭐"
+          },
+          {
+            "id": "c2",
+            "text": "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐"
+          }
         ]
       },
-      "correct_answer": "⭐⭐⭐⭐⭐⭐⭐⭐⭐",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "⭐⭐⭐⭐⭐⭐⭐⭐⭐ shows 9 stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Which group shows <strong>1</strong> cookies?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>1</strong> cookies?",
       "options": {
         "choices": [
-          "🍪🍪",
-          "🍪"
+          {
+            "id": "c1",
+            "text": "🍪🍪"
+          },
+          {
+            "id": "c2",
+            "text": "🍪"
+          }
         ]
       },
-      "correct_answer": "🍪",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍪 shows 1 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Which group shows <strong>5</strong> bananas?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>5</strong> bananas?",
       "options": {
         "choices": [
-          "🍌🍌🍌🍌🍌🍌",
-          "🍌🍌🍌🍌🍌"
+          {
+            "id": "c1",
+            "text": "🍌🍌🍌🍌🍌🍌"
+          },
+          {
+            "id": "c2",
+            "text": "🍌🍌🍌🍌🍌"
+          }
         ]
       },
-      "correct_answer": "🍌🍌🍌🍌🍌",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍌🍌🍌🍌🍌 shows 5 bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Which group shows <strong>10</strong> stars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>10</strong> stars?",
       "options": {
         "choices": [
-          "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐",
-          "⭐⭐⭐⭐⭐⭐⭐⭐⭐"
+          {
+            "id": "c1",
+            "text": "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐"
+          },
+          {
+            "id": "c2",
+            "text": "⭐⭐⭐⭐⭐⭐⭐⭐⭐"
+          }
         ]
       },
-      "correct_answer": "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ shows 10 stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Which group shows <strong>5</strong> bees?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>5</strong> bees?",
       "options": {
         "choices": [
-          "🐝🐝🐝🐝🐝🐝",
-          "🐝🐝🐝🐝🐝"
+          {
+            "id": "c1",
+            "text": "🐝🐝🐝🐝🐝🐝"
+          },
+          {
+            "id": "c2",
+            "text": "🐝🐝🐝🐝🐝"
+          }
         ]
       },
-      "correct_answer": "🐝🐝🐝🐝🐝",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🐝🐝🐝🐝🐝 shows 5 bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Which group shows <strong>2</strong> apples?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>2</strong> apples?",
       "options": {
         "choices": [
-          "🍎🍎🍎",
-          "🍎🍎"
+          {
+            "id": "c1",
+            "text": "🍎🍎🍎"
+          },
+          {
+            "id": "c2",
+            "text": "🍎🍎"
+          }
         ]
       },
-      "correct_answer": "🍎🍎",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍎🍎 shows 2 apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Which group shows <strong>10</strong> bees?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>10</strong> bees?",
       "options": {
         "choices": [
-          "🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝",
-          "🐝🐝🐝🐝🐝🐝🐝🐝🐝"
+          {
+            "id": "c1",
+            "text": "🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝"
+          },
+          {
+            "id": "c2",
+            "text": "🐝🐝🐝🐝🐝🐝🐝🐝🐝"
+          }
         ]
       },
-      "correct_answer": "🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝 shows 10 bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which group shows <strong>9</strong> apples?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>9</strong> apples?",
       "options": {
         "choices": [
-          "🍎🍎🍎🍎🍎🍎🍎🍎🍎",
-          "🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎"
+          {
+            "id": "c1",
+            "text": "🍎🍎🍎🍎🍎🍎🍎🍎🍎"
+          },
+          {
+            "id": "c2",
+            "text": "🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎"
+          }
         ]
       },
-      "correct_answer": "🍎🍎🍎🍎🍎🍎🍎🍎🍎",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍎🍎🍎🍎🍎🍎🍎🍎🍎 shows 9 apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Which group shows <strong>5</strong> balloons?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>5</strong> balloons?",
       "options": {
         "choices": [
-          "🎈🎈🎈🎈🎈",
-          "🎈🎈🎈🎈🎈🎈"
+          {
+            "id": "c1",
+            "text": "🎈🎈🎈🎈🎈"
+          },
+          {
+            "id": "c2",
+            "text": "🎈🎈🎈🎈🎈🎈"
+          }
         ]
       },
-      "correct_answer": "🎈🎈🎈🎈🎈",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🎈🎈🎈🎈🎈 shows 5 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Which group shows <strong>9</strong> flowers?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>9</strong> flowers?",
       "options": {
         "choices": [
-          "🌸🌸🌸🌸🌸🌸🌸🌸🌸",
-          "🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"
+          {
+            "id": "c1",
+            "text": "🌸🌸🌸🌸🌸🌸🌸🌸🌸"
+          },
+          {
+            "id": "c2",
+            "text": "🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"
+          }
         ]
       },
-      "correct_answer": "🌸🌸🌸🌸🌸🌸🌸🌸🌸",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🌸🌸🌸🌸🌸🌸🌸🌸🌸 shows 9 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Which group shows <strong>4</strong> flowers?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>4</strong> flowers?",
       "options": {
         "choices": [
-          "🌸🌸🌸🌸",
-          "🌸🌸🌸🌸🌸"
+          {
+            "id": "c1",
+            "text": "🌸🌸🌸🌸"
+          },
+          {
+            "id": "c2",
+            "text": "🌸🌸🌸🌸🌸"
+          }
         ]
       },
-      "correct_answer": "🌸🌸🌸🌸",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🌸🌸🌸🌸 shows 4 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which group shows <strong>4</strong> stars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>4</strong> stars?",
       "options": {
         "choices": [
-          "⭐⭐⭐⭐",
-          "⭐⭐⭐⭐⭐"
+          {
+            "id": "c1",
+            "text": "⭐⭐⭐⭐"
+          },
+          {
+            "id": "c2",
+            "text": "⭐⭐⭐⭐⭐"
+          }
         ]
       },
-      "correct_answer": "⭐⭐⭐⭐",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "⭐⭐⭐⭐ shows 4 stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which group shows <strong>8</strong> bananas?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>8</strong> bananas?",
       "options": {
         "choices": [
-          "🍌🍌🍌🍌🍌🍌🍌🍌🍌",
-          "🍌🍌🍌🍌🍌🍌🍌🍌"
+          {
+            "id": "c1",
+            "text": "🍌🍌🍌🍌🍌🍌🍌🍌🍌"
+          },
+          {
+            "id": "c2",
+            "text": "🍌🍌🍌🍌🍌🍌🍌🍌"
+          }
         ]
       },
-      "correct_answer": "🍌🍌🍌🍌🍌🍌🍌🍌",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍌🍌🍌🍌🍌🍌🍌🍌 shows 8 bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Which group shows <strong>1</strong> cars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>1</strong> cars?",
       "options": {
         "choices": [
-          "🚗🚗",
-          "🚗"
+          {
+            "id": "c1",
+            "text": "🚗🚗"
+          },
+          {
+            "id": "c2",
+            "text": "🚗"
+          }
         ]
       },
-      "correct_answer": "🚗",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🚗 shows 1 cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Which group shows <strong>5</strong> flowers?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>5</strong> flowers?",
       "options": {
         "choices": [
-          "🌸🌸🌸🌸🌸",
-          "🌸🌸🌸🌸🌸🌸"
+          {
+            "id": "c1",
+            "text": "🌸🌸🌸🌸🌸"
+          },
+          {
+            "id": "c2",
+            "text": "🌸🌸🌸🌸🌸🌸"
+          }
         ]
       },
-      "correct_answer": "🌸🌸🌸🌸🌸",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🌸🌸🌸🌸🌸 shows 5 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which group shows <strong>7</strong> cars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>7</strong> cars?",
       "options": {
         "choices": [
-          "🚗🚗🚗🚗🚗🚗🚗🚗",
-          "🚗🚗🚗🚗🚗🚗🚗"
+          {
+            "id": "c1",
+            "text": "🚗🚗🚗🚗🚗🚗🚗🚗"
+          },
+          {
+            "id": "c2",
+            "text": "🚗🚗🚗🚗🚗🚗🚗"
+          }
         ]
       },
-      "correct_answer": "🚗🚗🚗🚗🚗🚗🚗",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🚗🚗🚗🚗🚗🚗🚗 shows 7 cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Which group shows <strong>10</strong> fish?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>10</strong> fish?",
       "options": {
         "choices": [
-          "🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟",
-          "🐟🐟🐟🐟🐟🐟🐟🐟🐟"
+          {
+            "id": "c1",
+            "text": "🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟"
+          },
+          {
+            "id": "c2",
+            "text": "🐟🐟🐟🐟🐟🐟🐟🐟🐟"
+          }
         ]
       },
-      "correct_answer": "🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟 shows 10 fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which group shows <strong>6</strong> apples?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>6</strong> apples?",
       "options": {
         "choices": [
-          "🍎🍎🍎🍎🍎🍎",
-          "🍎🍎🍎🍎🍎🍎🍎"
+          {
+            "id": "c1",
+            "text": "🍎🍎🍎🍎🍎🍎"
+          },
+          {
+            "id": "c2",
+            "text": "🍎🍎🍎🍎🍎🍎🍎"
+          }
         ]
       },
-      "correct_answer": "🍎🍎🍎🍎🍎🍎",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍎🍎🍎🍎🍎🍎 shows 6 apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which group shows <strong>2</strong> stars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>2</strong> stars?",
       "options": {
         "choices": [
-          "⭐⭐⭐",
-          "⭐⭐"
+          {
+            "id": "c1",
+            "text": "⭐⭐⭐"
+          },
+          {
+            "id": "c2",
+            "text": "⭐⭐"
+          }
         ]
       },
-      "correct_answer": "⭐⭐",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "⭐⭐ shows 2 stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which group shows <strong>7</strong> apples?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>7</strong> apples?",
       "options": {
         "choices": [
-          "🍎🍎🍎🍎🍎🍎🍎",
-          "🍎🍎🍎🍎🍎🍎🍎🍎"
+          {
+            "id": "c1",
+            "text": "🍎🍎🍎🍎🍎🍎🍎"
+          },
+          {
+            "id": "c2",
+            "text": "🍎🍎🍎🍎🍎🍎🍎🍎"
+          }
         ]
       },
-      "correct_answer": "🍎🍎🍎🍎🍎🍎🍎",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍎🍎🍎🍎🍎🍎🍎 shows 7 apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which group shows <strong>5</strong> apples?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>5</strong> apples?",
       "options": {
         "choices": [
-          "🍎🍎🍎🍎🍎🍎",
-          "🍎🍎🍎🍎🍎"
+          {
+            "id": "c1",
+            "text": "🍎🍎🍎🍎🍎🍎"
+          },
+          {
+            "id": "c2",
+            "text": "🍎🍎🍎🍎🍎"
+          }
         ]
       },
-      "correct_answer": "🍎🍎🍎🍎🍎",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍎🍎🍎🍎🍎 shows 5 apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which group shows <strong>9</strong> bees?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>9</strong> bees?",
       "options": {
         "choices": [
-          "🐝🐝🐝🐝🐝🐝🐝🐝🐝",
-          "🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝"
+          {
+            "id": "c1",
+            "text": "🐝🐝🐝🐝🐝🐝🐝🐝🐝"
+          },
+          {
+            "id": "c2",
+            "text": "🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝"
+          }
         ]
       },
-      "correct_answer": "🐝🐝🐝🐝🐝🐝🐝🐝🐝",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🐝🐝🐝🐝🐝🐝🐝🐝🐝 shows 9 bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Which group shows <strong>1</strong> balloons?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>1</strong> balloons?",
       "options": {
         "choices": [
-          "🎈🎈",
-          "🎈"
+          {
+            "id": "c1",
+            "text": "🎈🎈"
+          },
+          {
+            "id": "c2",
+            "text": "🎈"
+          }
         ]
       },
-      "correct_answer": "🎈",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🎈 shows 1 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which group shows <strong>8</strong> bees?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>8</strong> bees?",
       "options": {
         "choices": [
-          "🐝🐝🐝🐝🐝🐝🐝🐝🐝",
-          "🐝🐝🐝🐝🐝🐝🐝🐝"
+          {
+            "id": "c1",
+            "text": "🐝🐝🐝🐝🐝🐝🐝🐝🐝"
+          },
+          {
+            "id": "c2",
+            "text": "🐝🐝🐝🐝🐝🐝🐝🐝"
+          }
         ]
       },
-      "correct_answer": "🐝🐝🐝🐝🐝🐝🐝🐝",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🐝🐝🐝🐝🐝🐝🐝🐝 shows 8 bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Which group shows <strong>7</strong> balls?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>7</strong> balls?",
       "options": {
         "choices": [
-          "⚽⚽⚽⚽⚽⚽⚽⚽",
-          "⚽⚽⚽⚽⚽⚽⚽"
+          {
+            "id": "c1",
+            "text": "⚽⚽⚽⚽⚽⚽⚽⚽"
+          },
+          {
+            "id": "c2",
+            "text": "⚽⚽⚽⚽⚽⚽⚽"
+          }
         ]
       },
-      "correct_answer": "⚽⚽⚽⚽⚽⚽⚽",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "⚽⚽⚽⚽⚽⚽⚽ shows 7 balls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which group shows <strong>10</strong> balls?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>10</strong> balls?",
       "options": {
         "choices": [
-          "⚽⚽⚽⚽⚽⚽⚽⚽⚽",
-          "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽"
+          {
+            "id": "c1",
+            "text": "⚽⚽⚽⚽⚽⚽⚽⚽⚽"
+          },
+          {
+            "id": "c2",
+            "text": "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽"
+          }
         ]
       },
-      "correct_answer": "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽ shows 10 balls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which group shows <strong>1</strong> bees?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>1</strong> bees?",
       "options": {
         "choices": [
-          "🐝🐝",
-          "🐝"
+          {
+            "id": "c1",
+            "text": "🐝🐝"
+          },
+          {
+            "id": "c2",
+            "text": "🐝"
+          }
         ]
       },
-      "correct_answer": "🐝",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🐝 shows 1 bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which group shows <strong>3</strong> cookies?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>3</strong> cookies?",
       "options": {
         "choices": [
-          "🍪🍪🍪",
-          "🍪🍪🍪🍪"
+          {
+            "id": "c1",
+            "text": "🍪🍪🍪"
+          },
+          {
+            "id": "c2",
+            "text": "🍪🍪🍪🍪"
+          }
         ]
       },
-      "correct_answer": "🍪🍪🍪",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍪🍪🍪 shows 3 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which group shows <strong>4</strong> cookies?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>4</strong> cookies?",
       "options": {
         "choices": [
-          "🍪🍪🍪🍪",
-          "🍪🍪🍪🍪🍪"
+          {
+            "id": "c1",
+            "text": "🍪🍪🍪🍪"
+          },
+          {
+            "id": "c2",
+            "text": "🍪🍪🍪🍪🍪"
+          }
         ]
       },
-      "correct_answer": "🍪🍪🍪🍪",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍪🍪🍪🍪 shows 4 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which group shows <strong>6</strong> cars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>6</strong> cars?",
       "options": {
         "choices": [
-          "🚗🚗🚗🚗🚗🚗",
-          "🚗🚗🚗🚗🚗🚗🚗"
+          {
+            "id": "c1",
+            "text": "🚗🚗🚗🚗🚗🚗"
+          },
+          {
+            "id": "c2",
+            "text": "🚗🚗🚗🚗🚗🚗🚗"
+          }
         ]
       },
-      "correct_answer": "🚗🚗🚗🚗🚗🚗",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🚗🚗🚗🚗🚗🚗 shows 6 cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which group shows <strong>8</strong> flowers?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>8</strong> flowers?",
       "options": {
         "choices": [
-          "🌸🌸🌸🌸🌸🌸🌸🌸🌸",
-          "🌸🌸🌸🌸🌸🌸🌸🌸"
+          {
+            "id": "c1",
+            "text": "🌸🌸🌸🌸🌸🌸🌸🌸🌸"
+          },
+          {
+            "id": "c2",
+            "text": "🌸🌸🌸🌸🌸🌸🌸🌸"
+          }
         ]
       },
-      "correct_answer": "🌸🌸🌸🌸🌸🌸🌸🌸",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🌸🌸🌸🌸🌸🌸🌸🌸 shows 8 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which group shows <strong>8</strong> cookies?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>8</strong> cookies?",
       "options": {
         "choices": [
-          "🍪🍪🍪🍪🍪🍪🍪🍪🍪",
-          "🍪🍪🍪🍪🍪🍪🍪🍪"
+          {
+            "id": "c1",
+            "text": "🍪🍪🍪🍪🍪🍪🍪🍪🍪"
+          },
+          {
+            "id": "c2",
+            "text": "🍪🍪🍪🍪🍪🍪🍪🍪"
+          }
         ]
       },
-      "correct_answer": "🍪🍪🍪🍪🍪🍪🍪🍪",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍪🍪🍪🍪🍪🍪🍪🍪 shows 8 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which group shows <strong>8</strong> balloons?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>8</strong> balloons?",
       "options": {
         "choices": [
-          "🎈🎈🎈🎈🎈🎈🎈🎈🎈",
-          "🎈🎈🎈🎈🎈🎈🎈🎈"
+          {
+            "id": "c1",
+            "text": "🎈🎈🎈🎈🎈🎈🎈🎈🎈"
+          },
+          {
+            "id": "c2",
+            "text": "🎈🎈🎈🎈🎈🎈🎈🎈"
+          }
         ]
       },
-      "correct_answer": "🎈🎈🎈🎈🎈🎈🎈🎈",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🎈🎈🎈🎈🎈🎈🎈🎈 shows 8 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which group shows <strong>3</strong> stars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>3</strong> stars?",
       "options": {
         "choices": [
-          "⭐⭐⭐⭐",
-          "⭐⭐⭐"
+          {
+            "id": "c1",
+            "text": "⭐⭐⭐⭐"
+          },
+          {
+            "id": "c2",
+            "text": "⭐⭐⭐"
+          }
         ]
       },
-      "correct_answer": "⭐⭐⭐",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "⭐⭐⭐ shows 3 stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which group shows <strong>5</strong> cookies?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>5</strong> cookies?",
       "options": {
         "choices": [
-          "🍪🍪🍪🍪🍪🍪",
-          "🍪🍪🍪🍪🍪"
+          {
+            "id": "c1",
+            "text": "🍪🍪🍪🍪🍪🍪"
+          },
+          {
+            "id": "c2",
+            "text": "🍪🍪🍪🍪🍪"
+          }
         ]
       },
-      "correct_answer": "🍪🍪🍪🍪🍪",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍪🍪🍪🍪🍪 shows 5 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Which group shows <strong>9</strong> cookies?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>9</strong> cookies?",
       "options": {
         "choices": [
-          "🍪🍪🍪🍪🍪🍪🍪🍪🍪",
-          "🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪"
+          {
+            "id": "c1",
+            "text": "🍪🍪🍪🍪🍪🍪🍪🍪🍪"
+          },
+          {
+            "id": "c2",
+            "text": "🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪"
+          }
         ]
       },
-      "correct_answer": "🍪🍪🍪🍪🍪🍪🍪🍪🍪",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍪🍪🍪🍪🍪🍪🍪🍪🍪 shows 9 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which group shows <strong>6</strong> flowers?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>6</strong> flowers?",
       "options": {
         "choices": [
-          "🌸🌸🌸🌸🌸🌸",
-          "🌸🌸🌸🌸🌸🌸🌸"
+          {
+            "id": "c1",
+            "text": "🌸🌸🌸🌸🌸🌸"
+          },
+          {
+            "id": "c2",
+            "text": "🌸🌸🌸🌸🌸🌸🌸"
+          }
         ]
       },
-      "correct_answer": "🌸🌸🌸🌸🌸🌸",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🌸🌸🌸🌸🌸🌸 shows 6 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which group shows <strong>8</strong> balls?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>8</strong> balls?",
       "options": {
         "choices": [
-          "⚽⚽⚽⚽⚽⚽⚽⚽",
-          "⚽⚽⚽⚽⚽⚽⚽⚽⚽"
+          {
+            "id": "c1",
+            "text": "⚽⚽⚽⚽⚽⚽⚽⚽"
+          },
+          {
+            "id": "c2",
+            "text": "⚽⚽⚽⚽⚽⚽⚽⚽⚽"
+          }
         ]
       },
-      "correct_answer": "⚽⚽⚽⚽⚽⚽⚽⚽",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "⚽⚽⚽⚽⚽⚽⚽⚽ shows 8 balls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which group shows <strong>10</strong> cars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>10</strong> cars?",
       "options": {
         "choices": [
-          "🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗",
-          "🚗🚗🚗🚗🚗🚗🚗🚗🚗"
+          {
+            "id": "c1",
+            "text": "🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗"
+          },
+          {
+            "id": "c2",
+            "text": "🚗🚗🚗🚗🚗🚗🚗🚗🚗"
+          }
         ]
       },
-      "correct_answer": "🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗 shows 10 cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which group shows <strong>10</strong> apples?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>10</strong> apples?",
       "options": {
         "choices": [
-          "🍎🍎🍎🍎🍎🍎🍎🍎🍎",
-          "🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎"
+          {
+            "id": "c1",
+            "text": "🍎🍎🍎🍎🍎🍎🍎🍎🍎"
+          },
+          {
+            "id": "c2",
+            "text": "🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎"
+          }
         ]
       },
-      "correct_answer": "🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎 shows 10 apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which group shows <strong>1</strong> flowers?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>1</strong> flowers?",
       "options": {
         "choices": [
-          "🌸🌸",
-          "🌸"
+          {
+            "id": "c1",
+            "text": "🌸🌸"
+          },
+          {
+            "id": "c2",
+            "text": "🌸"
+          }
         ]
       },
-      "correct_answer": "🌸",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🌸 shows 1 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Which group shows <strong>2</strong> fish?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>2</strong> fish?",
       "options": {
         "choices": [
-          "🐟🐟",
-          "🐟🐟🐟"
+          {
+            "id": "c1",
+            "text": "🐟🐟"
+          },
+          {
+            "id": "c2",
+            "text": "🐟🐟🐟"
+          }
         ]
       },
-      "correct_answer": "🐟🐟",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🐟🐟 shows 2 fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Which group shows <strong>4</strong> bees?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>4</strong> bees?",
       "options": {
         "choices": [
-          "🐝🐝🐝🐝🐝",
-          "🐝🐝🐝🐝"
+          {
+            "id": "c1",
+            "text": "🐝🐝🐝🐝🐝"
+          },
+          {
+            "id": "c2",
+            "text": "🐝🐝🐝🐝"
+          }
         ]
       },
-      "correct_answer": "🐝🐝🐝🐝",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🐝🐝🐝🐝 shows 4 bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which group shows <strong>6</strong> bananas?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>6</strong> bananas?",
       "options": {
         "choices": [
-          "🍌🍌🍌🍌🍌🍌",
-          "🍌🍌🍌🍌🍌🍌🍌"
+          {
+            "id": "c1",
+            "text": "🍌🍌🍌🍌🍌🍌"
+          },
+          {
+            "id": "c2",
+            "text": "🍌🍌🍌🍌🍌🍌🍌"
+          }
         ]
       },
-      "correct_answer": "🍌🍌🍌🍌🍌🍌",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍌🍌🍌🍌🍌🍌 shows 6 bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which group shows <strong>3</strong> bananas?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>3</strong> bananas?",
       "options": {
         "choices": [
-          "🍌🍌🍌🍌",
-          "🍌🍌🍌"
+          {
+            "id": "c1",
+            "text": "🍌🍌🍌🍌"
+          },
+          {
+            "id": "c2",
+            "text": "🍌🍌🍌"
+          }
         ]
       },
-      "correct_answer": "🍌🍌🍌",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍌🍌🍌 shows 3 bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which group shows <strong>1</strong> apples?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>1</strong> apples?",
       "options": {
         "choices": [
-          "🍎🍎",
-          "🍎"
+          {
+            "id": "c1",
+            "text": "🍎🍎"
+          },
+          {
+            "id": "c2",
+            "text": "🍎"
+          }
         ]
       },
-      "correct_answer": "🍎",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍎 shows 1 apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Which group shows <strong>7</strong> stars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>7</strong> stars?",
       "options": {
         "choices": [
-          "⭐⭐⭐⭐⭐⭐⭐⭐",
-          "⭐⭐⭐⭐⭐⭐⭐"
+          {
+            "id": "c1",
+            "text": "⭐⭐⭐⭐⭐⭐⭐⭐"
+          },
+          {
+            "id": "c2",
+            "text": "⭐⭐⭐⭐⭐⭐⭐"
+          }
         ]
       },
-      "correct_answer": "⭐⭐⭐⭐⭐⭐⭐",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "⭐⭐⭐⭐⭐⭐⭐ shows 7 stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Which group shows <strong>7</strong> fish?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>7</strong> fish?",
       "options": {
         "choices": [
-          "🐟🐟🐟🐟🐟🐟🐟🐟",
-          "🐟🐟🐟🐟🐟🐟🐟"
+          {
+            "id": "c1",
+            "text": "🐟🐟🐟🐟🐟🐟🐟🐟"
+          },
+          {
+            "id": "c2",
+            "text": "🐟🐟🐟🐟🐟🐟🐟"
+          }
         ]
       },
-      "correct_answer": "🐟🐟🐟🐟🐟🐟🐟",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🐟🐟🐟🐟🐟🐟🐟 shows 7 fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which group shows <strong>2</strong> bananas?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>2</strong> bananas?",
       "options": {
         "choices": [
-          "🍌🍌🍌",
-          "🍌🍌"
+          {
+            "id": "c1",
+            "text": "🍌🍌🍌"
+          },
+          {
+            "id": "c2",
+            "text": "🍌🍌"
+          }
         ]
       },
-      "correct_answer": "🍌🍌",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍌🍌 shows 2 bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which group shows <strong>7</strong> bees?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>7</strong> bees?",
       "options": {
         "choices": [
-          "🐝🐝🐝🐝🐝🐝🐝",
-          "🐝🐝🐝🐝🐝🐝🐝🐝"
+          {
+            "id": "c1",
+            "text": "🐝🐝🐝🐝🐝🐝🐝"
+          },
+          {
+            "id": "c2",
+            "text": "🐝🐝🐝🐝🐝🐝🐝🐝"
+          }
         ]
       },
-      "correct_answer": "🐝🐝🐝🐝🐝🐝🐝",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🐝🐝🐝🐝🐝🐝🐝 shows 7 bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Which group shows <strong>4</strong> cars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>4</strong> cars?",
       "options": {
         "choices": [
-          "🚗🚗🚗🚗🚗",
-          "🚗🚗🚗🚗"
+          {
+            "id": "c1",
+            "text": "🚗🚗🚗🚗🚗"
+          },
+          {
+            "id": "c2",
+            "text": "🚗🚗🚗🚗"
+          }
         ]
       },
-      "correct_answer": "🚗🚗🚗🚗",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🚗🚗🚗🚗 shows 4 cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which group shows <strong>9</strong> bananas?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>9</strong> bananas?",
       "options": {
         "choices": [
-          "🍌🍌🍌🍌🍌🍌🍌🍌🍌",
-          "🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌"
+          {
+            "id": "c1",
+            "text": "🍌🍌🍌🍌🍌🍌🍌🍌🍌"
+          },
+          {
+            "id": "c2",
+            "text": "🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌"
+          }
         ]
       },
-      "correct_answer": "🍌🍌🍌🍌🍌🍌🍌🍌🍌",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍌🍌🍌🍌🍌🍌🍌🍌🍌 shows 9 bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which group shows <strong>10</strong> balloons?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>10</strong> balloons?",
       "options": {
         "choices": [
-          "🎈🎈🎈🎈🎈🎈🎈🎈🎈",
-          "🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈"
+          {
+            "id": "c1",
+            "text": "🎈🎈🎈🎈🎈🎈🎈🎈🎈"
+          },
+          {
+            "id": "c2",
+            "text": "🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈"
+          }
         ]
       },
-      "correct_answer": "🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈 shows 10 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which group shows <strong>3</strong> fish?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>3</strong> fish?",
       "options": {
         "choices": [
-          "🐟🐟🐟",
-          "🐟🐟🐟🐟"
+          {
+            "id": "c1",
+            "text": "🐟🐟🐟"
+          },
+          {
+            "id": "c2",
+            "text": "🐟🐟🐟🐟"
+          }
         ]
       },
-      "correct_answer": "🐟🐟🐟",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🐟🐟🐟 shows 3 fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Which group shows <strong>1</strong> bananas?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>1</strong> bananas?",
       "options": {
         "choices": [
-          "🍌🍌",
-          "🍌"
+          {
+            "id": "c1",
+            "text": "🍌🍌"
+          },
+          {
+            "id": "c2",
+            "text": "🍌"
+          }
         ]
       },
-      "correct_answer": "🍌",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍌 shows 1 bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which group shows <strong>9</strong> balloons?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>9</strong> balloons?",
       "options": {
         "choices": [
-          "🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈",
-          "🎈🎈🎈🎈🎈🎈🎈🎈🎈"
+          {
+            "id": "c1",
+            "text": "🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈"
+          },
+          {
+            "id": "c2",
+            "text": "🎈🎈🎈🎈🎈🎈🎈🎈🎈"
+          }
         ]
       },
-      "correct_answer": "🎈🎈🎈🎈🎈🎈🎈🎈🎈",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🎈🎈🎈🎈🎈🎈🎈🎈🎈 shows 9 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which group shows <strong>5</strong> balls?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>5</strong> balls?",
       "options": {
         "choices": [
-          "⚽⚽⚽⚽⚽",
-          "⚽⚽⚽⚽⚽⚽"
+          {
+            "id": "c1",
+            "text": "⚽⚽⚽⚽⚽"
+          },
+          {
+            "id": "c2",
+            "text": "⚽⚽⚽⚽⚽⚽"
+          }
         ]
       },
-      "correct_answer": "⚽⚽⚽⚽⚽",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "⚽⚽⚽⚽⚽ shows 5 balls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which group shows <strong>1</strong> fish?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>1</strong> fish?",
       "options": {
         "choices": [
-          "🐟🐟",
-          "🐟"
+          {
+            "id": "c1",
+            "text": "🐟🐟"
+          },
+          {
+            "id": "c2",
+            "text": "🐟"
+          }
         ]
       },
-      "correct_answer": "🐟",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🐟 shows 1 fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which group shows <strong>4</strong> balloons?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>4</strong> balloons?",
       "options": {
         "choices": [
-          "🎈🎈🎈🎈",
-          "🎈🎈🎈🎈🎈"
+          {
+            "id": "c1",
+            "text": "🎈🎈🎈🎈"
+          },
+          {
+            "id": "c2",
+            "text": "🎈🎈🎈🎈🎈"
+          }
         ]
       },
-      "correct_answer": "🎈🎈🎈🎈",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🎈🎈🎈🎈 shows 4 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which group shows <strong>3</strong> cars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>3</strong> cars?",
       "options": {
         "choices": [
-          "🚗🚗🚗",
-          "🚗🚗🚗🚗"
+          {
+            "id": "c1",
+            "text": "🚗🚗🚗"
+          },
+          {
+            "id": "c2",
+            "text": "🚗🚗🚗🚗"
+          }
         ]
       },
-      "correct_answer": "🚗🚗🚗",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🚗🚗🚗 shows 3 cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which group shows <strong>3</strong> flowers?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>3</strong> flowers?",
       "options": {
         "choices": [
-          "🌸🌸🌸🌸",
-          "🌸🌸🌸"
+          {
+            "id": "c1",
+            "text": "🌸🌸🌸🌸"
+          },
+          {
+            "id": "c2",
+            "text": "🌸🌸🌸"
+          }
         ]
       },
-      "correct_answer": "🌸🌸🌸",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🌸🌸🌸 shows 3 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which group shows <strong>8</strong> cars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>8</strong> cars?",
       "options": {
         "choices": [
-          "🚗🚗🚗🚗🚗🚗🚗🚗🚗",
-          "🚗🚗🚗🚗🚗🚗🚗🚗"
+          {
+            "id": "c1",
+            "text": "🚗🚗🚗🚗🚗🚗🚗🚗🚗"
+          },
+          {
+            "id": "c2",
+            "text": "🚗🚗🚗🚗🚗🚗🚗🚗"
+          }
         ]
       },
-      "correct_answer": "🚗🚗🚗🚗🚗🚗🚗🚗",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🚗🚗🚗🚗🚗🚗🚗🚗 shows 8 cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which group shows <strong>4</strong> apples?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>4</strong> apples?",
       "options": {
         "choices": [
-          "🍎🍎🍎🍎🍎",
-          "🍎🍎🍎🍎"
+          {
+            "id": "c1",
+            "text": "🍎🍎🍎🍎🍎"
+          },
+          {
+            "id": "c2",
+            "text": "🍎🍎🍎🍎"
+          }
         ]
       },
-      "correct_answer": "🍎🍎🍎🍎",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍎🍎🍎🍎 shows 4 apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which group shows <strong>8</strong> stars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>8</strong> stars?",
       "options": {
         "choices": [
-          "⭐⭐⭐⭐⭐⭐⭐⭐⭐",
-          "⭐⭐⭐⭐⭐⭐⭐⭐"
+          {
+            "id": "c1",
+            "text": "⭐⭐⭐⭐⭐⭐⭐⭐⭐"
+          },
+          {
+            "id": "c2",
+            "text": "⭐⭐⭐⭐⭐⭐⭐⭐"
+          }
         ]
       },
-      "correct_answer": "⭐⭐⭐⭐⭐⭐⭐⭐",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "⭐⭐⭐⭐⭐⭐⭐⭐ shows 8 stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which group shows <strong>6</strong> fish?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>6</strong> fish?",
       "options": {
         "choices": [
-          "🐟🐟🐟🐟🐟🐟",
-          "🐟🐟🐟🐟🐟🐟🐟"
+          {
+            "id": "c1",
+            "text": "🐟🐟🐟🐟🐟🐟"
+          },
+          {
+            "id": "c2",
+            "text": "🐟🐟🐟🐟🐟🐟🐟"
+          }
         ]
       },
-      "correct_answer": "🐟🐟🐟🐟🐟🐟",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🐟🐟🐟🐟🐟🐟 shows 6 fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which group shows <strong>4</strong> bananas?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>4</strong> bananas?",
       "options": {
         "choices": [
-          "🍌🍌🍌🍌",
-          "🍌🍌🍌🍌🍌"
+          {
+            "id": "c1",
+            "text": "🍌🍌🍌🍌"
+          },
+          {
+            "id": "c2",
+            "text": "🍌🍌🍌🍌🍌"
+          }
         ]
       },
-      "correct_answer": "🍌🍌🍌🍌",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍌🍌🍌🍌 shows 4 bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which group shows <strong>2</strong> bees?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>2</strong> bees?",
       "options": {
         "choices": [
-          "🐝🐝🐝",
-          "🐝🐝"
+          {
+            "id": "c1",
+            "text": "🐝🐝🐝"
+          },
+          {
+            "id": "c2",
+            "text": "🐝🐝"
+          }
         ]
       },
-      "correct_answer": "🐝🐝",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🐝🐝 shows 2 bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which group shows <strong>10</strong> cookies?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>10</strong> cookies?",
       "options": {
         "choices": [
-          "🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪",
-          "🍪🍪🍪🍪🍪🍪🍪🍪🍪"
+          {
+            "id": "c1",
+            "text": "🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪"
+          },
+          {
+            "id": "c2",
+            "text": "🍪🍪🍪🍪🍪🍪🍪🍪🍪"
+          }
         ]
       },
-      "correct_answer": "🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍪🍪🍪🍪🍪🍪🍪🍪🍪🍪 shows 10 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Which group shows <strong>3</strong> balls?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>3</strong> balls?",
       "options": {
         "choices": [
-          "⚽⚽⚽⚽",
-          "⚽⚽⚽"
+          {
+            "id": "c1",
+            "text": "⚽⚽⚽⚽"
+          },
+          {
+            "id": "c2",
+            "text": "⚽⚽⚽"
+          }
         ]
       },
-      "correct_answer": "⚽⚽⚽",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "⚽⚽⚽ shows 3 balls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which group shows <strong>3</strong> bees?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>3</strong> bees?",
       "options": {
         "choices": [
-          "🐝🐝🐝🐝",
-          "🐝🐝🐝"
+          {
+            "id": "c1",
+            "text": "🐝🐝🐝🐝"
+          },
+          {
+            "id": "c2",
+            "text": "🐝🐝🐝"
+          }
         ]
       },
-      "correct_answer": "🐝🐝🐝",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🐝🐝🐝 shows 3 bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which group shows <strong>6</strong> stars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>6</strong> stars?",
       "options": {
         "choices": [
-          "⭐⭐⭐⭐⭐⭐",
-          "⭐⭐⭐⭐⭐⭐⭐"
+          {
+            "id": "c1",
+            "text": "⭐⭐⭐⭐⭐⭐"
+          },
+          {
+            "id": "c2",
+            "text": "⭐⭐⭐⭐⭐⭐⭐"
+          }
         ]
       },
-      "correct_answer": "⭐⭐⭐⭐⭐⭐",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "⭐⭐⭐⭐⭐⭐ shows 6 stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Which group shows <strong>7</strong> balloons?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>7</strong> balloons?",
       "options": {
         "choices": [
-          "🎈🎈🎈🎈🎈🎈🎈🎈",
-          "🎈🎈🎈🎈🎈🎈🎈"
+          {
+            "id": "c1",
+            "text": "🎈🎈🎈🎈🎈🎈🎈🎈"
+          },
+          {
+            "id": "c2",
+            "text": "🎈🎈🎈🎈🎈🎈🎈"
+          }
         ]
       },
-      "correct_answer": "🎈🎈🎈🎈🎈🎈🎈",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🎈🎈🎈🎈🎈🎈🎈 shows 7 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Which group shows <strong>9</strong> cars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>9</strong> cars?",
       "options": {
         "choices": [
-          "🚗🚗🚗🚗🚗🚗🚗🚗🚗",
-          "🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗"
+          {
+            "id": "c1",
+            "text": "🚗🚗🚗🚗🚗🚗🚗🚗🚗"
+          },
+          {
+            "id": "c2",
+            "text": "🚗🚗🚗🚗🚗🚗🚗🚗🚗🚗"
+          }
         ]
       },
-      "correct_answer": "🚗🚗🚗🚗🚗🚗🚗🚗🚗",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🚗🚗🚗🚗🚗🚗🚗🚗🚗 shows 9 cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Which group shows <strong>8</strong> apples?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>8</strong> apples?",
       "options": {
         "choices": [
-          "🍎🍎🍎🍎🍎🍎🍎🍎🍎",
-          "🍎🍎🍎🍎🍎🍎🍎🍎"
+          {
+            "id": "c1",
+            "text": "🍎🍎🍎🍎🍎🍎🍎🍎🍎"
+          },
+          {
+            "id": "c2",
+            "text": "🍎🍎🍎🍎🍎🍎🍎🍎"
+          }
         ]
       },
-      "correct_answer": "🍎🍎🍎🍎🍎🍎🍎🍎",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍎🍎🍎🍎🍎🍎🍎🍎 shows 8 apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Which group shows <strong>9</strong> balls?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>9</strong> balls?",
       "options": {
         "choices": [
-          "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽",
-          "⚽⚽⚽⚽⚽⚽⚽⚽⚽"
+          {
+            "id": "c1",
+            "text": "⚽⚽⚽⚽⚽⚽⚽⚽⚽⚽"
+          },
+          {
+            "id": "c2",
+            "text": "⚽⚽⚽⚽⚽⚽⚽⚽⚽"
+          }
         ]
       },
-      "correct_answer": "⚽⚽⚽⚽⚽⚽⚽⚽⚽",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "⚽⚽⚽⚽⚽⚽⚽⚽⚽ shows 9 balls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Which group shows <strong>1</strong> balls?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>1</strong> balls?",
       "options": {
         "choices": [
-          "⚽⚽",
-          "⚽"
+          {
+            "id": "c1",
+            "text": "⚽⚽"
+          },
+          {
+            "id": "c2",
+            "text": "⚽"
+          }
         ]
       },
-      "correct_answer": "⚽",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "⚽ shows 1 balls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which group shows <strong>2</strong> flowers?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>2</strong> flowers?",
       "options": {
         "choices": [
-          "🌸🌸",
-          "🌸🌸🌸"
+          {
+            "id": "c1",
+            "text": "🌸🌸"
+          },
+          {
+            "id": "c2",
+            "text": "🌸🌸🌸"
+          }
         ]
       },
-      "correct_answer": "🌸🌸",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🌸🌸 shows 2 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Which group shows <strong>6</strong> balls?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>6</strong> balls?",
       "options": {
         "choices": [
-          "⚽⚽⚽⚽⚽⚽⚽",
-          "⚽⚽⚽⚽⚽⚽"
+          {
+            "id": "c1",
+            "text": "⚽⚽⚽⚽⚽⚽⚽"
+          },
+          {
+            "id": "c2",
+            "text": "⚽⚽⚽⚽⚽⚽"
+          }
         ]
       },
-      "correct_answer": "⚽⚽⚽⚽⚽⚽",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "⚽⚽⚽⚽⚽⚽ shows 6 balls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which group shows <strong>3</strong> apples?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>3</strong> apples?",
       "options": {
         "choices": [
-          "🍎🍎🍎",
-          "🍎🍎🍎🍎"
+          {
+            "id": "c1",
+            "text": "🍎🍎🍎"
+          },
+          {
+            "id": "c2",
+            "text": "🍎🍎🍎🍎"
+          }
         ]
       },
-      "correct_answer": "🍎🍎🍎",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍎🍎🍎 shows 3 apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which group shows <strong>7</strong> cookies?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>7</strong> cookies?",
       "options": {
         "choices": [
-          "🍪🍪🍪🍪🍪🍪🍪🍪",
-          "🍪🍪🍪🍪🍪🍪🍪"
+          {
+            "id": "c1",
+            "text": "🍪🍪🍪🍪🍪🍪🍪🍪"
+          },
+          {
+            "id": "c2",
+            "text": "🍪🍪🍪🍪🍪🍪🍪"
+          }
         ]
       },
-      "correct_answer": "🍪🍪🍪🍪🍪🍪🍪",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍪🍪🍪🍪🍪🍪🍪 shows 7 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Which group shows <strong>6</strong> balloons?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>6</strong> balloons?",
       "options": {
         "choices": [
-          "🎈🎈🎈🎈🎈🎈",
-          "🎈🎈🎈🎈🎈🎈🎈"
+          {
+            "id": "c1",
+            "text": "🎈🎈🎈🎈🎈🎈"
+          },
+          {
+            "id": "c2",
+            "text": "🎈🎈🎈🎈🎈🎈🎈"
+          }
         ]
       },
-      "correct_answer": "🎈🎈🎈🎈🎈🎈",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🎈🎈🎈🎈🎈🎈 shows 6 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which group shows <strong>3</strong> balloons?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>3</strong> balloons?",
       "options": {
         "choices": [
-          "🎈🎈🎈",
-          "🎈🎈🎈🎈"
+          {
+            "id": "c1",
+            "text": "🎈🎈🎈"
+          },
+          {
+            "id": "c2",
+            "text": "🎈🎈🎈🎈"
+          }
         ]
       },
-      "correct_answer": "🎈🎈🎈",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🎈🎈🎈 shows 3 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which group shows <strong>5</strong> cars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>5</strong> cars?",
       "options": {
         "choices": [
-          "🚗🚗🚗🚗🚗",
-          "🚗🚗🚗🚗🚗🚗"
+          {
+            "id": "c1",
+            "text": "🚗🚗🚗🚗🚗"
+          },
+          {
+            "id": "c2",
+            "text": "🚗🚗🚗🚗🚗🚗"
+          }
         ]
       },
-      "correct_answer": "🚗🚗🚗🚗🚗",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🚗🚗🚗🚗🚗 shows 5 cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which group shows <strong>7</strong> bananas?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>7</strong> bananas?",
       "options": {
         "choices": [
-          "🍌🍌🍌🍌🍌🍌🍌",
-          "🍌🍌🍌🍌🍌🍌🍌🍌"
+          {
+            "id": "c1",
+            "text": "🍌🍌🍌🍌🍌🍌🍌"
+          },
+          {
+            "id": "c2",
+            "text": "🍌🍌🍌🍌🍌🍌🍌🍌"
+          }
         ]
       },
-      "correct_answer": "🍌🍌🍌🍌🍌🍌🍌",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍌🍌🍌🍌🍌🍌🍌 shows 7 bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Which group shows <strong>2</strong> balloons?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>2</strong> balloons?",
       "options": {
         "choices": [
-          "🎈🎈🎈",
-          "🎈🎈"
+          {
+            "id": "c1",
+            "text": "🎈🎈🎈"
+          },
+          {
+            "id": "c2",
+            "text": "🎈🎈"
+          }
         ]
       },
-      "correct_answer": "🎈🎈",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🎈🎈 shows 2 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Which group shows <strong>2</strong> cars?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>2</strong> cars?",
       "options": {
         "choices": [
-          "🚗🚗🚗",
-          "🚗🚗"
+          {
+            "id": "c1",
+            "text": "🚗🚗🚗"
+          },
+          {
+            "id": "c2",
+            "text": "🚗🚗"
+          }
         ]
       },
-      "correct_answer": "🚗🚗",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🚗🚗 shows 2 cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Which group shows <strong>9</strong> fish?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>9</strong> fish?",
       "options": {
         "choices": [
-          "🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟",
-          "🐟🐟🐟🐟🐟🐟🐟🐟🐟"
+          {
+            "id": "c1",
+            "text": "🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟"
+          },
+          {
+            "id": "c2",
+            "text": "🐟🐟🐟🐟🐟🐟🐟🐟🐟"
+          }
         ]
       },
-      "correct_answer": "🐟🐟🐟🐟🐟🐟🐟🐟🐟",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🐟🐟🐟🐟🐟🐟🐟🐟🐟 shows 9 fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which group shows <strong>4</strong> balls?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>4</strong> balls?",
       "options": {
         "choices": [
-          "⚽⚽⚽⚽",
-          "⚽⚽⚽⚽⚽"
+          {
+            "id": "c1",
+            "text": "⚽⚽⚽⚽"
+          },
+          {
+            "id": "c2",
+            "text": "⚽⚽⚽⚽⚽"
+          }
         ]
       },
-      "correct_answer": "⚽⚽⚽⚽",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "⚽⚽⚽⚽ shows 4 balls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Which group shows <strong>5</strong> fish?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>5</strong> fish?",
       "options": {
         "choices": [
-          "🐟🐟🐟🐟🐟🐟",
-          "🐟🐟🐟🐟🐟"
+          {
+            "id": "c1",
+            "text": "🐟🐟🐟🐟🐟🐟"
+          },
+          {
+            "id": "c2",
+            "text": "🐟🐟🐟🐟🐟"
+          }
         ]
       },
-      "correct_answer": "🐟🐟🐟🐟🐟",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🐟🐟🐟🐟🐟 shows 5 fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Which group shows <strong>7</strong> flowers?",
       "type": "mcq",
+      "prompt": "Which group shows <strong>7</strong> flowers?",
       "options": {
         "choices": [
-          "🌸🌸🌸🌸🌸🌸🌸🌸",
-          "🌸🌸🌸🌸🌸🌸🌸"
+          {
+            "id": "c1",
+            "text": "🌸🌸🌸🌸🌸🌸🌸🌸"
+          },
+          {
+            "id": "c2",
+            "text": "🌸🌸🌸🌸🌸🌸🌸"
+          }
         ]
       },
-      "correct_answer": "🌸🌸🌸🌸🌸🌸🌸",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🌸🌸🌸🌸🌸🌸🌸 shows 7 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
-  ]
+  ],
+  "title_needs_review": true
 }

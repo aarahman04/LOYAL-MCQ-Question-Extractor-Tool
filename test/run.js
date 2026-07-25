@@ -255,5 +255,173 @@ function eq(a, b, msg) {
   ok(core.buildCsv([row]).startsWith("filename,slug,quiz_type"), "csv: header present");
 })();
 
+
+// ==========================================================================
+//  v2 format (lib/transform.js)
+// ==========================================================================
+const transform = require("../lib/transform");
+
+function v2(html, name, extra) {
+  const r = core.extract(html, name, { evalArray, now });
+  return transform.toV2(Object.assign({
+    raw: r.rawQuestions, detection: r.detection, slug: r.meta.slug,
+    title: r.meta.title, level: "level-1", subject: "english",
+    sourceFile: name, extractedAt: now,
+  }, extra || {}));
+}
+function noErrors(t, label) {
+  ok(t.report.validationErrors.length === 0,
+    label + " (errors: " + JSON.stringify(t.report.validationErrors) + ")");
+}
+
+// ---- MCQ: ids + answer_key, no answer inside options ----
+(function () {
+  const t = v2(`<html><body><script>const questions=[
+    {question:"Identify the adjective",options:["the","brown","is"],correct:"brown",explanation:"E"}];
+    initMCQQuiz(questions);</script></body></html>`, "level_1_eng_adjectives.html");
+  const q = t.data.questions[0];
+  eq(q.options.choices, [{id:"c1",text:"the"},{id:"c2",text:"brown"},{id:"c3",text:"is"}], "v2 mcq: choices are {id,text}");
+  eq(q.answer_key, { correct: ["c2"] }, "v2 mcq: answer_key holds an id array");
+  ok(q.difficulty === undefined, "v2 mcq: difficulty dropped");
+  ok(q.correct_answer === undefined, "v2 mcq: no correct_answer field");
+  ok(!JSON.stringify(q.options).includes("brown\",\"correct"), "v2 mcq: options carry no answer marker");
+  eq(t.data.quiz_type, "mcq", "v2 mcq: exercise quiz_type");
+  eq(t.data.shuffle, true, "v2 mcq: shuffle true");
+  noErrors(t, "v2 mcq: validation clean");
+})();
+
+// ---- audio: tts inside options ----
+(function () {
+  const t = v2(`<html><head><link rel="stylesheet" href="../css/audio_style.css"></head><body><script>
+    const SW=["the","at"]; const questions=SW.map((w,i)=>({question:"Listen",voice:w,
+      options:[w,SW[(i+1)%SW.length]],correct:w,lang:"en-US"}));
+    </script><script src="../js/audio.js"></script></body></html>`, "level_1_eng_sight_words1.html");
+  const q = t.data.questions[0];
+  eq(q.options.tts, { text: "the", lang: "en-US" }, "v2 audio: tts block in options");
+  eq(q.answer_key, { correct: ["c1"] }, "v2 audio: answer_key id");
+  ok(q.media === null, "v2 audio: media null (tts is not media)");
+  ok(t.report.bias && t.report.bias.biased, "v2 audio: position bias detected (all answers first)");
+})();
+
+// ---- drag-drop two-box: boxes array + placements ----
+(function () {
+  const t = v2(`<html><head><link rel="stylesheet" href="../css/dnd.css"></head><body>
+    <div class="dropbox" data-box="left" data-placeholder="Proper Noun"></div>
+    <div class="dropbox" data-box="right" data-placeholder="Common Noun"></div>
+    <script src="../js/drag_and_drop.js"></script><script>const questions=[
+    {question:"Drag",options:["girl","Washington"],key:{"girl":"right","Washington":"left"},explanation:"E"}];
+    initTwoBoxSortQuiz(questions);</script></body></html>`, "level_1_eng_dnd_proper.html");
+  const q = t.data.questions[0];
+  eq(q.options.boxes, [{id:"b1",label:"Proper Noun"},{id:"b2",label:"Common Noun"}], "v2 two_box: boxes is an array");
+  eq(q.options.items, [{id:"i1",label:"girl"},{id:"i2",label:"Washington"}], "v2 two_box: items");
+  eq(q.answer_key, { placements: { i1: "b2", i2: "b1" } }, "v2 two_box: placements map ids");
+  ok(!/correct/i.test(JSON.stringify(q.options)), "v2 two_box: no 'correct' inside options");
+  noErrors(t, "v2 two_box: validation clean");
+})();
+
+// ---- word order: ids follow PRESENTATION order ----
+(function () {
+  const t = v2(`<html><head><link rel="stylesheet" href="../css/dnd.css"></head><body>
+    <div class="dropbox" data-box="first"></div><div class="dropbox" data-box="second"></div>
+    <div class="dropbox" data-box="third"></div><div class="dropbox" data-box="forth"></div>
+    <script src="../js/drag_and_drop.js"></script><script>const questions=[
+    {question:"Order",options:["bark","The","can","dog"],
+     key:{"The":"first","dog":"second","can":"third","bark":"forth"},explanation:"E"}];
+    initTwoBoxSortQuiz(questions);</script></body></html>`, "level_1_eng_scrambled.html");
+  const q = t.data.questions[0];
+  eq(q.options.words, [{id:"w1",text:"bark"},{id:"w2",text:"The"},{id:"w3",text:"can"},{id:"w4",text:"dog"}],
+    "v2 word_order: ids follow presentation order");
+  eq(q.answer_key, { order: ["w2","w4","w3","w1"] }, "v2 word_order: order is ids in correct sequence");
+  ok(q.answer_key.order.join(",") !== "w1,w2,w3,w4", "v2 word_order: ids do not leak the answer");
+  noErrors(t, "v2 word_order: validation clean");
+})();
+
+// ---- tap-select match: size + count tokens, no inline HTML ----
+(function () {
+  const t = v2(`<html><head><link rel="stylesheet" href="../css/tap_select.css"></head><body><script>
+    const questions=[{question:"Tap the biggest",items:[
+      {label:"<span style='font-size:3.6rem'>\u{1F353}</span>",correct:true},
+      {label:"<span style='font-size:2.4rem'>\u{1F353}</span>",correct:false},
+      {label:"<span style='font-size:1.4rem'>\u{1F353}</span>",correct:false}],explanation:"E"}];
+    initTapSelectQuiz(questions);</script></body></html>`, "kg3_math_big_small.html");
+  const q = t.data.questions[0];
+  eq(q.options.choices[0], { id:"c1", emoji:"\u{1F353}", size:"xl" }, "v2 tap match: 3.6rem -> xl token");
+  eq(q.options.choices[1].size, "lg", "v2 tap match: 2.4rem -> lg");
+  eq(q.options.choices[2].size, "sm", "v2 tap match: 1.4rem -> sm");
+  ok(!/style=/i.test(JSON.stringify(q.options)), "v2 tap match: no style= survives in options");
+  eq(q.answer_key, { correct: ["c1"] }, "v2 tap match: answer_key id");
+  noErrors(t, "v2 tap match: validation clean");
+})();
+
+(function () {
+  const t = v2(`<html><head><link rel="stylesheet" href="../css/tap_select.css"></head><body><script>
+    const questions=[{question:"Tap fewer",items:[{label:"⭐",correct:true},{label:"⭐⭐",correct:false}],explanation:"E"}];
+    initTapSelectQuiz(questions);</script></body></html>`, "kg3_math_more_less.html");
+  const q = t.data.questions[0];
+  eq(q.options.choices, [{id:"c1",emoji:"⭐",count:1},{id:"c2",emoji:"⭐",count:2}],
+    "v2 tap match: repeated emoji -> {emoji,count}");
+})();
+
+// ---- tap-select count mode ----
+(function () {
+  const t = v2(`<html><head><link rel="stylesheet" href="../css/tap_select.css"></head><body><script>
+    const questions=[{question:"Tap 6 stars",count:6,items:["\u{1F31F}","\u{1F31F}","\u{1F31F}","\u{1F31F}","\u{1F31F}","\u{1F31F}","\u{1F31F}"],explanation:"E"}];
+    initTapSelectQuiz(questions);</script></body></html>`, "kg3_math_tap_and_count.html");
+  const q = t.data.questions[0];
+  eq(q.options, { mode:"count", emoji:"\u{1F31F}", item_count:7 }, "v2 tap count: options {mode,emoji,item_count}");
+  eq(q.answer_key, { target_count: 6 }, "v2 tap count: answer_key target_count");
+  noErrors(t, "v2 tap count: validation clean");
+})();
+
+// ---- media: storage path + source_path, empty alt ----
+(function () {
+  const t = v2(`<html><body><script>const questions=[
+    {question:"Q",options:["a","b"],correct:"a",image:"../../image/set/1.png"}];
+    initMCQQuiz(questions);</script></body></html>`, "level_1_eng_imgs.html", { level:"level-1", subject:"english" });
+  const m = t.data.questions[0].media;
+  eq(m.kind, "image", "v2 media: kind");
+  eq(m.path, "questions/level-1/english/eng-imgs/1.webp", "v2 media: storage path, .webp, no URL");
+  eq(m.source_path, "../../image/set/1.png", "v2 media: source_path preserved for migration");
+  eq(m.alt, "", "v2 media: alt left empty, never invented");
+  eq(t.report.imagesMissingAlt, 1, "v2 media: missing-alt counted");
+})();
+
+// ---- validation catches a bad answer reference ----
+(function () {
+  const t = v2(`<html><body><script>const questions=[
+    {question:"Q",options:["a","b"],correct:"zzz"}];initMCQQuiz(questions);</script></body></html>`, "level_1_bad.html");
+  ok(t.report.validationErrors.length > 0, "v2 validation: unmatched correct answer is reported");
+  ok(/not among the choices/.test(t.report.validationErrors.join(" ")), "v2 validation: message is specific");
+})();
+
+// ---- reading comprehension: passage lifted, prompts cleaned ----
+(function () {
+  const P = '<div style="text-align:center;">Ted gets a pen.<br>The pen is red.<br>He draws ten red hens.<br>Ted is happy today.</div><br>';
+  const qs = [1,2,3,4].map(n => `{question:${JSON.stringify(P + '<span style="color:red;">' + n + '. Question ' + n + '?</span>')},options:["a","b"],correct:"a"}`).join(",");
+  const t = v2(`<html><body><script>const questions=[${qs}];initMCQQuiz(questions);</script></body></html>`, "leve1_eng_vowels_E.html");
+  ok(Array.isArray(t.data.passages) && t.data.passages.length === 1, "v2 rc: one passage lifted to exercise");
+  ok(/Ted gets a pen/.test(t.data.passages[0].text), "v2 rc: passage text extracted");
+  eq(t.data.questions[0].prompt, "Question 1?", "v2 rc: prompt stripped of passage AND leading number");
+  eq(t.data.questions[0].passage_id, "p1", "v2 rc: question linked by passage_id");
+  eq(t.data.shuffle, false, "v2 rc: shuffle false");
+  eq(t.data.questions_per_attempt, t.data.total_questions, "v2 rc: per_attempt == total");
+})();
+
+// ---- title review heuristics ----
+(function () {
+  ok(transform.titleNeedsReview("Leve1 Eng Vowels E", "x"), "v2 title: level prefix flagged");
+  ok(transform.titleNeedsReview("Eng Sight Words1", "x"), "v2 title: glued trailing digit flagged");
+  ok(!transform.titleNeedsReview("Number Bonds to 10", "x"), "v2 title: spaced trailing number NOT flagged");
+  ok(!transform.titleNeedsReview("Adjectives", "eng-adjectives-x"), "v2 title: clean title not flagged");
+})();
+
+// ---- size token table ----
+(function () {
+  eq(transform.sizeToken(1.4), "sm", "v2 size: 1.4rem -> sm");
+  eq(transform.sizeToken(2.0), "md", "v2 size: 2.0rem -> md");
+  eq(transform.sizeToken(2.4), "lg", "v2 size: 2.4rem -> lg");
+  eq(transform.sizeToken(3.6), "xl", "v2 size: 3.6rem -> xl");
+})();
+
 console.log("\n" + (failed ? "\x1b[31m" : "\x1b[32m") + passed + " passed, " + failed + " failed\x1b[0m\n");
 process.exit(failed ? 1 : 0);

@@ -1,1616 +1,2515 @@
 {
   "_source_file": "level_1_eng_preposition.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "eng-preposition",
-    "title": "Preposition",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.542Z",
+  "slug": "eng-preposition",
+  "title": "Preposition",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "There are so many insects _____ our house.",
       "type": "mcq",
+      "prompt": "There are so many insects _____ our house.",
       "options": {
         "choices": [
-          "in",
-          "our"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "our"
+          }
         ]
       },
-      "correct_answer": "in",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The preposition 'in' indicates being inside an enclosed space or structure like a house.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "There are so many ants _____ the table.",
       "type": "mcq",
+      "prompt": "There are so many ants _____ the table.",
       "options": {
         "choices": [
-          "in",
-          "on"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "on"
+          }
         ]
       },
-      "correct_answer": "on",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The preposition 'on' denotes a position on top of and in contact with a surface.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "The dog naps _____ the mat.",
       "type": "mcq",
+      "prompt": "The dog naps _____ the mat.",
       "options": {
         "choices": [
-          "on",
-          "in"
+          {
+            "id": "c1",
+            "text": "on"
+          },
+          {
+            "id": "c2",
+            "text": "in"
+          }
         ]
       },
-      "correct_answer": "on",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "We use 'on' because the dog is resting on top of the surface of the mat.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "The cats eat _____ the plate.",
       "type": "mcq",
+      "prompt": "The cats eat _____ the plate.",
       "options": {
         "choices": [
-          "in",
-          "from"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "from"
+          }
         ]
       },
-      "correct_answer": "from",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The preposition 'from' indicates the source or starting point of where the cats are taking their food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "The boy sits _____ the tree.",
       "type": "mcq",
+      "prompt": "The boy sits _____ the tree.",
       "options": {
         "choices": [
-          "from",
-          "under"
+          {
+            "id": "c1",
+            "text": "from"
+          },
+          {
+            "id": "c2",
+            "text": "under"
+          }
         ]
       },
-      "correct_answer": "under",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Under' is used here to show that the boy is sitting directly beneath the branches and shade of the tree.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Four people can fit _____ that car.",
       "type": "mcq",
+      "prompt": "Four people can fit _____ that car.",
       "options": {
         "choices": [
-          "inside",
-          "down"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "down"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Inside' means within the inner container or interior space of an object like a car.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Five people are _____ that group.",
       "type": "mcq",
+      "prompt": "Five people are _____ that group.",
       "options": {
         "choices": [
-          "in",
-          "out"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "out"
+          }
         ]
       },
-      "correct_answer": "in",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "We use 'in' to indicate belonging to or being a member of a collective group.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "You should not walk _____ me.",
       "type": "mcq",
+      "prompt": "You should not walk _____ me.",
       "options": {
         "choices": [
-          "behind",
-          "by"
+          {
+            "id": "c1",
+            "text": "behind"
+          },
+          {
+            "id": "c2",
+            "text": "by"
+          }
         ]
       },
-      "correct_answer": "behind",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Behind' means at the back of someone or following after them.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "We walk _____ the park every morning.",
       "type": "mcq",
+      "prompt": "We walk _____ the park every morning.",
       "options": {
         "choices": [
-          "in",
-          "by"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "by"
+          }
         ]
       },
-      "correct_answer": "in",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Walking 'in' the park implies that your movement takes place inside the physical boundaries of the park.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Sam sat _____ his mom and dad.",
       "type": "mcq",
+      "prompt": "Sam sat _____ his mom and dad.",
       "options": {
         "choices": [
-          "between",
-          "because"
+          {
+            "id": "c1",
+            "text": "between"
+          },
+          {
+            "id": "c2",
+            "text": "because"
+          }
         ]
       },
-      "correct_answer": "between",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Between' is used when referencing a position bounded by two distinct entities or persons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Sama went _____ the hill.",
       "type": "mcq",
+      "prompt": "Sama went _____ the hill.",
       "options": {
         "choices": [
-          "on",
-          "up"
+          {
+            "id": "c1",
+            "text": "on"
+          },
+          {
+            "id": "c2",
+            "text": "up"
+          }
         ]
       },
-      "correct_answer": "up",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Up' signifies movement from a lower point towards a higher position on the hill.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "The bird sang _____ the tree top.",
       "type": "mcq",
+      "prompt": "The bird sang _____ the tree top.",
       "options": {
         "choices": [
-          "in",
-          "on"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "on"
+          }
         ]
       },
-      "correct_answer": "on",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'On' is correct because the bird is perched right on top of the uppermost surface/peak of the tree.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "I was playing _____.",
       "type": "mcq",
+      "prompt": "I was playing _____.",
       "options": {
         "choices": [
-          "outside",
-          "between"
+          {
+            "id": "c1",
+            "text": "outside"
+          },
+          {
+            "id": "c2",
+            "text": "between"
+          }
         ]
       },
-      "correct_answer": "outside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Outside' serves as a prepositional adverb indicating an open-air area away from the interior of a building.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "The tiger hides _____ the rock.",
       "type": "mcq",
+      "prompt": "The tiger hides _____ the rock.",
       "options": {
         "choices": [
-          "behind",
-          "between"
+          {
+            "id": "c1",
+            "text": "behind"
+          },
+          {
+            "id": "c2",
+            "text": "between"
+          }
         ]
       },
-      "correct_answer": "behind",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Behind' indicates being hidden at the back of an object to conceal oneself.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Fish live _____ water.",
       "type": "mcq",
+      "prompt": "Fish live _____ water.",
       "options": {
         "choices": [
-          "in",
-          "outside"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "in",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Fish are completely surrounded by water, which requires the preposition 'in'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "We ate breakfast _____ the pool.",
       "type": "mcq",
+      "prompt": "We ate breakfast _____ the pool.",
       "options": {
         "choices": [
-          "by",
-          "on"
+          {
+            "id": "c1",
+            "text": "by"
+          },
+          {
+            "id": "c2",
+            "text": "on"
+          }
         ]
       },
-      "correct_answer": "by",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'By' means near, next to, or at the side of a location like a swimming pool.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "He ate pizza _____ his friends.",
       "type": "mcq",
+      "prompt": "He ate pizza _____ his friends.",
       "options": {
         "choices": [
-          "with",
-          "the"
+          {
+            "id": "c1",
+            "text": "with"
+          },
+          {
+            "id": "c2",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "with",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The preposition 'with' is used to denote company, association, or being together with people.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "We walked _____ the park.",
       "type": "mcq",
+      "prompt": "We walked _____ the park.",
       "options": {
         "choices": [
-          "with",
-          "through"
+          {
+            "id": "c1",
+            "text": "with"
+          },
+          {
+            "id": "c2",
+            "text": "through"
+          }
         ]
       },
-      "correct_answer": "through",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Through' indicates moving in at one side and out at the other side of a 3D space like a park.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "We had lunch _____ noon.",
       "type": "mcq",
+      "prompt": "We had lunch _____ noon.",
       "options": {
         "choices": [
-          "through",
-          "at"
+          {
+            "id": "c1",
+            "text": "through"
+          },
+          {
+            "id": "c2",
+            "text": "at"
+          }
         ]
       },
-      "correct_answer": "at",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "We use 'at' to specify a precise and exact point in time (e.g., at noon).",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "She walked _____ the door.",
       "type": "mcq",
+      "prompt": "She walked _____ the door.",
       "options": {
         "choices": [
-          "toward",
-          "with"
+          {
+            "id": "c1",
+            "text": "toward"
+          },
+          {
+            "id": "c2",
+            "text": "with"
+          }
         ]
       },
-      "correct_answer": "toward",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Toward' indicates moving in the specific direction of a destination or object.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "The ball rolled _____ the couch.",
       "type": "mcq",
+      "prompt": "The ball rolled _____ the couch.",
       "options": {
         "choices": [
-          "in",
-          "under"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "under"
+          }
         ]
       },
-      "correct_answer": "under",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The ball moved underneath the bottom surface of the couch, making 'under' the correct choice.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "The cat crawled _____ the couch.",
       "type": "mcq",
+      "prompt": "The cat crawled _____ the couch.",
       "options": {
         "choices": [
-          "in",
-          "under"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "under"
+          }
         ]
       },
-      "correct_answer": "under",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Like the ball, the cat moved directly beneath the structure of the couch.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "The plane flew _____ the mountains.",
       "type": "mcq",
+      "prompt": "The plane flew _____ the mountains.",
       "options": {
         "choices": [
-          "in",
-          "over"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "over"
+          }
         ]
       },
-      "correct_answer": "over",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Over' means at a higher level above something without physically touching it.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "They sat _____ the couch.",
       "type": "mcq",
+      "prompt": "They sat _____ the couch.",
       "options": {
         "choices": [
-          "in",
-          "around"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "around"
+          }
         ]
       },
-      "correct_answer": "around",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Around' indicates sitting in a circular pattern or nearby perimeter surrounding the item.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "The color _____ the sky is blue.",
       "type": "mcq",
+      "prompt": "The color _____ the sky is blue.",
       "options": {
         "choices": [
-          "of",
-          "with"
+          {
+            "id": "c1",
+            "text": "of"
+          },
+          {
+            "id": "c2",
+            "text": "with"
+          }
         ]
       },
-      "correct_answer": "of",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The preposition 'of' is used to express belonging, assignment, or a descriptive property of an item.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "The letter was written _____ him.",
       "type": "mcq",
+      "prompt": "The letter was written _____ him.",
       "options": {
         "choices": [
-          "with",
-          "by"
+          {
+            "id": "c1",
+            "text": "with"
+          },
+          {
+            "id": "c2",
+            "text": "by"
+          }
         ]
       },
-      "correct_answer": "by",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "In passive voice sentences, 'by' is used to introduce the agent or person performing the action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Choose _____ these two options.",
       "type": "mcq",
+      "prompt": "Choose _____ these two options.",
       "options": {
         "choices": [
-          "with",
-          "between"
+          {
+            "id": "c1",
+            "text": "with"
+          },
+          {
+            "id": "c2",
+            "text": "between"
+          }
         ]
       },
-      "correct_answer": "between",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Between' is the standard preposition when making a choice or distinction involving exactly two elements.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "The clouds are _____ the mountains.",
       "type": "mcq",
+      "prompt": "The clouds are _____ the mountains.",
       "options": {
         "choices": [
-          "above",
-          "because"
+          {
+            "id": "c1",
+            "text": "above"
+          },
+          {
+            "id": "c2",
+            "text": "because"
+          }
         ]
       },
-      "correct_answer": "above",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Above' denotes being directly higher than or overhead relative to the mountains.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "The temperature is _____ freezing.",
       "type": "mcq",
+      "prompt": "The temperature is _____ freezing.",
       "options": {
         "choices": [
-          "below",
-          "in"
+          {
+            "id": "c1",
+            "text": "below"
+          },
+          {
+            "id": "c2",
+            "text": "in"
+          }
         ]
       },
-      "correct_answer": "below",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Below' indicates a position lower than a specific baseline scale or measurement point.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Finish your homework _____ dinner.",
       "type": "mcq",
+      "prompt": "Finish your homework _____ dinner.",
       "options": {
         "choices": [
-          "because",
-          "before"
+          {
+            "id": "c1",
+            "text": "because"
+          },
+          {
+            "id": "c2",
+            "text": "before"
+          }
         ]
       },
-      "correct_answer": "before",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Before' is a time preposition meaning earlier than or preceding a specific event.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Finish your paragraph _____ lunchtime.",
       "type": "mcq",
+      "prompt": "Finish your paragraph _____ lunchtime.",
       "options": {
         "choices": [
-          "because",
-          "before"
+          {
+            "id": "c1",
+            "text": "because"
+          },
+          {
+            "id": "c2",
+            "text": "before"
+          }
         ]
       },
-      "correct_answer": "before",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The task needs to be completed prior to the arrival of lunchtime.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Finish washing the clothes _____ water.",
       "type": "mcq",
+      "prompt": "Finish washing the clothes _____ water.",
       "options": {
         "choices": [
-          "by",
-          "with"
+          {
+            "id": "c1",
+            "text": "by"
+          },
+          {
+            "id": "c2",
+            "text": "with"
+          }
         ]
       },
-      "correct_answer": "with",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "We use 'with' to specify the tool, instrument, or material used to execute an action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Helicopters fly _____ us.",
       "type": "mcq",
+      "prompt": "Helicopters fly _____ us.",
       "options": {
         "choices": [
-          "in",
-          "above"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "above"
+          }
         ]
       },
-      "correct_answer": "above",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Above' implies an elevated overhead flight path relative to our ground position.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "I feel something _____ my pocket.",
       "type": "mcq",
+      "prompt": "I feel something _____ my pocket.",
       "options": {
         "choices": [
-          "above",
-          "inside"
+          {
+            "id": "c1",
+            "text": "above"
+          },
+          {
+            "id": "c2",
+            "text": "inside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Inside' accurately describes an object enclosed entirely within the walls of a container or pocket.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "He feels something _____ his shoes.",
       "type": "mcq",
+      "prompt": "He feels something _____ his shoes.",
       "options": {
         "choices": [
-          "inside",
-          "outside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Something is down in the interior cavity of his shoes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "She sits _____ the bench.",
       "type": "mcq",
+      "prompt": "She sits _____ the bench.",
       "options": {
         "choices": [
-          "in",
-          "on"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "on"
+          }
         ]
       },
-      "correct_answer": "on",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "You sit directly on top of the hard horizontal surface of a bench.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "I sleep _____ my baby.",
       "type": "mcq",
+      "prompt": "I sleep _____ my baby.",
       "options": {
         "choices": [
-          "beside",
-          "on"
+          {
+            "id": "c1",
+            "text": "beside"
+          },
+          {
+            "id": "c2",
+            "text": "on"
+          }
         ]
       },
-      "correct_answer": "beside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Beside' means next to, at the side of, or alongside someone.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "They are eating _____ the classroom.",
       "type": "mcq",
+      "prompt": "They are eating _____ the classroom.",
       "options": {
         "choices": [
-          "outside",
-          "by"
+          {
+            "id": "c1",
+            "text": "outside"
+          },
+          {
+            "id": "c2",
+            "text": "by"
+          }
         ]
       },
-      "correct_answer": "outside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "They are having their food out in the open, away from the interior of the classroom.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which man is standing _____ the bus?",
       "type": "mcq",
+      "prompt": "Which man is standing _____ the bus?",
       "options": {
         "choices": [
-          "by",
-          "out"
+          {
+            "id": "c1",
+            "text": "by"
+          },
+          {
+            "id": "c2",
+            "text": "out"
+          }
         ]
       },
-      "correct_answer": "by",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'By' here means standing right next to or adjacent to the outer side of the vehicle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "They walked _____ the road.",
       "type": "mcq",
+      "prompt": "They walked _____ the road.",
       "options": {
         "choices": [
-          "along",
-          "in"
+          {
+            "id": "c1",
+            "text": "along"
+          },
+          {
+            "id": "c2",
+            "text": "in"
+          }
         ]
       },
-      "correct_answer": "along",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Along' indicates parallel movement following the direction, line, or length of the path.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Don't shout _____ her!",
       "type": "mcq",
+      "prompt": "Don't shout _____ her!",
       "options": {
         "choices": [
-          "at",
-          "in"
+          {
+            "id": "c1",
+            "text": "at"
+          },
+          {
+            "id": "c2",
+            "text": "in"
+          }
         ]
       },
-      "correct_answer": "at",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The preposition 'at' indicates the target or direction of an aggressive verbal action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "_____ that shop are beautiful dresses.",
       "type": "mcq",
+      "prompt": "_____ that shop are beautiful dresses.",
       "options": {
         "choices": [
-          "outside",
-          "inside"
+          {
+            "id": "c1",
+            "text": "outside"
+          },
+          {
+            "id": "c2",
+            "text": "inside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The dresses are displayed within the physical walls of the shop.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Please, stand _____ me.",
       "type": "mcq",
+      "prompt": "Please, stand _____ me.",
       "options": {
         "choices": [
-          "on",
-          "behind"
+          {
+            "id": "c1",
+            "text": "on"
+          },
+          {
+            "id": "c2",
+            "text": "behind"
+          }
         ]
       },
-      "correct_answer": "behind",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "This asks the person to take a position at your rear or back side.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "I am going _____ school to the party.",
       "type": "mcq",
+      "prompt": "I am going _____ school to the party.",
       "options": {
         "choices": [
-          "in",
-          "from"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "from"
+          }
         ]
       },
-      "correct_answer": "from",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'From' specifies the initial point or origin of departure for your journey.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "He put the picture _____ eye level.",
       "type": "mcq",
+      "prompt": "He put the picture _____ eye level.",
       "options": {
         "choices": [
-          "on",
-          "below"
+          {
+            "id": "c1",
+            "text": "on"
+          },
+          {
+            "id": "c2",
+            "text": "below"
+          }
         ]
       },
-      "correct_answer": "below",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Below' means lower down than a specific point of reference, which here is the eye line.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "It was all _____ him.",
       "type": "mcq",
+      "prompt": "It was all _____ him.",
       "options": {
         "choices": [
-          "about",
-          "him"
+          {
+            "id": "c1",
+            "text": "about"
+          },
+          {
+            "id": "c2",
+            "text": "him"
+          }
         ]
       },
-      "correct_answer": "about",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'About' means on the subject of, or concerning a specific person.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "I will take a picture _____ you.",
       "type": "mcq",
+      "prompt": "I will take a picture _____ you.",
       "options": {
         "choices": [
-          "at",
-          "of"
+          {
+            "id": "c1",
+            "text": "at"
+          },
+          {
+            "id": "c2",
+            "text": "of"
+          }
         ]
       },
-      "correct_answer": "of",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "We use 'of' to clarify the subject or content depicted inside a photograph.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "She took a picture _____ me.",
       "type": "mcq",
+      "prompt": "She took a picture _____ me.",
       "options": {
         "choices": [
-          "of",
-          "because"
+          {
+            "id": "c1",
+            "text": "of"
+          },
+          {
+            "id": "c2",
+            "text": "because"
+          }
         ]
       },
-      "correct_answer": "of",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Of' specifies who the photographic portrait represents.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "He sat _____ his wife.",
       "type": "mcq",
+      "prompt": "He sat _____ his wife.",
       "options": {
         "choices": [
-          "beside",
-          "along"
+          {
+            "id": "c1",
+            "text": "beside"
+          },
+          {
+            "id": "c2",
+            "text": "along"
+          }
         ]
       },
-      "correct_answer": "beside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "He positioned himself immediately next to or alongside his wife.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "The bear climbed _____ the tree.",
       "type": "mcq",
+      "prompt": "The bear climbed _____ the tree.",
       "options": {
         "choices": [
-          "up",
-          "with"
+          {
+            "id": "c1",
+            "text": "up"
+          },
+          {
+            "id": "c2",
+            "text": "with"
+          }
         ]
       },
-      "correct_answer": "up",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Up' tracks vertical climbing progression from a low point to a higher point on the tree trunk.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "The mouse ran _____ the wall.",
       "type": "mcq",
+      "prompt": "The mouse ran _____ the wall.",
       "options": {
         "choices": [
-          "down",
-          "beside"
+          {
+            "id": "c1",
+            "text": "down"
+          },
+          {
+            "id": "c2",
+            "text": "beside"
+          }
         ]
       },
-      "correct_answer": "down",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Down' denotes moving downward toward the base floor along the face of the vertical wall.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "The mouse ran _____ the clock.",
       "type": "mcq",
+      "prompt": "The mouse ran _____ the clock.",
       "options": {
         "choices": [
-          "with",
-          "up"
+          {
+            "id": "c1",
+            "text": "with"
+          },
+          {
+            "id": "c2",
+            "text": "up"
+          }
         ]
       },
-      "correct_answer": "up",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Based on the traditional nursery rhyme, the mouse scurried 'up' the vertical height of the clock.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "It was _____ the corner.",
       "type": "mcq",
+      "prompt": "It was _____ the corner.",
       "options": {
         "choices": [
-          "up",
-          "around"
+          {
+            "id": "c1",
+            "text": "up"
+          },
+          {
+            "id": "c2",
+            "text": "around"
+          }
         ]
       },
-      "correct_answer": "around",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Around the corner' is an idiom indicating a location just past the turn or intersection.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "He left school _____ the math class.",
       "type": "mcq",
+      "prompt": "He left school _____ the math class.",
       "options": {
         "choices": [
-          "during",
-          "over"
+          {
+            "id": "c1",
+            "text": "during"
+          },
+          {
+            "id": "c2",
+            "text": "over"
+          }
         ]
       },
-      "correct_answer": "during",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'During' is used to show that an event took place within the time duration of an ongoing class.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Did you read the story _____ the vampire?",
       "type": "mcq",
+      "prompt": "Did you read the story _____ the vampire?",
       "options": {
         "choices": [
-          "along",
-          "about"
+          {
+            "id": "c1",
+            "text": "along"
+          },
+          {
+            "id": "c2",
+            "text": "about"
+          }
         ]
       },
-      "correct_answer": "about",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'About' introduces the central thematic character or subject matter of the text.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Sam will leave _____ dinner.",
       "type": "mcq",
+      "prompt": "Sam will leave _____ dinner.",
       "options": {
         "choices": [
-          "after",
-          "along"
+          {
+            "id": "c1",
+            "text": "after"
+          },
+          {
+            "id": "c2",
+            "text": "along"
+          }
         ]
       },
-      "correct_answer": "after",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'After' is a time designation indicating that departure occurs later than the meal conclusion.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Sama will leave _____ midnight.",
       "type": "mcq",
+      "prompt": "Sama will leave _____ midnight.",
       "options": {
         "choices": [
-          "before",
-          "in"
+          {
+            "id": "c1",
+            "text": "before"
+          },
+          {
+            "id": "c2",
+            "text": "in"
+          }
         ]
       },
-      "correct_answer": "before",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Before midnight' means her departure is scheduled ahead of $12:00\text{ AM}$.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "The mouse was _____ the garbage truck.",
       "type": "mcq",
+      "prompt": "The mouse was _____ the garbage truck.",
       "options": {
         "choices": [
-          "near",
-          "up"
+          {
+            "id": "c1",
+            "text": "near"
+          },
+          {
+            "id": "c2",
+            "text": "up"
+          }
         ]
       },
-      "correct_answer": "near",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Near' implies close proximity or short distance separating the mouse from the vehicle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Can you get _____ that door?",
       "type": "mcq",
+      "prompt": "Can you get _____ that door?",
       "options": {
         "choices": [
-          "through",
-          "along"
+          {
+            "id": "c1",
+            "text": "through"
+          },
+          {
+            "id": "c2",
+            "text": "along"
+          }
         ]
       },
-      "correct_answer": "through",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Through' means entering one side of an opening or doorway and emerging out the other side.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Can you let me _____?",
       "type": "mcq",
+      "prompt": "Can you let me _____?",
       "options": {
         "choices": [
-          "up",
-          "through"
+          {
+            "id": "c1",
+            "text": "up"
+          },
+          {
+            "id": "c2",
+            "text": "through"
+          }
         ]
       },
-      "correct_answer": "through",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "This is a request to allow passage through a barrier, crowd, or open gateway.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "We flew _____ the clouds.",
       "type": "mcq",
+      "prompt": "We flew _____ the clouds.",
       "options": {
         "choices": [
-          "through",
-          "out"
+          {
+            "id": "c1",
+            "text": "through"
+          },
+          {
+            "id": "c2",
+            "text": "out"
+          }
         ]
       },
-      "correct_answer": "through",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Flying 'through' means cutting directly right across the internal volume of the cloud formations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "They worked _____ the lunch hour.",
       "type": "mcq",
+      "prompt": "They worked _____ the lunch hour.",
       "options": {
         "choices": [
-          "up",
-          "through"
+          {
+            "id": "c1",
+            "text": "up"
+          },
+          {
+            "id": "c2",
+            "text": "through"
+          }
         ]
       },
-      "correct_answer": "through",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Working 'through' an interval means continuing to labor non-stop from the start to the end of that period.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "The book fell _____ the table.",
       "type": "mcq",
+      "prompt": "The book fell _____ the table.",
       "options": {
         "choices": [
-          "in",
-          "off"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "off"
+          }
         ]
       },
-      "correct_answer": "off",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Off' indicates separation and downward detachment away from a resting surface like a table.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "The doll fell _____ the shelf.",
       "type": "mcq",
+      "prompt": "The doll fell _____ the shelf.",
       "options": {
         "choices": [
-          "in",
-          "off"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "off"
+          }
         ]
       },
-      "correct_answer": "off",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The doll slipped away from its resting place on the ledge of the shelf.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Sam talked _____ the boys.",
       "type": "mcq",
+      "prompt": "Sam talked _____ the boys.",
       "options": {
         "choices": [
-          "with",
-          "the"
+          {
+            "id": "c1",
+            "text": "with"
+          },
+          {
+            "id": "c2",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "with",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'With' indicates interactive communication or conversation held among a group of people.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "He worked _____ a software engineer.",
       "type": "mcq",
+      "prompt": "He worked _____ a software engineer.",
       "options": {
         "choices": [
-          "as",
-          "the"
+          {
+            "id": "c1",
+            "text": "as"
+          },
+          {
+            "id": "c2",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "as",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'As' acts here to define the role, capacity, function, or professional title of an individual.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "I live _____ the school.",
       "type": "mcq",
+      "prompt": "I live _____ the school.",
       "options": {
         "choices": [
-          "around",
-          "near"
+          {
+            "id": "c1",
+            "text": "around"
+          },
+          {
+            "id": "c2",
+            "text": "near"
+          }
         ]
       },
-      "correct_answer": "near",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Near' highlights close residential geographic proximity to the school campus.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Let's go _____ lunch.",
       "type": "mcq",
+      "prompt": "Let's go _____ lunch.",
       "options": {
         "choices": [
-          "near",
-          "after"
+          {
+            "id": "c1",
+            "text": "near"
+          },
+          {
+            "id": "c2",
+            "text": "after"
+          }
         ]
       },
-      "correct_answer": "after",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'After' is the logical choice, pointing out an outing to occur following the end of work or class intervals.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Sama walked _____ the road.",
       "type": "mcq",
+      "prompt": "Sama walked _____ the road.",
       "options": {
         "choices": [
-          "across",
-          "after"
+          {
+            "id": "c1",
+            "text": "across"
+          },
+          {
+            "id": "c2",
+            "text": "after"
+          }
         ]
       },
-      "correct_answer": "across",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Across' signifies moving from one side of a linear structure like a street over to the opposite side.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "The cat hid _____ the bed.",
       "type": "mcq",
+      "prompt": "The cat hid _____ the bed.",
       "options": {
         "choices": [
-          "behind",
-          "before"
+          {
+            "id": "c1",
+            "text": "behind"
+          },
+          {
+            "id": "c2",
+            "text": "before"
+          }
         ]
       },
-      "correct_answer": "behind",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The cat tucked itself out of sight behind or underneath the structural frame of the bed.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "The boys were quite _____ the exam.",
       "type": "mcq",
+      "prompt": "The boys were quite _____ the exam.",
       "options": {
         "choices": [
-          "during",
-          "in"
+          {
+            "id": "c1",
+            "text": "during"
+          },
+          {
+            "id": "c2",
+            "text": "in"
+          }
         ]
       },
-      "correct_answer": "during",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "They preserved silence over the exact runtime duration of the exam.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "The girls stayed quiet _____ the quiz.",
       "type": "mcq",
+      "prompt": "The girls stayed quiet _____ the quiz.",
       "options": {
         "choices": [
-          "on",
-          "during"
+          {
+            "id": "c1",
+            "text": "on"
+          },
+          {
+            "id": "c2",
+            "text": "during"
+          }
         ]
       },
-      "correct_answer": "during",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'During' shows that the behavior was maintained throughout the active timeline of the quiz.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "The snack is _____ the rock.",
       "type": "mcq",
+      "prompt": "The snack is _____ the rock.",
       "options": {
         "choices": [
-          "in",
-          "below"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "below"
+          }
         ]
       },
-      "correct_answer": "below",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Below' implies the food object is situated directly underneath or lower than the rock formation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "The cave is _____ the mountain.",
       "type": "mcq",
+      "prompt": "The cave is _____ the mountain.",
       "options": {
         "choices": [
-          "in",
-          "under"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "under"
+          }
         ]
       },
-      "correct_answer": "under",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Under' indicates being subterranean or underneath the heavy surface mass of the mountain overhead.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "The letter is _____ Sam.",
       "type": "mcq",
+      "prompt": "The letter is _____ Sam.",
       "options": {
         "choices": [
-          "from",
-          "under"
+          {
+            "id": "c1",
+            "text": "from"
+          },
+          {
+            "id": "c2",
+            "text": "under"
+          }
         ]
       },
-      "correct_answer": "from",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'From' identifies the original sender, author, or starting point of the correspondence.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "The pen is _____ my mom.",
       "type": "mcq",
+      "prompt": "The pen is _____ my mom.",
       "options": {
         "choices": [
-          "to",
-          "from"
+          {
+            "id": "c1",
+            "text": "to"
+          },
+          {
+            "id": "c2",
+            "text": "from"
+          }
         ]
       },
-      "correct_answer": "from",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The pen originated as a possession of, or a gift given out by, the mother.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Mom got me a beautiful gift _____ that shop.",
       "type": "mcq",
+      "prompt": "Mom got me a beautiful gift _____ that shop.",
       "options": {
         "choices": [
-          "in",
-          "from"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "from"
+          }
         ]
       },
-      "correct_answer": "from",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'From' details the retail shop location where the gift items were sourced or purchased.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "You can swim _____ that river.",
       "type": "mcq",
+      "prompt": "You can swim _____ that river.",
       "options": {
         "choices": [
-          "across",
-          "on"
+          {
+            "id": "c1",
+            "text": "across"
+          },
+          {
+            "id": "c2",
+            "text": "on"
+          }
         ]
       },
-      "correct_answer": "across",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Swimming 'across' means traversing through the water from one riverbank all the way to the other.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "You can walk _____ that bridge.",
       "type": "mcq",
+      "prompt": "You can walk _____ that bridge.",
       "options": {
         "choices": [
-          "in",
-          "over"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "over"
+          }
         ]
       },
-      "correct_answer": "over",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Over' implies moving across an elevated path that spans across an obstacle below.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Just wait _____ Monday.",
       "type": "mcq",
+      "prompt": "Just wait _____ Monday.",
       "options": {
         "choices": [
-          "until",
-          "in"
+          {
+            "id": "c1",
+            "text": "until"
+          },
+          {
+            "id": "c2",
+            "text": "in"
+          }
         ]
       },
-      "correct_answer": "until",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Until' implies continuing an action of waiting right up up to the arrival of a specified endpoint or day.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Just wait _____ Wednesday.",
       "type": "mcq",
+      "prompt": "Just wait _____ Wednesday.",
       "options": {
         "choices": [
-          "until",
-          "in"
+          {
+            "id": "c1",
+            "text": "until"
+          },
+          {
+            "id": "c2",
+            "text": "in"
+          }
         ]
       },
-      "correct_answer": "until",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The waiting condition must remain constant until Wednesday arrives.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Just wait _____ Friday.",
       "type": "mcq",
+      "prompt": "Just wait _____ Friday.",
       "options": {
         "choices": [
-          "until",
-          "in"
+          {
+            "id": "c1",
+            "text": "until"
+          },
+          {
+            "id": "c2",
+            "text": "in"
+          }
         ]
       },
-      "correct_answer": "until",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The deadline parameter specifies holding off actions up to Friday.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Sam left _____ his jacket.",
       "type": "mcq",
+      "prompt": "Sam left _____ his jacket.",
       "options": {
         "choices": [
-          "will",
-          "without"
+          {
+            "id": "c1",
+            "text": "will"
+          },
+          {
+            "id": "c2",
+            "text": "without"
+          }
         ]
       },
-      "correct_answer": "without",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Without' is a preposition meaning not accompanied by or lacking an item.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Drive _____ the road!",
       "type": "mcq",
+      "prompt": "Drive _____ the road!",
       "options": {
         "choices": [
-          "down",
-          "with"
+          {
+            "id": "c1",
+            "text": "down"
+          },
+          {
+            "id": "c2",
+            "text": "with"
+          }
         ]
       },
-      "correct_answer": "down",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Driving 'down' a street means moving along its path or heading along its established course.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Sama drove _____ the tunnel.",
       "type": "mcq",
+      "prompt": "Sama drove _____ the tunnel.",
       "options": {
         "choices": [
-          "through",
-          "in"
+          {
+            "id": "c1",
+            "text": "through"
+          },
+          {
+            "id": "c2",
+            "text": "in"
+          }
         ]
       },
-      "correct_answer": "through",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Driving 'through' refers to entering an enclosed subterranean passageway at one opening and exiting the far end.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Sam went _____ the tent.",
       "type": "mcq",
+      "prompt": "Sam went _____ the tent.",
       "options": {
         "choices": [
-          "into",
-          "on"
+          {
+            "id": "c1",
+            "text": "into"
+          },
+          {
+            "id": "c2",
+            "text": "on"
+          }
         ]
       },
-      "correct_answer": "into",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Into' is a preposition of motion indicating movement towards the interior space of an enclosure.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "It was _____ his rules.",
       "type": "mcq",
+      "prompt": "It was _____ his rules.",
       "options": {
         "choices": [
-          "against",
-          "under"
+          {
+            "id": "c1",
+            "text": "against"
+          },
+          {
+            "id": "c2",
+            "text": "under"
+          }
         ]
       },
-      "correct_answer": "against",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Against' means in direct opposition, defiance, or violation of a system of rules.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "We are hungry _____ the fridge is empty.",
       "type": "mcq",
+      "prompt": "We are hungry _____ the fridge is empty.",
       "options": {
         "choices": [
-          "in",
-          "but"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "but"
+          }
         ]
       },
-      "correct_answer": "but",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Though 'but' functions as a conjunction here rather than a typical preposition, it fits grammatically to show contrast between being hungry and having no food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Your grade is _____ average.",
       "type": "mcq",
+      "prompt": "Your grade is _____ average.",
       "options": {
         "choices": [
-          "in",
-          "below"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "below"
+          }
         ]
       },
-      "correct_answer": "below",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Below' charts performance sitting beneath a designated mathematical mean or baseline marker.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Your grade is _____ average.",
       "type": "mcq",
+      "prompt": "Your grade is _____ average.",
       "options": {
         "choices": [
-          "in",
-          "above"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "above"
+          }
         ]
       },
-      "correct_answer": "above",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Above' charts performance sitting higher up than the designated average score line.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Please lock the door _____ you.",
       "type": "mcq",
+      "prompt": "Please lock the door _____ you.",
       "options": {
         "choices": [
-          "behind",
-          "around"
+          {
+            "id": "c1",
+            "text": "behind"
+          },
+          {
+            "id": "c2",
+            "text": "around"
+          }
         ]
       },
-      "correct_answer": "behind",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Locking a door 'behind' you means locking it after you pass through it, leaving it secure at your rear.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Sam kindly open the door _____ him.",
       "type": "mcq",
+      "prompt": "Sam kindly open the door _____ him.",
       "options": {
         "choices": [
-          "for",
-          "from"
+          {
+            "id": "c1",
+            "text": "for"
+          },
+          {
+            "id": "c2",
+            "text": "from"
+          }
         ]
       },
-      "correct_answer": "for",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'For' identifies the intended beneficiary who receives the helpful assistance of an action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Did he take picture _____ you?",
       "type": "mcq",
+      "prompt": "Did he take picture _____ you?",
       "options": {
         "choices": [
-          "of",
-          "in"
+          {
+            "id": "c1",
+            "text": "of"
+          },
+          {
+            "id": "c2",
+            "text": "in"
+          }
         ]
       },
-      "correct_answer": "of",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "We use 'of' to clarify the target subject captured within the photography frame.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Sama was _____ time.",
       "type": "mcq",
+      "prompt": "Sama was _____ time.",
       "options": {
         "choices": [
-          "in",
-          "on"
+          {
+            "id": "c1",
+            "text": "in"
+          },
+          {
+            "id": "c2",
+            "text": "on"
+          }
         ]
       },
-      "correct_answer": "on",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The idiom 'on time' implies arriving exactly at the planned, punctual, or scheduled hour.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Is the gift _____ me?",
       "type": "mcq",
+      "prompt": "Is the gift _____ me?",
       "options": {
         "choices": [
-          "around",
-          "for"
+          {
+            "id": "c1",
+            "text": "around"
+          },
+          {
+            "id": "c2",
+            "text": "for"
+          }
         ]
       },
-      "correct_answer": "for",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'For' designates the intended recipient or destination of an object.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Sama is washing her hands _____ water.",
       "type": "mcq",
+      "prompt": "Sama is washing her hands _____ water.",
       "options": {
         "choices": [
-          "during",
-          "under"
+          {
+            "id": "c1",
+            "text": "during"
+          },
+          {
+            "id": "c2",
+            "text": "under"
+          }
         ]
       },
-      "correct_answer": "under",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Under' fits best when hands are held beneath a flowing stream of tap water.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Please go stand _____ her.",
       "type": "mcq",
+      "prompt": "Please go stand _____ her.",
       "options": {
         "choices": [
-          "by",
-          "around"
+          {
+            "id": "c1",
+            "text": "by"
+          },
+          {
+            "id": "c2",
+            "text": "around"
+          }
         ]
       },
-      "correct_answer": "by",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Standing 'by' someone tells you to station yourself closely next to their side.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "I will see George _____ school.",
       "type": "mcq",
+      "prompt": "I will see George _____ school.",
       "options": {
         "choices": [
-          "after",
-          "around"
+          {
+            "id": "c1",
+            "text": "after"
+          },
+          {
+            "id": "c2",
+            "text": "around"
+          }
         ]
       },
-      "correct_answer": "after",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'After' states that the meeting will transpire following the close of the academic day.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "I received a card _____ her.",
       "type": "mcq",
+      "prompt": "I received a card _____ her.",
       "options": {
         "choices": [
-          "around",
-          "from"
+          {
+            "id": "c1",
+            "text": "around"
+          },
+          {
+            "id": "c2",
+            "text": "from"
+          }
         ]
       },
-      "correct_answer": "from",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'From' traces the origin or person who sent the card.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Sandy will travel _____ Germany.",
       "type": "mcq",
+      "prompt": "Sandy will travel _____ Germany.",
       "options": {
         "choices": [
-          "to",
-          "as"
+          {
+            "id": "c1",
+            "text": "to"
+          },
+          {
+            "id": "c2",
+            "text": "as"
+          }
         ]
       },
-      "correct_answer": "to",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The preposition 'to' indicates destination, direction, or movement toward a geographic country.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

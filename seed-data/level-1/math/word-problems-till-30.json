@@ -1,1716 +1,2915 @@
 {
   "_source_file": "level_1_word_problems_till_30.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "word-problems-till-30",
-    "title": "Word Problems till 30",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.522Z",
+  "slug": "word-problems-till-30",
+  "title": "Word Problems till 30",
+  "level": "level-1",
+  "subject": "math",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Zaid has 16 stickers. 5 stickers are shared with friends. How many stickers are left?",
       "type": "mcq",
+      "prompt": "Zaid has 16 stickers. 5 stickers are shared with friends. How many stickers are left?",
       "options": {
         "choices": [
-          "10",
-          "12",
-          "11"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "12"
+          },
+          {
+            "id": "c3",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "16 − 5 = 11 stickers left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Maya has 3 flowers. Maya gets 8 more flowers. How many flowers now?",
       "type": "mcq",
+      "prompt": "Maya has 3 flowers. Maya gets 8 more flowers. How many flowers now?",
       "options": {
         "choices": [
-          "11",
-          "10",
-          "12"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "12"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "3 + 8 = 11 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Noor has 9 balloons and 19 balloons. How many things does Noor have altogether?",
       "type": "mcq",
+      "prompt": "Noor has 9 balloons and 19 balloons. How many things does Noor have altogether?",
       "options": {
         "choices": [
-          "27",
-          "28",
-          "29"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          },
+          {
+            "id": "c3",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 + 19 = 28 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Ali has 7 toy cars. Ali gets 17 more toy cars. How many toy cars now?",
       "type": "mcq",
+      "prompt": "Ali has 7 toy cars. Ali gets 17 more toy cars. How many toy cars now?",
       "options": {
         "choices": [
-          "23",
-          "25",
-          "24"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          },
+          {
+            "id": "c3",
+            "text": "24"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "7 + 17 = 24 toy cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Tariq has 19 books. Tariq gets 9 more books. How many books now?",
       "type": "mcq",
+      "prompt": "Tariq has 19 books. Tariq gets 9 more books. How many books now?",
       "options": {
         "choices": [
-          "28",
-          "29",
-          "27"
+          {
+            "id": "c1",
+            "text": "28"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          },
+          {
+            "id": "c3",
+            "text": "27"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "19 + 9 = 28 books.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Sami has 6 balloons. Sami gets 20 more balloons. How many balloons now?",
       "type": "mcq",
+      "prompt": "Sami has 6 balloons. Sami gets 20 more balloons. How many balloons now?",
       "options": {
         "choices": [
-          "25",
-          "27",
-          "26"
+          {
+            "id": "c1",
+            "text": "25"
+          },
+          {
+            "id": "c2",
+            "text": "27"
+          },
+          {
+            "id": "c3",
+            "text": "26"
+          }
         ]
       },
-      "correct_answer": "26",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "6 + 20 = 26 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Lara has 4 apples. Lara gets 26 more apples. How many apples now?",
       "type": "mcq",
+      "prompt": "Lara has 4 apples. Lara gets 26 more apples. How many apples now?",
       "options": {
         "choices": [
-          "31",
-          "30",
-          "29"
+          {
+            "id": "c1",
+            "text": "31"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          },
+          {
+            "id": "c3",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "4 + 26 = 30 apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Lina has 26 crayons. Lina gets 4 more crayons. How many crayons now?",
       "type": "mcq",
+      "prompt": "Lina has 26 crayons. Lina gets 4 more crayons. How many crayons now?",
       "options": {
         "choices": [
-          "29",
-          "31",
-          "30"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          },
+          {
+            "id": "c3",
+            "text": "30"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "26 + 4 = 30 crayons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Ali has 24 apples and 5 toy cars. How many things does Ali have altogether?",
       "type": "mcq",
+      "prompt": "Ali has 24 apples and 5 toy cars. How many things does Ali have altogether?",
       "options": {
         "choices": [
-          "29",
-          "30",
-          "28"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          },
+          {
+            "id": "c3",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "29",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "24 + 5 = 29 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Sami has 16 flowers. 5 flowers are used up. How many flowers are left?",
       "type": "mcq",
+      "prompt": "Sami has 16 flowers. 5 flowers are used up. How many flowers are left?",
       "options": {
         "choices": [
-          "12",
-          "10",
-          "11"
+          {
+            "id": "c1",
+            "text": "12"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "16 − 5 = 11 flowers left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Noor has 10 cookies. Noor gets 16 more cookies. How many cookies now?",
       "type": "mcq",
+      "prompt": "Noor has 10 cookies. Noor gets 16 more cookies. How many cookies now?",
       "options": {
         "choices": [
-          "27",
-          "26",
-          "25"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "26"
+          },
+          {
+            "id": "c3",
+            "text": "25"
+          }
         ]
       },
-      "correct_answer": "26",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "10 + 16 = 26 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Rana has 3 crayons and 9 candies. How many things does Rana have altogether?",
       "type": "mcq",
+      "prompt": "Rana has 3 crayons and 9 candies. How many things does Rana have altogether?",
       "options": {
         "choices": [
-          "12",
-          "11",
-          "13"
+          {
+            "id": "c1",
+            "text": "12"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          },
+          {
+            "id": "c3",
+            "text": "13"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "3 + 9 = 12 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Adam has 5 oranges. 2 oranges are lost. How many oranges are left?",
       "type": "mcq",
+      "prompt": "Adam has 5 oranges. 2 oranges are lost. How many oranges are left?",
       "options": {
         "choices": [
-          "2",
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 − 2 = 3 oranges left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Sara has 2 balloons. Sara gets 7 more balloons. How many balloons now?",
       "type": "mcq",
+      "prompt": "Sara has 2 balloons. Sara gets 7 more balloons. How many balloons now?",
       "options": {
         "choices": [
-          "10",
-          "8",
-          "9"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "2 + 7 = 9 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Dina has 26 flowers. 8 flowers are used up. How many flowers are left?",
       "type": "mcq",
+      "prompt": "Dina has 26 flowers. 8 flowers are used up. How many flowers are left?",
       "options": {
         "choices": [
-          "18",
-          "19",
-          "17"
+          {
+            "id": "c1",
+            "text": "18"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          },
+          {
+            "id": "c3",
+            "text": "17"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "26 − 8 = 18 flowers left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Adam has 9 marbles. 5 marbles are given away. How many marbles are left?",
       "type": "mcq",
+      "prompt": "Adam has 9 marbles. 5 marbles are given away. How many marbles are left?",
       "options": {
         "choices": [
-          "5",
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 − 5 = 4 marbles left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Sara has 8 books and 20 balloons. How many things does Sara have altogether?",
       "type": "mcq",
+      "prompt": "Sara has 8 books and 20 balloons. How many things does Sara have altogether?",
       "options": {
         "choices": [
-          "27",
-          "29",
-          "28"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          },
+          {
+            "id": "c3",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "8 + 20 = 28 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Yusuf has 28 crayons and 2 flowers. How many things does Yusuf have altogether?",
       "type": "mcq",
+      "prompt": "Yusuf has 28 crayons and 2 flowers. How many things does Yusuf have altogether?",
       "options": {
         "choices": [
-          "29",
-          "30",
-          "31"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          },
+          {
+            "id": "c3",
+            "text": "31"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "28 + 2 = 30 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Yusuf has 7 marbles. 2 marbles are used up. How many marbles are left?",
       "type": "mcq",
+      "prompt": "Yusuf has 7 marbles. 2 marbles are used up. How many marbles are left?",
       "options": {
         "choices": [
-          "6",
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "7 − 2 = 5 marbles left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Noor has 5 candies. 3 candies are given away. How many candies are left?",
       "type": "mcq",
+      "prompt": "Noor has 5 candies. 3 candies are given away. How many candies are left?",
       "options": {
         "choices": [
-          "1",
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 − 3 = 2 candies left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Rana has 4 toy cars. Rana gets 7 more toy cars. How many toy cars now?",
       "type": "mcq",
+      "prompt": "Rana has 4 toy cars. Rana gets 7 more toy cars. How many toy cars now?",
       "options": {
         "choices": [
-          "12",
-          "11",
-          "10"
+          {
+            "id": "c1",
+            "text": "12"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          },
+          {
+            "id": "c3",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "4 + 7 = 11 toy cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Lara has 8 books and 14 toy cars. How many things does Lara have altogether?",
       "type": "mcq",
+      "prompt": "Lara has 8 books and 14 toy cars. How many things does Lara have altogether?",
       "options": {
         "choices": [
-          "23",
-          "22",
-          "21"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          },
+          {
+            "id": "c3",
+            "text": "21"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "8 + 14 = 22 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Zaid has 10 stickers and 13 crayons. How many things does Zaid have altogether?",
       "type": "mcq",
+      "prompt": "Zaid has 10 stickers and 13 crayons. How many things does Zaid have altogether?",
       "options": {
         "choices": [
-          "22",
-          "24",
-          "23"
+          {
+            "id": "c1",
+            "text": "22"
+          },
+          {
+            "id": "c2",
+            "text": "24"
+          },
+          {
+            "id": "c3",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "23",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "10 + 13 = 23 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Dina has 22 pencils. 6 pencils go missing. How many pencils are left?",
       "type": "mcq",
+      "prompt": "Dina has 22 pencils. 6 pencils go missing. How many pencils are left?",
       "options": {
         "choices": [
-          "17",
-          "15",
-          "16"
+          {
+            "id": "c1",
+            "text": "17"
+          },
+          {
+            "id": "c2",
+            "text": "15"
+          },
+          {
+            "id": "c3",
+            "text": "16"
+          }
         ]
       },
-      "correct_answer": "16",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "22 − 6 = 16 pencils left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Rana has 25 toy cars. Rana gets 3 more toy cars. How many toy cars now?",
       "type": "mcq",
+      "prompt": "Rana has 25 toy cars. Rana gets 3 more toy cars. How many toy cars now?",
       "options": {
         "choices": [
-          "28",
-          "29",
-          "27"
+          {
+            "id": "c1",
+            "text": "28"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          },
+          {
+            "id": "c3",
+            "text": "27"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "25 + 3 = 28 toy cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Zaid has 26 apples. Zaid gets 2 more apples. How many apples now?",
       "type": "mcq",
+      "prompt": "Zaid has 26 apples. Zaid gets 2 more apples. How many apples now?",
       "options": {
         "choices": [
-          "28",
-          "27",
-          "29"
+          {
+            "id": "c1",
+            "text": "28"
+          },
+          {
+            "id": "c2",
+            "text": "27"
+          },
+          {
+            "id": "c3",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "26 + 2 = 28 apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Noor has 12 cookies and 7 books. How many things does Noor have altogether?",
       "type": "mcq",
+      "prompt": "Noor has 12 cookies and 7 books. How many things does Noor have altogether?",
       "options": {
         "choices": [
-          "19",
-          "18",
-          "20"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          },
+          {
+            "id": "c3",
+            "text": "20"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "12 + 7 = 19 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Lara has 5 stickers and 25 toy cars. How many things does Lara have altogether?",
       "type": "mcq",
+      "prompt": "Lara has 5 stickers and 25 toy cars. How many things does Lara have altogether?",
       "options": {
         "choices": [
-          "31",
-          "29",
-          "30"
+          {
+            "id": "c1",
+            "text": "31"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          },
+          {
+            "id": "c3",
+            "text": "30"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "5 + 25 = 30 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Yusuf has 9 stickers. 2 stickers are used up. How many stickers are left?",
       "type": "mcq",
+      "prompt": "Yusuf has 9 stickers. 2 stickers are used up. How many stickers are left?",
       "options": {
         "choices": [
-          "8",
-          "7",
-          "6"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 − 2 = 7 stickers left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Tariq has 16 balloons and 4 oranges. How many things does Tariq have altogether?",
       "type": "mcq",
+      "prompt": "Tariq has 16 balloons and 4 oranges. How many things does Tariq have altogether?",
       "options": {
         "choices": [
-          "21",
-          "19",
-          "20"
+          {
+            "id": "c1",
+            "text": "21"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          },
+          {
+            "id": "c3",
+            "text": "20"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "16 + 4 = 20 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Dina has 26 pencils. Dina gets 4 more pencils. How many pencils now?",
       "type": "mcq",
+      "prompt": "Dina has 26 pencils. Dina gets 4 more pencils. How many pencils now?",
       "options": {
         "choices": [
-          "30",
-          "31",
-          "29"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          },
+          {
+            "id": "c3",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "26 + 4 = 30 pencils.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Lina has 19 stickers. 4 stickers are shared with friends. How many stickers are left?",
       "type": "mcq",
+      "prompt": "Lina has 19 stickers. 4 stickers are shared with friends. How many stickers are left?",
       "options": {
         "choices": [
-          "14",
-          "16",
-          "15"
+          {
+            "id": "c1",
+            "text": "14"
+          },
+          {
+            "id": "c2",
+            "text": "16"
+          },
+          {
+            "id": "c3",
+            "text": "15"
+          }
         ]
       },
-      "correct_answer": "15",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "19 − 4 = 15 stickers left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Omar has 24 balloons and 4 books. How many things does Omar have altogether?",
       "type": "mcq",
+      "prompt": "Omar has 24 balloons and 4 books. How many things does Omar have altogether?",
       "options": {
         "choices": [
-          "27",
-          "29",
-          "28"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          },
+          {
+            "id": "c3",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "24 + 4 = 28 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Rana has 21 flowers. 13 flowers are taken away. How many flowers are left?",
       "type": "mcq",
+      "prompt": "Rana has 21 flowers. 13 flowers are taken away. How many flowers are left?",
       "options": {
         "choices": [
-          "9",
-          "7",
-          "8"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "21 − 13 = 8 flowers left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Tariq has 30 candies. 26 candies are lost. How many candies are left?",
       "type": "mcq",
+      "prompt": "Tariq has 30 candies. 26 candies are lost. How many candies are left?",
       "options": {
         "choices": [
-          "4",
-          "3",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "30 − 26 = 4 candies left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Dina has 25 balloons. 6 balloons go missing. How many balloons are left?",
       "type": "mcq",
+      "prompt": "Dina has 25 balloons. 6 balloons go missing. How many balloons are left?",
       "options": {
         "choices": [
-          "20",
-          "18",
-          "19"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          },
+          {
+            "id": "c3",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "25 − 6 = 19 balloons left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Hana has 8 toy cars. Hana gets 22 more toy cars. How many toy cars now?",
       "type": "mcq",
+      "prompt": "Hana has 8 toy cars. Hana gets 22 more toy cars. How many toy cars now?",
       "options": {
         "choices": [
-          "31",
-          "30",
-          "29"
+          {
+            "id": "c1",
+            "text": "31"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          },
+          {
+            "id": "c3",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "8 + 22 = 30 toy cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Yusuf has 23 flowers. Yusuf gets 2 more flowers. How many flowers now?",
       "type": "mcq",
+      "prompt": "Yusuf has 23 flowers. Yusuf gets 2 more flowers. How many flowers now?",
       "options": {
         "choices": [
-          "25",
-          "24",
-          "26"
+          {
+            "id": "c1",
+            "text": "25"
+          },
+          {
+            "id": "c2",
+            "text": "24"
+          },
+          {
+            "id": "c3",
+            "text": "26"
+          }
         ]
       },
-      "correct_answer": "25",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "23 + 2 = 25 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Yusuf has 22 apples. 2 apples go missing. How many apples are left?",
       "type": "mcq",
+      "prompt": "Yusuf has 22 apples. 2 apples go missing. How many apples are left?",
       "options": {
         "choices": [
-          "19",
-          "20",
-          "21"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "20"
+          },
+          {
+            "id": "c3",
+            "text": "21"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "22 − 2 = 20 apples left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Karim has 9 candies and 13 toy cars. How many things does Karim have altogether?",
       "type": "mcq",
+      "prompt": "Karim has 9 candies and 13 toy cars. How many things does Karim have altogether?",
       "options": {
         "choices": [
-          "21",
-          "22",
-          "23"
+          {
+            "id": "c1",
+            "text": "21"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          },
+          {
+            "id": "c3",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 + 13 = 22 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Lara has 16 balloons. 4 balloons are shared with friends. How many balloons are left?",
       "type": "mcq",
+      "prompt": "Lara has 16 balloons. 4 balloons are shared with friends. How many balloons are left?",
       "options": {
         "choices": [
-          "11",
-          "12",
-          "13"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "12"
+          },
+          {
+            "id": "c3",
+            "text": "13"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "16 − 4 = 12 balloons left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Rana has 5 balloons. 2 balloons are given away. How many balloons are left?",
       "type": "mcq",
+      "prompt": "Rana has 5 balloons. 2 balloons are given away. How many balloons are left?",
       "options": {
         "choices": [
-          "2",
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "5 − 2 = 3 balloons left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Dina has 23 books. 21 books are given away. How many books are left?",
       "type": "mcq",
+      "prompt": "Dina has 23 books. 21 books are given away. How many books are left?",
       "options": {
         "choices": [
-          "2",
-          "1",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "23 − 21 = 2 books left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Yusuf has 8 candies. Yusuf gets 13 more candies. How many candies now?",
       "type": "mcq",
+      "prompt": "Yusuf has 8 candies. Yusuf gets 13 more candies. How many candies now?",
       "options": {
         "choices": [
-          "21",
-          "20",
-          "22"
+          {
+            "id": "c1",
+            "text": "21"
+          },
+          {
+            "id": "c2",
+            "text": "20"
+          },
+          {
+            "id": "c3",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "21",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "8 + 13 = 21 candies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Rana has 22 flowers. Rana gets 6 more flowers. How many flowers now?",
       "type": "mcq",
+      "prompt": "Rana has 22 flowers. Rana gets 6 more flowers. How many flowers now?",
       "options": {
         "choices": [
-          "29",
-          "27",
-          "28"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "27"
+          },
+          {
+            "id": "c3",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "22 + 6 = 28 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Lara has 15 cookies. 7 cookies go missing. How many cookies are left?",
       "type": "mcq",
+      "prompt": "Lara has 15 cookies. 7 cookies go missing. How many cookies are left?",
       "options": {
         "choices": [
-          "9",
-          "7",
-          "8"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "15 − 7 = 8 cookies left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Sami has 20 flowers. Sami gets 4 more flowers. How many flowers now?",
       "type": "mcq",
+      "prompt": "Sami has 20 flowers. Sami gets 4 more flowers. How many flowers now?",
       "options": {
         "choices": [
-          "24",
-          "23",
-          "25"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "23"
+          },
+          {
+            "id": "c3",
+            "text": "25"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "20 + 4 = 24 flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Dina has 8 cookies. Dina gets 10 more cookies. How many cookies now?",
       "type": "mcq",
+      "prompt": "Dina has 8 cookies. Dina gets 10 more cookies. How many cookies now?",
       "options": {
         "choices": [
-          "18",
-          "17",
-          "19"
+          {
+            "id": "c1",
+            "text": "18"
+          },
+          {
+            "id": "c2",
+            "text": "17"
+          },
+          {
+            "id": "c3",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "8 + 10 = 18 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Ali has 22 cookies. 16 cookies are lost. How many cookies are left?",
       "type": "mcq",
+      "prompt": "Ali has 22 cookies. 16 cookies are lost. How many cookies are left?",
       "options": {
         "choices": [
-          "7",
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "22 − 16 = 6 cookies left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Lina has 17 flowers. 5 flowers are used up. How many flowers are left?",
       "type": "mcq",
+      "prompt": "Lina has 17 flowers. 5 flowers are used up. How many flowers are left?",
       "options": {
         "choices": [
-          "11",
-          "13",
-          "12"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "13"
+          },
+          {
+            "id": "c3",
+            "text": "12"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "17 − 5 = 12 flowers left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Maya has 14 candies. 8 candies are given away. How many candies are left?",
       "type": "mcq",
+      "prompt": "Maya has 14 candies. 8 candies are given away. How many candies are left?",
       "options": {
         "choices": [
-          "5",
-          "7",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "14 − 8 = 6 candies left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Dina has 24 cookies. Dina gets 4 more cookies. How many cookies now?",
       "type": "mcq",
+      "prompt": "Dina has 24 cookies. Dina gets 4 more cookies. How many cookies now?",
       "options": {
         "choices": [
-          "27",
-          "28",
-          "29"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          },
+          {
+            "id": "c3",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "24 + 4 = 28 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Lina has 28 toy cars and 2 toy cars. How many things does Lina have altogether?",
       "type": "mcq",
+      "prompt": "Lina has 28 toy cars and 2 toy cars. How many things does Lina have altogether?",
       "options": {
         "choices": [
-          "30",
-          "31",
-          "29"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          },
+          {
+            "id": "c3",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "28 + 2 = 30 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Omar has 24 books. 12 books are shared with friends. How many books are left?",
       "type": "mcq",
+      "prompt": "Omar has 24 books. 12 books are shared with friends. How many books are left?",
       "options": {
         "choices": [
-          "12",
-          "13",
-          "11"
+          {
+            "id": "c1",
+            "text": "12"
+          },
+          {
+            "id": "c2",
+            "text": "13"
+          },
+          {
+            "id": "c3",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "24 − 12 = 12 books left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Ali has 11 books and 12 crayons. How many things does Ali have altogether?",
       "type": "mcq",
+      "prompt": "Ali has 11 books and 12 crayons. How many things does Ali have altogether?",
       "options": {
         "choices": [
-          "22",
-          "24",
-          "23"
+          {
+            "id": "c1",
+            "text": "22"
+          },
+          {
+            "id": "c2",
+            "text": "24"
+          },
+          {
+            "id": "c3",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "23",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "11 + 12 = 23 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Hana has 25 stickers. 13 stickers are lost. How many stickers are left?",
       "type": "mcq",
+      "prompt": "Hana has 25 stickers. 13 stickers are lost. How many stickers are left?",
       "options": {
         "choices": [
-          "11",
-          "13",
-          "12"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "13"
+          },
+          {
+            "id": "c3",
+            "text": "12"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "25 − 13 = 12 stickers left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Sara has 2 oranges. Sara gets 22 more oranges. How many oranges now?",
       "type": "mcq",
+      "prompt": "Sara has 2 oranges. Sara gets 22 more oranges. How many oranges now?",
       "options": {
         "choices": [
-          "25",
-          "24",
-          "23"
+          {
+            "id": "c1",
+            "text": "25"
+          },
+          {
+            "id": "c2",
+            "text": "24"
+          },
+          {
+            "id": "c3",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "2 + 22 = 24 oranges.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Lara has 19 books. Lara gets 9 more books. How many books now?",
       "type": "mcq",
+      "prompt": "Lara has 19 books. Lara gets 9 more books. How many books now?",
       "options": {
         "choices": [
-          "27",
-          "29",
-          "28"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          },
+          {
+            "id": "c3",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "19 + 9 = 28 books.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Noor has 4 books and 18 toy cars. How many things does Noor have altogether?",
       "type": "mcq",
+      "prompt": "Noor has 4 books and 18 toy cars. How many things does Noor have altogether?",
       "options": {
         "choices": [
-          "23",
-          "21",
-          "22"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "21"
+          },
+          {
+            "id": "c3",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "4 + 18 = 22 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Hana has 24 pencils. 22 pencils go missing. How many pencils are left?",
       "type": "mcq",
+      "prompt": "Hana has 24 pencils. 22 pencils go missing. How many pencils are left?",
       "options": {
         "choices": [
-          "3",
-          "2",
-          "1"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "24 − 22 = 2 pencils left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Lara has 27 candies. Lara gets 3 more candies. How many candies now?",
       "type": "mcq",
+      "prompt": "Lara has 27 candies. Lara gets 3 more candies. How many candies now?",
       "options": {
         "choices": [
-          "29",
-          "31",
-          "30"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          },
+          {
+            "id": "c3",
+            "text": "30"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "27 + 3 = 30 candies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Noor has 24 apples. 5 apples go missing. How many apples are left?",
       "type": "mcq",
+      "prompt": "Noor has 24 apples. 5 apples go missing. How many apples are left?",
       "options": {
         "choices": [
-          "18",
-          "19",
-          "20"
+          {
+            "id": "c1",
+            "text": "18"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          },
+          {
+            "id": "c3",
+            "text": "20"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "24 − 5 = 19 apples left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Lara has 15 balloons. Lara gets 3 more balloons. How many balloons now?",
       "type": "mcq",
+      "prompt": "Lara has 15 balloons. Lara gets 3 more balloons. How many balloons now?",
       "options": {
         "choices": [
-          "17",
-          "19",
-          "18"
+          {
+            "id": "c1",
+            "text": "17"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          },
+          {
+            "id": "c3",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "15 + 3 = 18 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Karim has 17 stickers and 9 balloons. How many things does Karim have altogether?",
       "type": "mcq",
+      "prompt": "Karim has 17 stickers and 9 balloons. How many things does Karim have altogether?",
       "options": {
         "choices": [
-          "27",
-          "25",
-          "26"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          },
+          {
+            "id": "c3",
+            "text": "26"
+          }
         ]
       },
-      "correct_answer": "26",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "17 + 9 = 26 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Maya has 16 candies. 4 candies are given away. How many candies are left?",
       "type": "mcq",
+      "prompt": "Maya has 16 candies. 4 candies are given away. How many candies are left?",
       "options": {
         "choices": [
-          "12",
-          "13",
-          "11"
+          {
+            "id": "c1",
+            "text": "12"
+          },
+          {
+            "id": "c2",
+            "text": "13"
+          },
+          {
+            "id": "c3",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "16 − 4 = 12 candies left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Omar has 10 pencils and 9 marbles. How many things does Omar have altogether?",
       "type": "mcq",
+      "prompt": "Omar has 10 pencils and 9 marbles. How many things does Omar have altogether?",
       "options": {
         "choices": [
-          "20",
-          "19",
-          "18"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          },
+          {
+            "id": "c3",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "10 + 9 = 19 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Maya has 28 pencils and 2 pencils. How many things does Maya have altogether?",
       "type": "mcq",
+      "prompt": "Maya has 28 pencils and 2 pencils. How many things does Maya have altogether?",
       "options": {
         "choices": [
-          "29",
-          "30",
-          "31"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          },
+          {
+            "id": "c3",
+            "text": "31"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "28 + 2 = 30 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Sami has 28 cookies and 2 crayons. How many things does Sami have altogether?",
       "type": "mcq",
+      "prompt": "Sami has 28 cookies and 2 crayons. How many things does Sami have altogether?",
       "options": {
         "choices": [
-          "30",
-          "31",
-          "29"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          },
+          {
+            "id": "c3",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "28 + 2 = 30 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Karim has 19 apples. Karim gets 8 more apples. How many apples now?",
       "type": "mcq",
+      "prompt": "Karim has 19 apples. Karim gets 8 more apples. How many apples now?",
       "options": {
         "choices": [
-          "26",
-          "28",
-          "27"
+          {
+            "id": "c1",
+            "text": "26"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          },
+          {
+            "id": "c3",
+            "text": "27"
+          }
         ]
       },
-      "correct_answer": "27",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "19 + 8 = 27 apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Zaid has 11 apples. 2 apples are given away. How many apples are left?",
       "type": "mcq",
+      "prompt": "Zaid has 11 apples. 2 apples are given away. How many apples are left?",
       "options": {
         "choices": [
-          "10",
-          "8",
-          "9"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "11 − 2 = 9 apples left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Maya has 23 apples. 16 apples are lost. How many apples are left?",
       "type": "mcq",
+      "prompt": "Maya has 23 apples. 16 apples are lost. How many apples are left?",
       "options": {
         "choices": [
-          "6",
-          "8",
-          "7"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "23 − 16 = 7 apples left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Zaid has 21 toy cars and 5 oranges. How many things does Zaid have altogether?",
       "type": "mcq",
+      "prompt": "Zaid has 21 toy cars and 5 oranges. How many things does Zaid have altogether?",
       "options": {
         "choices": [
-          "25",
-          "26",
-          "27"
+          {
+            "id": "c1",
+            "text": "25"
+          },
+          {
+            "id": "c2",
+            "text": "26"
+          },
+          {
+            "id": "c3",
+            "text": "27"
+          }
         ]
       },
-      "correct_answer": "26",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "21 + 5 = 26 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Yusuf has 24 oranges and 4 marbles. How many things does Yusuf have altogether?",
       "type": "mcq",
+      "prompt": "Yusuf has 24 oranges and 4 marbles. How many things does Yusuf have altogether?",
       "options": {
         "choices": [
-          "27",
-          "28",
-          "29"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          },
+          {
+            "id": "c3",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "24 + 4 = 28 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Tariq has 22 stickers. Tariq gets 8 more stickers. How many stickers now?",
       "type": "mcq",
+      "prompt": "Tariq has 22 stickers. Tariq gets 8 more stickers. How many stickers now?",
       "options": {
         "choices": [
-          "31",
-          "29",
-          "30"
+          {
+            "id": "c1",
+            "text": "31"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          },
+          {
+            "id": "c3",
+            "text": "30"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "22 + 8 = 30 stickers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Sara has 23 toy cars. Sara gets 4 more toy cars. How many toy cars now?",
       "type": "mcq",
+      "prompt": "Sara has 23 toy cars. Sara gets 4 more toy cars. How many toy cars now?",
       "options": {
         "choices": [
-          "27",
-          "28",
-          "26"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          },
+          {
+            "id": "c3",
+            "text": "26"
+          }
         ]
       },
-      "correct_answer": "27",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "23 + 4 = 27 toy cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Rana has 12 stickers. 2 stickers are lost. How many stickers are left?",
       "type": "mcq",
+      "prompt": "Rana has 12 stickers. 2 stickers are lost. How many stickers are left?",
       "options": {
         "choices": [
-          "9",
-          "11",
-          "10"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          },
+          {
+            "id": "c3",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "12 − 2 = 10 stickers left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Tariq has 27 stickers. Tariq gets 2 more stickers. How many stickers now?",
       "type": "mcq",
+      "prompt": "Tariq has 27 stickers. Tariq gets 2 more stickers. How many stickers now?",
       "options": {
         "choices": [
-          "30",
-          "28",
-          "29"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          },
+          {
+            "id": "c3",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "29",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "27 + 2 = 29 stickers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Tariq has 23 stickers. Tariq gets 6 more stickers. How many stickers now?",
       "type": "mcq",
+      "prompt": "Tariq has 23 stickers. Tariq gets 6 more stickers. How many stickers now?",
       "options": {
         "choices": [
-          "29",
-          "30",
-          "28"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          },
+          {
+            "id": "c3",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "29",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "23 + 6 = 29 stickers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Tariq has 2 apples and 17 cookies. How many things does Tariq have altogether?",
       "type": "mcq",
+      "prompt": "Tariq has 2 apples and 17 cookies. How many things does Tariq have altogether?",
       "options": {
         "choices": [
-          "19",
-          "18",
-          "20"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          },
+          {
+            "id": "c3",
+            "text": "20"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "2 + 17 = 19 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Sami has 18 candies and 5 crayons. How many things does Sami have altogether?",
       "type": "mcq",
+      "prompt": "Sami has 18 candies and 5 crayons. How many things does Sami have altogether?",
       "options": {
         "choices": [
-          "24",
-          "23",
-          "22"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "23"
+          },
+          {
+            "id": "c3",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "23",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "18 + 5 = 23 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Yusuf has 6 flowers and 24 pencils. How many things does Yusuf have altogether?",
       "type": "mcq",
+      "prompt": "Yusuf has 6 flowers and 24 pencils. How many things does Yusuf have altogether?",
       "options": {
         "choices": [
-          "30",
-          "31",
-          "29"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          },
+          {
+            "id": "c3",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "6 + 24 = 30 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Rana has 17 cookies. 14 cookies are used up. How many cookies are left?",
       "type": "mcq",
+      "prompt": "Rana has 17 cookies. 14 cookies are used up. How many cookies are left?",
       "options": {
         "choices": [
-          "2",
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "17 − 14 = 3 cookies left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Yusuf has 18 cookies. 9 cookies are shared with friends. How many cookies are left?",
       "type": "mcq",
+      "prompt": "Yusuf has 18 cookies. 9 cookies are shared with friends. How many cookies are left?",
       "options": {
         "choices": [
-          "10",
-          "8",
-          "9"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "18 − 9 = 9 cookies left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Lina has 20 flowers. 9 flowers are shared with friends. How many flowers are left?",
       "type": "mcq",
+      "prompt": "Lina has 20 flowers. 9 flowers are shared with friends. How many flowers are left?",
       "options": {
         "choices": [
-          "11",
-          "10",
-          "12"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          },
+          {
+            "id": "c3",
+            "text": "12"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "20 − 9 = 11 flowers left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Omar has 13 oranges. 7 oranges are taken away. How many oranges are left?",
       "type": "mcq",
+      "prompt": "Omar has 13 oranges. 7 oranges are taken away. How many oranges are left?",
       "options": {
         "choices": [
-          "7",
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "13 − 7 = 6 oranges left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Lara has 3 stickers. Lara gets 8 more stickers. How many stickers now?",
       "type": "mcq",
+      "prompt": "Lara has 3 stickers. Lara gets 8 more stickers. How many stickers now?",
       "options": {
         "choices": [
-          "10",
-          "12",
-          "11"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "12"
+          },
+          {
+            "id": "c3",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "3 + 8 = 11 stickers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Noor has 9 stickers. Noor gets 6 more stickers. How many stickers now?",
       "type": "mcq",
+      "prompt": "Noor has 9 stickers. Noor gets 6 more stickers. How many stickers now?",
       "options": {
         "choices": [
-          "14",
-          "15",
-          "16"
+          {
+            "id": "c1",
+            "text": "14"
+          },
+          {
+            "id": "c2",
+            "text": "15"
+          },
+          {
+            "id": "c3",
+            "text": "16"
+          }
         ]
       },
-      "correct_answer": "15",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 + 6 = 15 stickers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Ali has 15 apples and 5 apples. How many things does Ali have altogether?",
       "type": "mcq",
+      "prompt": "Ali has 15 apples and 5 apples. How many things does Ali have altogether?",
       "options": {
         "choices": [
-          "21",
-          "19",
-          "20"
+          {
+            "id": "c1",
+            "text": "21"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          },
+          {
+            "id": "c3",
+            "text": "20"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "15 + 5 = 20 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Sami has 20 marbles and 6 stickers. How many things does Sami have altogether?",
       "type": "mcq",
+      "prompt": "Sami has 20 marbles and 6 stickers. How many things does Sami have altogether?",
       "options": {
         "choices": [
-          "26",
-          "25",
-          "27"
+          {
+            "id": "c1",
+            "text": "26"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          },
+          {
+            "id": "c3",
+            "text": "27"
+          }
         ]
       },
-      "correct_answer": "26",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "20 + 6 = 26 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Yusuf has 16 toy cars. 9 toy cars are lost. How many toy cars are left?",
       "type": "mcq",
+      "prompt": "Yusuf has 16 toy cars. 9 toy cars are lost. How many toy cars are left?",
       "options": {
         "choices": [
-          "8",
-          "6",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "16 − 9 = 7 toy cars left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Lara has 11 crayons. 4 crayons are given away. How many crayons are left?",
       "type": "mcq",
+      "prompt": "Lara has 11 crayons. 4 crayons are given away. How many crayons are left?",
       "options": {
         "choices": [
-          "8",
-          "6",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "11 − 4 = 7 crayons left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Omar has 22 toy cars and 6 marbles. How many things does Omar have altogether?",
       "type": "mcq",
+      "prompt": "Omar has 22 toy cars and 6 marbles. How many things does Omar have altogether?",
       "options": {
         "choices": [
-          "27",
-          "29",
-          "28"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          },
+          {
+            "id": "c3",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "22 + 6 = 28 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Adam has 13 crayons. Adam gets 5 more crayons. How many crayons now?",
       "type": "mcq",
+      "prompt": "Adam has 13 crayons. Adam gets 5 more crayons. How many crayons now?",
       "options": {
         "choices": [
-          "17",
-          "18",
-          "19"
+          {
+            "id": "c1",
+            "text": "17"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          },
+          {
+            "id": "c3",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "13 + 5 = 18 crayons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Dina has 3 toy cars and 9 pencils. How many things does Dina have altogether?",
       "type": "mcq",
+      "prompt": "Dina has 3 toy cars and 9 pencils. How many things does Dina have altogether?",
       "options": {
         "choices": [
-          "11",
-          "13",
-          "12"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "13"
+          },
+          {
+            "id": "c3",
+            "text": "12"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "3 + 9 = 12 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Maya has 21 balloons. Maya gets 9 more balloons. How many balloons now?",
       "type": "mcq",
+      "prompt": "Maya has 21 balloons. Maya gets 9 more balloons. How many balloons now?",
       "options": {
         "choices": [
-          "29",
-          "30",
-          "31"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          },
+          {
+            "id": "c3",
+            "text": "31"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "21 + 9 = 30 balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Adam has 24 toy cars. Adam gets 3 more toy cars. How many toy cars now?",
       "type": "mcq",
+      "prompt": "Adam has 24 toy cars. Adam gets 3 more toy cars. How many toy cars now?",
       "options": {
         "choices": [
-          "26",
-          "28",
-          "27"
+          {
+            "id": "c1",
+            "text": "26"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          },
+          {
+            "id": "c3",
+            "text": "27"
+          }
         ]
       },
-      "correct_answer": "27",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "24 + 3 = 27 toy cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Noor has 14 crayons and 16 balloons. How many things does Noor have altogether?",
       "type": "mcq",
+      "prompt": "Noor has 14 crayons and 16 balloons. How many things does Noor have altogether?",
       "options": {
         "choices": [
-          "30",
-          "29",
-          "31"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          },
+          {
+            "id": "c3",
+            "text": "31"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "14 + 16 = 30 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Hana has 5 candies. 3 candies are shared with friends. How many candies are left?",
       "type": "mcq",
+      "prompt": "Hana has 5 candies. 3 candies are shared with friends. How many candies are left?",
       "options": {
         "choices": [
-          "2",
-          "1",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          },
+          {
+            "id": "c3",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "5 − 3 = 2 candies left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Hana has 12 cookies. Hana gets 7 more cookies. How many cookies now?",
       "type": "mcq",
+      "prompt": "Hana has 12 cookies. Hana gets 7 more cookies. How many cookies now?",
       "options": {
         "choices": [
-          "20",
-          "19",
-          "18"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          },
+          {
+            "id": "c3",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "19",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "12 + 7 = 19 cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Noor has 5 oranges and 5 stickers. How many things does Noor have altogether?",
       "type": "mcq",
+      "prompt": "Noor has 5 oranges and 5 stickers. How many things does Noor have altogether?",
       "options": {
         "choices": [
-          "11",
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          },
+          {
+            "id": "c3",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "5 + 5 = 10 altogether.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

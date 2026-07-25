@@ -1,2180 +1,3183 @@
 {
   "_source_file": "kg3_math_position.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "tap_select",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "math-position",
-    "title": "Where Is It?",
-    "quiz_type": "tap_select",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.507Z",
+  "slug": "math-position",
+  "title": "Where Is It?",
+  "level": "kg3",
+  "subject": "math",
+  "quiz_type": "tap_select",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Tap the picture at the BOTTOM",
       "type": "tap_select",
+      "prompt": "Tap the picture at the BOTTOM",
       "options": {
         "mode": "match",
         "choices": [
-          "🍌",
-          "🐝",
-          "🚗"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🚗"
+          {
+            "id": "c1",
+            "emoji": "🍌",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐝",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🚗",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🚗",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture at the bottom (below) is 🚗.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Tap the picture at the TOP",
       "type": "tap_select",
+      "prompt": "Tap the picture at the TOP",
       "options": {
         "mode": "match",
         "choices": [
-          "🐝",
-          "🚗",
-          "🍓"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐝"
+          {
+            "id": "c1",
+            "emoji": "🐝",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🚗",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍓",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐝",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture at the top (above) is 🐝.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Tap the picture at the MIDDLE",
       "type": "tap_select",
+      "prompt": "Tap the picture at the MIDDLE",
       "options": {
         "mode": "match",
         "choices": [
-          "🍪",
-          "🎈",
-          "🐝"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🎈"
+          {
+            "id": "c1",
+            "emoji": "🍪",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🎈",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🐝",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🎈",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture at the middle (middle) is 🎈.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Tap the picture on the MIDDLE (middle)",
       "type": "tap_select",
+      "prompt": "Tap the picture on the MIDDLE (middle)",
       "options": {
         "mode": "match",
         "choices": [
-          "🐝",
-          "🍎",
-          "🚗"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍎"
+          {
+            "id": "c1",
+            "emoji": "🐝",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍎",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🚗",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍎",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture on the middle is 🍎.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Tap the picture at the TOP",
       "type": "tap_select",
+      "prompt": "Tap the picture at the TOP",
       "options": {
         "mode": "match",
         "choices": [
-          "🍌",
-          "🚌",
-          "🐱"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍌"
+          {
+            "id": "c1",
+            "emoji": "🍌",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🚌",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🐱",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍌",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture at the top (above) is 🍌.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "🦆",
-          "🐱",
-          "🧸"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🧸"
+          {
+            "id": "c1",
+            "emoji": "🦆",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐱",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🧸",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🧸",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is 🧸.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Tap the picture at the MIDDLE",
       "type": "tap_select",
+      "prompt": "Tap the picture at the MIDDLE",
       "options": {
         "mode": "match",
         "choices": [
-          "🚌",
-          "🐶",
-          "🍌"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐶"
+          {
+            "id": "c1",
+            "emoji": "🚌",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐶",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍌",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐶",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture at the middle (middle) is 🐶.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "🍌",
-          "🚗"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍌"
+          {
+            "id": "c1",
+            "emoji": "🍌",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🚗",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍌",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍌 is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "🧸",
-          "🚌",
-          "🍎"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍎"
+          {
+            "id": "c1",
+            "emoji": "🧸",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🚌",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍎",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍎",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is 🍎.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Tap the picture at the BOTTOM",
       "type": "tap_select",
+      "prompt": "Tap the picture at the BOTTOM",
       "options": {
         "mode": "match",
         "choices": [
-          "🍎",
-          "🚌",
-          "🎈"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🎈"
+          {
+            "id": "c1",
+            "emoji": "🍎",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🚌",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🎈",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🎈",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture at the bottom (below) is 🎈.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Tap the one that is BELOW",
       "type": "tap_select",
+      "prompt": "Tap the one that is BELOW",
       "options": {
         "mode": "match",
         "choices": [
-          "🐟",
-          "🍓"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍓"
+          {
+            "id": "c1",
+            "emoji": "🐟",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍓",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍓",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🍓 is below the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Tap the picture at the MIDDLE",
       "type": "tap_select",
+      "prompt": "Tap the picture at the MIDDLE",
       "options": {
         "mode": "match",
         "choices": [
-          "⚽",
-          "🐶",
-          "🍎"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐶"
+          {
+            "id": "c1",
+            "emoji": "⚽",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐶",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍎",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐶",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture at the middle (middle) is 🐶.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Tap the picture on the LEFT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the LEFT",
       "options": {
         "mode": "match",
         "choices": [
-          "🧸",
-          "🍌",
-          "🚌"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🧸"
+          {
+            "id": "c1",
+            "emoji": "🧸",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍌",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🚌",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🧸",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture on the left is 🧸.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Tap the picture at the TOP",
       "type": "tap_select",
+      "prompt": "Tap the picture at the TOP",
       "options": {
         "mode": "match",
         "choices": [
-          "🧸",
-          "🐶",
-          "🍪"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🧸"
+          {
+            "id": "c1",
+            "emoji": "🧸",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐶",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍪",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🧸",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture at the top (above) is 🧸.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Tap the picture at the BOTTOM",
       "type": "tap_select",
+      "prompt": "Tap the picture at the BOTTOM",
       "options": {
         "mode": "match",
         "choices": [
-          "🌸",
-          "🍎",
-          "🧸"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🧸"
+          {
+            "id": "c1",
+            "emoji": "🌸",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍎",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🧸",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🧸",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture at the bottom (below) is 🧸.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Tap the one that is BELOW",
       "type": "tap_select",
+      "prompt": "Tap the one that is BELOW",
       "options": {
         "mode": "match",
         "choices": [
-          "🍓",
-          "🐶"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐶"
+          {
+            "id": "c1",
+            "emoji": "🍓",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐶",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐶",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🐶 is below the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Tap the picture on the LEFT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the LEFT",
       "options": {
         "mode": "match",
         "choices": [
-          "🐱",
-          "🍓",
-          "🚌"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐱"
+          {
+            "id": "c1",
+            "emoji": "🐱",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍓",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🚌",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐱",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture on the left is 🐱.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "⭐",
-          "🌸"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "⭐"
+          {
+            "id": "c1",
+            "emoji": "⭐",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🌸",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "⭐",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "⭐ is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "⚽",
-          "🍎"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "⚽"
+          {
+            "id": "c1",
+            "emoji": "⚽",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍎",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "⚽",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "⚽ is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Tap the picture at the TOP",
       "type": "tap_select",
+      "prompt": "Tap the picture at the TOP",
       "options": {
         "mode": "match",
         "choices": [
-          "🚗",
-          "🎈",
-          "🍌"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🚗"
+          {
+            "id": "c1",
+            "emoji": "🚗",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🎈",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍌",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🚗",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture at the top (above) is 🚗.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "⭐",
-          "🍓"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "⭐"
+          {
+            "id": "c1",
+            "emoji": "⭐",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍓",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "⭐",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "⭐ is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Tap the picture on the LEFT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the LEFT",
       "options": {
         "mode": "match",
         "choices": [
-          "🍓",
-          "🍌",
-          "⭐"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍓"
+          {
+            "id": "c1",
+            "emoji": "🍓",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍌",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "⭐",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍓",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture on the left is 🍓.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Tap the picture at the TOP",
       "type": "tap_select",
+      "prompt": "Tap the picture at the TOP",
       "options": {
         "mode": "match",
         "choices": [
-          "🐝",
-          "🍓",
-          "🍪"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐝"
+          {
+            "id": "c1",
+            "emoji": "🐝",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍓",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍪",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐝",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture at the top (above) is 🐝.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Tap the picture at the TOP",
       "type": "tap_select",
+      "prompt": "Tap the picture at the TOP",
       "options": {
         "mode": "match",
         "choices": [
-          "🍪",
-          "🐟",
-          "⭐"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍪"
+          {
+            "id": "c1",
+            "emoji": "🍪",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐟",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "⭐",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍪",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture at the top (above) is 🍪.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "🐶",
-          "🌸",
-          "🐱"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐱"
+          {
+            "id": "c1",
+            "emoji": "🐶",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🌸",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🐱",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐱",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is 🐱.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "🌸",
-          "🍎"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🌸"
+          {
+            "id": "c1",
+            "emoji": "🌸",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍎",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🌸",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🌸 is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "🦆",
-          "🍎",
-          "🚌"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🚌"
+          {
+            "id": "c1",
+            "emoji": "🦆",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍎",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🚌",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🚌",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is 🚌.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "🚌",
-          "🐱",
-          "🎈"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🎈"
+          {
+            "id": "c1",
+            "emoji": "🚌",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐱",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🎈",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🎈",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is 🎈.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "🐟",
-          "🚗"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐟"
+          {
+            "id": "c1",
+            "emoji": "🐟",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🚗",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐟",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🐟 is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Tap the picture at the BOTTOM",
       "type": "tap_select",
+      "prompt": "Tap the picture at the BOTTOM",
       "options": {
         "mode": "match",
         "choices": [
-          "🌸",
-          "⚽",
-          "🍎"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍎"
+          {
+            "id": "c1",
+            "emoji": "🌸",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "⚽",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍎",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍎",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture at the bottom (below) is 🍎.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Tap the picture on the LEFT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the LEFT",
       "options": {
         "mode": "match",
         "choices": [
-          "🚗",
-          "🐱",
-          "🍓"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🚗"
+          {
+            "id": "c1",
+            "emoji": "🚗",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐱",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍓",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🚗",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture on the left is 🚗.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "🐝",
-          "🍓",
-          "🚗"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🚗"
+          {
+            "id": "c1",
+            "emoji": "🐝",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍓",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🚗",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🚗",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is 🚗.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "🧸",
-          "🦆"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🧸"
+          {
+            "id": "c1",
+            "emoji": "🧸",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🦆",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🧸",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🧸 is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Tap the picture at the TOP",
       "type": "tap_select",
+      "prompt": "Tap the picture at the TOP",
       "options": {
         "mode": "match",
         "choices": [
-          "🎈",
-          "⚽",
-          "🐝"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🎈"
+          {
+            "id": "c1",
+            "emoji": "🎈",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "⚽",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🐝",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🎈",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture at the top (above) is 🎈.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Tap the picture at the TOP",
       "type": "tap_select",
+      "prompt": "Tap the picture at the TOP",
       "options": {
         "mode": "match",
         "choices": [
-          "🍪",
-          "🐱",
-          "🧸"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍪"
+          {
+            "id": "c1",
+            "emoji": "🍪",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐱",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🧸",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍪",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture at the top (above) is 🍪.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Tap the picture on the LEFT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the LEFT",
       "options": {
         "mode": "match",
         "choices": [
-          "🐟",
-          "🎈",
-          "🦆"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐟"
+          {
+            "id": "c1",
+            "emoji": "🐟",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🎈",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🦆",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐟",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture on the left is 🐟.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "🍎",
-          "🐶"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍎"
+          {
+            "id": "c1",
+            "emoji": "🍎",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐶",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍎",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍎 is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Tap the picture at the TOP",
       "type": "tap_select",
+      "prompt": "Tap the picture at the TOP",
       "options": {
         "mode": "match",
         "choices": [
-          "🎈",
-          "🐶",
-          "🐟"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🎈"
+          {
+            "id": "c1",
+            "emoji": "🎈",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐶",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🐟",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🎈",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture at the top (above) is 🎈.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Tap the one that is BELOW",
       "type": "tap_select",
+      "prompt": "Tap the one that is BELOW",
       "options": {
         "mode": "match",
         "choices": [
-          "🦆",
-          "🎈"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🎈"
+          {
+            "id": "c1",
+            "emoji": "🦆",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🎈",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🎈",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🎈 is below the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Tap the picture on the MIDDLE (middle)",
       "type": "tap_select",
+      "prompt": "Tap the picture on the MIDDLE (middle)",
       "options": {
         "mode": "match",
         "choices": [
-          "🐝",
-          "🐱",
-          "🍪"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐱"
+          {
+            "id": "c1",
+            "emoji": "🐝",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐱",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍪",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐱",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture on the middle is 🐱.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Tap the picture on the MIDDLE (middle)",
       "type": "tap_select",
+      "prompt": "Tap the picture on the MIDDLE (middle)",
       "options": {
         "mode": "match",
         "choices": [
-          "⭐",
-          "🍎",
-          "⚽"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍎"
+          {
+            "id": "c1",
+            "emoji": "⭐",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍎",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "⚽",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍎",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture on the middle is 🍎.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Tap the picture at the TOP",
       "type": "tap_select",
+      "prompt": "Tap the picture at the TOP",
       "options": {
         "mode": "match",
         "choices": [
-          "🍌",
-          "🌸",
-          "🚗"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍌"
+          {
+            "id": "c1",
+            "emoji": "🍌",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🌸",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🚗",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍌",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture at the top (above) is 🍌.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Tap the picture at the BOTTOM",
       "type": "tap_select",
+      "prompt": "Tap the picture at the BOTTOM",
       "options": {
         "mode": "match",
         "choices": [
-          "🍪",
-          "⭐",
-          "🚌"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🚌"
+          {
+            "id": "c1",
+            "emoji": "🍪",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "⭐",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🚌",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🚌",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture at the bottom (below) is 🚌.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Tap the picture on the MIDDLE (middle)",
       "type": "tap_select",
+      "prompt": "Tap the picture on the MIDDLE (middle)",
       "options": {
         "mode": "match",
         "choices": [
-          "⭐",
-          "🐝",
-          "🚗"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐝"
+          {
+            "id": "c1",
+            "emoji": "⭐",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐝",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🚗",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐝",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture on the middle is 🐝.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "🐝",
-          "🍪",
-          "🐶"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐶"
+          {
+            "id": "c1",
+            "emoji": "🐝",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍪",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🐶",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐶",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is 🐶.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Tap the picture at the TOP",
       "type": "tap_select",
+      "prompt": "Tap the picture at the TOP",
       "options": {
         "mode": "match",
         "choices": [
-          "🍎",
-          "🦆",
-          "⭐"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍎"
+          {
+            "id": "c1",
+            "emoji": "🍎",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🦆",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "⭐",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍎",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture at the top (above) is 🍎.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Tap the picture on the MIDDLE (middle)",
       "type": "tap_select",
+      "prompt": "Tap the picture on the MIDDLE (middle)",
       "options": {
         "mode": "match",
         "choices": [
-          "🐟",
-          "🎈",
-          "🍌"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🎈"
+          {
+            "id": "c1",
+            "emoji": "🐟",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🎈",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍌",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🎈",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture on the middle is 🎈.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Tap the picture on the LEFT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the LEFT",
       "options": {
         "mode": "match",
         "choices": [
-          "🍓",
-          "🐝",
-          "🍎"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍓"
+          {
+            "id": "c1",
+            "emoji": "🍓",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐝",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍎",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍓",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture on the left is 🍓.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Tap the picture on the LEFT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the LEFT",
       "options": {
         "mode": "match",
         "choices": [
-          "🌸",
-          "🍎",
-          "🐶"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🌸"
+          {
+            "id": "c1",
+            "emoji": "🌸",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍎",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🐶",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🌸",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture on the left is 🌸.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Tap the picture at the MIDDLE",
       "type": "tap_select",
+      "prompt": "Tap the picture at the MIDDLE",
       "options": {
         "mode": "match",
         "choices": [
-          "🎈",
-          "🌸",
-          "🧸"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🌸"
+          {
+            "id": "c1",
+            "emoji": "🎈",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🌸",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🧸",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🌸",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture at the middle (middle) is 🌸.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "🐱",
-          "🎈",
-          "🚌"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🚌"
+          {
+            "id": "c1",
+            "emoji": "🐱",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🎈",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🚌",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🚌",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is 🚌.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Tap the picture on the MIDDLE (middle)",
       "type": "tap_select",
+      "prompt": "Tap the picture on the MIDDLE (middle)",
       "options": {
         "mode": "match",
         "choices": [
-          "🧸",
-          "⚽",
-          "🦆"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "⚽"
+          {
+            "id": "c1",
+            "emoji": "🧸",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "⚽",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🦆",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "⚽",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture on the middle is ⚽.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "🐝",
-          "🍪"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐝"
+          {
+            "id": "c1",
+            "emoji": "🐝",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍪",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐝",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🐝 is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Tap the picture at the BOTTOM",
       "type": "tap_select",
+      "prompt": "Tap the picture at the BOTTOM",
       "options": {
         "mode": "match",
         "choices": [
-          "🚗",
-          "⭐",
-          "🦆"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🦆"
+          {
+            "id": "c1",
+            "emoji": "🚗",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "⭐",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🦆",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🦆",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture at the bottom (below) is 🦆.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Tap the picture on the LEFT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the LEFT",
       "options": {
         "mode": "match",
         "choices": [
-          "🧸",
-          "🎈",
-          "🦆"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🧸"
+          {
+            "id": "c1",
+            "emoji": "🧸",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🎈",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🦆",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🧸",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture on the left is 🧸.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Tap the one that is BELOW",
       "type": "tap_select",
+      "prompt": "Tap the one that is BELOW",
       "options": {
         "mode": "match",
         "choices": [
-          "🚌",
-          "🧸"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🧸"
+          {
+            "id": "c1",
+            "emoji": "🚌",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🧸",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🧸",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🧸 is below the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Tap the one that is BELOW",
       "type": "tap_select",
+      "prompt": "Tap the one that is BELOW",
       "options": {
         "mode": "match",
         "choices": [
-          "🍓",
-          "🧸"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🧸"
+          {
+            "id": "c1",
+            "emoji": "🍓",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🧸",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🧸",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "🧸 is below the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Tap the picture at the TOP",
       "type": "tap_select",
+      "prompt": "Tap the picture at the TOP",
       "options": {
         "mode": "match",
         "choices": [
-          "🍎",
-          "🌸",
-          "🎈"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍎"
+          {
+            "id": "c1",
+            "emoji": "🍎",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🌸",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🎈",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍎",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture at the top (above) is 🍎.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Tap the picture at the MIDDLE",
       "type": "tap_select",
+      "prompt": "Tap the picture at the MIDDLE",
       "options": {
         "mode": "match",
         "choices": [
-          "🚌",
-          "⭐",
-          "🎈"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "⭐"
+          {
+            "id": "c1",
+            "emoji": "🚌",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "⭐",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🎈",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "⭐",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture at the middle (middle) is ⭐.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "🚌",
-          "🚗",
-          "🐝"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐝"
+          {
+            "id": "c1",
+            "emoji": "🚌",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🚗",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🐝",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐝",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is 🐝.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "⚽",
-          "🦆"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "⚽"
+          {
+            "id": "c1",
+            "emoji": "⚽",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🦆",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "⚽",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "⚽ is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "⚽",
-          "🚌",
-          "🦆"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🦆"
+          {
+            "id": "c1",
+            "emoji": "⚽",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🚌",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🦆",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🦆",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is 🦆.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "🍪",
-          "⭐",
-          "⚽"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "⚽"
+          {
+            "id": "c1",
+            "emoji": "🍪",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "⭐",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "⚽",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "⚽",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is ⚽.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "🚌",
-          "🚗"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🚌"
+          {
+            "id": "c1",
+            "emoji": "🚌",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🚗",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🚌",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🚌 is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "🌸",
-          "🚌",
-          "🧸"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🧸"
+          {
+            "id": "c1",
+            "emoji": "🌸",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🚌",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🧸",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🧸",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is 🧸.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Tap the picture on the MIDDLE (middle)",
       "type": "tap_select",
+      "prompt": "Tap the picture on the MIDDLE (middle)",
       "options": {
         "mode": "match",
         "choices": [
-          "🍌",
-          "⭐",
-          "🍓"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "⭐"
+          {
+            "id": "c1",
+            "emoji": "🍌",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "⭐",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍓",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "⭐",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture on the middle is ⭐.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Tap the picture on the LEFT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the LEFT",
       "options": {
         "mode": "match",
         "choices": [
-          "🐟",
-          "🍎",
-          "🦆"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐟"
+          {
+            "id": "c1",
+            "emoji": "🐟",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍎",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🦆",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐟",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture on the left is 🐟.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Tap the picture on the LEFT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the LEFT",
       "options": {
         "mode": "match",
         "choices": [
-          "🐝",
-          "🍌",
-          "🚗"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐝"
+          {
+            "id": "c1",
+            "emoji": "🐝",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍌",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🚗",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐝",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture on the left is 🐝.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Tap the picture at the BOTTOM",
       "type": "tap_select",
+      "prompt": "Tap the picture at the BOTTOM",
       "options": {
         "mode": "match",
         "choices": [
-          "🚌",
-          "🐝",
-          "🐱"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐱"
+          {
+            "id": "c1",
+            "emoji": "🚌",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐝",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🐱",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐱",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture at the bottom (below) is 🐱.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "🎈",
-          "🍎"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🎈"
+          {
+            "id": "c1",
+            "emoji": "🎈",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍎",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🎈",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🎈 is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Tap the picture on the LEFT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the LEFT",
       "options": {
         "mode": "match",
         "choices": [
-          "🍪",
-          "🚌",
-          "🚗"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍪"
+          {
+            "id": "c1",
+            "emoji": "🍪",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🚌",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🚗",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍪",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture on the left is 🍪.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "🚗",
-          "⭐",
-          "🍎"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍎"
+          {
+            "id": "c1",
+            "emoji": "🚗",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "⭐",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍎",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍎",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is 🍎.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "🍎",
-          "🚌"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍎"
+          {
+            "id": "c1",
+            "emoji": "🍎",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🚌",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍎",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🍎 is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Tap the picture at the BOTTOM",
       "type": "tap_select",
+      "prompt": "Tap the picture at the BOTTOM",
       "options": {
         "mode": "match",
         "choices": [
-          "🐱",
-          "🍪",
-          "🌸"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🌸"
+          {
+            "id": "c1",
+            "emoji": "🐱",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍪",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🌸",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🌸",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture at the bottom (below) is 🌸.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Tap the picture on the MIDDLE (middle)",
       "type": "tap_select",
+      "prompt": "Tap the picture on the MIDDLE (middle)",
       "options": {
         "mode": "match",
         "choices": [
-          "🍎",
-          "🌸",
-          "🦆"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🌸"
+          {
+            "id": "c1",
+            "emoji": "🍎",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🌸",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🦆",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🌸",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture on the middle is 🌸.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "🚗",
-          "🌸"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🚗"
+          {
+            "id": "c1",
+            "emoji": "🚗",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🌸",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🚗",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🚗 is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Tap the picture at the MIDDLE",
       "type": "tap_select",
+      "prompt": "Tap the picture at the MIDDLE",
       "options": {
         "mode": "match",
         "choices": [
-          "🐟",
-          "⭐",
-          "🍓"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "⭐"
+          {
+            "id": "c1",
+            "emoji": "🐟",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "⭐",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍓",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "⭐",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture at the middle (middle) is ⭐.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Tap the picture at the MIDDLE",
       "type": "tap_select",
+      "prompt": "Tap the picture at the MIDDLE",
       "options": {
         "mode": "match",
         "choices": [
-          "🦆",
-          "🐝",
-          "🍎"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🐝"
+          {
+            "id": "c1",
+            "emoji": "🦆",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐝",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍎",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🐝",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture at the middle (middle) is 🐝.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Tap the picture on the RIGHT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the RIGHT",
       "options": {
         "mode": "match",
         "choices": [
-          "⭐",
-          "🐟",
-          "🍪"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍪"
+          {
+            "id": "c1",
+            "emoji": "⭐",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐟",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍪",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍪",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The picture on the right is 🍪.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Tap the picture at the MIDDLE",
       "type": "tap_select",
+      "prompt": "Tap the picture at the MIDDLE",
       "options": {
         "mode": "match",
         "choices": [
-          "🦆",
-          "🍪",
-          "⭐"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🍪"
+          {
+            "id": "c1",
+            "emoji": "🦆",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍪",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "⭐",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🍪",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture at the middle (middle) is 🍪.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Tap the picture at the TOP",
       "type": "tap_select",
+      "prompt": "Tap the picture at the TOP",
       "options": {
         "mode": "match",
         "choices": [
-          "🦆",
-          "🧸",
-          "🍓"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🦆"
+          {
+            "id": "c1",
+            "emoji": "🦆",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🧸",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🍓",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🦆",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture at the top (above) is 🦆.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Tap the picture on the LEFT",
       "type": "tap_select",
+      "prompt": "Tap the picture on the LEFT",
       "options": {
         "mode": "match",
         "choices": [
-          "🎈",
-          "🐟",
-          "🌸"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🎈"
+          {
+            "id": "c1",
+            "emoji": "🎈",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🐟",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🌸",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🎈",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The picture on the left is 🎈.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Tap the picture at the MIDDLE",
       "type": "tap_select",
+      "prompt": "Tap the picture at the MIDDLE",
       "options": {
         "mode": "match",
         "choices": [
-          "🍎",
-          "🚗",
-          "🐶"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🚗"
+          {
+            "id": "c1",
+            "emoji": "🍎",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🚗",
+            "count": 1
+          },
+          {
+            "id": "c3",
+            "emoji": "🐶",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🚗",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The picture at the middle (middle) is 🚗.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Tap the one that is ABOVE",
       "type": "tap_select",
+      "prompt": "Tap the one that is ABOVE",
       "options": {
         "mode": "match",
         "choices": [
-          "🌸",
-          "🍪"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "🌸"
+          {
+            "id": "c1",
+            "emoji": "🌸",
+            "count": 1
+          },
+          {
+            "id": "c2",
+            "emoji": "🍪",
+            "count": 1
+          }
         ]
       },
-      "correct_answer": "🌸",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "🌸 is above the other one.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Is the 🐱 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐱 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "outside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "outside",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Look at the box: the 🐱 is outside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/out_box_00.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/out_box_00.png"
+      },
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Is the 🐱 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐱 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "inside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Look at the box: the 🐱 is inside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/in_box_01.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/in_box_01.png"
+      },
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Is the 🐭 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐭 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "outside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "outside",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Look at the box: the 🐭 is outside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/out_box_02.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/out_box_02.png"
+      },
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Is the 🐶 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐶 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "inside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Look at the box: the 🐶 is inside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/in_box_03.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/in_box_03.png"
+      },
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Is the 🐥 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐥 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "outside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "outside",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Look at the box: the 🐥 is outside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/out_box_04.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/out_box_04.png"
+      },
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Is the 🐶 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐶 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "outside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "outside",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Look at the box: the 🐶 is outside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/out_box_05.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/out_box_05.png"
+      },
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Is the 🐥 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐥 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "inside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Look at the box: the 🐥 is inside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/in_box_06.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/in_box_06.png"
+      },
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Is the 🐱 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐱 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "inside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Look at the box: the 🐱 is inside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/in_box_07.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/in_box_07.png"
+      },
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Is the 🐱 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐱 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "inside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Look at the box: the 🐱 is inside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/in_box_08.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/in_box_08.png"
+      },
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Is the 🐱 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐱 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "inside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Look at the box: the 🐱 is inside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/in_box_09.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/in_box_09.png"
+      },
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Is the 🐸 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐸 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "outside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "outside",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Look at the box: the 🐸 is outside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/out_box_10.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/out_box_10.png"
+      },
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Is the 🐭 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐭 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "inside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Look at the box: the 🐭 is inside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/in_box_11.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/in_box_11.png"
+      },
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Is the 🐸 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐸 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "inside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Look at the box: the 🐸 is inside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/in_box_12.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/in_box_12.png"
+      },
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Is the 🐸 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐸 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "inside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Look at the box: the 🐸 is inside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/in_box_13.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/in_box_13.png"
+      },
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Is the 🐸 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐸 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "inside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Look at the box: the 🐸 is inside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/in_box_14.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/in_box_14.png"
+      },
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Is the 🐰 inside or outside the box 📦?",
       "type": "tap_select",
+      "prompt": "Is the 🐰 inside or outside the box 📦?",
       "options": {
         "mode": "match",
         "choices": [
-          "inside",
-          "outside"
-        ],
-        "scene_emoji": null,
-        "correct_choices": [
-          "outside"
+          {
+            "id": "c1",
+            "text": "inside"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "outside",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Look at the box: the 🐰 is outside the box.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/kg3/math/math-position/out_box_15.webp",
+        "alt": "",
+        "source_path": "../../image/kg3_math/position/out_box_15.png"
+      },
       "order_index": 100
     }
   ]

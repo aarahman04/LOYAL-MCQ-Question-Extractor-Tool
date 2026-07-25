@@ -1,1716 +1,2915 @@
 {
   "_source_file": "level1_sci_body_parts.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "sci-body-parts",
-    "title": "Body Parts",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.552Z",
+  "slug": "sci-body-parts",
+  "title": "Body Parts",
+  "level": "level-1",
+  "subject": "science",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Which body part of your body helps you see?",
       "type": "mcq",
+      "prompt": "Which body part of your body helps you see?",
       "options": {
         "choices": [
-          "eyes",
-          "ears",
-          "nose"
+          {
+            "id": "c1",
+            "text": "eyes"
+          },
+          {
+            "id": "c2",
+            "text": "ears"
+          },
+          {
+            "id": "c3",
+            "text": "nose"
+          }
         ]
       },
-      "correct_answer": "eyes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Eyes help you see.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which body part helps you smell?",
       "type": "mcq",
+      "prompt": "Which body part helps you smell?",
       "options": {
         "choices": [
-          "hands",
-          "nose",
-          "feet"
+          {
+            "id": "c1",
+            "text": "hands"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "feet"
+          }
         ]
       },
-      "correct_answer": "nose",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The nose helps you smell.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Which body part helps you hear sounds?",
       "type": "mcq",
+      "prompt": "Which body part helps you hear sounds?",
       "options": {
         "choices": [
-          "eyes",
-          "mouth",
-          "ears"
+          {
+            "id": "c1",
+            "text": "eyes"
+          },
+          {
+            "id": "c2",
+            "text": "mouth"
+          },
+          {
+            "id": "c3",
+            "text": "ears"
+          }
         ]
       },
-      "correct_answer": "ears",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Your ears help you hear sounds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which body part helps you taste food?",
       "type": "mcq",
+      "prompt": "Which body part helps you taste food?",
       "options": {
         "choices": [
-          "tongue",
-          "hair",
-          "elbow"
+          {
+            "id": "c1",
+            "text": "tongue"
+          },
+          {
+            "id": "c2",
+            "text": "hair"
+          },
+          {
+            "id": "c3",
+            "text": "elbow"
+          }
         ]
       },
-      "correct_answer": "tongue",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Your tongue helps you taste food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which body part helps you walk?",
       "type": "mcq",
+      "prompt": "Which body part helps you walk?",
       "options": {
         "choices": [
-          "arms",
-          "legs",
-          "teeth"
+          {
+            "id": "c1",
+            "text": "arms"
+          },
+          {
+            "id": "c2",
+            "text": "legs"
+          },
+          {
+            "id": "c3",
+            "text": "teeth"
+          }
         ]
       },
-      "correct_answer": "legs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "You use your legs to walk.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Which body part helps you pick things up?",
       "type": "mcq",
+      "prompt": "Which body part helps you pick things up?",
       "options": {
         "choices": [
-          "hands",
-          "knees",
-          "shoulders"
+          {
+            "id": "c1",
+            "text": "hands"
+          },
+          {
+            "id": "c2",
+            "text": "knees"
+          },
+          {
+            "id": "c3",
+            "text": "shoulders"
+          }
         ]
       },
-      "correct_answer": "hands",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "You use your hands to hold and pick things up.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Which part of your body pumps blood?",
       "type": "mcq",
+      "prompt": "Which part of your body pumps blood?",
       "options": {
         "choices": [
-          "brain",
-          "heart",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "brain"
+          },
+          {
+            "id": "c2",
+            "text": "heart"
+          },
+          {
+            "id": "c3",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "heart",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The heart pumps blood through your body.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Which part of the body do we use to chew food?",
       "type": "mcq",
+      "prompt": "Which part of the body do we use to chew food?",
       "options": {
         "choices": [
-          "teeth",
-          "fingers",
-          "ears"
+          {
+            "id": "c1",
+            "text": "teeth"
+          },
+          {
+            "id": "c2",
+            "text": "fingers"
+          },
+          {
+            "id": "c3",
+            "text": "ears"
+          }
         ]
       },
-      "correct_answer": "teeth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Teeth help us chew food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which body part covers and protects us?",
       "type": "mcq",
+      "prompt": "Which body part covers and protects us?",
       "options": {
         "choices": [
-          "skin",
-          "tongue",
-          "nose"
+          {
+            "id": "c1",
+            "text": "skin"
+          },
+          {
+            "id": "c2",
+            "text": "tongue"
+          },
+          {
+            "id": "c3",
+            "text": "nose"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Skin covers and protects the whole body.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Which body part helps us think?",
       "type": "mcq",
+      "prompt": "Which body part helps us think?",
       "options": {
         "choices": [
-          "heart",
-          "brain",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "heart"
+          },
+          {
+            "id": "c2",
+            "text": "brain"
+          },
+          {
+            "id": "c3",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "brain",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The brain controls thinking.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Which body part helps us breathe?",
       "type": "mcq",
+      "prompt": "Which body part helps us breathe?",
       "options": {
         "choices": [
-          "lungs",
-          "feet",
-          "hands"
+          {
+            "id": "c1",
+            "text": "lungs"
+          },
+          {
+            "id": "c2",
+            "text": "feet"
+          },
+          {
+            "id": "c3",
+            "text": "hands"
+          }
         ]
       },
-      "correct_answer": "lungs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Lungs help us breathe air.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Which body part helps us smell flowers?",
       "type": "mcq",
+      "prompt": "Which body part helps us smell flowers?",
       "options": {
         "choices": [
-          "ear",
-          "nose",
-          "toe"
+          {
+            "id": "c1",
+            "text": "ear"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "toe"
+          }
         ]
       },
-      "correct_answer": "nose",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The nose helps you smell flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Which body part bends when you walk?",
       "type": "mcq",
+      "prompt": "Which body part bends when you walk?",
       "options": {
         "choices": [
-          "knee",
-          "finger",
-          "ear"
+          {
+            "id": "c1",
+            "text": "knee"
+          },
+          {
+            "id": "c2",
+            "text": "finger"
+          },
+          {
+            "id": "c3",
+            "text": "ear"
+          }
         ]
       },
-      "correct_answer": "knee",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Knees bend when we walk.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Which body part helps us clap?",
       "type": "mcq",
+      "prompt": "Which body part helps us clap?",
       "options": {
         "choices": [
-          "legs",
-          "hands",
-          "eyes"
+          {
+            "id": "c1",
+            "text": "legs"
+          },
+          {
+            "id": "c2",
+            "text": "hands"
+          },
+          {
+            "id": "c3",
+            "text": "eyes"
+          }
         ]
       },
-      "correct_answer": "hands",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "We clap using our hands.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Which body part helps us run?",
       "type": "mcq",
+      "prompt": "Which body part helps us run?",
       "options": {
         "choices": [
-          "legs",
-          "teeth",
-          "ears"
+          {
+            "id": "c1",
+            "text": "legs"
+          },
+          {
+            "id": "c2",
+            "text": "teeth"
+          },
+          {
+            "id": "c3",
+            "text": "ears"
+          }
         ]
       },
-      "correct_answer": "legs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "You run using your legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Which body part shows your hair?",
       "type": "mcq",
+      "prompt": "Which body part shows your hair?",
       "options": {
         "choices": [
-          "head",
-          "foot",
-          "wrist"
+          {
+            "id": "c1",
+            "text": "head"
+          },
+          {
+            "id": "c2",
+            "text": "foot"
+          },
+          {
+            "id": "c3",
+            "text": "wrist"
+          }
         ]
       },
-      "correct_answer": "head",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Hair grows on your head.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "On which body part do we wear our shoes?",
       "type": "mcq",
+      "prompt": "On which body part do we wear our shoes?",
       "options": {
         "choices": [
-          "hands",
-          "feet",
-          "head"
+          {
+            "id": "c1",
+            "text": "hands"
+          },
+          {
+            "id": "c2",
+            "text": "feet"
+          },
+          {
+            "id": "c3",
+            "text": "head"
+          }
         ]
       },
-      "correct_answer": "feet",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Shoes are worn on the feet.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which body part helps us smile?",
       "type": "mcq",
+      "prompt": "Which body part helps us smile?",
       "options": {
         "choices": [
-          "mouth",
-          "nose",
-          "shoulder"
+          {
+            "id": "c1",
+            "text": "mouth"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "shoulder"
+          }
         ]
       },
-      "correct_answer": "mouth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "You smile using your mouth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Which body part helps you hold a pencil?",
       "type": "mcq",
+      "prompt": "Which body part helps you hold a pencil?",
       "options": {
         "choices": [
-          "fingers",
-          "toes",
-          "eyelashes"
+          {
+            "id": "c1",
+            "text": "fingers"
+          },
+          {
+            "id": "c2",
+            "text": "toes"
+          },
+          {
+            "id": "c3",
+            "text": "eyelashes"
+          }
         ]
       },
-      "correct_answer": "fingers",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Fingers help you hold and write.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Which body part helps you blink?",
       "type": "mcq",
+      "prompt": "Which body part helps you blink?",
       "options": {
         "choices": [
-          "knees",
-          "eyes",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "knees"
+          },
+          {
+            "id": "c2",
+            "text": "eyes"
+          },
+          {
+            "id": "c3",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "eyes",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Your eyes blink to stay moist and clean.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Which body part helps you taste ice cream?",
       "type": "mcq",
+      "prompt": "Which body part helps you taste ice cream?",
       "options": {
         "choices": [
-          "tongue",
-          "nose",
-          "ear"
+          {
+            "id": "c1",
+            "text": "tongue"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "ear"
+          }
         ]
       },
-      "correct_answer": "tongue",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Your tongue helps you taste flavours like ice cream.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which body part helps you balance while walking?",
       "type": "mcq",
+      "prompt": "Which body part helps you balance while walking?",
       "options": {
         "choices": [
-          "ears",
-          "hands",
-          "teeth"
+          {
+            "id": "c1",
+            "text": "ears"
+          },
+          {
+            "id": "c2",
+            "text": "hands"
+          },
+          {
+            "id": "c3",
+            "text": "teeth"
+          }
         ]
       },
-      "correct_answer": "ears",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Your inner ears play a key role in maintaining body balance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which body part helps you kick a ball?",
       "type": "mcq",
+      "prompt": "Which body part helps you kick a ball?",
       "options": {
         "choices": [
-          "foot",
-          "hand",
-          "eye"
+          {
+            "id": "c1",
+            "text": "foot"
+          },
+          {
+            "id": "c2",
+            "text": "hand"
+          },
+          {
+            "id": "c3",
+            "text": "eye"
+          }
         ]
       },
-      "correct_answer": "foot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "You use your foot to kick a ball.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Which body part beats all the time?",
       "type": "mcq",
+      "prompt": "Which body part beats all the time?",
       "options": {
         "choices": [
-          "heart",
-          "nose",
-          "tongue"
+          {
+            "id": "c1",
+            "text": "heart"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "tongue"
+          }
         ]
       },
-      "correct_answer": "heart",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The heart continuously beats to keep blood moving throughout your body.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Which body part of your body helps you smell food?",
       "type": "mcq",
+      "prompt": "Which body part of your body helps you smell food?",
       "options": {
         "choices": [
-          "nose",
-          "hand",
-          "knee"
+          {
+            "id": "c1",
+            "text": "nose"
+          },
+          {
+            "id": "c2",
+            "text": "hand"
+          },
+          {
+            "id": "c3",
+            "text": "knee"
+          }
         ]
       },
-      "correct_answer": "nose",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The nose senses aromas and helps you smell food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which body part helps you wave hello?",
       "type": "mcq",
+      "prompt": "Which body part helps you wave hello?",
       "options": {
         "choices": [
-          "legs",
-          "hands",
-          "ears"
+          {
+            "id": "c1",
+            "text": "legs"
+          },
+          {
+            "id": "c2",
+            "text": "hands"
+          },
+          {
+            "id": "c3",
+            "text": "ears"
+          }
         ]
       },
-      "correct_answer": "hands",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "You use your hands to wave hello.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Which body part helps you jump?",
       "type": "mcq",
+      "prompt": "Which body part helps you jump?",
       "options": {
         "choices": [
-          "legs",
-          "lips",
-          "elbows"
+          {
+            "id": "c1",
+            "text": "legs"
+          },
+          {
+            "id": "c2",
+            "text": "lips"
+          },
+          {
+            "id": "c3",
+            "text": "elbows"
+          }
         ]
       },
-      "correct_answer": "legs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Your legs provide the strength and leverage needed to jump.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which body part helps you bend your arm?",
       "type": "mcq",
+      "prompt": "Which body part helps you bend your arm?",
       "options": {
         "choices": [
-          "elbow",
-          "ankle",
-          "nose"
+          {
+            "id": "c1",
+            "text": "elbow"
+          },
+          {
+            "id": "c2",
+            "text": "ankle"
+          },
+          {
+            "id": "c3",
+            "text": "nose"
+          }
         ]
       },
-      "correct_answer": "elbow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The elbow is the joint that lets you bend and flex your arm.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which body part helps you stand?",
       "type": "mcq",
+      "prompt": "Which body part helps you stand?",
       "options": {
         "choices": [
-          "feet",
-          "ears",
-          "hair"
+          {
+            "id": "c1",
+            "text": "feet"
+          },
+          {
+            "id": "c2",
+            "text": "ears"
+          },
+          {
+            "id": "c3",
+            "text": "hair"
+          }
         ]
       },
-      "correct_answer": "feet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Your feet serve as the base that supports your weight when you stand.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which body part helps you write?",
       "type": "mcq",
+      "prompt": "Which body part helps you write?",
       "options": {
         "choices": [
-          "fingers",
-          "toes",
-          "chin"
+          {
+            "id": "c1",
+            "text": "fingers"
+          },
+          {
+            "id": "c2",
+            "text": "toes"
+          },
+          {
+            "id": "c3",
+            "text": "chin"
+          }
         ]
       },
-      "correct_answer": "fingers",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Fingers allow you to grip and control a writing tool.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which body part helps you run fast?",
       "type": "mcq",
+      "prompt": "Which body part helps you run fast?",
       "options": {
         "choices": [
-          "legs",
-          "teeth",
-          "eyebrows"
+          {
+            "id": "c1",
+            "text": "legs"
+          },
+          {
+            "id": "c2",
+            "text": "teeth"
+          },
+          {
+            "id": "c3",
+            "text": "eyebrows"
+          }
         ]
       },
-      "correct_answer": "legs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Powerful legs help you run quickly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which body part helps you feel things?",
       "type": "mcq",
+      "prompt": "Which body part helps you feel things?",
       "options": {
         "choices": [
-          "skin",
-          "hair",
-          "teeth"
+          {
+            "id": "c1",
+            "text": "skin"
+          },
+          {
+            "id": "c2",
+            "text": "hair"
+          },
+          {
+            "id": "c3",
+            "text": "teeth"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Skin contains sensory receptors that let you feel touch and textures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Which body part helps you drink water?",
       "type": "mcq",
+      "prompt": "Which body part helps you drink water?",
       "options": {
         "choices": [
-          "mouth",
-          "ear",
-          "foot"
+          {
+            "id": "c1",
+            "text": "mouth"
+          },
+          {
+            "id": "c2",
+            "text": "ear"
+          },
+          {
+            "id": "c3",
+            "text": "foot"
+          }
         ]
       },
-      "correct_answer": "mouth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "You sip and swallow water using your mouth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which body part helps you eat?",
       "type": "mcq",
+      "prompt": "Which body part helps you eat?",
       "options": {
         "choices": [
-          "teeth",
-          "knee",
-          "finger"
+          {
+            "id": "c1",
+            "text": "teeth"
+          },
+          {
+            "id": "c2",
+            "text": "knee"
+          },
+          {
+            "id": "c3",
+            "text": "finger"
+          }
         ]
       },
-      "correct_answer": "teeth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Teeth allow you to break down and chew food for eating.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Which body part of your face helps you smile?",
       "type": "mcq",
+      "prompt": "Which body part of your face helps you smile?",
       "options": {
         "choices": [
-          "mouth",
-          "ear",
-          "neck"
+          {
+            "id": "c1",
+            "text": "mouth"
+          },
+          {
+            "id": "c2",
+            "text": "ear"
+          },
+          {
+            "id": "c3",
+            "text": "neck"
+          }
         ]
       },
-      "correct_answer": "mouth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The corners of your mouth turn up when you smile.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which body part helps you lick an ice cream?",
       "type": "mcq",
+      "prompt": "Which body part helps you lick an ice cream?",
       "options": {
         "choices": [
-          "tongue",
-          "wrist",
-          "shoulder"
+          {
+            "id": "c1",
+            "text": "tongue"
+          },
+          {
+            "id": "c2",
+            "text": "wrist"
+          },
+          {
+            "id": "c3",
+            "text": "shoulder"
+          }
         ]
       },
-      "correct_answer": "tongue",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The tongue is used to lick soft foods like ice cream.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which body part covers your whole body?",
       "type": "mcq",
+      "prompt": "Which body part covers your whole body?",
       "options": {
         "choices": [
-          "skin",
-          "hair",
-          "lips"
+          {
+            "id": "c1",
+            "text": "skin"
+          },
+          {
+            "id": "c2",
+            "text": "hair"
+          },
+          {
+            "id": "c3",
+            "text": "lips"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Skin is the body's largest organ and completely covers your exterior.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which body part helps you point at things?",
       "type": "mcq",
+      "prompt": "Which body part helps you point at things?",
       "options": {
         "choices": [
-          "finger",
-          "eyebrow",
-          "toe"
+          {
+            "id": "c1",
+            "text": "finger"
+          },
+          {
+            "id": "c2",
+            "text": "eyebrow"
+          },
+          {
+            "id": "c3",
+            "text": "toe"
+          }
         ]
       },
-      "correct_answer": "finger",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "You extend your index finger to point at objects.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which body part helps you stretch your arm?",
       "type": "mcq",
+      "prompt": "Which body part helps you stretch your arm?",
       "options": {
         "choices": [
-          "shoulder",
-          "ankle",
-          "teeth"
+          {
+            "id": "c1",
+            "text": "shoulder"
+          },
+          {
+            "id": "c2",
+            "text": "ankle"
+          },
+          {
+            "id": "c3",
+            "text": "teeth"
+          }
         ]
       },
-      "correct_answer": "shoulder",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The shoulder joint allows for a wide range of arm movements and extensions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which body part helps you chew?",
       "type": "mcq",
+      "prompt": "Which body part helps you chew?",
       "options": {
         "choices": [
-          "teeth",
-          "toes",
-          "eyelashes"
+          {
+            "id": "c1",
+            "text": "teeth"
+          },
+          {
+            "id": "c2",
+            "text": "toes"
+          },
+          {
+            "id": "c3",
+            "text": "eyelashes"
+          }
         ]
       },
-      "correct_answer": "teeth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Teeth mash food down so it can be safely swallowed.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which body part helps you blink?",
       "type": "mcq",
+      "prompt": "Which body part helps you blink?",
       "options": {
         "choices": [
-          "eyelids",
-          "ankles",
-          "wrist"
+          {
+            "id": "c1",
+            "text": "eyelids"
+          },
+          {
+            "id": "c2",
+            "text": "ankles"
+          },
+          {
+            "id": "c3",
+            "text": "wrist"
+          }
         ]
       },
-      "correct_answer": "eyelids",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Your eyelids open and close rapidly when you blink.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which body part helps you move your head?",
       "type": "mcq",
+      "prompt": "Which body part helps you move your head?",
       "options": {
         "choices": [
-          "neck",
-          "toe",
-          "elbow"
+          {
+            "id": "c1",
+            "text": "neck"
+          },
+          {
+            "id": "c2",
+            "text": "toe"
+          },
+          {
+            "id": "c3",
+            "text": "elbow"
+          }
         ]
       },
-      "correct_answer": "neck",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The neck supports the head and allows it to turn and tilt.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which body part helps you smell a flower?",
       "type": "mcq",
+      "prompt": "Which body part helps you smell a flower?",
       "options": {
         "choices": [
-          "nose",
-          "chin",
-          "foot"
+          {
+            "id": "c1",
+            "text": "nose"
+          },
+          {
+            "id": "c2",
+            "text": "chin"
+          },
+          {
+            "id": "c3",
+            "text": "foot"
+          }
         ]
       },
-      "correct_answer": "nose",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Your nose processes scent profiles like floral perfumes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which body part helps you hear music?",
       "type": "mcq",
+      "prompt": "Which body part helps you hear music?",
       "options": {
         "choices": [
-          "ears",
-          "knees",
-          "lips"
+          {
+            "id": "c1",
+            "text": "ears"
+          },
+          {
+            "id": "c2",
+            "text": "knees"
+          },
+          {
+            "id": "c3",
+            "text": "lips"
+          }
         ]
       },
-      "correct_answer": "ears",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Ears pick up sound waves and translate them into music.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which body part helps you taste soup?",
       "type": "mcq",
+      "prompt": "Which body part helps you taste soup?",
       "options": {
         "choices": [
-          "tongue",
-          "hair",
-          "shoulder"
+          {
+            "id": "c1",
+            "text": "tongue"
+          },
+          {
+            "id": "c2",
+            "text": "hair"
+          },
+          {
+            "id": "c3",
+            "text": "shoulder"
+          }
         ]
       },
-      "correct_answer": "tongue",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Taste buds on your tongue identify the savory flavors of soup.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Which body part helps you push a door?",
       "type": "mcq",
+      "prompt": "Which body part helps you push a door?",
       "options": {
         "choices": [
-          "hands",
-          "ears",
-          "eyes"
+          {
+            "id": "c1",
+            "text": "hands"
+          },
+          {
+            "id": "c2",
+            "text": "ears"
+          },
+          {
+            "id": "c3",
+            "text": "eyes"
+          }
         ]
       },
-      "correct_answer": "hands",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "You press against surfaces using your hands to push them open.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which body part helps you stand tall?",
       "type": "mcq",
+      "prompt": "Which body part helps you stand tall?",
       "options": {
         "choices": [
-          "back",
-          "lips",
-          "elbow"
+          {
+            "id": "c1",
+            "text": "back"
+          },
+          {
+            "id": "c2",
+            "text": "lips"
+          },
+          {
+            "id": "c3",
+            "text": "elbow"
+          }
         ]
       },
-      "correct_answer": "back",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Your back maintains the erect posture required to stand up straight.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which body part helps you breathe in air?",
       "type": "mcq",
+      "prompt": "Which body part helps you breathe in air?",
       "options": {
         "choices": [
-          "lungs",
-          "wrist",
-          "eyebrow"
+          {
+            "id": "c1",
+            "text": "lungs"
+          },
+          {
+            "id": "c2",
+            "text": "wrist"
+          },
+          {
+            "id": "c3",
+            "text": "eyebrow"
+          }
         ]
       },
-      "correct_answer": "lungs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Lungs pull in oxygen when you take a breath.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which body part is between your head and your chest?",
       "type": "mcq",
+      "prompt": "Which body part is between your head and your chest?",
       "options": {
         "choices": [
-          "neck",
-          "toe",
-          "finger"
+          {
+            "id": "c1",
+            "text": "neck"
+          },
+          {
+            "id": "c2",
+            "text": "toe"
+          },
+          {
+            "id": "c3",
+            "text": "finger"
+          }
         ]
       },
-      "correct_answer": "neck",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The neck bridges the physical structural space between the head and chest.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which body part helps you wiggle your toes?",
       "type": "mcq",
+      "prompt": "Which body part helps you wiggle your toes?",
       "options": {
         "choices": [
-          "foot",
-          "ear",
-          "tongue"
+          {
+            "id": "c1",
+            "text": "foot"
+          },
+          {
+            "id": "c2",
+            "text": "ear"
+          },
+          {
+            "id": "c3",
+            "text": "tongue"
+          }
         ]
       },
-      "correct_answer": "foot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Toes are located at the end of each foot.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which body part helps you draw pictures?",
       "type": "mcq",
+      "prompt": "Which body part helps you draw pictures?",
       "options": {
         "choices": [
-          "hands",
-          "feet",
-          "hair"
+          {
+            "id": "c1",
+            "text": "hands"
+          },
+          {
+            "id": "c2",
+            "text": "feet"
+          },
+          {
+            "id": "c3",
+            "text": "hair"
+          }
         ]
       },
-      "correct_answer": "hands",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Hands manage tools like crayons and pencils for drawing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Which body part helps your body stay straight?",
       "type": "mcq",
+      "prompt": "Which body part helps your body stay straight?",
       "options": {
         "choices": [
-          "spine",
-          "nose",
-          "ear"
+          {
+            "id": "c1",
+            "text": "spine"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "ear"
+          }
         ]
       },
-      "correct_answer": "spine",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The spine provides central skeletal alignment to keep you straight.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Which body part helps you push and pull things?",
       "type": "mcq",
+      "prompt": "Which body part helps you push and pull things?",
       "options": {
         "choices": [
-          "arms",
-          "teeth",
-          "ankles"
+          {
+            "id": "c1",
+            "text": "arms"
+          },
+          {
+            "id": "c2",
+            "text": "teeth"
+          },
+          {
+            "id": "c3",
+            "text": "ankles"
+          }
         ]
       },
-      "correct_answer": "arms",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Arms provide muscular leverage to manipulate objects via pushing and pulling.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which body part helps you hear your teacher?",
       "type": "mcq",
+      "prompt": "Which body part helps you hear your teacher?",
       "options": {
         "choices": [
-          "ears",
-          "neck",
-          "lips"
+          {
+            "id": "c1",
+            "text": "ears"
+          },
+          {
+            "id": "c2",
+            "text": "neck"
+          },
+          {
+            "id": "c3",
+            "text": "lips"
+          }
         ]
       },
-      "correct_answer": "ears",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Your ears detect acoustic speech patterns.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which body part lets you smile and talk?",
       "type": "mcq",
+      "prompt": "Which body part lets you smile and talk?",
       "options": {
         "choices": [
-          "mouth",
-          "elbow",
-          "foot"
+          {
+            "id": "c1",
+            "text": "mouth"
+          },
+          {
+            "id": "c2",
+            "text": "elbow"
+          },
+          {
+            "id": "c3",
+            "text": "foot"
+          }
         ]
       },
-      "correct_answer": "mouth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The mouth opens, closes, and shifts shape to articulate sounds and smile.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which body part helps you hop?",
       "type": "mcq",
+      "prompt": "Which body part helps you hop?",
       "options": {
         "choices": [
-          "legs",
-          "shoulders",
-          "chin"
+          {
+            "id": "c1",
+            "text": "legs"
+          },
+          {
+            "id": "c2",
+            "text": "shoulders"
+          },
+          {
+            "id": "c3",
+            "text": "chin"
+          }
         ]
       },
-      "correct_answer": "legs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Legs absorb impact forces and propel you upward while hopping.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Which body part helps you feel hot and cold?",
       "type": "mcq",
+      "prompt": "Which body part helps you feel hot and cold?",
       "options": {
         "choices": [
-          "skin",
-          "teeth",
-          "eyelashes"
+          {
+            "id": "c1",
+            "text": "skin"
+          },
+          {
+            "id": "c2",
+            "text": "teeth"
+          },
+          {
+            "id": "c3",
+            "text": "eyelashes"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Thermoreceptors inside your skin detect ambient temperature fluctuations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Which body part helps you bend your leg?",
       "type": "mcq",
+      "prompt": "Which body part helps you bend your leg?",
       "options": {
         "choices": [
-          "knee",
-          "nose",
-          "finger"
+          {
+            "id": "c1",
+            "text": "knee"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "finger"
+          }
         ]
       },
-      "correct_answer": "knee",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The knee serves as the primary hinge joint of the leg.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which body part helps you hug someone?",
       "type": "mcq",
+      "prompt": "Which body part helps you hug someone?",
       "options": {
         "choices": [
-          "arms",
-          "ears",
-          "toes"
+          {
+            "id": "c1",
+            "text": "arms"
+          },
+          {
+            "id": "c2",
+            "text": "ears"
+          },
+          {
+            "id": "c3",
+            "text": "toes"
+          }
         ]
       },
-      "correct_answer": "arms",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "You wrap your arms around someone to offer a hug.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which body part helps you yawn?",
       "type": "mcq",
+      "prompt": "Which body part helps you yawn?",
       "options": {
         "choices": [
-          "mouth",
-          "ankle",
-          "wrist"
+          {
+            "id": "c1",
+            "text": "mouth"
+          },
+          {
+            "id": "c2",
+            "text": "ankle"
+          },
+          {
+            "id": "c3",
+            "text": "wrist"
+          }
         ]
       },
-      "correct_answer": "mouth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A yawn causes you to open your mouth very wide to draw in air.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Which body part helps you chew crunchy food?",
       "type": "mcq",
+      "prompt": "Which body part helps you chew crunchy food?",
       "options": {
         "choices": [
-          "teeth",
-          "hair",
-          "thumbs"
+          {
+            "id": "c1",
+            "text": "teeth"
+          },
+          {
+            "id": "c2",
+            "text": "hair"
+          },
+          {
+            "id": "c3",
+            "text": "thumbs"
+          }
         ]
       },
-      "correct_answer": "teeth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Hard teeth easily grind down crunchy food particles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which body part helps you look up and down?",
       "type": "mcq",
+      "prompt": "Which body part helps you look up and down?",
       "options": {
         "choices": [
-          "neck",
-          "toe",
-          "elbow"
+          {
+            "id": "c1",
+            "text": "neck"
+          },
+          {
+            "id": "c2",
+            "text": "toe"
+          },
+          {
+            "id": "c3",
+            "text": "elbow"
+          }
         ]
       },
-      "correct_answer": "neck",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Flexing your neck allows your head to angle upward or downward.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which body part helps you move your fingers?",
       "type": "mcq",
+      "prompt": "Which body part helps you move your fingers?",
       "options": {
         "choices": [
-          "hand",
-          "ear",
-          "knee"
+          {
+            "id": "c1",
+            "text": "hand"
+          },
+          {
+            "id": "c2",
+            "text": "ear"
+          },
+          {
+            "id": "c3",
+            "text": "knee"
+          }
         ]
       },
-      "correct_answer": "hand",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Muscles and tendons originating in the hand control finger adjustments.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which body part helps you breathe out air?",
       "type": "mcq",
+      "prompt": "Which body part helps you breathe out air?",
       "options": {
         "choices": [
-          "lungs",
-          "toes",
-          "lips"
+          {
+            "id": "c1",
+            "text": "lungs"
+          },
+          {
+            "id": "c2",
+            "text": "toes"
+          },
+          {
+            "id": "c3",
+            "text": "lips"
+          }
         ]
       },
-      "correct_answer": "lungs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Lungs deflate to expel carbon dioxide during exhalation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Which body part helps you open your mouth wide?",
       "type": "mcq",
+      "prompt": "Which body part helps you open your mouth wide?",
       "options": {
         "choices": [
-          "jaw",
-          "toe",
-          "thumb"
+          {
+            "id": "c1",
+            "text": "jaw"
+          },
+          {
+            "id": "c2",
+            "text": "toe"
+          },
+          {
+            "id": "c3",
+            "text": "thumb"
+          }
         ]
       },
-      "correct_answer": "jaw",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The movement of the jaw bone allows the mouth to open wide.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which body part helps you balance on one foot?",
       "type": "mcq",
+      "prompt": "Which body part helps you balance on one foot?",
       "options": {
         "choices": [
-          "legs",
-          "eyes",
-          "neck"
+          {
+            "id": "c1",
+            "text": "legs"
+          },
+          {
+            "id": "c2",
+            "text": "eyes"
+          },
+          {
+            "id": "c3",
+            "text": "neck"
+          }
         ]
       },
-      "correct_answer": "legs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Lower body engagement in the legs maintains single-leg stability.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which body part bends when you sit down?",
       "type": "mcq",
+      "prompt": "Which body part bends when you sit down?",
       "options": {
         "choices": [
-          "hips",
-          "forehead",
-          "wrist"
+          {
+            "id": "c1",
+            "text": "hips"
+          },
+          {
+            "id": "c2",
+            "text": "forehead"
+          },
+          {
+            "id": "c3",
+            "text": "wrist"
+          }
         ]
       },
-      "correct_answer": "hips",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Your hip joints bend to drop your body down into a seated position.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which body part helps you see bright colors?",
       "type": "mcq",
+      "prompt": "Which body part helps you see bright colors?",
       "options": {
         "choices": [
-          "eyes",
-          "ears",
-          "nose"
+          {
+            "id": "c1",
+            "text": "eyes"
+          },
+          {
+            "id": "c2",
+            "text": "ears"
+          },
+          {
+            "id": "c3",
+            "text": "nose"
+          }
         ]
       },
-      "correct_answer": "eyes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Photoreceptors in your eyes process colorful spectrums.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which body part helps you open a jar?",
       "type": "mcq",
+      "prompt": "Which body part helps you open a jar?",
       "options": {
         "choices": [
-          "hands",
-          "knees",
-          "ears"
+          {
+            "id": "c1",
+            "text": "hands"
+          },
+          {
+            "id": "c2",
+            "text": "knees"
+          },
+          {
+            "id": "c3",
+            "text": "ears"
+          }
         ]
       },
-      "correct_answer": "hands",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Hands grasp and apply twisting force to loosen jar lids.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which body part helps you stand on tiptoes?",
       "type": "mcq",
+      "prompt": "Which body part helps you stand on tiptoes?",
       "options": {
         "choices": [
-          "feet",
-          "ears",
-          "fingers"
+          {
+            "id": "c1",
+            "text": "feet"
+          },
+          {
+            "id": "c2",
+            "text": "ears"
+          },
+          {
+            "id": "c3",
+            "text": "fingers"
+          }
         ]
       },
-      "correct_answer": "feet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The front parts of your feet support you when balancing on your toes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which body part helps you shout loudly?",
       "type": "mcq",
+      "prompt": "Which body part helps you shout loudly?",
       "options": {
         "choices": [
-          "mouth",
-          "knee",
-          "nose"
+          {
+            "id": "c1",
+            "text": "mouth"
+          },
+          {
+            "id": "c2",
+            "text": "knee"
+          },
+          {
+            "id": "c3",
+            "text": "nose"
+          }
         ]
       },
-      "correct_answer": "mouth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Projecting vocal volume requires opening your mouth fully.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which body part helps you bend your foot?",
       "type": "mcq",
+      "prompt": "Which body part helps you bend your foot?",
       "options": {
         "choices": [
-          "ankle",
-          "chin",
-          "ear"
+          {
+            "id": "c1",
+            "text": "ankle"
+          },
+          {
+            "id": "c2",
+            "text": "chin"
+          },
+          {
+            "id": "c3",
+            "text": "ear"
+          }
         ]
       },
-      "correct_answer": "ankle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The ankle joint links the leg and foot, allowing articulation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which body part helps you brush your hair?",
       "type": "mcq",
+      "prompt": "Which body part helps you brush your hair?",
       "options": {
         "choices": [
-          "hands",
-          "lips",
-          "toes"
+          {
+            "id": "c1",
+            "text": "hands"
+          },
+          {
+            "id": "c2",
+            "text": "lips"
+          },
+          {
+            "id": "c3",
+            "text": "toes"
+          }
         ]
       },
-      "correct_answer": "hands",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Your hands hold and glide brushes safely through hair.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which body part helps you chew your food well?",
       "type": "mcq",
+      "prompt": "Which body part helps you chew your food well?",
       "options": {
         "choices": [
-          "teeth",
-          "toes",
-          "nose"
+          {
+            "id": "c1",
+            "text": "teeth"
+          },
+          {
+            "id": "c2",
+            "text": "toes"
+          },
+          {
+            "id": "c3",
+            "text": "nose"
+          }
         ]
       },
-      "correct_answer": "teeth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Thorough chewing is completed via the mechanical force of teeth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which body part helps you open and close your eyes?",
       "type": "mcq",
+      "prompt": "Which body part helps you open and close your eyes?",
       "options": {
         "choices": [
-          "eyelids",
-          "ankles",
-          "elbows"
+          {
+            "id": "c1",
+            "text": "eyelids"
+          },
+          {
+            "id": "c2",
+            "text": "ankles"
+          },
+          {
+            "id": "c3",
+            "text": "elbows"
+          }
         ]
       },
-      "correct_answer": "eyelids",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Eyelids function like protective shutters over the eyes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which body part helps you taste something sweet?",
       "type": "mcq",
+      "prompt": "Which body part helps you taste something sweet?",
       "options": {
         "choices": [
-          "tongue",
-          "ears",
-          "wrists"
+          {
+            "id": "c1",
+            "text": "tongue"
+          },
+          {
+            "id": "c2",
+            "text": "ears"
+          },
+          {
+            "id": "c3",
+            "text": "wrists"
+          }
         ]
       },
-      "correct_answer": "tongue",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sweet taste receptors reside upon the surface of the tongue.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which body part helps you lift a bag?",
       "type": "mcq",
+      "prompt": "Which body part helps you lift a bag?",
       "options": {
         "choices": [
-          "arms",
-          "ears",
-          "knees"
+          {
+            "id": "c1",
+            "text": "arms"
+          },
+          {
+            "id": "c2",
+            "text": "ears"
+          },
+          {
+            "id": "c3",
+            "text": "knees"
+          }
         ]
       },
-      "correct_answer": "arms",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Muscular strength from your arms lets you raise heavy bags.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which body part helps you tilt your head?",
       "type": "mcq",
+      "prompt": "Which body part helps you tilt your head?",
       "options": {
         "choices": [
-          "neck",
-          "toe",
-          "eyebrow"
+          {
+            "id": "c1",
+            "text": "neck"
+          },
+          {
+            "id": "c2",
+            "text": "toe"
+          },
+          {
+            "id": "c3",
+            "text": "eyebrow"
+          }
         ]
       },
-      "correct_answer": "neck",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The lateral flexibility of your neck facilitates head tilting.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Which body part helps you run and kick?",
       "type": "mcq",
+      "prompt": "Which body part helps you run and kick?",
       "options": {
         "choices": [
-          "legs",
-          "lips",
-          "ears"
+          {
+            "id": "c1",
+            "text": "legs"
+          },
+          {
+            "id": "c2",
+            "text": "lips"
+          },
+          {
+            "id": "c3",
+            "text": "ears"
+          }
         ]
       },
-      "correct_answer": "legs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dynamic leg movements control standard locomotion and athletic impacts.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which body part helps you breathe in fresh air?",
       "type": "mcq",
+      "prompt": "Which body part helps you breathe in fresh air?",
       "options": {
         "choices": [
-          "nose",
-          "thumb",
-          "elbow"
+          {
+            "id": "c1",
+            "text": "nose"
+          },
+          {
+            "id": "c2",
+            "text": "thumb"
+          },
+          {
+            "id": "c3",
+            "text": "elbow"
+          }
         ]
       },
-      "correct_answer": "nose",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Air pathways primarily enter upper respiratory spaces via the nose.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which body part helps you nod yes or no?",
       "type": "mcq",
+      "prompt": "Which body part helps you nod yes or no?",
       "options": {
         "choices": [
-          "head",
-          "wrist",
-          "ankle"
+          {
+            "id": "c1",
+            "text": "head"
+          },
+          {
+            "id": "c2",
+            "text": "wrist"
+          },
+          {
+            "id": "c3",
+            "text": "ankle"
+          }
         ]
       },
-      "correct_answer": "head",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Nodding physical agreements involves directional gesturing of the head.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Which body part keeps your brain safe?",
       "type": "mcq",
+      "prompt": "Which body part keeps your brain safe?",
       "options": {
         "choices": [
-          "skull",
-          "knee",
-          "lip"
+          {
+            "id": "c1",
+            "text": "skull"
+          },
+          {
+            "id": "c2",
+            "text": "knee"
+          },
+          {
+            "id": "c3",
+            "text": "lip"
+          }
         ]
       },
-      "correct_answer": "skull",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The skull acts as a dense, protective bone helmet around your brain.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Which body part protects your heart and lungs?",
       "type": "mcq",
+      "prompt": "Which body part protects your heart and lungs?",
       "options": {
         "choices": [
-          "ribs",
-          "finger",
-          "eyebrow"
+          {
+            "id": "c1",
+            "text": "ribs"
+          },
+          {
+            "id": "c2",
+            "text": "finger"
+          },
+          {
+            "id": "c3",
+            "text": "eyebrow"
+          }
         ]
       },
-      "correct_answer": "ribs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The rib cage curves securely around internal thoracic chest systems.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Which body part helps you smell cookies?",
       "type": "mcq",
+      "prompt": "Which body part helps you smell cookies?",
       "options": {
         "choices": [
-          "nose",
-          "ear",
-          "knee"
+          {
+            "id": "c1",
+            "text": "nose"
+          },
+          {
+            "id": "c2",
+            "text": "ear"
+          },
+          {
+            "id": "c3",
+            "text": "knee"
+          }
         ]
       },
-      "correct_answer": "nose",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The olfactory systems inside the nose detect sweet baking smells.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Which body part helps you use scissors?",
       "type": "mcq",
+      "prompt": "Which body part helps you use scissors?",
       "options": {
         "choices": [
-          "fingers",
-          "toes",
-          "chin"
+          {
+            "id": "c1",
+            "text": "fingers"
+          },
+          {
+            "id": "c2",
+            "text": "toes"
+          },
+          {
+            "id": "c3",
+            "text": "chin"
+          }
         ]
       },
-      "correct_answer": "fingers",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Fingers slide perfectly into scissor loops to operate the blades.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Which body part helps you wiggle your fingers?",
       "type": "mcq",
+      "prompt": "Which body part helps you wiggle your fingers?",
       "options": {
         "choices": [
-          "hand",
-          "knee",
-          "eyelash"
+          {
+            "id": "c1",
+            "text": "hand"
+          },
+          {
+            "id": "c2",
+            "text": "knee"
+          },
+          {
+            "id": "c3",
+            "text": "eyelash"
+          }
         ]
       },
-      "correct_answer": "hand",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Small individual muscle adjustments within the hand wiggle each finger.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which body part of your face helps protect your eyes?",
       "type": "mcq",
+      "prompt": "Which body part of your face helps protect your eyes?",
       "options": {
         "choices": [
-          "eyelashes",
-          "lips",
-          "chin"
+          {
+            "id": "c1",
+            "text": "eyelashes"
+          },
+          {
+            "id": "c2",
+            "text": "lips"
+          },
+          {
+            "id": "c3",
+            "text": "chin"
+          }
         ]
       },
-      "correct_answer": "eyelashes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Eyelashes sweep away small drifting dust particles before they strike the eye.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Which body part helps you hear a whisper?",
       "type": "mcq",
+      "prompt": "Which body part helps you hear a whisper?",
       "options": {
         "choices": [
-          "ears",
-          "hair",
-          "thumb"
+          {
+            "id": "c1",
+            "text": "ears"
+          },
+          {
+            "id": "c2",
+            "text": "hair"
+          },
+          {
+            "id": "c3",
+            "text": "thumb"
+          }
         ]
       },
-      "correct_answer": "ears",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Delicate mechanisms in the ears catch faint sounds like whispers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which body part helps you swallow food?",
       "type": "mcq",
+      "prompt": "Which body part helps you swallow food?",
       "options": {
         "choices": [
-          "throat",
-          "foot",
-          "elbow"
+          {
+            "id": "c1",
+            "text": "throat"
+          },
+          {
+            "id": "c2",
+            "text": "foot"
+          },
+          {
+            "id": "c3",
+            "text": "elbow"
+          }
         ]
       },
-      "correct_answer": "throat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Food travels down through your throat toward lower digestive pathways.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which body part helps you roll a ball?",
       "type": "mcq",
+      "prompt": "Which body part helps you roll a ball?",
       "options": {
         "choices": [
-          "arms",
-          "eyelids",
-          "toes"
+          {
+            "id": "c1",
+            "text": "arms"
+          },
+          {
+            "id": "c2",
+            "text": "eyelids"
+          },
+          {
+            "id": "c3",
+            "text": "toes"
+          }
         ]
       },
-      "correct_answer": "arms",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Swinging forward movements from your arms generate rolling momentum.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Which body part helps you feel something soft?",
       "type": "mcq",
+      "prompt": "Which body part helps you feel something soft?",
       "options": {
         "choices": [
-          "skin",
-          "teeth",
-          "hair"
+          {
+            "id": "c1",
+            "text": "skin"
+          },
+          {
+            "id": "c2",
+            "text": "teeth"
+          },
+          {
+            "id": "c3",
+            "text": "hair"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Direct contact against the skin reveals textural softness.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which body part helps you walk up stairs?",
       "type": "mcq",
+      "prompt": "Which body part helps you walk up stairs?",
       "options": {
         "choices": [
-          "legs",
-          "eyes",
-          "chin"
+          {
+            "id": "c1",
+            "text": "legs"
+          },
+          {
+            "id": "c2",
+            "text": "eyes"
+          },
+          {
+            "id": "c3",
+            "text": "chin"
+          }
         ]
       },
-      "correct_answer": "legs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Lifting your bodyweight step-by-step requires leg exertion.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which body part helps you look left and right?",
       "type": "mcq",
+      "prompt": "Which body part helps you look left and right?",
       "options": {
         "choices": [
-          "eyes",
-          "toes",
-          "elbows"
+          {
+            "id": "c1",
+            "text": "eyes"
+          },
+          {
+            "id": "c2",
+            "text": "toes"
+          },
+          {
+            "id": "c3",
+            "text": "elbows"
+          }
         ]
       },
-      "correct_answer": "eyes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Shifting eye orientations repositions your central gaze field lateral ways.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which body part helps your body bend forward?",
       "type": "mcq",
+      "prompt": "Which body part helps your body bend forward?",
       "options": {
         "choices": [
-          "waist",
-          "nose",
-          "ear"
+          {
+            "id": "c1",
+            "text": "waist"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "ear"
+          }
         ]
       },
-      "correct_answer": "waist",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Bending forward at the waist allows you to lean down low.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Which body part helps you whistle?",
       "type": "mcq",
+      "prompt": "Which body part helps you whistle?",
       "options": {
         "choices": [
-          "lips",
-          "ear",
-          "wrist"
+          {
+            "id": "c1",
+            "text": "lips"
+          },
+          {
+            "id": "c2",
+            "text": "ear"
+          },
+          {
+            "id": "c3",
+            "text": "wrist"
+          }
         ]
       },
-      "correct_answer": "lips",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Puckering your lips controls standard aerodynamic airflow notes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Which body part helps you bite an apple?",
       "type": "mcq",
+      "prompt": "Which body part helps you bite an apple?",
       "options": {
         "choices": [
-          "teeth",
-          "toes",
-          "wrist"
+          {
+            "id": "c1",
+            "text": "teeth"
+          },
+          {
+            "id": "c2",
+            "text": "toes"
+          },
+          {
+            "id": "c3",
+            "text": "wrist"
+          }
         ]
       },
-      "correct_answer": "teeth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sharp anterior incisor teeth pierce easily through tough apple skin.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Which body part helps you hear a loud sound?",
       "type": "mcq",
+      "prompt": "Which body part helps you hear a loud sound?",
       "options": {
         "choices": [
-          "ears",
-          "chin",
-          "shoulder"
+          {
+            "id": "c1",
+            "text": "ears"
+          },
+          {
+            "id": "c2",
+            "text": "chin"
+          },
+          {
+            "id": "c3",
+            "text": "shoulder"
+          }
         ]
       },
-      "correct_answer": "ears",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Intense audio pressures register instantly across internal ear membranes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which body part helps you hold your lunchbox?",
       "type": "mcq",
+      "prompt": "Which body part helps you hold your lunchbox?",
       "options": {
         "choices": [
-          "hands",
-          "feet",
-          "nose"
+          {
+            "id": "c1",
+            "text": "hands"
+          },
+          {
+            "id": "c2",
+            "text": "feet"
+          },
+          {
+            "id": "c3",
+            "text": "nose"
+          }
         ]
       },
-      "correct_answer": "hands",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "You wrap your hands around the handle to hold a lunchbox.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Which body part helps you stretch your arms up high?",
       "type": "mcq",
+      "prompt": "Which body part helps you stretch your arms up high?",
       "options": {
         "choices": [
-          "shoulders",
-          "ankles",
-          "ear"
+          {
+            "id": "c1",
+            "text": "shoulders"
+          },
+          {
+            "id": "c2",
+            "text": "ankles"
+          },
+          {
+            "id": "c3",
+            "text": "ear"
+          }
         ]
       },
-      "correct_answer": "shoulders",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Shoulder rotation lets you extend your upper arms high overhead.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Which body part helps you keep your head warm?",
       "type": "mcq",
+      "prompt": "Which body part helps you keep your head warm?",
       "options": {
         "choices": [
-          "hair",
-          "toe",
-          "chin"
+          {
+            "id": "c1",
+            "text": "hair"
+          },
+          {
+            "id": "c2",
+            "text": "toe"
+          },
+          {
+            "id": "c3",
+            "text": "chin"
+          }
         ]
       },
-      "correct_answer": "hair",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Strands of hair add natural insulating layers around the top of your head.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

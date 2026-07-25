@@ -1,1716 +1,2915 @@
 {
   "_source_file": "level1_sci_weather.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "sci-weather",
-    "title": "Weather",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.558Z",
+  "slug": "sci-weather",
+  "title": "Weather",
+  "level": "level-1",
+  "subject": "science",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": true,
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What do we call water falling from clouds?",
       "type": "mcq",
+      "prompt": "What do we call water falling from clouds?",
       "options": {
         "choices": [
-          "rain",
-          "wind",
-          "sun"
+          {
+            "id": "c1",
+            "text": "rain"
+          },
+          {
+            "id": "c2",
+            "text": "wind"
+          },
+          {
+            "id": "c3",
+            "text": "sun"
+          }
         ]
       },
-      "correct_answer": "rain",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Rain is liquid precipitation consisting of water drops that fall from clouds down to Earth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which weather is very hot and bright?",
       "type": "mcq",
+      "prompt": "Which weather is very hot and bright?",
       "options": {
         "choices": [
-          "rainy",
-          "sunny",
-          "windy"
+          {
+            "id": "c1",
+            "text": "rainy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "sunny",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sunny weather is characterized by direct light and warmth radiating from the Sun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "What does weather tell us?",
       "type": "mcq",
+      "prompt": "What does weather tell us?",
       "options": {
         "choices": [
-          "if it is sunny or rainy",
-          "how old we are",
-          "what food we eat"
+          {
+            "id": "c1",
+            "text": "if it is sunny or rainy"
+          },
+          {
+            "id": "c2",
+            "text": "how old we are"
+          },
+          {
+            "id": "c3",
+            "text": "what food we eat"
+          }
         ]
       },
-      "correct_answer": "if it is sunny or rainy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Weather reflects the daily conditions of our atmosphere, indicating whether it is clear, rainy, hot, or cold.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "What do we feel when air moves fast?",
       "type": "mcq",
+      "prompt": "What do we feel when air moves fast?",
       "options": {
         "choices": [
-          "rain",
-          "wind",
-          "snow"
+          {
+            "id": "c1",
+            "text": "rain"
+          },
+          {
+            "id": "c2",
+            "text": "wind"
+          },
+          {
+            "id": "c3",
+            "text": "snow"
+          }
         ]
       },
-      "correct_answer": "wind",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Wind is defined as the perceptible natural movement of the air.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "What falls from the sky in cold weather?",
       "type": "mcq",
+      "prompt": "What falls from the sky in cold weather?",
       "options": {
         "choices": [
-          "snow",
-          "star",
-          "sun"
+          {
+            "id": "c1",
+            "text": "snow"
+          },
+          {
+            "id": "c2",
+            "text": "star"
+          },
+          {
+            "id": "c3",
+            "text": "sun"
+          }
         ]
       },
-      "correct_answer": "snow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "When atmospheric temperatures fall below freezing, atmospheric water vapor freezes into snow flakes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Which weather makes us use an umbrella?",
       "type": "mcq",
+      "prompt": "Which weather makes us use an umbrella?",
       "options": {
         "choices": [
-          "sunny",
-          "rainy",
-          "windy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "rainy"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "rainy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Umbrellas are protective tools designed to shield us from precipitation during rainy weather.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "What weather is good for flying a kite?",
       "type": "mcq",
+      "prompt": "What weather is good for flying a kite?",
       "options": {
         "choices": [
-          "snowy",
-          "windy",
-          "rainy"
+          {
+            "id": "c1",
+            "text": "snowy"
+          },
+          {
+            "id": "c2",
+            "text": "windy"
+          },
+          {
+            "id": "c3",
+            "text": "rainy"
+          }
         ]
       },
-      "correct_answer": "windy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Strong air currents during windy weather supply the continuous aerodynamic lift necessary to fly a kite.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "What shines in the sky on a clear day?",
       "type": "mcq",
+      "prompt": "What shines in the sky on a clear day?",
       "options": {
         "choices": [
-          "moon",
-          "sun",
-          "cloud"
+          {
+            "id": "c1",
+            "text": "moon"
+          },
+          {
+            "id": "c2",
+            "text": "sun"
+          },
+          {
+            "id": "c3",
+            "text": "cloud"
+          }
         ]
       },
-      "correct_answer": "sun",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "On a cloudless day, the Sun is fully visible and shines directly overhead.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "What weather feels cold and white?",
       "type": "mcq",
+      "prompt": "What weather feels cold and white?",
       "options": {
         "choices": [
-          "sunny",
-          "snowy",
-          "rainy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "snowy"
+          },
+          {
+            "id": "c3",
+            "text": "rainy"
+          }
         ]
       },
-      "correct_answer": "snowy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Snowy weather patterns coat landscapes in white ice crystals and feature low temperatures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "What weather has many clouds?",
       "type": "mcq",
+      "prompt": "What weather has many clouds?",
       "options": {
         "choices": [
-          "cloudy",
-          "sunny",
-          "windy"
+          {
+            "id": "c1",
+            "text": "cloudy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "cloudy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cloudy weather is marked by extensive accumulation of visible moisture droplets blocking out direct blue skies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "What weather helps plants grow?",
       "type": "mcq",
+      "prompt": "What weather helps plants grow?",
       "options": {
         "choices": [
-          "rainy",
-          "snowy",
-          "windy"
+          {
+            "id": "c1",
+            "text": "rainy"
+          },
+          {
+            "id": "c2",
+            "text": "snowy"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "rainy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Rainy days provide natural freshwater irrigation essential for plant health and growth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "What weather makes leaves move?",
       "type": "mcq",
+      "prompt": "What weather makes leaves move?",
       "options": {
         "choices": [
-          "sunny",
-          "windy",
-          "cloudy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "windy"
+          },
+          {
+            "id": "c3",
+            "text": "cloudy"
+          }
         ]
       },
-      "correct_answer": "windy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The kinetic force of wind rustles and displaces the leaves hanging on tree branches.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "What weather makes puddles?",
       "type": "mcq",
+      "prompt": "What weather makes puddles?",
       "options": {
         "choices": [
-          "sunny",
-          "rainy",
-          "windy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "rainy"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "rainy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Rainwater accumulates on impervious ground surfaces to create small pools or puddles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "What weather is best for wearing a coat?",
       "type": "mcq",
+      "prompt": "What weather is best for wearing a coat?",
       "options": {
         "choices": [
-          "sunny",
-          "rainy",
-          "cold"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "rainy"
+          },
+          {
+            "id": "c3",
+            "text": "cold"
+          }
         ]
       },
-      "correct_answer": "cold",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Coats are insulated outerwear garments engineered to preserve body heat during cold periods.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "What do we see in the sky after rain?",
       "type": "mcq",
+      "prompt": "What do we see in the sky after rain?",
       "options": {
         "choices": [
-          "rainbow",
-          "star",
-          "moon"
+          {
+            "id": "c1",
+            "text": "rainbow"
+          },
+          {
+            "id": "c2",
+            "text": "star"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "rainbow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A rainbow appears when lingering airborne moisture droplets refract and reflect sunlight.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "What weather dries clothes fast?",
       "type": "mcq",
+      "prompt": "What weather dries clothes fast?",
       "options": {
         "choices": [
-          "sunny",
-          "rainy",
-          "snowy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "rainy"
+          },
+          {
+            "id": "c3",
+            "text": "snowy"
+          }
         ]
       },
-      "correct_answer": "sunny",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sunny weather speeds up the evaporation of moisture out of damp materials through solar warmth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "What weather makes roads wet?",
       "type": "mcq",
+      "prompt": "What weather makes roads wet?",
       "options": {
         "choices": [
-          "sunny",
-          "rainy",
-          "cloudy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "rainy"
+          },
+          {
+            "id": "c3",
+            "text": "cloudy"
+          }
         ]
       },
-      "correct_answer": "rainy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Active rainfall wets roads, altering transit surface frictions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "What weather is good for swimming?",
       "type": "mcq",
+      "prompt": "What weather is good for swimming?",
       "options": {
         "choices": [
-          "snowy",
-          "sunny",
-          "windy"
+          {
+            "id": "c1",
+            "text": "snowy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "sunny",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Warm sunny weather creates comfortable environments for swimming to cool off.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "What weather has ice on the ground?",
       "type": "mcq",
+      "prompt": "What weather has ice on the ground?",
       "options": {
         "choices": [
-          "hot",
-          "cold",
-          "rainy"
+          {
+            "id": "c1",
+            "text": "hot"
+          },
+          {
+            "id": "c2",
+            "text": "cold"
+          },
+          {
+            "id": "c3",
+            "text": "rainy"
+          }
         ]
       },
-      "correct_answer": "cold",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sustained cold weather below freezing locks surface water into solid ice configurations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "What weather makes us sweat?",
       "type": "mcq",
+      "prompt": "What weather makes us sweat?",
       "options": {
         "choices": [
-          "cold",
-          "hot",
-          "rainy"
+          {
+            "id": "c1",
+            "text": "cold"
+          },
+          {
+            "id": "c2",
+            "text": "hot"
+          },
+          {
+            "id": "c3",
+            "text": "rainy"
+          }
         ]
       },
-      "correct_answer": "hot",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Hot conditions raise our internal temperatures, prompting our bodies to sweat for cooling.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "What weather is good for building a snowman?",
       "type": "mcq",
+      "prompt": "What weather is good for building a snowman?",
       "options": {
         "choices": [
-          "rainy",
-          "sunny",
-          "snowy"
+          {
+            "id": "c1",
+            "text": "rainy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "snowy"
+          }
         ]
       },
-      "correct_answer": "snowy",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Snowy weather delivers the pliable, packing snow required to construct a snowman.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "What weather makes trees bend?",
       "type": "mcq",
+      "prompt": "What weather makes trees bend?",
       "options": {
         "choices": [
-          "windy",
-          "rainy",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "windy"
+          },
+          {
+            "id": "c2",
+            "text": "rainy"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "windy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "High velocity wind forces physically lean and bend limbs or entire tree stalks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "What weather brings thunder?",
       "type": "mcq",
+      "prompt": "What weather brings thunder?",
       "options": {
         "choices": [
-          "stormy",
-          "sunny",
-          "snowy"
+          {
+            "id": "c1",
+            "text": "stormy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "snowy"
+          }
         ]
       },
-      "correct_answer": "stormy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Stormy developments produce localized electric discharges that crash as loud sonic thunder.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "What weather is calm and bright?",
       "type": "mcq",
+      "prompt": "What weather is calm and bright?",
       "options": {
         "choices": [
-          "cloudy",
-          "sunny",
-          "windy"
+          {
+            "id": "c1",
+            "text": "cloudy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "sunny",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sunny periods are often accompanied by quiet, stable, bright weather conditions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "What weather makes the sky gray?",
       "type": "mcq",
+      "prompt": "What weather makes the sky gray?",
       "options": {
         "choices": [
-          "sunny",
-          "cloudy",
-          "snowy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "cloudy"
+          },
+          {
+            "id": "c3",
+            "text": "snowy"
+          }
         ]
       },
-      "correct_answer": "cloudy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dense cloud covers filter standard sunlight, tinting the overhead horizons gray.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "What weather helps fill rivers?",
       "type": "mcq",
+      "prompt": "What weather helps fill rivers?",
       "options": {
         "choices": [
-          "rainy",
-          "windy",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "rainy"
+          },
+          {
+            "id": "c2",
+            "text": "windy"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "rainy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Rainy periods deposit massive amounts of water that runoff directly to fill up local rivers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "What weather makes us wear boots?",
       "type": "mcq",
+      "prompt": "What weather makes us wear boots?",
       "options": {
         "choices": [
-          "rainy",
-          "sunny",
-          "windy"
+          {
+            "id": "c1",
+            "text": "rainy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "rainy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Waterproof boots keep our feet dry from pooling rainwater or wet mud.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which word describes very cold weather with ice?",
       "type": "mcq",
+      "prompt": "Which word describes very cold weather with ice?",
       "options": {
         "choices": [
-          "freezing",
-          "warm",
-          "hot"
+          {
+            "id": "c1",
+            "text": "freezing"
+          },
+          {
+            "id": "c2",
+            "text": "warm"
+          },
+          {
+            "id": "c3",
+            "text": "hot"
+          }
         ]
       },
-      "correct_answer": "freezing",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Freezing refers to environments that dip below $0^circ\text{C}$ ($32^circ\text{F}$), turning liquid water to solid ice.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "What weather makes flowers open?",
       "type": "mcq",
+      "prompt": "What weather makes flowers open?",
       "options": {
         "choices": [
-          "sunny",
-          "snowy",
-          "stormy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "snowy"
+          },
+          {
+            "id": "c3",
+            "text": "stormy"
+          }
         ]
       },
-      "correct_answer": "sunny",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sunny exposures encourage botanical systems to open up their flowers for phototropism.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "What weather makes sounds loud outside?",
       "type": "mcq",
+      "prompt": "What weather makes sounds loud outside?",
       "options": {
         "choices": [
-          "windy",
-          "snowy",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "windy"
+          },
+          {
+            "id": "c2",
+            "text": "snowy"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "windy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Windy variations modify acoustic paths, often carrying or amplifying outdoor sounds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "What weather brings lightning?",
       "type": "mcq",
+      "prompt": "What weather brings lightning?",
       "options": {
         "choices": [
-          "stormy",
-          "cloudy",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "stormy"
+          },
+          {
+            "id": "c2",
+            "text": "cloudy"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "stormy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Stormy atmospheres harbor severe static imbalances, creating electrostatic lightning arcs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "What weather makes air feel wet?",
       "type": "mcq",
+      "prompt": "What weather makes air feel wet?",
       "options": {
         "choices": [
-          "dry",
-          "humid",
-          "cold"
+          {
+            "id": "c1",
+            "text": "dry"
+          },
+          {
+            "id": "c2",
+            "text": "humid"
+          },
+          {
+            "id": "c3",
+            "text": "cold"
+          }
         ]
       },
-      "correct_answer": "humid",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Humid conditions indicate a high concentration of water vapor suspended in the air.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "What weather is best for a picnic?",
       "type": "mcq",
+      "prompt": "What weather is best for a picnic?",
       "options": {
         "choices": [
-          "rainy",
-          "sunny",
-          "stormy"
+          {
+            "id": "c1",
+            "text": "rainy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "stormy"
+          }
         ]
       },
-      "correct_answer": "sunny",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Bright, sunny afternoons provide optimal dry conditions for enjoying picnics outdoors.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "What weather makes clouds move fast?",
       "type": "mcq",
+      "prompt": "What weather makes clouds move fast?",
       "options": {
         "choices": [
-          "windy",
-          "snowy",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "windy"
+          },
+          {
+            "id": "c2",
+            "text": "snowy"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "windy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "High-altitude wind currents physically carry and push clouds rapidly across our skies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "What weather makes the ground white?",
       "type": "mcq",
+      "prompt": "What weather makes the ground white?",
       "options": {
         "choices": [
-          "rainy",
-          "snowy",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "rainy"
+          },
+          {
+            "id": "c2",
+            "text": "snowy"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "snowy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Accumulating snow blankets ground terrains under a uniform white coat.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "What weather makes the sun hide?",
       "type": "mcq",
+      "prompt": "What weather makes the sun hide?",
       "options": {
         "choices": [
-          "cloudy",
-          "sunny",
-          "windy"
+          {
+            "id": "c1",
+            "text": "cloudy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "cloudy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Heavy clouds obscure the sun from view when a sky shifts to a cloudy state.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "What weather helps crops grow tall?",
       "type": "mcq",
+      "prompt": "What weather helps crops grow tall?",
       "options": {
         "choices": [
-          "rainy",
-          "snowy",
-          "windy"
+          {
+            "id": "c1",
+            "text": "rainy"
+          },
+          {
+            "id": "c2",
+            "text": "snowy"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "rainy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Rainfall hydrates agricultural crops, allowing them to absorb nutrients and grow tall.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "What weather makes us stay indoors?",
       "type": "mcq",
+      "prompt": "What weather makes us stay indoors?",
       "options": {
         "choices": [
-          "stormy",
-          "sunny",
-          "windy"
+          {
+            "id": "c1",
+            "text": "stormy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "stormy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Hazardous stormy weather makes it safest to remain sheltered indoors.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "What weather makes birds fly low?",
       "type": "mcq",
+      "prompt": "What weather makes birds fly low?",
       "options": {
         "choices": [
-          "rainy",
-          "sunny",
-          "snowy"
+          {
+            "id": "c1",
+            "text": "rainy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "snowy"
+          }
         ]
       },
-      "correct_answer": "rainy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dropping air pressures and heavy humidity on rainy days make birds fly closer to the ground.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "What weather feels nice and warm?",
       "type": "mcq",
+      "prompt": "What weather feels nice and warm?",
       "options": {
         "choices": [
-          "cold",
-          "sunny",
-          "stormy"
+          {
+            "id": "c1",
+            "text": "cold"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "stormy"
+          }
         ]
       },
-      "correct_answer": "sunny",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Clear, sunny skies give off a mild, soothing thermal warmth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "What weather makes ice melt?",
       "type": "mcq",
+      "prompt": "What weather makes ice melt?",
       "options": {
         "choices": [
-          "hot",
-          "cold",
-          "snowy"
+          {
+            "id": "c1",
+            "text": "hot"
+          },
+          {
+            "id": "c2",
+            "text": "cold"
+          },
+          {
+            "id": "c3",
+            "text": "snowy"
+          }
         ]
       },
-      "correct_answer": "hot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Hot conditions supply ambient heat that warms frozen items past their melting thresholds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "What weather makes us shiver?",
       "type": "mcq",
+      "prompt": "What weather makes us shiver?",
       "options": {
         "choices": [
-          "hot",
-          "cold",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "hot"
+          },
+          {
+            "id": "c2",
+            "text": "cold"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "cold",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Cold weather triggers involuntary muscle shivering to help warm our bodies up.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "What weather fills lakes?",
       "type": "mcq",
+      "prompt": "What weather fills lakes?",
       "options": {
         "choices": [
-          "windy",
-          "rainy",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "windy"
+          },
+          {
+            "id": "c2",
+            "text": "rainy"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "rainy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Rainfall serves as the primary freshwater source that naturally collects to replenish empty lakes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "What weather makes clouds dark?",
       "type": "mcq",
+      "prompt": "What weather makes clouds dark?",
       "options": {
         "choices": [
-          "stormy",
-          "sunny",
-          "snowy"
+          {
+            "id": "c1",
+            "text": "stormy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "snowy"
+          }
         ]
       },
-      "correct_answer": "stormy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Stormy configurations hold deep densities of internal liquid mass that block sunlight, turning clouds dark.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "What weather is gentle rain?",
       "type": "mcq",
+      "prompt": "What weather is gentle rain?",
       "options": {
         "choices": [
-          "drizzle",
-          "snow",
-          "wind"
+          {
+            "id": "c1",
+            "text": "drizzle"
+          },
+          {
+            "id": "c2",
+            "text": "snow"
+          },
+          {
+            "id": "c3",
+            "text": "wind"
+          }
         ]
       },
-      "correct_answer": "drizzle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Drizzle describes very light, fine liquid water droplets dropping gently out of skies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "What weather makes hats fly?",
       "type": "mcq",
+      "prompt": "What weather makes hats fly?",
       "options": {
         "choices": [
-          "rainy",
-          "windy",
-          "snowy"
+          {
+            "id": "c1",
+            "text": "rainy"
+          },
+          {
+            "id": "c2",
+            "text": "windy"
+          },
+          {
+            "id": "c3",
+            "text": "snowy"
+          }
         ]
       },
-      "correct_answer": "windy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Strong gusts on windy days can lift hats right off people's heads.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "What weather makes the sky blue?",
       "type": "mcq",
+      "prompt": "What weather makes the sky blue?",
       "options": {
         "choices": [
-          "sunny",
-          "cloudy",
-          "stormy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "cloudy"
+          },
+          {
+            "id": "c3",
+            "text": "stormy"
+          }
         ]
       },
-      "correct_answer": "sunny",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sunny weather with unpolluted atmospheres allows natural light scattering to show off clean blue hues.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "What weather makes hands cold?",
       "type": "mcq",
+      "prompt": "What weather makes hands cold?",
       "options": {
         "choices": [
-          "hot",
-          "warm",
-          "cold"
+          {
+            "id": "c1",
+            "text": "hot"
+          },
+          {
+            "id": "c2",
+            "text": "warm"
+          },
+          {
+            "id": "c3",
+            "text": "cold"
+          }
         ]
       },
-      "correct_answer": "cold",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Cold temperatures draw warmth out from exposed skin surfaces like our hands.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "What weather brings hail?",
       "type": "mcq",
+      "prompt": "What weather brings hail?",
       "options": {
         "choices": [
-          "sunny",
-          "stormy",
-          "windy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "stormy"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "stormy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Violent upward currents in stormy clouds freeze water droplets into solid pellets of hail.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "What weather makes puddles freeze?",
       "type": "mcq",
+      "prompt": "What weather makes puddles freeze?",
       "options": {
         "choices": [
-          "hot",
-          "cold",
-          "rainy"
+          {
+            "id": "c1",
+            "text": "hot"
+          },
+          {
+            "id": "c2",
+            "text": "cold"
+          },
+          {
+            "id": "c3",
+            "text": "rainy"
+          }
         ]
       },
-      "correct_answer": "cold",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Cold weather chilling systems drop water surfaces below their liquid states into solid ice chunks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "What weather helps dry roads?",
       "type": "mcq",
+      "prompt": "What weather helps dry roads?",
       "options": {
         "choices": [
-          "sunny",
-          "rainy",
-          "snowy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "rainy"
+          },
+          {
+            "id": "c3",
+            "text": "snowy"
+          }
         ]
       },
-      "correct_answer": "sunny",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sunny weather applies direct thermal heat that turns pooling roadway dampness into vapor.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "What weather makes clouds fluffy?",
       "type": "mcq",
+      "prompt": "What weather makes clouds fluffy?",
       "options": {
         "choices": [
-          "sunny",
-          "cloudy",
-          "stormy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "cloudy"
+          },
+          {
+            "id": "c3",
+            "text": "stormy"
+          }
         ]
       },
-      "correct_answer": "cloudy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Normal cloudy situations arrange moisture condensations into large, soft, fluffy cloud formations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "What weather is strong rain and wind?",
       "type": "mcq",
+      "prompt": "What weather is strong rain and wind?",
       "options": {
         "choices": [
-          "stormy",
-          "sunny",
-          "calm"
+          {
+            "id": "c1",
+            "text": "stormy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "calm"
+          }
         ]
       },
-      "correct_answer": "stormy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A stormy event is structurally identified by the pairing of severe high winds alongside dense rainfall.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "What weather makes us wear gloves?",
       "type": "mcq",
+      "prompt": "What weather makes us wear gloves?",
       "options": {
         "choices": [
-          "hot",
-          "cold",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "hot"
+          },
+          {
+            "id": "c2",
+            "text": "cold"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "cold",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Insulated hand coverings are worn during cold spells to prevent discomfort or frostbite.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "What weather makes grass wet in the morning?",
       "type": "mcq",
+      "prompt": "What weather makes grass wet in the morning?",
       "options": {
         "choices": [
-          "dew",
-          "snow",
-          "wind"
+          {
+            "id": "c1",
+            "text": "dew"
+          },
+          {
+            "id": "c2",
+            "text": "snow"
+          },
+          {
+            "id": "c3",
+            "text": "wind"
+          }
         ]
       },
-      "correct_answer": "dew",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dew is moisture that forms overnight as water vapor condenses onto cool grass surfaces.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "What weather is gentle rain?",
       "type": "mcq",
+      "prompt": "What weather is gentle rain?",
       "options": {
         "choices": [
-          "drizzle",
-          "snow",
-          "wind"
+          {
+            "id": "c1",
+            "text": "drizzle"
+          },
+          {
+            "id": "c2",
+            "text": "snow"
+          },
+          {
+            "id": "c3",
+            "text": "wind"
+          }
         ]
       },
-      "correct_answer": "drizzle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Drizzle represents minimized rainfall intensities that drop tiny liquid points slowly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "What weather is light and warm?",
       "type": "mcq",
+      "prompt": "What weather is light and warm?",
       "options": {
         "choices": [
-          "sunny",
-          "stormy",
-          "cold"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "stormy"
+          },
+          {
+            "id": "c3",
+            "text": "cold"
+          }
         ]
       },
-      "correct_answer": "sunny",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Mild sunny weather patterns offer light and moderate thermal comfort outdoors.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "What weather makes puddles splash?",
       "type": "mcq",
+      "prompt": "What weather makes puddles splash?",
       "options": {
         "choices": [
-          "windy",
-          "rainy",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "windy"
+          },
+          {
+            "id": "c2",
+            "text": "rainy"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "rainy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Incoming raindrops striking existing water surfaces create splashes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "What weather makes snow melt slowly?",
       "type": "mcq",
+      "prompt": "What weather makes snow melt slowly?",
       "options": {
         "choices": [
-          "warm",
-          "hot",
-          "cold"
+          {
+            "id": "c1",
+            "text": "warm"
+          },
+          {
+            "id": "c2",
+            "text": "hot"
+          },
+          {
+            "id": "c3",
+            "text": "cold"
+          }
         ]
       },
-      "correct_answer": "warm",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Warm weather initiates gentle thermal transitions that slowly dissolve frozen snow masses.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "What weather makes clouds cover the sun?",
       "type": "mcq",
+      "prompt": "What weather makes clouds cover the sun?",
       "options": {
         "choices": [
-          "cloudy",
-          "sunny",
-          "windy"
+          {
+            "id": "c1",
+            "text": "cloudy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "cloudy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cloudy day means thick layers of moisture overhead completely shade out open views of the sun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "What weather makes waves big?",
       "type": "mcq",
+      "prompt": "What weather makes waves big?",
       "options": {
         "choices": [
-          "windy",
-          "calm",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "windy"
+          },
+          {
+            "id": "c2",
+            "text": "calm"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "windy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Windy gusts push directly across open water surfaces to generate large oceanic waves.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "What weather makes grass wet in the morning?",
       "type": "mcq",
+      "prompt": "What weather makes grass wet in the morning?",
       "options": {
         "choices": [
-          "dew",
-          "snow",
-          "wind"
+          {
+            "id": "c1",
+            "text": "dew"
+          },
+          {
+            "id": "c2",
+            "text": "snow"
+          },
+          {
+            "id": "c3",
+            "text": "wind"
+          }
         ]
       },
-      "correct_answer": "dew",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cool early morning conditions trigger atmospheric condensations known as dew drops on low lawns.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which animal likes hot sunny weather?",
       "type": "mcq",
+      "prompt": "Which animal likes hot sunny weather?",
       "options": {
         "choices": [
-          "penguin",
-          "camel",
-          "frog"
+          {
+            "id": "c1",
+            "text": "penguin"
+          },
+          {
+            "id": "c2",
+            "text": "camel"
+          },
+          {
+            "id": "c3",
+            "text": "frog"
+          }
         ]
       },
-      "correct_answer": "camel",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Camels are biologically adapted to thrive within hot, arid desert climates.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which animal enjoys cold snowy weather?",
       "type": "mcq",
+      "prompt": "Which animal enjoys cold snowy weather?",
       "options": {
         "choices": [
-          "lion",
-          "penguin",
-          "monkey"
+          {
+            "id": "c1",
+            "text": "lion"
+          },
+          {
+            "id": "c2",
+            "text": "penguin"
+          },
+          {
+            "id": "c3",
+            "text": "monkey"
+          }
         ]
       },
-      "correct_answer": "penguin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Penguins feature specialized fat layers and feathers built to survive inside freezing, snowy zones.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Which animal likes rainy weather and puddles?",
       "type": "mcq",
+      "prompt": "Which animal likes rainy weather and puddles?",
       "options": {
         "choices": [
-          "frog",
-          "cat",
-          "hen"
+          {
+            "id": "c1",
+            "text": "frog"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "hen"
+          }
         ]
       },
-      "correct_answer": "frog",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Frogs are amphibians that require damp, rainy settings to keep their skin moist.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which animal rests in the shade on sunny days?",
       "type": "mcq",
+      "prompt": "Which animal rests in the shade on sunny days?",
       "options": {
         "choices": [
-          "dog",
-          "fish",
-          "snake"
+          {
+            "id": "c1",
+            "text": "dog"
+          },
+          {
+            "id": "c2",
+            "text": "fish"
+          },
+          {
+            "id": "c3",
+            "text": "snake"
+          }
         ]
       },
-      "correct_answer": "dog",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dogs seek out shaded spaces on bright sunny days to manage their internal body temperature.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which animal hides during a storm?",
       "type": "mcq",
+      "prompt": "Which animal hides during a storm?",
       "options": {
         "choices": [
-          "bird",
-          "cow",
-          "fish"
+          {
+            "id": "c1",
+            "text": "bird"
+          },
+          {
+            "id": "c2",
+            "text": "cow"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "bird",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Birds naturally retreat to safe, sheltered tree canopy spots to weather rough storms.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which animal flies high on windy days?",
       "type": "mcq",
+      "prompt": "Which animal flies high on windy days?",
       "options": {
         "choices": [
-          "bird",
-          "dog",
-          "goat"
+          {
+            "id": "c1",
+            "text": "bird"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "goat"
+          }
         ]
       },
-      "correct_answer": "bird",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Birds utilize high currents to glide easily through skies on windy afternoons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which animal likes dry hot places?",
       "type": "mcq",
+      "prompt": "Which animal likes dry hot places?",
       "options": {
         "choices": [
-          "ant",
-          "camel",
-          "frog"
+          {
+            "id": "c1",
+            "text": "ant"
+          },
+          {
+            "id": "c2",
+            "text": "camel"
+          },
+          {
+            "id": "c3",
+            "text": "frog"
+          }
         ]
       },
-      "correct_answer": "camel",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Camels can wander through intensely hot regions without needing frequent water breaks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which animal likes to plays in the rain?",
       "type": "mcq",
+      "prompt": "Which animal likes to plays in the rain?",
       "options": {
         "choices": [
-          "duck",
-          "cat",
-          "horse"
+          {
+            "id": "c1",
+            "text": "duck"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "horse"
+          }
         ]
       },
-      "correct_answer": "duck",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Ducks possess waterproof plumage profiles that let them play comfortably in rainy downpours.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which animal sleeps more in cold weather?",
       "type": "mcq",
+      "prompt": "Which animal sleeps more in cold weather?",
       "options": {
         "choices": [
-          "eagle",
-          "cow",
-          "bear"
+          {
+            "id": "c1",
+            "text": "eagle"
+          },
+          {
+            "id": "c2",
+            "text": "cow"
+          },
+          {
+            "id": "c3",
+            "text": "bear"
+          }
         ]
       },
-      "correct_answer": "bear",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Bears go into a deep sleep called hibernation during cold winter seasons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which animal spreads wings to dry after rain?",
       "type": "mcq",
+      "prompt": "Which animal spreads wings to dry after rain?",
       "options": {
         "choices": [
-          "cow",
-          "dog",
-          "bird"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "bird"
+          }
         ]
       },
-      "correct_answer": "bird",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Birds extend their wings out post-rainfall to let light air dry out damp wing feathers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which animal enjoys cool shady weather?",
       "type": "mcq",
+      "prompt": "Which animal enjoys cool shady weather?",
       "options": {
         "choices": [
-          "elephant",
-          "camel",
-          "penguin"
+          {
+            "id": "c1",
+            "text": "elephant"
+          },
+          {
+            "id": "c2",
+            "text": "camel"
+          },
+          {
+            "id": "c3",
+            "text": "penguin"
+          }
         ]
       },
-      "correct_answer": "elephant",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Large elephants prefer cool, shady spots to avoid overheating in the sun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which animal lives in icy weather?",
       "type": "mcq",
+      "prompt": "Which animal lives in icy weather?",
       "options": {
         "choices": [
-          "green bear",
-          "tiger",
-          "polar bear"
+          {
+            "id": "c1",
+            "text": "green bear"
+          },
+          {
+            "id": "c2",
+            "text": "tiger"
+          },
+          {
+            "id": "c3",
+            "text": "polar bear"
+          }
         ]
       },
-      "correct_answer": "polar bear",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Polar bears live around ice sheets, insulated by thick fur coats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which animal cools itself in water on hot days?",
       "type": "mcq",
+      "prompt": "Which animal cools itself in water on hot days?",
       "options": {
         "choices": [
-          "buffalo",
-          "sheep",
-          "hen"
+          {
+            "id": "c1",
+            "text": "buffalo"
+          },
+          {
+            "id": "c2",
+            "text": "sheep"
+          },
+          {
+            "id": "c3",
+            "text": "hen"
+          }
         ]
       },
-      "correct_answer": "buffalo",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Water buffalos submerge themselves in mud holes or river channels to stay cool on hot days.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which animal looks for shelter in rain?",
       "type": "mcq",
+      "prompt": "Which animal looks for shelter in rain?",
       "options": {
         "choices": [
-          "whale",
-          "fish",
-          "dog"
+          {
+            "id": "c1",
+            "text": "whale"
+          },
+          {
+            "id": "c2",
+            "text": "fish"
+          },
+          {
+            "id": "c3",
+            "text": "dog"
+          }
         ]
       },
-      "correct_answer": "dog",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Domesticated dogs instinctively seek out dry inside spaces when rain sets in.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which animal enjoys sunny weather on rocks?",
       "type": "mcq",
+      "prompt": "Which animal enjoys sunny weather on rocks?",
       "options": {
         "choices": [
-          "lizard",
-          "cow",
-          "rabbit"
+          {
+            "id": "c1",
+            "text": "lizard"
+          },
+          {
+            "id": "c2",
+            "text": "cow"
+          },
+          {
+            "id": "c3",
+            "text": "rabbit"
+          }
         ]
       },
-      "correct_answer": "lizard",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cold-blooded lizards rely on sun-warmed rocks to warm up their bodies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which animal shakes water off after rain?",
       "type": "mcq",
+      "prompt": "Which animal shakes water off after rain?",
       "options": {
         "choices": [
-          "eagle",
-          "dog",
-          "fish"
+          {
+            "id": "c1",
+            "text": "eagle"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "dog",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dogs rapidly shake their bodies to fling water droplets off their fur after getting wet.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Which animal uses mud to stay cool?",
       "type": "mcq",
+      "prompt": "Which animal uses mud to stay cool?",
       "options": {
         "choices": [
-          "pig",
-          "cat",
-          "sheep"
+          {
+            "id": "c1",
+            "text": "pig"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "sheep"
+          }
         ]
       },
-      "correct_answer": "pig",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Pigs wallow in moist mud layers to cool their skin because they lack functional sweat glands.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which animal likes cloudy cool weather?",
       "type": "mcq",
+      "prompt": "Which animal likes cloudy cool weather?",
       "options": {
         "choices": [
-          "whale",
-          "cow",
-          "penguin"
+          {
+            "id": "c1",
+            "text": "whale"
+          },
+          {
+            "id": "c2",
+            "text": "cow"
+          },
+          {
+            "id": "c3",
+            "text": "penguin"
+          }
         ]
       },
-      "correct_answer": "cow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Cows graze most comfortably when outdoor conditions are cool and cloudy.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which animal stays active in warm weather?",
       "type": "mcq",
+      "prompt": "Which animal stays active in warm weather?",
       "options": {
         "choices": [
-          "butterfly",
-          "bear",
-          "penguin"
+          {
+            "id": "c1",
+            "text": "butterfly"
+          },
+          {
+            "id": "c2",
+            "text": "bear"
+          },
+          {
+            "id": "c3",
+            "text": "penguin"
+          }
         ]
       },
-      "correct_answer": "butterfly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Butterflies need external heat from warm weather to fly and search for nectar.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "What weather is bright and warm?",
       "type": "mcq",
+      "prompt": "What weather is bright and warm?",
       "options": {
         "choices": [
-          "rainy",
-          "sunny",
-          "cloudy"
+          {
+            "id": "c1",
+            "text": "rainy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "cloudy"
+          }
         ]
       },
-      "correct_answer": "sunny",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sunny weather conditions treat ground horizons to clear light along with warm air layers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "What weather makes the ground wet?",
       "type": "mcq",
+      "prompt": "What weather makes the ground wet?",
       "options": {
         "choices": [
-          "windy",
-          "rainy",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "windy"
+          },
+          {
+            "id": "c2",
+            "text": "rainy"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "rainy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Rainfall deposits water directly onto soils, saturating landscapes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "What weather has white flakes falling?",
       "type": "mcq",
+      "prompt": "What weather has white flakes falling?",
       "options": {
         "choices": [
-          "snowy",
-          "sunny",
-          "windy"
+          {
+            "id": "c1",
+            "text": "snowy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "snowy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Snowy weather features frozen crystalline flakes falling gently from cold clouds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "What weather moves leaves and flags?",
       "type": "mcq",
+      "prompt": "What weather moves leaves and flags?",
       "options": {
         "choices": [
-          "cloudy",
-          "windy",
-          "rainy"
+          {
+            "id": "c1",
+            "text": "cloudy"
+          },
+          {
+            "id": "c2",
+            "text": "windy"
+          },
+          {
+            "id": "c3",
+            "text": "rainy"
+          }
         ]
       },
-      "correct_answer": "windy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Air moving during windy intervals ripples flags and rustles loose leaves easily.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "What weather has many clouds in the sky?",
       "type": "mcq",
+      "prompt": "What weather has many clouds in the sky?",
       "options": {
         "choices": [
-          "sunny",
-          "cloudy",
-          "snowy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "cloudy"
+          },
+          {
+            "id": "c3",
+            "text": "snowy"
+          }
         ]
       },
-      "correct_answer": "cloudy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Cloudy settings are marked by vast visual clusters of clouds filling up the skies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "What weather makes us feel hot?",
       "type": "mcq",
+      "prompt": "What weather makes us feel hot?",
       "options": {
         "choices": [
-          "cold",
-          "warm",
-          "rainy"
+          {
+            "id": "c1",
+            "text": "cold"
+          },
+          {
+            "id": "c2",
+            "text": "warm"
+          },
+          {
+            "id": "c3",
+            "text": "rainy"
+          }
         ]
       },
-      "correct_answer": "warm",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Warm or hot thermal levels raise regional temperatures, making people feel warm.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "What weather helps dry wet clothes?",
       "type": "mcq",
+      "prompt": "What weather helps dry wet clothes?",
       "options": {
         "choices": [
-          "sunny",
-          "rainy",
-          "cloudy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "rainy"
+          },
+          {
+            "id": "c3",
+            "text": "cloudy"
+          }
         ]
       },
-      "correct_answer": "sunny",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sunny weather accelerates moisture evaporation to dry out wet clothing lines.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "What weather brings thunder and lightning?",
       "type": "mcq",
+      "prompt": "What weather brings thunder and lightning?",
       "options": {
         "choices": [
-          "calm",
-          "stormy",
-          "snowy"
+          {
+            "id": "c1",
+            "text": "calm"
+          },
+          {
+            "id": "c2",
+            "text": "stormy"
+          },
+          {
+            "id": "c3",
+            "text": "snowy"
+          }
         ]
       },
-      "correct_answer": "stormy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Stormy conditions fuel unstable wind columns that generate lightning and booming thunder.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "What weather makes us use a raincoat?",
       "type": "mcq",
+      "prompt": "What weather makes us use a raincoat?",
       "options": {
         "choices": [
-          "sunny",
-          "windy",
-          "rainy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "windy"
+          },
+          {
+            "id": "c3",
+            "text": "rainy"
+          }
         ]
       },
-      "correct_answer": "rainy",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Raincoats feature water-resistant outer layers to keep us dry when it rains.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "What weather feels cool and gentle?",
       "type": "mcq",
+      "prompt": "What weather feels cool and gentle?",
       "options": {
         "choices": [
-          "stormy",
-          "mild",
-          "freezing"
+          {
+            "id": "c1",
+            "text": "stormy"
+          },
+          {
+            "id": "c2",
+            "text": "mild"
+          },
+          {
+            "id": "c3",
+            "text": "freezing"
+          }
         ]
       },
-      "correct_answer": "mild",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Mild weather balances air temps comfortably without drifting into freezing or hot extremes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "What weather makes snow melt?",
       "type": "mcq",
+      "prompt": "What weather makes snow melt?",
       "options": {
         "choices": [
-          "cold",
-          "hot",
-          "windy"
+          {
+            "id": "c1",
+            "text": "cold"
+          },
+          {
+            "id": "c2",
+            "text": "hot"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "hot",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Hot conditions heat snowpacks past freezing levels, melting them back into liquid water.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "What weather makes the sky dark gray?",
       "type": "mcq",
+      "prompt": "What weather makes the sky dark gray?",
       "options": {
         "choices": [
-          "sunny",
-          "cloudy",
-          "clear"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "cloudy"
+          },
+          {
+            "id": "c3",
+            "text": "clear"
+          }
         ]
       },
-      "correct_answer": "cloudy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Deep, thick cloud blankets absorb light and turn the sky a dark gray color.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "What weather brings a rainbow?",
       "type": "mcq",
+      "prompt": "What weather brings a rainbow?",
       "options": {
         "choices": [
-          "rain",
-          "snow",
-          "wind"
+          {
+            "id": "c1",
+            "text": "rain"
+          },
+          {
+            "id": "c2",
+            "text": "snow"
+          },
+          {
+            "id": "c3",
+            "text": "wind"
+          }
         ]
       },
-      "correct_answer": "rain",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A rainbow appears when sunlight shines through falling rain droplets.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "What weather makes us shiver?",
       "type": "mcq",
+      "prompt": "What weather makes us shiver?",
       "options": {
         "choices": [
-          "hot",
-          "cold",
-          "warm"
+          {
+            "id": "c1",
+            "text": "hot"
+          },
+          {
+            "id": "c2",
+            "text": "cold"
+          },
+          {
+            "id": "c3",
+            "text": "warm"
+          }
         ]
       },
-      "correct_answer": "cold",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Cold weather makes our muscles shiver to generate warmth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "What weather makes roads slippery with ice?",
       "type": "mcq",
+      "prompt": "What weather makes roads slippery with ice?",
       "options": {
         "choices": [
-          "warm",
-          "freezing",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "warm"
+          },
+          {
+            "id": "c2",
+            "text": "freezing"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "freezing",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Freezing weather glazes open transit paths with slick, dangerous coats of solid ice.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "What is weather?",
       "type": "mcq",
+      "prompt": "What is weather?",
       "options": {
         "choices": [
-          "how animals fly",
-          "how the air and sky feel outside",
-          "the time on a clock"
+          {
+            "id": "c1",
+            "text": "how animals fly"
+          },
+          {
+            "id": "c2",
+            "text": "how the air and sky feel outside"
+          },
+          {
+            "id": "c3",
+            "text": "the time on a clock"
+          }
         ]
       },
-      "correct_answer": "how the air and sky feel outside",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Weather is the day-to-day state of the atmosphere, describing conditions like temperature, wind, and rain.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "What does weather tell us?",
       "type": "mcq",
+      "prompt": "What does weather tell us?",
       "options": {
         "choices": [
-          "if it is sunny or rainy",
-          "how old we are",
-          "what food we eat"
+          {
+            "id": "c1",
+            "text": "if it is sunny or rainy"
+          },
+          {
+            "id": "c2",
+            "text": "how old we are"
+          },
+          {
+            "id": "c3",
+            "text": "what food we eat"
+          }
         ]
       },
-      "correct_answer": "if it is sunny or rainy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Weather trackers record environmental balances to check if conditions are clear, rainy, hot, or cold.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "What weather has white flakes falling?",
       "type": "mcq",
+      "prompt": "What weather has white flakes falling?",
       "options": {
         "choices": [
-          "snowy",
-          "sunny",
-          "windy"
+          {
+            "id": "c1",
+            "text": "snowy"
+          },
+          {
+            "id": "c2",
+            "text": "sunny"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "snowy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Snowy weather environments are filled with millions of light, white ice flakes falling down to earth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "What weather makes puddles?",
       "type": "mcq",
+      "prompt": "What weather makes puddles?",
       "options": {
         "choices": [
-          "sunny",
-          "rainy",
-          "windy"
+          {
+            "id": "c1",
+            "text": "sunny"
+          },
+          {
+            "id": "c2",
+            "text": "rainy"
+          },
+          {
+            "id": "c3",
+            "text": "windy"
+          }
         ]
       },
-      "correct_answer": "rainy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Rain showers drop excess liquid that pools into puddles across flat outdoor paths.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]
