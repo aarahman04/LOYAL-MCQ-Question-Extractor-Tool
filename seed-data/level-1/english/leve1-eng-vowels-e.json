@@ -6,9 +6,9 @@
   "level": "level-1",
   "subject": "english",
   "quiz_type": "mcq",
-  "questions_per_attempt": 100,
+  "questions_per_attempt": 25,
   "total_questions": 100,
-  "shuffle": false,
+  "shuffle": "group",
   "is_free": false,
   "order_index": 0,
   "questions": [
@@ -40,7 +40,7 @@
       "explanation": "At the start of the story, Ted gets a pen.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/1.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/1.png"
       },
@@ -75,7 +75,7 @@
       "explanation": "Ted used the red pen to draw the ten red hens.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/1.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/1.png"
       },
@@ -110,7 +110,7 @@
       "explanation": "The story says Ted drew ten red hens.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/1.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/1.png"
       },
@@ -145,7 +145,7 @@
       "explanation": "The first pen Ted got was red: 'The pen is red.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/1.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/1.png"
       },
@@ -180,7 +180,7 @@
       "explanation": "Ted used the brown pen to draw a shed for the ten hens.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/1.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/1.png"
       },
@@ -215,7 +215,7 @@
       "explanation": "Ted drew a shed for the ten hens, so they would sleep in the shed.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/1.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/1.png"
       },
@@ -250,7 +250,7 @@
       "explanation": "The last line of the story says 'Ted is happy.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/1.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/1.png"
       },
@@ -285,7 +285,7 @@
       "explanation": "After drawing the hens, Ted used the brown pen to draw a shed for them.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/1.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/1.png"
       },
@@ -320,7 +320,7 @@
       "explanation": "Ted got a brown pen and used it to draw the shed.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/1.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/1.png"
       },
@@ -355,7 +355,7 @@
       "explanation": "The opposite of happy is sad.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/1.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/1.png"
       },
@@ -390,7 +390,7 @@
       "explanation": "The boy in the story is named Ted.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/2.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/2.png"
       },
@@ -425,7 +425,7 @@
       "explanation": "The story begins with 'Ted sees a hen.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/2.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/2.png"
       },
@@ -460,7 +460,7 @@
       "explanation": "The story says 'The hen is by the shed.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/2.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/2.png"
       },
@@ -495,7 +495,7 @@
       "explanation": "The story says 'The hen pecks and pecks.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/2.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/2.png"
       },
@@ -530,7 +530,7 @@
       "explanation": "The story says 'The hen must be fed,' so Ted must feed the hen.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/2.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/2.png"
       },
@@ -565,7 +565,7 @@
       "explanation": "Ted is responsible because he feeds the hen when it is hungry.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/2.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/2.png"
       },
@@ -600,7 +600,7 @@
       "explanation": "After eating, 'Hen is happy.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/2.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/2.png"
       },
@@ -635,7 +635,7 @@
       "explanation": "The last line of the story says 'Ted is happy.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/2.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/2.png"
       },
@@ -670,7 +670,7 @@
       "explanation": "The past tense of feed is fed.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/2.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/2.png"
       },
@@ -705,7 +705,7 @@
       "explanation": "The past tense of eat is ate.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/2.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/2.png"
       },
@@ -740,7 +740,7 @@
       "explanation": "The story begins with 'Ed is a vet.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/3.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/3.png"
       },
@@ -775,7 +775,7 @@
       "explanation": "The story says 'He can help pets,' so Ed is a vet who helps pets.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/3.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/3.png"
       },
@@ -810,7 +810,7 @@
       "explanation": "The story says 'Ed sees a hen.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/3.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/3.png"
       },
@@ -845,7 +845,7 @@
       "explanation": "The story says 'The hen is sad.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/3.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/3.png"
       },
@@ -880,7 +880,7 @@
       "explanation": "The story says 'The hen is not well.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/3.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/3.png"
       },
@@ -915,7 +915,7 @@
       "explanation": "The story says Ed will help the hen, which is sad and unwell.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/3.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/3.png"
       },
@@ -950,7 +950,7 @@
       "explanation": "Ed is mentioned 4 times in the story: 'Ed is a vet,' 'Ed sees a hen,' 'Ed will help the hen' (twice).",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/3.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/3.png"
       },
@@ -985,7 +985,7 @@
       "explanation": "A vet (veterinarian) is a doctor who treats animals.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/3.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/3.png"
       },
@@ -1020,7 +1020,7 @@
       "explanation": "The past tense of see is saw.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/3.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/3.png"
       },
@@ -1055,7 +1055,7 @@
       "explanation": "At the end of the story, 'Now, the hen is well!'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/3.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/3.png"
       },
@@ -1090,7 +1090,7 @@
       "explanation": "The very first line says 'Meg sells eggs.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/4.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/4.png"
       },
@@ -1125,7 +1125,7 @@
       "explanation": "The story says 'Ted sees ten eggs.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/4.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/4.png"
       },
@@ -1160,7 +1160,7 @@
       "explanation": "Meg replies to Ted with 'Yes, you bet!'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/4.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/4.png"
       },
@@ -1195,7 +1195,7 @@
       "explanation": "The story says 'Meg is happy with her ten cents.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/4.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/4.png"
       },
@@ -1230,7 +1230,7 @@
       "explanation": "Ted asks 'Can I get ten eggs?' showing he wanted to buy ten eggs.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/4.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/4.png"
       },
@@ -1265,7 +1265,7 @@
       "explanation": "Ted says 'Thank you!' to show appreciation, just as we do in real life.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/4.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/4.png"
       },
@@ -1300,7 +1300,7 @@
       "explanation": "Hens (chickens) lay eggs, which is why Meg sells hen eggs.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/4.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/4.png"
       },
@@ -1335,7 +1335,7 @@
       "explanation": "Meg is happy with her ten cents, so the ten eggs cost ten cents.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/4.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/4.png"
       },
@@ -1370,7 +1370,7 @@
       "explanation": "A cent is a small unit of money. Meg received ten cents for the eggs.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/4.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/4.png"
       },
@@ -1405,7 +1405,7 @@
       "explanation": "The singular form of eggs is egg.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/4.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/4.png"
       },
@@ -1440,7 +1440,7 @@
       "explanation": "The story says 'Ted has a web.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/5.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/5.png"
       },
@@ -1475,7 +1475,7 @@
       "explanation": "The story says 'Ted rests in his web.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/5.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/5.png"
       },
@@ -1510,7 +1510,7 @@
       "explanation": "The story says 'Ted gets ten red bugs in his web.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/5.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/5.png"
       },
@@ -1545,7 +1545,7 @@
       "explanation": "The story says 'Ted gets ten red bugs in his web.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/5.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/5.png"
       },
@@ -1580,7 +1580,7 @@
       "explanation": "He lets ten red bugs get into his web, and then catches them to eat.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/5.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/5.png"
       },
@@ -1615,7 +1615,7 @@
       "explanation": "Fed means given food. Ted will get fed well means he will be well given food.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/5.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/5.png"
       },
@@ -1650,7 +1650,7 @@
       "explanation": "A pet is a domesticated animal kept at home. Another name for pet is animal.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/5.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/5.png"
       },
@@ -1685,7 +1685,7 @@
       "explanation": "A pet is a domesticated animal. The word animal is another name for pet.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/5.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/5.png"
       },
@@ -1720,7 +1720,7 @@
       "explanation": "Fed is the past tense; the present tense is feed.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/5.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/5.png"
       },
@@ -1755,7 +1755,7 @@
       "explanation": "The plural of spider is spiders. We add -s to make it plural.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/5.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/5.png"
       },
@@ -1790,7 +1790,7 @@
       "explanation": "The story begins with 'Eve sees a jet.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/6.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/6.png"
       },
@@ -1825,7 +1825,7 @@
       "explanation": "The story says 'The jet is red.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/6.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/6.png"
       },
@@ -1860,7 +1860,7 @@
       "explanation": "Eve tells Ben 'See the jet!' when she spots it.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/6.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/6.png"
       },
@@ -1895,7 +1895,7 @@
       "explanation": "The story says 'Eve and Ben get in the jet.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/6.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/6.png"
       },
@@ -1930,7 +1930,7 @@
       "explanation": "The plural of jet is jets. We add -s to make it plural.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/6.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/6.png"
       },
@@ -1965,7 +1965,7 @@
       "explanation": "The story says 'They sit on a red seat.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/6.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/6.png"
       },
@@ -2000,7 +2000,7 @@
       "explanation": "At the end, Eve exclaims 'Best!' to show how happy and excited she is.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/6.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/6.png"
       },
@@ -2035,7 +2035,7 @@
       "explanation": "Got is the past tense of get. The present tense form related here is get/go — the answer the worksheet indicates is go.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/6.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/6.png"
       },
@@ -2070,7 +2070,7 @@
       "explanation": "The past tense of tell is told.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/6.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/6.png"
       },
@@ -2105,7 +2105,7 @@
       "explanation": "The past tense of say is said.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/6.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/6.png"
       },
@@ -2140,7 +2140,7 @@
       "explanation": "The story begins with 'Eve fell. Eve hit her leg.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/7.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/7.png"
       },
@@ -2175,7 +2175,7 @@
       "explanation": "The story says 'Eve hit her leg.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/7.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/7.png"
       },
@@ -2210,7 +2210,7 @@
       "explanation": "The story says 'Ben helps Eve get up.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/7.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/7.png"
       },
@@ -2245,7 +2245,7 @@
       "explanation": "The story says 'Her leg is red.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/7.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/7.png"
       },
@@ -2280,7 +2280,7 @@
       "explanation": "Ben says 'See the vet,' and they both go to the vet.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/7.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/7.png"
       },
@@ -2315,7 +2315,7 @@
       "explanation": "The vet tells Eve to 'Rest,' so that her leg can heal.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/7.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/7.png"
       },
@@ -2350,7 +2350,7 @@
       "explanation": "The story says 'The vet checks Eve's leg.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/7.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/7.png"
       },
@@ -2385,7 +2385,7 @@
       "explanation": "After resting, 'Eve feels better' and they go on to play.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/7.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/7.png"
       },
@@ -2420,7 +2420,7 @@
       "explanation": "The past tense of play is played.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/7.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/7.png"
       },
@@ -2455,7 +2455,7 @@
       "explanation": "Counting all appearances of 'Eve' in the story, her name is mentioned 11 times.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/7.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/7.png"
       },
@@ -2490,7 +2490,7 @@
       "explanation": "The story begins with 'Ted sees Beth.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/8.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/8.png"
       },
@@ -2525,7 +2525,7 @@
       "explanation": "The story says 'They go to the sea and see the wet sand.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/8.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/8.png"
       },
@@ -2560,7 +2560,7 @@
       "explanation": "The story says 'They go to the sea and see the wet sand.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/8.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/8.png"
       },
@@ -2595,7 +2595,7 @@
       "explanation": "The story says 'They step in the sea and feel the waves.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/8.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/8.png"
       },
@@ -2630,7 +2630,7 @@
       "explanation": "The story says 'They step in the sea and feel the waves.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/8.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/8.png"
       },
@@ -2665,7 +2665,7 @@
       "explanation": "The story says 'Ted sees a shell.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/8.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/8.png"
       },
@@ -2700,7 +2700,7 @@
       "explanation": "Beth says 'I will get ten shells,' and Ted helps her collect them.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/8.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/8.png"
       },
@@ -2735,7 +2735,7 @@
       "explanation": "Ted sees the red shell, and Beth gets it — so Beth is the one who ends up with the red shell.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/8.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/8.png"
       },
@@ -2770,7 +2770,7 @@
       "explanation": "The story says 'Ted and Beth feel well at the sea.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/8.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/8.png"
       },
@@ -2805,7 +2805,7 @@
       "explanation": "The story says 'Ted and Beth collect ten red shells.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/8.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/8.png"
       },
@@ -2840,7 +2840,7 @@
       "explanation": "The story begins with 'Ted sees a red bee.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/9.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/9.png"
       },
@@ -2875,7 +2875,7 @@
       "explanation": "The story says 'Ben sees ten red bees.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/9.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/9.png"
       },
@@ -2910,7 +2910,7 @@
       "explanation": "The story says 'Beth sees ten beetles.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/9.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/9.png"
       },
@@ -2945,7 +2945,7 @@
       "explanation": "Feed means to eat or give food. Another word for feed is eat.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/9.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/9.png"
       },
@@ -2980,7 +2980,7 @@
       "explanation": "Flee means to run away or escape. Another word for flee is go away.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/9.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/9.png"
       },
@@ -3015,7 +3015,7 @@
       "explanation": "At the end of the story, 'Beth feels sad' because the beetles are gone.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/9.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/9.png"
       },
@@ -3050,7 +3050,7 @@
       "explanation": "There are three human characters: Ted, Ben, and Beth.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/9.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/9.png"
       },
@@ -3085,7 +3085,7 @@
       "explanation": "The story says 'Ted sees a red bee' and 'Ben sees ten red bees.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/9.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/9.png"
       },
@@ -3120,7 +3120,7 @@
       "explanation": "The past tense of feed is fed.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/9.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/9.png"
       },
@@ -3155,7 +3155,7 @@
       "explanation": "The past tense of see is saw.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/9.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/9.png"
       },
@@ -3190,7 +3190,7 @@
       "explanation": "The story begins with 'Jen is a red hen.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/10.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/10.png"
       },
@@ -3225,7 +3225,7 @@
       "explanation": "The story says 'Jen sees Ted.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/10.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/10.png"
       },
@@ -3260,7 +3260,7 @@
       "explanation": "The story says 'Ted has a red bed.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/10.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/10.png"
       },
@@ -3295,7 +3295,7 @@
       "explanation": "The story says 'Jen has ten eggs.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/10.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/10.png"
       },
@@ -3330,7 +3330,7 @@
       "explanation": "The story says 'Then, Jen sits on the ten eggs.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/10.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/10.png"
       },
@@ -3365,7 +3365,7 @@
       "explanation": "The story says 'Jen and Ted rest next to the bed.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/10.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/10.png"
       },
@@ -3400,7 +3400,7 @@
       "explanation": "The story says 'Jen and Ted rest next to the bed.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/10.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/10.png"
       },
@@ -3435,7 +3435,7 @@
       "explanation": "The story says 'Jen is a red hen.'",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/10.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/10.png"
       },
@@ -3470,7 +3470,7 @@
       "explanation": "The past tense of have is had.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/10.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/10.png"
       },
@@ -3505,7 +3505,7 @@
       "explanation": "Nine comes before ten when counting numbers.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/english/leve1-eng-vowels-e/10.webp",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
         "alt": "",
         "source_path": "../../../image/leve1_eng_vowels_E/10.png"
       },

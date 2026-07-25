@@ -8,7 +8,7 @@
   "quiz_type": "tap_select",
   "questions_per_attempt": 25,
   "total_questions": 100,
-  "shuffle": true,
+  "shuffle": "question",
   "is_free": false,
   "order_index": 0,
   "questions": [
@@ -2709,8 +2709,8 @@
       "explanation": "Look at the box: the 🐱 is outside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/out_box_00.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/out_box_00.webp",
+        "alt": "Out box 00",
         "source_path": "../../image/kg3_math/position/out_box_00.png"
       },
       "order_index": 85
@@ -2740,8 +2740,8 @@
       "explanation": "Look at the box: the 🐱 is inside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/in_box_01.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/in_box_01.webp",
+        "alt": "In box 01",
         "source_path": "../../image/kg3_math/position/in_box_01.png"
       },
       "order_index": 86
@@ -2771,8 +2771,8 @@
       "explanation": "Look at the box: the 🐭 is outside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/out_box_02.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/out_box_02.webp",
+        "alt": "Out box 02",
         "source_path": "../../image/kg3_math/position/out_box_02.png"
       },
       "order_index": 87
@@ -2802,8 +2802,8 @@
       "explanation": "Look at the box: the 🐶 is inside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/in_box_03.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/in_box_03.webp",
+        "alt": "In box 03",
         "source_path": "../../image/kg3_math/position/in_box_03.png"
       },
       "order_index": 88
@@ -2833,8 +2833,8 @@
       "explanation": "Look at the box: the 🐥 is outside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/out_box_04.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/out_box_04.webp",
+        "alt": "Out box 04",
         "source_path": "../../image/kg3_math/position/out_box_04.png"
       },
       "order_index": 89
@@ -2864,8 +2864,8 @@
       "explanation": "Look at the box: the 🐶 is outside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/out_box_05.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/out_box_05.webp",
+        "alt": "Out box 05",
         "source_path": "../../image/kg3_math/position/out_box_05.png"
       },
       "order_index": 90
@@ -2895,8 +2895,8 @@
       "explanation": "Look at the box: the 🐥 is inside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/in_box_06.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/in_box_06.webp",
+        "alt": "In box 06",
         "source_path": "../../image/kg3_math/position/in_box_06.png"
       },
       "order_index": 91
@@ -2926,8 +2926,8 @@
       "explanation": "Look at the box: the 🐱 is inside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/in_box_07.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/in_box_07.webp",
+        "alt": "In box 07",
         "source_path": "../../image/kg3_math/position/in_box_07.png"
       },
       "order_index": 92
@@ -2957,8 +2957,8 @@
       "explanation": "Look at the box: the 🐱 is inside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/in_box_08.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/in_box_08.webp",
+        "alt": "In box 08",
         "source_path": "../../image/kg3_math/position/in_box_08.png"
       },
       "order_index": 93
@@ -2988,8 +2988,8 @@
       "explanation": "Look at the box: the 🐱 is inside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/in_box_09.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/in_box_09.webp",
+        "alt": "In box 09",
         "source_path": "../../image/kg3_math/position/in_box_09.png"
       },
       "order_index": 94
@@ -3019,8 +3019,8 @@
       "explanation": "Look at the box: the 🐸 is outside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/out_box_10.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/out_box_10.webp",
+        "alt": "Out box 10",
         "source_path": "../../image/kg3_math/position/out_box_10.png"
       },
       "order_index": 95
@@ -3050,8 +3050,8 @@
       "explanation": "Look at the box: the 🐭 is inside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/in_box_11.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/in_box_11.webp",
+        "alt": "In box 11",
         "source_path": "../../image/kg3_math/position/in_box_11.png"
       },
       "order_index": 96
@@ -3081,8 +3081,8 @@
       "explanation": "Look at the box: the 🐸 is inside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/in_box_12.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/in_box_12.webp",
+        "alt": "In box 12",
         "source_path": "../../image/kg3_math/position/in_box_12.png"
       },
       "order_index": 97
@@ -3112,8 +3112,8 @@
       "explanation": "Look at the box: the 🐸 is inside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/in_box_13.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/in_box_13.webp",
+        "alt": "In box 13",
         "source_path": "../../image/kg3_math/position/in_box_13.png"
       },
       "order_index": 98
@@ -3143,8 +3143,8 @@
       "explanation": "Look at the box: the 🐸 is inside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/in_box_14.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/in_box_14.webp",
+        "alt": "In box 14",
         "source_path": "../../image/kg3_math/position/in_box_14.png"
       },
       "order_index": 99
@@ -3174,8 +3174,8 @@
       "explanation": "Look at the box: the 🐰 is outside the box.",
       "media": {
         "kind": "image",
-        "path": "questions/kg3/math/math-position/out_box_15.webp",
-        "alt": "",
+        "path": "questions/kg3/math/position/out_box_15.webp",
+        "alt": "Out box 15",
         "source_path": "../../image/kg3_math/position/out_box_15.png"
       },
       "order_index": 100

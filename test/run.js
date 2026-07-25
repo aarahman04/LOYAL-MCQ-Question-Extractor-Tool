@@ -286,7 +286,7 @@ function noErrors(t, label) {
   ok(q.correct_answer === undefined, "v2 mcq: no correct_answer field");
   ok(!JSON.stringify(q.options).includes("brown\",\"correct"), "v2 mcq: options carry no answer marker");
   eq(t.data.quiz_type, "mcq", "v2 mcq: exercise quiz_type");
-  eq(t.data.shuffle, true, "v2 mcq: shuffle true");
+  eq(t.data.shuffle, "question", "v2 mcq: shuffle enum defaults to \"question\"");
   noErrors(t, "v2 mcq: validation clean");
 })();
 
@@ -380,7 +380,7 @@ function noErrors(t, label) {
     initMCQQuiz(questions);</script></body></html>`, "level_1_eng_imgs.html", { level:"level-1", subject:"english" });
   const m = t.data.questions[0].media;
   eq(m.kind, "image", "v2 media: kind");
-  eq(m.path, "questions/level-1/english/eng-imgs/1.webp", "v2 media: storage path, .webp, no URL");
+  eq(m.path, "questions/shared/set/1.webp", "v2 media: path derives from the SOURCE path (dedupe), .webp, no URL");
   eq(m.source_path, "../../image/set/1.png", "v2 media: source_path preserved for migration");
   eq(m.alt, "", "v2 media: alt left empty, never invented");
   eq(t.report.imagesMissingAlt, 1, "v2 media: missing-alt counted");
@@ -403,8 +403,9 @@ function noErrors(t, label) {
   ok(/Ted gets a pen/.test(t.data.passages[0].text), "v2 rc: passage text extracted");
   eq(t.data.questions[0].prompt, "Question 1?", "v2 rc: prompt stripped of passage AND leading number");
   eq(t.data.questions[0].passage_id, "p1", "v2 rc: question linked by passage_id");
-  eq(t.data.shuffle, false, "v2 rc: shuffle false");
-  eq(t.data.questions_per_attempt, t.data.total_questions, "v2 rc: per_attempt == total");
+  eq(t.data.shuffle, "group", "v2 rc: shuffle enum is \"group\"");
+  eq(t.data.questions_per_attempt, Math.min(25, t.data.total_questions),
+    "v2 rc: normal attempt length (not the whole set), engine rounds to whole passages");
 })();
 
 // ---- title review heuristics ----
@@ -421,6 +422,48 @@ function noErrors(t, label) {
   eq(transform.sizeToken(2.0), "md", "v2 size: 2.0rem -> md");
   eq(transform.sizeToken(2.4), "lg", "v2 size: 2.4rem -> lg");
   eq(transform.sizeToken(3.6), "xl", "v2 size: 3.6rem -> xl");
+})();
+
+
+// ---- shuffle enum + group semantics ----
+(function () {
+  const t = v2(`<html><body><script>const questions=[{question:"Q",options:["a","b"],correct:"a"}];
+    initMCQQuiz(questions);</script></body></html>`, "level_1_x.html");
+  eq(t.data.shuffle, "question", "shuffle enum: plain exercise -> 'question'");
+})();
+
+// ---- image storage paths dedupe across exercises ----
+(function () {
+  const mk = (name) => v2(`<html><body><script>const questions=[
+    {question:"Q",options:["a","b"],correct:"a",image:"../../image/level_1_math/number_line_1_to_50.jpg"}];
+    initMCQQuiz(questions);</script></body></html>`, name,
+    { detectLevel: core.detectLevel, detectSubject: core.detectSubject });
+  const a = mk("level_1_number_line_upto_30.html").data.questions[0].media.path;
+  const b = mk("level_1_number_line_upto_50.html").data.questions[0].media.path;
+  eq(a, b, "media dedupe: same source file -> identical storage path across exercises");
+  eq(a, "questions/level-1/math/level_1_math/number_line_1_to_50.webp", "media dedupe: path shape");
+})();
+
+// ---- alt text derived from descriptive filenames only ----
+(function () {
+  const alt = (img) => v2(`<html><body><script>const questions=[
+    {question:"Q",options:["a","b"],correct:"a",image:${JSON.stringify(img)}}];
+    initMCQQuiz(questions);</script></body></html>`, "level_1_eng_x.html").data.questions[0].media.alt;
+  eq(alt("../img/Identify level 1 eng/Big Bear.png"), "Big Bear", "alt: descriptive filename -> alt text");
+  eq(alt("../img/set/6 eggs.png"), "6 eggs", "alt: keeps leading number when words follow");
+  eq(alt("../img/set/105.png"), "", "alt: numeric filename -> empty, never invented");
+  eq(alt("../img/set/image1.png"), "", "alt: generic imageN -> empty");
+  eq(alt("../img/set/lvl_1_eng_identify_image_verbs(3).jpg"), "", "alt: exercise slug -> empty, not a description");
+})();
+
+// ---- validation rejects a bad shuffle value / group without passages ----
+(function () {
+  const errs = [];
+  transform.validateExercise({ shuffle: "sometimes", total_questions: 0, questions_per_attempt: 0, questions: [] }, errs);
+  ok(errs.some((e) => /shuffle must be one of/.test(e)), "validation: unknown shuffle value rejected");
+  const errs2 = [];
+  transform.validateExercise({ shuffle: "group", total_questions: 0, questions_per_attempt: 0, questions: [] }, errs2);
+  ok(errs2.some((e) => /requires a passages array/.test(e)), "validation: shuffle 'group' needs passages");
 })();
 
 console.log("\n" + (failed ? "\x1b[31m" : "\x1b[32m") + passed + " passed, " + failed + " failed\x1b[0m\n");

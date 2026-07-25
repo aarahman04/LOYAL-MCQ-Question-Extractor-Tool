@@ -8,7 +8,7 @@
   "quiz_type": "mcq",
   "questions_per_attempt": 25,
   "total_questions": 110,
-  "shuffle": true,
+  "shuffle": "question",
   "is_free": false,
   "order_index": 0,
   "questions": [
@@ -40,7 +40,7 @@
       "explanation": "The correct answer is planet Earth.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image1.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image1.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image1.png"
       },
@@ -74,7 +74,7 @@
       "explanation": "The correct answer is water.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image1.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image1.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image1.png"
       },
@@ -108,7 +108,7 @@
       "explanation": "The correct answer is land.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image1.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image1.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image1.png"
       },
@@ -142,7 +142,7 @@
       "explanation": "The correct answer is 5 oceans.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image1.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image1.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image1.png"
       },
@@ -176,7 +176,7 @@
       "explanation": "The correct answer is 7 continents.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image1.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image1.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image1.png"
       },
@@ -210,7 +210,7 @@
       "explanation": "The correct answer is planet Mars.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image2.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
       },
@@ -244,7 +244,7 @@
       "explanation": "The correct answer is the red planet.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image2.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
       },
@@ -278,7 +278,7 @@
       "explanation": "The correct answer is two.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image2.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
       },
@@ -312,7 +312,7 @@
       "explanation": "The correct answer is cold.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image2.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
       },
@@ -346,7 +346,7 @@
       "explanation": "The correct answer is dust and rocks.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image2.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
       },
@@ -380,7 +380,7 @@
       "explanation": "The correct answer is volcano.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image2.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
       },
@@ -414,7 +414,7 @@
       "explanation": "The correct answer is water.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image2.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
       },
@@ -448,7 +448,7 @@
       "explanation": "The correct answer is robots.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image2.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
       },
@@ -482,7 +482,7 @@
       "explanation": "The correct answer is visit.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image2.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
       },
@@ -516,7 +516,7 @@
       "explanation": "The correct answer is rocky planet.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image2.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
       },
@@ -550,7 +550,7 @@
       "explanation": "The correct answer is camel.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image3.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
       },
@@ -584,7 +584,7 @@
       "explanation": "The correct answer is desert.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image3.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
       },
@@ -618,7 +618,7 @@
       "explanation": "The correct answer is a long time.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image3.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
       },
@@ -652,7 +652,7 @@
       "explanation": "The correct answer is fat.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image3.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
       },
@@ -686,7 +686,7 @@
       "explanation": "The correct answer is to keep sand out.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image3.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
       },
@@ -720,7 +720,7 @@
       "explanation": "The correct answer is wide feet.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image3.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
       },
@@ -754,7 +754,7 @@
       "explanation": "The correct answer is plants and grass.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image3.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
       },
@@ -788,7 +788,7 @@
       "explanation": "The correct answer is calf.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image3.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
       },
@@ -822,7 +822,7 @@
       "explanation": "The correct answer is a lot of water.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image3.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
       },
@@ -856,7 +856,7 @@
       "explanation": "The correct answer is to carry heavy loads.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image3.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
       },
@@ -890,7 +890,7 @@
       "explanation": "The correct answer is elephant.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -924,7 +924,7 @@
       "explanation": "The correct answer is savanna and forest.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -958,7 +958,7 @@
       "explanation": "The correct answer is eating and drinking.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -992,7 +992,7 @@
       "explanation": "The correct answer is plants and grass.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -1026,7 +1026,7 @@
       "explanation": "The correct answer is large animals.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -1060,7 +1060,7 @@
       "explanation": "The correct answer is calf.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -1094,7 +1094,7 @@
       "explanation": "The correct answer is big ears.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -1128,7 +1128,7 @@
       "explanation": "The correct answer is to keep cool.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -1162,7 +1162,7 @@
       "explanation": "The correct answer is herds.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -1196,7 +1196,7 @@
       "explanation": "The correct answer is dig and protect.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -1230,7 +1230,7 @@
       "explanation": "The correct answer is strong memory.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -1264,7 +1264,7 @@
       "explanation": "The correct answer is four.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -1298,7 +1298,7 @@
       "explanation": "The correct answer is communicate with sounds.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -1332,7 +1332,7 @@
       "explanation": "The correct answer is mammals.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -1366,7 +1366,7 @@
       "explanation": "The correct answer is water.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image4.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
       },
@@ -1400,7 +1400,7 @@
       "explanation": "The correct answer is lion.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1434,7 +1434,7 @@
       "explanation": "The correct answer is savanna.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1468,7 +1468,7 @@
       "explanation": "The correct answer is mane.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1502,7 +1502,7 @@
       "explanation": "The correct answer is meat.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1536,7 +1536,7 @@
       "explanation": "The correct answer is cub.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1570,7 +1570,7 @@
       "explanation": "The correct answer is prides.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1604,7 +1604,7 @@
       "explanation": "The correct answer is carnivores.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1638,7 +1638,7 @@
       "explanation": "The correct answer is lioness.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1672,7 +1672,7 @@
       "explanation": "The correct answer is in grass or dens.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1706,7 +1706,7 @@
       "explanation": "The correct answer is four.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1740,7 +1740,7 @@
       "explanation": "The correct answer is to communicate.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1774,7 +1774,7 @@
       "explanation": "The correct answer is king of the jungle.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1808,7 +1808,7 @@
       "explanation": "The correct answer is golden brown.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1842,7 +1842,7 @@
       "explanation": "The correct answer is claws and teeth.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1876,7 +1876,7 @@
       "explanation": "The correct answer is Africa.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image5.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
       },
@@ -1910,7 +1910,7 @@
       "explanation": "The correct answer is rabbit.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -1944,7 +1944,7 @@
       "explanation": "The correct answer is burrows.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -1978,7 +1978,7 @@
       "explanation": "The correct answer is plants and carrots.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -2012,7 +2012,7 @@
       "explanation": "The correct answer is kit.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -2046,7 +2046,7 @@
       "explanation": "The correct answer is herbivore.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -2080,7 +2080,7 @@
       "explanation": "The correct answer is long ears.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -2114,7 +2114,7 @@
       "explanation": "The correct answer is four.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -2148,7 +2148,7 @@
       "explanation": "The correct answer is fur.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -2182,7 +2182,7 @@
       "explanation": "The correct answer is hopping.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -2216,7 +2216,7 @@
       "explanation": "The correct answer is burrows.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -2250,7 +2250,7 @@
       "explanation": "The correct answer is eating plants.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -2284,7 +2284,7 @@
       "explanation": "The correct answer is many colors.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -2318,7 +2318,7 @@
       "explanation": "The correct answer is very fast.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -2352,7 +2352,7 @@
       "explanation": "The correct answer is jumping.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -2386,7 +2386,7 @@
       "explanation": "The correct answer is they have fur and drink milk from their mothers.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image6.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
       },
@@ -2420,7 +2420,7 @@
       "explanation": "The correct answer is kangaroo.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2454,7 +2454,7 @@
       "explanation": "The correct answer is Australia.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2488,7 +2488,7 @@
       "explanation": "The correct answer is hop.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2522,7 +2522,7 @@
       "explanation": "The correct answer is joey.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2556,7 +2556,7 @@
       "explanation": "The correct answer is in a pouch.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2590,7 +2590,7 @@
       "explanation": "The correct answer is plants and grass.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2624,7 +2624,7 @@
       "explanation": "The correct answer is herbivores.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2658,7 +2658,7 @@
       "explanation": "The correct answer is tail.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2692,7 +2692,7 @@
       "explanation": "The correct answer is four.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2726,7 +2726,7 @@
       "explanation": "The correct answer is back legs.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2760,7 +2760,7 @@
       "explanation": "The correct answer is fur.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2794,7 +2794,7 @@
       "explanation": "The correct answer is they have fur and feed milk to their babies.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2828,7 +2828,7 @@
       "explanation": "The correct answer is high and far.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2862,7 +2862,7 @@
       "explanation": "The correct answer is mob.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2896,7 +2896,7 @@
       "explanation": "The correct answer is at night.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image7.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
       },
@@ -2930,7 +2930,7 @@
       "explanation": "The correct answer is giraffe.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -2964,7 +2964,7 @@
       "explanation": "The correct answer is savanna.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -2998,7 +2998,7 @@
       "explanation": "The correct answer is leaves.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -3032,7 +3032,7 @@
       "explanation": "The correct answer is it is very long.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -3066,7 +3066,7 @@
       "explanation": "The correct answer is four.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -3100,7 +3100,7 @@
       "explanation": "The correct answer is fur with spots.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -3134,7 +3134,7 @@
       "explanation": "The correct answer is herbivore.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -3168,7 +3168,7 @@
       "explanation": "The correct answer is reaching high leaves.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -3202,7 +3202,7 @@
       "explanation": "The correct answer is calf.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -3236,7 +3236,7 @@
       "explanation": "The correct answer is by spreading their legs.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -3270,7 +3270,7 @@
       "explanation": "The correct answer is yellowish brown with spots.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -3304,7 +3304,7 @@
       "explanation": "The correct answer is on tall trees.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -3338,7 +3338,7 @@
       "explanation": "The correct answer is small horn like knobs.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -3372,7 +3372,7 @@
       "explanation": "The correct answer is they have fur and feed milk to their babies.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -3406,7 +3406,7 @@
       "explanation": "The correct answer is herds.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image8.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
       },
@@ -3440,7 +3440,7 @@
       "explanation": "The correct answer is monkey.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image9.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
       },
@@ -3474,7 +3474,7 @@
       "explanation": "The correct answer is jungle.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image9.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
       },
@@ -3508,7 +3508,7 @@
       "explanation": "The correct answer is bananas and fruits.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image9.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
       },
@@ -3542,7 +3542,7 @@
       "explanation": "The correct answer is by climbing and swinging.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image9.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
       },
@@ -3576,7 +3576,7 @@
       "explanation": "The correct answer is fur.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image9.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
       },
@@ -3610,7 +3610,7 @@
       "explanation": "The correct answer is four.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image9.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
       },
@@ -3644,7 +3644,7 @@
       "explanation": "The correct answer is hands and feet.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image9.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
       },
@@ -3678,7 +3678,7 @@
       "explanation": "The correct answer is infant.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image9.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
       },
@@ -3712,7 +3712,7 @@
       "explanation": "The correct answer is balancing.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image9.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
       },
@@ -3746,7 +3746,7 @@
       "explanation": "The correct answer is in trees.",
       "media": {
         "kind": "image",
-        "path": "questions/level-1/science/sci-critical-thinking1/image9.webp",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
         "alt": "",
         "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
       },

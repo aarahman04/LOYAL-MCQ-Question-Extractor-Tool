@@ -95,6 +95,7 @@ function parseArgs(argv) {
     if (a === "-o" || a === "--out") args.out = argv[++i];
     else if (a === "--strip-html") args.stripHtml = true;
     else if (a === "--no-pretty") args.pretty = false;
+    else if (a === "--no-alt") args.noAlt = true;
     else if (a === "--format") args.format = String(argv[++i] || "").toLowerCase();
     else if (a === "--v1" || a === "--legacy") args.format = "v1";
     else if (a === "-h" || a === "--help") args.help = true;
@@ -116,6 +117,7 @@ Options:
   --v1, --legacy      Shorthand for --format v1
   --strip-html        Strip inline HTML (e.g. <strong>) from MCQ/audio prompts
                       (v1 only; default: preserve)
+  --no-alt            Do not derive alt text from image filenames
   --no-pretty         Write minified JSON (default: pretty-printed)
   -h, --help          Show this help
 
@@ -172,7 +174,7 @@ function main() {
   // v2 aggregate report
   const agg = {
     validationFailures: [], biased: [], titleReview: [], readingSets: [],
-    passageDrift: [], sizeWarnings: [], images: 0, imagesMissingAlt: 0,
+    passageDrift: [], sizeWarnings: [], images: 0, imagesMissingAlt: 0, imagesAltDerived: 0,
   };
 
   // Level/subject come from the folder structure (Problem 7). The directory
@@ -248,6 +250,11 @@ function main() {
         subject: meta.subject,
         sourceFile: path.basename(file),
         extractedAt,
+        // image storage paths derive from the image's own source path so a
+        // reused file always maps to one object (one upload, many references)
+        detectLevel: core.detectLevel,
+        detectSubject: core.detectSubject,
+        deriveAlt: !args.noAlt,
       });
       payload = t.data;
       rep = t.report;
@@ -264,12 +271,14 @@ function main() {
       }
       if (rep.titleNeedsReview) agg.titleReview.push({ slug: result.meta.slug, title: result.meta.title });
       if (rep.readingComprehension) {
-        agg.readingSets.push({ slug: result.meta.slug, ...rep.readingComprehension });
+        agg.readingSets.push({ slug: result.meta.slug, shuffle: payload.shuffle,
+          per_attempt: payload.questions_per_attempt, ...rep.readingComprehension });
       }
       agg.passageDrift.push(...rep.passageDrift);
       agg.sizeWarnings.push(...rep.sizeWarnings);
       agg.images += rep.imagesTotal;
       agg.imagesMissingAlt += rep.imagesMissingAlt;
+      agg.imagesAltDerived += rep.imagesAltDerived;
     }
     fs.writeFileSync(outPath, JSON.stringify(payload, null, args.pretty ? 2 : 0));
 
@@ -367,7 +376,9 @@ function main() {
     if (!agg.readingSets.length) console.log(c(C.dim, "  none detected"));
     else {
       for (const r of agg.readingSets) {
-        console.log(c(C.cyan, `  • ${r.slug}`) + c(C.dim, ` — ${r.passages} passage(s) lifted out of ${r.questions} prompts; shuffle:false`));
+        console.log(c(C.cyan, `  • ${r.slug}`) +
+          c(C.dim, ` — ${r.passages} passage(s) lifted out of ${r.questions} prompts;`) +
+          c(C.dim, ` shuffle:"${r.shuffle}", ${r.per_attempt}/attempt (rounds up to whole passages)`));
       }
       if (agg.passageDrift.length) {
         console.log(c(C.yellow, `  ⚠ ${agg.passageDrift.length} passage(s) had drifted copies — longest variant kept as canonical:`));
@@ -378,8 +389,10 @@ function main() {
     }
 
     head("Images");
-    console.log(c(C.dim, `  ${agg.images} image(s) mapped to storage paths`) +
-      (agg.imagesMissingAlt ? c(C.yellow, `   ⚠ ${agg.imagesMissingAlt} missing alt text (left empty, needs authoring)`) : ""));
+    console.log(c(C.dim, `  ${agg.images} reference(s) mapped to storage paths`));
+    console.log(c(C.dim, `  alt text: `) + c(C.green, `${agg.imagesAltDerived} derived from filename`) + c(C.dim, "  ·  ") +
+      (agg.imagesMissingAlt ? c(C.yellow, `${agg.imagesMissingAlt} still empty (numeric/slug filenames — need a vision pass)`) : c(C.green, "0 empty")));
+    console.log(c(C.dim, `  run  node audit-images.js <source-repo> ${args.out}  to resolve references against real files`));
 
     head("Titles flagged for review");
     if (!agg.titleReview.length) console.log(c(C.green, "  ✓ none"));

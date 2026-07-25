@@ -120,12 +120,37 @@ so letter IDs would collide with displayed content and defeat leak detection.
 the original for the image-conversion step. `alt` is left `""` — never invented —
 and the count of missing alt text is reported.
 
+**`shuffle`** is an enum, not a boolean:
+
+| value | meaning |
+|---|---|
+| `question` | default — draw individual questions at random |
+| `group` | draw whole passage groups at random, preserving question order inside each group |
+| `none` | fixed order |
+
+Under `group` the engine adds whole groups until it reaches or just exceeds
+`questions_per_attempt`, so a child always gets **complete** passages — never a
+slice — with different ones on each retake.
+
 **Reading comprehension**: when a large block of prompt text repeats across
 questions, the passages are lifted to an exercise-level `passages:[{id,text}]`
 array, each question keeps a `passage_id`, prompts are stripped of the passage
-and the leading question number, and `shuffle` becomes `false` with
-`questions_per_attempt == total_questions`. Where copies had drifted, the
-*longest* variant becomes canonical and the drift is reported.
+and the leading question number, and the exercise becomes `shuffle: "group"`
+with the normal 25-question attempt. Where copies had drifted, the *longest*
+variant becomes canonical and the drift is reported.
+
+**Image dedupe**: the storage path is a pure function of the image's own source
+path, so a file reused by many questions (or many exercises) always maps to one
+object — the upload script uploads each unique file **once** and many questions
+point at the same path. In this corpus that is 2,151 references → 803 unique
+objects.
+
+**Alt text** is derived from the filename only when the filename is genuinely
+descriptive (`Big Bear.png` → `"Big Bear"`). Bare numbers (`105.png`), generic
+placeholders (`image1.png`) and exercise slugs
+(`lvl_1_eng_identify_image_verbs(3).jpg`) yield `""` — a wrong description is
+worse than none for a screen reader. Pass `--no-alt` to disable. The report
+prints derived vs still-empty counts.
 
 ### Legacy format
 
@@ -145,6 +170,28 @@ process exits non-zero.
 The end-of-run report covers: files processed, questions converted, per-type
 counts, validation failures, answer-position warnings, images missing alt text,
 titles flagged for review, and reading-comprehension sets.
+
+Validation failures do **not** abort the run — every file is processed and the
+failures are listed at the end (exit code 3), so all content bugs can be fixed
+in one pass.
+
+---
+
+## Image audit (`audit-images.js`)
+
+Resolves every image reference against the real files in the source repo, so
+broken references surface now rather than when a child sees a missing image.
+
+```bash
+node audit-images.js /path/to/NEW_LOYAL_QUIZ output [--json report.json]
+```
+
+Reports unique files vs total references (reuse factor), how each reference
+resolved, references that resolve to nothing, references whose path is wrong but
+where a same-named file exists elsewhere (**ambiguous** — needs a human to pick),
+most-reused files, upload implications (unique objects, any file that would
+upload twice, storage-path collisions), and repo images nothing references.
+Exits non-zero when anything is broken or ambiguous.
 
 ---
 
@@ -333,6 +380,7 @@ extractor-ui/
   index.html          Extract page (sandboxed Function evaluator)
   organize.html       Organize page (editable level/subject dropdowns)
   zip.js              shared dependency-free ZIP writer
+audit-images.js       resolves image references against the real repo files
 scripts/serve-ui.js   zero-dependency static server for the UI
 test/run.js           self-contained test suite (npm test)
 ```
