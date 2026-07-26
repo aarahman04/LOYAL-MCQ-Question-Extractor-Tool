@@ -1,1617 +1,2517 @@
 {
   "_source_file": "level_1_adding_doubles_till_30.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "adding-doubles-till-30",
-    "title": "Adding Doubles Till 30",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.510Z",
+  "slug": "adding-doubles-till-30",
+  "title": "Adding Doubles Till 30",
+  "level": "level-1",
+  "subject": "math",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>1 + 1</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>1 + 1</span>",
       "options": {
         "choices": [
-          "1",
-          "2"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 + 1 = 2",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>2 + 2</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>2 + 2</span>",
       "options": {
         "choices": [
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "2 + 2 = 4",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>3 + 3</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>3 + 3</span>",
       "options": {
         "choices": [
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "3 + 3 = 6",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>4 + 4</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>4 + 4</span>",
       "options": {
         "choices": [
-          "7",
-          "8"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "4 + 4 = 8",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>5 + 5</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>5 + 5</span>",
       "options": {
         "choices": [
-          "11",
-          "10"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 5 = 10",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>6 + 6</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>6 + 6</span>",
       "options": {
         "choices": [
-          "11",
-          "12"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "12"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "6 + 6 = 12",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>7 + 7</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>7 + 7</span>",
       "options": {
         "choices": [
-          "15",
-          "14"
+          {
+            "id": "c1",
+            "text": "15"
+          },
+          {
+            "id": "c2",
+            "text": "14"
+          }
         ]
       },
-      "correct_answer": "14",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "7 + 7 = 14",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>8 + 8</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>8 + 8</span>",
       "options": {
         "choices": [
-          "16",
-          "17"
+          {
+            "id": "c1",
+            "text": "16"
+          },
+          {
+            "id": "c2",
+            "text": "17"
+          }
         ]
       },
-      "correct_answer": "16",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "8 + 8 = 16",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>9 + 9</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>9 + 9</span>",
       "options": {
         "choices": [
-          "18",
-          "19"
+          {
+            "id": "c1",
+            "text": "18"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "9 + 9 = 18",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>10 + 10</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>10 + 10</span>",
       "options": {
         "choices": [
-          "20",
-          "19"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "10 + 10 = 20",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>11 + 11</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>11 + 11</span>",
       "options": {
         "choices": [
-          "23",
-          "22"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "11 + 11 = 22",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>12 + 12</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>12 + 12</span>",
       "options": {
         "choices": [
-          "25",
-          "24"
+          {
+            "id": "c1",
+            "text": "25"
+          },
+          {
+            "id": "c2",
+            "text": "24"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "12 + 12 = 24",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>13 + 13</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>13 + 13</span>",
       "options": {
         "choices": [
-          "27",
-          "26"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "26"
+          }
         ]
       },
-      "correct_answer": "26",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "13 + 13 = 26",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>14 + 14</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>14 + 14</span>",
       "options": {
         "choices": [
-          "28",
-          "29"
+          {
+            "id": "c1",
+            "text": "28"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "14 + 14 = 28",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>15 + 15</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>15 + 15</span>",
       "options": {
         "choices": [
-          "29",
-          "30"
+          {
+            "id": "c1",
+            "text": "29"
+          },
+          {
+            "id": "c2",
+            "text": "30"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "15 + 15 = 30",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>16 + 16</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>16 + 16</span>",
       "options": {
         "choices": [
-          "32",
-          "31"
+          {
+            "id": "c1",
+            "text": "32"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          }
         ]
       },
-      "correct_answer": "32",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "16 + 16 = 32",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>17 + 17</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>17 + 17</span>",
       "options": {
         "choices": [
-          "34",
-          "35"
+          {
+            "id": "c1",
+            "text": "34"
+          },
+          {
+            "id": "c2",
+            "text": "35"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "17 + 17 = 34",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>18 + 18</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>18 + 18</span>",
       "options": {
         "choices": [
-          "37",
-          "36"
+          {
+            "id": "c1",
+            "text": "37"
+          },
+          {
+            "id": "c2",
+            "text": "36"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "18 + 18 = 36",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>19 + 19</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>19 + 19</span>",
       "options": {
         "choices": [
-          "37",
-          "38"
+          {
+            "id": "c1",
+            "text": "37"
+          },
+          {
+            "id": "c2",
+            "text": "38"
+          }
         ]
       },
-      "correct_answer": "38",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "19 + 19 = 38",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>20 + 20</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>20 + 20</span>",
       "options": {
         "choices": [
-          "39",
-          "40"
+          {
+            "id": "c1",
+            "text": "39"
+          },
+          {
+            "id": "c2",
+            "text": "40"
+          }
         ]
       },
-      "correct_answer": "40",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "20 + 20 = 40",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>21 + 21</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>21 + 21</span>",
       "options": {
         "choices": [
-          "41",
-          "42"
+          {
+            "id": "c1",
+            "text": "41"
+          },
+          {
+            "id": "c2",
+            "text": "42"
+          }
         ]
       },
-      "correct_answer": "42",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "21 + 21 = 42",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>22 + 22</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>22 + 22</span>",
       "options": {
         "choices": [
-          "44",
-          "43"
+          {
+            "id": "c1",
+            "text": "44"
+          },
+          {
+            "id": "c2",
+            "text": "43"
+          }
         ]
       },
-      "correct_answer": "44",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "22 + 22 = 44",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>23 + 23</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>23 + 23</span>",
       "options": {
         "choices": [
-          "46",
-          "47"
+          {
+            "id": "c1",
+            "text": "46"
+          },
+          {
+            "id": "c2",
+            "text": "47"
+          }
         ]
       },
-      "correct_answer": "46",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "23 + 23 = 46",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>24 + 24</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>24 + 24</span>",
       "options": {
         "choices": [
-          "49",
-          "48"
+          {
+            "id": "c1",
+            "text": "49"
+          },
+          {
+            "id": "c2",
+            "text": "48"
+          }
         ]
       },
-      "correct_answer": "48",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "24 + 24 = 48",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>25 + 25</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>25 + 25</span>",
       "options": {
         "choices": [
-          "50",
-          "49"
+          {
+            "id": "c1",
+            "text": "50"
+          },
+          {
+            "id": "c2",
+            "text": "49"
+          }
         ]
       },
-      "correct_answer": "50",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "25 + 25 = 50",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>26 + 26</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>26 + 26</span>",
       "options": {
         "choices": [
-          "51",
-          "52"
+          {
+            "id": "c1",
+            "text": "51"
+          },
+          {
+            "id": "c2",
+            "text": "52"
+          }
         ]
       },
-      "correct_answer": "52",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "26 + 26 = 52",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>27 + 27</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>27 + 27</span>",
       "options": {
         "choices": [
-          "54",
-          "53"
+          {
+            "id": "c1",
+            "text": "54"
+          },
+          {
+            "id": "c2",
+            "text": "53"
+          }
         ]
       },
-      "correct_answer": "54",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "27 + 27 = 54",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>28 + 28</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>28 + 28</span>",
       "options": {
         "choices": [
-          "55",
-          "56"
+          {
+            "id": "c1",
+            "text": "55"
+          },
+          {
+            "id": "c2",
+            "text": "56"
+          }
         ]
       },
-      "correct_answer": "56",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "28 + 28 = 56",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>29 + 29</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>29 + 29</span>",
       "options": {
         "choices": [
-          "58",
-          "59"
+          {
+            "id": "c1",
+            "text": "58"
+          },
+          {
+            "id": "c2",
+            "text": "59"
+          }
         ]
       },
-      "correct_answer": "58",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "29 + 29 = 58",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Add the doubles: <br> <span style='color:black;'>30 + 30</span>",
       "type": "mcq",
+      "prompt": "Add the doubles: <br> <span style='color:black;'>30 + 30</span>",
       "options": {
         "choices": [
-          "60",
-          "59"
+          {
+            "id": "c1",
+            "text": "60"
+          },
+          {
+            "id": "c2",
+            "text": "59"
+          }
         ]
       },
-      "correct_answer": "60",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "30 + 30 = 60",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Double of 1 is?",
       "type": "mcq",
+      "prompt": "Double of 1 is?",
       "options": {
         "choices": [
-          "2",
-          "1"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 + 1 = 2",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Double of 2 is?",
       "type": "mcq",
+      "prompt": "Double of 2 is?",
       "options": {
         "choices": [
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "2 + 2 = 4",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Double of 3 is?",
       "type": "mcq",
+      "prompt": "Double of 3 is?",
       "options": {
         "choices": [
-          "7",
-          "6"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "3 + 3 = 6",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Double of 4 is?",
       "type": "mcq",
+      "prompt": "Double of 4 is?",
       "options": {
         "choices": [
-          "9",
-          "8"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "4 + 4 = 8",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Double of 5 is?",
       "type": "mcq",
+      "prompt": "Double of 5 is?",
       "options": {
         "choices": [
-          "10",
-          "9"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "5 + 5 = 10",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Double of 6 is?",
       "type": "mcq",
+      "prompt": "Double of 6 is?",
       "options": {
         "choices": [
-          "12",
-          "13"
+          {
+            "id": "c1",
+            "text": "12"
+          },
+          {
+            "id": "c2",
+            "text": "13"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "6 + 6 = 12",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Double of 7 is?",
       "type": "mcq",
+      "prompt": "Double of 7 is?",
       "options": {
         "choices": [
-          "15",
-          "14"
+          {
+            "id": "c1",
+            "text": "15"
+          },
+          {
+            "id": "c2",
+            "text": "14"
+          }
         ]
       },
-      "correct_answer": "14",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "7 + 7 = 14",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Double of 8 is?",
       "type": "mcq",
+      "prompt": "Double of 8 is?",
       "options": {
         "choices": [
-          "15",
-          "16"
+          {
+            "id": "c1",
+            "text": "15"
+          },
+          {
+            "id": "c2",
+            "text": "16"
+          }
         ]
       },
-      "correct_answer": "16",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "8 + 8 = 16",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Double of 9 is?",
       "type": "mcq",
+      "prompt": "Double of 9 is?",
       "options": {
         "choices": [
-          "18",
-          "19"
+          {
+            "id": "c1",
+            "text": "18"
+          },
+          {
+            "id": "c2",
+            "text": "19"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "9 + 9 = 18",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Double of 10 is?",
       "type": "mcq",
+      "prompt": "Double of 10 is?",
       "options": {
         "choices": [
-          "20",
-          "21"
+          {
+            "id": "c1",
+            "text": "20"
+          },
+          {
+            "id": "c2",
+            "text": "21"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "10 + 10 = 20",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Double of 11 is?",
       "type": "mcq",
+      "prompt": "Double of 11 is?",
       "options": {
         "choices": [
-          "23",
-          "22"
+          {
+            "id": "c1",
+            "text": "23"
+          },
+          {
+            "id": "c2",
+            "text": "22"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "11 + 11 = 22",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Double of 12 is?",
       "type": "mcq",
+      "prompt": "Double of 12 is?",
       "options": {
         "choices": [
-          "24",
-          "23"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "12 + 12 = 24",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Double of 13 is?",
       "type": "mcq",
+      "prompt": "Double of 13 is?",
       "options": {
         "choices": [
-          "26",
-          "25"
+          {
+            "id": "c1",
+            "text": "26"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          }
         ]
       },
-      "correct_answer": "26",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "13 + 13 = 26",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Double of 14 is?",
       "type": "mcq",
+      "prompt": "Double of 14 is?",
       "options": {
         "choices": [
-          "28",
-          "29"
+          {
+            "id": "c1",
+            "text": "28"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "14 + 14 = 28",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Double of 15 is?",
       "type": "mcq",
+      "prompt": "Double of 15 is?",
       "options": {
         "choices": [
-          "30",
-          "29"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "29"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "15 + 15 = 30",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Double of 16 is?",
       "type": "mcq",
+      "prompt": "Double of 16 is?",
       "options": {
         "choices": [
-          "31",
-          "32"
+          {
+            "id": "c1",
+            "text": "31"
+          },
+          {
+            "id": "c2",
+            "text": "32"
+          }
         ]
       },
-      "correct_answer": "32",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "16 + 16 = 32",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Double of 17 is?",
       "type": "mcq",
+      "prompt": "Double of 17 is?",
       "options": {
         "choices": [
-          "34",
-          "33"
+          {
+            "id": "c1",
+            "text": "34"
+          },
+          {
+            "id": "c2",
+            "text": "33"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "17 + 17 = 34",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Double of 18 is?",
       "type": "mcq",
+      "prompt": "Double of 18 is?",
       "options": {
         "choices": [
-          "35",
-          "36"
+          {
+            "id": "c1",
+            "text": "35"
+          },
+          {
+            "id": "c2",
+            "text": "36"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "18 + 18 = 36",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Double of 19 is?",
       "type": "mcq",
+      "prompt": "Double of 19 is?",
       "options": {
         "choices": [
-          "37",
-          "38"
+          {
+            "id": "c1",
+            "text": "37"
+          },
+          {
+            "id": "c2",
+            "text": "38"
+          }
         ]
       },
-      "correct_answer": "38",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "19 + 19 = 38",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Double of 20 is?",
       "type": "mcq",
+      "prompt": "Double of 20 is?",
       "options": {
         "choices": [
-          "40",
-          "39"
+          {
+            "id": "c1",
+            "text": "40"
+          },
+          {
+            "id": "c2",
+            "text": "39"
+          }
         ]
       },
-      "correct_answer": "40",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "20 + 20 = 40",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Double of 21 is?",
       "type": "mcq",
+      "prompt": "Double of 21 is?",
       "options": {
         "choices": [
-          "42",
-          "41"
+          {
+            "id": "c1",
+            "text": "42"
+          },
+          {
+            "id": "c2",
+            "text": "41"
+          }
         ]
       },
-      "correct_answer": "42",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "21 + 21 = 42",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Double of 22 is?",
       "type": "mcq",
+      "prompt": "Double of 22 is?",
       "options": {
         "choices": [
-          "43",
-          "44"
+          {
+            "id": "c1",
+            "text": "43"
+          },
+          {
+            "id": "c2",
+            "text": "44"
+          }
         ]
       },
-      "correct_answer": "44",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "22 + 22 = 44",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Double of 23 is?",
       "type": "mcq",
+      "prompt": "Double of 23 is?",
       "options": {
         "choices": [
-          "47",
-          "46"
+          {
+            "id": "c1",
+            "text": "47"
+          },
+          {
+            "id": "c2",
+            "text": "46"
+          }
         ]
       },
-      "correct_answer": "46",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "23 + 23 = 46",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Double of 24 is?",
       "type": "mcq",
+      "prompt": "Double of 24 is?",
       "options": {
         "choices": [
-          "48",
-          "47"
+          {
+            "id": "c1",
+            "text": "48"
+          },
+          {
+            "id": "c2",
+            "text": "47"
+          }
         ]
       },
-      "correct_answer": "48",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "24 + 24 = 48",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Double of 25 is?",
       "type": "mcq",
+      "prompt": "Double of 25 is?",
       "options": {
         "choices": [
-          "49",
-          "50"
+          {
+            "id": "c1",
+            "text": "49"
+          },
+          {
+            "id": "c2",
+            "text": "50"
+          }
         ]
       },
-      "correct_answer": "50",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "25 + 25 = 50",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Double of 26 is?",
       "type": "mcq",
+      "prompt": "Double of 26 is?",
       "options": {
         "choices": [
-          "52",
-          "53"
+          {
+            "id": "c1",
+            "text": "52"
+          },
+          {
+            "id": "c2",
+            "text": "53"
+          }
         ]
       },
-      "correct_answer": "52",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "26 + 26 = 52",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Double of 27 is?",
       "type": "mcq",
+      "prompt": "Double of 27 is?",
       "options": {
         "choices": [
-          "55",
-          "54"
+          {
+            "id": "c1",
+            "text": "55"
+          },
+          {
+            "id": "c2",
+            "text": "54"
+          }
         ]
       },
-      "correct_answer": "54",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "27 + 27 = 54",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Double of 28 is?",
       "type": "mcq",
+      "prompt": "Double of 28 is?",
       "options": {
         "choices": [
-          "57",
-          "56"
+          {
+            "id": "c1",
+            "text": "57"
+          },
+          {
+            "id": "c2",
+            "text": "56"
+          }
         ]
       },
-      "correct_answer": "56",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "28 + 28 = 56",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Double of 29 is?",
       "type": "mcq",
+      "prompt": "Double of 29 is?",
       "options": {
         "choices": [
-          "58",
-          "57"
+          {
+            "id": "c1",
+            "text": "58"
+          },
+          {
+            "id": "c2",
+            "text": "57"
+          }
         ]
       },
-      "correct_answer": "58",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "29 + 29 = 58",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Double of 30 is?",
       "type": "mcq",
+      "prompt": "Double of 30 is?",
       "options": {
         "choices": [
-          "60",
-          "61"
+          {
+            "id": "c1",
+            "text": "60"
+          },
+          {
+            "id": "c2",
+            "text": "61"
+          }
         ]
       },
-      "correct_answer": "60",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "30 + 30 = 60",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "1 + 1 = ?",
       "type": "mcq",
+      "prompt": "1 + 1 = ?",
       "options": {
         "choices": [
-          "2",
-          "1"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 + 1 = 2",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "2 + 2 = ?",
       "type": "mcq",
+      "prompt": "2 + 2 = ?",
       "options": {
         "choices": [
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "2 + 2 = 4",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "3 + 3 = ?",
       "type": "mcq",
+      "prompt": "3 + 3 = ?",
       "options": {
         "choices": [
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "3 + 3 = 6",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "4 + 4 = ?",
       "type": "mcq",
+      "prompt": "4 + 4 = ?",
       "options": {
         "choices": [
-          "9",
-          "8"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "4 + 4 = 8",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "5 + 5 = ?",
       "type": "mcq",
+      "prompt": "5 + 5 = ?",
       "options": {
         "choices": [
-          "11",
-          "10"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 5 = 10",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "6 + 6 = ?",
       "type": "mcq",
+      "prompt": "6 + 6 = ?",
       "options": {
         "choices": [
-          "12",
-          "11"
+          {
+            "id": "c1",
+            "text": "12"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "6 + 6 = 12",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "7 + 7 = ?",
       "type": "mcq",
+      "prompt": "7 + 7 = ?",
       "options": {
         "choices": [
-          "15",
-          "14"
+          {
+            "id": "c1",
+            "text": "15"
+          },
+          {
+            "id": "c2",
+            "text": "14"
+          }
         ]
       },
-      "correct_answer": "14",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "7 + 7 = 14",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "8 + 8 = ?",
       "type": "mcq",
+      "prompt": "8 + 8 = ?",
       "options": {
         "choices": [
-          "15",
-          "16"
+          {
+            "id": "c1",
+            "text": "15"
+          },
+          {
+            "id": "c2",
+            "text": "16"
+          }
         ]
       },
-      "correct_answer": "16",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "8 + 8 = 16",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "9 + 9 = ?",
       "type": "mcq",
+      "prompt": "9 + 9 = ?",
       "options": {
         "choices": [
-          "17",
-          "18"
+          {
+            "id": "c1",
+            "text": "17"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 + 9 = 18",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "10 + 10 = ?",
       "type": "mcq",
+      "prompt": "10 + 10 = ?",
       "options": {
         "choices": [
-          "19",
-          "20"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "20"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "10 + 10 = 20",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "11 + 11 = ?",
       "type": "mcq",
+      "prompt": "11 + 11 = ?",
       "options": {
         "choices": [
-          "22",
-          "23"
+          {
+            "id": "c1",
+            "text": "22"
+          },
+          {
+            "id": "c2",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "22",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "11 + 11 = 22",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "12 + 12 = ?",
       "type": "mcq",
+      "prompt": "12 + 12 = ?",
       "options": {
         "choices": [
-          "24",
-          "23"
+          {
+            "id": "c1",
+            "text": "24"
+          },
+          {
+            "id": "c2",
+            "text": "23"
+          }
         ]
       },
-      "correct_answer": "24",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "12 + 12 = 24",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "13 + 13 = ?",
       "type": "mcq",
+      "prompt": "13 + 13 = ?",
       "options": {
         "choices": [
-          "26",
-          "25"
+          {
+            "id": "c1",
+            "text": "26"
+          },
+          {
+            "id": "c2",
+            "text": "25"
+          }
         ]
       },
-      "correct_answer": "26",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "13 + 13 = 26",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "14 + 14 = ?",
       "type": "mcq",
+      "prompt": "14 + 14 = ?",
       "options": {
         "choices": [
-          "27",
-          "28"
+          {
+            "id": "c1",
+            "text": "27"
+          },
+          {
+            "id": "c2",
+            "text": "28"
+          }
         ]
       },
-      "correct_answer": "28",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "14 + 14 = 28",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "15 + 15 = ?",
       "type": "mcq",
+      "prompt": "15 + 15 = ?",
       "options": {
         "choices": [
-          "30",
-          "31"
+          {
+            "id": "c1",
+            "text": "30"
+          },
+          {
+            "id": "c2",
+            "text": "31"
+          }
         ]
       },
-      "correct_answer": "30",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "15 + 15 = 30",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "16 + 16 = ?",
       "type": "mcq",
+      "prompt": "16 + 16 = ?",
       "options": {
         "choices": [
-          "32",
-          "33"
+          {
+            "id": "c1",
+            "text": "32"
+          },
+          {
+            "id": "c2",
+            "text": "33"
+          }
         ]
       },
-      "correct_answer": "32",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "16 + 16 = 32",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "17 + 17 = ?",
       "type": "mcq",
+      "prompt": "17 + 17 = ?",
       "options": {
         "choices": [
-          "35",
-          "34"
+          {
+            "id": "c1",
+            "text": "35"
+          },
+          {
+            "id": "c2",
+            "text": "34"
+          }
         ]
       },
-      "correct_answer": "34",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "17 + 17 = 34",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "18 + 18 = ?",
       "type": "mcq",
+      "prompt": "18 + 18 = ?",
       "options": {
         "choices": [
-          "37",
-          "36"
+          {
+            "id": "c1",
+            "text": "37"
+          },
+          {
+            "id": "c2",
+            "text": "36"
+          }
         ]
       },
-      "correct_answer": "36",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "18 + 18 = 36",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "19 + 19 = ?",
       "type": "mcq",
+      "prompt": "19 + 19 = ?",
       "options": {
         "choices": [
-          "37",
-          "38"
+          {
+            "id": "c1",
+            "text": "37"
+          },
+          {
+            "id": "c2",
+            "text": "38"
+          }
         ]
       },
-      "correct_answer": "38",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "19 + 19 = 38",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "20 + 20 = ?",
       "type": "mcq",
+      "prompt": "20 + 20 = ?",
       "options": {
         "choices": [
-          "40",
-          "41"
+          {
+            "id": "c1",
+            "text": "40"
+          },
+          {
+            "id": "c2",
+            "text": "41"
+          }
         ]
       },
-      "correct_answer": "40",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "20 + 20 = 40",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "21 + 21 = ?",
       "type": "mcq",
+      "prompt": "21 + 21 = ?",
       "options": {
         "choices": [
-          "43",
-          "42"
+          {
+            "id": "c1",
+            "text": "43"
+          },
+          {
+            "id": "c2",
+            "text": "42"
+          }
         ]
       },
-      "correct_answer": "42",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "21 + 21 = 42",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "22 + 22 = ?",
       "type": "mcq",
+      "prompt": "22 + 22 = ?",
       "options": {
         "choices": [
-          "44",
-          "43"
+          {
+            "id": "c1",
+            "text": "44"
+          },
+          {
+            "id": "c2",
+            "text": "43"
+          }
         ]
       },
-      "correct_answer": "44",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "22 + 22 = 44",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "23 + 23 = ?",
       "type": "mcq",
+      "prompt": "23 + 23 = ?",
       "options": {
         "choices": [
-          "45",
-          "46"
+          {
+            "id": "c1",
+            "text": "45"
+          },
+          {
+            "id": "c2",
+            "text": "46"
+          }
         ]
       },
-      "correct_answer": "46",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "23 + 23 = 46",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "24 + 24 = ?",
       "type": "mcq",
+      "prompt": "24 + 24 = ?",
       "options": {
         "choices": [
-          "48",
-          "49"
+          {
+            "id": "c1",
+            "text": "48"
+          },
+          {
+            "id": "c2",
+            "text": "49"
+          }
         ]
       },
-      "correct_answer": "48",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "24 + 24 = 48",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "25 + 25 = ?",
       "type": "mcq",
+      "prompt": "25 + 25 = ?",
       "options": {
         "choices": [
-          "50",
-          "51"
+          {
+            "id": "c1",
+            "text": "50"
+          },
+          {
+            "id": "c2",
+            "text": "51"
+          }
         ]
       },
-      "correct_answer": "50",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "25 + 25 = 50",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "26 + 26 = ?",
       "type": "mcq",
+      "prompt": "26 + 26 = ?",
       "options": {
         "choices": [
-          "51",
-          "52"
+          {
+            "id": "c1",
+            "text": "51"
+          },
+          {
+            "id": "c2",
+            "text": "52"
+          }
         ]
       },
-      "correct_answer": "52",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "26 + 26 = 52",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "27 + 27 = ?",
       "type": "mcq",
+      "prompt": "27 + 27 = ?",
       "options": {
         "choices": [
-          "53",
-          "54"
+          {
+            "id": "c1",
+            "text": "53"
+          },
+          {
+            "id": "c2",
+            "text": "54"
+          }
         ]
       },
-      "correct_answer": "54",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "27 + 27 = 54",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "28 + 28 = ?",
       "type": "mcq",
+      "prompt": "28 + 28 = ?",
       "options": {
         "choices": [
-          "56",
-          "55"
+          {
+            "id": "c1",
+            "text": "56"
+          },
+          {
+            "id": "c2",
+            "text": "55"
+          }
         ]
       },
-      "correct_answer": "56",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "28 + 28 = 56",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "29 + 29 = ?",
       "type": "mcq",
+      "prompt": "29 + 29 = ?",
       "options": {
         "choices": [
-          "58",
-          "57"
+          {
+            "id": "c1",
+            "text": "58"
+          },
+          {
+            "id": "c2",
+            "text": "57"
+          }
         ]
       },
-      "correct_answer": "58",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "29 + 29 = 58",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "30 + 30 = ?",
       "type": "mcq",
+      "prompt": "30 + 30 = ?",
       "options": {
         "choices": [
-          "60",
-          "61"
+          {
+            "id": "c1",
+            "text": "60"
+          },
+          {
+            "id": "c2",
+            "text": "61"
+          }
         ]
       },
-      "correct_answer": "60",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "30 + 30 = 60",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "What is double 1?",
       "type": "mcq",
+      "prompt": "What is double 1?",
       "options": {
         "choices": [
-          "2",
-          "1"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 + 1 = 2",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "What is double 2?",
       "type": "mcq",
+      "prompt": "What is double 2?",
       "options": {
         "choices": [
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "2 + 2 = 4",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "What is double 3?",
       "type": "mcq",
+      "prompt": "What is double 3?",
       "options": {
         "choices": [
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "3 + 3 = 6",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "What is double 4?",
       "type": "mcq",
+      "prompt": "What is double 4?",
       "options": {
         "choices": [
-          "8",
-          "9"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "4 + 4 = 8",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "What is double 5?",
       "type": "mcq",
+      "prompt": "What is double 5?",
       "options": {
         "choices": [
-          "11",
-          "10"
+          {
+            "id": "c1",
+            "text": "11"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 5 = 10",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "What is double 6?",
       "type": "mcq",
+      "prompt": "What is double 6?",
       "options": {
         "choices": [
-          "12",
-          "11"
+          {
+            "id": "c1",
+            "text": "12"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          }
         ]
       },
-      "correct_answer": "12",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "6 + 6 = 12",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "What is double 7?",
       "type": "mcq",
+      "prompt": "What is double 7?",
       "options": {
         "choices": [
-          "15",
-          "14"
+          {
+            "id": "c1",
+            "text": "15"
+          },
+          {
+            "id": "c2",
+            "text": "14"
+          }
         ]
       },
-      "correct_answer": "14",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "7 + 7 = 14",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "What is double 8?",
       "type": "mcq",
+      "prompt": "What is double 8?",
       "options": {
         "choices": [
-          "17",
-          "16"
+          {
+            "id": "c1",
+            "text": "17"
+          },
+          {
+            "id": "c2",
+            "text": "16"
+          }
         ]
       },
-      "correct_answer": "16",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "8 + 8 = 16",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "What is double 9?",
       "type": "mcq",
+      "prompt": "What is double 9?",
       "options": {
         "choices": [
-          "19",
-          "18"
+          {
+            "id": "c1",
+            "text": "19"
+          },
+          {
+            "id": "c2",
+            "text": "18"
+          }
         ]
       },
-      "correct_answer": "18",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 + 9 = 18",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "What is double 10?",
       "type": "mcq",
+      "prompt": "What is double 10?",
       "options": {
         "choices": [
-          "21",
-          "20"
+          {
+            "id": "c1",
+            "text": "21"
+          },
+          {
+            "id": "c2",
+            "text": "20"
+          }
         ]
       },
-      "correct_answer": "20",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "10 + 10 = 20",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
-  ]
+  ],
+  "title_needs_review": true
 }

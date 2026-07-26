@@ -1,2332 +1,1615 @@
 {
   "_source_file": "kg3_math_tap_and_count.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "tap_select",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "math-tap-and-count",
-    "title": "Tap & Count",
-    "quiz_type": "tap_select",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.507Z",
+  "slug": "math-tap-and-count",
+  "title": "Tap & Count",
+  "level": "kg3",
+  "subject": "math",
+  "quiz_type": "tap_select",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Tap 6 🌟 stars",
       "type": "tap_select",
+      "prompt": "Tap 6 🌟 stars",
       "options": {
         "mode": "count",
-        "target_count": 6,
-        "items": [
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟"
-        ]
+        "emoji": "🌟",
+        "item_count": 7
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "target_count": 6
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6. That makes six (6) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Tap 2 🎈 balloons",
       "type": "tap_select",
+      "prompt": "Tap 2 🎈 balloons",
       "options": {
         "mode": "count",
-        "target_count": 2,
-        "items": [
-          "🎈",
-          "🎈",
-          "🎈",
-          "🎈"
-        ]
+        "emoji": "🎈",
+        "item_count": 4
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "target_count": 2
+      },
       "explanation": "Count as you tap: 1, 2. That makes two (2) balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Tap 3 🍊 oranges",
       "type": "tap_select",
+      "prompt": "Tap 3 🍊 oranges",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊"
-        ]
+        "emoji": "🍊",
+        "item_count": 6
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) oranges.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Tap 6 🐞 ladybugs",
       "type": "tap_select",
+      "prompt": "Tap 6 🐞 ladybugs",
       "options": {
         "mode": "count",
-        "target_count": 6,
-        "items": [
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞"
-        ]
+        "emoji": "🐞",
+        "item_count": 7
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "target_count": 6
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6. That makes six (6) ladybugs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Tap 8 🐢 turtles",
       "type": "tap_select",
+      "prompt": "Tap 8 🐢 turtles",
       "options": {
         "mode": "count",
-        "target_count": 8,
-        "items": [
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢"
-        ]
+        "emoji": "🐢",
+        "item_count": 9
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "target_count": 8
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8. That makes eight (8) turtles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Tap 7 🌟 stars",
       "type": "tap_select",
+      "prompt": "Tap 7 🌟 stars",
       "options": {
         "mode": "count",
-        "target_count": 7,
-        "items": [
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟"
-        ]
+        "emoji": "🌟",
+        "item_count": 10
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "target_count": 7
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7. That makes seven (7) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Tap 10 🐞 ladybugs",
       "type": "tap_select",
+      "prompt": "Tap 10 🐞 ladybugs",
       "options": {
         "mode": "count",
-        "target_count": 10,
-        "items": [
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞"
-        ]
+        "emoji": "🐞",
+        "item_count": 12
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "target_count": 10
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. That makes ten (10) ladybugs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Tap 7 🍓 strawberries",
       "type": "tap_select",
+      "prompt": "Tap 7 🍓 strawberries",
       "options": {
         "mode": "count",
-        "target_count": 7,
-        "items": [
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓"
-        ]
+        "emoji": "🍓",
+        "item_count": 10
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "target_count": 7
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7. That makes seven (7) strawberries.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Tap 10 🍊 oranges",
       "type": "tap_select",
+      "prompt": "Tap 10 🍊 oranges",
       "options": {
         "mode": "count",
-        "target_count": 10,
-        "items": [
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊"
-        ]
+        "emoji": "🍊",
+        "item_count": 12
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "target_count": 10
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. That makes ten (10) oranges.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Tap 9 🍪 cookies",
       "type": "tap_select",
+      "prompt": "Tap 9 🍪 cookies",
       "options": {
         "mode": "count",
-        "target_count": 9,
-        "items": [
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪"
-        ]
+        "emoji": "🍪",
+        "item_count": 11
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "target_count": 9
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9. That makes nine (9) cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Tap 4 🌟 stars",
       "type": "tap_select",
+      "prompt": "Tap 4 🌟 stars",
       "options": {
         "mode": "count",
-        "target_count": 4,
-        "items": [
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟"
-        ]
+        "emoji": "🌟",
+        "item_count": 5
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "target_count": 4
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4. That makes four (4) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Tap 1 🐶 dog",
       "type": "tap_select",
+      "prompt": "Tap 1 🐶 dog",
       "options": {
         "mode": "count",
-        "target_count": 1,
-        "items": [
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶"
-        ]
+        "emoji": "🐶",
+        "item_count": 4
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "target_count": 1
+      },
       "explanation": "Count as you tap: 1. That makes one (1) dog.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Tap 1 🚗 car",
       "type": "tap_select",
+      "prompt": "Tap 1 🚗 car",
       "options": {
         "mode": "count",
-        "target_count": 1,
-        "items": [
-          "🚗",
-          "🚗"
-        ]
+        "emoji": "🚗",
+        "item_count": 2
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "target_count": 1
+      },
       "explanation": "Count as you tap: 1. That makes one (1) car.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Tap 3 🚗 cars",
       "type": "tap_select",
+      "prompt": "Tap 3 🚗 cars",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗"
-        ]
+        "emoji": "🚗",
+        "item_count": 5
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Tap 8 🍓 strawberries",
       "type": "tap_select",
+      "prompt": "Tap 8 🍓 strawberries",
       "options": {
         "mode": "count",
-        "target_count": 8,
-        "items": [
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓"
-        ]
+        "emoji": "🍓",
+        "item_count": 9
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "target_count": 8
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8. That makes eight (8) strawberries.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Tap 6 🚗 cars",
       "type": "tap_select",
+      "prompt": "Tap 6 🚗 cars",
       "options": {
         "mode": "count",
-        "target_count": 6,
-        "items": [
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗"
-        ]
+        "emoji": "🚗",
+        "item_count": 7
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "target_count": 6
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6. That makes six (6) cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Tap 1 🦆 duck",
       "type": "tap_select",
+      "prompt": "Tap 1 🦆 duck",
       "options": {
         "mode": "count",
-        "target_count": 1,
-        "items": [
-          "🦆",
-          "🦆",
-          "🦆"
-        ]
+        "emoji": "🦆",
+        "item_count": 3
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "target_count": 1
+      },
       "explanation": "Count as you tap: 1. That makes one (1) duck.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Tap 2 🌸 flowers",
       "type": "tap_select",
+      "prompt": "Tap 2 🌸 flowers",
       "options": {
         "mode": "count",
-        "target_count": 2,
-        "items": [
-          "🌸",
-          "🌸",
-          "🌸"
-        ]
+        "emoji": "🌸",
+        "item_count": 3
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "target_count": 2
+      },
       "explanation": "Count as you tap: 1, 2. That makes two (2) flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Tap 7 🐝 bees",
       "type": "tap_select",
+      "prompt": "Tap 7 🐝 bees",
       "options": {
         "mode": "count",
-        "target_count": 7,
-        "items": [
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝"
-        ]
+        "emoji": "🐝",
+        "item_count": 8
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "target_count": 7
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7. That makes seven (7) bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Tap 10 🍪 cookies",
       "type": "tap_select",
+      "prompt": "Tap 10 🍪 cookies",
       "options": {
         "mode": "count",
-        "target_count": 10,
-        "items": [
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪"
-        ]
+        "emoji": "🍪",
+        "item_count": 12
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "target_count": 10
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. That makes ten (10) cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Tap 1 🍪 cookie",
       "type": "tap_select",
+      "prompt": "Tap 1 🍪 cookie",
       "options": {
         "mode": "count",
-        "target_count": 1,
-        "items": [
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪"
-        ]
+        "emoji": "🍪",
+        "item_count": 4
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "target_count": 1
+      },
       "explanation": "Count as you tap: 1. That makes one (1) cookie.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Tap 7 🦋 butterflies",
       "type": "tap_select",
+      "prompt": "Tap 7 🦋 butterflies",
       "options": {
         "mode": "count",
-        "target_count": 7,
-        "items": [
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋"
-        ]
+        "emoji": "🦋",
+        "item_count": 9
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "target_count": 7
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7. That makes seven (7) butterflies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Tap 9 🚗 cars",
       "type": "tap_select",
+      "prompt": "Tap 9 🚗 cars",
       "options": {
         "mode": "count",
-        "target_count": 9,
-        "items": [
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗"
-        ]
+        "emoji": "🚗",
+        "item_count": 10
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "target_count": 9
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9. That makes nine (9) cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Tap 10 🚗 cars",
       "type": "tap_select",
+      "prompt": "Tap 10 🚗 cars",
       "options": {
         "mode": "count",
-        "target_count": 10,
-        "items": [
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗"
-        ]
+        "emoji": "🚗",
+        "item_count": 11
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "target_count": 10
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. That makes ten (10) cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Tap 3 ⭐ stars",
       "type": "tap_select",
+      "prompt": "Tap 3 ⭐ stars",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "⭐",
-          "⭐",
-          "⭐",
-          "⭐",
-          "⭐",
-          "⭐"
-        ]
+        "emoji": "⭐",
+        "item_count": 6
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Tap 4 🚗 cars",
       "type": "tap_select",
+      "prompt": "Tap 4 🚗 cars",
       "options": {
         "mode": "count",
-        "target_count": 4,
-        "items": [
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗"
-        ]
+        "emoji": "🚗",
+        "item_count": 6
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "target_count": 4
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4. That makes four (4) cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Tap 1 🌟 star",
       "type": "tap_select",
+      "prompt": "Tap 1 🌟 star",
       "options": {
         "mode": "count",
-        "target_count": 1,
-        "items": [
-          "🌟",
-          "🌟",
-          "🌟"
-        ]
+        "emoji": "🌟",
+        "item_count": 3
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "target_count": 1
+      },
       "explanation": "Count as you tap: 1. That makes one (1) star.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Tap 3 🐟 fish",
       "type": "tap_select",
+      "prompt": "Tap 3 🐟 fish",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟"
-        ]
+        "emoji": "🐟",
+        "item_count": 6
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Tap 7 🚗 cars",
       "type": "tap_select",
+      "prompt": "Tap 7 🚗 cars",
       "options": {
         "mode": "count",
-        "target_count": 7,
-        "items": [
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗"
-        ]
+        "emoji": "🚗",
+        "item_count": 9
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "target_count": 7
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7. That makes seven (7) cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Tap 10 🍎 apples",
       "type": "tap_select",
+      "prompt": "Tap 10 🍎 apples",
       "options": {
         "mode": "count",
-        "target_count": 10,
-        "items": [
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎"
-        ]
+        "emoji": "🍎",
+        "item_count": 12
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "target_count": 10
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. That makes ten (10) apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Tap 8 🌸 flowers",
       "type": "tap_select",
+      "prompt": "Tap 8 🌸 flowers",
       "options": {
         "mode": "count",
-        "target_count": 8,
-        "items": [
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸"
-        ]
+        "emoji": "🌸",
+        "item_count": 10
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "target_count": 8
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8. That makes eight (8) flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Tap 3 🍪 cookies",
       "type": "tap_select",
+      "prompt": "Tap 3 🍪 cookies",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪"
-        ]
+        "emoji": "🍪",
+        "item_count": 4
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Tap 1 🐱 cat",
       "type": "tap_select",
+      "prompt": "Tap 1 🐱 cat",
       "options": {
         "mode": "count",
-        "target_count": 1,
-        "items": [
-          "🐱",
-          "🐱",
-          "🐱"
-        ]
+        "emoji": "🐱",
+        "item_count": 3
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "target_count": 1
+      },
       "explanation": "Count as you tap: 1. That makes one (1) cat.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Tap 10 🐝 bees",
       "type": "tap_select",
+      "prompt": "Tap 10 🐝 bees",
       "options": {
         "mode": "count",
-        "target_count": 10,
-        "items": [
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝"
-        ]
+        "emoji": "🐝",
+        "item_count": 12
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "target_count": 10
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. That makes ten (10) bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Tap 1 🐝 bee",
       "type": "tap_select",
+      "prompt": "Tap 1 🐝 bee",
       "options": {
         "mode": "count",
-        "target_count": 1,
-        "items": [
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝"
-        ]
+        "emoji": "🐝",
+        "item_count": 4
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "target_count": 1
+      },
       "explanation": "Count as you tap: 1. That makes one (1) bee.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Tap 9 🍎 apples",
       "type": "tap_select",
+      "prompt": "Tap 9 🍎 apples",
       "options": {
         "mode": "count",
-        "target_count": 9,
-        "items": [
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎"
-        ]
+        "emoji": "🍎",
+        "item_count": 12
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "target_count": 9
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9. That makes nine (9) apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Tap 8 🐟 fish",
       "type": "tap_select",
+      "prompt": "Tap 8 🐟 fish",
       "options": {
         "mode": "count",
-        "target_count": 8,
-        "items": [
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟"
-        ]
+        "emoji": "🐟",
+        "item_count": 9
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "target_count": 8
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8. That makes eight (8) fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Tap 6 🐱 cats",
       "type": "tap_select",
+      "prompt": "Tap 6 🐱 cats",
       "options": {
         "mode": "count",
-        "target_count": 6,
-        "items": [
-          "🐱",
-          "🐱",
-          "🐱",
-          "🐱",
-          "🐱",
-          "🐱",
-          "🐱"
-        ]
+        "emoji": "🐱",
+        "item_count": 7
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "target_count": 6
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6. That makes six (6) cats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Tap 1 🐢 turtle",
       "type": "tap_select",
+      "prompt": "Tap 1 🐢 turtle",
       "options": {
         "mode": "count",
-        "target_count": 1,
-        "items": [
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢"
-        ]
+        "emoji": "🐢",
+        "item_count": 4
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "target_count": 1
+      },
       "explanation": "Count as you tap: 1. That makes one (1) turtle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Tap 5 🍊 oranges",
       "type": "tap_select",
+      "prompt": "Tap 5 🍊 oranges",
       "options": {
         "mode": "count",
-        "target_count": 5,
-        "items": [
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊"
-        ]
+        "emoji": "🍊",
+        "item_count": 8
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "target_count": 5
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5. That makes five (5) oranges.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Tap 10 🐢 turtles",
       "type": "tap_select",
+      "prompt": "Tap 10 🐢 turtles",
       "options": {
         "mode": "count",
-        "target_count": 10,
-        "items": [
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢"
-        ]
+        "emoji": "🐢",
+        "item_count": 11
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "target_count": 10
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. That makes ten (10) turtles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Tap 4 ⭐ stars",
       "type": "tap_select",
+      "prompt": "Tap 4 ⭐ stars",
       "options": {
         "mode": "count",
-        "target_count": 4,
-        "items": [
-          "⭐",
-          "⭐",
-          "⭐",
-          "⭐",
-          "⭐",
-          "⭐"
-        ]
+        "emoji": "⭐",
+        "item_count": 6
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "target_count": 4
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4. That makes four (4) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Tap 1 🍊 orange",
       "type": "tap_select",
+      "prompt": "Tap 1 🍊 orange",
       "options": {
         "mode": "count",
-        "target_count": 1,
-        "items": [
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊"
-        ]
+        "emoji": "🍊",
+        "item_count": 4
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "target_count": 1
+      },
       "explanation": "Count as you tap: 1. That makes one (1) orange.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Tap 3 🐝 bees",
       "type": "tap_select",
+      "prompt": "Tap 3 🐝 bees",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝"
-        ]
+        "emoji": "🐝",
+        "item_count": 5
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Tap 7 🌸 flowers",
       "type": "tap_select",
+      "prompt": "Tap 7 🌸 flowers",
       "options": {
         "mode": "count",
-        "target_count": 7,
-        "items": [
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸"
-        ]
+        "emoji": "🌸",
+        "item_count": 9
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "target_count": 7
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7. That makes seven (7) flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Tap 5 🌸 flowers",
       "type": "tap_select",
+      "prompt": "Tap 5 🌸 flowers",
       "options": {
         "mode": "count",
-        "target_count": 5,
-        "items": [
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸"
-        ]
+        "emoji": "🌸",
+        "item_count": 8
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "target_count": 5
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5. That makes five (5) flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Tap 3 🐱 cats",
       "type": "tap_select",
+      "prompt": "Tap 3 🐱 cats",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🐱",
-          "🐱",
-          "🐱",
-          "🐱"
-        ]
+        "emoji": "🐱",
+        "item_count": 4
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) cats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Tap 3 🦆 ducks",
       "type": "tap_select",
+      "prompt": "Tap 3 🦆 ducks",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆"
-        ]
+        "emoji": "🦆",
+        "item_count": 6
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) ducks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Tap 6 🍓 strawberries",
       "type": "tap_select",
+      "prompt": "Tap 6 🍓 strawberries",
       "options": {
         "mode": "count",
-        "target_count": 6,
-        "items": [
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓"
-        ]
+        "emoji": "🍓",
+        "item_count": 9
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "target_count": 6
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6. That makes six (6) strawberries.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Tap 7 🐞 ladybugs",
       "type": "tap_select",
+      "prompt": "Tap 7 🐞 ladybugs",
       "options": {
         "mode": "count",
-        "target_count": 7,
-        "items": [
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞"
-        ]
+        "emoji": "🐞",
+        "item_count": 8
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "target_count": 7
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7. That makes seven (7) ladybugs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Tap 4 🐱 cats",
       "type": "tap_select",
+      "prompt": "Tap 4 🐱 cats",
       "options": {
         "mode": "count",
-        "target_count": 4,
-        "items": [
-          "🐱",
-          "🐱",
-          "🐱",
-          "🐱",
-          "🐱",
-          "🐱",
-          "🐱"
-        ]
+        "emoji": "🐱",
+        "item_count": 7
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "target_count": 4
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4. That makes four (4) cats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Tap 9 🐞 ladybugs",
       "type": "tap_select",
+      "prompt": "Tap 9 🐞 ladybugs",
       "options": {
         "mode": "count",
-        "target_count": 9,
-        "items": [
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞"
-        ]
+        "emoji": "🐞",
+        "item_count": 11
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "target_count": 9
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9. That makes nine (9) ladybugs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Tap 8 🍪 cookies",
       "type": "tap_select",
+      "prompt": "Tap 8 🍪 cookies",
       "options": {
         "mode": "count",
-        "target_count": 8,
-        "items": [
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪"
-        ]
+        "emoji": "🍪",
+        "item_count": 9
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "target_count": 8
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8. That makes eight (8) cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Tap 9 🍊 oranges",
       "type": "tap_select",
+      "prompt": "Tap 9 🍊 oranges",
       "options": {
         "mode": "count",
-        "target_count": 9,
-        "items": [
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊"
-        ]
+        "emoji": "🍊",
+        "item_count": 10
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "target_count": 9
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9. That makes nine (9) oranges.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Tap 3 🌸 flowers",
       "type": "tap_select",
+      "prompt": "Tap 3 🌸 flowers",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸"
-        ]
+        "emoji": "🌸",
+        "item_count": 6
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Tap 2 🐢 turtles",
       "type": "tap_select",
+      "prompt": "Tap 2 🐢 turtles",
       "options": {
         "mode": "count",
-        "target_count": 2,
-        "items": [
-          "🐢",
-          "🐢",
-          "🐢"
-        ]
+        "emoji": "🐢",
+        "item_count": 3
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "target_count": 2
+      },
       "explanation": "Count as you tap: 1, 2. That makes two (2) turtles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Tap 2 🐱 cats",
       "type": "tap_select",
+      "prompt": "Tap 2 🐱 cats",
       "options": {
         "mode": "count",
-        "target_count": 2,
-        "items": [
-          "🐱",
-          "🐱",
-          "🐱"
-        ]
+        "emoji": "🐱",
+        "item_count": 3
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "target_count": 2
+      },
       "explanation": "Count as you tap: 1, 2. That makes two (2) cats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Tap 5 🚗 cars",
       "type": "tap_select",
+      "prompt": "Tap 5 🚗 cars",
       "options": {
         "mode": "count",
-        "target_count": 5,
-        "items": [
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗",
-          "🚗"
-        ]
+        "emoji": "🚗",
+        "item_count": 8
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "target_count": 5
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5. That makes five (5) cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Tap 2 🦋 butterflies",
       "type": "tap_select",
+      "prompt": "Tap 2 🦋 butterflies",
       "options": {
         "mode": "count",
-        "target_count": 2,
-        "items": [
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋"
-        ]
+        "emoji": "🦋",
+        "item_count": 5
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "target_count": 2
+      },
       "explanation": "Count as you tap: 1, 2. That makes two (2) butterflies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Tap 3 🐞 ladybugs",
       "type": "tap_select",
+      "prompt": "Tap 3 🐞 ladybugs",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞"
-        ]
+        "emoji": "🐞",
+        "item_count": 4
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) ladybugs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Tap 3 🦋 butterflies",
       "type": "tap_select",
+      "prompt": "Tap 3 🦋 butterflies",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋"
-        ]
+        "emoji": "🦋",
+        "item_count": 5
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) butterflies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Tap 5 🐝 bees",
       "type": "tap_select",
+      "prompt": "Tap 5 🐝 bees",
       "options": {
         "mode": "count",
-        "target_count": 5,
-        "items": [
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝"
-        ]
+        "emoji": "🐝",
+        "item_count": 8
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "target_count": 5
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5. That makes five (5) bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Tap 6 🍪 cookies",
       "type": "tap_select",
+      "prompt": "Tap 6 🍪 cookies",
       "options": {
         "mode": "count",
-        "target_count": 6,
-        "items": [
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪",
-          "🍪"
-        ]
+        "emoji": "🍪",
+        "item_count": 7
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "target_count": 6
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6. That makes six (6) cookies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Tap 7 🦆 ducks",
       "type": "tap_select",
+      "prompt": "Tap 7 🦆 ducks",
       "options": {
         "mode": "count",
-        "target_count": 7,
-        "items": [
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆"
-        ]
+        "emoji": "🦆",
+        "item_count": 9
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "target_count": 7
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7. That makes seven (7) ducks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Tap 9 🐝 bees",
       "type": "tap_select",
+      "prompt": "Tap 9 🐝 bees",
       "options": {
         "mode": "count",
-        "target_count": 9,
-        "items": [
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝",
-          "🐝"
-        ]
+        "emoji": "🐝",
+        "item_count": 12
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "target_count": 9
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9. That makes nine (9) bees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Tap 5 🎈 balloons",
       "type": "tap_select",
+      "prompt": "Tap 5 🎈 balloons",
       "options": {
         "mode": "count",
-        "target_count": 5,
-        "items": [
-          "🎈",
-          "🎈",
-          "🎈",
-          "🎈",
-          "🎈",
-          "🎈",
-          "🎈",
-          "🎈"
-        ]
+        "emoji": "🎈",
+        "item_count": 8
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "target_count": 5
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5. That makes five (5) balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Tap 3 🐶 dogs",
       "type": "tap_select",
+      "prompt": "Tap 3 🐶 dogs",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶"
-        ]
+        "emoji": "🐶",
+        "item_count": 4
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) dogs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Tap 7 🍊 oranges",
       "type": "tap_select",
+      "prompt": "Tap 7 🍊 oranges",
       "options": {
         "mode": "count",
-        "target_count": 7,
-        "items": [
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊",
-          "🍊"
-        ]
+        "emoji": "🍊",
+        "item_count": 8
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "target_count": 7
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7. That makes seven (7) oranges.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Tap 6 🐶 dogs",
       "type": "tap_select",
+      "prompt": "Tap 6 🐶 dogs",
       "options": {
         "mode": "count",
-        "target_count": 6,
-        "items": [
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶"
-        ]
+        "emoji": "🐶",
+        "item_count": 9
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "target_count": 6
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6. That makes six (6) dogs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Tap 5 🐞 ladybugs",
       "type": "tap_select",
+      "prompt": "Tap 5 🐞 ladybugs",
       "options": {
         "mode": "count",
-        "target_count": 5,
-        "items": [
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞"
-        ]
+        "emoji": "🐞",
+        "item_count": 8
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "target_count": 5
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5. That makes five (5) ladybugs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Tap 9 🍌 bananas",
       "type": "tap_select",
+      "prompt": "Tap 9 🍌 bananas",
       "options": {
         "mode": "count",
-        "target_count": 9,
-        "items": [
-          "🍌",
-          "🍌",
-          "🍌",
-          "🍌",
-          "🍌",
-          "🍌",
-          "🍌",
-          "🍌",
-          "🍌",
-          "🍌"
-        ]
+        "emoji": "🍌",
+        "item_count": 10
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "target_count": 9
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9. That makes nine (9) bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Tap 1 🐟 fish",
       "type": "tap_select",
+      "prompt": "Tap 1 🐟 fish",
       "options": {
         "mode": "count",
-        "target_count": 1,
-        "items": [
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟"
-        ]
+        "emoji": "🐟",
+        "item_count": 4
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "target_count": 1
+      },
       "explanation": "Count as you tap: 1. That makes one (1) fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Tap 1 🍌 banana",
       "type": "tap_select",
+      "prompt": "Tap 1 🍌 banana",
       "options": {
         "mode": "count",
-        "target_count": 1,
-        "items": [
-          "🍌",
-          "🍌"
-        ]
+        "emoji": "🍌",
+        "item_count": 2
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "target_count": 1
+      },
       "explanation": "Count as you tap: 1. That makes one (1) banana.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Tap 2 🐞 ladybugs",
       "type": "tap_select",
+      "prompt": "Tap 2 🐞 ladybugs",
       "options": {
         "mode": "count",
-        "target_count": 2,
-        "items": [
-          "🐞",
-          "🐞",
-          "🐞"
-        ]
+        "emoji": "🐞",
+        "item_count": 3
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "target_count": 2
+      },
       "explanation": "Count as you tap: 1, 2. That makes two (2) ladybugs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Tap 3 🍌 bananas",
       "type": "tap_select",
+      "prompt": "Tap 3 🍌 bananas",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🍌",
-          "🍌",
-          "🍌",
-          "🍌",
-          "🍌",
-          "🍌"
-        ]
+        "emoji": "🍌",
+        "item_count": 6
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Tap 9 🐢 turtles",
       "type": "tap_select",
+      "prompt": "Tap 9 🐢 turtles",
       "options": {
         "mode": "count",
-        "target_count": 9,
-        "items": [
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢"
-        ]
+        "emoji": "🐢",
+        "item_count": 10
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "target_count": 9
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9. That makes nine (9) turtles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Tap 4 🍌 bananas",
       "type": "tap_select",
+      "prompt": "Tap 4 🍌 bananas",
       "options": {
         "mode": "count",
-        "target_count": 4,
-        "items": [
-          "🍌",
-          "🍌",
-          "🍌",
-          "🍌",
-          "🍌",
-          "🍌"
-        ]
+        "emoji": "🍌",
+        "item_count": 6
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "target_count": 4
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4. That makes four (4) bananas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Tap 5 🐶 dogs",
       "type": "tap_select",
+      "prompt": "Tap 5 🐶 dogs",
       "options": {
         "mode": "count",
-        "target_count": 5,
-        "items": [
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶"
-        ]
+        "emoji": "🐶",
+        "item_count": 7
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "target_count": 5
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5. That makes five (5) dogs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Tap 6 ⭐ stars",
       "type": "tap_select",
+      "prompt": "Tap 6 ⭐ stars",
       "options": {
         "mode": "count",
-        "target_count": 6,
-        "items": [
-          "⭐",
-          "⭐",
-          "⭐",
-          "⭐",
-          "⭐",
-          "⭐",
-          "⭐",
-          "⭐"
-        ]
+        "emoji": "⭐",
+        "item_count": 8
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "target_count": 6
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6. That makes six (6) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Tap 9 🐶 dogs",
       "type": "tap_select",
+      "prompt": "Tap 9 🐶 dogs",
       "options": {
         "mode": "count",
-        "target_count": 9,
-        "items": [
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶"
-        ]
+        "emoji": "🐶",
+        "item_count": 12
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "target_count": 9
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9. That makes nine (9) dogs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Tap 4 🐞 ladybugs",
       "type": "tap_select",
+      "prompt": "Tap 4 🐞 ladybugs",
       "options": {
         "mode": "count",
-        "target_count": 4,
-        "items": [
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞",
-          "🐞"
-        ]
+        "emoji": "🐞",
+        "item_count": 6
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "target_count": 4
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4. That makes four (4) ladybugs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Tap 3 🎈 balloons",
       "type": "tap_select",
+      "prompt": "Tap 3 🎈 balloons",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🎈",
-          "🎈",
-          "🎈",
-          "🎈"
-        ]
+        "emoji": "🎈",
+        "item_count": 4
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Tap 3 🍓 strawberries",
       "type": "tap_select",
+      "prompt": "Tap 3 🍓 strawberries",
       "options": {
         "mode": "count",
-        "target_count": 3,
-        "items": [
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓"
-        ]
+        "emoji": "🍓",
+        "item_count": 5
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "target_count": 3
+      },
       "explanation": "Count as you tap: 1, 2, 3. That makes three (3) strawberries.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Tap 4 🐢 turtles",
       "type": "tap_select",
+      "prompt": "Tap 4 🐢 turtles",
       "options": {
         "mode": "count",
-        "target_count": 4,
-        "items": [
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢",
-          "🐢"
-        ]
+        "emoji": "🐢",
+        "item_count": 6
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "target_count": 4
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4. That makes four (4) turtles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Tap 2 🌟 stars",
       "type": "tap_select",
+      "prompt": "Tap 2 🌟 stars",
       "options": {
         "mode": "count",
-        "target_count": 2,
-        "items": [
-          "🌟",
-          "🌟",
-          "🌟"
-        ]
+        "emoji": "🌟",
+        "item_count": 3
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "target_count": 2
+      },
       "explanation": "Count as you tap: 1, 2. That makes two (2) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Tap 4 🍓 strawberries",
       "type": "tap_select",
+      "prompt": "Tap 4 🍓 strawberries",
       "options": {
         "mode": "count",
-        "target_count": 4,
-        "items": [
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓"
-        ]
+        "emoji": "🍓",
+        "item_count": 6
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "target_count": 4
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4. That makes four (4) strawberries.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Tap 8 🦆 ducks",
       "type": "tap_select",
+      "prompt": "Tap 8 🦆 ducks",
       "options": {
         "mode": "count",
-        "target_count": 8,
-        "items": [
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆",
-          "🦆"
-        ]
+        "emoji": "🦆",
+        "item_count": 9
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "target_count": 8
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8. That makes eight (8) ducks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Tap 5 🌟 stars",
       "type": "tap_select",
+      "prompt": "Tap 5 🌟 stars",
       "options": {
         "mode": "count",
-        "target_count": 5,
-        "items": [
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟",
-          "🌟"
-        ]
+        "emoji": "🌟",
+        "item_count": 7
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "target_count": 5
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5. That makes five (5) stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Tap 4 🐟 fish",
       "type": "tap_select",
+      "prompt": "Tap 4 🐟 fish",
       "options": {
         "mode": "count",
-        "target_count": 4,
-        "items": [
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟"
-        ]
+        "emoji": "🐟",
+        "item_count": 6
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "target_count": 4
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4. That makes four (4) fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Tap 10 🐶 dogs",
       "type": "tap_select",
+      "prompt": "Tap 10 🐶 dogs",
       "options": {
         "mode": "count",
-        "target_count": 10,
-        "items": [
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶"
-        ]
+        "emoji": "🐶",
+        "item_count": 12
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "target_count": 10
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. That makes ten (10) dogs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Tap 1 🍓 strawberry",
       "type": "tap_select",
+      "prompt": "Tap 1 🍓 strawberry",
       "options": {
         "mode": "count",
-        "target_count": 1,
-        "items": [
-          "🍓",
-          "🍓",
-          "🍓"
-        ]
+        "emoji": "🍓",
+        "item_count": 3
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "target_count": 1
+      },
       "explanation": "Count as you tap: 1. That makes one (1) strawberry.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Tap 10 🍓 strawberries",
       "type": "tap_select",
+      "prompt": "Tap 10 🍓 strawberries",
       "options": {
         "mode": "count",
-        "target_count": 10,
-        "items": [
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓",
-          "🍓"
-        ]
+        "emoji": "🍓",
+        "item_count": 12
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "target_count": 10
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. That makes ten (10) strawberries.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Tap 7 🎈 balloons",
       "type": "tap_select",
+      "prompt": "Tap 7 🎈 balloons",
       "options": {
         "mode": "count",
-        "target_count": 7,
-        "items": [
-          "🎈",
-          "🎈",
-          "🎈",
-          "🎈",
-          "🎈",
-          "🎈",
-          "🎈",
-          "🎈",
-          "🎈"
-        ]
+        "emoji": "🎈",
+        "item_count": 9
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "target_count": 7
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7. That makes seven (7) balloons.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Tap 2 🍎 apples",
       "type": "tap_select",
+      "prompt": "Tap 2 🍎 apples",
       "options": {
         "mode": "count",
-        "target_count": 2,
-        "items": [
-          "🍎",
-          "🍎",
-          "🍎"
-        ]
+        "emoji": "🍎",
+        "item_count": 3
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "target_count": 2
+      },
       "explanation": "Count as you tap: 1, 2. That makes two (2) apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Tap 4 🌸 flowers",
       "type": "tap_select",
+      "prompt": "Tap 4 🌸 flowers",
       "options": {
         "mode": "count",
-        "target_count": 4,
-        "items": [
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸",
-          "🌸"
-        ]
+        "emoji": "🌸",
+        "item_count": 6
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "target_count": 4
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4. That makes four (4) flowers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Tap 8 🍎 apples",
       "type": "tap_select",
+      "prompt": "Tap 8 🍎 apples",
       "options": {
         "mode": "count",
-        "target_count": 8,
-        "items": [
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎",
-          "🍎"
-        ]
+        "emoji": "🍎",
+        "item_count": 11
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "target_count": 8
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8. That makes eight (8) apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Tap 8 🐶 dogs",
       "type": "tap_select",
+      "prompt": "Tap 8 🐶 dogs",
       "options": {
         "mode": "count",
-        "target_count": 8,
-        "items": [
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶",
-          "🐶"
-        ]
+        "emoji": "🐶",
+        "item_count": 10
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "target_count": 8
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8. That makes eight (8) dogs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Tap 9 🐟 fish",
       "type": "tap_select",
+      "prompt": "Tap 9 🐟 fish",
       "options": {
         "mode": "count",
-        "target_count": 9,
-        "items": [
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟",
-          "🐟"
-        ]
+        "emoji": "🐟",
+        "item_count": 11
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "target_count": 9
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5, 6, 7, 8, 9. That makes nine (9) fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Tap 1 🦋 butterfly",
       "type": "tap_select",
+      "prompt": "Tap 1 🦋 butterfly",
       "options": {
         "mode": "count",
-        "target_count": 1,
-        "items": [
-          "🦋",
-          "🦋"
-        ]
+        "emoji": "🦋",
+        "item_count": 2
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "target_count": 1
+      },
       "explanation": "Count as you tap: 1. That makes one (1) butterfly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Tap 5 🦋 butterflies",
       "type": "tap_select",
+      "prompt": "Tap 5 🦋 butterflies",
       "options": {
         "mode": "count",
-        "target_count": 5,
-        "items": [
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋",
-          "🦋"
-        ]
+        "emoji": "🦋",
+        "item_count": 8
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "target_count": 5
+      },
       "explanation": "Count as you tap: 1, 2, 3, 4, 5. That makes five (5) butterflies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

@@ -1,1716 +1,2915 @@
 {
   "_source_file": "level1_gk_fruits_veg.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "gk-fruits-veg",
-    "title": "GK – Fruits & Vegetables",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.563Z",
+  "slug": "gk-fruits-veg",
+  "title": "GK – Fruits & Vegetables",
+  "level": "level-1",
+  "subject": "gk",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Is a peas a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a peas a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Bird",
-          "Fruit",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Bird"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A peas is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which of these is a fruit — strawberry, cabbage or spinach?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — strawberry, cabbage or spinach?",
       "options": {
         "choices": [
-          "Strawberry",
-          "Radish",
-          "Cabbage"
+          {
+            "id": "c1",
+            "text": "Strawberry"
+          },
+          {
+            "id": "c2",
+            "text": "Radish"
+          },
+          {
+            "id": "c3",
+            "text": "Cabbage"
+          }
         ]
       },
-      "correct_answer": "Strawberry",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A strawberry is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "We call a pear a ___.",
       "type": "mcq",
+      "prompt": "We call a pear a ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Animal",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A pear is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which of these is a vegetable — radish, apple or peach?",
       "type": "mcq",
+      "prompt": "Which of these is a vegetable — radish, apple or peach?",
       "options": {
         "choices": [
-          "Radish",
-          "Grapes",
-          "Orange"
+          {
+            "id": "c1",
+            "text": "Radish"
+          },
+          {
+            "id": "c2",
+            "text": "Grapes"
+          },
+          {
+            "id": "c3",
+            "text": "Orange"
+          }
         ]
       },
-      "correct_answer": "Radish",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A radish is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which of these is a fruit — apple, peas or spinach?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — apple, peas or spinach?",
       "options": {
         "choices": [
-          "Pumpkin",
-          "Apple",
-          "Spinach"
+          {
+            "id": "c1",
+            "text": "Pumpkin"
+          },
+          {
+            "id": "c2",
+            "text": "Apple"
+          },
+          {
+            "id": "c3",
+            "text": "Spinach"
+          }
         ]
       },
-      "correct_answer": "Apple",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A apple is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Which of these is a vegetable — cauliflower, cherry or cherry?",
       "type": "mcq",
+      "prompt": "Which of these is a vegetable — cauliflower, cherry or cherry?",
       "options": {
         "choices": [
-          "Apple",
-          "Cherry",
-          "Cauliflower"
+          {
+            "id": "c1",
+            "text": "Apple"
+          },
+          {
+            "id": "c2",
+            "text": "Cherry"
+          },
+          {
+            "id": "c3",
+            "text": "Cauliflower"
+          }
         ]
       },
-      "correct_answer": "Cauliflower",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A cauliflower is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "A beans is a kind of ___.",
       "type": "mcq",
+      "prompt": "A beans is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A beans is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "A grapes is a kind of ___.",
       "type": "mcq",
+      "prompt": "A grapes is a kind of ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Animal",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A grapes is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which of these is a fruit — guava, beans or potato?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — guava, beans or potato?",
       "options": {
         "choices": [
-          "Guava",
-          "Brinjal",
-          "Spinach"
+          {
+            "id": "c1",
+            "text": "Guava"
+          },
+          {
+            "id": "c2",
+            "text": "Brinjal"
+          },
+          {
+            "id": "c3",
+            "text": "Spinach"
+          }
         ]
       },
-      "correct_answer": "Guava",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A guava is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "A orange is a kind of ___.",
       "type": "mcq",
+      "prompt": "A orange is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Animal"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Animal"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A orange is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Is a spinach a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a spinach a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Vegetable",
-          "Bird",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A spinach is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "We call a grapes a ___.",
       "type": "mcq",
+      "prompt": "We call a grapes a ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Animal"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Animal"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A grapes is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "A garlic is a kind of ___.",
       "type": "mcq",
+      "prompt": "A garlic is a kind of ___.",
       "options": {
         "choices": [
-          "Bird",
-          "Vegetable",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Bird"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A garlic is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "A radish is a kind of ___.",
       "type": "mcq",
+      "prompt": "A radish is a kind of ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Vegetable",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A radish is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "What colour is a lemon?",
       "type": "mcq",
+      "prompt": "What colour is a lemon?",
       "options": {
         "choices": [
-          "Blue",
-          "White",
-          "Yellow"
+          {
+            "id": "c1",
+            "text": "Blue"
+          },
+          {
+            "id": "c2",
+            "text": "White"
+          },
+          {
+            "id": "c3",
+            "text": "Yellow"
+          }
         ]
       },
-      "correct_answer": "Yellow",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A lemon is yellow.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Is a grapes a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a grapes a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Animal",
-          "Vegetable",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Animal"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A grapes is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Is a cherry a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a cherry a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Animal"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Animal"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A cherry is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Does a onion grow under the ground or on a tree?",
       "type": "mcq",
+      "prompt": "Does a onion grow under the ground or on a tree?",
       "options": {
         "choices": [
-          "In the sky",
-          "On a tree",
-          "Under the ground"
+          {
+            "id": "c1",
+            "text": "In the sky"
+          },
+          {
+            "id": "c2",
+            "text": "On a tree"
+          },
+          {
+            "id": "c3",
+            "text": "Under the ground"
+          }
         ]
       },
-      "correct_answer": "Under the ground",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A onion grows under the ground.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Is a radish a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a radish a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Bird",
-          "Fruit",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Bird"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A radish is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Is a potato a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a potato a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A potato is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "We call a papaya a ___.",
       "type": "mcq",
+      "prompt": "We call a papaya a ___.",
       "options": {
         "choices": [
-          "Animal",
-          "Vegetable",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Animal"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A papaya is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which of these is a vegetable — beans, strawberry or cherry?",
       "type": "mcq",
+      "prompt": "Which of these is a vegetable — beans, strawberry or cherry?",
       "options": {
         "choices": [
-          "Beans",
-          "Strawberry",
-          "Pineapple"
+          {
+            "id": "c1",
+            "text": "Beans"
+          },
+          {
+            "id": "c2",
+            "text": "Strawberry"
+          },
+          {
+            "id": "c3",
+            "text": "Pineapple"
+          }
         ]
       },
-      "correct_answer": "Beans",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A beans is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "We call a banana a ___.",
       "type": "mcq",
+      "prompt": "We call a banana a ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Vegetable",
-          "Animal"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Animal"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A banana is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "What colour is a carrot?",
       "type": "mcq",
+      "prompt": "What colour is a carrot?",
       "options": {
         "choices": [
-          "White",
-          "Purple",
-          "Orange"
+          {
+            "id": "c1",
+            "text": "White"
+          },
+          {
+            "id": "c2",
+            "text": "Purple"
+          },
+          {
+            "id": "c3",
+            "text": "Orange"
+          }
         ]
       },
-      "correct_answer": "Orange",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A carrot is orange.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "A cherry is a kind of ___.",
       "type": "mcq",
+      "prompt": "A cherry is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Animal",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A cherry is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "A mango is a kind of ___.",
       "type": "mcq",
+      "prompt": "A mango is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Animal"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Animal"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A mango is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Is a banana a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a banana a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Animal",
-          "Fruit",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Animal"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A banana is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Is a pumpkin a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a pumpkin a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Bird",
-          "Vegetable",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Bird"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A pumpkin is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "A onion is a kind of ___.",
       "type": "mcq",
+      "prompt": "A onion is a kind of ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Vegetable",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A onion is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "A papaya is a kind of ___.",
       "type": "mcq",
+      "prompt": "A papaya is a kind of ___.",
       "options": {
         "choices": [
-          "Animal",
-          "Vegetable",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Animal"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A papaya is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which of these is a vegetable — cabbage, guava or pineapple?",
       "type": "mcq",
+      "prompt": "Which of these is a vegetable — cabbage, guava or pineapple?",
       "options": {
         "choices": [
-          "Orange",
-          "Apple",
-          "Cabbage"
+          {
+            "id": "c1",
+            "text": "Orange"
+          },
+          {
+            "id": "c2",
+            "text": "Apple"
+          },
+          {
+            "id": "c3",
+            "text": "Cabbage"
+          }
         ]
       },
-      "correct_answer": "Cabbage",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A cabbage is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "We call a orange a ___.",
       "type": "mcq",
+      "prompt": "We call a orange a ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Animal",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A orange is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Is a guava a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a guava a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Animal",
-          "Vegetable",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Animal"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A guava is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "We call a radish a ___.",
       "type": "mcq",
+      "prompt": "We call a radish a ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Bird",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A radish is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Is a apple a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a apple a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Fruit",
-          "Vegetable",
-          "Animal"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Animal"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A apple is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "What colour is a pumpkin?",
       "type": "mcq",
+      "prompt": "What colour is a pumpkin?",
       "options": {
         "choices": [
-          "Orange",
-          "Blue",
-          "Pink"
+          {
+            "id": "c1",
+            "text": "Orange"
+          },
+          {
+            "id": "c2",
+            "text": "Blue"
+          },
+          {
+            "id": "c3",
+            "text": "Pink"
+          }
         ]
       },
-      "correct_answer": "Orange",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A pumpkin is orange.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "We call a mango a ___.",
       "type": "mcq",
+      "prompt": "We call a mango a ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Animal",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A mango is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "What colour is a mango?",
       "type": "mcq",
+      "prompt": "What colour is a mango?",
       "options": {
         "choices": [
-          "Brown",
-          "White",
-          "Yellow"
+          {
+            "id": "c1",
+            "text": "Brown"
+          },
+          {
+            "id": "c2",
+            "text": "White"
+          },
+          {
+            "id": "c3",
+            "text": "Yellow"
+          }
         ]
       },
-      "correct_answer": "Yellow",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A mango is yellow.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Does a radish grow under the ground or on a tree?",
       "type": "mcq",
+      "prompt": "Does a radish grow under the ground or on a tree?",
       "options": {
         "choices": [
-          "On a tree",
-          "In the sky",
-          "Under the ground"
+          {
+            "id": "c1",
+            "text": "On a tree"
+          },
+          {
+            "id": "c2",
+            "text": "In the sky"
+          },
+          {
+            "id": "c3",
+            "text": "Under the ground"
+          }
         ]
       },
-      "correct_answer": "Under the ground",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A radish grows under the ground.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "We call a spinach a ___.",
       "type": "mcq",
+      "prompt": "We call a spinach a ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Vegetable",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A spinach is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which of these is a fruit — grapes, cabbage or beans?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — grapes, cabbage or beans?",
       "options": {
         "choices": [
-          "Grapes",
-          "Onion",
-          "Carrot"
+          {
+            "id": "c1",
+            "text": "Grapes"
+          },
+          {
+            "id": "c2",
+            "text": "Onion"
+          },
+          {
+            "id": "c3",
+            "text": "Carrot"
+          }
         ]
       },
-      "correct_answer": "Grapes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A grapes is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Is a orange a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a orange a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Fruit",
-          "Vegetable",
-          "Animal"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Animal"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A orange is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Is a brinjal a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a brinjal a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Fruit",
-          "Bird",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A brinjal is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "A pear is a kind of ___.",
       "type": "mcq",
+      "prompt": "A pear is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Animal",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A pear is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which of these is a fruit — mango, brinjal or beans?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — mango, brinjal or beans?",
       "options": {
         "choices": [
-          "Mango",
-          "Cauliflower",
-          "Peas"
+          {
+            "id": "c1",
+            "text": "Mango"
+          },
+          {
+            "id": "c2",
+            "text": "Cauliflower"
+          },
+          {
+            "id": "c3",
+            "text": "Peas"
+          }
         ]
       },
-      "correct_answer": "Mango",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A mango is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "What colour is a banana?",
       "type": "mcq",
+      "prompt": "What colour is a banana?",
       "options": {
         "choices": [
-          "Purple",
-          "Yellow",
-          "Brown"
+          {
+            "id": "c1",
+            "text": "Purple"
+          },
+          {
+            "id": "c2",
+            "text": "Yellow"
+          },
+          {
+            "id": "c3",
+            "text": "Brown"
+          }
         ]
       },
-      "correct_answer": "Yellow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A banana is yellow.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Is a papaya a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a papaya a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Fruit",
-          "Animal",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A papaya is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "A cauliflower is a kind of ___.",
       "type": "mcq",
+      "prompt": "A cauliflower is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cauliflower is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which of these is a fruit — peach, pumpkin or peas?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — peach, pumpkin or peas?",
       "options": {
         "choices": [
-          "Peach",
-          "Brinjal",
-          "Cabbage"
+          {
+            "id": "c1",
+            "text": "Peach"
+          },
+          {
+            "id": "c2",
+            "text": "Brinjal"
+          },
+          {
+            "id": "c3",
+            "text": "Cabbage"
+          }
         ]
       },
-      "correct_answer": "Peach",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A peach is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which of these is a fruit — pear, spinach or carrot?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — pear, spinach or carrot?",
       "options": {
         "choices": [
-          "Carrot",
-          "Pear",
-          "Radish"
+          {
+            "id": "c1",
+            "text": "Carrot"
+          },
+          {
+            "id": "c2",
+            "text": "Pear"
+          },
+          {
+            "id": "c3",
+            "text": "Radish"
+          }
         ]
       },
-      "correct_answer": "Pear",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A pear is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "What colour is a orange?",
       "type": "mcq",
+      "prompt": "What colour is a orange?",
       "options": {
         "choices": [
-          "Orange",
-          "Red",
-          "Brown"
+          {
+            "id": "c1",
+            "text": "Orange"
+          },
+          {
+            "id": "c2",
+            "text": "Red"
+          },
+          {
+            "id": "c3",
+            "text": "Brown"
+          }
         ]
       },
-      "correct_answer": "Orange",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A orange is orange.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Does a carrot grow under the ground or on a tree?",
       "type": "mcq",
+      "prompt": "Does a carrot grow under the ground or on a tree?",
       "options": {
         "choices": [
-          "On a tree",
-          "In the sky",
-          "Under the ground"
+          {
+            "id": "c1",
+            "text": "On a tree"
+          },
+          {
+            "id": "c2",
+            "text": "In the sky"
+          },
+          {
+            "id": "c3",
+            "text": "Under the ground"
+          }
         ]
       },
-      "correct_answer": "Under the ground",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A carrot grows under the ground.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "We call a strawberry a ___.",
       "type": "mcq",
+      "prompt": "We call a strawberry a ___.",
       "options": {
         "choices": [
-          "Animal",
-          "Fruit",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Animal"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A strawberry is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Is a mango a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a mango a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Animal"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Animal"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A mango is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Is a peach a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a peach a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Vegetable",
-          "Animal",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A peach is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "We call a cauliflower a ___.",
       "type": "mcq",
+      "prompt": "We call a cauliflower a ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Vegetable",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A cauliflower is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "A banana is a kind of ___.",
       "type": "mcq",
+      "prompt": "A banana is a kind of ___.",
       "options": {
         "choices": [
-          "Animal",
-          "Fruit",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Animal"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A banana is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Is a pineapple a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a pineapple a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Animal"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Animal"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A pineapple is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which of these is a fruit — banana, garlic or peas?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — banana, garlic or peas?",
       "options": {
         "choices": [
-          "Banana",
-          "Garlic",
-          "Pumpkin"
+          {
+            "id": "c1",
+            "text": "Banana"
+          },
+          {
+            "id": "c2",
+            "text": "Garlic"
+          },
+          {
+            "id": "c3",
+            "text": "Pumpkin"
+          }
         ]
       },
-      "correct_answer": "Banana",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A banana is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which of these is a vegetable — carrot, watermelon or orange?",
       "type": "mcq",
+      "prompt": "Which of these is a vegetable — carrot, watermelon or orange?",
       "options": {
         "choices": [
-          "Pineapple",
-          "Carrot",
-          "Grapes"
+          {
+            "id": "c1",
+            "text": "Pineapple"
+          },
+          {
+            "id": "c2",
+            "text": "Carrot"
+          },
+          {
+            "id": "c3",
+            "text": "Grapes"
+          }
         ]
       },
-      "correct_answer": "Carrot",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A carrot is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "A carrot is a kind of ___.",
       "type": "mcq",
+      "prompt": "A carrot is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Bird",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A carrot is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "We call a cabbage a ___.",
       "type": "mcq",
+      "prompt": "We call a cabbage a ___.",
       "options": {
         "choices": [
-          "Bird",
-          "Vegetable",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Bird"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A cabbage is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "We call a garlic a ___.",
       "type": "mcq",
+      "prompt": "We call a garlic a ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Bird",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A garlic is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Is a onion a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a onion a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Fruit",
-          "Vegetable",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A onion is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "A pineapple is a kind of ___.",
       "type": "mcq",
+      "prompt": "A pineapple is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Animal"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Animal"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A pineapple is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which of these is a vegetable — brinjal, watermelon or orange?",
       "type": "mcq",
+      "prompt": "Which of these is a vegetable — brinjal, watermelon or orange?",
       "options": {
         "choices": [
-          "Watermelon",
-          "Pear",
-          "Brinjal"
+          {
+            "id": "c1",
+            "text": "Watermelon"
+          },
+          {
+            "id": "c2",
+            "text": "Pear"
+          },
+          {
+            "id": "c3",
+            "text": "Brinjal"
+          }
         ]
       },
-      "correct_answer": "Brinjal",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A brinjal is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which of these is a fruit — cherry, potato or spinach?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — cherry, potato or spinach?",
       "options": {
         "choices": [
-          "Pumpkin",
-          "Carrot",
-          "Cherry"
+          {
+            "id": "c1",
+            "text": "Pumpkin"
+          },
+          {
+            "id": "c2",
+            "text": "Carrot"
+          },
+          {
+            "id": "c3",
+            "text": "Cherry"
+          }
         ]
       },
-      "correct_answer": "Cherry",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A cherry is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "We call a carrot a ___.",
       "type": "mcq",
+      "prompt": "We call a carrot a ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Bird",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A carrot is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "A brinjal is a kind of ___.",
       "type": "mcq",
+      "prompt": "A brinjal is a kind of ___.",
       "options": {
         "choices": [
-          "Bird",
-          "Fruit",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Bird"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A brinjal is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Is a beans a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a beans a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A beans is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "We call a guava a ___.",
       "type": "mcq",
+      "prompt": "We call a guava a ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Animal",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A guava is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which of these is a vegetable — onion, pear or pineapple?",
       "type": "mcq",
+      "prompt": "Which of these is a vegetable — onion, pear or pineapple?",
       "options": {
         "choices": [
-          "Onion",
-          "Cherry",
-          "Peach"
+          {
+            "id": "c1",
+            "text": "Onion"
+          },
+          {
+            "id": "c2",
+            "text": "Cherry"
+          },
+          {
+            "id": "c3",
+            "text": "Peach"
+          }
         ]
       },
-      "correct_answer": "Onion",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A onion is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Is a cabbage a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a cabbage a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Vegetable",
-          "Bird",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cabbage is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "A peach is a kind of ___.",
       "type": "mcq",
+      "prompt": "A peach is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Animal"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Animal"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A peach is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which of these is a fruit — orange, onion or garlic?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — orange, onion or garlic?",
       "options": {
         "choices": [
-          "Radish",
-          "Orange",
-          "Spinach"
+          {
+            "id": "c1",
+            "text": "Radish"
+          },
+          {
+            "id": "c2",
+            "text": "Orange"
+          },
+          {
+            "id": "c3",
+            "text": "Spinach"
+          }
         ]
       },
-      "correct_answer": "Orange",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A orange is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which of these is a fruit — watermelon, radish or potato?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — watermelon, radish or potato?",
       "options": {
         "choices": [
-          "Watermelon",
-          "Potato",
-          "Onion"
+          {
+            "id": "c1",
+            "text": "Watermelon"
+          },
+          {
+            "id": "c2",
+            "text": "Potato"
+          },
+          {
+            "id": "c3",
+            "text": "Onion"
+          }
         ]
       },
-      "correct_answer": "Watermelon",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A watermelon is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Does a potato grow under the ground or on a tree?",
       "type": "mcq",
+      "prompt": "Does a potato grow under the ground or on a tree?",
       "options": {
         "choices": [
-          "In the sky",
-          "On a tree",
-          "Under the ground"
+          {
+            "id": "c1",
+            "text": "In the sky"
+          },
+          {
+            "id": "c2",
+            "text": "On a tree"
+          },
+          {
+            "id": "c3",
+            "text": "Under the ground"
+          }
         ]
       },
-      "correct_answer": "Under the ground",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A potato grows under the ground.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which of these is a fruit — pineapple, beans or carrot?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — pineapple, beans or carrot?",
       "options": {
         "choices": [
-          "Spinach",
-          "Pineapple",
-          "Garlic"
+          {
+            "id": "c1",
+            "text": "Spinach"
+          },
+          {
+            "id": "c2",
+            "text": "Pineapple"
+          },
+          {
+            "id": "c3",
+            "text": "Garlic"
+          }
         ]
       },
-      "correct_answer": "Pineapple",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A pineapple is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Is a carrot a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a carrot a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Bird",
-          "Vegetable",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Bird"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A carrot is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "A potato is a kind of ___.",
       "type": "mcq",
+      "prompt": "A potato is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A potato is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "We call a peas a ___.",
       "type": "mcq",
+      "prompt": "We call a peas a ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A peas is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "We call a pumpkin a ___.",
       "type": "mcq",
+      "prompt": "We call a pumpkin a ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Vegetable",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A pumpkin is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Is a pear a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a pear a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Animal",
-          "Fruit",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Animal"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A pear is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "A peas is a kind of ___.",
       "type": "mcq",
+      "prompt": "A peas is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Bird",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A peas is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Which of these is a fruit — papaya, cauliflower or cabbage?",
       "type": "mcq",
+      "prompt": "Which of these is a fruit — papaya, cauliflower or cabbage?",
       "options": {
         "choices": [
-          "Beans",
-          "Papaya",
-          "Peas"
+          {
+            "id": "c1",
+            "text": "Beans"
+          },
+          {
+            "id": "c2",
+            "text": "Papaya"
+          },
+          {
+            "id": "c3",
+            "text": "Peas"
+          }
         ]
       },
-      "correct_answer": "Papaya",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A papaya is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "What colour is a spinach?",
       "type": "mcq",
+      "prompt": "What colour is a spinach?",
       "options": {
         "choices": [
-          "Black",
-          "Brown",
-          "Green"
+          {
+            "id": "c1",
+            "text": "Black"
+          },
+          {
+            "id": "c2",
+            "text": "Brown"
+          },
+          {
+            "id": "c3",
+            "text": "Green"
+          }
         ]
       },
-      "correct_answer": "Green",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A spinach is green.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which of these is a vegetable — pumpkin, cherry or cherry?",
       "type": "mcq",
+      "prompt": "Which of these is a vegetable — pumpkin, cherry or cherry?",
       "options": {
         "choices": [
-          "Pumpkin",
-          "Grapes",
-          "Orange"
+          {
+            "id": "c1",
+            "text": "Pumpkin"
+          },
+          {
+            "id": "c2",
+            "text": "Grapes"
+          },
+          {
+            "id": "c3",
+            "text": "Orange"
+          }
         ]
       },
-      "correct_answer": "Pumpkin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A pumpkin is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "What colour is a cabbage?",
       "type": "mcq",
+      "prompt": "What colour is a cabbage?",
       "options": {
         "choices": [
-          "Green",
-          "Black",
-          "White"
+          {
+            "id": "c1",
+            "text": "Green"
+          },
+          {
+            "id": "c2",
+            "text": "Black"
+          },
+          {
+            "id": "c3",
+            "text": "White"
+          }
         ]
       },
-      "correct_answer": "Green",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cabbage is green.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "What colour is a apple?",
       "type": "mcq",
+      "prompt": "What colour is a apple?",
       "options": {
         "choices": [
-          "Orange",
-          "Black",
-          "Red"
+          {
+            "id": "c1",
+            "text": "Orange"
+          },
+          {
+            "id": "c2",
+            "text": "Black"
+          },
+          {
+            "id": "c3",
+            "text": "Red"
+          }
         ]
       },
-      "correct_answer": "Red",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A apple is red.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "We call a apple a ___.",
       "type": "mcq",
+      "prompt": "We call a apple a ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Animal",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A apple is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "We call a peach a ___.",
       "type": "mcq",
+      "prompt": "We call a peach a ___.",
       "options": {
         "choices": [
-          "Animal",
-          "Fruit",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Animal"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A peach is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "A guava is a kind of ___.",
       "type": "mcq",
+      "prompt": "A guava is a kind of ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Animal",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A guava is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "A pumpkin is a kind of ___.",
       "type": "mcq",
+      "prompt": "A pumpkin is a kind of ___.",
       "options": {
         "choices": [
-          "Bird",
-          "Fruit",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Bird"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A pumpkin is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which of these is a vegetable — spinach, apple or mango?",
       "type": "mcq",
+      "prompt": "Which of these is a vegetable — spinach, apple or mango?",
       "options": {
         "choices": [
-          "Spinach",
-          "Strawberry",
-          "Orange"
+          {
+            "id": "c1",
+            "text": "Spinach"
+          },
+          {
+            "id": "c2",
+            "text": "Strawberry"
+          },
+          {
+            "id": "c3",
+            "text": "Orange"
+          }
         ]
       },
-      "correct_answer": "Spinach",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A spinach is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Is a strawberry a fruit or a vegetable?",
       "type": "mcq",
+      "prompt": "Is a strawberry a fruit or a vegetable?",
       "options": {
         "choices": [
-          "Vegetable",
-          "Animal",
-          "Fruit"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Fruit"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A strawberry is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "What colour is a peas?",
       "type": "mcq",
+      "prompt": "What colour is a peas?",
       "options": {
         "choices": [
-          "Blue",
-          "Green",
-          "Orange"
+          {
+            "id": "c1",
+            "text": "Blue"
+          },
+          {
+            "id": "c2",
+            "text": "Green"
+          },
+          {
+            "id": "c3",
+            "text": "Orange"
+          }
         ]
       },
-      "correct_answer": "Green",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A peas is green.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "We call a onion a ___.",
       "type": "mcq",
+      "prompt": "We call a onion a ___.",
       "options": {
         "choices": [
-          "Vegetable",
-          "Fruit",
-          "Bird"
+          {
+            "id": "c1",
+            "text": "Vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "Fruit"
+          },
+          {
+            "id": "c3",
+            "text": "Bird"
+          }
         ]
       },
-      "correct_answer": "Vegetable",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A onion is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "What colour is a cherry?",
       "type": "mcq",
+      "prompt": "What colour is a cherry?",
       "options": {
         "choices": [
-          "Purple",
-          "Green",
-          "Red"
+          {
+            "id": "c1",
+            "text": "Purple"
+          },
+          {
+            "id": "c2",
+            "text": "Green"
+          },
+          {
+            "id": "c3",
+            "text": "Red"
+          }
         ]
       },
-      "correct_answer": "Red",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A cherry is red.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Which of these is a vegetable — garlic, cherry or pear?",
       "type": "mcq",
+      "prompt": "Which of these is a vegetable — garlic, cherry or pear?",
       "options": {
         "choices": [
-          "Strawberry",
-          "Papaya",
-          "Garlic"
+          {
+            "id": "c1",
+            "text": "Strawberry"
+          },
+          {
+            "id": "c2",
+            "text": "Papaya"
+          },
+          {
+            "id": "c3",
+            "text": "Garlic"
+          }
         ]
       },
-      "correct_answer": "Garlic",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A garlic is a vegetable.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "A watermelon is a kind of ___.",
       "type": "mcq",
+      "prompt": "A watermelon is a kind of ___.",
       "options": {
         "choices": [
-          "Fruit",
-          "Animal",
-          "Vegetable"
+          {
+            "id": "c1",
+            "text": "Fruit"
+          },
+          {
+            "id": "c2",
+            "text": "Animal"
+          },
+          {
+            "id": "c3",
+            "text": "Vegetable"
+          }
         ]
       },
-      "correct_answer": "Fruit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A watermelon is a fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

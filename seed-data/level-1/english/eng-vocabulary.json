@@ -1,1616 +1,2515 @@
 {
   "_source_file": "level1_eng_vocabulary.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "eng-vocabulary",
-    "title": "Vocabulary & Meaning",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.537Z",
+  "slug": "eng-vocabulary",
+  "title": "Vocabulary & Meaning",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What is the meaning of learn?",
       "type": "mcq",
+      "prompt": "What is the meaning of learn?",
       "options": {
         "choices": [
-          "Gain knowledge or a new skill",
-          "Normal or ordinary skills"
+          {
+            "id": "c1",
+            "text": "Gain knowledge or a new skill"
+          },
+          {
+            "id": "c2",
+            "text": "Normal or ordinary skills"
+          }
         ]
       },
-      "correct_answer": "Gain knowledge or a new skill",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Learning means acquiring new information, understanding, or abilities through study or experience.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "What is the meaning of subject?",
       "type": "mcq",
+      "prompt": "What is the meaning of subject?",
       "options": {
         "choices": [
-          "Things you study at school",
-          "Normal or ordinary skills"
+          {
+            "id": "c1",
+            "text": "Things you study at school"
+          },
+          {
+            "id": "c2",
+            "text": "Normal or ordinary skills"
+          }
         ]
       },
-      "correct_answer": "Things you study at school",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A subject is a specific branch of knowledge or course of study, such as math, science, or history.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "What is the meaning of common?",
       "type": "mcq",
+      "prompt": "What is the meaning of common?",
       "options": {
         "choices": [
-          "Things you study at school",
-          "Normal or ordinary"
+          {
+            "id": "c1",
+            "text": "Things you study at school"
+          },
+          {
+            "id": "c2",
+            "text": "Normal or ordinary"
+          }
         ]
       },
-      "correct_answer": "Normal or ordinary",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Something is common if it is found frequently, happens often, or is shared normally by many.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "What is the meaning of object?",
       "type": "mcq",
+      "prompt": "What is the meaning of object?",
       "options": {
         "choices": [
-          "A thing or an item",
-          "Remember something because you have seen it before"
+          {
+            "id": "c1",
+            "text": "A thing or an item"
+          },
+          {
+            "id": "c2",
+            "text": "Remember something because you have seen it before"
+          }
         ]
       },
-      "correct_answer": "A thing or an item",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "An object is a tangible, non-living visible entity that can be seen or touched.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "What is the meaning of recognize?",
       "type": "mcq",
+      "prompt": "What is the meaning of recognize?",
       "options": {
         "choices": [
-          "Remember something because you have seen it before",
-          "Things you study at school"
+          {
+            "id": "c1",
+            "text": "Remember something because you have seen it before"
+          },
+          {
+            "id": "c2",
+            "text": "Things you study at school"
+          }
         ]
       },
-      "correct_answer": "Remember something because you have seen it before",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "To recognize someone or something means to identify them from previous knowledge or an earlier encounter.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "What is the meaning city?",
       "type": "mcq",
+      "prompt": "What is the meaning city?",
       "options": {
         "choices": [
-          "A large town with tall buildings and many people",
-          "A big fancy meal with many different foods"
+          {
+            "id": "c1",
+            "text": "A large town with tall buildings and many people"
+          },
+          {
+            "id": "c2",
+            "text": "A big fancy meal with many different foods"
+          }
         ]
       },
-      "correct_answer": "A large town with tall buildings and many people",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A city is a significant human settlement characterized by high population density and advanced infrastructure.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "What is the meaning of bored?",
       "type": "mcq",
+      "prompt": "What is the meaning of bored?",
       "options": {
         "choices": [
-          "Just want to sleep and relax",
-          "Having nothing to do or nothing that is interesting"
+          {
+            "id": "c1",
+            "text": "Just want to sleep and relax"
+          },
+          {
+            "id": "c2",
+            "text": "Having nothing to do or nothing that is interesting"
+          }
         ]
       },
-      "correct_answer": "Having nothing to do or nothing that is interesting",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Boredom is a state of feeling weary and restless through lack of interest or activity.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "What is the meaning of feast?",
       "type": "mcq",
+      "prompt": "What is the meaning of feast?",
       "options": {
         "choices": [
-          "When you feel you want to eat a lot",
-          "A big fancy meal with many different foods"
+          {
+            "id": "c1",
+            "text": "When you feel you want to eat a lot"
+          },
+          {
+            "id": "c2",
+            "text": "A big fancy meal with many different foods"
+          }
         ]
       },
-      "correct_answer": "A big fancy meal with many different foods",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A feast is a large, celebratory meal, typically prepared for many guests or special events.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "What is the meaning of scurried?",
       "type": "mcq",
+      "prompt": "What is the meaning of scurried?",
       "options": {
         "choices": [
-          "Moved very quickly",
-          "Walk slowly"
+          {
+            "id": "c1",
+            "text": "Moved very quickly"
+          },
+          {
+            "id": "c2",
+            "text": "Walk slowly"
+          }
         ]
       },
-      "correct_answer": "Moved very quickly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Scurrying implies moving rapidly with small, short, hurried steps, often like a small animal.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "What is the meaning of care?",
       "type": "mcq",
+      "prompt": "What is the meaning of care?",
       "options": {
         "choices": [
-          "To give something what it needs to stay healthy and happy",
-          "When you feel you want to eat a lot"
+          {
+            "id": "c1",
+            "text": "To give something what it needs to stay healthy and happy"
+          },
+          {
+            "id": "c2",
+            "text": "When you feel you want to eat a lot"
+          }
         ]
       },
-      "correct_answer": "To give something what it needs to stay healthy and happy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Providing care means looking after something or someone, attending to their well-being and needs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "What is the meaning of train?",
       "type": "mcq",
+      "prompt": "What is the meaning of train?",
       "options": {
         "choices": [
-          "An animal or person that keeps you company",
-          "Teach someone to do things"
+          {
+            "id": "c1",
+            "text": "An animal or person that keeps you company"
+          },
+          {
+            "id": "c2",
+            "text": "Teach someone to do things"
+          }
         ]
       },
-      "correct_answer": "Teach someone to do things",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "To train means to guide, instruct, or practice skills until a person or animal reaches proficiency.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "What is the meaning of companion?",
       "type": "mcq",
+      "prompt": "What is the meaning of companion?",
       "options": {
         "choices": [
-          "An animal or person that keeps you company",
-          "When you feel you want to eat a lot"
+          {
+            "id": "c1",
+            "text": "An animal or person that keeps you company"
+          },
+          {
+            "id": "c2",
+            "text": "When you feel you want to eat a lot"
+          }
         ]
       },
-      "correct_answer": "An animal or person that keeps you company",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A companion is a fellow traveler, partner, or pet that shares time and experiences with you.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "What is the meaning of groom?",
       "type": "mcq",
+      "prompt": "What is the meaning of groom?",
       "options": {
         "choices": [
-          "To be very happy and healthy",
-          "To wash and brush"
+          {
+            "id": "c1",
+            "text": "To be very happy and healthy"
+          },
+          {
+            "id": "c2",
+            "text": "To wash and brush"
+          }
         ]
       },
-      "correct_answer": "To wash and brush",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Grooming means cleaning, brushing, or tending to the appearance of an animal's coat or a person's body.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "What is the meaning of object?",
       "type": "mcq",
+      "prompt": "What is the meaning of object?",
       "options": {
         "choices": [
-          "Remember something because you have seen it before",
-          "A thing or an item"
+          {
+            "id": "c1",
+            "text": "Remember something because you have seen it before"
+          },
+          {
+            "id": "c2",
+            "text": "A thing or an item"
+          }
         ]
       },
-      "correct_answer": "A thing or an item",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An object refers directly to any material item or element that can be perceived by the senses.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "What is the meaning of popular?",
       "type": "mcq",
+      "prompt": "What is the meaning of popular?",
       "options": {
         "choices": [
-          "Enjoyed by many people",
-          "Be outraged with people"
+          {
+            "id": "c1",
+            "text": "Enjoyed by many people"
+          },
+          {
+            "id": "c2",
+            "text": "Be outraged with people"
+          }
         ]
       },
-      "correct_answer": "Enjoyed by many people",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Popular means being widely liked, approved of, admired, or sought out by the general public.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "What is the meaning of cooperate?",
       "type": "mcq",
+      "prompt": "What is the meaning of cooperate?",
       "options": {
         "choices": [
-          "Working very hard to achieve a lot",
-          "Work together to get something done"
+          {
+            "id": "c1",
+            "text": "Working very hard to achieve a lot"
+          },
+          {
+            "id": "c2",
+            "text": "Work together to get something done"
+          }
         ]
       },
-      "correct_answer": "Work together to get something done",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Cooperation involves joint efforts and mutual assistance to achieve shared objectives.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "What is the meaning of relationship?",
       "type": "mcq",
+      "prompt": "What is the meaning of relationship?",
       "options": {
         "choices": [
-          "Talking to someone about something",
-          "A connection with a person"
+          {
+            "id": "c1",
+            "text": "Talking to someone about something"
+          },
+          {
+            "id": "c2",
+            "text": "A connection with a person"
+          }
         ]
       },
-      "correct_answer": "A connection with a person",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A relationship is an emotional, social, or structural link between individuals.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "What is the meaning of chore?",
       "type": "mcq",
+      "prompt": "What is the meaning of chore?",
       "options": {
         "choices": [
-          "Listening to your mom",
-          "A small job you must do"
+          {
+            "id": "c1",
+            "text": "Listening to your mom"
+          },
+          {
+            "id": "c2",
+            "text": "A small job you must do"
+          }
         ]
       },
-      "correct_answer": "A small job you must do",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A chore is a routine domestic task or daily responsibility that is necessary but often tedious.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "What is the meaning of collect?",
       "type": "mcq",
+      "prompt": "What is the meaning of collect?",
       "options": {
         "choices": [
-          "Gather things together",
-          "Try to buy everything you see"
+          {
+            "id": "c1",
+            "text": "Gather things together"
+          },
+          {
+            "id": "c2",
+            "text": "Try to buy everything you see"
+          }
         ]
       },
-      "correct_answer": "Gather things together",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "To collect means to accumulate or assemble items into a centralized group or repository.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "What is the meaning of deliver?",
       "type": "mcq",
+      "prompt": "What is the meaning of deliver?",
       "options": {
         "choices": [
-          "To take something to the person it belongs to",
-          "To give someone something they don’t want"
+          {
+            "id": "c1",
+            "text": "To take something to the person it belongs to"
+          },
+          {
+            "id": "c2",
+            "text": "To give someone something they don’t want"
+          }
         ]
       },
-      "correct_answer": "To take something to the person it belongs to",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Delivering means transporting and handing over packages, goods, or messages to the intended recipient.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "What is the meaning of exercise?",
       "type": "mcq",
+      "prompt": "What is the meaning of exercise?",
       "options": {
         "choices": [
-          "Activities you do with your body to stay healthy and become strong",
-          "Only climbing would be the best exercise for the human body"
+          {
+            "id": "c1",
+            "text": "Activities you do with your body to stay healthy and become strong"
+          },
+          {
+            "id": "c2",
+            "text": "Only climbing would be the best exercise for the human body"
+          }
         ]
       },
-      "correct_answer": "Activities you do with your body to stay healthy and become strong",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Exercise encompasses physical exertion designed to maintain physical fitness, stamina, and overall health.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "What is the meaning of physical?",
       "type": "mcq",
+      "prompt": "What is the meaning of physical?",
       "options": {
         "choices": [
-          "About the skin",
-          "About the body"
+          {
+            "id": "c1",
+            "text": "About the skin"
+          },
+          {
+            "id": "c2",
+            "text": "About the body"
+          }
         ]
       },
-      "correct_answer": "About the body",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Physical' refers directly to structural bodily anatomy as opposed to psychological thoughts or minds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "What is the meaning of agree?",
       "type": "mcq",
+      "prompt": "What is the meaning of agree?",
       "options": {
         "choices": [
-          "Have the same idea about something",
-          "Hard to do or full of problems"
+          {
+            "id": "c1",
+            "text": "Have the same idea about something"
+          },
+          {
+            "id": "c2",
+            "text": "Hard to do or full of problems"
+          }
         ]
       },
-      "correct_answer": "Have the same idea about something",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "To agree means to share consensus, perspectives, opinions, or baseline alignment on an idea.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "What is the meaning of difficult?",
       "type": "mcq",
+      "prompt": "What is the meaning of difficult?",
       "options": {
         "choices": [
-          "Easy to do with zero pressure",
-          "Hard to do or full of problems"
+          {
+            "id": "c1",
+            "text": "Easy to do with zero pressure"
+          },
+          {
+            "id": "c2",
+            "text": "Hard to do or full of problems"
+          }
         ]
       },
-      "correct_answer": "Hard to do or full of problems",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Difficult tasks demand deep concentration, intense energy, skill, or problem-solving due to structural obstacles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "What is the meaning of exhausted?",
       "type": "mcq",
+      "prompt": "What is the meaning of exhausted?",
       "options": {
         "choices": [
-          "Very, very tired",
-          "Very, very hungry"
+          {
+            "id": "c1",
+            "text": "Very, very tired"
+          },
+          {
+            "id": "c2",
+            "text": "Very, very hungry"
+          }
         ]
       },
-      "correct_answer": "Very, very tired",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Exhaustion is a state of extreme systemic fatigue, draining physical or mental energy parameters completely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "What is the meaning of group?",
       "type": "mcq",
+      "prompt": "What is the meaning of group?",
       "options": {
         "choices": [
-          "Is something different from one another",
-          "Is a number of people or things together"
+          {
+            "id": "c1",
+            "text": "Is something different from one another"
+          },
+          {
+            "id": "c2",
+            "text": "Is a number of people or things together"
+          }
         ]
       },
-      "correct_answer": "Is a number of people or things together",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A group is a collective assembly of multiple distinct units grouped or classified together.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "What is the meaning of various?",
       "type": "mcq",
+      "prompt": "What is the meaning of various?",
       "options": {
         "choices": [
-          "Different from one another",
-          "Is a number of people or things together"
+          {
+            "id": "c1",
+            "text": "Different from one another"
+          },
+          {
+            "id": "c2",
+            "text": "Is a number of people or things together"
+          }
         ]
       },
-      "correct_answer": "Different from one another",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Various indicates a distinct assortment showing multiple traits, shapes, characteristics, or qualities.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "What is the meaning of living things?",
       "type": "mcq",
+      "prompt": "What is the meaning of living things?",
       "options": {
         "choices": [
-          "Living things are people, plants, and animals",
-          "Living things are only humans"
+          {
+            "id": "c1",
+            "text": "Living things are people, plants, and animals"
+          },
+          {
+            "id": "c2",
+            "text": "Living things are only humans"
+          }
         ]
       },
-      "correct_answer": "Living things are people, plants, and animals",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Living biological elements consume energy, breathe, adapt, grow, respond to stimuli, and reproduce over lifespans.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "What is the meaning of Population?",
       "type": "mcq",
+      "prompt": "What is the meaning of Population?",
       "options": {
         "choices": [
-          "To count the people living in rural areas",
-          "The total number of people living in a given area"
+          {
+            "id": "c1",
+            "text": "To count the people living in rural areas"
+          },
+          {
+            "id": "c2",
+            "text": "The total number of people living in a given area"
+          }
         ]
       },
-      "correct_answer": "The total number of people living in a given area",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Population is the quantitative measurement of total collective individuals occupying a defined geographic territory.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "What is the meaning of dynasty?",
       "type": "mcq",
+      "prompt": "What is the meaning of dynasty?",
       "options": {
         "choices": [
-          "A series of rulers from the same family or line",
-          "A series of farmers from the same clan or tribe"
+          {
+            "id": "c1",
+            "text": "A series of rulers from the same family or line"
+          },
+          {
+            "id": "c2",
+            "text": "A series of farmers from the same clan or tribe"
+          }
         ]
       },
-      "correct_answer": "A series of rulers from the same family or line",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A dynasty tracks continuous inheritance where generational political governance keys stay within a family lineage.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "What is the meaning of force?",
       "type": "mcq",
+      "prompt": "What is the meaning of force?",
       "options": {
         "choices": [
-          "A push",
-          "A push and pull"
+          {
+            "id": "c1",
+            "text": "A push"
+          },
+          {
+            "id": "c2",
+            "text": "A push and pull"
+          }
         ]
       },
-      "correct_answer": "A push and pull",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "In mechanical physics, force functions as any interaction that changes or accelerates target mass trajectories via pushes or pulls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "What is the meaning of danger?",
       "type": "mcq",
+      "prompt": "What is the meaning of danger?",
       "options": {
         "choices": [
-          "There is a risk of being hurt or harmed",
-          "There is no risk of being hurt or harmed"
+          {
+            "id": "c1",
+            "text": "There is a risk of being hurt or harmed"
+          },
+          {
+            "id": "c2",
+            "text": "There is no risk of being hurt or harmed"
+          }
         ]
       },
-      "correct_answer": "There is a risk of being hurt or harmed",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Danger points to unsafe operational states harboring imminent safety risks, damage vectors, injuries, or losses.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "What is the meaning of partner?",
       "type": "mcq",
+      "prompt": "What is the meaning of partner?",
       "options": {
         "choices": [
-          "A person who works with you to do something",
-          "A person who has issues with you"
+          {
+            "id": "c1",
+            "text": "A person who works with you to do something"
+          },
+          {
+            "id": "c2",
+            "text": "A person who has issues with you"
+          }
         ]
       },
-      "correct_answer": "A person who works with you to do something",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A partner operates as a close teammate, collaborator, or ally working hand-in-hand to hit cooperative checkpoints.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "What is the meaning of cake?",
       "type": "mcq",
+      "prompt": "What is the meaning of cake?",
       "options": {
         "choices": [
-          "A sweet food we eat at parties",
-          "A spicy food we eat at parties"
+          {
+            "id": "c1",
+            "text": "A sweet food we eat at parties"
+          },
+          {
+            "id": "c2",
+            "text": "A spicy food we eat at parties"
+          }
         ]
       },
-      "correct_answer": "A sweet food we eat at parties",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cake is a sweet baked dessert item utilizing flour, sugar, and various decorative frostings for celebratory gatherings.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "What is the meaning of calendar?",
       "type": "mcq",
+      "prompt": "What is the meaning of calendar?",
       "options": {
         "choices": [
-          "A chart that shows us how to celebrate everyday",
-          "A chart that shows the days, weeks, and months in a year"
+          {
+            "id": "c1",
+            "text": "A chart that shows us how to celebrate everyday"
+          },
+          {
+            "id": "c2",
+            "text": "A chart that shows the days, weeks, and months in a year"
+          }
         ]
       },
-      "correct_answer": "A chart that shows the days, weeks, and months in a year",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A calendar breaks up seasonal structural time intervals down into logical metrics of dates, weeks, and months.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "What is the meaning of occasion?",
       "type": "mcq",
+      "prompt": "What is the meaning of occasion?",
       "options": {
         "choices": [
-          "A special time or event",
-          "A special year or decade"
+          {
+            "id": "c1",
+            "text": "A special time or event"
+          },
+          {
+            "id": "c2",
+            "text": "A special year or decade"
+          }
         ]
       },
-      "correct_answer": "A special time or event",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "An occasion functions as an noteworthy event occurrence marked by celebration or unique situational rules.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "What is the meaning weekend?",
       "type": "mcq",
+      "prompt": "What is the meaning weekend?",
       "options": {
         "choices": [
-          "Saturday and Sunday",
-          "Sunday and Monday"
+          {
+            "id": "c1",
+            "text": "Saturday and Sunday"
+          },
+          {
+            "id": "c2",
+            "text": "Sunday and Monday"
+          }
         ]
       },
-      "correct_answer": "Saturday and Sunday",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The standard modern weekend isolates Saturday and Sunday as relaxation, rest, or recreational days.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "What is the meaning of immediately?",
       "type": "mcq",
+      "prompt": "What is the meaning of immediately?",
       "options": {
         "choices": [
-          "Not right away",
-          "Right away, without waiting"
+          {
+            "id": "c1",
+            "text": "Not right away"
+          },
+          {
+            "id": "c2",
+            "text": "Right away, without waiting"
+          }
         ]
       },
-      "correct_answer": "Right away, without waiting",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Immediately designates instant execution response loops carrying zero delay or administrative wait times.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "What is the meaning of schedule?",
       "type": "mcq",
+      "prompt": "What is the meaning of schedule?",
       "options": {
         "choices": [
-          "Timetable showing when things happen",
-          "A chart that shows us how to celebrate everyday"
+          {
+            "id": "c1",
+            "text": "Timetable showing when things happen"
+          },
+          {
+            "id": "c2",
+            "text": "A chart that shows us how to celebrate everyday"
+          }
         ]
       },
-      "correct_answer": "Timetable showing when things happen",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A schedule acts as an organized chronological index outlining planned tasks against targeted clock windows.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "What is the meaning of support?",
       "type": "mcq",
+      "prompt": "What is the meaning of support?",
       "options": {
         "choices": [
-          "To not care for someone or something",
-          "To care for someone or something"
+          {
+            "id": "c1",
+            "text": "To not care for someone or something"
+          },
+          {
+            "id": "c2",
+            "text": "To care for someone or something"
+          }
         ]
       },
-      "correct_answer": "To care for someone or something",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "To support means to pick up, assist, look out for, protect, or nurture an entity's operations or emotional state.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "What is the meaning of protect?",
       "type": "mcq",
+      "prompt": "What is the meaning of protect?",
       "options": {
         "choices": [
-          "To keep someone or something safe",
-          "To keep someone or something not safe"
+          {
+            "id": "c1",
+            "text": "To keep someone or something safe"
+          },
+          {
+            "id": "c2",
+            "text": "To keep someone or something not safe"
+          }
         ]
       },
-      "correct_answer": "To keep someone or something safe",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Protecting means erecting security barriers or defense mechanisms to ward off hostile external harm.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "What is the meaning of polite?",
       "type": "mcq",
+      "prompt": "What is the meaning of polite?",
       "options": {
         "choices": [
-          "Showing good manners and respect",
-          "Showing bad manners and no respect"
+          {
+            "id": "c1",
+            "text": "Showing good manners and respect"
+          },
+          {
+            "id": "c2",
+            "text": "Showing bad manners and no respect"
+          }
         ]
       },
-      "correct_answer": "Showing good manners and respect",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Politeness uses socially constructive language rules, courtesy, proper protocol, and respectful behaviors.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "What is the meaning of kindness?",
       "type": "mcq",
+      "prompt": "What is the meaning of kindness?",
       "options": {
         "choices": [
-          "Being a big bully",
-          "Being nice and helpful"
+          {
+            "id": "c1",
+            "text": "Being a big bully"
+          },
+          {
+            "id": "c2",
+            "text": "Being nice and helpful"
+          }
         ]
       },
-      "correct_answer": "Being nice and helpful",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Kindness exhibits positive interpersonal traits focusing on empathy, generosity, validation, and support.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "What is the meaning of important?",
       "type": "mcq",
+      "prompt": "What is the meaning of important?",
       "options": {
         "choices": [
-          "Something that doesn't matter a lot",
-          "Something that matters a lot"
+          {
+            "id": "c1",
+            "text": "Something that doesn't matter a lot"
+          },
+          {
+            "id": "c2",
+            "text": "Something that matters a lot"
+          }
         ]
       },
-      "correct_answer": "Something that matters a lot",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Important items possess high utility values, deep critical urgency metrics, or large structural consequences.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "What is the meaning of honest?",
       "type": "mcq",
+      "prompt": "What is the meaning of honest?",
       "options": {
         "choices": [
-          "Always telling a big story",
-          "Always telling the truth"
+          {
+            "id": "c1",
+            "text": "Always telling a big story"
+          },
+          {
+            "id": "c2",
+            "text": "Always telling the truth"
+          }
         ]
       },
-      "correct_answer": "Always telling the truth",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Honesty requires transparent clarity, rejecting deceit, factual distortions, theft, or misrepresentations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "What is the meaning of famous?",
       "type": "mcq",
+      "prompt": "What is the meaning of famous?",
       "options": {
         "choices": [
-          "Know by many people",
-          "No one understands you"
+          {
+            "id": "c1",
+            "text": "Know by many people"
+          },
+          {
+            "id": "c2",
+            "text": "No one understands you"
+          }
         ]
       },
-      "correct_answer": "Know by many people",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Famous figures or locations hold extensive widespread notoriety or public recognition scores worldwide.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "What is the meaning of decision?",
       "type": "mcq",
+      "prompt": "What is the meaning of decision?",
       "options": {
         "choices": [
-          "A choice you make after thinking",
-          "A choice you make after fighting"
+          {
+            "id": "c1",
+            "text": "A choice you make after thinking"
+          },
+          {
+            "id": "c2",
+            "text": "A choice you make after fighting"
+          }
         ]
       },
-      "correct_answer": "A choice you make after thinking",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A decision ends analytical contemplation processes by committing to a singular resolution route.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "What is the meaning of curious?",
       "type": "mcq",
+      "prompt": "What is the meaning of curious?",
       "options": {
         "choices": [
-          "Wanting to learn or know more",
-          "A choice you make after fighting"
+          {
+            "id": "c1",
+            "text": "Wanting to learn or know more"
+          },
+          {
+            "id": "c2",
+            "text": "A choice you make after fighting"
+          }
         ]
       },
-      "correct_answer": "Wanting to learn or know more",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Curiosity triggers a psychological drive to discover information, inspect mechanisms, or acquire new input insights.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "What is the meaning of create?",
       "type": "mcq",
+      "prompt": "What is the meaning of create?",
       "options": {
         "choices": [
-          "Always telling a big story",
-          "To make something new"
+          {
+            "id": "c1",
+            "text": "Always telling a big story"
+          },
+          {
+            "id": "c2",
+            "text": "To make something new"
+          }
         ]
       },
-      "correct_answer": "To make something new",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Creating brings completely original ideas, designs, systems, art, or tangible entities into physical existence.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "What is the meaning of confidence?",
       "type": "mcq",
+      "prompt": "What is the meaning of confidence?",
       "options": {
         "choices": [
-          "Not believing in yourself and your abilities",
-          "Believing in yourself and your abilities"
+          {
+            "id": "c1",
+            "text": "Not believing in yourself and your abilities"
+          },
+          {
+            "id": "c2",
+            "text": "Believing in yourself and your abilities"
+          }
         ]
       },
-      "correct_answer": "Believing in yourself and your abilities",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Confidence represents self-assurance born from relying safely upon one's skills, judgment, and traits.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "What is the meaning of beautiful?",
       "type": "mcq",
+      "prompt": "What is the meaning of beautiful?",
       "options": {
         "choices": [
-          "Very pretty and pleasing to the eyes",
-          "Not that great and would do for sometime"
+          {
+            "id": "c1",
+            "text": "Very pretty and pleasing to the eyes"
+          },
+          {
+            "id": "c2",
+            "text": "Not that great and would do for sometime"
+          }
         ]
       },
-      "correct_answer": "Very pretty and pleasing to the eyes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Beautiful entities present pleasing symmetrical aesthetic characteristics that stimulate sensory appreciation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "What is the meaning of brave?",
       "type": "mcq",
+      "prompt": "What is the meaning of brave?",
       "options": {
         "choices": [
-          "Not afraid to do something hard or scary",
-          "Afraid to do something hard or scary"
+          {
+            "id": "c1",
+            "text": "Not afraid to do something hard or scary"
+          },
+          {
+            "id": "c2",
+            "text": "Afraid to do something hard or scary"
+          }
         ]
       },
-      "correct_answer": "Not afraid to do something hard or scary",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Bravery allows individuals to handle danger, friction, or mental fears without collapsing into panic or avoidance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "What is the meaning of careful?",
       "type": "mcq",
+      "prompt": "What is the meaning of careful?",
       "options": {
         "choices": [
-          "The power that makes things move or work",
-          "Doing something safely and with attention"
+          {
+            "id": "c1",
+            "text": "The power that makes things move or work"
+          },
+          {
+            "id": "c2",
+            "text": "Doing something safely and with attention"
+          }
         ]
       },
-      "correct_answer": "Doing something safely and with attention",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Careful procedures analyze active risk factors, checking errors meticulously to bypass operational damage.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "What is the meaning of energy?",
       "type": "mcq",
+      "prompt": "What is the meaning of energy?",
       "options": {
         "choices": [
-          "The power that makes things move or work",
-          "Not that great and would do for sometime"
+          {
+            "id": "c1",
+            "text": "The power that makes things move or work"
+          },
+          {
+            "id": "c2",
+            "text": "Not that great and would do for sometime"
+          }
         ]
       },
-      "correct_answer": "The power that makes things move or work",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Energy defines the dynamic capacity potential inside physical systems required to execute quantifiable workloads.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "What is the meaning of journey?",
       "type": "mcq",
+      "prompt": "What is the meaning of journey?",
       "options": {
         "choices": [
-          "A few days away from your mom and dad",
-          "A trip from one place to another place"
+          {
+            "id": "c1",
+            "text": "A few days away from your mom and dad"
+          },
+          {
+            "id": "c2",
+            "text": "A trip from one place to another place"
+          }
         ]
       },
-      "correct_answer": "A trip from one place to another place",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A journey spans across space or conceptual bounds, detailing geographical movements from origins to destinations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "What is the meaning of moment?",
       "type": "mcq",
+      "prompt": "What is the meaning of moment?",
       "options": {
         "choices": [
-          "Very short amount of time",
-          "More than minutes but less then an hour"
+          {
+            "id": "c1",
+            "text": "Very short amount of time"
+          },
+          {
+            "id": "c2",
+            "text": "More than minutes but less then an hour"
+          }
         ]
       },
-      "correct_answer": "Very short amount of time",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A moment describes an ultra-brief, point-like duration slice within chronological time flows.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "What is the meaning of nature?",
       "type": "mcq",
+      "prompt": "What is the meaning of nature?",
       "options": {
         "choices": [
-          "Everything around us like trees, animals, and rivers",
-          "Everything that is in the blue sky"
+          {
+            "id": "c1",
+            "text": "Everything around us like trees, animals, and rivers"
+          },
+          {
+            "id": "c2",
+            "text": "Everything that is in the blue sky"
+          }
         ]
       },
-      "correct_answer": "Everything around us like trees, animals, and rivers",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Nature covers the biological and geological physical world untouched by artificial engineering systems.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "What is the meaning of sun?",
       "type": "mcq",
+      "prompt": "What is the meaning of sun?",
       "options": {
         "choices": [
-          "The bright circle that is yellow and looks beautiful",
-          "The bright thing in the sky that gives light and heat"
+          {
+            "id": "c1",
+            "text": "The bright circle that is yellow and looks beautiful"
+          },
+          {
+            "id": "c2",
+            "text": "The bright thing in the sky that gives light and heat"
+          }
         ]
       },
-      "correct_answer": "The bright thing in the sky that gives light and heat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The Sun is the luminous main-sequence star sitting at the focal center point of our solar system architecture.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "What is the meaning of teacher?",
       "type": "mcq",
+      "prompt": "What is the meaning of teacher?",
       "options": {
         "choices": [
-          "A person who helps others learn",
-          "A person who gives us a hard time"
+          {
+            "id": "c1",
+            "text": "A person who helps others learn"
+          },
+          {
+            "id": "c2",
+            "text": "A person who gives us a hard time"
+          }
         ]
       },
-      "correct_answer": "A person who helps others learn",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A teacher plans instructional lessons, unpacks structural topics, and guides human knowledge tracking loops.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "What is the meaning of silent?",
       "type": "mcq",
+      "prompt": "What is the meaning of silent?",
       "options": {
         "choices": [
-          "Very quiet and maybe no noise at all",
-          "Very loud but then becomes quiet"
+          {
+            "id": "c1",
+            "text": "Very quiet and maybe no noise at all"
+          },
+          {
+            "id": "c2",
+            "text": "Very loud but then becomes quiet"
+          }
         ]
       },
-      "correct_answer": "Very quiet and maybe no noise at all",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Silence shows a low sensory profile marked by a complete absence of acoustic sound waves.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "What is the meaning of bed?",
       "type": "mcq",
+      "prompt": "What is the meaning of bed?",
       "options": {
         "choices": [
-          "Something that is not good",
-          "Something that you sleep on"
+          {
+            "id": "c1",
+            "text": "Something that is not good"
+          },
+          {
+            "id": "c2",
+            "text": "Something that you sleep on"
+          }
         ]
       },
-      "correct_answer": "Something that you sleep on",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A bed is a furniture unit offering padded horizontal infrastructure suited for deep sleep cycles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "What is the meaning of bird?",
       "type": "mcq",
+      "prompt": "What is the meaning of bird?",
       "options": {
         "choices": [
-          "An animal that flies and sings",
-          "An animal that can swim"
+          {
+            "id": "c1",
+            "text": "An animal that flies and sings"
+          },
+          {
+            "id": "c2",
+            "text": "An animal that can swim"
+          }
         ]
       },
-      "correct_answer": "An animal that flies and sings",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Birds are warm-blooded egg-laying avian vertebrates possessing feathers, specialized bills, and adaptive wings.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "What is the meaning of shoe?",
       "type": "mcq",
+      "prompt": "What is the meaning of shoe?",
       "options": {
         "choices": [
-          "Something you wear on your head",
-          "Something you wear on your foot"
+          {
+            "id": "c1",
+            "text": "Something you wear on your head"
+          },
+          {
+            "id": "c2",
+            "text": "Something you wear on your foot"
+          }
         ]
       },
-      "correct_answer": "Something you wear on your foot",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A shoe builds protective exterior casing around human feet to buffer interactions against outdoor friction elements.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "What is the meaning of flower?",
       "type": "mcq",
+      "prompt": "What is the meaning of flower?",
       "options": {
         "choices": [
-          "A colorful plant that smells nice",
-          "A colorful tree that looks nice"
+          {
+            "id": "c1",
+            "text": "A colorful plant that smells nice"
+          },
+          {
+            "id": "c2",
+            "text": "A colorful tree that looks nice"
+          }
         ]
       },
-      "correct_answer": "A colorful plant that smells nice",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A flower represents the reproductive vascular seed mechanism found inside blooming angiosperm plants.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "What is the meaning of actor?",
       "type": "mcq",
+      "prompt": "What is the meaning of actor?",
       "options": {
         "choices": [
-          "Pretends to be another person in a film or play",
-          "Someone that wants to buy goods and sell them"
+          {
+            "id": "c1",
+            "text": "Pretends to be another person in a film or play"
+          },
+          {
+            "id": "c2",
+            "text": "Someone that wants to buy goods and sell them"
+          }
         ]
       },
-      "correct_answer": "Pretends to be another person in a film or play",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "An actor portrays complex personas, scripts, or behaviors on set or stage theatrical configurations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "What is the meaning of aircraft?",
       "type": "mcq",
+      "prompt": "What is the meaning of aircraft?",
       "options": {
         "choices": [
-          "A machine that is used for vehicles",
-          "A machine that flies in the sky"
+          {
+            "id": "c1",
+            "text": "A machine that is used for vehicles"
+          },
+          {
+            "id": "c2",
+            "text": "A machine that flies in the sky"
+          }
         ]
       },
-      "correct_answer": "A machine that flies in the sky",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Aircraft utilize aerodynamic lift vectors or thrust generation to travel across atmospheric altitudes safely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "What is the meaning of ambulance?",
       "type": "mcq",
+      "prompt": "What is the meaning of ambulance?",
       "options": {
         "choices": [
-          "Takes sick people to hospital",
-          "Takes healthy people to school"
+          {
+            "id": "c1",
+            "text": "Takes sick people to hospital"
+          },
+          {
+            "id": "c2",
+            "text": "Takes healthy people to school"
+          }
         ]
       },
-      "correct_answer": "Takes sick people to hospital",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Ambulances act as specialized transit medical units outfitted to preserve patient vitals during urgent hospital runs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "What is the meaning of ankle?",
       "type": "mcq",
+      "prompt": "What is the meaning of ankle?",
       "options": {
         "choices": [
-          "A family member that we love and respect",
-          "The part of the body that joins the leg to the foot"
+          {
+            "id": "c1",
+            "text": "A family member that we love and respect"
+          },
+          {
+            "id": "c2",
+            "text": "The part of the body that joins the leg to the foot"
+          }
         ]
       },
-      "correct_answer": "The part of the body that joins the leg to the foot",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The ankle functions as a complex synovial joint link system uniting lower leg bones to foot anatomy structures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "What is the meaning of ax?",
       "type": "mcq",
+      "prompt": "What is the meaning of ax?",
       "options": {
         "choices": [
-          "A sharp tool for cutting onions",
-          "A sharp tool for cutting wood"
+          {
+            "id": "c1",
+            "text": "A sharp tool for cutting onions"
+          },
+          {
+            "id": "c2",
+            "text": "A sharp tool for cutting wood"
+          }
         ]
       },
-      "correct_answer": "A sharp tool for cutting wood",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "An ax combines a heavy wedged cutting edge blade with a handle lever system to chop rigid timbers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "What is the meaning of baby?",
       "type": "mcq",
+      "prompt": "What is the meaning of baby?",
       "options": {
         "choices": [
-          "A very young child",
-          "Cries for ever"
+          {
+            "id": "c1",
+            "text": "A very young child"
+          },
+          {
+            "id": "c2",
+            "text": "Cries for ever"
+          }
         ]
       },
-      "correct_answer": "A very young child",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A baby signifies an early development milestone representing a human life cycle's initial phase.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "What is the meaning of astronaut?",
       "type": "mcq",
+      "prompt": "What is the meaning of astronaut?",
       "options": {
         "choices": [
-          "Someone who travels out in space",
-          "Someone who travels in the ocean"
+          {
+            "id": "c1",
+            "text": "Someone who travels out in space"
+          },
+          {
+            "id": "c2",
+            "text": "Someone who travels in the ocean"
+          }
         ]
       },
-      "correct_answer": "Someone who travels out in space",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Astronuts are professional spacefarers trained to navigate spacecraft operations outside Earth's atmosphere.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "What is the meaning of beach?",
       "type": "mcq",
+      "prompt": "What is the meaning of beach?",
       "options": {
         "choices": [
-          "The rocky part beside the mountain",
-          "The sandy part beside the sea"
+          {
+            "id": "c1",
+            "text": "The rocky part beside the mountain"
+          },
+          {
+            "id": "c2",
+            "text": "The sandy part beside the sea"
+          }
         ]
       },
-      "correct_answer": "The sandy part beside the sea",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A beach defines a low-lying coastal landform setting created by shifting sand deposits along ocean shorelines.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "What is the meaning of black?",
       "type": "mcq",
+      "prompt": "What is the meaning of black?",
       "options": {
         "choices": [
-          "A very beautiful color",
-          "A very dark color"
+          {
+            "id": "c1",
+            "text": "A very beautiful color"
+          },
+          {
+            "id": "c2",
+            "text": "A very dark color"
+          }
         ]
       },
-      "correct_answer": "A very dark color",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Black occurs visually when an object absorbs the light spectrum, lacking visible light reflection properties.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "What is the meaning of boy?",
       "type": "mcq",
+      "prompt": "What is the meaning of boy?",
       "options": {
         "choices": [
-          "A male child",
-          "A female child"
+          {
+            "id": "c1",
+            "text": "A male child"
+          },
+          {
+            "id": "c2",
+            "text": "A female child"
+          }
         ]
       },
-      "correct_answer": "A male child",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A boy maps out standard demographic categorizations applied to biological male juvenile youth populations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "What is the meaning of camel?",
       "type": "mcq",
+      "prompt": "What is the meaning of camel?",
       "options": {
         "choices": [
-          "An animal with one or two humps on its back",
-          "An animal with one or two strips on its back"
+          {
+            "id": "c1",
+            "text": "An animal with one or two humps on its back"
+          },
+          {
+            "id": "c2",
+            "text": "An animal with one or two strips on its back"
+          }
         ]
       },
-      "correct_answer": "An animal with one or two humps on its back",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Camels are desert ungulate mammals possessing iconic dorsal fatty hump formations used to survive arid climates.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "What is the meaning of cherry?",
       "type": "mcq",
+      "prompt": "What is the meaning of cherry?",
       "options": {
         "choices": [
-          "A small, round, and tasty vegetable",
-          "A small, round, and tasty fruit"
+          {
+            "id": "c1",
+            "text": "A small, round, and tasty vegetable"
+          },
+          {
+            "id": "c2",
+            "text": "A small, round, and tasty fruit"
+          }
         ]
       },
-      "correct_answer": "A small, round, and tasty fruit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Cherries are small, vibrant red fleshy drupe fruits harvested from trees belonging to the Prunus family line.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "What is the meaning of crane?",
       "type": "mcq",
+      "prompt": "What is the meaning of crane?",
       "options": {
         "choices": [
-          "A machine which lifts large, heavy things",
-          "A machine that lifts small, light things"
+          {
+            "id": "c1",
+            "text": "A machine which lifts large, heavy things"
+          },
+          {
+            "id": "c2",
+            "text": "A machine that lifts small, light things"
+          }
         ]
       },
-      "correct_answer": "A machine which lifts large, heavy things",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cranes leverage structural hoist cables, counterweights, and pulleys to elevate industrial cargo weights.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "What is the meaning of castle?",
       "type": "mcq",
+      "prompt": "What is the meaning of castle?",
       "options": {
         "choices": [
-          "A large old building with thick stone walls and towers",
-          "A large new building with thick stone walls and towers"
+          {
+            "id": "c1",
+            "text": "A large old building with thick stone walls and towers"
+          },
+          {
+            "id": "c2",
+            "text": "A large new building with thick stone walls and towers"
+          }
         ]
       },
-      "correct_answer": "A large old building with thick stone walls and towers",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Castles were historically fortified structural complexes built across medieval eras to shield noble families.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "What is the meaning of dinosaur?",
       "type": "mcq",
+      "prompt": "What is the meaning of dinosaur?",
       "options": {
         "choices": [
-          "Is an animal that lived a short time",
-          "Is an animal that lived a long, long time ago"
+          {
+            "id": "c1",
+            "text": "Is an animal that lived a short time"
+          },
+          {
+            "id": "c2",
+            "text": "Is an animal that lived a long, long time ago"
+          }
         ]
       },
-      "correct_answer": "Is an animal that lived a long, long time ago",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dinosaurs are prehistoric archosaurian reptiles that dominated ecosystems until their extinction event.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "What is the meaning of elephant?",
       "type": "mcq",
+      "prompt": "What is the meaning of elephant?",
       "options": {
         "choices": [
-          "A large, gray animal with big ears, and a very long trunk",
-          "A large, grey animal with small ears, and a very short trunk"
+          {
+            "id": "c1",
+            "text": "A large, gray animal with big ears, and a very long trunk"
+          },
+          {
+            "id": "c2",
+            "text": "A large, grey animal with small ears, and a very short trunk"
+          }
         ]
       },
-      "correct_answer": "A large, gray animal with big ears, and a very long trunk",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Elephants represent giant land mammals characterized by extreme physical mass, tusks, and flexible prehensile trunks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "What is the meaning of giant?",
       "type": "mcq",
+      "prompt": "What is the meaning of giant?",
       "options": {
         "choices": [
-          "A small person in a fairytale",
-          "A big person in a fairy-tale"
+          {
+            "id": "c1",
+            "text": "A small person in a fairytale"
+          },
+          {
+            "id": "c2",
+            "text": "A big person in a fairy-tale"
+          }
         ]
       },
-      "correct_answer": "A big person in a fairy-tale",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Giants populate legendary folk accounts as massive mythological humanoid figures scaling beyond typical sizes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "What is the meaning of hammer?",
       "type": "mcq",
+      "prompt": "What is the meaning of hammer?",
       "options": {
         "choices": [
-          "A tool for banging in nails",
-          "A tool for cutting wood"
+          {
+            "id": "c1",
+            "text": "A tool for banging in nails"
+          },
+          {
+            "id": "c2",
+            "text": "A tool for cutting wood"
+          }
         ]
       },
-      "correct_answer": "A tool for banging in nails",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Hammers leverage mechanical striking force across hard surfaces to set fasteners or drive nails home safely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "What is the meaning of helmet?",
       "type": "mcq",
+      "prompt": "What is the meaning of helmet?",
       "options": {
         "choices": [
-          "Something we use for the eyes",
-          "A strong cover for the head"
+          {
+            "id": "c1",
+            "text": "Something we use for the eyes"
+          },
+          {
+            "id": "c2",
+            "text": "A strong cover for the head"
+          }
         ]
       },
-      "correct_answer": "A strong cover for the head",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Helmets deploy rigid impact protection shells surrounding skulls to block kinetic head injuries.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "What is the meaning of island?",
       "type": "mcq",
+      "prompt": "What is the meaning of island?",
       "options": {
         "choices": [
-          "Piece of land with water all around it",
-          "A piece of land with no water around it"
+          {
+            "id": "c1",
+            "text": "Piece of land with water all around it"
+          },
+          {
+            "id": "c2",
+            "text": "A piece of land with no water around it"
+          }
         ]
       },
-      "correct_answer": "Piece of land with water all around it",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "An island identifies sub-continental geomorphological land masses completely enclosed by water bodies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "What is the meaning of insects?",
       "type": "mcq",
+      "prompt": "What is the meaning of insects?",
       "options": {
         "choices": [
-          "Small animals with four legs",
-          "Small animals with six legs"
+          {
+            "id": "c1",
+            "text": "Small animals with four legs"
+          },
+          {
+            "id": "c2",
+            "text": "Small animals with six legs"
+          }
         ]
       },
-      "correct_answer": "Small animals with six legs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Insects are arthropods carrying a definitive three-part body segment blueprint, exoskeletons, and six jointed legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "What is the meaning of Library?",
       "type": "mcq",
+      "prompt": "What is the meaning of Library?",
       "options": {
         "choices": [
-          "A room or building where books are kept",
-          "A room or building where toys are kept"
+          {
+            "id": "c1",
+            "text": "A room or building where books are kept"
+          },
+          {
+            "id": "c2",
+            "text": "A room or building where toys are kept"
+          }
         ]
       },
-      "correct_answer": "A room or building where books are kept",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Libraries host organized structural catalogs of literature resources, research databases, and textbooks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "What is the meaning of machine?",
       "type": "mcq",
+      "prompt": "What is the meaning of machine?",
       "options": {
         "choices": [
-          "Is something that helps us do cook more easily",
-          "Is something that helps us do work more easily"
+          {
+            "id": "c1",
+            "text": "Is something that helps us do cook more easily"
+          },
+          {
+            "id": "c2",
+            "text": "Is something that helps us do work more easily"
+          }
         ]
       },
-      "correct_answer": "Is something that helps us do work more easily",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Machines modify mechanical power orientations, multiplying inputted forces to complete work efficiently.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "What is the meaning of mirror?",
       "type": "mcq",
+      "prompt": "What is the meaning of mirror?",
       "options": {
         "choices": [
-          "A piece of glass that we can see ourselves in",
-          "A piece of wood that we can see ourselves in"
+          {
+            "id": "c1",
+            "text": "A piece of glass that we can see ourselves in"
+          },
+          {
+            "id": "c2",
+            "text": "A piece of wood that we can see ourselves in"
+          }
         ]
       },
-      "correct_answer": "A piece of glass that we can see ourselves in",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Mirrors use a specular metallic coating backing plate underneath glass elements to cleanly reflect light paths.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "What is the meaning of necklace?",
       "type": "mcq",
+      "prompt": "What is the meaning of necklace?",
       "options": {
         "choices": [
-          "A decoration around the Leg that people like to wear",
-          "A decoration around the neck the people like to wear"
+          {
+            "id": "c1",
+            "text": "A decoration around the Leg that people like to wear"
+          },
+          {
+            "id": "c2",
+            "text": "A decoration around the neck the people like to wear"
+          }
         ]
       },
-      "correct_answer": "A decoration around the neck the people like to wear",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A necklace serves as personal decorative jewelry styled to rest gracefully around a person's upper neck line.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "What is the meaning of ocean?",
       "type": "mcq",
+      "prompt": "What is the meaning of ocean?",
       "options": {
         "choices": [
-          "Is a very large sea",
-          "Is a very large river"
+          {
+            "id": "c1",
+            "text": "Is a very large sea"
+          },
+          {
+            "id": "c2",
+            "text": "Is a very large river"
+          }
         ]
       },
-      "correct_answer": "Is a very large sea",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The global ocean marks out vast saltwater hydrological basins covering major planetary surface portions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "What is the meaning of orchestra?",
       "type": "mcq",
+      "prompt": "What is the meaning of orchestra?",
       "options": {
         "choices": [
-          "A lot of people making music together",
-          "A lot of people singing together"
+          {
+            "id": "c1",
+            "text": "A lot of people making music together"
+          },
+          {
+            "id": "c2",
+            "text": "A lot of people singing together"
+          }
         ]
       },
-      "correct_answer": "A lot of people making music together",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Orchestras merge diverse symphonic instrument arrays, coordinating musicians to render intricate compositions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "What is the meaning of paw?",
       "type": "mcq",
+      "prompt": "What is the meaning of paw?",
       "options": {
         "choices": [
-          "An animal's legs with claws.",
-          "An animal's foot with claws."
+          {
+            "id": "c1",
+            "text": "An animal's legs with claws."
+          },
+          {
+            "id": "c2",
+            "text": "An animal's foot with claws."
+          }
         ]
       },
-      "correct_answer": "An animal's foot with claws.",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Paws isolate the specialized padded distal foot extremities belonging to various quadruped mammals.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "What is the meaning of pond?",
       "type": "mcq",
+      "prompt": "What is the meaning of pond?",
       "options": {
         "choices": [
-          "A small patch of water",
-          "A big patch of water"
+          {
+            "id": "c1",
+            "text": "A small patch of water"
+          },
+          {
+            "id": "c2",
+            "text": "A big patch of water"
+          }
         ]
       },
-      "correct_answer": "A small patch of water",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Ponds are compact, static, shallow freshwater micro-environments isolated from large lake systems.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "What is the meaning of quilt?",
       "type": "mcq",
+      "prompt": "What is the meaning of quilt?",
       "options": {
         "choices": [
-          "A warm, padded cover in our cupboard",
-          "A warm, padded cover on our bed"
+          {
+            "id": "c1",
+            "text": "A warm, padded cover in our cupboard"
+          },
+          {
+            "id": "c2",
+            "text": "A warm, padded cover on our bed"
+          }
         ]
       },
-      "correct_answer": "A warm, padded cover on our bed",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Quilts combine stitched structural fabric layers enclosing insulation down fillings to trap core body warmth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "What is the meaning of mention?",
       "type": "mcq",
+      "prompt": "What is the meaning of mention?",
       "options": {
         "choices": [
-          "To briefly write about or refer to",
-          "To briefly speak about or refer to"
+          {
+            "id": "c1",
+            "text": "To briefly write about or refer to"
+          },
+          {
+            "id": "c2",
+            "text": "To briefly speak about or refer to"
+          }
         ]
       },
-      "correct_answer": "To briefly speak about or refer to",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "To mention means highlighting a topic briefly using verbal spoken dialogue channels or references.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "What is the meaning of mammoth?",
       "type": "mcq",
+      "prompt": "What is the meaning of mammoth?",
       "options": {
         "choices": [
-          "A very large, extinct mammal related to the elephant",
-          "A very large, extinct mammal related to the dinosaur"
+          {
+            "id": "c1",
+            "text": "A very large, extinct mammal related to the elephant"
+          },
+          {
+            "id": "c2",
+            "text": "A very large, extinct mammal related to the dinosaur"
+          }
         ]
       },
-      "correct_answer": "A very large, extinct mammal related to the elephant",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Mammoths were massive, prehistoric proboscidean Ice Age mammals sharing close ancestral branches with modern elephants.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "What is the meaning of recite?",
       "type": "mcq",
+      "prompt": "What is the meaning of recite?",
       "options": {
         "choices": [
-          "To draw from memory in front of an audience",
-          "To repeat from memory in front of an audience"
+          {
+            "id": "c1",
+            "text": "To draw from memory in front of an audience"
+          },
+          {
+            "id": "c2",
+            "text": "To repeat from memory in front of an audience"
+          }
         ]
       },
-      "correct_answer": "To repeat from memory in front of an audience",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Reciting calls upon neurological memory files to cleanly repeat formal text passages out loud to observers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "What is the meaning of physician?",
       "type": "mcq",
+      "prompt": "What is the meaning of physician?",
       "options": {
         "choices": [
-          "A doctor who is qualified to practice medicine",
-          "A coach who is qualified to practice medicine"
+          {
+            "id": "c1",
+            "text": "A doctor who is qualified to practice medicine"
+          },
+          {
+            "id": "c2",
+            "text": "A coach who is qualified to practice medicine"
+          }
         ]
       },
-      "correct_answer": "A doctor who is qualified to practice medicine",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Physicians operate as legally licensed medical clinicians trained to run system diagnostics and treatments.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "What is the meaning of pivot?",
       "type": "mcq",
+      "prompt": "What is the meaning of pivot?",
       "options": {
         "choices": [
-          "To turn or rotate on a central point",
-          "To sleep or nap on a central point"
+          {
+            "id": "c1",
+            "text": "To turn or rotate on a central point"
+          },
+          {
+            "id": "c2",
+            "text": "To sleep or nap on a central point"
+          }
         ]
       },
-      "correct_answer": "To turn or rotate on a central point",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Pivoting prescribes rotary mechanics spinning angular directional trajectories safely around a pinned central axis.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "What is the meaning of prank?",
       "type": "mcq",
+      "prompt": "What is the meaning of prank?",
       "options": {
         "choices": [
-          "Painful, authentic trick",
-          "Playful, amusing trick"
+          {
+            "id": "c1",
+            "text": "Painful, authentic trick"
+          },
+          {
+            "id": "c2",
+            "text": "Playful, amusing trick"
+          }
         ]
       },
-      "correct_answer": "Playful, amusing trick",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A prank functions as an lighthearted, harmless practical joke designed to create shared fun or confusion.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

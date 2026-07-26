@@ -227,13 +227,18 @@
       var row = { name: base, text: text, invalid: false };
       var data;
       try { data = JSON.parse(text); } catch (e) { row.invalid = true; return row; }
-      row.slug = (data.exercise && data.exercise.slug) || base.replace(/\.json$/i, "");
+      // v2 files are flat and carry level/subject; v1 files nest under
+      // `exercise` and need detection. Both shapes are supported.
+      var ex = data.exercise || data;
+      row.slug = ex.slug || base.replace(/\.json$/i, "");
       row.source = data._source_file || base;
-      row.type = data._quiz_type_detected || (data.exercise && data.exercise.quiz_type) || "?";
+      row.type = data._quiz_type_detected || ex.quiz_type || "?";
       row.count = data._question_count != null ? data._question_count
-        : (data.questions ? data.questions.length : 0);
-      row.level = core.detectLevel(row.slug, row.source) || ""; // "" = unclassified
-      row.subject = core.detectSubject(row.slug);
+        : (ex.total_questions != null ? ex.total_questions
+          : (data.questions ? data.questions.length : 0));
+      var lvl = ex.level && ex.level !== core.UNCLASSIFIED ? ex.level : null;
+      row.level = lvl || core.detectLevel(row.slug, row.source) || ""; // "" = unclassified
+      row.subject = ex.subject || core.detectSubject(row.slug);
       return row;
     }
 

@@ -1,1816 +1,3315 @@
 {
   "_source_file": "level1_sci_universe.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "sci-universe",
-    "title": "Universe",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.558Z",
+  "slug": "sci-universe",
+  "title": "Universe",
+  "level": "level-1",
+  "subject": "science",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What is a group of stars, gas, and dust called?",
       "type": "mcq",
+      "prompt": "What is a group of stars, gas, and dust called?",
       "options": {
         "choices": [
-          "galaxy",
-          "planet",
-          "moon",
-          "comet"
+          {
+            "id": "c1",
+            "text": "galaxy"
+          },
+          {
+            "id": "c2",
+            "text": "planet"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "galaxy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A galaxy is a massive system consisting of stars, stellar remnants, interstellar gas, and dust.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "What do we call a star that explodes?",
       "type": "mcq",
+      "prompt": "What do we call a star that explodes?",
       "options": {
         "choices": [
-          "meteor",
-          "supernova",
-          "planet",
-          "moon"
+          {
+            "id": "c1",
+            "text": "meteor"
+          },
+          {
+            "id": "c2",
+            "text": "supernova"
+          },
+          {
+            "id": "c3",
+            "text": "planet"
+          },
+          {
+            "id": "c4",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "supernova",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A supernova is a powerful and luminous stellar explosion that occurs during the last evolutionary stages of a massive star.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "What is the name of our galaxy?",
       "type": "mcq",
+      "prompt": "What is the name of our galaxy?",
       "options": {
         "choices": [
-          "milky way",
-          "andromeda",
-          "orion",
-          "sun"
+          {
+            "id": "c1",
+            "text": "milky way"
+          },
+          {
+            "id": "c2",
+            "text": "andromeda"
+          },
+          {
+            "id": "c3",
+            "text": "orion"
+          },
+          {
+            "id": "c4",
+            "text": "sun"
+          }
         ]
       },
-      "correct_answer": "milky way",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Our solar system resides within the Milky Way galaxy.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "What is a shooting star?",
       "type": "mcq",
+      "prompt": "What is a shooting star?",
       "options": {
         "choices": [
-          "comet",
-          "meteor",
-          "planet",
-          "moon"
+          {
+            "id": "c1",
+            "text": "comet"
+          },
+          {
+            "id": "c2",
+            "text": "meteor"
+          },
+          {
+            "id": "c3",
+            "text": "planet"
+          },
+          {
+            "id": "c4",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "meteor",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A meteor is a streak of light caused by a space rock burning up as it enters Earth's atmosphere.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "What is a frozen ball of ice and dust called?",
       "type": "mcq",
+      "prompt": "What is a frozen ball of ice and dust called?",
       "options": {
         "choices": [
-          "comet",
-          "meteor",
-          "moon",
-          "planet"
+          {
+            "id": "c1",
+            "text": "comet"
+          },
+          {
+            "id": "c2",
+            "text": "meteor"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "planet"
+          }
         ]
       },
-      "correct_answer": "comet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Comets are cosmic snowballs of frozen gases, rock, and dust that orbit the Sun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "What was the name of the first satellite sent into space?",
       "type": "mcq",
+      "prompt": "What was the name of the first satellite sent into space?",
       "options": {
         "choices": [
-          "sputnik",
-          "apollo",
-          "voyager",
-          "hubble"
+          {
+            "id": "c1",
+            "text": "sputnik"
+          },
+          {
+            "id": "c2",
+            "text": "apollo"
+          },
+          {
+            "id": "c3",
+            "text": "voyager"
+          },
+          {
+            "id": "c4",
+            "text": "hubble"
+          }
         ]
       },
-      "correct_answer": "sputnik",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sputnik 1 was the first artificial Earth satellite, launched by the Soviet Union in 1957.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "What do we call a spacecraft that goes to study space?",
       "type": "mcq",
+      "prompt": "What do we call a spacecraft that goes to study space?",
       "options": {
         "choices": [
-          "spacesuit",
-          "rocket",
-          "telescope",
-          "satellite"
+          {
+            "id": "c1",
+            "text": "spacesuit"
+          },
+          {
+            "id": "c2",
+            "text": "rocket"
+          },
+          {
+            "id": "c3",
+            "text": "telescope"
+          },
+          {
+            "id": "c4",
+            "text": "satellite"
+          }
         ]
       },
-      "correct_answer": "satellite",
+      "answer_key": {
+        "correct": [
+          "c4"
+        ]
+      },
       "explanation": "Artificial satellites and robotic probes are sent into space to monitor and study celestial bodies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "What do we call the study of stars, planets, and space?",
       "type": "mcq",
+      "prompt": "What do we call the study of stars, planets, and space?",
       "options": {
         "choices": [
-          "biology",
-          "astronomy",
-          "geography",
-          "chemistry"
+          {
+            "id": "c1",
+            "text": "biology"
+          },
+          {
+            "id": "c2",
+            "text": "astronomy"
+          },
+          {
+            "id": "c3",
+            "text": "geography"
+          },
+          {
+            "id": "c4",
+            "text": "chemistry"
+          }
         ]
       },
-      "correct_answer": "astronomy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Astronomy is the natural science that studies celestial objects and phenomena.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "What is the force that keeps planets and stars in their place?",
       "type": "mcq",
+      "prompt": "What is the force that keeps planets and stars in their place?",
       "options": {
         "choices": [
-          "gravity",
-          "magnetism",
-          "friction",
-          "wind"
+          {
+            "id": "c1",
+            "text": "gravity"
+          },
+          {
+            "id": "c2",
+            "text": "magnetism"
+          },
+          {
+            "id": "c3",
+            "text": "friction"
+          },
+          {
+            "id": "c4",
+            "text": "wind"
+          }
         ]
       },
-      "correct_answer": "gravity",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Gravity is the fundamental force of attraction that keeps celestial bodies in their respective orbits.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "What do we call a cloud of gas and dust in space?",
       "type": "mcq",
+      "prompt": "What do we call a cloud of gas and dust in space?",
       "options": {
         "choices": [
-          "nebula",
-          "galaxy",
-          "star",
-          "moon"
+          {
+            "id": "c1",
+            "text": "nebula"
+          },
+          {
+            "id": "c2",
+            "text": "galaxy"
+          },
+          {
+            "id": "c3",
+            "text": "star"
+          },
+          {
+            "id": "c4",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "nebula",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A nebula is an interstellar cloud of dust, hydrogen, helium, and other ionized gases.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "What is a star made of hot gases called?",
       "type": "mcq",
+      "prompt": "What is a star made of hot gases called?",
       "options": {
         "choices": [
-          "sun",
-          "planet",
-          "moon",
-          "comet"
+          {
+            "id": "c1",
+            "text": "sun"
+          },
+          {
+            "id": "c2",
+            "text": "planet"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "sun",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The Sun is the star at the center of our Solar System, primarily made of burning hydrogen and helium gases.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "What do we call the path a star or planet follows?",
       "type": "mcq",
+      "prompt": "What do we call the path a star or planet follows?",
       "options": {
         "choices": [
-          "orbit",
-          "axis",
-          "rotation",
-          "gravity"
+          {
+            "id": "c1",
+            "text": "orbit"
+          },
+          {
+            "id": "c2",
+            "text": "axis"
+          },
+          {
+            "id": "c3",
+            "text": "rotation"
+          },
+          {
+            "id": "c4",
+            "text": "gravity"
+          }
         ]
       },
-      "correct_answer": "orbit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "An orbit is the gravitationally curved trajectory of an object around a point in space.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "What is a small rock that orbits the Sun called?",
       "type": "mcq",
+      "prompt": "What is a small rock that orbits the Sun called?",
       "options": {
         "choices": [
-          "asteroid",
-          "moon",
-          "planet",
-          "comet"
+          {
+            "id": "c1",
+            "text": "asteroid"
+          },
+          {
+            "id": "c2",
+            "text": "moon"
+          },
+          {
+            "id": "c3",
+            "text": "planet"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "asteroid",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Asteroids are minor planets or rocky remnants left over from the early formation of our solar system.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "What do we call the collection of all stars, planets, and galaxies?",
       "type": "mcq",
+      "prompt": "What do we call the collection of all stars, planets, and galaxies?",
       "options": {
         "choices": [
-          "universe",
-          "solar system",
-          "moon",
-          "comet"
+          {
+            "id": "c1",
+            "text": "universe"
+          },
+          {
+            "id": "c2",
+            "text": "solar system"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "universe",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The universe is all of space and time and their contents, including planets, stars, galaxies, and all other forms of matter and energy.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "What do we call a bright object that shines in the night sky?",
       "type": "mcq",
+      "prompt": "What do we call a bright object that shines in the night sky?",
       "options": {
         "choices": [
-          "star",
-          "planet",
-          "moon",
-          "comet"
+          {
+            "id": "c1",
+            "text": "star"
+          },
+          {
+            "id": "c2",
+            "text": "planet"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "star",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Stars are luminous spheres of plasma held together by their own gravity that light up the night sky.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "What is a satellite that goes around a planet called?",
       "type": "mcq",
+      "prompt": "What is a satellite that goes around a planet called?",
       "options": {
         "choices": [
-          "moon",
-          "planet",
-          "star",
-          "comet"
+          {
+            "id": "c1",
+            "text": "moon"
+          },
+          {
+            "id": "c2",
+            "text": "planet"
+          },
+          {
+            "id": "c3",
+            "text": "star"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "moon",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A natural satellite, or moon, is an astronomical body that orbits a planet.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "What is a telescope used for?",
       "type": "mcq",
+      "prompt": "What is a telescope used for?",
       "options": {
         "choices": [
-          "to see planets",
-          "to see distant stars and galaxies",
-          "to fly in space",
-          "to measure gravity"
+          {
+            "id": "c1",
+            "text": "to see planets"
+          },
+          {
+            "id": "c2",
+            "text": "to see distant stars and galaxies"
+          },
+          {
+            "id": "c3",
+            "text": "to fly in space"
+          },
+          {
+            "id": "c4",
+            "text": "to measure gravity"
+          }
         ]
       },
-      "correct_answer": "to see distant stars and galaxies",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Telescopes are optical instruments designed to make distant objects appear closer and clearer.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "What is the name of the first human in space?",
       "type": "mcq",
+      "prompt": "What is the name of the first human in space?",
       "options": {
         "choices": [
-          "yuri gagarin",
-          "neil armstrong",
-          "buzz adrin",
-          "john glenn"
+          {
+            "id": "c1",
+            "text": "yuri gagarin"
+          },
+          {
+            "id": "c2",
+            "text": "neil armstrong"
+          },
+          {
+            "id": "c3",
+            "text": "buzz adrin"
+          },
+          {
+            "id": "c4",
+            "text": "john glenn"
+          }
         ]
       },
-      "correct_answer": "yuri gagarin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Soviet cosmonaut Yuri Gagarin became the first human in space when he orbited the Earth in 1961.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "What do we call the visible shapes of stars in the sky?",
       "type": "mcq",
+      "prompt": "What do we call the visible shapes of stars in the sky?",
       "options": {
         "choices": [
-          "constellation",
-          "galaxy",
-          "nebula",
-          "planet"
+          {
+            "id": "c1",
+            "text": "constellation"
+          },
+          {
+            "id": "c2",
+            "text": "galaxy"
+          },
+          {
+            "id": "c3",
+            "text": "nebula"
+          },
+          {
+            "id": "c4",
+            "text": "planet"
+          }
         ]
       },
-      "correct_answer": "constellation",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A constellation is a group of stars that forms an imaginary outline or pattern on the celestial sphere.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "What is a tool used to look at faraway stars?",
       "type": "mcq",
+      "prompt": "What is a tool used to look at faraway stars?",
       "options": {
         "choices": [
-          "telescope",
-          "microscope",
-          "magnifier",
-          "compass"
+          {
+            "id": "c1",
+            "text": "telescope"
+          },
+          {
+            "id": "c2",
+            "text": "microscope"
+          },
+          {
+            "id": "c3",
+            "text": "magnifier"
+          },
+          {
+            "id": "c4",
+            "text": "compass"
+          }
         ]
       },
-      "correct_answer": "telescope",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Astronomers use telescopes to gather light and observe remote objects in outer space.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "What is a comet made of?",
       "type": "mcq",
+      "prompt": "What is a comet made of?",
       "options": {
         "choices": [
-          "gas and dust",
-          "rocks and soil",
-          "water",
-          "ice cream"
+          {
+            "id": "c1",
+            "text": "gas and dust"
+          },
+          {
+            "id": "c2",
+            "text": "rocks and soil"
+          },
+          {
+            "id": "c3",
+            "text": "water"
+          },
+          {
+            "id": "c4",
+            "text": "ice cream"
+          }
         ]
       },
-      "correct_answer": "gas and dust",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Comets are characterized by an nucleus composed of frozen gases, dust, and rocky debris.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "What do astronauts wear in space to stay safe?",
       "type": "mcq",
+      "prompt": "What do astronauts wear in space to stay safe?",
       "options": {
         "choices": [
-          "uniform",
-          "spacesuit",
-          "helmet",
-          "shoes"
+          {
+            "id": "c1",
+            "text": "uniform"
+          },
+          {
+            "id": "c2",
+            "text": "spacesuit"
+          },
+          {
+            "id": "c3",
+            "text": "helmet"
+          },
+          {
+            "id": "c4",
+            "text": "shoes"
+          }
         ]
       },
-      "correct_answer": "spacesuit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A spacesuit provides environmental protection, oxygen, and pressure maintenance for astronauts in the vacuum of space.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "What do we call the light from a star that reaches Earth?",
       "type": "mcq",
+      "prompt": "What do we call the light from a star that reaches Earth?",
       "options": {
         "choices": [
-          "sunlight",
-          "starlight",
-          "moonlight",
-          "shadow"
+          {
+            "id": "c1",
+            "text": "sunlight"
+          },
+          {
+            "id": "c2",
+            "text": "starlight"
+          },
+          {
+            "id": "c3",
+            "text": "moonlight"
+          },
+          {
+            "id": "c4",
+            "text": "shadow"
+          }
         ]
       },
-      "correct_answer": "starlight",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Starlight is the light emitted by stars beyond our solar system that penetrates Earth's atmosphere.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "What is the Milky Way?",
       "type": "mcq",
+      "prompt": "What is the Milky Way?",
       "options": {
         "choices": [
-          "planet",
-          "galaxy",
-          "star",
-          "comet"
+          {
+            "id": "c1",
+            "text": "planet"
+          },
+          {
+            "id": "c2",
+            "text": "galaxy"
+          },
+          {
+            "id": "c3",
+            "text": "star"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "galaxy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The Milky Way is the barred spiral galaxy that contains our Solar System.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "What is a black hole?",
       "type": "mcq",
+      "prompt": "What is a black hole?",
       "options": {
         "choices": [
-          "dark place in space that pulls everything in",
-          "star",
-          "planet",
-          "moon"
+          {
+            "id": "c1",
+            "text": "dark place in space that pulls everything in"
+          },
+          {
+            "id": "c2",
+            "text": "star"
+          },
+          {
+            "id": "c3",
+            "text": "planet"
+          },
+          {
+            "id": "c4",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "dark place in space that pulls everything in",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A black hole is a region of spacetime where gravity is so strong that nothing—no particles or light—can escape from it.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "What do we call a star that is very far from earth?",
       "type": "mcq",
+      "prompt": "What do we call a star that is very far from earth?",
       "options": {
         "choices": [
-          "planet",
-          "distant star",
-          "moon",
-          "asteroid"
+          {
+            "id": "c1",
+            "text": "planet"
+          },
+          {
+            "id": "c2",
+            "text": "distant star"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "asteroid"
+          }
         ]
       },
-      "correct_answer": "distant star",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A star that is located immense distances away from Earth across interstellar space is referred to as a distant star.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "What is the nearest galaxy to the Milky Way?",
       "type": "mcq",
+      "prompt": "What is the nearest galaxy to the Milky Way?",
       "options": {
         "choices": [
-          "andromeda",
-          "orion",
-          "sagittarius",
-          "triangulum"
+          {
+            "id": "c1",
+            "text": "andromeda"
+          },
+          {
+            "id": "c2",
+            "text": "orion"
+          },
+          {
+            "id": "c3",
+            "text": "sagittarius"
+          },
+          {
+            "id": "c4",
+            "text": "triangulum"
+          }
         ]
       },
-      "correct_answer": "andromeda",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The Andromeda Galaxy is the closest large spiral galaxy to our own Milky Way.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "What is the dark space between stars called?",
       "type": "mcq",
+      "prompt": "What is the dark space between stars called?",
       "options": {
         "choices": [
-          "void",
-          "nebula",
-          "galaxy",
-          "planet"
+          {
+            "id": "c1",
+            "text": "void"
+          },
+          {
+            "id": "c2",
+            "text": "nebula"
+          },
+          {
+            "id": "c3",
+            "text": "galaxy"
+          },
+          {
+            "id": "c4",
+            "text": "planet"
+          }
         ]
       },
-      "correct_answer": "void",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cosmic voids are vast spaces between filaments that contain very few or no galaxies/stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "What is a star's life cycle?",
       "type": "mcq",
+      "prompt": "What is a star's life cycle?",
       "options": {
         "choices": [
-          "birth, adulthood, death",
-          "sleep, eat, run",
-          "rotate, revolve, shine",
-          "orbit, spin, shine"
+          {
+            "id": "c1",
+            "text": "birth, adulthood, death"
+          },
+          {
+            "id": "c2",
+            "text": "sleep, eat, run"
+          },
+          {
+            "id": "c3",
+            "text": "rotate, revolve, shine"
+          },
+          {
+            "id": "c4",
+            "text": "orbit, spin, shine"
+          }
         ]
       },
-      "correct_answer": "birth, adulthood, death",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A star undergoes evolutionary phases spanning from formation (birth), main sequence (adulthood), to its eventual collapse or explosion (death).",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "What is the Sun mainly made of?",
       "type": "mcq",
+      "prompt": "What is the Sun mainly made of?",
       "options": {
         "choices": [
-          "water",
-          "gas",
-          "rocks",
-          "ice"
+          {
+            "id": "c1",
+            "text": "water"
+          },
+          {
+            "id": "c2",
+            "text": "gas"
+          },
+          {
+            "id": "c3",
+            "text": "rocks"
+          },
+          {
+            "id": "c4",
+            "text": "ice"
+          }
         ]
       },
-      "correct_answer": "gas",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The Sun is primarily composed of the chemical elements hydrogen and helium in a gaseous plasma state.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "What do we call a space rock that hits Earth?",
       "type": "mcq",
+      "prompt": "What do we call a space rock that hits Earth?",
       "options": {
         "choices": [
-          "meteorite",
-          "comet",
-          "moon",
-          "planet"
+          {
+            "id": "c1",
+            "text": "meteorite"
+          },
+          {
+            "id": "c2",
+            "text": "comet"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "planet"
+          }
         ]
       },
-      "correct_answer": "meteorite",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A meteorite is a solid piece of debris from an object, such as a comet, asteroid, or meteoroid, that survives its passage through the atmosphere to reach the surface of a planet.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "What is a light-year?",
       "type": "mcq",
+      "prompt": "What is a light-year?",
       "options": {
         "choices": [
-          "the time it takes to rotate",
-          "the distance light travels in one year",
-          "the distance to the Moon",
-          "the time for sunrise"
+          {
+            "id": "c1",
+            "text": "the time it takes to rotate"
+          },
+          {
+            "id": "c2",
+            "text": "the distance light travels in one year"
+          },
+          {
+            "id": "c3",
+            "text": "the distance to the Moon"
+          },
+          {
+            "id": "c4",
+            "text": "the time for sunrise"
+          }
         ]
       },
-      "correct_answer": "the distance light travels in one year",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A light-year is a unit of astronomical distance equivalent to the distance that light travels in one year.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "What do we call the edge of a black hole?",
       "type": "mcq",
+      "prompt": "What do we call the edge of a black hole?",
       "options": {
         "choices": [
-          "event horizon",
-          "orbit",
-          "nebula",
-          "galaxy"
+          {
+            "id": "c1",
+            "text": "event horizon"
+          },
+          {
+            "id": "c2",
+            "text": "orbit"
+          },
+          {
+            "id": "c3",
+            "text": "nebula"
+          },
+          {
+            "id": "c4",
+            "text": "galaxy"
+          }
         ]
       },
-      "correct_answer": "event horizon",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The event horizon is the boundary defining the region of space around a black hole from which nothing can escape.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "What do we call a spinning cloud of gas that may form a star?",
       "type": "mcq",
+      "prompt": "What do we call a spinning cloud of gas that may form a star?",
       "options": {
         "choices": [
-          "nebula",
-          "comet",
-          "galaxy",
-          "moon"
+          {
+            "id": "c1",
+            "text": "nebula"
+          },
+          {
+            "id": "c2",
+            "text": "comet"
+          },
+          {
+            "id": "c3",
+            "text": "galaxy"
+          },
+          {
+            "id": "c4",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "nebula",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A nebula serves as a stellar nursery where gravitational forces compress spinning clouds of gas to form new stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "What do we call a system with one star and planets orbiting it?",
       "type": "mcq",
+      "prompt": "What do we call a system with one star and planets orbiting it?",
       "options": {
         "choices": [
-          "solar system",
-          "galaxy",
-          "universe",
-          "constellation"
+          {
+            "id": "c1",
+            "text": "solar system"
+          },
+          {
+            "id": "c2",
+            "text": "galaxy"
+          },
+          {
+            "id": "c3",
+            "text": "universe"
+          },
+          {
+            "id": "c4",
+            "text": "constellation"
+          }
         ]
       },
-      "correct_answer": "solar system",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A solar system comprises a central star bound gravitationally with the planets and bodies that orbit it.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "What is the name of the telescope that looks far into space?",
       "type": "mcq",
+      "prompt": "What is the name of the telescope that looks far into space?",
       "options": {
         "choices": [
-          "hubble",
-          "sputnik",
-          "voyager",
-          "apollo"
+          {
+            "id": "c1",
+            "text": "hubble"
+          },
+          {
+            "id": "c2",
+            "text": "sputnik"
+          },
+          {
+            "id": "c3",
+            "text": "voyager"
+          },
+          {
+            "id": "c4",
+            "text": "apollo"
+          }
         ]
       },
-      "correct_answer": "hubble",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The Hubble Space Telescope was launched into low Earth orbit to capture high-resolution images of deep space.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "What do we call a very bright flash in the sky caused by a star's explosion?",
       "type": "mcq",
+      "prompt": "What do we call a very bright flash in the sky caused by a star's explosion?",
       "options": {
         "choices": [
-          "supernova",
-          "comet",
-          "meteor",
-          "moon"
+          {
+            "id": "c1",
+            "text": "supernova"
+          },
+          {
+            "id": "c2",
+            "text": "comet"
+          },
+          {
+            "id": "c3",
+            "text": "meteor"
+          },
+          {
+            "id": "c4",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "supernova",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A supernova event releases a catastrophic flash of cosmic brightness visible across light-years.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "What is the path that Earth follows around the Sun?",
       "type": "mcq",
+      "prompt": "What is the path that Earth follows around the Sun?",
       "options": {
         "choices": [
-          "orbit",
-          "rotation",
-          "axis",
-          "gravity"
+          {
+            "id": "c1",
+            "text": "orbit"
+          },
+          {
+            "id": "c2",
+            "text": "rotation"
+          },
+          {
+            "id": "c3",
+            "text": "axis"
+          },
+          {
+            "id": "c4",
+            "text": "gravity"
+          }
         ]
       },
-      "correct_answer": "orbit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Earth moves along an elliptical path known as an orbit around the Sun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "What do we call a group of planets, moons, and the Sun together?",
       "type": "mcq",
+      "prompt": "What do we call a group of planets, moons, and the Sun together?",
       "options": {
         "choices": [
-          "solar system",
-          "glaxy",
-          "universe",
-          "constellation"
+          {
+            "id": "c1",
+            "text": "solar system"
+          },
+          {
+            "id": "c2",
+            "text": "glaxy"
+          },
+          {
+            "id": "c3",
+            "text": "universe"
+          },
+          {
+            "id": "c4",
+            "text": "constellation"
+          }
         ]
       },
-      "correct_answer": "solar system",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The combination of the sun, orbiting planets, and their companion moons defines our solar system.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "What do we call the visible group of stars that form shapes?",
       "type": "mcq",
+      "prompt": "What do we call the visible group of stars that form shapes?",
       "options": {
         "choices": [
-          "constellation",
-          "galaxy",
-          "nebula",
-          "comet"
+          {
+            "id": "c1",
+            "text": "constellation"
+          },
+          {
+            "id": "c2",
+            "text": "galaxy"
+          },
+          {
+            "id": "c3",
+            "text": "nebula"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "constellation",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Patterns mapped across recognizable clusters of stars are designated as constellations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "What is a dwarf planet?",
       "type": "mcq",
+      "prompt": "What is a dwarf planet?",
       "options": {
         "choices": [
-          "very small planet",
-          "star",
-          "moon",
-          "comet"
+          {
+            "id": "c1",
+            "text": "very small planet"
+          },
+          {
+            "id": "c2",
+            "text": "star"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "very small planet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A dwarf planet is a celestial body resembling a small planet but lacking certain technical criteria to clear its orbital neighborhood.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "What is the name of the first satellite humans sent into space?",
       "type": "mcq",
+      "prompt": "What is the name of the first satellite humans sent into space?",
       "options": {
         "choices": [
-          "sutnik",
-          "hubble",
-          "voyager",
-          "apollo"
+          {
+            "id": "c1",
+            "text": "sutnik"
+          },
+          {
+            "id": "c2",
+            "text": "hubble"
+          },
+          {
+            "id": "c3",
+            "text": "voyager"
+          },
+          {
+            "id": "c4",
+            "text": "apollo"
+          }
         ]
       },
-      "correct_answer": "sutnik",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sputnik (misspelled as sutnik in options) represents humanity's inaugural artificial step into space exploration.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "What do we call a giant cloud of gas in space?",
       "type": "mcq",
+      "prompt": "What do we call a giant cloud of gas in space?",
       "options": {
         "choices": [
-          "niebula",
-          "comet",
-          "asteroid",
-          "planet"
+          {
+            "id": "c1",
+            "text": "niebula"
+          },
+          {
+            "id": "c2",
+            "text": "comet"
+          },
+          {
+            "id": "c3",
+            "text": "asteroid"
+          },
+          {
+            "id": "c4",
+            "text": "planet"
+          }
         ]
       },
-      "correct_answer": "niebula",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A massive distribution of interstellar gas and dust clouds is structurally defined as a nebula.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "What is a celestial body made of ice, dust, and rock that orbits the Sun?",
       "type": "mcq",
+      "prompt": "What is a celestial body made of ice, dust, and rock that orbits the Sun?",
       "options": {
         "choices": [
-          "comet",
-          "planet",
-          "star",
-          "moon"
+          {
+            "id": "c1",
+            "text": "comet"
+          },
+          {
+            "id": "c2",
+            "text": "planet"
+          },
+          {
+            "id": "c3",
+            "text": "star"
+          },
+          {
+            "id": "c4",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "comet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Comets travel along extreme solar pathways shedding active gas structures due to localized thermal warming.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "What do we call a group of billions of stars?",
       "type": "mcq",
+      "prompt": "What do we call a group of billions of stars?",
       "options": {
         "choices": [
-          "galaxy",
-          "planet",
-          "moon",
-          "comet"
+          {
+            "id": "c1",
+            "text": "galaxy"
+          },
+          {
+            "id": "c2",
+            "text": "planet"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "galaxy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Galaxies are large systems made up of billions of gravitationally linked stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "What do astronauts use to travel to space?",
       "type": "mcq",
+      "prompt": "What do astronauts use to travel to space?",
       "options": {
         "choices": [
-          "Car",
-          "Rocket",
-          "Ship",
-          "plane"
+          {
+            "id": "c1",
+            "text": "Car"
+          },
+          {
+            "id": "c2",
+            "text": "Rocket"
+          },
+          {
+            "id": "c3",
+            "text": "Ship"
+          },
+          {
+            "id": "c4",
+            "text": "plane"
+          }
         ]
       },
-      "correct_answer": "Rocket",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Rockets yield the vast propulsion metrics required to surpass Earth's heavy atmospheric and escape velocity thresholds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "What is the bright center of a galaxy called?",
       "type": "mcq",
+      "prompt": "What is the bright center of a galaxy called?",
       "options": {
         "choices": [
-          "core",
-          "orbit",
-          "moon",
-          "comet"
+          {
+            "id": "c1",
+            "text": "core"
+          },
+          {
+            "id": "c2",
+            "text": "orbit"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "core",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The core or nucleus sits structurally as the densely packed luminous focal center of galaxies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "What is the tail of a comet made of?",
       "type": "mcq",
+      "prompt": "What is the tail of a comet made of?",
       "options": {
         "choices": [
-          "ice and dust",
-          "rocks",
-          "gas",
-          "metal"
+          {
+            "id": "c1",
+            "text": "ice and dust"
+          },
+          {
+            "id": "c2",
+            "text": "rocks"
+          },
+          {
+            "id": "c3",
+            "text": "gas"
+          },
+          {
+            "id": "c4",
+            "text": "metal"
+          }
         ]
       },
-      "correct_answer": "ice and dust",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Solar winds vaporize the surface of incoming comets, producing spectacular trails of dust and sublimated ice.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "What is a massive spinning ball of gas in space?",
       "type": "mcq",
+      "prompt": "What is a massive spinning ball of gas in space?",
       "options": {
         "choices": [
-          "star",
-          "planet",
-          "moon",
-          "comet"
+          {
+            "id": "c1",
+            "text": "star"
+          },
+          {
+            "id": "c2",
+            "text": "planet"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "star",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Stars are self-luminous cosmic structures built fundamentally from spinning spheres of high-energy plasma gas.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "What do we call the universe beyond our galaxy?",
       "type": "mcq",
+      "prompt": "What do we call the universe beyond our galaxy?",
       "options": {
         "choices": [
-          "outer space",
-          "solar system",
-          "moon",
-          "orbit"
+          {
+            "id": "c1",
+            "text": "outer space"
+          },
+          {
+            "id": "c2",
+            "text": "solar system"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "orbit"
+          }
         ]
       },
-      "correct_answer": "outer space",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Regions expanding outwardly past our home galaxy are generally broadly known as deep outer space.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "What shines in the night sky?",
       "type": "mcq",
+      "prompt": "What shines in the night sky?",
       "options": {
         "choices": [
-          "stars",
-          "trees",
-          "cars",
-          "houses"
+          {
+            "id": "c1",
+            "text": "stars"
+          },
+          {
+            "id": "c2",
+            "text": "trees"
+          },
+          {
+            "id": "c3",
+            "text": "cars"
+          },
+          {
+            "id": "c4",
+            "text": "houses"
+          }
         ]
       },
-      "correct_answer": "stars",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Stars glow across remote light-years to act as the primary structural illumination points in the evening sky.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "What do we call the sky at night?",
       "type": "mcq",
+      "prompt": "What do we call the sky at night?",
       "options": {
         "choices": [
-          "day",
-          "night sky",
-          "garden",
-          "sea"
+          {
+            "id": "c1",
+            "text": "day"
+          },
+          {
+            "id": "c2",
+            "text": "night sky"
+          },
+          {
+            "id": "c3",
+            "text": "garden"
+          },
+          {
+            "id": "c4",
+            "text": "sea"
+          }
         ]
       },
-      "correct_answer": "night sky",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The window looking out past Earth's atmosphere when facing away from the Sun is known as the night sky.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "What is the big bright ball in the sky during the day?",
       "type": "mcq",
+      "prompt": "What is the big bright ball in the sky during the day?",
       "options": {
         "choices": [
-          "moon",
-          "sun",
-          "star",
-          "planet"
+          {
+            "id": "c1",
+            "text": "moon"
+          },
+          {
+            "id": "c2",
+            "text": "sun"
+          },
+          {
+            "id": "c3",
+            "text": "star"
+          },
+          {
+            "id": "c4",
+            "text": "planet"
+          }
         ]
       },
-      "correct_answer": "sun",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The Sun dominates diurnal viewframes on Earth by emitting vast amounts of radiant thermal energy.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "What is the Moon?",
       "type": "mcq",
+      "prompt": "What is the Moon?",
       "options": {
         "choices": [
-          "star",
-          "moon",
-          "planet",
-          "cloud"
+          {
+            "id": "c1",
+            "text": "star"
+          },
+          {
+            "id": "c2",
+            "text": "moon"
+          },
+          {
+            "id": "c3",
+            "text": "planet"
+          },
+          {
+            "id": "c4",
+            "text": "cloud"
+          }
         ]
       },
-      "correct_answer": "moon",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The Moon is Earth's only principal natural celestial satellite.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "What do stars make in the sky?",
       "type": "mcq",
+      "prompt": "What do stars make in the sky?",
       "options": {
         "choices": [
-          "pictures",
-          "cars",
-          "trees",
-          "rivers"
+          {
+            "id": "c1",
+            "text": "pictures"
+          },
+          {
+            "id": "c2",
+            "text": "cars"
+          },
+          {
+            "id": "c3",
+            "text": "trees"
+          },
+          {
+            "id": "c4",
+            "text": "rivers"
+          }
         ]
       },
-      "correct_answer": "pictures",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Human cultures historicize star clusters into patterns that visually resemble pictures or constellations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "What is a group of stars called?",
       "type": "mcq",
+      "prompt": "What is a group of stars called?",
       "options": {
         "choices": [
-          "galaxy",
-          "moon",
-          "tree",
-          "car"
+          {
+            "id": "c1",
+            "text": "galaxy"
+          },
+          {
+            "id": "c2",
+            "text": "moon"
+          },
+          {
+            "id": "c3",
+            "text": "tree"
+          },
+          {
+            "id": "c4",
+            "text": "car"
+          }
         ]
       },
-      "correct_answer": "galaxy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Galaxies structurally bind massive quantities of stars together across distinct clusters.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "What color are most stars?",
       "type": "mcq",
+      "prompt": "What color are most stars?",
       "options": {
         "choices": [
-          "red, yellow, white",
-          "green",
-          "black",
-          "brown"
+          {
+            "id": "c1",
+            "text": "red, yellow, white"
+          },
+          {
+            "id": "c2",
+            "text": "green"
+          },
+          {
+            "id": "c3",
+            "text": "black"
+          },
+          {
+            "id": "c4",
+            "text": "brown"
+          }
         ]
       },
-      "correct_answer": "red, yellow, white",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Star color distribution hinges directly on localized heat outputs, spanning white, yellow, and red variants.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Which shines brighter, Sun or stars?",
       "type": "mcq",
+      "prompt": "Which shines brighter, Sun or stars?",
       "options": {
         "choices": [
-          "sun",
-          "stars",
-          "moon",
-          "clouds"
+          {
+            "id": "c1",
+            "text": "sun"
+          },
+          {
+            "id": "c2",
+            "text": "stars"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "clouds"
+          }
         ]
       },
-      "correct_answer": "sun",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Because of our extreme closeness to it, the Sun structurally overpowers the visual brightness of all other far-distant stars combined.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "What can we see in the sky at night besides stars?",
       "type": "mcq",
+      "prompt": "What can we see in the sky at night besides stars?",
       "options": {
         "choices": [
-          "moon",
-          "trees",
-          "cars",
-          "houses"
+          {
+            "id": "c1",
+            "text": "moon"
+          },
+          {
+            "id": "c2",
+            "text": "trees"
+          },
+          {
+            "id": "c3",
+            "text": "cars"
+          },
+          {
+            "id": "c4",
+            "text": "houses"
+          }
         ]
       },
-      "correct_answer": "moon",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The Moon reflects solar illumination back to Earth, marking it clearly in the evening sky along with stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "What is the name of the galaxy we live in?",
       "type": "mcq",
+      "prompt": "What is the name of the galaxy we live in?",
       "options": {
         "choices": [
-          "milky way",
-          "andromeda",
-          "sun",
-          "moon"
+          {
+            "id": "c1",
+            "text": "milky way"
+          },
+          {
+            "id": "c2",
+            "text": "andromeda"
+          },
+          {
+            "id": "c3",
+            "text": "sun"
+          },
+          {
+            "id": "c4",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "milky way",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The Milky Way galaxy houses our solar home system along with hundreds of billions of alternate stellar systems.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "What do astronauts wear in space?",
       "type": "mcq",
+      "prompt": "What do astronauts wear in space?",
       "options": {
         "choices": [
-          "shoes",
-          "spacesuit",
-          "coat",
-          "hat"
+          {
+            "id": "c1",
+            "text": "shoes"
+          },
+          {
+            "id": "c2",
+            "text": "spacesuit"
+          },
+          {
+            "id": "c3",
+            "text": "coat"
+          },
+          {
+            "id": "c4",
+            "text": "hat"
+          }
         ]
       },
-      "correct_answer": "spacesuit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Spacesuits protect the human body against extreme cold, heat, and radiation while providing breathable air.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "What do rockets do?",
       "type": "mcq",
+      "prompt": "What do rockets do?",
       "options": {
         "choices": [
-          "fly to space",
-          "drive on roads",
-          "swim",
-          "sleep"
+          {
+            "id": "c1",
+            "text": "fly to space"
+          },
+          {
+            "id": "c2",
+            "text": "drive on roads"
+          },
+          {
+            "id": "c3",
+            "text": "swim"
+          },
+          {
+            "id": "c4",
+            "text": "sleep"
+          }
         ]
       },
-      "correct_answer": "fly to space",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Rockets carry humans, rovers, and tracking modules into orbital locations outside Earth's atmosphere.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "What is a tiny light in the sky called?",
       "type": "mcq",
+      "prompt": "What is a tiny light in the sky called?",
       "options": {
         "choices": [
-          "star",
-          "moon",
-          "sun",
-          "cloud"
+          {
+            "id": "c1",
+            "text": "star"
+          },
+          {
+            "id": "c2",
+            "text": "moon"
+          },
+          {
+            "id": "c3",
+            "text": "sun"
+          },
+          {
+            "id": "c4",
+            "text": "cloud"
+          }
         ]
       },
-      "correct_answer": "star",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Because stars are extremely far away, they appear as tiny pinpricks of light to observers on Earth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "What is a shooting star?",
       "type": "mcq",
+      "prompt": "What is a shooting star?",
       "options": {
         "choices": [
-          "falling star",
-          "tree",
-          "car",
-          "house"
+          {
+            "id": "c1",
+            "text": "falling star"
+          },
+          {
+            "id": "c2",
+            "text": "tree"
+          },
+          {
+            "id": "c3",
+            "text": "car"
+          },
+          {
+            "id": "c4",
+            "text": "house"
+          }
         ]
       },
-      "correct_answer": "falling star",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Meteors dropping through gas frictions across our upper atmosphere resemble an actively falling star.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "What shines at night and is big?",
       "type": "mcq",
+      "prompt": "What shines at night and is big?",
       "options": {
         "choices": [
-          "moon",
-          "sun",
-          "tree",
-          "star"
+          {
+            "id": "c1",
+            "text": "moon"
+          },
+          {
+            "id": "c2",
+            "text": "sun"
+          },
+          {
+            "id": "c3",
+            "text": "tree"
+          },
+          {
+            "id": "c4",
+            "text": "star"
+          }
         ]
       },
-      "correct_answer": "moon",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The Moon is the largest and most dominant reflective structure found inside our night sky.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "What is a comet?",
       "type": "mcq",
+      "prompt": "What is a comet?",
       "options": {
         "choices": [
-          "ball of ice and dust",
-          "tree",
-          "star",
-          "car"
+          {
+            "id": "c1",
+            "text": "ball of ice and dust"
+          },
+          {
+            "id": "c2",
+            "text": "tree"
+          },
+          {
+            "id": "c3",
+            "text": "star"
+          },
+          {
+            "id": "c4",
+            "text": "car"
+          }
         ]
       },
-      "correct_answer": "ball of ice and dust",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Comets travel down wide orbital trajectories as aggregates made up of rocky debris and dense frozen ice structures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "What do we call the space where stars are?",
       "type": "mcq",
+      "prompt": "What do we call the space where stars are?",
       "options": {
         "choices": [
-          "sky",
-          "garden",
-          "house",
-          "river"
+          {
+            "id": "c1",
+            "text": "sky"
+          },
+          {
+            "id": "c2",
+            "text": "garden"
+          },
+          {
+            "id": "c3",
+            "text": "house"
+          },
+          {
+            "id": "c4",
+            "text": "river"
+          }
         ]
       },
-      "correct_answer": "sky",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The sky acts as the visual window through which we view outer space and the stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "What is a telescope used for?",
       "type": "mcq",
+      "prompt": "What is a telescope used for?",
       "options": {
         "choices": [
-          "to see far stars",
-          "to eat",
-          "to play",
-          "to swim"
+          {
+            "id": "c1",
+            "text": "to see far stars"
+          },
+          {
+            "id": "c2",
+            "text": "to eat"
+          },
+          {
+            "id": "c3",
+            "text": "to play"
+          },
+          {
+            "id": "c4",
+            "text": "to swim"
+          }
         ]
       },
-      "correct_answer": "to see far stars",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Telescopes collect light from distant stars to make them visible and detailed for observers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "What do we call a small rock from space?",
       "type": "mcq",
+      "prompt": "What do we call a small rock from space?",
       "options": {
         "choices": [
-          "meteor",
-          "tree",
-          "car",
-          "house"
+          {
+            "id": "c1",
+            "text": "meteor"
+          },
+          {
+            "id": "c2",
+            "text": "tree"
+          },
+          {
+            "id": "c3",
+            "text": "car"
+          },
+          {
+            "id": "c4",
+            "text": "house"
+          }
         ]
       },
-      "correct_answer": "meteor",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Small rocky bodies moving through space that enter Earth's atmospheric zones are classified as meteors.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "What do we call the Sun, Moon, and stars together?",
       "type": "mcq",
+      "prompt": "What do we call the Sun, Moon, and stars together?",
       "options": {
         "choices": [
-          "sky",
-          "sea",
-          "garden",
-          "road"
+          {
+            "id": "c1",
+            "text": "sky"
+          },
+          {
+            "id": "c2",
+            "text": "sea"
+          },
+          {
+            "id": "c3",
+            "text": "garden"
+          },
+          {
+            "id": "c4",
+            "text": "road"
+          }
         ]
       },
-      "correct_answer": "sky",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The sky serves as the collective cosmic canvas containing all visible celestial bodies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "What is the Moon made of?",
       "type": "mcq",
+      "prompt": "What is the Moon made of?",
       "options": {
         "choices": [
-          "cheese",
-          "rock",
-          "water",
-          "ice cream"
+          {
+            "id": "c1",
+            "text": "cheese"
+          },
+          {
+            "id": "c2",
+            "text": "rock"
+          },
+          {
+            "id": "c3",
+            "text": "water"
+          },
+          {
+            "id": "c4",
+            "text": "ice cream"
+          }
         ]
       },
-      "correct_answer": "rock",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The Moon is a rocky, solid-surface celestial body with a crust, mantle, and core.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "What do we call a bright light in the sky at night?",
       "type": "mcq",
+      "prompt": "What do we call a bright light in the sky at night?",
       "options": {
         "choices": [
-          "star",
-          "moon",
-          "sun",
-          "cloud"
+          {
+            "id": "c1",
+            "text": "star"
+          },
+          {
+            "id": "c2",
+            "text": "moon"
+          },
+          {
+            "id": "c3",
+            "text": "sun"
+          },
+          {
+            "id": "c4",
+            "text": "cloud"
+          }
         ]
       },
-      "correct_answer": "star",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Stars stand out as singular points of distinct light burning throughout the dark night hours.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "What is the Sun?",
       "type": "mcq",
+      "prompt": "What is the Sun?",
       "options": {
         "choices": [
-          "star",
-          "moon",
-          "cloud",
-          "planet"
+          {
+            "id": "c1",
+            "text": "star"
+          },
+          {
+            "id": "c2",
+            "text": "moon"
+          },
+          {
+            "id": "c3",
+            "text": "cloud"
+          },
+          {
+            "id": "c4",
+            "text": "planet"
+          }
         ]
       },
-      "correct_answer": "star",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The Sun is a yellow dwarf star that fuels life on Earth with its heat and light.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "What do astronauts travel in to go to space?",
       "type": "mcq",
+      "prompt": "What do astronauts travel in to go to space?",
       "options": {
         "choices": [
-          "rocket",
-          "car",
-          "bike",
-          "boat"
+          {
+            "id": "c1",
+            "text": "rocket"
+          },
+          {
+            "id": "c2",
+            "text": "car"
+          },
+          {
+            "id": "c3",
+            "text": "bike"
+          },
+          {
+            "id": "c4",
+            "text": "boat"
+          }
         ]
       },
-      "correct_answer": "rocket",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Rockets generate the massive thrust needed to launch astronauts into orbit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "What do we call the first man in space?",
       "type": "mcq",
+      "prompt": "What do we call the first man in space?",
       "options": {
         "choices": [
-          "yuri gagarin",
-          "neil armstrong",
-          "buzz aldrin",
-          "john"
+          {
+            "id": "c1",
+            "text": "yuri gagarin"
+          },
+          {
+            "id": "c2",
+            "text": "neil armstrong"
+          },
+          {
+            "id": "c3",
+            "text": "buzz aldrin"
+          },
+          {
+            "id": "c4",
+            "text": "john"
+          }
         ]
       },
-      "correct_answer": "yuri gagarin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Yuri Gagarin made history on April 12, 1961, as the first human to enter outer space.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "What do we see in the sky during daytime?",
       "type": "mcq",
+      "prompt": "What do we see in the sky during daytime?",
       "options": {
         "choices": [
-          "sun",
-          "stars",
-          "moon",
-          "comet"
+          {
+            "id": "c1",
+            "text": "sun"
+          },
+          {
+            "id": "c2",
+            "text": "stars"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "sun",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The Sun shines brightly during the day, illuminating Earth and making it daytime.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "What do we see in the sky during nighttime?",
       "type": "mcq",
+      "prompt": "What do we see in the sky during nighttime?",
       "options": {
         "choices": [
-          "moon and stars",
-          "sun",
-          "trees",
-          "cars"
+          {
+            "id": "c1",
+            "text": "moon and stars"
+          },
+          {
+            "id": "c2",
+            "text": "sun"
+          },
+          {
+            "id": "c3",
+            "text": "trees"
+          },
+          {
+            "id": "c4",
+            "text": "cars"
+          }
         ]
       },
-      "correct_answer": "moon and stars",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Once the Sun sets, the Moon and stars become visible in the dark sky.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "What is the night sky full of?",
       "type": "mcq",
+      "prompt": "What is the night sky full of?",
       "options": {
         "choices": [
-          "stars",
-          "trees",
-          "houses",
-          "cars"
+          {
+            "id": "c1",
+            "text": "stars"
+          },
+          {
+            "id": "c2",
+            "text": "trees"
+          },
+          {
+            "id": "c3",
+            "text": "houses"
+          },
+          {
+            "id": "c4",
+            "text": "cars"
+          }
         ]
       },
-      "correct_answer": "stars",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "On a clear night, the sky is filled with thousands of visible stars across space.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "What is a group of stars that make a shape called?",
       "type": "mcq",
+      "prompt": "What is a group of stars that make a shape called?",
       "options": {
         "choices": [
-          "constellation",
-          "moon",
-          "planet",
-          "cloud"
+          {
+            "id": "c1",
+            "text": "constellation"
+          },
+          {
+            "id": "c2",
+            "text": "moon"
+          },
+          {
+            "id": "c3",
+            "text": "planet"
+          },
+          {
+            "id": "c4",
+            "text": "cloud"
+          }
         ]
       },
-      "correct_answer": "constellation",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Constellations are configurations of stars that form patterns named after mythological figures, animals, or objects.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "What is the sky called far away from Earth?",
       "type": "mcq",
+      "prompt": "What is the sky called far away from Earth?",
       "options": {
         "choices": [
-          "outer space",
-          "garden",
-          "river",
-          "road"
+          {
+            "id": "c1",
+            "text": "outer space"
+          },
+          {
+            "id": "c2",
+            "text": "garden"
+          },
+          {
+            "id": "c3",
+            "text": "river"
+          },
+          {
+            "id": "c4",
+            "text": "road"
+          }
         ]
       },
-      "correct_answer": "outer space",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The infinite expanse beyond Earth’s atmosphere is known as outer space.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "What does a comet look like in the sky?",
       "type": "mcq",
+      "prompt": "What does a comet look like in the sky?",
       "options": {
         "choices": [
-          "bright with a tail",
-          "dark",
-          "blue",
-          "green"
+          {
+            "id": "c1",
+            "text": "bright with a tail"
+          },
+          {
+            "id": "c2",
+            "text": "dark"
+          },
+          {
+            "id": "c3",
+            "text": "blue"
+          },
+          {
+            "id": "c4",
+            "text": "green"
+          }
         ]
       },
-      "correct_answer": "bright with a tail",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "As a comet approaches the Sun, its ice vaporizes and creates a brilliant, glowing tail pointing away from the Sun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "What do astronauts do in space?",
       "type": "mcq",
+      "prompt": "What do astronauts do in space?",
       "options": {
         "choices": [
-          "float and explore",
-          "sleep on the ground",
-          "swim in the sea",
-          "drive cars"
+          {
+            "id": "c1",
+            "text": "float and explore"
+          },
+          {
+            "id": "c2",
+            "text": "sleep on the ground"
+          },
+          {
+            "id": "c3",
+            "text": "swim in the sea"
+          },
+          {
+            "id": "c4",
+            "text": "drive cars"
+          }
         ]
       },
-      "correct_answer": "float and explore",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "In the microgravity of space, astronauts float as they conduct scientific experiments and explore.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "What can a telescope help us see?",
       "type": "mcq",
+      "prompt": "What can a telescope help us see?",
       "options": {
         "choices": [
-          "stars",
-          "cars",
-          "trees",
-          "houses"
+          {
+            "id": "c1",
+            "text": "stars"
+          },
+          {
+            "id": "c2",
+            "text": "cars"
+          },
+          {
+            "id": "c3",
+            "text": "trees"
+          },
+          {
+            "id": "c4",
+            "text": "houses"
+          }
         ]
       },
-      "correct_answer": "stars",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Telescopes gather faint light from deep space, helping us see stars and galaxies that are invisible to the naked eye.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "What is a bright star in the night sky called?",
       "type": "mcq",
+      "prompt": "What is a bright star in the night sky called?",
       "options": {
         "choices": [
-          "star",
-          "moon",
-          "sun",
-          "cloud"
+          {
+            "id": "c1",
+            "text": "star"
+          },
+          {
+            "id": "c2",
+            "text": "moon"
+          },
+          {
+            "id": "c3",
+            "text": "sun"
+          },
+          {
+            "id": "c4",
+            "text": "cloud"
+          }
         ]
       },
-      "correct_answer": "star",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A star is a self-luminous object that stands out as a bright point in the night sky.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "What is the first satellite sent to space called?",
       "type": "mcq",
+      "prompt": "What is the first satellite sent to space called?",
       "options": {
         "choices": [
-          "sputnik",
-          "hubble",
-          "apollo",
-          "voyager"
+          {
+            "id": "c1",
+            "text": "sputnik"
+          },
+          {
+            "id": "c2",
+            "text": "hubble"
+          },
+          {
+            "id": "c3",
+            "text": "apollo"
+          },
+          {
+            "id": "c4",
+            "text": "voyager"
+          }
         ]
       },
-      "correct_answer": "sputnik",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Launched by the Soviet Union in 1957, Sputnik 1 was the historic first artificial satellite.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "What is a black hole?",
       "type": "mcq",
+      "prompt": "What is a black hole?",
       "options": {
         "choices": [
-          "dark place that pulls things in",
-          "planet",
-          "star",
-          "moon"
+          {
+            "id": "c1",
+            "text": "dark place that pulls things in"
+          },
+          {
+            "id": "c2",
+            "text": "planet"
+          },
+          {
+            "id": "c3",
+            "text": "star"
+          },
+          {
+            "id": "c4",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "dark place that pulls things in",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A black hole is an area of space with gravitational forces so intense that nothing can escape its pull.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "What do astronauts wear on their head in space?",
       "type": "mcq",
+      "prompt": "What do astronauts wear on their head in space?",
       "options": {
         "choices": [
-          "helmet",
-          "hat",
-          "cap",
-          "glasses"
+          {
+            "id": "c1",
+            "text": "helmet"
+          },
+          {
+            "id": "c2",
+            "text": "hat"
+          },
+          {
+            "id": "c3",
+            "text": "cap"
+          },
+          {
+            "id": "c4",
+            "text": "glasses"
+          }
         ]
       },
-      "correct_answer": "helmet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Astronuts wear space helmets that protect their head and provide clean oxygen to breathe.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "What is the sky without clouds called at night?",
       "type": "mcq",
+      "prompt": "What is the sky without clouds called at night?",
       "options": {
         "choices": [
-          "clear sky",
-          "garden",
-          "river",
-          "road"
+          {
+            "id": "c1",
+            "text": "clear sky"
+          },
+          {
+            "id": "c2",
+            "text": "garden"
+          },
+          {
+            "id": "c3",
+            "text": "river"
+          },
+          {
+            "id": "c4",
+            "text": "road"
+          }
         ]
       },
-      "correct_answer": "clear sky",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A clear sky means there are no clouds blocking our view of the moon and stars at night.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "What can we see with our eyes in the night sky?",
       "type": "mcq",
+      "prompt": "What can we see with our eyes in the night sky?",
       "options": {
         "choices": [
-          "moon and stars",
-          "sun",
-          "clouds",
-          "cars"
+          {
+            "id": "c1",
+            "text": "moon and stars"
+          },
+          {
+            "id": "c2",
+            "text": "sun"
+          },
+          {
+            "id": "c3",
+            "text": "clouds"
+          },
+          {
+            "id": "c4",
+            "text": "cars"
+          }
         ]
       },
-      "correct_answer": "moon and stars",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The Moon and stars are the primary celestial objects visible to the unaided eye at night.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "What is the name of the first human to walk on the Moon?",
       "type": "mcq",
+      "prompt": "What is the name of the first human to walk on the Moon?",
       "options": {
         "choices": [
-          "neil armstrong",
-          "yuri gagarin",
-          "buzz aldrin",
-          "john"
+          {
+            "id": "c1",
+            "text": "neil armstrong"
+          },
+          {
+            "id": "c2",
+            "text": "yuri gagarin"
+          },
+          {
+            "id": "c3",
+            "text": "buzz aldrin"
+          },
+          {
+            "id": "c4",
+            "text": "john"
+          }
         ]
       },
-      "correct_answer": "neil armstrong",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "American astronaut Neil Armstrong became the first person to walk on the Moon during the Apollo 11 mission in 1969.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "What do we call the path planets follow around the Sun?",
       "type": "mcq",
+      "prompt": "What do we call the path planets follow around the Sun?",
       "options": {
         "choices": [
-          "orbit",
-          "road",
-          "sky",
-          "river"
+          {
+            "id": "c1",
+            "text": "orbit"
+          },
+          {
+            "id": "c2",
+            "text": "road"
+          },
+          {
+            "id": "c3",
+            "text": "sky"
+          },
+          {
+            "id": "c4",
+            "text": "river"
+          }
         ]
       },
-      "correct_answer": "orbit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "An orbit is the gravitationally determined path an object follows around a star.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "What is the Sun made of?",
       "type": "mcq",
+      "prompt": "What is the Sun made of?",
       "options": {
         "choices": [
-          "hot gas",
-          "water",
-          "rock",
-          "ice"
+          {
+            "id": "c1",
+            "text": "hot gas"
+          },
+          {
+            "id": "c2",
+            "text": "water"
+          },
+          {
+            "id": "c3",
+            "text": "rock"
+          },
+          {
+            "id": "c4",
+            "text": "ice"
+          }
         ]
       },
-      "correct_answer": "hot gas",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The Sun is a glowing, massive ball composed almost entirely of hot hydrogen and helium gases.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "What is a bright flash when a star dies?",
       "type": "mcq",
+      "prompt": "What is a bright flash when a star dies?",
       "options": {
         "choices": [
-          "supernova",
-          "moon",
-          "planet",
-          "comet"
+          {
+            "id": "c1",
+            "text": "supernova"
+          },
+          {
+            "id": "c2",
+            "text": "moon"
+          },
+          {
+            "id": "c3",
+            "text": "planet"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "supernova",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A supernova is the phenomenal explosive collapse marking the violent death of a massive star.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "What do we call the Moon going around the Earth?",
       "type": "mcq",
+      "prompt": "What do we call the Moon going around the Earth?",
       "options": {
         "choices": [
-          "orbit",
-          "road",
-          "sky",
-          "garden"
+          {
+            "id": "c1",
+            "text": "orbit"
+          },
+          {
+            "id": "c2",
+            "text": "road"
+          },
+          {
+            "id": "c3",
+            "text": "sky"
+          },
+          {
+            "id": "c4",
+            "text": "garden"
+          }
         ]
       },
-      "correct_answer": "orbit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The Moon circles the Earth continuously along an elliptical orbit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "What is a very small star called?",
       "type": "mcq",
+      "prompt": "What is a very small star called?",
       "options": {
         "choices": [
-          "dwarf star",
-          "moon",
-          "planet",
-          "comet"
+          {
+            "id": "c1",
+            "text": "dwarf star"
+          },
+          {
+            "id": "c2",
+            "text": "moon"
+          },
+          {
+            "id": "c3",
+            "text": "planet"
+          },
+          {
+            "id": "c4",
+            "text": "comet"
+          }
         ]
       },
-      "correct_answer": "dwarf star",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Small, relatively low-mass stars are referred to as dwarf stars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "What shines in the sky and gives us light at night?",
       "type": "mcq",
+      "prompt": "What shines in the sky and gives us light at night?",
       "options": {
         "choices": [
-          "moon and stars",
-          "sun",
-          "cars",
-          "houses"
+          {
+            "id": "c1",
+            "text": "moon and stars"
+          },
+          {
+            "id": "c2",
+            "text": "sun"
+          },
+          {
+            "id": "c3",
+            "text": "cars"
+          },
+          {
+            "id": "c4",
+            "text": "houses"
+          }
         ]
       },
-      "correct_answer": "moon and stars",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The Moon and stars illuminate our night landscape by reflecting and generating light.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "What is the big ball of fire in the center of our Solar System?",
       "type": "mcq",
+      "prompt": "What is the big ball of fire in the center of our Solar System?",
       "options": {
         "choices": [
-          "sun",
-          "moon",
-          "earth",
-          "mars"
+          {
+            "id": "c1",
+            "text": "sun"
+          },
+          {
+            "id": "c2",
+            "text": "moon"
+          },
+          {
+            "id": "c3",
+            "text": "earth"
+          },
+          {
+            "id": "c4",
+            "text": "mars"
+          }
         ]
       },
-      "correct_answer": "sun",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The Sun is the giant, hot energetic core around which our entire solar system resolves.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "What do we call the empty space between stars?",
       "type": "mcq",
+      "prompt": "What do we call the empty space between stars?",
       "options": {
         "choices": [
-          "space",
-          "garden",
-          "toad",
-          "river"
+          {
+            "id": "c1",
+            "text": "space"
+          },
+          {
+            "id": "c2",
+            "text": "garden"
+          },
+          {
+            "id": "c3",
+            "text": "toad"
+          },
+          {
+            "id": "c4",
+            "text": "river"
+          }
         ]
       },
-      "correct_answer": "space",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The vast, mostly empty territory separating celestial systems is called space.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "What do astronauts use to float in space?",
       "type": "mcq",
+      "prompt": "What do astronauts use to float in space?",
       "options": {
         "choices": [
-          "zero gravity",
-          "rope",
-          "chairb",
-          "rocket"
+          {
+            "id": "c1",
+            "text": "zero gravity"
+          },
+          {
+            "id": "c2",
+            "text": "rope"
+          },
+          {
+            "id": "c3",
+            "text": "chairb"
+          },
+          {
+            "id": "c4",
+            "text": "rocket"
+          }
         ]
       },
-      "correct_answer": "zero gravity",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Astronauts float weightlessly in space due to the continuous freefall environment of zero gravity (microgravity).",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "What do we call a frozen ball of ice flying in space?",
       "type": "mcq",
+      "prompt": "What do we call a frozen ball of ice flying in space?",
       "options": {
         "choices": [
-          "comet",
-          "star",
-          "moon",
-          "planets"
+          {
+            "id": "c1",
+            "text": "comet"
+          },
+          {
+            "id": "c2",
+            "text": "star"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          },
+          {
+            "id": "c4",
+            "text": "planets"
+          }
         ]
       },
-      "correct_answer": "comet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A comet is an icy body that warms up and releases gases when passing close to the sun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

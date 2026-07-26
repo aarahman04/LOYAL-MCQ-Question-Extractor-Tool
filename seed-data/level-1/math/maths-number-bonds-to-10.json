@@ -1,1616 +1,2515 @@
 {
   "_source_file": "Level_1_maths_Number_Bonds_to_10.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "maths-number-bonds-to-10",
-    "title": "Number Bonds to 10",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.510Z",
+  "slug": "maths-number-bonds-to-10",
+  "title": "Number Bonds to 10",
+  "level": "level-1",
+  "subject": "math",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>0 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>0 + __ = 10</span>",
       "options": {
         "choices": [
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "0 + 10 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>1 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>1 + __ = 10</span>",
       "options": {
         "choices": [
-          "8",
-          "9"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 + 9 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>2 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>2 + __ = 10</span>",
       "options": {
         "choices": [
-          "8",
-          "9"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "2 + 8 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>3 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>3 + __ = 10</span>",
       "options": {
         "choices": [
-          "8",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "3 + 7 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>4 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>4 + __ = 10</span>",
       "options": {
         "choices": [
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "4 + 6 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>5 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>5 + __ = 10</span>",
       "options": {
         "choices": [
-          "5",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "5 + 5 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>6 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>6 + __ = 10</span>",
       "options": {
         "choices": [
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "6 + 4 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>7 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>7 + __ = 10</span>",
       "options": {
         "choices": [
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "7 + 3 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>8 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>8 + __ = 10</span>",
       "options": {
         "choices": [
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "8 + 2 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>9 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>9 + __ = 10</span>",
       "options": {
         "choices": [
-          "0",
-          "1"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 + 1 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>10 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>10 + __ = 10</span>",
       "options": {
         "choices": [
-          "1",
-          "0"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "0"
+          }
         ]
       },
-      "correct_answer": "0",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "10 + 0 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "What goes in the blank?<br><span style='color:black;'>0 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "What goes in the blank?<br><span style='color:black;'>0 + __ = 10</span>",
       "options": {
         "choices": [
-          "10",
-          "9"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "0 + 10 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "What goes in the blank?<br><span style='color:black;'>1 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "What goes in the blank?<br><span style='color:black;'>1 + __ = 10</span>",
       "options": {
         "choices": [
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 + 9 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "What goes in the blank?<br><span style='color:black;'>2 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "What goes in the blank?<br><span style='color:black;'>2 + __ = 10</span>",
       "options": {
         "choices": [
-          "8",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "2 + 8 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "What goes in the blank?<br><span style='color:black;'>3 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "What goes in the blank?<br><span style='color:black;'>3 + __ = 10</span>",
       "options": {
         "choices": [
-          "6",
-          "7"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "3 + 7 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "What goes in the blank?<br><span style='color:black;'>4 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "What goes in the blank?<br><span style='color:black;'>4 + __ = 10</span>",
       "options": {
         "choices": [
-          "7",
-          "6"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "4 + 6 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "What goes in the blank?<br><span style='color:black;'>5 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "What goes in the blank?<br><span style='color:black;'>5 + __ = 10</span>",
       "options": {
         "choices": [
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 5 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "What goes in the blank?<br><span style='color:black;'>6 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "What goes in the blank?<br><span style='color:black;'>6 + __ = 10</span>",
       "options": {
         "choices": [
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "6 + 4 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "What goes in the blank?<br><span style='color:black;'>7 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "What goes in the blank?<br><span style='color:black;'>7 + __ = 10</span>",
       "options": {
         "choices": [
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "7 + 3 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "What goes in the blank?<br><span style='color:black;'>8 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "What goes in the blank?<br><span style='color:black;'>8 + __ = 10</span>",
       "options": {
         "choices": [
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "8 + 2 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "What goes in the blank?<br><span style='color:black;'>9 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "What goes in the blank?<br><span style='color:black;'>9 + __ = 10</span>",
       "options": {
         "choices": [
-          "0",
-          "1"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 + 1 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "What goes in the blank?<br><span style='color:black;'>10 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "What goes in the blank?<br><span style='color:black;'>10 + __ = 10</span>",
       "options": {
         "choices": [
-          "0",
-          "1"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "0",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "10 + 0 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 0 = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 0 = 10</span>",
       "options": {
         "choices": [
-          "10",
-          "9"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "0 + 10 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 1 = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 1 = 10</span>",
       "options": {
         "choices": [
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 + 9 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 2 = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 2 = 10</span>",
       "options": {
         "choices": [
-          "8",
-          "9"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "2 + 8 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 3 = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 3 = 10</span>",
       "options": {
         "choices": [
-          "7",
-          "6"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "3 + 7 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 4 = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 4 = 10</span>",
       "options": {
         "choices": [
-          "6",
-          "7"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "4 + 6 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 5 = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 5 = 10</span>",
       "options": {
         "choices": [
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 5 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 6 = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 6 = 10</span>",
       "options": {
         "choices": [
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "6 + 4 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 7 = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 7 = 10</span>",
       "options": {
         "choices": [
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "7 + 3 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 8 = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 8 = 10</span>",
       "options": {
         "choices": [
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "8 + 2 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 9 = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 9 = 10</span>",
       "options": {
         "choices": [
-          "1",
-          "2"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "9 + 1 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 10 = 10</span>",
       "type": "mcq",
+      "prompt": "Pick the number that makes 10.<br><span style='color:black;'>__ + 10 = 10</span>",
       "options": {
         "choices": [
-          "1",
-          "0"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "0"
+          }
         ]
       },
-      "correct_answer": "0",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "10 + 0 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which number completes the bond?<br><span style='color:black;'>0 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Which number completes the bond?<br><span style='color:black;'>0 + __ = 10</span>",
       "options": {
         "choices": [
-          "10",
-          "9"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "0 + 10 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Which number completes the bond?<br><span style='color:black;'>1 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Which number completes the bond?<br><span style='color:black;'>1 + __ = 10</span>",
       "options": {
         "choices": [
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 + 9 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which number completes the bond?<br><span style='color:black;'>2 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Which number completes the bond?<br><span style='color:black;'>2 + __ = 10</span>",
       "options": {
         "choices": [
-          "8",
-          "9"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "2 + 8 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which number completes the bond?<br><span style='color:black;'>3 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Which number completes the bond?<br><span style='color:black;'>3 + __ = 10</span>",
       "options": {
         "choices": [
-          "7",
-          "8"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "3 + 7 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which number completes the bond?<br><span style='color:black;'>4 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Which number completes the bond?<br><span style='color:black;'>4 + __ = 10</span>",
       "options": {
         "choices": [
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "4 + 6 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which number completes the bond?<br><span style='color:black;'>5 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Which number completes the bond?<br><span style='color:black;'>5 + __ = 10</span>",
       "options": {
         "choices": [
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 5 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which number completes the bond?<br><span style='color:black;'>6 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Which number completes the bond?<br><span style='color:black;'>6 + __ = 10</span>",
       "options": {
         "choices": [
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "6 + 4 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which number completes the bond?<br><span style='color:black;'>7 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Which number completes the bond?<br><span style='color:black;'>7 + __ = 10</span>",
       "options": {
         "choices": [
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "7 + 3 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which number completes the bond?<br><span style='color:black;'>8 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Which number completes the bond?<br><span style='color:black;'>8 + __ = 10</span>",
       "options": {
         "choices": [
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "8 + 2 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which number completes the bond?<br><span style='color:black;'>9 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Which number completes the bond?<br><span style='color:black;'>9 + __ = 10</span>",
       "options": {
         "choices": [
-          "0",
-          "1"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 + 1 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which number completes the bond?<br><span style='color:black;'>10 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Which number completes the bond?<br><span style='color:black;'>10 + __ = 10</span>",
       "options": {
         "choices": [
-          "0",
-          "1"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "0",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "10 + 0 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 0 + __</span>",
       "type": "mcq",
+      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 0 + __</span>",
       "options": {
         "choices": [
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "0 + 10 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 1 + __</span>",
       "type": "mcq",
+      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 1 + __</span>",
       "options": {
         "choices": [
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "1 + 9 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 2 + __</span>",
       "type": "mcq",
+      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 2 + __</span>",
       "options": {
         "choices": [
-          "7",
-          "8"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "2 + 8 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 3 + __</span>",
       "type": "mcq",
+      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 3 + __</span>",
       "options": {
         "choices": [
-          "7",
-          "6"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "3 + 7 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 4 + __</span>",
       "type": "mcq",
+      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 4 + __</span>",
       "options": {
         "choices": [
-          "7",
-          "6"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "4 + 6 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 5 + __</span>",
       "type": "mcq",
+      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 5 + __</span>",
       "options": {
         "choices": [
-          "5",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "5 + 5 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 6 + __</span>",
       "type": "mcq",
+      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 6 + __</span>",
       "options": {
         "choices": [
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "6 + 4 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 7 + __</span>",
       "type": "mcq",
+      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 7 + __</span>",
       "options": {
         "choices": [
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "7 + 3 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 8 + __</span>",
       "type": "mcq",
+      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 8 + __</span>",
       "options": {
         "choices": [
-          "1",
-          "2"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "8 + 2 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 9 + __</span>",
       "type": "mcq",
+      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 9 + __</span>",
       "options": {
         "choices": [
-          "1",
-          "2"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "9 + 1 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 10 + __</span>",
       "type": "mcq",
+      "prompt": "Complete the number bond.<br><span style='color:black;'>10 = 10 + __</span>",
       "options": {
         "choices": [
-          "0",
-          "1"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "0",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "10 + 0 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "How many more do we add to 0 to make 10?",
       "type": "mcq",
+      "prompt": "How many more do we add to 0 to make 10?",
       "options": {
         "choices": [
-          "10",
-          "9"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "0 + 10 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "How many more do we add to 1 to make 10?",
       "type": "mcq",
+      "prompt": "How many more do we add to 1 to make 10?",
       "options": {
         "choices": [
-          "10",
-          "9"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 + 9 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "How many more do we add to 2 to make 10?",
       "type": "mcq",
+      "prompt": "How many more do we add to 2 to make 10?",
       "options": {
         "choices": [
-          "7",
-          "8"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "2 + 8 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "How many more do we add to 3 to make 10?",
       "type": "mcq",
+      "prompt": "How many more do we add to 3 to make 10?",
       "options": {
         "choices": [
-          "8",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "3 + 7 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "How many more do we add to 4 to make 10?",
       "type": "mcq",
+      "prompt": "How many more do we add to 4 to make 10?",
       "options": {
         "choices": [
-          "5",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "4 + 6 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "How many more do we add to 5 to make 10?",
       "type": "mcq",
+      "prompt": "How many more do we add to 5 to make 10?",
       "options": {
         "choices": [
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 5 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "How many more do we add to 6 to make 10?",
       "type": "mcq",
+      "prompt": "How many more do we add to 6 to make 10?",
       "options": {
         "choices": [
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "6 + 4 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "How many more do we add to 7 to make 10?",
       "type": "mcq",
+      "prompt": "How many more do we add to 7 to make 10?",
       "options": {
         "choices": [
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "7 + 3 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "How many more do we add to 8 to make 10?",
       "type": "mcq",
+      "prompt": "How many more do we add to 8 to make 10?",
       "options": {
         "choices": [
-          "2",
-          "1"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "8 + 2 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "How many more do we add to 9 to make 10?",
       "type": "mcq",
+      "prompt": "How many more do we add to 9 to make 10?",
       "options": {
         "choices": [
-          "1",
-          "2"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "9 + 1 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "How many more do we add to 10 to make 10?",
       "type": "mcq",
+      "prompt": "How many more do we add to 10 to make 10?",
       "options": {
         "choices": [
-          "1",
-          "0"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "0"
+          }
         ]
       },
-      "correct_answer": "0",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "10 + 0 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "0 and which number make 10?",
       "type": "mcq",
+      "prompt": "0 and which number make 10?",
       "options": {
         "choices": [
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "0 + 10 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "1 and which number make 10?",
       "type": "mcq",
+      "prompt": "1 and which number make 10?",
       "options": {
         "choices": [
-          "8",
-          "9"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 + 9 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "2 and which number make 10?",
       "type": "mcq",
+      "prompt": "2 and which number make 10?",
       "options": {
         "choices": [
-          "7",
-          "8"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "2 + 8 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "3 and which number make 10?",
       "type": "mcq",
+      "prompt": "3 and which number make 10?",
       "options": {
         "choices": [
-          "8",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "3 + 7 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "4 and which number make 10?",
       "type": "mcq",
+      "prompt": "4 and which number make 10?",
       "options": {
         "choices": [
-          "5",
-          "6"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "4 + 6 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "5 and which number make 10?",
       "type": "mcq",
+      "prompt": "5 and which number make 10?",
       "options": {
         "choices": [
-          "5",
-          "4"
+          {
+            "id": "c1",
+            "text": "5"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "5 + 5 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "6 and which number make 10?",
       "type": "mcq",
+      "prompt": "6 and which number make 10?",
       "options": {
         "choices": [
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "6 + 4 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "7 and which number make 10?",
       "type": "mcq",
+      "prompt": "7 and which number make 10?",
       "options": {
         "choices": [
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "7 + 3 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "8 and which number make 10?",
       "type": "mcq",
+      "prompt": "8 and which number make 10?",
       "options": {
         "choices": [
-          "2",
-          "3"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "8 + 2 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "9 and which number make 10?",
       "type": "mcq",
+      "prompt": "9 and which number make 10?",
       "options": {
         "choices": [
-          "1",
-          "2"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "9 + 1 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "10 and which number make 10?",
       "type": "mcq",
+      "prompt": "10 and which number make 10?",
       "options": {
         "choices": [
-          "0",
-          "1"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "0",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "10 + 0 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Find the missing part of 10.<br><span style='color:black;'>0 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Find the missing part of 10.<br><span style='color:black;'>0 + __ = 10</span>",
       "options": {
         "choices": [
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "0 + 10 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Find the missing part of 10.<br><span style='color:black;'>1 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Find the missing part of 10.<br><span style='color:black;'>1 + __ = 10</span>",
       "options": {
         "choices": [
-          "10",
-          "9"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 + 9 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Find the missing part of 10.<br><span style='color:black;'>2 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Find the missing part of 10.<br><span style='color:black;'>2 + __ = 10</span>",
       "options": {
         "choices": [
-          "7",
-          "8"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "2 + 8 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Find the missing part of 10.<br><span style='color:black;'>3 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Find the missing part of 10.<br><span style='color:black;'>3 + __ = 10</span>",
       "options": {
         "choices": [
-          "8",
-          "7"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "3 + 7 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Find the missing part of 10.<br><span style='color:black;'>4 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Find the missing part of 10.<br><span style='color:black;'>4 + __ = 10</span>",
       "options": {
         "choices": [
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "4 + 6 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Find the missing part of 10.<br><span style='color:black;'>5 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Find the missing part of 10.<br><span style='color:black;'>5 + __ = 10</span>",
       "options": {
         "choices": [
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 5 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Find the missing part of 10.<br><span style='color:black;'>6 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Find the missing part of 10.<br><span style='color:black;'>6 + __ = 10</span>",
       "options": {
         "choices": [
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "6 + 4 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Find the missing part of 10.<br><span style='color:black;'>7 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Find the missing part of 10.<br><span style='color:black;'>7 + __ = 10</span>",
       "options": {
         "choices": [
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "7 + 3 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Find the missing part of 10.<br><span style='color:black;'>8 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Find the missing part of 10.<br><span style='color:black;'>8 + __ = 10</span>",
       "options": {
         "choices": [
-          "3",
-          "2"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "8 + 2 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Find the missing part of 10.<br><span style='color:black;'>9 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Find the missing part of 10.<br><span style='color:black;'>9 + __ = 10</span>",
       "options": {
         "choices": [
-          "0",
-          "1"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "9 + 1 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Find the missing part of 10.<br><span style='color:black;'>10 + __ = 10</span>",
       "type": "mcq",
+      "prompt": "Find the missing part of 10.<br><span style='color:black;'>10 + __ = 10</span>",
       "options": {
         "choices": [
-          "0",
-          "1"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "0",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "10 + 0 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 0 = 10</span>",
       "type": "mcq",
+      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 0 = 10</span>",
       "options": {
         "choices": [
-          "9",
-          "10"
+          {
+            "id": "c1",
+            "text": "9"
+          },
+          {
+            "id": "c2",
+            "text": "10"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "0 + 10 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 1 = 10</span>",
       "type": "mcq",
+      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 1 = 10</span>",
       "options": {
         "choices": [
-          "8",
-          "9"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "9",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "1 + 9 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 2 = 10</span>",
       "type": "mcq",
+      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 2 = 10</span>",
       "options": {
         "choices": [
-          "8",
-          "9"
+          {
+            "id": "c1",
+            "text": "8"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "8",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "2 + 8 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 3 = 10</span>",
       "type": "mcq",
+      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 3 = 10</span>",
       "options": {
         "choices": [
-          "7",
-          "6"
+          {
+            "id": "c1",
+            "text": "7"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "7",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "3 + 7 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 4 = 10</span>",
       "type": "mcq",
+      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 4 = 10</span>",
       "options": {
         "choices": [
-          "6",
-          "5"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "4 + 6 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 5 = 10</span>",
       "type": "mcq",
+      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 5 = 10</span>",
       "options": {
         "choices": [
-          "4",
-          "5"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "5"
+          }
         ]
       },
-      "correct_answer": "5",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "5 + 5 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 6 = 10</span>",
       "type": "mcq",
+      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 6 = 10</span>",
       "options": {
         "choices": [
-          "3",
-          "4"
+          {
+            "id": "c1",
+            "text": "3"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "6 + 4 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 7 = 10</span>",
       "type": "mcq",
+      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 7 = 10</span>",
       "options": {
         "choices": [
-          "4",
-          "3"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "3"
+          }
         ]
       },
-      "correct_answer": "3",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "7 + 3 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 8 = 10</span>",
       "type": "mcq",
+      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 8 = 10</span>",
       "options": {
         "choices": [
-          "2",
-          "1"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "1"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "8 + 2 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 9 = 10</span>",
       "type": "mcq",
+      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 9 = 10</span>",
       "options": {
         "choices": [
-          "1",
-          "2"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "9 + 1 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 10 = 10</span>",
       "type": "mcq",
+      "prompt": "Fill the blank to make 10.<br><span style='color:black;'>__ + 10 = 10</span>",
       "options": {
         "choices": [
-          "1",
-          "0"
+          {
+            "id": "c1",
+            "text": "1"
+          },
+          {
+            "id": "c2",
+            "text": "0"
+          }
         ]
       },
-      "correct_answer": "0",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "10 + 0 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "10 is made of 0 and which number?",
       "type": "mcq",
+      "prompt": "10 is made of 0 and which number?",
       "options": {
         "choices": [
-          "10",
-          "9"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "9"
+          }
         ]
       },
-      "correct_answer": "10",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "0 + 10 = 10.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

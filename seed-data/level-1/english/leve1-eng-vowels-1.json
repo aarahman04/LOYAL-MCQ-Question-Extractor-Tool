@@ -1,1717 +1,3563 @@
 {
   "_source_file": "leve1_eng_vowels_1.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "leve1-eng-vowels-1",
-    "title": "Leve1 Eng Vowels 1",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.526Z",
+  "slug": "leve1-eng-vowels-1",
+  "title": "Leve1 Eng Vowels 1",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": "group",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a bag of bats.<br>\nPam has a bag of caps.<br>\nSam says, \"Pass me a cap.\"<br>\nPam says, \"Pass me a bat.\"<br>\nNow, Sam and Pam can play!\n</div><br>\n<span style=\"color:red;\">What does Sam have?</span>",
       "type": "mcq",
+      "prompt": "What does Sam have?",
       "options": {
         "choices": [
-          "bats",
-          "cats",
-          "caps"
+          {
+            "id": "c1",
+            "text": "bats"
+          },
+          {
+            "id": "c2",
+            "text": "cats"
+          },
+          {
+            "id": "c3",
+            "text": "caps"
+          }
         ]
       },
-      "correct_answer": "bats",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says Sam has a bag of bats.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 1
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/1.jpeg"
+      },
+      "order_index": 1,
+      "passage_id": "p1"
     },
     {
       "slug": "q002",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a bag of bats.<br>\nPam has a bag of caps.<br>\nSam says, \"Pass me a cap.\"<br>\nPam says, \"Pass me a bat.\"<br>\nNow, Sam and Pam can play!\n</div><br>\n<span style=\"color:red;\">What does Pam have?</span>",
       "type": "mcq",
+      "prompt": "What does Pam have?",
       "options": {
         "choices": [
-          "bats",
-          "and",
-          "caps"
+          {
+            "id": "c1",
+            "text": "bats"
+          },
+          {
+            "id": "c2",
+            "text": "and"
+          },
+          {
+            "id": "c3",
+            "text": "caps"
+          }
         ]
       },
-      "correct_answer": "caps",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says Pam has a bag of caps.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 2
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/1.jpeg"
+      },
+      "order_index": 2,
+      "passage_id": "p1"
     },
     {
       "slug": "q003",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a bag of bats.<br>\nPam has a bag of caps.<br>\nSam says, \"Pass me a cap.\"<br>\nPam says, \"Pass me a bat.\"<br>\nNow, Sam and Pam can play!\n</div><br>\n<span style=\"color:red;\">What does Sam say?</span>",
       "type": "mcq",
+      "prompt": "What does Sam say?",
       "options": {
         "choices": [
-          "pass me a cap",
-          "pass me some money",
-          "pass me a cake"
+          {
+            "id": "c1",
+            "text": "pass me a cap"
+          },
+          {
+            "id": "c2",
+            "text": "pass me some money"
+          },
+          {
+            "id": "c3",
+            "text": "pass me a cake"
+          }
         ]
       },
-      "correct_answer": "pass me a cap",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sam says 'Pass me a cap' because Pam has the caps.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 3
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/1.jpeg"
+      },
+      "order_index": 3,
+      "passage_id": "p1"
     },
     {
       "slug": "q004",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a bag of bats.<br>\nPam has a bag of caps.<br>\nSam says, \"Pass me a cap.\"<br>\nPam says, \"Pass me a bat.\"<br>\nNow, Sam and Pam can play!\n</div><br>\n<span style=\"color:red;\">What does Pam say?</span>",
       "type": "mcq",
+      "prompt": "What does Pam say?",
       "options": {
         "choices": [
-          "pass me a cap",
-          "pass me a bat",
-          "pass me a cake"
+          {
+            "id": "c1",
+            "text": "pass me a cap"
+          },
+          {
+            "id": "c2",
+            "text": "pass me a bat"
+          },
+          {
+            "id": "c3",
+            "text": "pass me a cake"
+          }
         ]
       },
-      "correct_answer": "pass me a bat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Pam says 'Pass me a bat' because Sam has the bats.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 4
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/1.jpeg"
+      },
+      "order_index": 4,
+      "passage_id": "p1"
     },
     {
       "slug": "q005",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a bag of bats.<br>\nPam has a bag of caps.<br>\nSam says, \"Pass me a cap.\"<br>\nPam says, \"Pass me a bat.\"<br>\nNow, Sam and Pam can play!\n</div><br>\n<span style=\"color:red;\">What can Sam and Pam now do?</span>",
       "type": "mcq",
+      "prompt": "What can Sam and Pam now do?",
       "options": {
         "choices": [
-          "now Sam and Pam can play!",
-          "now Sandy and Pam can play!",
-          "now Hany and Pam can play!"
+          {
+            "id": "c1",
+            "text": "now Sam and Pam can play!"
+          },
+          {
+            "id": "c2",
+            "text": "now Sandy and Pam can play!"
+          },
+          {
+            "id": "c3",
+            "text": "now Hany and Pam can play!"
+          }
         ]
       },
-      "correct_answer": "now Sam and Pam can play!",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After sharing, the story ends with Sam and Pam being able to play.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 5
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/1.jpeg"
+      },
+      "order_index": 5,
+      "passage_id": "p1"
     },
     {
       "slug": "q006",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam is a sad rat.<br>\nPam is a bat.<br>\nSam sees Pam the bat.<br>\nSam and Pam chat.<br>\nSam and Pam are pals.<br>\nNow, Sam is not a sad rat.\n</div><br>\n<span style=\"color:red;\">Is Sam happy or sad?</span>",
       "type": "mcq",
+      "prompt": "Is Sam happy or sad?",
       "options": {
         "choices": [
-          "Sam is happy",
-          "Sam is sad",
-          "Sam is jumping"
+          {
+            "id": "c1",
+            "text": "Sam is happy"
+          },
+          {
+            "id": "c2",
+            "text": "Sam is sad"
+          },
+          {
+            "id": "c3",
+            "text": "Sam is jumping"
+          }
         ]
       },
-      "correct_answer": "Sam is sad",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "At the start of the story, Sam is described as a sad rat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 6
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/2.jpeg"
+      },
+      "order_index": 6,
+      "passage_id": "p2"
     },
     {
       "slug": "q007",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam is a sad rat.<br>\nPam is a bat.<br>\nSam sees Pam the bat.<br>\nSam and Pam chat.<br>\nSam and Pam are pals.<br>\nNow, Sam is not a sad rat.\n</div><br>\n<span style=\"color:red;\">What is Pam?</span>",
       "type": "mcq",
+      "prompt": "What is Pam?",
       "options": {
         "choices": [
-          "Pam is a cat",
-          "Pam is a bat",
-          "Pam is a dad"
+          {
+            "id": "c1",
+            "text": "Pam is a cat"
+          },
+          {
+            "id": "c2",
+            "text": "Pam is a bat"
+          },
+          {
+            "id": "c3",
+            "text": "Pam is a dad"
+          }
         ]
       },
-      "correct_answer": "Pam is a bat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story clearly says Pam is a bat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 7
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/2.jpeg"
+      },
+      "order_index": 7,
+      "passage_id": "p2"
     },
     {
       "slug": "q008",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam is a sad rat.<br>\nPam is a bat.<br>\nSam sees Pam the bat.<br>\nSam and Pam chat.<br>\nSam and Pam are pals.<br>\nNow, Sam is not a sad rat.\n</div><br>\n<span style=\"color:red;\">What is Sam?</span>",
       "type": "mcq",
+      "prompt": "What is Sam?",
       "options": {
         "choices": [
-          "Sam is a cat",
-          "Sam is a bat",
-          "Sam is a rat"
+          {
+            "id": "c1",
+            "text": "Sam is a cat"
+          },
+          {
+            "id": "c2",
+            "text": "Sam is a bat"
+          },
+          {
+            "id": "c3",
+            "text": "Sam is a rat"
+          }
         ]
       },
-      "correct_answer": "Sam is a rat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says Sam is a sad rat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 8
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/2.jpeg"
+      },
+      "order_index": 8,
+      "passage_id": "p2"
     },
     {
       "slug": "q009",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam is a sad rat.<br>\nPam is a bat.<br>\nSam sees Pam the bat.<br>\nSam and Pam chat.<br>\nSam and Pam are pals.<br>\nNow, Sam is not a sad rat.\n</div><br>\n<span style=\"color:red;\">What do Sam and Pam do?</span>",
       "type": "mcq",
+      "prompt": "What do Sam and Pam do?",
       "options": {
         "choices": [
-          "Sam and Pam cry.",
-          "Sam and Pam laugh.",
-          "Sam and Pam chat."
+          {
+            "id": "c1",
+            "text": "Sam and Pam cry."
+          },
+          {
+            "id": "c2",
+            "text": "Sam and Pam laugh."
+          },
+          {
+            "id": "c3",
+            "text": "Sam and Pam chat."
+          }
         ]
       },
-      "correct_answer": "Sam and Pam chat.",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says Sam and Pam chat and become pals.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 9
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/2.jpeg"
+      },
+      "order_index": 9,
+      "passage_id": "p2"
     },
     {
       "slug": "q010",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam is a sad rat.<br>\nPam is a bat.<br>\nSam sees Pam the bat.<br>\nSam and Pam chat.<br>\nSam and Pam are pals.<br>\nNow, Sam is not a sad rat.\n</div><br>\n<span style=\"color:red;\">What do Sam and Pam do? (Question 10)</span>",
       "type": "mcq",
+      "prompt": "What do Sam and Pam do? (Question 10)",
       "options": {
         "choices": [
-          "Sam and Pam cry.",
-          "Sam and Pam laugh.",
-          "Sam and Pam chat."
+          {
+            "id": "c1",
+            "text": "Sam and Pam cry."
+          },
+          {
+            "id": "c2",
+            "text": "Sam and Pam laugh."
+          },
+          {
+            "id": "c3",
+            "text": "Sam and Pam chat."
+          }
         ]
       },
-      "correct_answer": "Sam and Pam chat.",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Sam and Pam chat together and become pals.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 10
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/2.jpeg"
+      },
+      "order_index": 10,
+      "passage_id": "p2"
     },
     {
       "slug": "q011",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nA man has a cat.<br>\nA cat has a hat.<br>\nA man and a cat nap.<br>\nA man and a cat play.<br>\nA man and a cat are pals.<br>\nAt last, a man a glad man.\n</div><br>\n<span style=\"color:red;\">What does a man have?</span>",
       "type": "mcq",
+      "prompt": "What does a man have?",
       "options": {
         "choices": [
-          "a bat",
-          "a cat",
-          "a hat"
+          {
+            "id": "c1",
+            "text": "a bat"
+          },
+          {
+            "id": "c2",
+            "text": "a cat"
+          },
+          {
+            "id": "c3",
+            "text": "a hat"
+          }
         ]
       },
-      "correct_answer": "a cat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The first line says a man has a cat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 11
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/3.jpeg"
+      },
+      "order_index": 11,
+      "passage_id": "p3"
     },
     {
       "slug": "q012",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nA man has a cat.<br>\nA cat has a hat.<br>\nA man and a cat nap.<br>\nA man and a cat play.<br>\nA man and a cat are pals.<br>\nAt last, a man a glad man.\n</div><br>\n<span style=\"color:red;\">What does a cat have?</span>",
       "type": "mcq",
+      "prompt": "What does a cat have?",
       "options": {
         "choices": [
-          "a hat",
-          "a mat",
-          "a bag"
+          {
+            "id": "c1",
+            "text": "a hat"
+          },
+          {
+            "id": "c2",
+            "text": "a mat"
+          },
+          {
+            "id": "c3",
+            "text": "a bag"
+          }
         ]
       },
-      "correct_answer": "a hat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says the cat has a hat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 12
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/3.jpeg"
+      },
+      "order_index": 12,
+      "passage_id": "p3"
     },
     {
       "slug": "q013",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nA man has a cat.<br>\nA cat has a hat.<br>\nA man and a cat nap.<br>\nA man and a cat play.<br>\nA man and a cat are pals.<br>\nAt last, a man a glad man.\n</div><br>\n<span style=\"color:red;\">What can a man and a cat do?</span>",
       "type": "mcq",
+      "prompt": "What can a man and a cat do?",
       "options": {
         "choices": [
-          "ran",
-          "nap",
-          "swim"
+          {
+            "id": "c1",
+            "text": "ran"
+          },
+          {
+            "id": "c2",
+            "text": "nap"
+          },
+          {
+            "id": "c3",
+            "text": "swim"
+          }
         ]
       },
-      "correct_answer": "nap",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says a man and a cat nap together.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 13
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/3.jpeg"
+      },
+      "order_index": 13,
+      "passage_id": "p3"
     },
     {
       "slug": "q014",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nA man has a cat.<br>\nA cat has a hat.<br>\nA man and a cat nap.<br>\nA man and a cat play.<br>\nA man and a cat are pals.<br>\nAt last, a man a glad man.\n</div><br>\n<span style=\"color:red;\">What did the man and a cat do?</span>",
       "type": "mcq",
+      "prompt": "What did the man and a cat do?",
       "options": {
         "choices": [
-          "right",
-          "read",
-          "play"
+          {
+            "id": "c1",
+            "text": "right"
+          },
+          {
+            "id": "c2",
+            "text": "read"
+          },
+          {
+            "id": "c3",
+            "text": "play"
+          }
         ]
       },
-      "correct_answer": "play",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says a man and a cat play together.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 14
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/3.jpeg"
+      },
+      "order_index": 14,
+      "passage_id": "p3"
     },
     {
       "slug": "q015",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nA man has a cat.<br>\nA cat has a hat.<br>\nA man and a cat nap.<br>\nA man and a cat play.<br>\nA man and a cat are pals.<br>\nAt last, a man a glad man.\n</div><br>\n<span style=\"color:red;\">How is the man at last?</span>",
       "type": "mcq",
+      "prompt": "How is the man at last?",
       "options": {
         "choices": [
-          "sad",
-          "mad",
-          "glad"
+          {
+            "id": "c1",
+            "text": "sad"
+          },
+          {
+            "id": "c2",
+            "text": "mad"
+          },
+          {
+            "id": "c3",
+            "text": "glad"
+          }
         ]
       },
-      "correct_answer": "glad",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "At the end, the story says the man is a glad man.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 15
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/3.jpeg"
+      },
+      "order_index": 15,
+      "passage_id": "p3"
     },
     {
       "slug": "q016",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nA lad has a bag.<br>\nA bag has a tag.<br>\nA lad can tap a pan.<br>\nA cat can nap.<br>\nA lad and a cat clap.<br>\nAt last, a lad has a pal.\n</div><br>\n<span style=\"color:red;\">What does a lad have?</span>",
       "type": "mcq",
+      "prompt": "What does a lad have?",
       "options": {
         "choices": [
-          "a bag",
-          "a cat",
-          "a pan"
+          {
+            "id": "c1",
+            "text": "a bag"
+          },
+          {
+            "id": "c2",
+            "text": "a cat"
+          },
+          {
+            "id": "c3",
+            "text": "a pan"
+          }
         ]
       },
-      "correct_answer": "a bag",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story begins by saying a lad has a bag.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 16
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/4.jpeg"
+      },
+      "order_index": 16,
+      "passage_id": "p4"
     },
     {
       "slug": "q017",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nA lad has a bag.<br>\nA bag has a tag.<br>\nA lad can tap a pan.<br>\nA cat can nap.<br>\nA lad and a cat clap.<br>\nAt last, a lad has a pal.\n</div><br>\n<span style=\"color:red;\">What does a bag have?</span>",
       "type": "mcq",
+      "prompt": "What does a bag have?",
       "options": {
         "choices": [
-          "a car",
-          "a tag",
-          "a mat"
+          {
+            "id": "c1",
+            "text": "a car"
+          },
+          {
+            "id": "c2",
+            "text": "a tag"
+          },
+          {
+            "id": "c3",
+            "text": "a mat"
+          }
         ]
       },
-      "correct_answer": "a tag",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says the bag has a tag.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 17
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/4.jpeg"
+      },
+      "order_index": 17,
+      "passage_id": "p4"
     },
     {
       "slug": "q018",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nA lad has a bag.<br>\nA bag has a tag.<br>\nA lad can tap a pan.<br>\nA cat can nap.<br>\nA lad and a cat clap.<br>\nAt last, a lad has a pal.\n</div><br>\n<span style=\"color:red;\">What can a lad tap?</span>",
       "type": "mcq",
+      "prompt": "What can a lad tap?",
       "options": {
         "choices": [
-          "a pan",
-          "a bag",
-          "a cat"
+          {
+            "id": "c1",
+            "text": "a pan"
+          },
+          {
+            "id": "c2",
+            "text": "a bag"
+          },
+          {
+            "id": "c3",
+            "text": "a cat"
+          }
         ]
       },
-      "correct_answer": "a pan",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says the lad can tap a pan.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 18
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/4.jpeg"
+      },
+      "order_index": 18,
+      "passage_id": "p4"
     },
     {
       "slug": "q019",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nA lad has a bag.<br>\nA bag has a tag.<br>\nA lad can tap a pan.<br>\nA cat can nap.<br>\nA lad and a cat clap.<br>\nAt last, a lad has a pal.\n</div><br>\n<span style=\"color:red;\">What does the cat do?</span>",
       "type": "mcq",
+      "prompt": "What does the cat do?",
       "options": {
         "choices": [
-          "hop",
-          "clap",
-          "nap"
+          {
+            "id": "c1",
+            "text": "hop"
+          },
+          {
+            "id": "c2",
+            "text": "clap"
+          },
+          {
+            "id": "c3",
+            "text": "nap"
+          }
         ]
       },
-      "correct_answer": "nap",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says the cat can nap.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 19
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/4.jpeg"
+      },
+      "order_index": 19,
+      "passage_id": "p4"
     },
     {
       "slug": "q020",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nA lad has a bag.<br>\nA bag has a tag.<br>\nA lad can tap a pan.<br>\nA cat can nap.<br>\nA lad and a cat clap.<br>\nAt last, a lad has a pal.\n</div><br>\n<span style=\"color:red;\">What do a lad and cat do?</span>",
       "type": "mcq",
+      "prompt": "What do a lad and cat do?",
       "options": {
         "choices": [
-          "swim",
-          "clap",
-          "tap"
+          {
+            "id": "c1",
+            "text": "swim"
+          },
+          {
+            "id": "c2",
+            "text": "clap"
+          },
+          {
+            "id": "c3",
+            "text": "tap"
+          }
         ]
       },
-      "correct_answer": "clap",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says the lad and cat clap together.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 20
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/4.jpeg"
+      },
+      "order_index": 20,
+      "passage_id": "p4"
     },
     {
       "slug": "q021",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nLad has a cat and an ant.<br>\nCat has a bat.<br>\nAnt has a mat.<br>\nCat naps on the mat.<br>\nAnt ran on the bat.<br>\nCat chats with ant.<br>\nAnt chats with cat.<br>\nCat and ant chat all day.<br>\nIt is a happy day.\n</div><br>\n<span style=\"color:red;\">What does lad have?</span>",
       "type": "mcq",
+      "prompt": "What does lad have?",
       "options": {
         "choices": [
-          "a cat & ant",
-          "a bag",
-          "an ant"
+          {
+            "id": "c1",
+            "text": "a cat & ant"
+          },
+          {
+            "id": "c2",
+            "text": "a bag"
+          },
+          {
+            "id": "c3",
+            "text": "an ant"
+          }
         ]
       },
-      "correct_answer": "a cat & ant",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says lad has both a cat and an ant.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 21
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/5.jpeg"
+      },
+      "order_index": 21,
+      "passage_id": "p5"
     },
     {
       "slug": "q022",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nLad has a cat and an ant.<br>\nCat has a bat.<br>\nAnt has a mat.<br>\nCat naps on the mat.<br>\nAnt ran on the bat.<br>\nCat chats with ant.<br>\nAnt chats with cat.<br>\nCat and ant chat all day.<br>\nIt is a happy day.\n</div><br>\n<span style=\"color:red;\">What does cat have?</span>",
       "type": "mcq",
+      "prompt": "What does cat have?",
       "options": {
         "choices": [
-          "a dog",
-          "a bat",
-          "a car"
+          {
+            "id": "c1",
+            "text": "a dog"
+          },
+          {
+            "id": "c2",
+            "text": "a bat"
+          },
+          {
+            "id": "c3",
+            "text": "a car"
+          }
         ]
       },
-      "correct_answer": "a bat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says cat has a bat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 22
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/5.jpeg"
+      },
+      "order_index": 22,
+      "passage_id": "p5"
     },
     {
       "slug": "q023",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nLad has a cat and an ant.<br>\nCat has a bat.<br>\nAnt has a mat.<br>\nCat naps on the mat.<br>\nAnt ran on the bat.<br>\nCat chats with ant.<br>\nAnt chats with cat.<br>\nCat and ant chat all day.<br>\nIt is a happy day.\n</div><br>\n<span style=\"color:red;\">What does ant have?</span>",
       "type": "mcq",
+      "prompt": "What does ant have?",
       "options": {
         "choices": [
-          "ant has a bag",
-          "ant has a dog",
-          "ant has a mat"
+          {
+            "id": "c1",
+            "text": "ant has a bag"
+          },
+          {
+            "id": "c2",
+            "text": "ant has a dog"
+          },
+          {
+            "id": "c3",
+            "text": "ant has a mat"
+          }
         ]
       },
-      "correct_answer": "ant has a mat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says ant has a mat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 23
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/5.jpeg"
+      },
+      "order_index": 23,
+      "passage_id": "p5"
     },
     {
       "slug": "q024",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nLad has a cat and an ant.<br>\nCat has a bat.<br>\nAnt has a mat.<br>\nCat naps on the mat.<br>\nAnt ran on the bat.<br>\nCat chats with ant.<br>\nAnt chats with cat.<br>\nCat and ant chat all day.<br>\nIt is a happy day.\n</div><br>\n<span style=\"color:red;\">Where does cat nap?</span>",
       "type": "mcq",
+      "prompt": "Where does cat nap?",
       "options": {
         "choices": [
-          "cat naps on me",
-          "cat naps on the mat",
-          "cat naps on the couch"
+          {
+            "id": "c1",
+            "text": "cat naps on me"
+          },
+          {
+            "id": "c2",
+            "text": "cat naps on the mat"
+          },
+          {
+            "id": "c3",
+            "text": "cat naps on the couch"
+          }
         ]
       },
-      "correct_answer": "cat naps on the mat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says cat naps on the mat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 24
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/5.jpeg"
+      },
+      "order_index": 24,
+      "passage_id": "p5"
     },
     {
       "slug": "q025",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nLad has a cat and an ant.<br>\nCat has a bat.<br>\nAnt has a mat.<br>\nCat naps on the mat.<br>\nAnt ran on the bat.<br>\nCat chats with ant.<br>\nAnt chats with cat.<br>\nCat and ant chat all day.<br>\nIt is a happy day.\n</div><br>\n<span style=\"color:red;\">Where did ant ran?</span>",
       "type": "mcq",
+      "prompt": "Where did ant ran?",
       "options": {
         "choices": [
-          "ant ran on us",
-          "ant ran up",
-          "ant ran on the bat"
+          {
+            "id": "c1",
+            "text": "ant ran on us"
+          },
+          {
+            "id": "c2",
+            "text": "ant ran up"
+          },
+          {
+            "id": "c3",
+            "text": "ant ran on the bat"
+          }
         ]
       },
-      "correct_answer": "ant ran on the bat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says ant ran on the bat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 25
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/5.jpeg"
+      },
+      "order_index": 25,
+      "passage_id": "p5"
     },
     {
       "slug": "q026",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nLad has a cat and an ant.<br>\nCat has a bat.<br>\nAnt has a mat.<br>\nCat naps on the mat.<br>\nAnt ran on the bat.<br>\nCat chats with ant.<br>\nAnt chats with cat.<br>\nCat and ant chat all day.<br>\nIt is a happy day.\n</div><br>\n<span style=\"color:red;\">Who does cat chat with?</span>",
       "type": "mcq",
+      "prompt": "Who does cat chat with?",
       "options": {
         "choices": [
-          "cat chats with Sandy",
-          "cat chats with us",
-          "cat chats with ant"
+          {
+            "id": "c1",
+            "text": "cat chats with Sandy"
+          },
+          {
+            "id": "c2",
+            "text": "cat chats with us"
+          },
+          {
+            "id": "c3",
+            "text": "cat chats with ant"
+          }
         ]
       },
-      "correct_answer": "cat chats with ant",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says cat chats with ant.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 26
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/5.jpeg"
+      },
+      "order_index": 26,
+      "passage_id": "p5"
     },
     {
       "slug": "q027",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nLad has a cat and an ant.<br>\nCat has a bat.<br>\nAnt has a mat.<br>\nCat naps on the mat.<br>\nAnt ran on the bat.<br>\nCat chats with ant.<br>\nAnt chats with cat.<br>\nCat and ant chat all day.<br>\nIt is a happy day.\n</div><br>\n<span style=\"color:red;\">Who does ant chat with?</span>",
       "type": "mcq",
+      "prompt": "Who does ant chat with?",
       "options": {
         "choices": [
-          "ant chats with cat",
-          "cat chats with mother",
-          "ant chats with cat"
+          {
+            "id": "c1",
+            "text": "ant chats with cat"
+          },
+          {
+            "id": "c2",
+            "text": "cat chats with mother"
+          },
+          {
+            "id": "c3",
+            "text": "ant chats with cat"
+          }
         ]
       },
-      "correct_answer": "ant chats with cat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says ant chats with cat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 27
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/5.jpeg"
+      },
+      "order_index": 27,
+      "passage_id": "p5"
     },
     {
       "slug": "q028",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nLad has a cat and an ant.<br>\nCat has a bat.<br>\nAnt has a mat.<br>\nCat naps on the mat.<br>\nAnt ran on the bat.<br>\nCat chats with ant.<br>\nAnt chats with cat.<br>\nCat and ant chat all day.<br>\nIt is a happy day.\n</div><br>\n<span style=\"color:red;\">What does cat and ant do?</span>",
       "type": "mcq",
+      "prompt": "What does cat and ant do?",
       "options": {
         "choices": [
-          "cat and ant chat all night",
-          "cat and ant sleep all day",
-          "cat and ant chat all day"
+          {
+            "id": "c1",
+            "text": "cat and ant chat all night"
+          },
+          {
+            "id": "c2",
+            "text": "cat and ant sleep all day"
+          },
+          {
+            "id": "c3",
+            "text": "cat and ant chat all day"
+          }
         ]
       },
-      "correct_answer": "cat and ant chat all day",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says cat and ant chat all day.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 28
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/5.jpeg"
+      },
+      "order_index": 28,
+      "passage_id": "p5"
     },
     {
       "slug": "q029",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nLad has a cat and an ant.<br>\nCat has a bat.<br>\nAnt has a mat.<br>\nCat naps on the mat.<br>\nAnt ran on the bat.<br>\nCat chats with ant.<br>\nAnt chats with cat.<br>\nCat and ant chat all day.<br>\nIt is a happy day.\n</div><br>\n<span style=\"color:red;\">Who is crying?</span>",
       "type": "mcq",
+      "prompt": "Who is crying?",
       "options": {
         "choices": [
-          "cat is crying",
-          "ant is crying",
-          "no one is crying"
+          {
+            "id": "c1",
+            "text": "cat is crying"
+          },
+          {
+            "id": "c2",
+            "text": "ant is crying"
+          },
+          {
+            "id": "c3",
+            "text": "no one is crying"
+          }
         ]
       },
-      "correct_answer": "no one is crying",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "It is a happy day — nobody is crying in this story.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 29
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/5.jpeg"
+      },
+      "order_index": 29,
+      "passage_id": "p5"
     },
     {
       "slug": "q030",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nLad has a cat and an ant.<br>\nCat has a bat.<br>\nAnt has a mat.<br>\nCat naps on the mat.<br>\nAnt ran on the bat.<br>\nCat chats with ant.<br>\nAnt chats with cat.<br>\nCat and ant chat all day.<br>\nIt is a happy day.\n</div><br>\n<span style=\"color:red;\">How many boys are there in the short story?</span>",
       "type": "mcq",
+      "prompt": "How many boys are there in the short story?",
       "options": {
         "choices": [
-          "one boy",
-          "two boys",
-          "three boys"
+          {
+            "id": "c1",
+            "text": "one boy"
+          },
+          {
+            "id": "c2",
+            "text": "two boys"
+          },
+          {
+            "id": "c3",
+            "text": "three boys"
+          }
         ]
       },
-      "correct_answer": "one boy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Only Lad (one boy) is mentioned in the story.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 30
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/5.jpeg"
+      },
+      "order_index": 30,
+      "passage_id": "p5"
     },
     {
       "slug": "q031",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSama has a can of jam.<br>\nSam has a can of ham.<br>\nSama and Sam can have jam and ham.<br>\nSama has a bat.<br>\nSam has a mat.<br>\nSama and Sam have a fan.<br>\nSama and Sam sat on the mat with the fan.\n</div><br>\n<span style=\"color:red;\">What does Sama have?</span>",
       "type": "mcq",
+      "prompt": "What does Sama have?",
       "options": {
         "choices": [
-          "a fan",
-          "a can of jam",
-          "a mat"
+          {
+            "id": "c1",
+            "text": "a fan"
+          },
+          {
+            "id": "c2",
+            "text": "a can of jam"
+          },
+          {
+            "id": "c3",
+            "text": "a mat"
+          }
         ]
       },
-      "correct_answer": "a can of jam",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says Sama has a can of jam.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 31
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/6.jpeg"
+      },
+      "order_index": 31,
+      "passage_id": "p6"
     },
     {
       "slug": "q032",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSama has a can of jam.<br>\nSam has a can of ham.<br>\nSama and Sam can have jam and ham.<br>\nSama has a bat.<br>\nSam has a mat.<br>\nSama and Sam have a fan.<br>\nSama and Sam sat on the mat with the fan.\n</div><br>\n<span style=\"color:red;\">What does Sam have?</span>",
       "type": "mcq",
+      "prompt": "What does Sam have?",
       "options": {
         "choices": [
-          "a can of ham",
-          "a bat",
-          "a mat"
+          {
+            "id": "c1",
+            "text": "a can of ham"
+          },
+          {
+            "id": "c2",
+            "text": "a bat"
+          },
+          {
+            "id": "c3",
+            "text": "a mat"
+          }
         ]
       },
-      "correct_answer": "a can of ham",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says Sam has a can of ham.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 32
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/6.jpeg"
+      },
+      "order_index": 32,
+      "passage_id": "p6"
     },
     {
       "slug": "q033",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSama has a can of jam.<br>\nSam has a can of ham.<br>\nSama and Sam can have jam and ham.<br>\nSama has a bat.<br>\nSam has a mat.<br>\nSama and Sam have a fan.<br>\nSama and Sam sat on the mat with the fan.\n</div><br>\n<span style=\"color:red;\">What can Sama and Sam have together?</span>",
       "type": "mcq",
+      "prompt": "What can Sama and Sam have together?",
       "options": {
         "choices": [
-          "fan and mat",
-          "jam and ham",
-          "bat and mat"
+          {
+            "id": "c1",
+            "text": "fan and mat"
+          },
+          {
+            "id": "c2",
+            "text": "jam and ham"
+          },
+          {
+            "id": "c3",
+            "text": "bat and mat"
+          }
         ]
       },
-      "correct_answer": "jam and ham",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Together they can have both jam and ham.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 33
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/6.jpeg"
+      },
+      "order_index": 33,
+      "passage_id": "p6"
     },
     {
       "slug": "q034",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSama has a can of jam.<br>\nSam has a can of ham.<br>\nSama and Sam can have jam and ham.<br>\nSama has a bat.<br>\nSam has a mat.<br>\nSama and Sam have a fan.<br>\nSama and Sam sat on the mat with the fan.\n</div><br>\n<span style=\"color:red;\">Who has a bat?</span>",
       "type": "mcq",
+      "prompt": "Who has a bat?",
       "options": {
         "choices": [
-          "both",
-          "sam",
-          "sama"
+          {
+            "id": "c1",
+            "text": "both"
+          },
+          {
+            "id": "c2",
+            "text": "sam"
+          },
+          {
+            "id": "c3",
+            "text": "sama"
+          }
         ]
       },
-      "correct_answer": "sama",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says Sama has a bat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 34
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/6.jpeg"
+      },
+      "order_index": 34,
+      "passage_id": "p6"
     },
     {
       "slug": "q035",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSama has a can of jam.<br>\nSam has a can of ham.<br>\nSama and Sam can have jam and ham.<br>\nSama has a bat.<br>\nSam has a mat.<br>\nSama and Sam have a fan.<br>\nSama and Sam sat on the mat with the fan.\n</div><br>\n<span style=\"color:red;\">Who has a mat?</span>",
       "type": "mcq",
+      "prompt": "Who has a mat?",
       "options": {
         "choices": [
-          "sama",
-          "sam",
-          "both"
+          {
+            "id": "c1",
+            "text": "sama"
+          },
+          {
+            "id": "c2",
+            "text": "sam"
+          },
+          {
+            "id": "c3",
+            "text": "both"
+          }
         ]
       },
-      "correct_answer": "sam",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says Sam has a mat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 35
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/6.jpeg"
+      },
+      "order_index": 35,
+      "passage_id": "p6"
     },
     {
       "slug": "q036",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSama has a can of jam.<br>\nSam has a can of ham.<br>\nSama and Sam can have jam and ham.<br>\nSama has a bat.<br>\nSam has a mat.<br>\nSama and Sam have a fan.<br>\nSama and Sam sat on the mat with the fan.\n</div><br>\n<span style=\"color:red;\">Where did Sama and Sam sit?</span>",
       "type": "mcq",
+      "prompt": "Where did Sama and Sam sit?",
       "options": {
         "choices": [
-          "on a chair",
-          "on the mat",
-          "on a bed"
+          {
+            "id": "c1",
+            "text": "on a chair"
+          },
+          {
+            "id": "c2",
+            "text": "on the mat"
+          },
+          {
+            "id": "c3",
+            "text": "on a bed"
+          }
         ]
       },
-      "correct_answer": "on the mat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says they sat on the mat with the fan.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 36
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/6.jpeg"
+      },
+      "order_index": 36,
+      "passage_id": "p6"
     },
     {
       "slug": "q037",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSama has a can of jam.<br>\nSam has a can of ham.<br>\nSama and Sam can have jam and ham.<br>\nSama has a bat.<br>\nSam has a mat.<br>\nSama and Sam have a fan.<br>\nSama and Sam sat on the mat with the fan.\n</div><br>\n<span style=\"color:red;\">What is in Sama's can?</span>",
       "type": "mcq",
+      "prompt": "What is in Sama's can?",
       "options": {
         "choices": [
-          "water",
-          "ham",
-          "jam"
+          {
+            "id": "c1",
+            "text": "water"
+          },
+          {
+            "id": "c2",
+            "text": "ham"
+          },
+          {
+            "id": "c3",
+            "text": "jam"
+          }
         ]
       },
-      "correct_answer": "jam",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Sama's can has jam in it.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 37
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/6.jpeg"
+      },
+      "order_index": 37,
+      "passage_id": "p6"
     },
     {
       "slug": "q038",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSama has a can of jam.<br>\nSam has a can of ham.<br>\nSama and Sam can have jam and ham.<br>\nSama has a bat.<br>\nSam has a mat.<br>\nSama and Sam have a fan.<br>\nSama and Sam sat on the mat with the fan.\n</div><br>\n<span style=\"color:red;\">What is in Sam's can?</span>",
       "type": "mcq",
+      "prompt": "What is in Sam's can?",
       "options": {
         "choices": [
-          "jam",
-          "ham",
-          "juice"
+          {
+            "id": "c1",
+            "text": "jam"
+          },
+          {
+            "id": "c2",
+            "text": "ham"
+          },
+          {
+            "id": "c3",
+            "text": "juice"
+          }
         ]
       },
-      "correct_answer": "ham",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sam's can has ham in it.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 38
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/6.jpeg"
+      },
+      "order_index": 38,
+      "passage_id": "p6"
     },
     {
       "slug": "q039",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSama has a can of jam.<br>\nSam has a can of ham.<br>\nSama and Sam can have jam and ham.<br>\nSama has a bat.<br>\nSam has a mat.<br>\nSama and Sam have a fan.<br>\nSama and Sam sat on the mat with the fan.\n</div><br>\n<span style=\"color:red;\">What did Sama sit on?</span>",
       "type": "mcq",
+      "prompt": "What did Sama sit on?",
       "options": {
         "choices": [
-          "chair",
-          "mat",
-          "table"
+          {
+            "id": "c1",
+            "text": "chair"
+          },
+          {
+            "id": "c2",
+            "text": "mat"
+          },
+          {
+            "id": "c3",
+            "text": "table"
+          }
         ]
       },
-      "correct_answer": "mat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sama and Sam both sat on the mat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 39
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/6.jpeg"
+      },
+      "order_index": 39,
+      "passage_id": "p6"
     },
     {
       "slug": "q040",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSama has a can of jam.<br>\nSam has a can of ham.<br>\nSama and Sam can have jam and ham.<br>\nSama has a bat.<br>\nSam has a mat.<br>\nSama and Sam have a fan.<br>\nSama and Sam sat on the mat with the fan.\n</div><br>\n<span style=\"color:red;\">What did Sam sit on?</span>",
       "type": "mcq",
+      "prompt": "What did Sam sit on?",
       "options": {
         "choices": [
-          "bat",
-          "fan",
-          "mat"
+          {
+            "id": "c1",
+            "text": "bat"
+          },
+          {
+            "id": "c2",
+            "text": "fan"
+          },
+          {
+            "id": "c3",
+            "text": "mat"
+          }
         ]
       },
-      "correct_answer": "mat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Both Sama and Sam sat on the mat with the fan.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 40
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/6.jpeg"
+      },
+      "order_index": 40,
+      "passage_id": "p6"
     },
     {
       "slug": "q041",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">Who has a van?</span>",
       "type": "mcq",
+      "prompt": "Who has a van?",
       "options": {
         "choices": [
-          "dan",
-          "cat",
-          "cab"
+          {
+            "id": "c1",
+            "text": "dan"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "cab"
+          }
         ]
       },
-      "correct_answer": "dan",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story starts by saying Dan has a van.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 41
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 41,
+      "passage_id": "p7"
     },
     {
       "slug": "q042",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">Who has a cat?</span>",
       "type": "mcq",
+      "prompt": "Who has a cat?",
       "options": {
         "choices": [
-          "van",
-          "dan",
-          "cab"
+          {
+            "id": "c1",
+            "text": "van"
+          },
+          {
+            "id": "c2",
+            "text": "dan"
+          },
+          {
+            "id": "c3",
+            "text": "cab"
+          }
         ]
       },
-      "correct_answer": "dan",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says Dan has a cat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 42
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 42,
+      "passage_id": "p7"
     },
     {
       "slug": "q043",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">Where is Dan?</span>",
       "type": "mcq",
+      "prompt": "Where is Dan?",
       "options": {
         "choices": [
-          "in the cab",
-          "in the van",
-          "at home"
+          {
+            "id": "c1",
+            "text": "in the cab"
+          },
+          {
+            "id": "c2",
+            "text": "in the van"
+          },
+          {
+            "id": "c3",
+            "text": "at home"
+          }
         ]
       },
-      "correct_answer": "in the van",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says Dan is in the van with the cat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 43
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 43,
+      "passage_id": "p7"
     },
     {
       "slug": "q044",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">Who is with Dan in the van?</span>",
       "type": "mcq",
+      "prompt": "Who is with Dan in the van?",
       "options": {
         "choices": [
-          "a dog and a cat",
-          "dan and the cat",
-          "a man and a girl"
+          {
+            "id": "c1",
+            "text": "a dog and a cat"
+          },
+          {
+            "id": "c2",
+            "text": "dan and the cat"
+          },
+          {
+            "id": "c3",
+            "text": "a man and a girl"
+          }
         ]
       },
-      "correct_answer": "dan and the cat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dan is in the van with his cat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 44
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 44,
+      "passage_id": "p7"
     },
     {
       "slug": "q045",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">How does Dan feel?</span>",
       "type": "mcq",
+      "prompt": "How does Dan feel?",
       "options": {
         "choices": [
-          "happy",
-          "mad",
-          "flying"
+          {
+            "id": "c1",
+            "text": "happy"
+          },
+          {
+            "id": "c2",
+            "text": "mad"
+          },
+          {
+            "id": "c3",
+            "text": "flying"
+          }
         ]
       },
-      "correct_answer": "mad",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says Dan is mad because the van has no gas.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 45
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 45,
+      "passage_id": "p7"
     },
     {
       "slug": "q046",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">How does the cat feel?</span>",
       "type": "mcq",
+      "prompt": "How does the cat feel?",
       "options": {
         "choices": [
-          "sad",
-          "glad",
-          "mad"
+          {
+            "id": "c1",
+            "text": "sad"
+          },
+          {
+            "id": "c2",
+            "text": "glad"
+          },
+          {
+            "id": "c3",
+            "text": "mad"
+          }
         ]
       },
-      "correct_answer": "sad",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says the cat is sad.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 46
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 46,
+      "passage_id": "p7"
     },
     {
       "slug": "q047",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">What has no gas?</span>",
       "type": "mcq",
+      "prompt": "What has no gas?",
       "options": {
         "choices": [
-          "cab",
-          "van",
-          "cat"
+          {
+            "id": "c1",
+            "text": "cab"
+          },
+          {
+            "id": "c2",
+            "text": "van"
+          },
+          {
+            "id": "c3",
+            "text": "cat"
+          }
         ]
       },
-      "correct_answer": "van",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says the van has no gas.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 47
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 47,
+      "passage_id": "p7"
     },
     {
       "slug": "q048",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">What must Dan take?</span>",
       "type": "mcq",
+      "prompt": "What must Dan take?",
       "options": {
         "choices": [
-          "bus",
-          "bike",
-          "cab"
+          {
+            "id": "c1",
+            "text": "bus"
+          },
+          {
+            "id": "c2",
+            "text": "bike"
+          },
+          {
+            "id": "c3",
+            "text": "cab"
+          }
         ]
       },
-      "correct_answer": "cab",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Since the van has no gas, Dan must take a cab.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 48
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 48,
+      "passage_id": "p7"
     },
     {
       "slug": "q049",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">Who goes with Dan in the cab?</span>",
       "type": "mcq",
+      "prompt": "Who goes with Dan in the cab?",
       "options": {
         "choices": [
-          "cat",
-          "van",
-          "gas"
+          {
+            "id": "c1",
+            "text": "cat"
+          },
+          {
+            "id": "c2",
+            "text": "van"
+          },
+          {
+            "id": "c3",
+            "text": "gas"
+          }
         ]
       },
-      "correct_answer": "cat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dan takes a cab with the cat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 49
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 49,
+      "passage_id": "p7"
     },
     {
       "slug": "q050",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">What animal is in the story?</span>",
       "type": "mcq",
+      "prompt": "What animal is in the story?",
       "options": {
         "choices": [
-          "dog",
-          "cat",
-          "fish"
+          {
+            "id": "c1",
+            "text": "dog"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "cat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The only animal in the story is Dan's cat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 50
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 50,
+      "passage_id": "p7"
     },
     {
       "slug": "q051",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">Why is Dan mad?</span>",
       "type": "mcq",
+      "prompt": "Why is Dan mad?",
       "options": {
         "choices": [
-          "the van has no gas",
-          "the cat runs away",
-          "the cab is late"
+          {
+            "id": "c1",
+            "text": "the van has no gas"
+          },
+          {
+            "id": "c2",
+            "text": "the cat runs away"
+          },
+          {
+            "id": "c3",
+            "text": "the cab is late"
+          }
         ]
       },
-      "correct_answer": "the van has no gas",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dan is mad because the van has no gas.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 51
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 51,
+      "passage_id": "p7"
     },
     {
       "slug": "q052",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">What does Dan have?</span>",
       "type": "mcq",
+      "prompt": "What does Dan have?",
       "options": {
         "choices": [
-          "van and cat",
-          "dog and bike",
-          "bus and fish"
+          {
+            "id": "c1",
+            "text": "van and cat"
+          },
+          {
+            "id": "c2",
+            "text": "dog and bike"
+          },
+          {
+            "id": "c3",
+            "text": "bus and fish"
+          }
         ]
       },
-      "correct_answer": "van and cat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dan has a van and a cat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 52
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 52,
+      "passage_id": "p7"
     },
     {
       "slug": "q053",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">Who is sad?</span>",
       "type": "mcq",
+      "prompt": "Who is sad?",
       "options": {
         "choices": [
-          "dan",
-          "cat",
-          "van"
+          {
+            "id": "c1",
+            "text": "dan"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "van"
+          }
         ]
       },
-      "correct_answer": "cat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says the cat is sad.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 53
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 53,
+      "passage_id": "p7"
     },
     {
       "slug": "q054",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">What is not in the story?</span>",
       "type": "mcq",
+      "prompt": "What is not in the story?",
       "options": {
         "choices": [
-          "van",
-          "cat",
-          "plane"
+          {
+            "id": "c1",
+            "text": "van"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "plane"
+          }
         ]
       },
-      "correct_answer": "plane",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "There is no plane mentioned anywhere in the story.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 54
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 54,
+      "passage_id": "p7"
     },
     {
       "slug": "q055",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDan has a van.<br>\nDan has a cat.<br>\nDan is in the van with the cat.<br>\nDan is mad.<br>\nThe cat is sad.<br>\nThe van has no gas.<br>\nDan has to take a cab with the cat.\n</div><br>\n<span style=\"color:red;\">What did dad say?</span>",
       "type": "mcq",
+      "prompt": "What did dad say?",
       "options": {
         "choices": [
-          "no dad mentioned",
-          "sit down",
-          "stand up"
+          {
+            "id": "c1",
+            "text": "no dad mentioned"
+          },
+          {
+            "id": "c2",
+            "text": "sit down"
+          },
+          {
+            "id": "c3",
+            "text": "stand up"
+          }
         ]
       },
-      "correct_answer": "no dad mentioned",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "There is no dad character in this story at all.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 55
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/7.jpeg"
+      },
+      "order_index": 55,
+      "passage_id": "p7"
     },
     {
       "slug": "q056",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">What did Sam name the cat?</span>",
       "type": "mcq",
+      "prompt": "What did Sam name the cat?",
       "options": {
         "choices": [
-          "rad",
-          "max",
-          "tom"
+          {
+            "id": "c1",
+            "text": "rad"
+          },
+          {
+            "id": "c2",
+            "text": "max"
+          },
+          {
+            "id": "c3",
+            "text": "tom"
+          }
         ]
       },
-      "correct_answer": "rad",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sam named the cat Rad.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 56
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 56,
+      "passage_id": "p8"
     },
     {
       "slug": "q057",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">Who is Rad?</span>",
       "type": "mcq",
+      "prompt": "Who is Rad?",
       "options": {
         "choices": [
-          "a dog",
-          "a cat",
-          "a fish"
+          {
+            "id": "c1",
+            "text": "a dog"
+          },
+          {
+            "id": "c2",
+            "text": "a cat"
+          },
+          {
+            "id": "c3",
+            "text": "a fish"
+          }
         ]
       },
-      "correct_answer": "a cat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Rad is Sam's cat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 57
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 57,
+      "passage_id": "p8"
     },
     {
       "slug": "q058",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">Where did Rad sit?</span>",
       "type": "mcq",
+      "prompt": "Where did Rad sit?",
       "options": {
         "choices": [
-          "on the mat",
-          "on the bed",
-          "on the chair"
+          {
+            "id": "c1",
+            "text": "on the mat"
+          },
+          {
+            "id": "c2",
+            "text": "on the bed"
+          },
+          {
+            "id": "c3",
+            "text": "on the chair"
+          }
         ]
       },
-      "correct_answer": "on the mat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says Rad sat on the mat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 58
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 58,
+      "passage_id": "p8"
     },
     {
       "slug": "q059",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">What did Rad have?</span>",
       "type": "mcq",
+      "prompt": "What did Rad have?",
       "options": {
         "choices": [
-          "a ball",
-          "a can of jam",
-          "a toy"
+          {
+            "id": "c1",
+            "text": "a ball"
+          },
+          {
+            "id": "c2",
+            "text": "a can of jam"
+          },
+          {
+            "id": "c3",
+            "text": "a toy"
+          }
         ]
       },
-      "correct_answer": "a can of jam",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Rad had a can of jam which made a mess.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 59
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 59,
+      "passage_id": "p8"
     },
     {
       "slug": "q060",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">What will Rad have next?</span>",
       "type": "mcq",
+      "prompt": "What will Rad have next?",
       "options": {
         "choices": [
-          "a nap",
-          "a bath",
-          "a walk"
+          {
+            "id": "c1",
+            "text": "a nap"
+          },
+          {
+            "id": "c2",
+            "text": "a bath"
+          },
+          {
+            "id": "c3",
+            "text": "a walk"
+          }
         ]
       },
-      "correct_answer": "a bath",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Because Rad made a mess with the jam, Rad will have a bath.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 60
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 60,
+      "passage_id": "p8"
     },
     {
       "slug": "q061",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">Who has a cat?</span>",
       "type": "mcq",
+      "prompt": "Who has a cat?",
       "options": {
         "choices": [
-          "sam",
-          "rad",
-          "tom"
+          {
+            "id": "c1",
+            "text": "sam"
+          },
+          {
+            "id": "c2",
+            "text": "rad"
+          },
+          {
+            "id": "c3",
+            "text": "tom"
+          }
         ]
       },
-      "correct_answer": "sam",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sam has the cat named Rad.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 61
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 61,
+      "passage_id": "p8"
     },
     {
       "slug": "q062",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">Who is Sam?</span>",
       "type": "mcq",
+      "prompt": "Who is Sam?",
       "options": {
         "choices": [
-          "a boy",
-          "a cat",
-          "a dog"
+          {
+            "id": "c1",
+            "text": "a boy"
+          },
+          {
+            "id": "c2",
+            "text": "a cat"
+          },
+          {
+            "id": "c3",
+            "text": "a dog"
+          }
         ]
       },
-      "correct_answer": "a boy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sam is the boy who owns the cat Rad.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 62
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 62,
+      "passage_id": "p8"
     },
     {
       "slug": "q063",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">Where is the jam?</span>",
       "type": "mcq",
+      "prompt": "Where is the jam?",
       "options": {
         "choices": [
-          "in a can",
-          "in a box",
-          "in a bag"
+          {
+            "id": "c1",
+            "text": "in a can"
+          },
+          {
+            "id": "c2",
+            "text": "in a box"
+          },
+          {
+            "id": "c3",
+            "text": "in a bag"
+          }
         ]
       },
-      "correct_answer": "in a can",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says Rad had a can of jam.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 63
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 63,
+      "passage_id": "p8"
     },
     {
       "slug": "q064",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">What is Rad covered in?</span>",
       "type": "mcq",
+      "prompt": "What is Rad covered in?",
       "options": {
         "choices": [
-          "water",
-          "jam",
-          "sand"
+          {
+            "id": "c1",
+            "text": "water"
+          },
+          {
+            "id": "c2",
+            "text": "jam"
+          },
+          {
+            "id": "c3",
+            "text": "sand"
+          }
         ]
       },
-      "correct_answer": "jam",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Rad got into the can of jam and is covered in it.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 64
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 64,
+      "passage_id": "p8"
     },
     {
       "slug": "q065",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">Why is Rad bad?</span>",
       "type": "mcq",
+      "prompt": "Why is Rad bad?",
       "options": {
         "choices": [
-          "Rad ran away",
-          "Rad slept",
-          "Rad made a mess"
+          {
+            "id": "c1",
+            "text": "Rad ran away"
+          },
+          {
+            "id": "c2",
+            "text": "Rad slept"
+          },
+          {
+            "id": "c3",
+            "text": "Rad made a mess"
+          }
         ]
       },
-      "correct_answer": "Rad made a mess",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Rad got into the jam and made a mess, so Sam said 'Bad Rad!'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 65
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 65,
+      "passage_id": "p8"
     },
     {
       "slug": "q066",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">What do you think would clean Rad?</span>",
       "type": "mcq",
+      "prompt": "What do you think would clean Rad?",
       "options": {
         "choices": [
-          "juice",
-          "bath",
-          "mat"
+          {
+            "id": "c1",
+            "text": "juice"
+          },
+          {
+            "id": "c2",
+            "text": "bath"
+          },
+          {
+            "id": "c3",
+            "text": "mat"
+          }
         ]
       },
-      "correct_answer": "bath",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A bath would clean off all the jam from Rad.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 66
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 66,
+      "passage_id": "p8"
     },
     {
       "slug": "q067",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">Where might Rad take a bath?</span>",
       "type": "mcq",
+      "prompt": "Where might Rad take a bath?",
       "options": {
         "choices": [
-          "kitchen",
-          "bathroom",
-          "garden"
+          {
+            "id": "c1",
+            "text": "kitchen"
+          },
+          {
+            "id": "c2",
+            "text": "bathroom"
+          },
+          {
+            "id": "c3",
+            "text": "garden"
+          }
         ]
       },
-      "correct_answer": "bathroom",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A bath is normally taken in the bathroom.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 67
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 67,
+      "passage_id": "p8"
     },
     {
       "slug": "q068",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">What is the story about?</span>",
       "type": "mcq",
+      "prompt": "What is the story about?",
       "options": {
         "choices": [
-          "a trip",
-          "a cat and a mess",
-          "a game"
+          {
+            "id": "c1",
+            "text": "a trip"
+          },
+          {
+            "id": "c2",
+            "text": "a cat and a mess"
+          },
+          {
+            "id": "c3",
+            "text": "a game"
+          }
         ]
       },
-      "correct_answer": "a cat and a mess",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story is about Rad the cat making a mess with a can of jam.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 68
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 68,
+      "passage_id": "p8"
     },
     {
       "slug": "q069",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">What is the mat used for?</span>",
       "type": "mcq",
+      "prompt": "What is the mat used for?",
       "options": {
         "choices": [
-          "sitting",
-          "cooking",
-          "flying"
+          {
+            "id": "c1",
+            "text": "sitting"
+          },
+          {
+            "id": "c2",
+            "text": "cooking"
+          },
+          {
+            "id": "c3",
+            "text": "flying"
+          }
         ]
       },
-      "correct_answer": "sitting",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Rad sat on the mat, so it is used for sitting.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 69
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 69,
+      "passage_id": "p8"
     },
     {
       "slug": "q070",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nSam has a cat.<br>\nSam named the cat Rad.<br>\nRad is a cat.<br>\nRad sat on the mat.<br>\nRad had a can of jam.<br>\nBad Rad!<br>\nNow, Rad will have a bath.<br>\nGet a rag!\n</div><br>\n<span style=\"color:red;\">How many cats are there in the short story?</span>",
       "type": "mcq",
+      "prompt": "How many cats are there in the short story?",
       "options": {
         "choices": [
-          "two",
-          "three",
-          "one"
+          {
+            "id": "c1",
+            "text": "two"
+          },
+          {
+            "id": "c2",
+            "text": "three"
+          },
+          {
+            "id": "c3",
+            "text": "one"
+          }
         ]
       },
-      "correct_answer": "one",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "There is only one cat in the story — Rad.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 70
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/8.jpeg"
+      },
+      "order_index": 70,
+      "passage_id": "p8"
     },
     {
       "slug": "q071",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe tall man has a ram.<br>\nThe tall man named the ram Tad.<br>\nTad is a ram.<br>\nTad has a hat.<br>\nThe hat is on the rag.<br>\nTad sat on the hat!<br>\nNow, the hat is flat.\n</div><br>\n<span style=\"color:red;\">What does the tall man have?</span>",
       "type": "mcq",
+      "prompt": "What does the tall man have?",
       "options": {
         "choices": [
-          "a cat",
-          "a ram",
-          "a bear"
+          {
+            "id": "c1",
+            "text": "a cat"
+          },
+          {
+            "id": "c2",
+            "text": "a ram"
+          },
+          {
+            "id": "c3",
+            "text": "a bear"
+          }
         ]
       },
-      "correct_answer": "a ram",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says the tall man has a ram.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 71
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/9.jpeg"
+      },
+      "order_index": 71,
+      "passage_id": "p9"
     },
     {
       "slug": "q072",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe tall man has a ram.<br>\nThe tall man named the ram Tad.<br>\nTad is a ram.<br>\nTad has a hat.<br>\nThe hat is on the rag.<br>\nTad sat on the hat!<br>\nNow, the hat is flat.\n</div><br>\n<span style=\"color:red;\">What did the tall man name his animal?</span>",
       "type": "mcq",
+      "prompt": "What did the tall man name his animal?",
       "options": {
         "choices": [
-          "Tom",
-          "Tad",
-          "Sam"
+          {
+            "id": "c1",
+            "text": "Tom"
+          },
+          {
+            "id": "c2",
+            "text": "Tad"
+          },
+          {
+            "id": "c3",
+            "text": "Sam"
+          }
         ]
       },
-      "correct_answer": "Tad",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The tall man named the ram Tad.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 72
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/9.jpeg"
+      },
+      "order_index": 72,
+      "passage_id": "p9"
     },
     {
       "slug": "q073",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe tall man has a ram.<br>\nThe tall man named the ram Tad.<br>\nTad is a ram.<br>\nTad has a hat.<br>\nThe hat is on the rag.<br>\nTad sat on the hat!<br>\nNow, the hat is flat.\n</div><br>\n<span style=\"color:red;\">What does Tad have?</span>",
       "type": "mcq",
+      "prompt": "What does Tad have?",
       "options": {
         "choices": [
-          "A table",
-          "A sandwich",
-          "A hat"
+          {
+            "id": "c1",
+            "text": "A table"
+          },
+          {
+            "id": "c2",
+            "text": "A sandwich"
+          },
+          {
+            "id": "c3",
+            "text": "A hat"
+          }
         ]
       },
-      "correct_answer": "A hat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Tad has a hat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 73
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/9.jpeg"
+      },
+      "order_index": 73,
+      "passage_id": "p9"
     },
     {
       "slug": "q074",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe tall man has a ram.<br>\nThe tall man named the ram Tad.<br>\nTad is a ram.<br>\nTad has a hat.<br>\nThe hat is on the rag.<br>\nTad sat on the hat!<br>\nNow, the hat is flat.\n</div><br>\n<span style=\"color:red;\">What animal is Tad?</span>",
       "type": "mcq",
+      "prompt": "What animal is Tad?",
       "options": {
         "choices": [
-          "a fish",
-          "a cat",
-          "a ram"
+          {
+            "id": "c1",
+            "text": "a fish"
+          },
+          {
+            "id": "c2",
+            "text": "a cat"
+          },
+          {
+            "id": "c3",
+            "text": "a ram"
+          }
         ]
       },
-      "correct_answer": "a ram",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Tad is a ram.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 74
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/9.jpeg"
+      },
+      "order_index": 74,
+      "passage_id": "p9"
     },
     {
       "slug": "q075",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe tall man has a ram.<br>\nThe tall man named the ram Tad.<br>\nTad is a ram.<br>\nTad has a hat.<br>\nThe hat is on the rag.<br>\nTad sat on the hat!<br>\nNow, the hat is flat.\n</div><br>\n<span style=\"color:red;\">Where is the hat?</span>",
       "type": "mcq",
+      "prompt": "Where is the hat?",
       "options": {
         "choices": [
-          "The hat is in the corner",
-          "The hat is in the middle",
-          "The hat is on the rag"
+          {
+            "id": "c1",
+            "text": "The hat is in the corner"
+          },
+          {
+            "id": "c2",
+            "text": "The hat is in the middle"
+          },
+          {
+            "id": "c3",
+            "text": "The hat is on the rag"
+          }
         ]
       },
-      "correct_answer": "The hat is on the rag",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says the hat is on the rag.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 75
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/9.jpeg"
+      },
+      "order_index": 75,
+      "passage_id": "p9"
     },
     {
       "slug": "q076",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe tall man has a ram.<br>\nThe tall man named the ram Tad.<br>\nTad is a ram.<br>\nTad has a hat.<br>\nThe hat is on the rag.<br>\nTad sat on the hat!<br>\nNow, the hat is flat.\n</div><br>\n<span style=\"color:red;\">Where did Tad sit?</span>",
       "type": "mcq",
+      "prompt": "Where did Tad sit?",
       "options": {
         "choices": [
-          "Tad sat on the chair",
-          "Tad sat on the hat",
-          "Tad sat on the car"
+          {
+            "id": "c1",
+            "text": "Tad sat on the chair"
+          },
+          {
+            "id": "c2",
+            "text": "Tad sat on the hat"
+          },
+          {
+            "id": "c3",
+            "text": "Tad sat on the car"
+          }
         ]
       },
-      "correct_answer": "Tad sat on the hat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Tad sat on the hat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 76
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/9.jpeg"
+      },
+      "order_index": 76,
+      "passage_id": "p9"
     },
     {
       "slug": "q077",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe tall man has a ram.<br>\nThe tall man named the ram Tad.<br>\nTad is a ram.<br>\nTad has a hat.<br>\nThe hat is on the rag.<br>\nTad sat on the hat!<br>\nNow, the hat is flat.\n</div><br>\n<span style=\"color:red;\">What happened to the hat?</span>",
       "type": "mcq",
+      "prompt": "What happened to the hat?",
       "options": {
         "choices": [
-          "The hat is bigger",
-          "The hat is fluffier",
-          "The hat is flat"
+          {
+            "id": "c1",
+            "text": "The hat is bigger"
+          },
+          {
+            "id": "c2",
+            "text": "The hat is fluffier"
+          },
+          {
+            "id": "c3",
+            "text": "The hat is flat"
+          }
         ]
       },
-      "correct_answer": "The hat is flat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After Tad sat on it, the hat became flat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 77
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/9.jpeg"
+      },
+      "order_index": 77,
+      "passage_id": "p9"
     },
     {
       "slug": "q078",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe tall man has a ram.<br>\nThe tall man named the ram Tad.<br>\nTad is a ram.<br>\nTad has a hat.<br>\nThe hat is on the rag.<br>\nTad sat on the hat!<br>\nNow, the hat is flat.\n</div><br>\n<span style=\"color:red;\">What animal is mentioned in the story?</span>",
       "type": "mcq",
+      "prompt": "What animal is mentioned in the story?",
       "options": {
         "choices": [
-          "a cat",
-          "a fish",
-          "a ram"
+          {
+            "id": "c1",
+            "text": "a cat"
+          },
+          {
+            "id": "c2",
+            "text": "a fish"
+          },
+          {
+            "id": "c3",
+            "text": "a ram"
+          }
         ]
       },
-      "correct_answer": "a ram",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The only animal in the story is a ram.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 78
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/9.jpeg"
+      },
+      "order_index": 78,
+      "passage_id": "p9"
     },
     {
       "slug": "q079",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe tall man has a ram.<br>\nThe tall man named the ram Tad.<br>\nTad is a ram.<br>\nTad has a hat.<br>\nThe hat is on the rag.<br>\nTad sat on the hat!<br>\nNow, the hat is flat.\n</div><br>\n<span style=\"color:red;\">What is the plural of ram?</span>",
       "type": "mcq",
+      "prompt": "What is the plural of ram?",
       "options": {
         "choices": [
-          "cats",
-          "rooms",
-          "rams"
+          {
+            "id": "c1",
+            "text": "cats"
+          },
+          {
+            "id": "c2",
+            "text": "rooms"
+          },
+          {
+            "id": "c3",
+            "text": "rams"
+          }
         ]
       },
-      "correct_answer": "rams",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The plural of ram is rams.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 79
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/9.jpeg"
+      },
+      "order_index": 79,
+      "passage_id": "p9"
     },
     {
       "slug": "q080",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nThe tall man has a ram.<br>\nThe tall man named the ram Tad.<br>\nTad is a ram.<br>\nTad has a hat.<br>\nThe hat is on the rag.<br>\nTad sat on the hat!<br>\nNow, the hat is flat.\n</div><br>\n<span style=\"color:red;\">What is the opposite of tall?</span>",
       "type": "mcq",
+      "prompt": "What is the opposite of tall?",
       "options": {
         "choices": [
-          "big",
-          "short",
-          "ram"
+          {
+            "id": "c1",
+            "text": "big"
+          },
+          {
+            "id": "c2",
+            "text": "short"
+          },
+          {
+            "id": "c3",
+            "text": "ram"
+          }
         ]
       },
-      "correct_answer": "short",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The opposite of tall is short.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 80
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/9.jpeg"
+      },
+      "order_index": 80,
+      "passage_id": "p9"
     },
     {
       "slug": "q081",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nPam has a cat.<br>\nPam has a fat cat.<br>\nThe cat has a mat.<br>\nThe cat sat on the mat.<br>\nThe cat can play.<br>\nThe cat plays and plays.<br>\nThe cat naps on Pam's lap.<br>\nPam is happy.<br>\nCat is also happy.\n</div><br>\n<span style=\"color:red;\">What does Pam have?</span>",
       "type": "mcq",
+      "prompt": "What does Pam have?",
       "options": {
         "choices": [
-          "cat",
-          "rat",
-          "bird"
+          {
+            "id": "c1",
+            "text": "cat"
+          },
+          {
+            "id": "c2",
+            "text": "rat"
+          },
+          {
+            "id": "c3",
+            "text": "bird"
+          }
         ]
       },
-      "correct_answer": "cat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Pam has a cat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 81
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/10.jpeg"
+      },
+      "order_index": 81,
+      "passage_id": "p10"
     },
     {
       "slug": "q082",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nPam has a cat.<br>\nPam has a fat cat.<br>\nThe cat has a mat.<br>\nThe cat sat on the mat.<br>\nThe cat can play.<br>\nThe cat plays and plays.<br>\nThe cat naps on Pam's lap.<br>\nPam is happy.<br>\nCat is also happy.\n</div><br>\n<span style=\"color:red;\">Is the cat fat or thin?</span>",
       "type": "mcq",
+      "prompt": "Is the cat fat or thin?",
       "options": {
         "choices": [
-          "The cat is fat",
-          "The cat is skinny",
-          "The cat is cute"
+          {
+            "id": "c1",
+            "text": "The cat is fat"
+          },
+          {
+            "id": "c2",
+            "text": "The cat is skinny"
+          },
+          {
+            "id": "c3",
+            "text": "The cat is cute"
+          }
         ]
       },
-      "correct_answer": "The cat is fat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says Pam has a fat cat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 82
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/10.jpeg"
+      },
+      "order_index": 82,
+      "passage_id": "p10"
     },
     {
       "slug": "q083",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nPam has a cat.<br>\nPam has a fat cat.<br>\nThe cat has a mat.<br>\nThe cat sat on the mat.<br>\nThe cat can play.<br>\nThe cat plays and plays.<br>\nThe cat naps on Pam's lap.<br>\nPam is happy.<br>\nCat is also happy.\n</div><br>\n<span style=\"color:red;\">What does the cat have?</span>",
       "type": "mcq",
+      "prompt": "What does the cat have?",
       "options": {
         "choices": [
-          "The cat has a shoe",
-          "The cat had a beautiful smile",
-          "The cat has a mat"
+          {
+            "id": "c1",
+            "text": "The cat has a shoe"
+          },
+          {
+            "id": "c2",
+            "text": "The cat had a beautiful smile"
+          },
+          {
+            "id": "c3",
+            "text": "The cat has a mat"
+          }
         ]
       },
-      "correct_answer": "The cat has a mat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The cat has a mat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 83
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/10.jpeg"
+      },
+      "order_index": 83,
+      "passage_id": "p10"
     },
     {
       "slug": "q084",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nPam has a cat.<br>\nPam has a fat cat.<br>\nThe cat has a mat.<br>\nThe cat sat on the mat.<br>\nThe cat can play.<br>\nThe cat plays and plays.<br>\nThe cat naps on Pam's lap.<br>\nPam is happy.<br>\nCat is also happy.\n</div><br>\n<span style=\"color:red;\">Where did the cat sit?</span>",
       "type": "mcq",
+      "prompt": "Where did the cat sit?",
       "options": {
         "choices": [
-          "The cat sat on a shoe",
-          "The cat sat on the bus",
-          "The cat sat on the mat"
+          {
+            "id": "c1",
+            "text": "The cat sat on a shoe"
+          },
+          {
+            "id": "c2",
+            "text": "The cat sat on the bus"
+          },
+          {
+            "id": "c3",
+            "text": "The cat sat on the mat"
+          }
         ]
       },
-      "correct_answer": "The cat sat on the mat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The cat sat on the mat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 84
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/10.jpeg"
+      },
+      "order_index": 84,
+      "passage_id": "p10"
     },
     {
       "slug": "q085",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nPam has a cat.<br>\nPam has a fat cat.<br>\nThe cat has a mat.<br>\nThe cat sat on the mat.<br>\nThe cat can play.<br>\nThe cat plays and plays.<br>\nThe cat naps on Pam's lap.<br>\nPam is happy.<br>\nCat is also happy.\n</div><br>\n<span style=\"color:red;\">What can the cat do?</span>",
       "type": "mcq",
+      "prompt": "What can the cat do?",
       "options": {
         "choices": [
-          "The cat can play",
-          "The cat can sing",
-          "The cat naps on Pam's lap"
+          {
+            "id": "c1",
+            "text": "The cat can play"
+          },
+          {
+            "id": "c2",
+            "text": "The cat can sing"
+          },
+          {
+            "id": "c3",
+            "text": "The cat naps on Pam's lap"
+          }
         ]
       },
-      "correct_answer": "The cat naps on Pam's lap",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "According to the answer key, the cat naps on Pam's lap.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 85
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/10.jpeg"
+      },
+      "order_index": 85,
+      "passage_id": "p10"
     },
     {
       "slug": "q086",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nPam has a cat.<br>\nPam has a fat cat.<br>\nThe cat has a mat.<br>\nThe cat sat on the mat.<br>\nThe cat can play.<br>\nThe cat plays and plays.<br>\nThe cat naps on Pam's lap.<br>\nPam is happy.<br>\nCat is also happy.\n</div><br>\n<span style=\"color:red;\">What feelings does Pam show in the story?</span>",
       "type": "mcq",
+      "prompt": "What feelings does Pam show in the story?",
       "options": {
         "choices": [
-          "Pam is crazy",
-          "Pam is happy",
-          "Pam is sad"
+          {
+            "id": "c1",
+            "text": "Pam is crazy"
+          },
+          {
+            "id": "c2",
+            "text": "Pam is happy"
+          },
+          {
+            "id": "c3",
+            "text": "Pam is sad"
+          }
         ]
       },
-      "correct_answer": "Pam is happy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says Pam is happy.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 86
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/10.jpeg"
+      },
+      "order_index": 86,
+      "passage_id": "p10"
     },
     {
       "slug": "q087",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nPam has a cat.<br>\nPam has a fat cat.<br>\nThe cat has a mat.<br>\nThe cat sat on the mat.<br>\nThe cat can play.<br>\nThe cat plays and plays.<br>\nThe cat naps on Pam's lap.<br>\nPam is happy.<br>\nCat is also happy.\n</div><br>\n<span style=\"color:red;\">What feeling does the cat show?</span>",
       "type": "mcq",
+      "prompt": "What feeling does the cat show?",
       "options": {
         "choices": [
-          "The cat is happy",
-          "The cat is sad",
-          "The cat is crying"
+          {
+            "id": "c1",
+            "text": "The cat is happy"
+          },
+          {
+            "id": "c2",
+            "text": "The cat is sad"
+          },
+          {
+            "id": "c3",
+            "text": "The cat is crying"
+          }
         ]
       },
-      "correct_answer": "The cat is happy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says the cat is also happy.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 87
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/10.jpeg"
+      },
+      "order_index": 87,
+      "passage_id": "p10"
     },
     {
       "slug": "q088",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nPam has a cat.<br>\nPam has a fat cat.<br>\nThe cat has a mat.<br>\nThe cat sat on the mat.<br>\nThe cat can play.<br>\nThe cat plays and plays.<br>\nThe cat naps on Pam's lap.<br>\nPam is happy.<br>\nCat is also happy.\n</div><br>\n<span style=\"color:red;\">What does the cat do all day?</span>",
       "type": "mcq",
+      "prompt": "What does the cat do all day?",
       "options": {
         "choices": [
-          "The cat sleeps and sleeps",
-          "The cat plays and plays",
-          "The cat jumps and jumps"
+          {
+            "id": "c1",
+            "text": "The cat sleeps and sleeps"
+          },
+          {
+            "id": "c2",
+            "text": "The cat plays and plays"
+          },
+          {
+            "id": "c3",
+            "text": "The cat jumps and jumps"
+          }
         ]
       },
-      "correct_answer": "The cat plays and plays",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says the cat plays and plays.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 88
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/10.jpeg"
+      },
+      "order_index": 88,
+      "passage_id": "p10"
     },
     {
       "slug": "q089",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nPam has a cat.<br>\nPam has a fat cat.<br>\nThe cat has a mat.<br>\nThe cat sat on the mat.<br>\nThe cat can play.<br>\nThe cat plays and plays.<br>\nThe cat naps on Pam's lap.<br>\nPam is happy.<br>\nCat is also happy.\n</div><br>\n<span style=\"color:red;\">How many lines does the story have?</span>",
       "type": "mcq",
+      "prompt": "How many lines does the story have?",
       "options": {
         "choices": [
-          "8 lines",
-          "5 lines",
-          "9 lines"
+          {
+            "id": "c1",
+            "text": "8 lines"
+          },
+          {
+            "id": "c2",
+            "text": "5 lines"
+          },
+          {
+            "id": "c3",
+            "text": "9 lines"
+          }
         ]
       },
-      "correct_answer": "9 lines",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Counting all lines in the story gives 9 lines.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 89
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/10.jpeg"
+      },
+      "order_index": 89,
+      "passage_id": "p10"
     },
     {
       "slug": "q090",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nPam has a cat.<br>\nPam has a fat cat.<br>\nThe cat has a mat.<br>\nThe cat sat on the mat.<br>\nThe cat can play.<br>\nThe cat plays and plays.<br>\nThe cat naps on Pam's lap.<br>\nPam is happy.<br>\nCat is also happy.\n</div><br>\n<span style=\"color:red;\">What is the plural of cat?</span>",
       "type": "mcq",
+      "prompt": "What is the plural of cat?",
       "options": {
         "choices": [
-          "dogs",
-          "cats",
-          "cat"
+          {
+            "id": "c1",
+            "text": "dogs"
+          },
+          {
+            "id": "c2",
+            "text": "cats"
+          },
+          {
+            "id": "c3",
+            "text": "cat"
+          }
         ]
       },
-      "correct_answer": "cats",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The plural of cat is cats.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 90
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/10.jpeg"
+      },
+      "order_index": 90,
+      "passage_id": "p10"
     },
     {
       "slug": "q091",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDad has a cap.<br>\nDad has a mat.<br>\nThe cap is on the mat.<br>\nDad saw a bat.<br>\nDad saw a rat.<br>\nA bat sat on the cap.<br>\n\"That bat is on my cap!\" says Dad.<br>\nA rat sat on the cap.<br>\nNow, Dad has a rat and a bat on his cap!\n</div><br>\n<span style=\"color:red;\">What does dad have?</span>",
       "type": "mcq",
+      "prompt": "What does dad have?",
       "options": {
         "choices": [
-          "a cap",
-          "a cap and a mat",
-          "a big blue chair"
+          {
+            "id": "c1",
+            "text": "a cap"
+          },
+          {
+            "id": "c2",
+            "text": "a cap and a mat"
+          },
+          {
+            "id": "c3",
+            "text": "a big blue chair"
+          }
         ]
       },
-      "correct_answer": "a cap and a mat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dad has a cap and a mat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 91
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/11.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/11.jpeg"
+      },
+      "order_index": 91,
+      "passage_id": "p11"
     },
     {
       "slug": "q092",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDad has a cap.<br>\nDad has a mat.<br>\nThe cap is on the mat.<br>\nDad saw a bat.<br>\nDad saw a rat.<br>\nA bat sat on the cap.<br>\n\"That bat is on my cap!\" says Dad.<br>\nA rat sat on the cap.<br>\nNow, Dad has a rat and a bat on his cap!\n</div><br>\n<span style=\"color:red;\">Where is the cap?</span>",
       "type": "mcq",
+      "prompt": "Where is the cap?",
       "options": {
         "choices": [
-          "The cap is on the mat",
-          "The cap is on the chair",
-          "There is no cap"
+          {
+            "id": "c1",
+            "text": "The cap is on the mat"
+          },
+          {
+            "id": "c2",
+            "text": "The cap is on the chair"
+          },
+          {
+            "id": "c3",
+            "text": "There is no cap"
+          }
         ]
       },
-      "correct_answer": "The cap is on the mat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says the cap is on the mat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 92
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/11.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/11.jpeg"
+      },
+      "order_index": 92,
+      "passage_id": "p11"
     },
     {
       "slug": "q093",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDad has a cap.<br>\nDad has a mat.<br>\nThe cap is on the mat.<br>\nDad saw a bat.<br>\nDad saw a rat.<br>\nA bat sat on the cap.<br>\n\"That bat is on my cap!\" says Dad.<br>\nA rat sat on the cap.<br>\nNow, Dad has a rat and a bat on his cap!\n</div><br>\n<span style=\"color:red;\">What did dad see?</span>",
       "type": "mcq",
+      "prompt": "What did dad see?",
       "options": {
         "choices": [
-          "a rat",
-          "a rat and a bat",
-          "a bird and a pig"
+          {
+            "id": "c1",
+            "text": "a rat"
+          },
+          {
+            "id": "c2",
+            "text": "a rat and a bat"
+          },
+          {
+            "id": "c3",
+            "text": "a bird and a pig"
+          }
         ]
       },
-      "correct_answer": "a rat and a bat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dad saw a rat and a bat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 93
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/11.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/11.jpeg"
+      },
+      "order_index": 93,
+      "passage_id": "p11"
     },
     {
       "slug": "q094",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDad has a cap.<br>\nDad has a mat.<br>\nThe cap is on the mat.<br>\nDad saw a bat.<br>\nDad saw a rat.<br>\nA bat sat on the cap.<br>\n\"That bat is on my cap!\" says Dad.<br>\nA rat sat on the cap.<br>\nNow, Dad has a rat and a bat on his cap!\n</div><br>\n<span style=\"color:red;\">Where did the bat sit?</span>",
       "type": "mcq",
+      "prompt": "Where did the bat sit?",
       "options": {
         "choices": [
-          "The bat sat on the cap",
-          "The bat sat on the grass",
-          "The bat sat on the moon"
+          {
+            "id": "c1",
+            "text": "The bat sat on the cap"
+          },
+          {
+            "id": "c2",
+            "text": "The bat sat on the grass"
+          },
+          {
+            "id": "c3",
+            "text": "The bat sat on the moon"
+          }
         ]
       },
-      "correct_answer": "The bat sat on the cap",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A bat sat on the cap.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 94
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/11.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/11.jpeg"
+      },
+      "order_index": 94,
+      "passage_id": "p11"
     },
     {
       "slug": "q095",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDad has a cap.<br>\nDad has a mat.<br>\nThe cap is on the mat.<br>\nDad saw a bat.<br>\nDad saw a rat.<br>\nA bat sat on the cap.<br>\n\"That bat is on my cap!\" says Dad.<br>\nA rat sat on the cap.<br>\nNow, Dad has a rat and a bat on his cap!\n</div><br>\n<span style=\"color:red;\">Where did the rat sit?</span>",
       "type": "mcq",
+      "prompt": "Where did the rat sit?",
       "options": {
         "choices": [
-          "The rat sat on the cap",
-          "The rat sat on the grass",
-          "The rad sat on the beach"
+          {
+            "id": "c1",
+            "text": "The rat sat on the cap"
+          },
+          {
+            "id": "c2",
+            "text": "The rat sat on the grass"
+          },
+          {
+            "id": "c3",
+            "text": "The rad sat on the beach"
+          }
         ]
       },
-      "correct_answer": "The rat sat on the cap",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A rat sat on the cap.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 95
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/11.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/11.jpeg"
+      },
+      "order_index": 95,
+      "passage_id": "p11"
     },
     {
       "slug": "q096",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDad has a cap.<br>\nDad has a mat.<br>\nThe cap is on the mat.<br>\nDad saw a bat.<br>\nDad saw a rat.<br>\nA bat sat on the cap.<br>\n\"That bat is on my cap!\" says Dad.<br>\nA rat sat on the cap.<br>\nNow, Dad has a rat and a bat on his cap!\n</div><br>\n<span style=\"color:red;\">What is the plural of rat?</span>",
       "type": "mcq",
+      "prompt": "What is the plural of rat?",
       "options": {
         "choices": [
-          "root",
-          "rats",
-          "reset"
+          {
+            "id": "c1",
+            "text": "root"
+          },
+          {
+            "id": "c2",
+            "text": "rats"
+          },
+          {
+            "id": "c3",
+            "text": "reset"
+          }
         ]
       },
-      "correct_answer": "rats",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The plural of rat is rats.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 96
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/11.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/11.jpeg"
+      },
+      "order_index": 96,
+      "passage_id": "p11"
     },
     {
       "slug": "q097",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDad has a cap.<br>\nDad has a mat.<br>\nThe cap is on the mat.<br>\nDad saw a bat.<br>\nDad saw a rat.<br>\nA bat sat on the cap.<br>\n\"That bat is on my cap!\" says Dad.<br>\nA rat sat on the cap.<br>\nNow, Dad has a rat and a bat on his cap!\n</div><br>\n<span style=\"color:red;\">How many lines does the short story have?</span>",
       "type": "mcq",
+      "prompt": "How many lines does the short story have?",
       "options": {
         "choices": [
-          "8 lines",
-          "9 lines",
-          "10 lines"
+          {
+            "id": "c1",
+            "text": "8 lines"
+          },
+          {
+            "id": "c2",
+            "text": "9 lines"
+          },
+          {
+            "id": "c3",
+            "text": "10 lines"
+          }
         ]
       },
-      "correct_answer": "9 lines",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Counting all lines in the story gives 9 lines.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 97
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/11.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/11.jpeg"
+      },
+      "order_index": 97,
+      "passage_id": "p11"
     },
     {
       "slug": "q098",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDad has a cap.<br>\nDad has a mat.<br>\nThe cap is on the mat.<br>\nDad saw a bat.<br>\nDad saw a rat.<br>\nA bat sat on the cap.<br>\n\"That bat is on my cap!\" says Dad.<br>\nA rat sat on the cap.<br>\nNow, Dad has a rat and a bat on his cap!\n</div><br>\n<span style=\"color:red;\">What does dad have on his cap?</span>",
       "type": "mcq",
+      "prompt": "What does dad have on his cap?",
       "options": {
         "choices": [
-          "dad has a rat and a bat",
-          "dad has nothing",
-          "dad has a elk"
+          {
+            "id": "c1",
+            "text": "dad has a rat and a bat"
+          },
+          {
+            "id": "c2",
+            "text": "dad has nothing"
+          },
+          {
+            "id": "c3",
+            "text": "dad has a elk"
+          }
         ]
       },
-      "correct_answer": "dad has a rat and a bat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dad ends up with both a rat and a bat on his cap.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 98
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/11.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/11.jpeg"
+      },
+      "order_index": 98,
+      "passage_id": "p11"
     },
     {
       "slug": "q099",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDad has a cap.<br>\nDad has a mat.<br>\nThe cap is on the mat.<br>\nDad saw a bat.<br>\nDad saw a rat.<br>\nA bat sat on the cap.<br>\n\"That bat is on my cap!\" says Dad.<br>\nA rat sat on the cap.<br>\nNow, Dad has a rat and a bat on his cap!\n</div><br>\n<span style=\"color:red;\">What is the present tense of saw?</span>",
       "type": "mcq",
+      "prompt": "What is the present tense of saw?",
       "options": {
         "choices": [
-          "see",
-          "so",
-          "she"
+          {
+            "id": "c1",
+            "text": "see"
+          },
+          {
+            "id": "c2",
+            "text": "so"
+          },
+          {
+            "id": "c3",
+            "text": "she"
+          }
         ]
       },
-      "correct_answer": "see",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Saw is the past tense of see.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 99
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/11.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/11.jpeg"
+      },
+      "order_index": 99,
+      "passage_id": "p11"
     },
     {
       "slug": "q100",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nDad has a cap.<br>\nDad has a mat.<br>\nThe cap is on the mat.<br>\nDad saw a bat.<br>\nDad saw a rat.<br>\nA bat sat on the cap.<br>\n\"That bat is on my cap!\" says Dad.<br>\nA rat sat on the cap.<br>\nNow, Dad has a rat and a bat on his cap!\n</div><br>\n<span style=\"color:red;\">What is the present tense of has?</span>",
       "type": "mcq",
+      "prompt": "What is the present tense of has?",
       "options": {
         "choices": [
-          "has",
-          "have",
-          "he"
+          {
+            "id": "c1",
+            "text": "has"
+          },
+          {
+            "id": "c2",
+            "text": "have"
+          },
+          {
+            "id": "c3",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "have",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Has is used with singular subjects; have is its base/present form.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 100
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_1/11.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_1/11.jpeg"
+      },
+      "order_index": 100,
+      "passage_id": "p11"
+    }
+  ],
+  "title_needs_review": true,
+  "passages": [
+    {
+      "id": "p1",
+      "text": "Sam has a bag of bats.\nPam has a bag of caps.\nSam says, \"Pass me a cap.\"\nPam says, \"Pass me a bat.\"\nNow, Sam and Pam can play!"
+    },
+    {
+      "id": "p2",
+      "text": "Sam is a sad rat.\nPam is a bat.\nSam sees Pam the bat.\nSam and Pam chat.\nSam and Pam are pals.\nNow, Sam is not a sad rat."
+    },
+    {
+      "id": "p3",
+      "text": "A man has a cat.\nA cat has a hat.\nA man and a cat nap.\nA man and a cat play.\nA man and a cat are pals.\nAt last, a man a glad man."
+    },
+    {
+      "id": "p4",
+      "text": "A lad has a bag.\nA bag has a tag.\nA lad can tap a pan.\nA cat can nap.\nA lad and a cat clap.\nAt last, a lad has a pal."
+    },
+    {
+      "id": "p5",
+      "text": "Lad has a cat and an ant.\nCat has a bat.\nAnt has a mat.\nCat naps on the mat.\nAnt ran on the bat.\nCat chats with ant.\nAnt chats with cat.\nCat and ant chat all day.\nIt is a happy day."
+    },
+    {
+      "id": "p6",
+      "text": "Sama has a can of jam.\nSam has a can of ham.\nSama and Sam can have jam and ham.\nSama has a bat.\nSam has a mat.\nSama and Sam have a fan.\nSama and Sam sat on the mat with the fan."
+    },
+    {
+      "id": "p7",
+      "text": "Dan has a van.\nDan has a cat.\nDan is in the van with the cat.\nDan is mad.\nThe cat is sad.\nThe van has no gas.\nDan has to take a cab with the cat."
+    },
+    {
+      "id": "p8",
+      "text": "Sam has a cat.\nSam named the cat Rad.\nRad is a cat.\nRad sat on the mat.\nRad had a can of jam.\nBad Rad!\nNow, Rad will have a bath.\nGet a rag!"
+    },
+    {
+      "id": "p9",
+      "text": "The tall man has a ram.\nThe tall man named the ram Tad.\nTad is a ram.\nTad has a hat.\nThe hat is on the rag.\nTad sat on the hat!\nNow, the hat is flat."
+    },
+    {
+      "id": "p10",
+      "text": "Pam has a cat.\nPam has a fat cat.\nThe cat has a mat.\nThe cat sat on the mat.\nThe cat can play.\nThe cat plays and plays.\nThe cat naps on Pam's lap.\nPam is happy.\nCat is also happy."
+    },
+    {
+      "id": "p11",
+      "text": "Dad has a cap.\nDad has a mat.\nThe cap is on the mat.\nDad saw a bat.\nDad saw a rat.\nA bat sat on the cap.\n\"That bat is on my cap!\" says Dad.\nA rat sat on the cap.\nNow, Dad has a rat and a bat on his cap!"
     }
   ]
 }

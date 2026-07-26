@@ -1,1716 +1,2915 @@
 {
   "_source_file": "level1_gk_animals.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "gk-animals",
-    "title": "GK – Animals",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.562Z",
+  "slug": "gk-animals",
+  "title": "GK – Animals",
+  "level": "level-1",
+  "subject": "gk",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Where does a hen live?",
       "type": "mcq",
+      "prompt": "Where does a hen live?",
       "options": {
         "choices": [
-          "Tree",
-          "Water",
-          "Coop"
+          {
+            "id": "c1",
+            "text": "Tree"
+          },
+          {
+            "id": "c2",
+            "text": "Water"
+          },
+          {
+            "id": "c3",
+            "text": "Coop"
+          }
         ]
       },
-      "correct_answer": "Coop",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A hen lives in a coop.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Where does a elephant live?",
       "type": "mcq",
+      "prompt": "Where does a elephant live?",
       "options": {
         "choices": [
-          "Jungle",
-          "Kennel",
-          "Pen"
+          {
+            "id": "c1",
+            "text": "Jungle"
+          },
+          {
+            "id": "c2",
+            "text": "Kennel"
+          },
+          {
+            "id": "c3",
+            "text": "Pen"
+          }
         ]
       },
-      "correct_answer": "Jungle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A elephant lives in a jungle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Where does a lion live?",
       "type": "mcq",
+      "prompt": "Where does a lion live?",
       "options": {
         "choices": [
-          "Den",
-          "Shed",
-          "Hole"
+          {
+            "id": "c1",
+            "text": "Den"
+          },
+          {
+            "id": "c2",
+            "text": "Shed"
+          },
+          {
+            "id": "c3",
+            "text": "Hole"
+          }
         ]
       },
-      "correct_answer": "Den",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A lion lives in a den.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Where does a duck live?",
       "type": "mcq",
+      "prompt": "Where does a duck live?",
       "options": {
         "choices": [
-          "Coop",
-          "House",
-          "Pond"
+          {
+            "id": "c1",
+            "text": "Coop"
+          },
+          {
+            "id": "c2",
+            "text": "House"
+          },
+          {
+            "id": "c3",
+            "text": "Pond"
+          }
         ]
       },
-      "correct_answer": "Pond",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A duck lives in a pond.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which animal makes the sound “Quack”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Quack”?",
       "options": {
         "choices": [
-          "Goat",
-          "Duck",
-          "Tiger"
+          {
+            "id": "c1",
+            "text": "Goat"
+          },
+          {
+            "id": "c2",
+            "text": "Duck"
+          },
+          {
+            "id": "c3",
+            "text": "Tiger"
+          }
         ]
       },
-      "correct_answer": "Duck",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A duck makes the sound 'quack'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "How many legs does a hen have?",
       "type": "mcq",
+      "prompt": "How many legs does a hen have?",
       "options": {
         "choices": [
-          "2",
-          "6",
-          "0"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "0"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A hen has 2 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "How many legs does a frog have?",
       "type": "mcq",
+      "prompt": "How many legs does a frog have?",
       "options": {
         "choices": [
-          "4",
-          "2",
-          "0"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "0"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A frog has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "How many legs does a elephant have?",
       "type": "mcq",
+      "prompt": "How many legs does a elephant have?",
       "options": {
         "choices": [
-          "6",
-          "4",
-          "2"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A elephant has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "What is the body of a pig covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a pig covered with?",
       "options": {
         "choices": [
-          "Hair",
-          "Feathers",
-          "Skin"
+          {
+            "id": "c1",
+            "text": "Hair"
+          },
+          {
+            "id": "c2",
+            "text": "Feathers"
+          },
+          {
+            "id": "c3",
+            "text": "Skin"
+          }
         ]
       },
-      "correct_answer": "Skin",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A pig's body is covered with skin.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Where does a snake live?",
       "type": "mcq",
+      "prompt": "Where does a snake live?",
       "options": {
         "choices": [
-          "Hive",
-          "Coop",
-          "Hole"
+          {
+            "id": "c1",
+            "text": "Hive"
+          },
+          {
+            "id": "c2",
+            "text": "Coop"
+          },
+          {
+            "id": "c3",
+            "text": "Hole"
+          }
         ]
       },
-      "correct_answer": "Hole",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A snake lives in a hole.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "What is the body of a snake covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a snake covered with?",
       "options": {
         "choices": [
-          "Scales",
-          "Wool",
-          "Fur"
+          {
+            "id": "c1",
+            "text": "Scales"
+          },
+          {
+            "id": "c2",
+            "text": "Wool"
+          },
+          {
+            "id": "c3",
+            "text": "Fur"
+          }
         ]
       },
-      "correct_answer": "Scales",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A snake's body is covered with scales.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "How many legs does a tiger have?",
       "type": "mcq",
+      "prompt": "How many legs does a tiger have?",
       "options": {
         "choices": [
-          "0",
-          "4",
-          "8"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A tiger has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "How many legs does a bird have?",
       "type": "mcq",
+      "prompt": "How many legs does a bird have?",
       "options": {
         "choices": [
-          "2",
-          "8",
-          "0"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "0"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A bird has 2 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "What is the baby of a monkey called?",
       "type": "mcq",
+      "prompt": "What is the baby of a monkey called?",
       "options": {
         "choices": [
-          "Baby",
-          "Foal",
-          "Chick"
+          {
+            "id": "c1",
+            "text": "Baby"
+          },
+          {
+            "id": "c2",
+            "text": "Foal"
+          },
+          {
+            "id": "c3",
+            "text": "Chick"
+          }
         ]
       },
-      "correct_answer": "Baby",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A baby monkey is called a baby.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "What sound does a hen make?",
       "type": "mcq",
+      "prompt": "What sound does a hen make?",
       "options": {
         "choices": [
-          "Hiss",
-          "Cluck",
-          "Neigh"
+          {
+            "id": "c1",
+            "text": "Hiss"
+          },
+          {
+            "id": "c2",
+            "text": "Cluck"
+          },
+          {
+            "id": "c3",
+            "text": "Neigh"
+          }
         ]
       },
-      "correct_answer": "Cluck",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A hen says 'cluck'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "How many legs does a dog have?",
       "type": "mcq",
+      "prompt": "How many legs does a dog have?",
       "options": {
         "choices": [
-          "4",
-          "2",
-          "0"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "0"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A dog has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Which animal makes the sound “Bleat”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Bleat”?",
       "options": {
         "choices": [
-          "Sheep",
-          "Cock",
-          "Goat"
+          {
+            "id": "c1",
+            "text": "Sheep"
+          },
+          {
+            "id": "c2",
+            "text": "Cock"
+          },
+          {
+            "id": "c3",
+            "text": "Goat"
+          }
         ]
       },
-      "correct_answer": "Goat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A goat makes the sound 'bleat'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which animal makes the sound “Trumpet”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Trumpet”?",
       "options": {
         "choices": [
-          "Snake",
-          "Elephant",
-          "Pig"
+          {
+            "id": "c1",
+            "text": "Snake"
+          },
+          {
+            "id": "c2",
+            "text": "Elephant"
+          },
+          {
+            "id": "c3",
+            "text": "Pig"
+          }
         ]
       },
-      "correct_answer": "Elephant",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A elephant makes the sound 'trumpet'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "What sound does a cat make?",
       "type": "mcq",
+      "prompt": "What sound does a cat make?",
       "options": {
         "choices": [
-          "Bleat",
-          "Meow",
-          "Crow"
+          {
+            "id": "c1",
+            "text": "Bleat"
+          },
+          {
+            "id": "c2",
+            "text": "Meow"
+          },
+          {
+            "id": "c3",
+            "text": "Crow"
+          }
         ]
       },
-      "correct_answer": "Meow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A cat says 'meow'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "How many legs does a cow have?",
       "type": "mcq",
+      "prompt": "How many legs does a cow have?",
       "options": {
         "choices": [
-          "4",
-          "6",
-          "0"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "0"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cow has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "What is the body of a hen covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a hen covered with?",
       "options": {
         "choices": [
-          "Skin",
-          "Scales",
-          "Feathers"
+          {
+            "id": "c1",
+            "text": "Skin"
+          },
+          {
+            "id": "c2",
+            "text": "Scales"
+          },
+          {
+            "id": "c3",
+            "text": "Feathers"
+          }
         ]
       },
-      "correct_answer": "Feathers",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A hen's body is covered with feathers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which animal makes the sound “Cluck”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Cluck”?",
       "options": {
         "choices": [
-          "Cow",
-          "Bee",
-          "Hen"
+          {
+            "id": "c1",
+            "text": "Cow"
+          },
+          {
+            "id": "c2",
+            "text": "Bee"
+          },
+          {
+            "id": "c3",
+            "text": "Hen"
+          }
         ]
       },
-      "correct_answer": "Hen",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A hen makes the sound 'cluck'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "How many legs does a rabbit have?",
       "type": "mcq",
+      "prompt": "How many legs does a rabbit have?",
       "options": {
         "choices": [
-          "4",
-          "0",
-          "2"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "0"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A rabbit has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "What sound does a sheep make?",
       "type": "mcq",
+      "prompt": "What sound does a sheep make?",
       "options": {
         "choices": [
-          "Baa",
-          "Roar",
-          "Oink"
+          {
+            "id": "c1",
+            "text": "Baa"
+          },
+          {
+            "id": "c2",
+            "text": "Roar"
+          },
+          {
+            "id": "c3",
+            "text": "Oink"
+          }
         ]
       },
-      "correct_answer": "Baa",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A sheep says 'baa'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Which animal makes the sound “Crow”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Crow”?",
       "options": {
         "choices": [
-          "Dog",
-          "Cock",
-          "Monkey"
+          {
+            "id": "c1",
+            "text": "Dog"
+          },
+          {
+            "id": "c2",
+            "text": "Cock"
+          },
+          {
+            "id": "c3",
+            "text": "Monkey"
+          }
         ]
       },
-      "correct_answer": "Cock",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A cock makes the sound 'crow'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which of these is a wild animal?",
       "type": "mcq",
+      "prompt": "Which of these is a wild animal?",
       "options": {
         "choices": [
-          "Rabbit",
-          "Cow",
-          "Lion"
+          {
+            "id": "c1",
+            "text": "Rabbit"
+          },
+          {
+            "id": "c2",
+            "text": "Cow"
+          },
+          {
+            "id": "c3",
+            "text": "Lion"
+          }
         ]
       },
-      "correct_answer": "Lion",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A lion is a wild animal.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "What is the body of a fish covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a fish covered with?",
       "options": {
         "choices": [
-          "Wool",
-          "Scales",
-          "Hair"
+          {
+            "id": "c1",
+            "text": "Wool"
+          },
+          {
+            "id": "c2",
+            "text": "Scales"
+          },
+          {
+            "id": "c3",
+            "text": "Hair"
+          }
         ]
       },
-      "correct_answer": "Scales",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A fish's body is covered with scales.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "How many legs does a bee have?",
       "type": "mcq",
+      "prompt": "How many legs does a bee have?",
       "options": {
         "choices": [
-          "4",
-          "0",
-          "6"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "0"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "6",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A bee has 6 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "What sound does a bee make?",
       "type": "mcq",
+      "prompt": "What sound does a bee make?",
       "options": {
         "choices": [
-          "Hiss",
-          "Trumpet",
-          "Buzz"
+          {
+            "id": "c1",
+            "text": "Hiss"
+          },
+          {
+            "id": "c2",
+            "text": "Trumpet"
+          },
+          {
+            "id": "c3",
+            "text": "Buzz"
+          }
         ]
       },
-      "correct_answer": "Buzz",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A bee says 'buzz'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which animal makes the sound “Chirp”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Chirp”?",
       "options": {
         "choices": [
-          "Goat",
-          "Bird",
-          "Dog"
+          {
+            "id": "c1",
+            "text": "Goat"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Dog"
+          }
         ]
       },
-      "correct_answer": "Bird",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A bird makes the sound 'chirp'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "What is the baby of a cock called?",
       "type": "mcq",
+      "prompt": "What is the baby of a cock called?",
       "options": {
         "choices": [
-          "Tadpole",
-          "Chick",
-          "Duckling"
+          {
+            "id": "c1",
+            "text": "Tadpole"
+          },
+          {
+            "id": "c2",
+            "text": "Chick"
+          },
+          {
+            "id": "c3",
+            "text": "Duckling"
+          }
         ]
       },
-      "correct_answer": "Chick",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A baby cock is called a chick.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "What is the baby of a hen called?",
       "type": "mcq",
+      "prompt": "What is the baby of a hen called?",
       "options": {
         "choices": [
-          "Piglet",
-          "Chick",
-          "Foal"
+          {
+            "id": "c1",
+            "text": "Piglet"
+          },
+          {
+            "id": "c2",
+            "text": "Chick"
+          },
+          {
+            "id": "c3",
+            "text": "Foal"
+          }
         ]
       },
-      "correct_answer": "Chick",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A baby hen is called a chick.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "What sound does a horse make?",
       "type": "mcq",
+      "prompt": "What sound does a horse make?",
       "options": {
         "choices": [
-          "Trumpet",
-          "Neigh",
-          "Roar"
+          {
+            "id": "c1",
+            "text": "Trumpet"
+          },
+          {
+            "id": "c2",
+            "text": "Neigh"
+          },
+          {
+            "id": "c3",
+            "text": "Roar"
+          }
         ]
       },
-      "correct_answer": "Neigh",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A horse says 'neigh'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "What sound does a dog make?",
       "type": "mcq",
+      "prompt": "What sound does a dog make?",
       "options": {
         "choices": [
-          "Hiss",
-          "Oink",
-          "Bark"
+          {
+            "id": "c1",
+            "text": "Hiss"
+          },
+          {
+            "id": "c2",
+            "text": "Oink"
+          },
+          {
+            "id": "c3",
+            "text": "Bark"
+          }
         ]
       },
-      "correct_answer": "Bark",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A dog says 'bark'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Where does a sheep live?",
       "type": "mcq",
+      "prompt": "Where does a sheep live?",
       "options": {
         "choices": [
-          "Coop",
-          "Shed",
-          "Pen"
+          {
+            "id": "c1",
+            "text": "Coop"
+          },
+          {
+            "id": "c2",
+            "text": "Shed"
+          },
+          {
+            "id": "c3",
+            "text": "Pen"
+          }
         ]
       },
-      "correct_answer": "Pen",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A sheep lives in a pen.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "How many legs does a lion have?",
       "type": "mcq",
+      "prompt": "How many legs does a lion have?",
       "options": {
         "choices": [
-          "2",
-          "6",
-          "4"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A lion has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which of these is a farm animal?",
       "type": "mcq",
+      "prompt": "Which of these is a farm animal?",
       "options": {
         "choices": [
-          "Monkey",
-          "Cow",
-          "Tiger"
+          {
+            "id": "c1",
+            "text": "Monkey"
+          },
+          {
+            "id": "c2",
+            "text": "Cow"
+          },
+          {
+            "id": "c3",
+            "text": "Tiger"
+          }
         ]
       },
-      "correct_answer": "Cow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A cow is a farm animal.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "What is the baby of a frog called?",
       "type": "mcq",
+      "prompt": "What is the baby of a frog called?",
       "options": {
         "choices": [
-          "Tadpole",
-          "Kid",
-          "Lamb"
+          {
+            "id": "c1",
+            "text": "Tadpole"
+          },
+          {
+            "id": "c2",
+            "text": "Kid"
+          },
+          {
+            "id": "c3",
+            "text": "Lamb"
+          }
         ]
       },
-      "correct_answer": "Tadpole",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A baby frog is called a tadpole.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which animal makes the sound “Hiss”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Hiss”?",
       "options": {
         "choices": [
-          "Cock",
-          "Snake",
-          "Elephant"
+          {
+            "id": "c1",
+            "text": "Cock"
+          },
+          {
+            "id": "c2",
+            "text": "Snake"
+          },
+          {
+            "id": "c3",
+            "text": "Elephant"
+          }
         ]
       },
-      "correct_answer": "Snake",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A snake makes the sound 'hiss'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "What is the baby of a elephant called?",
       "type": "mcq",
+      "prompt": "What is the baby of a elephant called?",
       "options": {
         "choices": [
-          "Kit",
-          "Calf",
-          "Tadpole"
+          {
+            "id": "c1",
+            "text": "Kit"
+          },
+          {
+            "id": "c2",
+            "text": "Calf"
+          },
+          {
+            "id": "c3",
+            "text": "Tadpole"
+          }
         ]
       },
-      "correct_answer": "Calf",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A baby elephant is called a calf.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "What is the body of a tiger covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a tiger covered with?",
       "options": {
         "choices": [
-          "Wool",
-          "Fur",
-          "Hair"
+          {
+            "id": "c1",
+            "text": "Wool"
+          },
+          {
+            "id": "c2",
+            "text": "Fur"
+          },
+          {
+            "id": "c3",
+            "text": "Hair"
+          }
         ]
       },
-      "correct_answer": "Fur",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A tiger's body is covered with fur.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "What sound does a pig make?",
       "type": "mcq",
+      "prompt": "What sound does a pig make?",
       "options": {
         "choices": [
-          "Cluck",
-          "Oink",
-          "Hiss"
+          {
+            "id": "c1",
+            "text": "Cluck"
+          },
+          {
+            "id": "c2",
+            "text": "Oink"
+          },
+          {
+            "id": "c3",
+            "text": "Hiss"
+          }
         ]
       },
-      "correct_answer": "Oink",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A pig says 'oink'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which of these animals can fly?",
       "type": "mcq",
+      "prompt": "Which of these animals can fly?",
       "options": {
         "choices": [
-          "Duck",
-          "Lion",
-          "Rabbit"
+          {
+            "id": "c1",
+            "text": "Duck"
+          },
+          {
+            "id": "c2",
+            "text": "Lion"
+          },
+          {
+            "id": "c3",
+            "text": "Rabbit"
+          }
         ]
       },
-      "correct_answer": "Duck",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A duck can fly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "How many legs does a monkey have?",
       "type": "mcq",
+      "prompt": "How many legs does a monkey have?",
       "options": {
         "choices": [
-          "0",
-          "4",
-          "6"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A monkey has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Where does a goat live?",
       "type": "mcq",
+      "prompt": "Where does a goat live?",
       "options": {
         "choices": [
-          "Den",
-          "Pen",
-          "Shed"
+          {
+            "id": "c1",
+            "text": "Den"
+          },
+          {
+            "id": "c2",
+            "text": "Pen"
+          },
+          {
+            "id": "c3",
+            "text": "Shed"
+          }
         ]
       },
-      "correct_answer": "Shed",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A goat lives in a shed.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "How many legs does a cock have?",
       "type": "mcq",
+      "prompt": "How many legs does a cock have?",
       "options": {
         "choices": [
-          "2",
-          "6",
-          "8"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "6"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cock has 2 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "What is the body of a monkey covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a monkey covered with?",
       "options": {
         "choices": [
-          "Feathers",
-          "Fur",
-          "Scales"
+          {
+            "id": "c1",
+            "text": "Feathers"
+          },
+          {
+            "id": "c2",
+            "text": "Fur"
+          },
+          {
+            "id": "c3",
+            "text": "Scales"
+          }
         ]
       },
-      "correct_answer": "Fur",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A monkey's body is covered with fur.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "What is the baby of a sheep called?",
       "type": "mcq",
+      "prompt": "What is the baby of a sheep called?",
       "options": {
         "choices": [
-          "Cub",
-          "Kitten",
-          "Lamb"
+          {
+            "id": "c1",
+            "text": "Cub"
+          },
+          {
+            "id": "c2",
+            "text": "Kitten"
+          },
+          {
+            "id": "c3",
+            "text": "Lamb"
+          }
         ]
       },
-      "correct_answer": "Lamb",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A baby sheep is called a lamb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "How many legs does a goat have?",
       "type": "mcq",
+      "prompt": "How many legs does a goat have?",
       "options": {
         "choices": [
-          "0",
-          "2",
-          "4"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "4"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A goat has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "What sound does a lion make?",
       "type": "mcq",
+      "prompt": "What sound does a lion make?",
       "options": {
         "choices": [
-          "Roar",
-          "Baa",
-          "Croak"
+          {
+            "id": "c1",
+            "text": "Roar"
+          },
+          {
+            "id": "c2",
+            "text": "Baa"
+          },
+          {
+            "id": "c3",
+            "text": "Croak"
+          }
         ]
       },
-      "correct_answer": "Roar",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A lion says 'roar'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which of these animals lives in water?",
       "type": "mcq",
+      "prompt": "Which of these animals lives in water?",
       "options": {
         "choices": [
-          "Pig",
-          "Rabbit",
-          "Duck"
+          {
+            "id": "c1",
+            "text": "Pig"
+          },
+          {
+            "id": "c2",
+            "text": "Rabbit"
+          },
+          {
+            "id": "c3",
+            "text": "Duck"
+          }
         ]
       },
-      "correct_answer": "Duck",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A duck can live in water.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Where does a monkey live?",
       "type": "mcq",
+      "prompt": "Where does a monkey live?",
       "options": {
         "choices": [
-          "Tree",
-          "Stable",
-          "Hive"
+          {
+            "id": "c1",
+            "text": "Tree"
+          },
+          {
+            "id": "c2",
+            "text": "Stable"
+          },
+          {
+            "id": "c3",
+            "text": "Hive"
+          }
         ]
       },
-      "correct_answer": "Tree",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A monkey lives in a tree.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "What is the baby of a bird called?",
       "type": "mcq",
+      "prompt": "What is the baby of a bird called?",
       "options": {
         "choices": [
-          "Kit",
-          "Foal",
-          "Chick"
+          {
+            "id": "c1",
+            "text": "Kit"
+          },
+          {
+            "id": "c2",
+            "text": "Foal"
+          },
+          {
+            "id": "c3",
+            "text": "Chick"
+          }
         ]
       },
-      "correct_answer": "Chick",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A baby bird is called a chick.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "What sound does a snake make?",
       "type": "mcq",
+      "prompt": "What sound does a snake make?",
       "options": {
         "choices": [
-          "Roar",
-          "Hiss",
-          "Chirp"
+          {
+            "id": "c1",
+            "text": "Roar"
+          },
+          {
+            "id": "c2",
+            "text": "Hiss"
+          },
+          {
+            "id": "c3",
+            "text": "Chirp"
+          }
         ]
       },
-      "correct_answer": "Hiss",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A snake says 'hiss'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which animal makes the sound “Croak”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Croak”?",
       "options": {
         "choices": [
-          "Cat",
-          "Bird",
-          "Frog"
+          {
+            "id": "c1",
+            "text": "Cat"
+          },
+          {
+            "id": "c2",
+            "text": "Bird"
+          },
+          {
+            "id": "c3",
+            "text": "Frog"
+          }
         ]
       },
-      "correct_answer": "Frog",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A frog makes the sound 'croak'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which animal makes the sound “Buzz”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Buzz”?",
       "options": {
         "choices": [
-          "Frog",
-          "Cat",
-          "Bee"
+          {
+            "id": "c1",
+            "text": "Frog"
+          },
+          {
+            "id": "c2",
+            "text": "Cat"
+          },
+          {
+            "id": "c3",
+            "text": "Bee"
+          }
         ]
       },
-      "correct_answer": "Bee",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A bee makes the sound 'buzz'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "How many legs does a snake have?",
       "type": "mcq",
+      "prompt": "How many legs does a snake have?",
       "options": {
         "choices": [
-          "2",
-          "4",
-          "0"
+          {
+            "id": "c1",
+            "text": "2"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "0"
+          }
         ]
       },
-      "correct_answer": "0",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A snake has 0 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "What sound does a cock make?",
       "type": "mcq",
+      "prompt": "What sound does a cock make?",
       "options": {
         "choices": [
-          "Crow",
-          "Hiss",
-          "Moo"
+          {
+            "id": "c1",
+            "text": "Crow"
+          },
+          {
+            "id": "c2",
+            "text": "Hiss"
+          },
+          {
+            "id": "c3",
+            "text": "Moo"
+          }
         ]
       },
-      "correct_answer": "Crow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cock says 'crow'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "What is the body of a sheep covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a sheep covered with?",
       "options": {
         "choices": [
-          "Wool",
-          "Skin",
-          "Scales"
+          {
+            "id": "c1",
+            "text": "Wool"
+          },
+          {
+            "id": "c2",
+            "text": "Skin"
+          },
+          {
+            "id": "c3",
+            "text": "Scales"
+          }
         ]
       },
-      "correct_answer": "Wool",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A sheep's body is covered with wool.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Where does a cow live?",
       "type": "mcq",
+      "prompt": "Where does a cow live?",
       "options": {
         "choices": [
-          "Shed",
-          "Sty",
-          "Tree"
+          {
+            "id": "c1",
+            "text": "Shed"
+          },
+          {
+            "id": "c2",
+            "text": "Sty"
+          },
+          {
+            "id": "c3",
+            "text": "Tree"
+          }
         ]
       },
-      "correct_answer": "Shed",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cow lives in a shed.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "What is the baby of a lion called?",
       "type": "mcq",
+      "prompt": "What is the baby of a lion called?",
       "options": {
         "choices": [
-          "Lamb",
-          "Piglet",
-          "Cub"
+          {
+            "id": "c1",
+            "text": "Lamb"
+          },
+          {
+            "id": "c2",
+            "text": "Piglet"
+          },
+          {
+            "id": "c3",
+            "text": "Cub"
+          }
         ]
       },
-      "correct_answer": "Cub",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A baby lion is called a cub.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Where does a cock live?",
       "type": "mcq",
+      "prompt": "Where does a cock live?",
       "options": {
         "choices": [
-          "Shed",
-          "Coop",
-          "Tree"
+          {
+            "id": "c1",
+            "text": "Shed"
+          },
+          {
+            "id": "c2",
+            "text": "Coop"
+          },
+          {
+            "id": "c3",
+            "text": "Tree"
+          }
         ]
       },
-      "correct_answer": "Coop",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A cock lives in a coop.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "What is the baby of a goat called?",
       "type": "mcq",
+      "prompt": "What is the baby of a goat called?",
       "options": {
         "choices": [
-          "Kitten",
-          "Kid",
-          "Piglet"
+          {
+            "id": "c1",
+            "text": "Kitten"
+          },
+          {
+            "id": "c2",
+            "text": "Kid"
+          },
+          {
+            "id": "c3",
+            "text": "Piglet"
+          }
         ]
       },
-      "correct_answer": "Kid",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A baby goat is called a kid.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "What sound does a elephant make?",
       "type": "mcq",
+      "prompt": "What sound does a elephant make?",
       "options": {
         "choices": [
-          "Bleat",
-          "Trumpet",
-          "Hiss"
+          {
+            "id": "c1",
+            "text": "Bleat"
+          },
+          {
+            "id": "c2",
+            "text": "Trumpet"
+          },
+          {
+            "id": "c3",
+            "text": "Hiss"
+          }
         ]
       },
-      "correct_answer": "Trumpet",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A elephant says 'trumpet'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "What sound does a cow make?",
       "type": "mcq",
+      "prompt": "What sound does a cow make?",
       "options": {
         "choices": [
-          "Moo",
-          "Bark",
-          "Croak"
+          {
+            "id": "c1",
+            "text": "Moo"
+          },
+          {
+            "id": "c2",
+            "text": "Bark"
+          },
+          {
+            "id": "c3",
+            "text": "Croak"
+          }
         ]
       },
-      "correct_answer": "Moo",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cow says 'moo'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "What sound does a duck make?",
       "type": "mcq",
+      "prompt": "What sound does a duck make?",
       "options": {
         "choices": [
-          "Moo",
-          "Oink",
-          "Quack"
+          {
+            "id": "c1",
+            "text": "Moo"
+          },
+          {
+            "id": "c2",
+            "text": "Oink"
+          },
+          {
+            "id": "c3",
+            "text": "Quack"
+          }
         ]
       },
-      "correct_answer": "Quack",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A duck says 'quack'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which animal makes the sound “Meow”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Meow”?",
       "options": {
         "choices": [
-          "Cow",
-          "Cat",
-          "Elephant"
+          {
+            "id": "c1",
+            "text": "Cow"
+          },
+          {
+            "id": "c2",
+            "text": "Cat"
+          },
+          {
+            "id": "c3",
+            "text": "Elephant"
+          }
         ]
       },
-      "correct_answer": "Cat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A cat makes the sound 'meow'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "What is the body of a bird covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a bird covered with?",
       "options": {
         "choices": [
-          "Scales",
-          "Feathers",
-          "Hair"
+          {
+            "id": "c1",
+            "text": "Scales"
+          },
+          {
+            "id": "c2",
+            "text": "Feathers"
+          },
+          {
+            "id": "c3",
+            "text": "Hair"
+          }
         ]
       },
-      "correct_answer": "Feathers",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A bird's body is covered with feathers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "How many legs does a duck have?",
       "type": "mcq",
+      "prompt": "How many legs does a duck have?",
       "options": {
         "choices": [
-          "0",
-          "4",
-          "2"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "2",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A duck has 2 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which animal makes the sound “Roar”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Roar”?",
       "options": {
         "choices": [
-          "Cow",
-          "Fish",
-          "Lion"
+          {
+            "id": "c1",
+            "text": "Cow"
+          },
+          {
+            "id": "c2",
+            "text": "Fish"
+          },
+          {
+            "id": "c3",
+            "text": "Lion"
+          }
         ]
       },
-      "correct_answer": "Lion",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A lion makes the sound 'roar'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "What sound does a tiger make?",
       "type": "mcq",
+      "prompt": "What sound does a tiger make?",
       "options": {
         "choices": [
-          "Roar",
-          "Oink",
-          "Crow"
+          {
+            "id": "c1",
+            "text": "Roar"
+          },
+          {
+            "id": "c2",
+            "text": "Oink"
+          },
+          {
+            "id": "c3",
+            "text": "Crow"
+          }
         ]
       },
-      "correct_answer": "Roar",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A tiger says 'roar'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "How many legs does a cat have?",
       "type": "mcq",
+      "prompt": "How many legs does a cat have?",
       "options": {
         "choices": [
-          "6",
-          "4",
-          "8"
+          {
+            "id": "c1",
+            "text": "6"
+          },
+          {
+            "id": "c2",
+            "text": "4"
+          },
+          {
+            "id": "c3",
+            "text": "8"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A cat has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Where does a cat live?",
       "type": "mcq",
+      "prompt": "Where does a cat live?",
       "options": {
         "choices": [
-          "House",
-          "Shed",
-          "Hole"
+          {
+            "id": "c1",
+            "text": "House"
+          },
+          {
+            "id": "c2",
+            "text": "Shed"
+          },
+          {
+            "id": "c3",
+            "text": "Hole"
+          }
         ]
       },
-      "correct_answer": "House",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cat lives in a house.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "What is the baby of a horse called?",
       "type": "mcq",
+      "prompt": "What is the baby of a horse called?",
       "options": {
         "choices": [
-          "Cub",
-          "Lamb",
-          "Foal"
+          {
+            "id": "c1",
+            "text": "Cub"
+          },
+          {
+            "id": "c2",
+            "text": "Lamb"
+          },
+          {
+            "id": "c3",
+            "text": "Foal"
+          }
         ]
       },
-      "correct_answer": "Foal",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A baby horse is called a foal.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which animal makes the sound “Baa”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Baa”?",
       "options": {
         "choices": [
-          "Cow",
-          "Sheep",
-          "Horse"
+          {
+            "id": "c1",
+            "text": "Cow"
+          },
+          {
+            "id": "c2",
+            "text": "Sheep"
+          },
+          {
+            "id": "c3",
+            "text": "Horse"
+          }
         ]
       },
-      "correct_answer": "Sheep",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A sheep makes the sound 'baa'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "What is the baby of a cow called?",
       "type": "mcq",
+      "prompt": "What is the baby of a cow called?",
       "options": {
         "choices": [
-          "Calf",
-          "Kitten",
-          "Lamb"
+          {
+            "id": "c1",
+            "text": "Calf"
+          },
+          {
+            "id": "c2",
+            "text": "Kitten"
+          },
+          {
+            "id": "c3",
+            "text": "Lamb"
+          }
         ]
       },
-      "correct_answer": "Calf",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A baby cow is called a calf.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which animal makes the sound “Neigh”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Neigh”?",
       "options": {
         "choices": [
-          "Lion",
-          "Sheep",
-          "Horse"
+          {
+            "id": "c1",
+            "text": "Lion"
+          },
+          {
+            "id": "c2",
+            "text": "Sheep"
+          },
+          {
+            "id": "c3",
+            "text": "Horse"
+          }
         ]
       },
-      "correct_answer": "Horse",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A horse makes the sound 'neigh'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "How many legs does a horse have?",
       "type": "mcq",
+      "prompt": "How many legs does a horse have?",
       "options": {
         "choices": [
-          "4",
-          "0",
-          "6"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "0"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A horse has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "What is the body of a cat covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a cat covered with?",
       "options": {
         "choices": [
-          "Fur",
-          "Feathers",
-          "Scales"
+          {
+            "id": "c1",
+            "text": "Fur"
+          },
+          {
+            "id": "c2",
+            "text": "Feathers"
+          },
+          {
+            "id": "c3",
+            "text": "Scales"
+          }
         ]
       },
-      "correct_answer": "Fur",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A cat's body is covered with fur.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "What is the body of a lion covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a lion covered with?",
       "options": {
         "choices": [
-          "Hair",
-          "Fur",
-          "Scales"
+          {
+            "id": "c1",
+            "text": "Hair"
+          },
+          {
+            "id": "c2",
+            "text": "Fur"
+          },
+          {
+            "id": "c3",
+            "text": "Scales"
+          }
         ]
       },
-      "correct_answer": "Fur",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A lion's body is covered with fur.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which animal makes the sound “Moo”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Moo”?",
       "options": {
         "choices": [
-          "Pig",
-          "Cow",
-          "Cock"
+          {
+            "id": "c1",
+            "text": "Pig"
+          },
+          {
+            "id": "c2",
+            "text": "Cow"
+          },
+          {
+            "id": "c3",
+            "text": "Cock"
+          }
         ]
       },
-      "correct_answer": "Cow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A cow makes the sound 'moo'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "What is the body of a frog covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a frog covered with?",
       "options": {
         "choices": [
-          "Scales",
-          "Fur",
-          "Skin"
+          {
+            "id": "c1",
+            "text": "Scales"
+          },
+          {
+            "id": "c2",
+            "text": "Fur"
+          },
+          {
+            "id": "c3",
+            "text": "Skin"
+          }
         ]
       },
-      "correct_answer": "Skin",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A frog's body is covered with skin.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "What is the baby of a rabbit called?",
       "type": "mcq",
+      "prompt": "What is the baby of a rabbit called?",
       "options": {
         "choices": [
-          "Kit",
-          "Baby",
-          "Chick"
+          {
+            "id": "c1",
+            "text": "Kit"
+          },
+          {
+            "id": "c2",
+            "text": "Baby"
+          },
+          {
+            "id": "c3",
+            "text": "Chick"
+          }
         ]
       },
-      "correct_answer": "Kit",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A baby rabbit is called a kit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "How many legs does a fish have?",
       "type": "mcq",
+      "prompt": "How many legs does a fish have?",
       "options": {
         "choices": [
-          "0",
-          "2",
-          "6"
+          {
+            "id": "c1",
+            "text": "0"
+          },
+          {
+            "id": "c2",
+            "text": "2"
+          },
+          {
+            "id": "c3",
+            "text": "6"
+          }
         ]
       },
-      "correct_answer": "0",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A fish has 0 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Where does a bird live?",
       "type": "mcq",
+      "prompt": "Where does a bird live?",
       "options": {
         "choices": [
-          "Kennel",
-          "Nest",
-          "Water"
+          {
+            "id": "c1",
+            "text": "Kennel"
+          },
+          {
+            "id": "c2",
+            "text": "Nest"
+          },
+          {
+            "id": "c3",
+            "text": "Water"
+          }
         ]
       },
-      "correct_answer": "Nest",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A bird lives in a nest.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "What is the body of a elephant covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a elephant covered with?",
       "options": {
         "choices": [
-          "Scales",
-          "Skin",
-          "Wool"
+          {
+            "id": "c1",
+            "text": "Scales"
+          },
+          {
+            "id": "c2",
+            "text": "Skin"
+          },
+          {
+            "id": "c3",
+            "text": "Wool"
+          }
         ]
       },
-      "correct_answer": "Skin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A elephant's body is covered with skin.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which animal makes the sound “Bark”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Bark”?",
       "options": {
         "choices": [
-          "Frog",
-          "Dog",
-          "Fish"
+          {
+            "id": "c1",
+            "text": "Frog"
+          },
+          {
+            "id": "c2",
+            "text": "Dog"
+          },
+          {
+            "id": "c3",
+            "text": "Fish"
+          }
         ]
       },
-      "correct_answer": "Dog",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A dog makes the sound 'bark'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "What is the baby of a tiger called?",
       "type": "mcq",
+      "prompt": "What is the baby of a tiger called?",
       "options": {
         "choices": [
-          "Baby",
-          "Kid",
-          "Cub"
+          {
+            "id": "c1",
+            "text": "Baby"
+          },
+          {
+            "id": "c2",
+            "text": "Kid"
+          },
+          {
+            "id": "c3",
+            "text": "Cub"
+          }
         ]
       },
-      "correct_answer": "Cub",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A baby tiger is called a cub.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "What is the baby of a duck called?",
       "type": "mcq",
+      "prompt": "What is the baby of a duck called?",
       "options": {
         "choices": [
-          "Chick",
-          "Duckling",
-          "Foal"
+          {
+            "id": "c1",
+            "text": "Chick"
+          },
+          {
+            "id": "c2",
+            "text": "Duckling"
+          },
+          {
+            "id": "c3",
+            "text": "Foal"
+          }
         ]
       },
-      "correct_answer": "Duckling",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A baby duck is called a duckling.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "How many legs does a pig have?",
       "type": "mcq",
+      "prompt": "How many legs does a pig have?",
       "options": {
         "choices": [
-          "4",
-          "0",
-          "2"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "0"
+          },
+          {
+            "id": "c3",
+            "text": "2"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A pig has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Which animal makes the sound “Oink”?",
       "type": "mcq",
+      "prompt": "Which animal makes the sound “Oink”?",
       "options": {
         "choices": [
-          "Elephant",
-          "Sheep",
-          "Pig"
+          {
+            "id": "c1",
+            "text": "Elephant"
+          },
+          {
+            "id": "c2",
+            "text": "Sheep"
+          },
+          {
+            "id": "c3",
+            "text": "Pig"
+          }
         ]
       },
-      "correct_answer": "Pig",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A pig makes the sound 'oink'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "What sound does a goat make?",
       "type": "mcq",
+      "prompt": "What sound does a goat make?",
       "options": {
         "choices": [
-          "Bleat",
-          "Roar",
-          "Moo"
+          {
+            "id": "c1",
+            "text": "Bleat"
+          },
+          {
+            "id": "c2",
+            "text": "Roar"
+          },
+          {
+            "id": "c3",
+            "text": "Moo"
+          }
         ]
       },
-      "correct_answer": "Bleat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A goat says 'bleat'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "What is the baby of a cat called?",
       "type": "mcq",
+      "prompt": "What is the baby of a cat called?",
       "options": {
         "choices": [
-          "Tadpole",
-          "Kitten",
-          "Foal"
+          {
+            "id": "c1",
+            "text": "Tadpole"
+          },
+          {
+            "id": "c2",
+            "text": "Kitten"
+          },
+          {
+            "id": "c3",
+            "text": "Foal"
+          }
         ]
       },
-      "correct_answer": "Kitten",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A baby cat is called a kitten.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "What is the body of a cow covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a cow covered with?",
       "options": {
         "choices": [
-          "Feathers",
-          "Hair",
-          "Skin"
+          {
+            "id": "c1",
+            "text": "Feathers"
+          },
+          {
+            "id": "c2",
+            "text": "Hair"
+          },
+          {
+            "id": "c3",
+            "text": "Skin"
+          }
         ]
       },
-      "correct_answer": "Hair",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A cow's body is covered with hair.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "What is the body of a duck covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a duck covered with?",
       "options": {
         "choices": [
-          "Skin",
-          "Scales",
-          "Feathers"
+          {
+            "id": "c1",
+            "text": "Skin"
+          },
+          {
+            "id": "c2",
+            "text": "Scales"
+          },
+          {
+            "id": "c3",
+            "text": "Feathers"
+          }
         ]
       },
-      "correct_answer": "Feathers",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A duck's body is covered with feathers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "What is the baby of a dog called?",
       "type": "mcq",
+      "prompt": "What is the baby of a dog called?",
       "options": {
         "choices": [
-          "Kid",
-          "Puppy",
-          "Calf"
+          {
+            "id": "c1",
+            "text": "Kid"
+          },
+          {
+            "id": "c2",
+            "text": "Puppy"
+          },
+          {
+            "id": "c3",
+            "text": "Calf"
+          }
         ]
       },
-      "correct_answer": "Puppy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A baby dog is called a puppy.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "How many legs does a sheep have?",
       "type": "mcq",
+      "prompt": "How many legs does a sheep have?",
       "options": {
         "choices": [
-          "4",
-          "8",
-          "0"
+          {
+            "id": "c1",
+            "text": "4"
+          },
+          {
+            "id": "c2",
+            "text": "8"
+          },
+          {
+            "id": "c3",
+            "text": "0"
+          }
         ]
       },
-      "correct_answer": "4",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A sheep has 4 legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "What is the body of a goat covered with?",
       "type": "mcq",
+      "prompt": "What is the body of a goat covered with?",
       "options": {
         "choices": [
-          "Feathers",
-          "Hair",
-          "Skin"
+          {
+            "id": "c1",
+            "text": "Feathers"
+          },
+          {
+            "id": "c2",
+            "text": "Hair"
+          },
+          {
+            "id": "c3",
+            "text": "Skin"
+          }
         ]
       },
-      "correct_answer": "Hair",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A goat's body is covered with hair.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Where does a bee live?",
       "type": "mcq",
+      "prompt": "Where does a bee live?",
       "options": {
         "choices": [
-          "Hole",
-          "Kennel",
-          "Hive"
+          {
+            "id": "c1",
+            "text": "Hole"
+          },
+          {
+            "id": "c2",
+            "text": "Kennel"
+          },
+          {
+            "id": "c3",
+            "text": "Hive"
+          }
         ]
       },
-      "correct_answer": "Hive",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A bee lives in a hive.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Where does a pig live?",
       "type": "mcq",
+      "prompt": "Where does a pig live?",
       "options": {
         "choices": [
-          "Jungle",
-          "Water",
-          "Sty"
+          {
+            "id": "c1",
+            "text": "Jungle"
+          },
+          {
+            "id": "c2",
+            "text": "Water"
+          },
+          {
+            "id": "c3",
+            "text": "Sty"
+          }
         ]
       },
-      "correct_answer": "Sty",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A pig lives in a sty.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

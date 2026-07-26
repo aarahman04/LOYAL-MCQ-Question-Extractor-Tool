@@ -1,1718 +1,2923 @@
 {
   "_source_file": "level_1_eng_adverb.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "eng-adverb",
-    "title": "Adverbs",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.538Z",
+  "slug": "eng-adverb",
+  "title": "Adverbs",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Sandy walked to the west of the town.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Sandy walked to the west of the town.</span>",
       "options": {
         "choices": [
-          "walked",
-          "west",
-          "Sandy"
+          {
+            "id": "c1",
+            "text": "walked"
+          },
+          {
+            "id": "c2",
+            "text": "west"
+          },
+          {
+            "id": "c3",
+            "text": "Sandy"
+          }
         ]
       },
-      "correct_answer": "west",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'West' indicates the direction/place of the action, making it an adverb here.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Sam went inside the school.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Sam went inside the school.</span>",
       "options": {
         "choices": [
-          "went",
-          "school",
-          "inside"
+          {
+            "id": "c1",
+            "text": "went"
+          },
+          {
+            "id": "c2",
+            "text": "school"
+          },
+          {
+            "id": "c3",
+            "text": "inside"
+          }
         ]
       },
-      "correct_answer": "inside",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Inside' tells where Sam went, making it an adverb of place.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Beth went outside the school.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Beth went outside the school.</span>",
       "options": {
         "choices": [
-          "school",
-          "Beth",
-          "outside"
+          {
+            "id": "c1",
+            "text": "school"
+          },
+          {
+            "id": "c2",
+            "text": "Beth"
+          },
+          {
+            "id": "c3",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "outside",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Outside' tells where Beth went, making it an adverb of place.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>We gladly danced.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>We gladly danced.</span>",
       "options": {
         "choices": [
-          "we",
-          "gladly",
-          "danced."
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "gladly"
+          },
+          {
+            "id": "c3",
+            "text": "danced."
+          }
         ]
       },
-      "correct_answer": "gladly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Gladly' describes the manner in which they danced, making it an adverb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>We gladly jumped in the pool.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>We gladly jumped in the pool.</span>",
       "options": {
         "choices": [
-          "we",
-          "jumped",
-          "gladly"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "jumped"
+          },
+          {
+            "id": "c3",
+            "text": "gladly"
+          }
         ]
       },
-      "correct_answer": "gladly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Gladly' tells how the jumping was done, so it is an adverb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The cat runs fast.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The cat runs fast.</span>",
       "options": {
         "choices": [
-          "The",
-          "runs",
-          "fast"
+          {
+            "id": "c1",
+            "text": "The"
+          },
+          {
+            "id": "c2",
+            "text": "runs"
+          },
+          {
+            "id": "c3",
+            "text": "fast"
+          }
         ]
       },
-      "correct_answer": "fast",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Fast' describes how the cat runs, making it an adverb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The dog runs away.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The dog runs away.</span>",
       "options": {
         "choices": [
-          "The",
-          "away",
-          "runs"
+          {
+            "id": "c1",
+            "text": "The"
+          },
+          {
+            "id": "c2",
+            "text": "away"
+          },
+          {
+            "id": "c3",
+            "text": "runs"
+          }
         ]
       },
-      "correct_answer": "away",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Away' indicates direction/place, telling where the dog runs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The lion eats fast.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The lion eats fast.</span>",
       "options": {
         "choices": [
-          "fast",
-          "The",
-          "Lion."
+          {
+            "id": "c1",
+            "text": "fast"
+          },
+          {
+            "id": "c2",
+            "text": "The"
+          },
+          {
+            "id": "c3",
+            "text": "Lion."
+          }
         ]
       },
-      "correct_answer": "fast",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Fast' indicates the manner or speed of eating, making it an adverb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She talks loudly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She talks loudly.</span>",
       "options": {
         "choices": [
-          "she",
-          "loudly",
-          "talks"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "loudly"
+          },
+          {
+            "id": "c3",
+            "text": "talks"
+          }
         ]
       },
-      "correct_answer": "loudly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Loudly' describes how she talks, making it an adverb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He talks loudly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He talks loudly.</span>",
       "options": {
         "choices": [
-          "she",
-          "loudly",
-          "talks"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "loudly"
+          },
+          {
+            "id": "c3",
+            "text": "talks"
+          }
         ]
       },
-      "correct_answer": "loudly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Loudly' describes how he talks, making it an adverb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>We talked slowly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>We talked slowly.</span>",
       "options": {
         "choices": [
-          "talked",
-          "we",
-          "slowly"
+          {
+            "id": "c1",
+            "text": "talked"
+          },
+          {
+            "id": "c2",
+            "text": "we"
+          },
+          {
+            "id": "c3",
+            "text": "slowly"
+          }
         ]
       },
-      "correct_answer": "slowly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Slowly' tells the manner in which they talked, making it an adverb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She paints peacefully.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She paints peacefully.</span>",
       "options": {
         "choices": [
-          "paints",
-          "peacefully",
-          "she"
+          {
+            "id": "c1",
+            "text": "paints"
+          },
+          {
+            "id": "c2",
+            "text": "peacefully"
+          },
+          {
+            "id": "c3",
+            "text": "she"
+          }
         ]
       },
-      "correct_answer": "peacefully",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Peacefully' describes the manner of painting, making it an adverb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He paints beautifully.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He paints beautifully.</span>",
       "options": {
         "choices": [
-          "paints",
-          "beautifully",
-          "she"
+          {
+            "id": "c1",
+            "text": "paints"
+          },
+          {
+            "id": "c2",
+            "text": "beautifully"
+          },
+          {
+            "id": "c3",
+            "text": "she"
+          }
         ]
       },
-      "correct_answer": "beautifully",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Beautifully' describes how he paints, making it an adverb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He walks slowly to the school.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He walks slowly to the school.</span>",
       "options": {
         "choices": [
-          "He",
-          "walks",
-          "slowly"
+          {
+            "id": "c1",
+            "text": "He"
+          },
+          {
+            "id": "c2",
+            "text": "walks"
+          },
+          {
+            "id": "c3",
+            "text": "slowly"
+          }
         ]
       },
-      "correct_answer": "slowly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Slowly' describes how he walks, making it an adverb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The wind blows gently.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The wind blows gently.</span>",
       "options": {
         "choices": [
-          "wind",
-          "gently",
-          "is"
+          {
+            "id": "c1",
+            "text": "wind"
+          },
+          {
+            "id": "c2",
+            "text": "gently"
+          },
+          {
+            "id": "c3",
+            "text": "is"
+          }
         ]
       },
-      "correct_answer": "gently",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Gently' describes the manner in which the wind blows.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The baby laughs loudly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The baby laughs loudly.</span>",
       "options": {
         "choices": [
-          "baby",
-          "laughs",
-          "loudly"
+          {
+            "id": "c1",
+            "text": "baby"
+          },
+          {
+            "id": "c2",
+            "text": "laughs"
+          },
+          {
+            "id": "c3",
+            "text": "loudly"
+          }
         ]
       },
-      "correct_answer": "loudly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Loudly' describes the manner of laughing, making it an adverb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The woman sings beautifully.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The woman sings beautifully.</span>",
       "options": {
         "choices": [
-          "The",
-          "beautifully",
-          "sings"
+          {
+            "id": "c1",
+            "text": "The"
+          },
+          {
+            "id": "c2",
+            "text": "beautifully"
+          },
+          {
+            "id": "c3",
+            "text": "sings"
+          }
         ]
       },
-      "correct_answer": "beautifully",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Beautifully' tells how the woman sings, making it an adverb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>They eat happily.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>They eat happily.</span>",
       "options": {
         "choices": [
-          "They",
-          "eat",
-          "happily"
+          {
+            "id": "c1",
+            "text": "They"
+          },
+          {
+            "id": "c2",
+            "text": "eat"
+          },
+          {
+            "id": "c3",
+            "text": "happily"
+          }
         ]
       },
-      "correct_answer": "happily",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Happily' shows the manner in which they eat.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Beth eats happily.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Beth eats happily.</span>",
       "options": {
         "choices": [
-          "Beth",
-          "happily",
-          "eats"
+          {
+            "id": "c1",
+            "text": "Beth"
+          },
+          {
+            "id": "c2",
+            "text": "happily"
+          },
+          {
+            "id": "c3",
+            "text": "eats"
+          }
         ]
       },
-      "correct_answer": "happily",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Happily' shows the manner in which Beth eats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The bird flies high.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The bird flies high.</span>",
       "options": {
         "choices": [
-          "the",
-          "high",
-          "flies"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "high"
+          },
+          {
+            "id": "c3",
+            "text": "flies"
+          }
         ]
       },
-      "correct_answer": "high",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'High' acts as an adverb describing where or to what level the bird flies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He reads quietly in the library.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He reads quietly in the library.</span>",
       "options": {
         "choices": [
-          "he",
-          "quietly",
-          "library"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "quietly"
+          },
+          {
+            "id": "c3",
+            "text": "library"
+          }
         ]
       },
-      "correct_answer": "quietly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Quietly' describes the manner of reading.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The children sleep peacefully.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The children sleep peacefully.</span>",
       "options": {
         "choices": [
-          "the",
-          "children",
-          "peacefully"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "children"
+          },
+          {
+            "id": "c3",
+            "text": "peacefully"
+          }
         ]
       },
-      "correct_answer": "peacefully",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Peacefully' describes how the children sleep.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The children cry loudly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The children cry loudly.</span>",
       "options": {
         "choices": [
-          "the",
-          "peacefully",
-          "children",
-          "loudly"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "peacefully"
+          },
+          {
+            "id": "c3",
+            "text": "children"
+          },
+          {
+            "id": "c4",
+            "text": "loudly"
+          }
         ]
       },
-      "correct_answer": "loudly",
+      "answer_key": {
+        "correct": [
+          "c4"
+        ]
+      },
       "explanation": "'Loudly' describes how the children cry.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The children cry slowly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The children cry slowly.</span>",
       "options": {
         "choices": [
-          "slowly",
-          "the",
-          "children"
+          {
+            "id": "c1",
+            "text": "slowly"
+          },
+          {
+            "id": "c2",
+            "text": "the"
+          },
+          {
+            "id": "c3",
+            "text": "children"
+          }
         ]
       },
-      "correct_answer": "slowly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Slowly' describes the manner of crying.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The boys play noisily.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The boys play noisily.</span>",
       "options": {
         "choices": [
-          "noisily",
-          "the",
-          "children"
+          {
+            "id": "c1",
+            "text": "noisily"
+          },
+          {
+            "id": "c2",
+            "text": "the"
+          },
+          {
+            "id": "c3",
+            "text": "children"
+          }
         ]
       },
-      "correct_answer": "noisily",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Noisily' describes how the boys play.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She finishes her homework quickly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She finishes her homework quickly.</span>",
       "options": {
         "choices": [
-          "homework",
-          "quickly",
-          "her"
+          {
+            "id": "c1",
+            "text": "homework"
+          },
+          {
+            "id": "c2",
+            "text": "quickly"
+          },
+          {
+            "id": "c3",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "quickly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Quickly' describes the speed/manner of finishing homework.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>They finish their homework quickly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>They finish their homework quickly.</span>",
       "options": {
         "choices": [
-          "homework",
-          "their",
-          "quickly"
+          {
+            "id": "c1",
+            "text": "homework"
+          },
+          {
+            "id": "c2",
+            "text": "their"
+          },
+          {
+            "id": "c3",
+            "text": "quickly"
+          }
         ]
       },
-      "correct_answer": "quickly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Quickly' describes how they finish their homework.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She speaks softly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She speaks softly.</span>",
       "options": {
         "choices": [
-          "she",
-          "softly",
-          "speaks"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "softly"
+          },
+          {
+            "id": "c3",
+            "text": "speaks"
+          }
         ]
       },
-      "correct_answer": "softly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Softly' describes the manner of speaking.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He speaks gradually.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He speaks gradually.</span>",
       "options": {
         "choices": [
-          "he",
-          "speaks",
-          "gradually"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "speaks"
+          },
+          {
+            "id": "c3",
+            "text": "gradually"
+          }
         ]
       },
-      "correct_answer": "gradually",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Gradually' describes how he speaks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The rain falls heavily.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The rain falls heavily.</span>",
       "options": {
         "choices": [
-          "the",
-          "rain",
-          "heavily"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "rain"
+          },
+          {
+            "id": "c3",
+            "text": "heavily"
+          }
         ]
       },
-      "correct_answer": "heavily",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Heavily' describes how the rain falls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He reads only good books.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He reads only good books.</span>",
       "options": {
         "choices": [
-          "only",
-          "books",
-          "reads"
+          {
+            "id": "c1",
+            "text": "only"
+          },
+          {
+            "id": "c2",
+            "text": "books"
+          },
+          {
+            "id": "c3",
+            "text": "reads"
+          }
         ]
       },
-      "correct_answer": "only",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Only' modifies the adjective 'good' or the action, acting as an adverb.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She usually sings in the shower.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She usually sings in the shower.</span>",
       "options": {
         "choices": [
-          "sings",
-          "usually",
-          "in"
+          {
+            "id": "c1",
+            "text": "sings"
+          },
+          {
+            "id": "c2",
+            "text": "usually"
+          },
+          {
+            "id": "c3",
+            "text": "in"
+          }
         ]
       },
-      "correct_answer": "usually",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Usually' is an adverb of frequency showing how often she sings.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He sat silently.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He sat silently.</span>",
       "options": {
         "choices": [
-          "he",
-          "silently",
-          "sat"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "silently"
+          },
+          {
+            "id": "c3",
+            "text": "sat"
+          }
         ]
       },
-      "correct_answer": "silently",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Silently' describes how he sat.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She sat silently.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She sat silently.</span>",
       "options": {
         "choices": [
-          "she",
-          "sat",
-          "silently"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "sat"
+          },
+          {
+            "id": "c3",
+            "text": "silently"
+          }
         ]
       },
-      "correct_answer": "silently",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Silently' describes how she sat.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The turtle moved slowly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The turtle moved slowly.</span>",
       "options": {
         "choices": [
-          "turtle",
-          "slowly",
-          "the"
+          {
+            "id": "c1",
+            "text": "turtle"
+          },
+          {
+            "id": "c2",
+            "text": "slowly"
+          },
+          {
+            "id": "c3",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "slowly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Slowly' describes how the turtle moved.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The bus left early.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The bus left early.</span>",
       "options": {
         "choices": [
-          "the",
-          "bus",
-          "left",
-          "early"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "bus"
+          },
+          {
+            "id": "c3",
+            "text": "left"
+          },
+          {
+            "id": "c4",
+            "text": "early"
+          }
         ]
       },
-      "correct_answer": "early",
+      "answer_key": {
+        "correct": [
+          "c4"
+        ]
+      },
       "explanation": "'Early' is an adverb of time telling when the bus left.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The cat slept soundly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The cat slept soundly.</span>",
       "options": {
         "choices": [
-          "the",
-          "soundly",
-          "cat"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "soundly"
+          },
+          {
+            "id": "c3",
+            "text": "cat"
+          }
         ]
       },
-      "correct_answer": "soundly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Soundly' describes the manner of sleeping.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The girl swam frantically.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The girl swam frantically.</span>",
       "options": {
         "choices": [
-          "the",
-          "girl",
-          "frantically"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "girl"
+          },
+          {
+            "id": "c3",
+            "text": "frantically"
+          }
         ]
       },
-      "correct_answer": "frantically",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Frantically' describes how the girl swam.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He swims well.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He swims well.</span>",
       "options": {
         "choices": [
-          "he",
-          "well",
-          "swim"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "well"
+          },
+          {
+            "id": "c3",
+            "text": "swim"
+          }
         ]
       },
-      "correct_answer": "well",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Well' describes how he swims.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She sings well.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She sings well.</span>",
       "options": {
         "choices": [
-          "she",
-          "sings",
-          "well"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "sings"
+          },
+          {
+            "id": "c3",
+            "text": "well"
+          }
         ]
       },
-      "correct_answer": "well",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Well' describes how she sings.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The car moved smoothly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The car moved smoothly.</span>",
       "options": {
         "choices": [
-          "smoothly",
-          "car",
-          "moved"
+          {
+            "id": "c1",
+            "text": "smoothly"
+          },
+          {
+            "id": "c2",
+            "text": "car"
+          },
+          {
+            "id": "c3",
+            "text": "moved"
+          }
         ]
       },
-      "correct_answer": "smoothly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Smoothly' describes how the car moved.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She helped willingly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She helped willingly.</span>",
       "options": {
         "choices": [
-          "she",
-          "willingly",
-          "helped"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "willingly"
+          },
+          {
+            "id": "c3",
+            "text": "helped"
+          }
         ]
       },
-      "correct_answer": "willingly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Willingly' shows her manner or readiness to help.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Tom helped willingly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Tom helped willingly.</span>",
       "options": {
         "choices": [
-          "Tom",
-          "helped",
-          "willingly"
+          {
+            "id": "c1",
+            "text": "Tom"
+          },
+          {
+            "id": "c2",
+            "text": "helped"
+          },
+          {
+            "id": "c3",
+            "text": "willingly"
+          }
         ]
       },
-      "correct_answer": "willingly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Willingly' describes how Tom helped.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I am eating now.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I am eating now.</span>",
       "options": {
         "choices": [
-          "I",
-          "am",
-          "now"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "am"
+          },
+          {
+            "id": "c3",
+            "text": "now"
+          }
         ]
       },
-      "correct_answer": "now",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Now' is an adverb of time indicating when the action occurs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Sama came late.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Sama came late.</span>",
       "options": {
         "choices": [
-          "Sama",
-          "late",
-          "came"
+          {
+            "id": "c1",
+            "text": "Sama"
+          },
+          {
+            "id": "c2",
+            "text": "late"
+          },
+          {
+            "id": "c3",
+            "text": "came"
+          }
         ]
       },
-      "correct_answer": "late",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Late' is an adverb of time indicating when Sama arrived.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Tom sat comfortably.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Tom sat comfortably.</span>",
       "options": {
         "choices": [
-          "Tom",
-          "sat",
-          "comfortably"
+          {
+            "id": "c1",
+            "text": "Tom"
+          },
+          {
+            "id": "c2",
+            "text": "sat"
+          },
+          {
+            "id": "c3",
+            "text": "comfortably"
+          }
         ]
       },
-      "correct_answer": "comfortably",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Comfortably' describes how Tom sat.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>George is seriously sick.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>George is seriously sick.</span>",
       "options": {
         "choices": [
-          "George",
-          "seriously",
-          "is"
+          {
+            "id": "c1",
+            "text": "George"
+          },
+          {
+            "id": "c2",
+            "text": "seriously"
+          },
+          {
+            "id": "c3",
+            "text": "is"
+          }
         ]
       },
-      "correct_answer": "seriously",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Seriously' is a degree adverb modifying the adjective 'sick'.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The lion sat calmly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The lion sat calmly.</span>",
       "options": {
         "choices": [
-          "calmly",
-          "sat",
-          "the"
+          {
+            "id": "c1",
+            "text": "calmly"
+          },
+          {
+            "id": "c2",
+            "text": "sat"
+          },
+          {
+            "id": "c3",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "calmly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Calmly' describes how the lion sat.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The tiger looked carefully.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The tiger looked carefully.</span>",
       "options": {
         "choices": [
-          "carefully",
-          "tiger",
-          "the"
+          {
+            "id": "c1",
+            "text": "carefully"
+          },
+          {
+            "id": "c2",
+            "text": "tiger"
+          },
+          {
+            "id": "c3",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "carefully",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Carefully' describes how the tiger looked.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The boys played outside.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The boys played outside.</span>",
       "options": {
         "choices": [
-          "the",
-          "outside",
-          "Played"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "outside"
+          },
+          {
+            "id": "c3",
+            "text": "Played"
+          }
         ]
       },
-      "correct_answer": "outside",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Outside' is an adverb of place indicating where they played.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She will come later.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She will come later.</span>",
       "options": {
         "choices": [
-          "come",
-          "later",
-          "will"
+          {
+            "id": "c1",
+            "text": "come"
+          },
+          {
+            "id": "c2",
+            "text": "later"
+          },
+          {
+            "id": "c3",
+            "text": "will"
+          }
         ]
       },
-      "correct_answer": "later",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Later' is an adverb of time telling when she will come.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He will come later.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He will come later.</span>",
       "options": {
         "choices": [
-          "later",
-          "will",
-          "come"
+          {
+            "id": "c1",
+            "text": "later"
+          },
+          {
+            "id": "c2",
+            "text": "will"
+          },
+          {
+            "id": "c3",
+            "text": "come"
+          }
         ]
       },
-      "correct_answer": "later",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Later' is an adverb of time telling when he will come.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>They will come later.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>They will come later.</span>",
       "options": {
         "choices": [
-          "will",
-          "come",
-          "later"
+          {
+            "id": "c1",
+            "text": "will"
+          },
+          {
+            "id": "c2",
+            "text": "come"
+          },
+          {
+            "id": "c3",
+            "text": "later"
+          }
         ]
       },
-      "correct_answer": "later",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Later' is an adverb of time telling when they will come.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She answered correctly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She answered correctly.</span>",
       "options": {
         "choices": [
-          "answered",
-          "she",
-          "correctly"
+          {
+            "id": "c1",
+            "text": "answered"
+          },
+          {
+            "id": "c2",
+            "text": "she"
+          },
+          {
+            "id": "c3",
+            "text": "correctly"
+          }
         ]
       },
-      "correct_answer": "correctly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Correctly' describes the manner of answering.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He answered correctly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He answered correctly.</span>",
       "options": {
         "choices": [
-          "answered",
-          "correctly",
-          "he"
+          {
+            "id": "c1",
+            "text": "answered"
+          },
+          {
+            "id": "c2",
+            "text": "correctly"
+          },
+          {
+            "id": "c3",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "correctly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Correctly' describes the manner of answering.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>We answered all the questions.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>We answered all the questions.</span>",
       "options": {
         "choices": [
-          "all",
-          "answered",
-          "the"
+          {
+            "id": "c1",
+            "text": "all"
+          },
+          {
+            "id": "c2",
+            "text": "answered"
+          },
+          {
+            "id": "c3",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "all",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'All' modifies the context or noun phrase here, acting contextually as a quantifier/adverbial modifier.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>We often go to the beach.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>We often go to the beach.</span>",
       "options": {
         "choices": [
-          "we",
-          "to",
-          "often"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "to"
+          },
+          {
+            "id": "c3",
+            "text": "often"
+          }
         ]
       },
-      "correct_answer": "often",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Often' is an adverb of frequency stating how frequently they go.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I often go to the beach.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I often go to the beach.</span>",
       "options": {
         "choices": [
-          "often",
-          "I",
-          "to"
+          {
+            "id": "c1",
+            "text": "often"
+          },
+          {
+            "id": "c2",
+            "text": "I"
+          },
+          {
+            "id": "c3",
+            "text": "to"
+          }
         ]
       },
-      "correct_answer": "often",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Often' is an adverb of frequency stating how frequently I go.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The boat sails quickly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The boat sails quickly.</span>",
       "options": {
         "choices": [
-          "boat",
-          "quickly",
-          "the"
+          {
+            "id": "c1",
+            "text": "boat"
+          },
+          {
+            "id": "c2",
+            "text": "quickly"
+          },
+          {
+            "id": "c3",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "quickly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Quickly' describes how the boat sails.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Grandma always brings gifts.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Grandma always brings gifts.</span>",
       "options": {
         "choices": [
-          "grandma",
-          "always",
-          "gifts"
+          {
+            "id": "c1",
+            "text": "grandma"
+          },
+          {
+            "id": "c2",
+            "text": "always"
+          },
+          {
+            "id": "c3",
+            "text": "gifts"
+          }
         ]
       },
-      "correct_answer": "always",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Always' is an adverb of frequency showing regular occurrence.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She talked proudly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She talked proudly.</span>",
       "options": {
         "choices": [
-          "she",
-          "proudly",
-          "talked"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "proudly"
+          },
+          {
+            "id": "c3",
+            "text": "talked"
+          }
         ]
       },
-      "correct_answer": "proudly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Proudly' describes how she spoke.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I swim weekly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I swim weekly.</span>",
       "options": {
         "choices": [
-          "I",
-          "swim",
-          "weekly"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "swim"
+          },
+          {
+            "id": "c3",
+            "text": "weekly"
+          }
         ]
       },
-      "correct_answer": "weekly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Weekly' is an adverb of frequency/time telling how often I swim.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He sleeps upstairs.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He sleeps upstairs.</span>",
       "options": {
         "choices": [
-          "he",
-          "upstairs",
-          "sleeps"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "upstairs"
+          },
+          {
+            "id": "c3",
+            "text": "sleeps"
+          }
         ]
       },
-      "correct_answer": "upstairs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Upstairs' is an adverb of place indicating where he sleeps.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She sleeps downstairs.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She sleeps downstairs.</span>",
       "options": {
         "choices": [
-          "she",
-          "downstairs",
-          "sleeps"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "downstairs"
+          },
+          {
+            "id": "c3",
+            "text": "sleeps"
+          }
         ]
       },
-      "correct_answer": "downstairs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Downstairs' is an adverb of place indicating where she sleeps.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She follows carefully the rules.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She follows carefully the rules.</span>",
       "options": {
         "choices": [
-          "carefully",
-          "she",
-          "follows"
+          {
+            "id": "c1",
+            "text": "carefully"
+          },
+          {
+            "id": "c2",
+            "text": "she"
+          },
+          {
+            "id": "c3",
+            "text": "follows"
+          }
         ]
       },
-      "correct_answer": "carefully",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Carefully' describes how she follows the rules.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He follows carefully the rules.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>He follows carefully the rules.</span>",
       "options": {
         "choices": [
-          "He",
-          "follows",
-          "carefully"
+          {
+            "id": "c1",
+            "text": "He"
+          },
+          {
+            "id": "c2",
+            "text": "follows"
+          },
+          {
+            "id": "c3",
+            "text": "carefully"
+          }
         ]
       },
-      "correct_answer": "carefully",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Carefully' describes how he follows the rules.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Jana writes fast.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Jana writes fast.</span>",
       "options": {
         "choices": [
-          "writes",
-          "Jana",
-          "fast"
+          {
+            "id": "c1",
+            "text": "writes"
+          },
+          {
+            "id": "c2",
+            "text": "Jana"
+          },
+          {
+            "id": "c3",
+            "text": "fast"
+          }
         ]
       },
-      "correct_answer": "fast",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Fast' acts as an adverb describing the speed of writing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Beth writes slowly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Beth writes slowly.</span>",
       "options": {
         "choices": [
-          "writes",
-          "slowly",
-          "Beth"
+          {
+            "id": "c1",
+            "text": "writes"
+          },
+          {
+            "id": "c2",
+            "text": "slowly"
+          },
+          {
+            "id": "c3",
+            "text": "Beth"
+          }
         ]
       },
-      "correct_answer": "slowly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Slowly' describes the speed/manner of writing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The lion appeared suddenly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The lion appeared suddenly.</span>",
       "options": {
         "choices": [
-          "appeared",
-          "suddenly",
-          "lion"
+          {
+            "id": "c1",
+            "text": "appeared"
+          },
+          {
+            "id": "c2",
+            "text": "suddenly"
+          },
+          {
+            "id": "c3",
+            "text": "lion"
+          }
         ]
       },
-      "correct_answer": "suddenly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Suddenly' indicates the unexpected time/manner of appearance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The lion appeared suddenly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The lion appeared suddenly.</span>",
       "options": {
         "choices": [
-          "suddenly",
-          "lion",
-          "appeared"
+          {
+            "id": "c1",
+            "text": "suddenly"
+          },
+          {
+            "id": "c2",
+            "text": "lion"
+          },
+          {
+            "id": "c3",
+            "text": "appeared"
+          }
         ]
       },
-      "correct_answer": "suddenly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Suddenly' describes how or when the lion appeared.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The flag waved above.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The flag waved above.</span>",
       "options": {
         "choices": [
-          "the",
-          "above",
-          "waved"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "above"
+          },
+          {
+            "id": "c3",
+            "text": "waved"
+          }
         ]
       },
-      "correct_answer": "above",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Above' is an adverb of place describing where the flag waved.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The rabbit ran away.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The rabbit ran away.</span>",
       "options": {
         "choices": [
-          "the",
-          "ran",
-          "away"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "ran"
+          },
+          {
+            "id": "c3",
+            "text": "away"
+          }
         ]
       },
-      "correct_answer": "away",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Away' indicates direction or place of movement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The kangaroo ran away.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The kangaroo ran away.</span>",
       "options": {
         "choices": [
-          "away",
-          "the",
-          "ran"
+          {
+            "id": "c1",
+            "text": "away"
+          },
+          {
+            "id": "c2",
+            "text": "the"
+          },
+          {
+            "id": "c3",
+            "text": "ran"
+          }
         ]
       },
-      "correct_answer": "away",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Away' indicates destination or track of movement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Mr Smith writes everywhere.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Mr Smith writes everywhere.</span>",
       "options": {
         "choices": [
-          "everywhere",
-          "Mr",
-          "Smith"
+          {
+            "id": "c1",
+            "text": "everywhere"
+          },
+          {
+            "id": "c2",
+            "text": "Mr"
+          },
+          {
+            "id": "c3",
+            "text": "Smith"
+          }
         ]
       },
-      "correct_answer": "everywhere",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Everywhere' is an adverb of place showing where he writes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I am going today.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I am going today.</span>",
       "options": {
         "choices": [
-          "going",
-          "am",
-          "today"
+          {
+            "id": "c1",
+            "text": "going"
+          },
+          {
+            "id": "c2",
+            "text": "am"
+          },
+          {
+            "id": "c3",
+            "text": "today"
+          }
         ]
       },
-      "correct_answer": "today",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Today' is an adverb of time specifying when the action occurs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I am going later.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I am going later.</span>",
       "options": {
         "choices": [
-          "going",
-          "later",
-          "I"
+          {
+            "id": "c1",
+            "text": "going"
+          },
+          {
+            "id": "c2",
+            "text": "later"
+          },
+          {
+            "id": "c3",
+            "text": "I"
+          }
         ]
       },
-      "correct_answer": "later",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Later' is an adverb of time specifying when the action will occur.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Sandy reads often.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Sandy reads often.</span>",
       "options": {
         "choices": [
-          "reads",
-          "often",
-          "Sandy"
+          {
+            "id": "c1",
+            "text": "reads"
+          },
+          {
+            "id": "c2",
+            "text": "often"
+          },
+          {
+            "id": "c3",
+            "text": "Sandy"
+          }
         ]
       },
-      "correct_answer": "often",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Often' is an adverb of frequency describing reading habits.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Let's sleep now.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Let's sleep now.</span>",
       "options": {
         "choices": [
-          "sleep",
-          "now",
-          "let's"
+          {
+            "id": "c1",
+            "text": "sleep"
+          },
+          {
+            "id": "c2",
+            "text": "now"
+          },
+          {
+            "id": "c3",
+            "text": "let's"
+          }
         ]
       },
-      "correct_answer": "now",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Now' specifies the precise timing of sleep.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Let's sleep later.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Let's sleep later.</span>",
       "options": {
         "choices": [
-          "sleep",
-          "later",
-          "let's"
+          {
+            "id": "c1",
+            "text": "sleep"
+          },
+          {
+            "id": "c2",
+            "text": "later"
+          },
+          {
+            "id": "c3",
+            "text": "let's"
+          }
         ]
       },
-      "correct_answer": "later",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Later' specifies a delayed time to sleep.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She managed the shop well.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She managed the shop well.</span>",
       "options": {
         "choices": [
-          "She",
-          "managed",
-          "well"
+          {
+            "id": "c1",
+            "text": "She"
+          },
+          {
+            "id": "c2",
+            "text": "managed"
+          },
+          {
+            "id": "c3",
+            "text": "well"
+          }
         ]
       },
-      "correct_answer": "well",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Well' describes how successfully she managed the shop.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Mom drives terribly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Mom drives terribly.</span>",
       "options": {
         "choices": [
-          "drives",
-          "terribly",
-          "mom"
+          {
+            "id": "c1",
+            "text": "drives"
+          },
+          {
+            "id": "c2",
+            "text": "terribly"
+          },
+          {
+            "id": "c3",
+            "text": "mom"
+          }
         ]
       },
-      "correct_answer": "terribly",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Terribly' describes the manner of driving.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Grandpa drives terribly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Grandpa drives terribly.</span>",
       "options": {
         "choices": [
-          "terribly",
-          "drives",
-          "Grandpa"
+          {
+            "id": "c1",
+            "text": "terribly"
+          },
+          {
+            "id": "c2",
+            "text": "drives"
+          },
+          {
+            "id": "c3",
+            "text": "Grandpa"
+          }
         ]
       },
-      "correct_answer": "terribly",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Terribly' describes the manner of driving.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Grandpa drives carefully.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Grandpa drives carefully.</span>",
       "options": {
         "choices": [
-          "carefully",
-          "drives",
-          "Grandpa"
+          {
+            "id": "c1",
+            "text": "carefully"
+          },
+          {
+            "id": "c2",
+            "text": "drives"
+          },
+          {
+            "id": "c3",
+            "text": "Grandpa"
+          }
         ]
       },
-      "correct_answer": "carefully",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Carefully' describes the safe manner of driving.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Luca writes nicely.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Luca writes nicely.</span>",
       "options": {
         "choices": [
-          "Luca",
-          "writes",
-          "nicely"
+          {
+            "id": "c1",
+            "text": "Luca"
+          },
+          {
+            "id": "c2",
+            "text": "writes"
+          },
+          {
+            "id": "c3",
+            "text": "nicely"
+          }
         ]
       },
-      "correct_answer": "nicely",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Nicely' describes the quality or manner of writing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Dean writes nicely.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Dean writes nicely.</span>",
       "options": {
         "choices": [
-          "nicely",
-          "Dean",
-          "writes"
+          {
+            "id": "c1",
+            "text": "nicely"
+          },
+          {
+            "id": "c2",
+            "text": "Dean"
+          },
+          {
+            "id": "c3",
+            "text": "writes"
+          }
         ]
       },
-      "correct_answer": "nicely",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Nicely' describes the quality or manner of writing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>John swims fast.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>John swims fast.</span>",
       "options": {
         "choices": [
-          "Swims",
-          "fast",
-          "John"
+          {
+            "id": "c1",
+            "text": "Swims"
+          },
+          {
+            "id": "c2",
+            "text": "fast"
+          },
+          {
+            "id": "c3",
+            "text": "John"
+          }
         ]
       },
-      "correct_answer": "fast",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Fast' indicates the speed of swimming.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I write secretly.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I write secretly.</span>",
       "options": {
         "choices": [
-          "secretly.",
-          "I",
-          "write"
+          {
+            "id": "c1",
+            "text": "secretly."
+          },
+          {
+            "id": "c2",
+            "text": "I"
+          },
+          {
+            "id": "c3",
+            "text": "write"
+          }
         ]
       },
-      "correct_answer": "secretly.",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Secretly' shows the stealthy manner in which writing is done.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The ants moved ahead.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The ants moved ahead.</span>",
       "options": {
         "choices": [
-          "ahead",
-          "ants",
-          "moved"
+          {
+            "id": "c1",
+            "text": "ahead"
+          },
+          {
+            "id": "c2",
+            "text": "ants"
+          },
+          {
+            "id": "c3",
+            "text": "moved"
+          }
         ]
       },
-      "correct_answer": "ahead",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Ahead' is an adverb of direction indicating forward movement.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I will draw now.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>I will draw now.</span>",
       "options": {
         "choices": [
-          "I",
-          "will",
-          "now"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "will"
+          },
+          {
+            "id": "c3",
+            "text": "now"
+          }
         ]
       },
-      "correct_answer": "now",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Now' is an adverb of time.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The car stopped last.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>The car stopped last.</span>",
       "options": {
         "choices": [
-          "car",
-          "last",
-          "stoped"
+          {
+            "id": "c1",
+            "text": "car"
+          },
+          {
+            "id": "c2",
+            "text": "last"
+          },
+          {
+            "id": "c3",
+            "text": "stoped"
+          }
         ]
       },
-      "correct_answer": "last",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Last' acts as an adverb indicating positional order or timing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She always brings her money.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She always brings her money.</span>",
       "options": {
         "choices": [
-          "she",
-          "always",
-          "her"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "always"
+          },
+          {
+            "id": "c3",
+            "text": "her"
+          }
         ]
       },
-      "correct_answer": "always",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Always' tells the continuous frequency of her action.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She drinks fast.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She drinks fast.</span>",
       "options": {
         "choices": [
-          "she",
-          "fast",
-          "drink"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "fast"
+          },
+          {
+            "id": "c3",
+            "text": "drink"
+          }
         ]
       },
-      "correct_answer": "fast",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Fast' tells how speed-focused her drinking action is.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>They eat together.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>They eat together.</span>",
       "options": {
         "choices": [
-          "eat",
-          "they",
-          "together"
+          {
+            "id": "c1",
+            "text": "eat"
+          },
+          {
+            "id": "c2",
+            "text": "they"
+          },
+          {
+            "id": "c3",
+            "text": "together"
+          }
         ]
       },
-      "correct_answer": "together",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Together' tells the unified manner or social configuration of eating.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>They play together.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>They play together.</span>",
       "options": {
         "choices": [
-          "they",
-          "together",
-          "play"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "together"
+          },
+          {
+            "id": "c3",
+            "text": "play"
+          }
         ]
       },
-      "correct_answer": "together",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Together' tells the configuration of playing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Mom works here.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Mom works here.</span>",
       "options": {
         "choices": [
-          "here",
-          "Mom",
-          "works"
+          {
+            "id": "c1",
+            "text": "here"
+          },
+          {
+            "id": "c2",
+            "text": "Mom"
+          },
+          {
+            "id": "c3",
+            "text": "works"
+          }
         ]
       },
-      "correct_answer": "here",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Here' is an adverb of place.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Papa works here.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Papa works here.</span>",
       "options": {
         "choices": [
-          "Papa",
-          "works",
-          "here"
+          {
+            "id": "c1",
+            "text": "Papa"
+          },
+          {
+            "id": "c2",
+            "text": "works"
+          },
+          {
+            "id": "c3",
+            "text": "here"
+          }
         ]
       },
-      "correct_answer": "here",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Here' is an adverb of place.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>They swim together.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>They swim together.</span>",
       "options": {
         "choices": [
-          "They",
-          "swim",
-          "together."
+          {
+            "id": "c1",
+            "text": "They"
+          },
+          {
+            "id": "c2",
+            "text": "swim"
+          },
+          {
+            "id": "c3",
+            "text": "together."
+          }
         ]
       },
-      "correct_answer": "together.",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Together' specifies the relationship or manner of swimming.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Dad works today.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Dad works today.</span>",
       "options": {
         "choices": [
-          "today",
-          "Dad",
-          "works"
+          {
+            "id": "c1",
+            "text": "today"
+          },
+          {
+            "id": "c2",
+            "text": "Dad"
+          },
+          {
+            "id": "c3",
+            "text": "works"
+          }
         ]
       },
-      "correct_answer": "today",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Today' is an adverb of time.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Dad works today.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>Dad works today.</span>",
       "options": {
         "choices": [
-          "Dad",
-          "works",
-          "today"
+          {
+            "id": "c1",
+            "text": "Dad"
+          },
+          {
+            "id": "c2",
+            "text": "works"
+          },
+          {
+            "id": "c3",
+            "text": "today"
+          }
         ]
       },
-      "correct_answer": "today",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Today' specifies when Dad works.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She eats the doughnuts greedily.</span>",
       "type": "mcq",
+      "prompt": "Identify the adverb in the sentence. <br> <span style='color:black;'>She eats the doughnuts greedily.</span>",
       "options": {
         "choices": [
-          "She",
-          "greedily",
-          "doughnuts"
+          {
+            "id": "c1",
+            "text": "She"
+          },
+          {
+            "id": "c2",
+            "text": "greedily"
+          },
+          {
+            "id": "c3",
+            "text": "doughnuts"
+          }
         ]
       },
-      "correct_answer": "greedily",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Greedily' describes the exact, desperate manner of eating.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

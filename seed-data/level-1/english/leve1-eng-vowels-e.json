@@ -1,1717 +1,3559 @@
 {
   "_source_file": "leve1_eng_vowels_E.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "leve1-eng-vowels-e",
-    "title": "Leve1 Eng Vowels E",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.526Z",
+  "slug": "leve1-eng-vowels-e",
+  "title": "Leve1 Eng Vowels E",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": "group",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed gets a pen.<br>\nThe pen is red.<br>\nHe draws ten red hens.<br>\nTed gets a brown pen.<br>\nHe draws a shed for the ten hens.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">1. What does Ted get in the beginning of the story?</span>",
       "type": "mcq",
+      "prompt": "What does Ted get in the beginning of the story?",
       "options": {
         "choices": [
-          "a pen",
-          "a cat",
-          "a mat"
+          {
+            "id": "c1",
+            "text": "a pen"
+          },
+          {
+            "id": "c2",
+            "text": "a cat"
+          },
+          {
+            "id": "c3",
+            "text": "a mat"
+          }
         ]
       },
-      "correct_answer": "a pen",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "At the start of the story, Ted gets a pen.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 1
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/1.png"
+      },
+      "order_index": 1,
+      "passage_id": "p1"
     },
     {
       "slug": "q002",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed gets a pen.<br>\nThe pen is red.<br>\nHe draws ten red hens.<br>\nThen, Ted gets a brown pen.<br>\nHe draws a shed for the ten hens.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">2. What color was the pen used to draw the hens?</span>",
       "type": "mcq",
+      "prompt": "What color was the pen used to draw the hens?",
       "options": {
         "choices": [
-          "yellow",
-          "red",
-          "black"
+          {
+            "id": "c1",
+            "text": "yellow"
+          },
+          {
+            "id": "c2",
+            "text": "red"
+          },
+          {
+            "id": "c3",
+            "text": "black"
+          }
         ]
       },
-      "correct_answer": "red",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ted used the red pen to draw the ten red hens.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 2
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/1.png"
+      },
+      "order_index": 2,
+      "passage_id": "p1"
     },
     {
       "slug": "q003",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed gets a pen.<br>\nThe pen is red.<br>\nHe draws ten red hens.<br>\nThen, Ted gets a brown pen.<br>\nHe draws a shed for the ten hens.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">3. How many hens did Ted draw?</span>",
       "type": "mcq",
+      "prompt": "How many hens did Ted draw?",
       "options": {
         "choices": [
-          "five",
-          "ten",
-          "zero"
+          {
+            "id": "c1",
+            "text": "five"
+          },
+          {
+            "id": "c2",
+            "text": "ten"
+          },
+          {
+            "id": "c3",
+            "text": "zero"
+          }
         ]
       },
-      "correct_answer": "ten",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says Ted drew ten red hens.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 3
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/1.png"
+      },
+      "order_index": 3,
+      "passage_id": "p1"
     },
     {
       "slug": "q004",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed gets a pen.<br>\nThe pen is red.<br>\nHe draws ten red hens.<br>\nThen, Ted gets a brown pen.<br>\nHe draws a shed for the ten hens.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">4. What color was the first pen?</span>",
       "type": "mcq",
+      "prompt": "What color was the first pen?",
       "options": {
         "choices": [
-          "yellow",
-          "red",
-          "black"
+          {
+            "id": "c1",
+            "text": "yellow"
+          },
+          {
+            "id": "c2",
+            "text": "red"
+          },
+          {
+            "id": "c3",
+            "text": "black"
+          }
         ]
       },
-      "correct_answer": "red",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The first pen Ted got was red: 'The pen is red.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 4
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/1.png"
+      },
+      "order_index": 4,
+      "passage_id": "p1"
     },
     {
       "slug": "q005",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed gets a pen.<br>\nThe pen is red.<br>\nHe draws ten red hens.<br>\nThen, Ted gets a brown pen.<br>\nHe draws a shed for the ten hens.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">5. What does Ted do with the brown pen?</span>",
       "type": "mcq",
+      "prompt": "What does Ted do with the brown pen?",
       "options": {
         "choices": [
-          "draws a few lines",
-          "draws ashes",
-          "draws a shed"
+          {
+            "id": "c1",
+            "text": "draws a few lines"
+          },
+          {
+            "id": "c2",
+            "text": "draws ashes"
+          },
+          {
+            "id": "c3",
+            "text": "draws a shed"
+          }
         ]
       },
-      "correct_answer": "draws a shed",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Ted used the brown pen to draw a shed for the ten hens.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 5
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/1.png"
+      },
+      "order_index": 5,
+      "passage_id": "p1"
     },
     {
       "slug": "q006",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed gets a pen.<br>\nThe pen is red.<br>\nHe draws ten red hens.<br>\nThen, Ted gets a brown pen.<br>\nHe draws a shed for the ten hens.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">6. Where would the ten hens sleep?</span>",
       "type": "mcq",
+      "prompt": "Where would the ten hens sleep?",
       "options": {
         "choices": [
-          "in the car",
-          "on the farm",
-          "in the shed"
+          {
+            "id": "c1",
+            "text": "in the car"
+          },
+          {
+            "id": "c2",
+            "text": "on the farm"
+          },
+          {
+            "id": "c3",
+            "text": "in the shed"
+          }
         ]
       },
-      "correct_answer": "in the shed",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Ted drew a shed for the ten hens, so they would sleep in the shed.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 6
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/1.png"
+      },
+      "order_index": 6,
+      "passage_id": "p1"
     },
     {
       "slug": "q007",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed gets a pen.<br>\nThe pen is red.<br>\nHe draws ten red hens.<br>\nThen, Ted gets a brown pen.<br>\nHe draws a shed for the ten hens.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">7. How did Ted feel at the end of the story?</span>",
       "type": "mcq",
+      "prompt": "How did Ted feel at the end of the story?",
       "options": {
         "choices": [
-          "sad",
-          "happy",
-          "angry"
+          {
+            "id": "c1",
+            "text": "sad"
+          },
+          {
+            "id": "c2",
+            "text": "happy"
+          },
+          {
+            "id": "c3",
+            "text": "angry"
+          }
         ]
       },
-      "correct_answer": "happy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The last line of the story says 'Ted is happy.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 7
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/1.png"
+      },
+      "order_index": 7,
+      "passage_id": "p1"
     },
     {
       "slug": "q008",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed gets a pen.<br>\nThe pen is red.<br>\nHe draws ten red hens.<br>\nThen, Ted gets a brown pen.<br>\nHe draws a shed for the ten hens.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">8. What does Ted do after drawing ten hens?</span>",
       "type": "mcq",
+      "prompt": "What does Ted do after drawing ten hens?",
       "options": {
         "choices": [
-          "he draws a shed",
-          "he draws a bank",
-          "he draws a farm"
+          {
+            "id": "c1",
+            "text": "he draws a shed"
+          },
+          {
+            "id": "c2",
+            "text": "he draws a bank"
+          },
+          {
+            "id": "c3",
+            "text": "he draws a farm"
+          }
         ]
       },
-      "correct_answer": "he draws a shed",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "After drawing the hens, Ted used the brown pen to draw a shed for them.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 8
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/1.png"
+      },
+      "order_index": 8,
+      "passage_id": "p1"
     },
     {
       "slug": "q009",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed gets a pen.<br>\nThe pen is red.<br>\nHe draws ten red hens.<br>\nThen, Ted gets a brown pen.<br>\nHe draws a shed for the ten hens.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">9. What color did Ted use to draw the shed?</span>",
       "type": "mcq",
+      "prompt": "What color did Ted use to draw the shed?",
       "options": {
         "choices": [
-          "yellow pen",
-          "red pen",
-          "brown pen"
+          {
+            "id": "c1",
+            "text": "yellow pen"
+          },
+          {
+            "id": "c2",
+            "text": "red pen"
+          },
+          {
+            "id": "c3",
+            "text": "brown pen"
+          }
         ]
       },
-      "correct_answer": "brown pen",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Ted got a brown pen and used it to draw the shed.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 9
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/1.png"
+      },
+      "order_index": 9,
+      "passage_id": "p1"
     },
     {
       "slug": "q010",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed gets a pen.<br>\nThe pen is red.<br>\nHe draws ten red hens.<br>\nThen, Ted gets a brown pen.<br>\nHe draws a shed for the ten hens.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">10. What is the opposite of happy?</span>",
       "type": "mcq",
+      "prompt": "What is the opposite of happy?",
       "options": {
         "choices": [
-          "writing",
-          "fighting",
-          "sad"
+          {
+            "id": "c1",
+            "text": "writing"
+          },
+          {
+            "id": "c2",
+            "text": "fighting"
+          },
+          {
+            "id": "c3",
+            "text": "sad"
+          }
         ]
       },
-      "correct_answer": "sad",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The opposite of happy is sad.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 10
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/1.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/1.png"
+      },
+      "order_index": 10,
+      "passage_id": "p1"
     },
     {
       "slug": "q011",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a hen.<br>\nTed has a hen.<br>\nThe hen is by the shed.<br>\nThe hen pecks and pecks.<br>\nThe hen must be fed.<br>\nTed feeds the hen.<br>\nHen eats and eats.<br>\nHen is happy.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">11. What is the name of the boy in the story?</span>",
       "type": "mcq",
+      "prompt": "What is the name of the boy in the story?",
       "options": {
         "choices": [
-          "Sam",
-          "Sandy",
-          "Ted"
+          {
+            "id": "c1",
+            "text": "Sam"
+          },
+          {
+            "id": "c2",
+            "text": "Sandy"
+          },
+          {
+            "id": "c3",
+            "text": "Ted"
+          }
         ]
       },
-      "correct_answer": "Ted",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The boy in the story is named Ted.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 11
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/2.png"
+      },
+      "order_index": 11,
+      "passage_id": "p2"
     },
     {
       "slug": "q012",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a hen.<br>\nTed has a hen.<br>\nThe hen is by the shed.<br>\nThe hen pecks and pecks.<br>\nThe hen must be fed.<br>\nTed feeds the hen.<br>\nHen eats and eats.<br>\nHen is happy.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">12. What does Ted see?</span>",
       "type": "mcq",
+      "prompt": "What does Ted see?",
       "options": {
         "choices": [
-          "a girl",
-          "a duck",
-          "a hen"
+          {
+            "id": "c1",
+            "text": "a girl"
+          },
+          {
+            "id": "c2",
+            "text": "a duck"
+          },
+          {
+            "id": "c3",
+            "text": "a hen"
+          }
         ]
       },
-      "correct_answer": "a hen",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story begins with 'Ted sees a hen.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 12
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/2.png"
+      },
+      "order_index": 12,
+      "passage_id": "p2"
     },
     {
       "slug": "q013",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a hen.<br>\nTed has a hen.<br>\nThe hen is by the shed.<br>\nThe hen pecks and pecks.<br>\nThe hen must be fed.<br>\nTed feeds the hen.<br>\nHen eats and eats.<br>\nHen is happy.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">13. Where is the hen?</span>",
       "type": "mcq",
+      "prompt": "Where is the hen?",
       "options": {
         "choices": [
-          "The hen is by the car",
-          "The hen is by the jet",
-          "The hen is by the shed"
+          {
+            "id": "c1",
+            "text": "The hen is by the car"
+          },
+          {
+            "id": "c2",
+            "text": "The hen is by the jet"
+          },
+          {
+            "id": "c3",
+            "text": "The hen is by the shed"
+          }
         ]
       },
-      "correct_answer": "The hen is by the shed",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The hen is by the shed.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 13
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/2.png"
+      },
+      "order_index": 13,
+      "passage_id": "p2"
     },
     {
       "slug": "q014",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a hen.<br>\nTed has a hen.<br>\nThe hen is by the shed.<br>\nThe hen pecks and pecks.<br>\nThe hen must be fed.<br>\nTed feeds the hen.<br>\nHen eats and eats.<br>\nHen is happy.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">14. What does the hen do?</span>",
       "type": "mcq",
+      "prompt": "What does the hen do?",
       "options": {
         "choices": [
-          "The hen cries and cries",
-          "The hen sleeps and sleeps",
-          "The hen pecks and pecks"
+          {
+            "id": "c1",
+            "text": "The hen cries and cries"
+          },
+          {
+            "id": "c2",
+            "text": "The hen sleeps and sleeps"
+          },
+          {
+            "id": "c3",
+            "text": "The hen pecks and pecks"
+          }
         ]
       },
-      "correct_answer": "The hen pecks and pecks",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The hen pecks and pecks.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 14
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/2.png"
+      },
+      "order_index": 14,
+      "passage_id": "p2"
     },
     {
       "slug": "q015",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a hen.<br>\nTed has a hen.<br>\nThe hen is by the shed.<br>\nThe hen pecks and pecks.<br>\nThe hen must be fed.<br>\nTed feeds the hen.<br>\nHen eats and eats.<br>\nHen is happy.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">15. What must Ted do?</span>",
       "type": "mcq",
+      "prompt": "What must Ted do?",
       "options": {
         "choices": [
-          "feed the duck",
-          "feed the hen",
-          "feed the horse"
+          {
+            "id": "c1",
+            "text": "feed the duck"
+          },
+          {
+            "id": "c2",
+            "text": "feed the hen"
+          },
+          {
+            "id": "c3",
+            "text": "feed the horse"
+          }
         ]
       },
-      "correct_answer": "feed the hen",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'The hen must be fed,' so Ted must feed the hen.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 15
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/2.png"
+      },
+      "order_index": 15,
+      "passage_id": "p2"
     },
     {
       "slug": "q016",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a hen.<br>\nTed has a hen.<br>\nThe hen is by the shed.<br>\nThe hen pecks and pecks.<br>\nThe hen must be fed.<br>\nTed feeds the hen.<br>\nHen eats and eats.<br>\nHen is happy.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">16. How do we know that Ted is responsible?</span>",
       "type": "mcq",
+      "prompt": "How do we know that Ted is responsible?",
       "options": {
         "choices": [
-          "Ted feeds the hen",
-          "Ted doesn't care",
-          "Ted walks away"
+          {
+            "id": "c1",
+            "text": "Ted feeds the hen"
+          },
+          {
+            "id": "c2",
+            "text": "Ted doesn't care"
+          },
+          {
+            "id": "c3",
+            "text": "Ted walks away"
+          }
         ]
       },
-      "correct_answer": "Ted feeds the hen",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Ted is responsible because he feeds the hen when it is hungry.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 16
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/2.png"
+      },
+      "order_index": 16,
+      "passage_id": "p2"
     },
     {
       "slug": "q017",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a hen.<br>\nTed has a hen.<br>\nThe hen is by the shed.<br>\nThe hen pecks and pecks.<br>\nThe hen must be fed.<br>\nTed feeds the hen.<br>\nHen eats and eats.<br>\nHen is happy.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">17. How does the hen feel at the end of the story?</span>",
       "type": "mcq",
+      "prompt": "How does the hen feel at the end of the story?",
       "options": {
         "choices": [
-          "sad",
-          "unhappy",
-          "happy"
+          {
+            "id": "c1",
+            "text": "sad"
+          },
+          {
+            "id": "c2",
+            "text": "unhappy"
+          },
+          {
+            "id": "c3",
+            "text": "happy"
+          }
         ]
       },
-      "correct_answer": "happy",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "After eating, 'Hen is happy.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 17
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/2.png"
+      },
+      "order_index": 17,
+      "passage_id": "p2"
     },
     {
       "slug": "q018",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a hen.<br>\nTed has a hen.<br>\nThe hen is by the shed.<br>\nThe hen pecks and pecks.<br>\nThe hen must be fed.<br>\nTed feeds the hen.<br>\nHen eats and eats.<br>\nHen is happy.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">18. How does Ted feel at the end of the story?</span>",
       "type": "mcq",
+      "prompt": "How does Ted feel at the end of the story?",
       "options": {
         "choices": [
-          "happy",
-          "unhappy",
-          "sappy"
+          {
+            "id": "c1",
+            "text": "happy"
+          },
+          {
+            "id": "c2",
+            "text": "unhappy"
+          },
+          {
+            "id": "c3",
+            "text": "sappy"
+          }
         ]
       },
-      "correct_answer": "happy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The last line of the story says 'Ted is happy.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 18
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/2.png"
+      },
+      "order_index": 18,
+      "passage_id": "p2"
     },
     {
       "slug": "q019",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a hen.<br>\nTed has a hen.<br>\nThe hen is by the shed.<br>\nThe hen pecks and pecks.<br>\nThe hen must be fed.<br>\nTed feeds the hen.<br>\nHen eats and eats.<br>\nHen is happy.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">19. What is the past tense of feed?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of feed?",
       "options": {
         "choices": [
-          "fed",
-          "had",
-          "see"
+          {
+            "id": "c1",
+            "text": "fed"
+          },
+          {
+            "id": "c2",
+            "text": "had"
+          },
+          {
+            "id": "c3",
+            "text": "see"
+          }
         ]
       },
-      "correct_answer": "fed",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The past tense of feed is fed.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 19
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/2.png"
+      },
+      "order_index": 19,
+      "passage_id": "p2"
     },
     {
       "slug": "q020",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a hen.<br>\nTed has a hen.<br>\nThe hen is by the shed.<br>\nThe hen pecks and pecks.<br>\nThe hen must be fed.<br>\nTed feeds the hen.<br>\nHen eats and eats.<br>\nHen is happy.<br>\nTed is happy.\n</div><br>\n<span style=\"color:red;\">20. What is the past tense of eat?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of eat?",
       "options": {
         "choices": [
-          "atrium",
-          "ate",
-          "ages"
+          {
+            "id": "c1",
+            "text": "atrium"
+          },
+          {
+            "id": "c2",
+            "text": "ate"
+          },
+          {
+            "id": "c3",
+            "text": "ages"
+          }
         ]
       },
-      "correct_answer": "ate",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The past tense of eat is ate.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 20
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/2.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/2.png"
+      },
+      "order_index": 20,
+      "passage_id": "p2"
     },
     {
       "slug": "q021",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEd is a vet.<br>\nHe can help pets.<br>\nEd sees a hen.<br>\nEd will help the hen.<br>\nThe hen is sad.<br>\nThe hen is not well.<br>\nEd will help the hen.<br>\nNow, the hen is well!\n</div><br>\n<span style=\"color:red;\">21. What is the name of the vet in the story?</span>",
       "type": "mcq",
+      "prompt": "What is the name of the vet in the story?",
       "options": {
         "choices": [
-          "Sam",
-          "Tom",
-          "Ed"
+          {
+            "id": "c1",
+            "text": "Sam"
+          },
+          {
+            "id": "c2",
+            "text": "Tom"
+          },
+          {
+            "id": "c3",
+            "text": "Ed"
+          }
         ]
       },
-      "correct_answer": "Ed",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story begins with 'Ed is a vet.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 21
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/3.png"
+      },
+      "order_index": 21,
+      "passage_id": "p3"
     },
     {
       "slug": "q022",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEd is a vet.<br>\nHe can help pets.<br>\nEd sees a hen.<br>\nEd will help the hen.<br>\nThe hen is sad.<br>\nThe hen is not well.<br>\nEd will help the hen.<br>\nNow, the hen is well!\n</div><br>\n<span style=\"color:red;\">22. What does Ed do?</span>",
       "type": "mcq",
+      "prompt": "What does Ed do?",
       "options": {
         "choices": [
-          "Ed helps people",
-          "Ed helps the world",
-          "Ed helps pets"
+          {
+            "id": "c1",
+            "text": "Ed helps people"
+          },
+          {
+            "id": "c2",
+            "text": "Ed helps the world"
+          },
+          {
+            "id": "c3",
+            "text": "Ed helps pets"
+          }
         ]
       },
-      "correct_answer": "Ed helps pets",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'He can help pets,' so Ed is a vet who helps pets.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 22
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/3.png"
+      },
+      "order_index": 22,
+      "passage_id": "p3"
     },
     {
       "slug": "q023",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEd is a vet.<br>\nHe can help pets.<br>\nEd sees a hen.<br>\nEd will help the hen.<br>\nThe hen is sad.<br>\nThe hen is not well.<br>\nEd will help the hen.<br>\nNow, the hen is well!\n</div><br>\n<span style=\"color:red;\">23. What does Ed see?</span>",
       "type": "mcq",
+      "prompt": "What does Ed see?",
       "options": {
         "choices": [
-          "Ed sees me",
-          "Ed sees the world",
-          "Ed sees the hen"
+          {
+            "id": "c1",
+            "text": "Ed sees me"
+          },
+          {
+            "id": "c2",
+            "text": "Ed sees the world"
+          },
+          {
+            "id": "c3",
+            "text": "Ed sees the hen"
+          }
         ]
       },
-      "correct_answer": "Ed sees the hen",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Ed sees a hen.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 23
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/3.png"
+      },
+      "order_index": 23,
+      "passage_id": "p3"
     },
     {
       "slug": "q024",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEd is a vet.<br>\nHe can help pets.<br>\nEd sees a hen.<br>\nEd will help the hen.<br>\nThe hen is sad.<br>\nThe hen is not well.<br>\nEd will help the hen.<br>\nNow, the hen is well!\n</div><br>\n<span style=\"color:red;\">24. Which animal in the story is sad?</span>",
       "type": "mcq",
+      "prompt": "Which animal in the story is sad?",
       "options": {
         "choices": [
-          "The hen",
-          "The elephant",
-          "The shark"
+          {
+            "id": "c1",
+            "text": "The hen"
+          },
+          {
+            "id": "c2",
+            "text": "The elephant"
+          },
+          {
+            "id": "c3",
+            "text": "The shark"
+          }
         ]
       },
-      "correct_answer": "The hen",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'The hen is sad.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 24
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/3.png"
+      },
+      "order_index": 24,
+      "passage_id": "p3"
     },
     {
       "slug": "q025",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEd is a vet.<br>\nHe can help pets.<br>\nEd sees a hen.<br>\nEd will help the hen.<br>\nThe hen is sad.<br>\nThe hen is not well.<br>\nEd will help the hen.<br>\nNow, the hen is well!\n</div><br>\n<span style=\"color:red;\">25. Which animal in the story is not well?</span>",
       "type": "mcq",
+      "prompt": "Which animal in the story is not well?",
       "options": {
         "choices": [
-          "The monster",
-          "The elephant",
-          "The hen"
+          {
+            "id": "c1",
+            "text": "The monster"
+          },
+          {
+            "id": "c2",
+            "text": "The elephant"
+          },
+          {
+            "id": "c3",
+            "text": "The hen"
+          }
         ]
       },
-      "correct_answer": "The hen",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'The hen is not well.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 25
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/3.png"
+      },
+      "order_index": 25,
+      "passage_id": "p3"
     },
     {
       "slug": "q026",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEd is a vet.<br>\nHe can help pets.<br>\nEd sees a hen.<br>\nEd will help the hen.<br>\nThe hen is sad.<br>\nThe hen is not well.<br>\nEd will help the hen.<br>\nNow, the hen is well!\n</div><br>\n<span style=\"color:red;\">26. What will Ed the vet do?</span>",
       "type": "mcq",
+      "prompt": "What will Ed the vet do?",
       "options": {
         "choices": [
-          "Ed will help the sad hen",
-          "Ed will help the happy hen",
-          "Ed will help the sad bird"
+          {
+            "id": "c1",
+            "text": "Ed will help the sad hen"
+          },
+          {
+            "id": "c2",
+            "text": "Ed will help the happy hen"
+          },
+          {
+            "id": "c3",
+            "text": "Ed will help the sad bird"
+          }
         ]
       },
-      "correct_answer": "Ed will help the sad hen",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says Ed will help the hen, which is sad and unwell.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 26
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/3.png"
+      },
+      "order_index": 26,
+      "passage_id": "p3"
     },
     {
       "slug": "q027",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEd is a vet.<br>\nHe can help pets.<br>\nEd sees a hen.<br>\nEd will help the hen.<br>\nThe hen is sad.<br>\nThe hen is not well.<br>\nEd will help the hen.<br>\nNow, the hen is well!\n</div><br>\n<span style=\"color:red;\">27. How many times was the name Ed mentioned?</span>",
       "type": "mcq",
+      "prompt": "How many times was the name Ed mentioned?",
       "options": {
         "choices": [
-          "3 times",
-          "4 times",
-          "5 times"
+          {
+            "id": "c1",
+            "text": "3 times"
+          },
+          {
+            "id": "c2",
+            "text": "4 times"
+          },
+          {
+            "id": "c3",
+            "text": "5 times"
+          }
         ]
       },
-      "correct_answer": "4 times",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ed is mentioned 4 times in the story: 'Ed is a vet,' 'Ed sees a hen,' 'Ed will help the hen' (twice).",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 27
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/3.png"
+      },
+      "order_index": 27,
+      "passage_id": "p3"
     },
     {
       "slug": "q028",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEd is a vet.<br>\nHe can help pets.<br>\nEd sees a hen.<br>\nEd will help the hen.<br>\nThe hen is sad.<br>\nThe hen is not well.<br>\nEd will help the hen.<br>\nNow, the hen is well!\n</div><br>\n<span style=\"color:red;\">28. What is the meaning of vet?</span>",
       "type": "mcq",
+      "prompt": "What is the meaning of vet?",
       "options": {
         "choices": [
-          "an animal doctor",
-          "an animal carpenter",
-          "an animal nurse"
+          {
+            "id": "c1",
+            "text": "an animal doctor"
+          },
+          {
+            "id": "c2",
+            "text": "an animal carpenter"
+          },
+          {
+            "id": "c3",
+            "text": "an animal nurse"
+          }
         ]
       },
-      "correct_answer": "an animal doctor",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A vet (veterinarian) is a doctor who treats animals.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 28
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/3.png"
+      },
+      "order_index": 28,
+      "passage_id": "p3"
     },
     {
       "slug": "q029",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEd is a vet.<br>\nHe can help pets.<br>\nEd sees a hen.<br>\nEd will help the hen.<br>\nThe hen is sad.<br>\nThe hen is not well.<br>\nEd will help the hen.<br>\nNow, the hen is well!\n</div><br>\n<span style=\"color:red;\">29. What is the past tense of see?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of see?",
       "options": {
         "choices": [
-          "sees",
-          "saw",
-          "so"
+          {
+            "id": "c1",
+            "text": "sees"
+          },
+          {
+            "id": "c2",
+            "text": "saw"
+          },
+          {
+            "id": "c3",
+            "text": "so"
+          }
         ]
       },
-      "correct_answer": "saw",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The past tense of see is saw.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 29
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/3.png"
+      },
+      "order_index": 29,
+      "passage_id": "p3"
     },
     {
       "slug": "q030",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEd is a vet.<br>\nHe can help pets.<br>\nEd sees a hen.<br>\nEd will help the hen.<br>\nThe hen is sad.<br>\nThe hen is not well.<br>\nEd will help the hen.<br>\nNow, the hen is well!\n</div><br>\n<span style=\"color:red;\">30. What happened at the end of the story?</span>",
       "type": "mcq",
+      "prompt": "What happened at the end of the story?",
       "options": {
         "choices": [
-          "The hen got sicker",
-          "The hen got well",
-          "The hen ran away"
+          {
+            "id": "c1",
+            "text": "The hen got sicker"
+          },
+          {
+            "id": "c2",
+            "text": "The hen got well"
+          },
+          {
+            "id": "c3",
+            "text": "The hen ran away"
+          }
         ]
       },
-      "correct_answer": "The hen got well",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "At the end of the story, 'Now, the hen is well!'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 30
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/3.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/3.png"
+      },
+      "order_index": 30,
+      "passage_id": "p3"
     },
     {
       "slug": "q031",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMeg sells eggs.<br>\nTed sees ten eggs.<br>\nTed says, \"Can I get ten eggs?\"<br>\nMeg says, \"Yes, you bet!\"<br>\nMeg gets the ten eggs for Ted.<br>\nTed says, \"Thank you!\"<br>\nMeg is happy with her ten cents.<br>\nTed is happy with the ten eggs.\n</div><br>\n<span style=\"color:red;\">31. What does Meg sell?</span>",
       "type": "mcq",
+      "prompt": "What does Meg sell?",
       "options": {
         "choices": [
-          "she sells chicken",
-          "she sells fish",
-          "she sells eggs"
+          {
+            "id": "c1",
+            "text": "she sells chicken"
+          },
+          {
+            "id": "c2",
+            "text": "she sells fish"
+          },
+          {
+            "id": "c3",
+            "text": "she sells eggs"
+          }
         ]
       },
-      "correct_answer": "she sells eggs",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The very first line says 'Meg sells eggs.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 31
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/4.png"
+      },
+      "order_index": 31,
+      "passage_id": "p4"
     },
     {
       "slug": "q032",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMeg sells eggs.<br>\nTed sees ten eggs.<br>\nTed says, \"Can I get ten eggs?\"<br>\nMeg says, \"Yes, you bet!\"<br>\nMeg gets the ten eggs for Ted.<br>\nTed says, \"Thank you!\"<br>\nMeg is happy with her ten cents.<br>\nTed is happy with the ten eggs.\n</div><br>\n<span style=\"color:red;\">32. What does Ted see?</span>",
       "type": "mcq",
+      "prompt": "What does Ted see?",
       "options": {
         "choices": [
-          "Ted sees ten cats",
-          "Ted sees ten eggs",
-          "Ted sees ten hens"
+          {
+            "id": "c1",
+            "text": "Ted sees ten cats"
+          },
+          {
+            "id": "c2",
+            "text": "Ted sees ten eggs"
+          },
+          {
+            "id": "c3",
+            "text": "Ted sees ten hens"
+          }
         ]
       },
-      "correct_answer": "Ted sees ten eggs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Ted sees ten eggs.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 32
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/4.png"
+      },
+      "order_index": 32,
+      "passage_id": "p4"
     },
     {
       "slug": "q033",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMeg sells eggs.<br>\nTed sees ten eggs.<br>\nTed says, \"Can I get ten eggs?\"<br>\nMeg says, \"Yes, you bet!\"<br>\nMeg gets the ten eggs for Ted.<br>\nTed says, \"Thank you!\"<br>\nMeg is happy with her ten cents.<br>\nTed is happy with the ten eggs.\n</div><br>\n<span style=\"color:red;\">33. What does Meg say?</span>",
       "type": "mcq",
+      "prompt": "What does Meg say?",
       "options": {
         "choices": [
-          "\"Yes, you bet!\"",
-          "\"Yes, go home\"",
-          "\"No, leave now\""
+          {
+            "id": "c1",
+            "text": "\"Yes, you bet!\""
+          },
+          {
+            "id": "c2",
+            "text": "\"Yes, go home\""
+          },
+          {
+            "id": "c3",
+            "text": "\"No, leave now\""
+          }
         ]
       },
-      "correct_answer": "\"Yes, you bet!\"",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Meg replies to Ted with 'Yes, you bet!'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 33
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/4.png"
+      },
+      "order_index": 33,
+      "passage_id": "p4"
     },
     {
       "slug": "q034",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMeg sells eggs.<br>\nTed sees ten eggs.<br>\nTed says, \"Can I get ten eggs?\"<br>\nMeg says, \"Yes, you bet!\"<br>\nMeg gets the ten eggs for Ted.<br>\nTed says, \"Thank you!\"<br>\nMeg is happy with her ten cents.<br>\nTed is happy with the ten eggs.\n</div><br>\n<span style=\"color:red;\">34. How does Meg feel in the story?</span>",
       "type": "mcq",
+      "prompt": "How does Meg feel in the story?",
       "options": {
         "choices": [
-          "Meg is happy",
-          "Meg is sad",
-          "Meg is hungry"
+          {
+            "id": "c1",
+            "text": "Meg is happy"
+          },
+          {
+            "id": "c2",
+            "text": "Meg is sad"
+          },
+          {
+            "id": "c3",
+            "text": "Meg is hungry"
+          }
         ]
       },
-      "correct_answer": "Meg is happy",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Meg is happy with her ten cents.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 34
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/4.png"
+      },
+      "order_index": 34,
+      "passage_id": "p4"
     },
     {
       "slug": "q035",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMeg sells eggs.<br>\nTed sees ten eggs.<br>\nTed says, \"Can I get ten eggs?\"<br>\nMeg says, \"Yes, you bet!\"<br>\nMeg gets the ten eggs for Ted.<br>\nTed says, \"Thank you!\"<br>\nMeg is happy with her ten cents.<br>\nTed is happy with the ten eggs.\n</div><br>\n<span style=\"color:red;\">35. What did Ted want to buy?</span>",
       "type": "mcq",
+      "prompt": "What did Ted want to buy?",
       "options": {
         "choices": [
-          "ten lollipops",
-          "ten hens",
-          "ten eggs"
+          {
+            "id": "c1",
+            "text": "ten lollipops"
+          },
+          {
+            "id": "c2",
+            "text": "ten hens"
+          },
+          {
+            "id": "c3",
+            "text": "ten eggs"
+          }
         ]
       },
-      "correct_answer": "ten eggs",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Ted asks 'Can I get ten eggs?' showing he wanted to buy ten eggs.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 35
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/4.png"
+      },
+      "order_index": 35,
+      "passage_id": "p4"
     },
     {
       "slug": "q036",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMeg sells eggs.<br>\nTed sees ten eggs.<br>\nTed says, \"Can I get ten eggs?\"<br>\nMeg says, \"Yes, you bet!\"<br>\nMeg gets the ten eggs for Ted.<br>\nTed says, \"Thank you!\"<br>\nMeg is happy with her ten cents.<br>\nTed is happy with the ten eggs.\n</div><br>\n<span style=\"color:red;\">36. What word do we use when we appreciate someone's efforts?</span>",
       "type": "mcq",
+      "prompt": "What word do we use when we appreciate someone's efforts?",
       "options": {
         "choices": [
-          "please",
-          "thank you",
-          "no, thank you"
+          {
+            "id": "c1",
+            "text": "please"
+          },
+          {
+            "id": "c2",
+            "text": "thank you"
+          },
+          {
+            "id": "c3",
+            "text": "no, thank you"
+          }
         ]
       },
-      "correct_answer": "thank you",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ted says 'Thank you!' to show appreciation, just as we do in real life.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 36
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/4.png"
+      },
+      "order_index": 36,
+      "passage_id": "p4"
     },
     {
       "slug": "q037",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMeg sells eggs.<br>\nTed sees ten eggs.<br>\nTed says, \"Can I get ten eggs?\"<br>\nMeg says, \"Yes, you bet!\"<br>\nMeg gets the ten eggs for Ted.<br>\nTed says, \"Thank you!\"<br>\nMeg is happy with her ten cents.<br>\nTed is happy with the ten eggs.\n</div><br>\n<span style=\"color:red;\">37. Which animal produces eggs?</span>",
       "type": "mcq",
+      "prompt": "Which animal produces eggs?",
       "options": {
         "choices": [
-          "cow",
-          "hen",
-          "zebra"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "hen"
+          },
+          {
+            "id": "c3",
+            "text": "zebra"
+          }
         ]
       },
-      "correct_answer": "hen",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Hens (chickens) lay eggs, which is why Meg sells hen eggs.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 37
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/4.png"
+      },
+      "order_index": 37,
+      "passage_id": "p4"
     },
     {
       "slug": "q038",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMeg sells eggs.<br>\nTed sees ten eggs.<br>\nTed says, \"Can I get ten eggs?\"<br>\nMeg says, \"Yes, you bet!\"<br>\nMeg gets the ten eggs for Ted.<br>\nTed says, \"Thank you!\"<br>\nMeg is happy with her ten cents.<br>\nTed is happy with the ten eggs.\n</div><br>\n<span style=\"color:red;\">38. How much did the ten eggs cost?</span>",
       "type": "mcq",
+      "prompt": "How much did the ten eggs cost?",
       "options": {
         "choices": [
-          "5 cents",
-          "10 cents",
-          "15 cents"
+          {
+            "id": "c1",
+            "text": "5 cents"
+          },
+          {
+            "id": "c2",
+            "text": "10 cents"
+          },
+          {
+            "id": "c3",
+            "text": "15 cents"
+          }
         ]
       },
-      "correct_answer": "10 cents",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Meg is happy with her ten cents, so the ten eggs cost ten cents.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 38
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/4.png"
+      },
+      "order_index": 38,
+      "passage_id": "p4"
     },
     {
       "slug": "q039",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMeg sells eggs.<br>\nTed sees ten eggs.<br>\nTed says, \"Can I get ten eggs?\"<br>\nMeg says, \"Yes, you bet!\"<br>\nMeg gets the ten eggs for Ted.<br>\nTed says, \"Thank you!\"<br>\nMeg is happy with her ten cents.<br>\nTed is happy with the ten eggs.\n</div><br>\n<span style=\"color:red;\">39. What do we call a small unit of money?</span>",
       "type": "mcq",
+      "prompt": "What do we call a small unit of money?",
       "options": {
         "choices": [
-          "eggs",
-          "cents",
-          "thanks"
+          {
+            "id": "c1",
+            "text": "eggs"
+          },
+          {
+            "id": "c2",
+            "text": "cents"
+          },
+          {
+            "id": "c3",
+            "text": "thanks"
+          }
         ]
       },
-      "correct_answer": "cents",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A cent is a small unit of money. Meg received ten cents for the eggs.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 39
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/4.png"
+      },
+      "order_index": 39,
+      "passage_id": "p4"
     },
     {
       "slug": "q040",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nMeg sells eggs.<br>\nTed sees ten eggs.<br>\nTed says, \"Can I get ten eggs?\"<br>\nMeg says, \"Yes, you bet!\"<br>\nMeg gets the ten eggs for Ted.<br>\nTed says, \"Thank you!\"<br>\nMeg is happy with her ten cents.<br>\nTed is happy with the ten eggs.\n</div><br>\n<span style=\"color:red;\">40. What is the singular form of eggs?</span>",
       "type": "mcq",
+      "prompt": "What is the singular form of eggs?",
       "options": {
         "choices": [
-          "eggggs",
-          "egg",
-          "eg"
+          {
+            "id": "c1",
+            "text": "eggggs"
+          },
+          {
+            "id": "c2",
+            "text": "egg"
+          },
+          {
+            "id": "c3",
+            "text": "eg"
+          }
         ]
       },
-      "correct_answer": "egg",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The singular form of eggs is egg.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 40
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/4.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/4.png"
+      },
+      "order_index": 40,
+      "passage_id": "p4"
     },
     {
       "slug": "q041",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed is my pet.<br>\nTed has a web.<br>\nHis web is his nest bed.<br>\nTed rests in his web.<br>\nTed gets ten red bugs in his web.<br>\nHe lets them get in, then he gets them.<br>\nTed will get fed well.<br>\nTed is a happy pet!\n</div><br>\n<span style=\"color:red;\">41. What does Ted the spider have?</span>",
       "type": "mcq",
+      "prompt": "What does Ted the spider have?",
       "options": {
         "choices": [
-          "a cat",
-          "a web",
-          "an elephant"
+          {
+            "id": "c1",
+            "text": "a cat"
+          },
+          {
+            "id": "c2",
+            "text": "a web"
+          },
+          {
+            "id": "c3",
+            "text": "an elephant"
+          }
         ]
       },
-      "correct_answer": "a web",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Ted has a web.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 41
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/5.png"
+      },
+      "order_index": 41,
+      "passage_id": "p5"
     },
     {
       "slug": "q042",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed is my pet.<br>\nTed has a web.<br>\nHis web is his nest bed.<br>\nTed rests in his web.<br>\nTed gets ten red bugs in his web.<br>\nHe lets them get in, then he gets them.<br>\nTed will get fed well.<br>\nTed is a happy pet!\n</div><br>\n<span style=\"color:red;\">42. Where does Ted the spider rest?</span>",
       "type": "mcq",
+      "prompt": "Where does Ted the spider rest?",
       "options": {
         "choices": [
-          "Ted rests in his web",
-          "Ted rests in the car",
-          "Ted rests in his hospital"
+          {
+            "id": "c1",
+            "text": "Ted rests in his web"
+          },
+          {
+            "id": "c2",
+            "text": "Ted rests in the car"
+          },
+          {
+            "id": "c3",
+            "text": "Ted rests in his hospital"
+          }
         ]
       },
-      "correct_answer": "Ted rests in his web",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Ted rests in his web.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 42
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/5.png"
+      },
+      "order_index": 42,
+      "passage_id": "p5"
     },
     {
       "slug": "q043",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed is my pet.<br>\nTed has a web.<br>\nHis web is his nest bed.<br>\nTed rests in his web.<br>\nTed gets ten red bugs in his web.<br>\nHe lets them get in, then he gets them.<br>\nTed will get fed well.<br>\nTed is a happy pet!\n</div><br>\n<span style=\"color:red;\">43. What does Ted see in his web?</span>",
       "type": "mcq",
+      "prompt": "What does Ted see in his web?",
       "options": {
         "choices": [
-          "five red elephants",
-          "four red cats",
-          "ten red bugs"
+          {
+            "id": "c1",
+            "text": "five red elephants"
+          },
+          {
+            "id": "c2",
+            "text": "four red cats"
+          },
+          {
+            "id": "c3",
+            "text": "ten red bugs"
+          }
         ]
       },
-      "correct_answer": "ten red bugs",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Ted gets ten red bugs in his web.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 43
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/5.png"
+      },
+      "order_index": 43,
+      "passage_id": "p5"
     },
     {
       "slug": "q044",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed is my pet.<br>\nTed has a web.<br>\nHis web is his nest bed.<br>\nTed rests in his web.<br>\nTed gets ten red bugs in his web.<br>\nHe lets them get in, then he gets them.<br>\nTed will get fed well.<br>\nTed is a happy pet!\n</div><br>\n<span style=\"color:red;\">44. What does Ted the spider get in his web?</span>",
       "type": "mcq",
+      "prompt": "What does Ted the spider get in his web?",
       "options": {
         "choices": [
-          "Ted gets ten red elephants",
-          "Ted gets ten red cows",
-          "Ted gets ten red bugs"
+          {
+            "id": "c1",
+            "text": "Ted gets ten red elephants"
+          },
+          {
+            "id": "c2",
+            "text": "Ted gets ten red cows"
+          },
+          {
+            "id": "c3",
+            "text": "Ted gets ten red bugs"
+          }
         ]
       },
-      "correct_answer": "Ted gets ten red bugs",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Ted gets ten red bugs in his web.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 44
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/5.png"
+      },
+      "order_index": 44,
+      "passage_id": "p5"
     },
     {
       "slug": "q045",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed is my pet.<br>\nTed has a web.<br>\nHis web is his nest bed.<br>\nTed rests in his web.<br>\nTed gets ten red bugs in his web.<br>\nHe lets them get in, then he gets them.<br>\nTed will get fed well.<br>\nTed is a happy pet!\n</div><br>\n<span style=\"color:red;\">45. Who does Ted let in his web?</span>",
       "type": "mcq",
+      "prompt": "Who does Ted let in his web?",
       "options": {
         "choices": [
-          "Ten red elephants",
-          "Ted red monkeys",
-          "Ten red bugs"
+          {
+            "id": "c1",
+            "text": "Ten red elephants"
+          },
+          {
+            "id": "c2",
+            "text": "Ted red monkeys"
+          },
+          {
+            "id": "c3",
+            "text": "Ten red bugs"
+          }
         ]
       },
-      "correct_answer": "Ten red bugs",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "He lets ten red bugs get into his web, and then catches them to eat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 45
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/5.png"
+      },
+      "order_index": 45,
+      "passage_id": "p5"
     },
     {
       "slug": "q046",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed is my pet.<br>\nTed has a web.<br>\nHis web is his nest bed.<br>\nTed rests in his web.<br>\nTed gets ten red bugs in his web.<br>\nHe lets them get in, then he gets them.<br>\nTed will get fed well.<br>\nTed is a happy pet!\n</div><br>\n<span style=\"color:red;\">46. What is another word for fed?</span>",
       "type": "mcq",
+      "prompt": "What is another word for fed?",
       "options": {
         "choices": [
-          "drink",
-          "given food",
-          "sleep"
+          {
+            "id": "c1",
+            "text": "drink"
+          },
+          {
+            "id": "c2",
+            "text": "given food"
+          },
+          {
+            "id": "c3",
+            "text": "sleep"
+          }
         ]
       },
-      "correct_answer": "given food",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Fed means given food. Ted will get fed well means he will be well given food.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 46
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/5.png"
+      },
+      "order_index": 46,
+      "passage_id": "p5"
     },
     {
       "slug": "q047",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed is my pet.<br>\nTed has a web.<br>\nHis web is his nest bed.<br>\nTed rests in his web.<br>\nTed gets ten red bugs in his web.<br>\nHe lets them get in, then he gets them.<br>\nTed will get fed well.<br>\nTed is a happy pet!\n</div><br>\n<span style=\"color:red;\">47. What is another name for pet?</span>",
       "type": "mcq",
+      "prompt": "What is another name for pet?",
       "options": {
         "choices": [
-          "animal",
-          "house",
-          "fish"
+          {
+            "id": "c1",
+            "text": "animal"
+          },
+          {
+            "id": "c2",
+            "text": "house"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "animal",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A pet is a domesticated animal kept at home. Another name for pet is animal.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 47
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/5.png"
+      },
+      "order_index": 47,
+      "passage_id": "p5"
     },
     {
       "slug": "q048",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed is my pet.<br>\nTed has a web.<br>\nHis web is his nest bed.<br>\nTed rests in his web.<br>\nTed gets ten red bugs in his web.<br>\nHe lets them get in, then he gets them.<br>\nTed will get fed well.<br>\nTed is a happy pet!\n</div><br>\n<span style=\"color:red;\">48. What is another name for pet?</span>",
       "type": "mcq",
+      "prompt": "What is another name for pet?",
       "options": {
         "choices": [
-          "animal",
-          "house",
-          "fish"
+          {
+            "id": "c1",
+            "text": "animal"
+          },
+          {
+            "id": "c2",
+            "text": "house"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "animal",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A pet is a domesticated animal. The word animal is another name for pet.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 48
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/5.png"
+      },
+      "order_index": 48,
+      "passage_id": "p5"
     },
     {
       "slug": "q049",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed is my pet.<br>\nTed has a web.<br>\nHis web is his nest bed.<br>\nTed rests in his web.<br>\nTed gets ten red bugs in his web.<br>\nHe lets them get in, then he gets them.<br>\nTed will get fed well.<br>\nTed is a happy pet!\n</div><br>\n<span style=\"color:red;\">49. What is the present tense of the verb fed?</span>",
       "type": "mcq",
+      "prompt": "What is the present tense of the verb fed?",
       "options": {
         "choices": [
-          "slept",
-          "feed",
-          "swam"
+          {
+            "id": "c1",
+            "text": "slept"
+          },
+          {
+            "id": "c2",
+            "text": "feed"
+          },
+          {
+            "id": "c3",
+            "text": "swam"
+          }
         ]
       },
-      "correct_answer": "feed",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Fed is the past tense; the present tense is feed.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 49
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/5.png"
+      },
+      "order_index": 49,
+      "passage_id": "p5"
     },
     {
       "slug": "q050",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed is my pet.<br>\nTed has a web.<br>\nHis web is his nest bed.<br>\nTed rests in his web.<br>\nTed gets ten red bugs in his web.<br>\nHe lets them get in, then he gets them.<br>\nTed will get fed well.<br>\nTed is a happy pet!\n</div><br>\n<span style=\"color:red;\">50. What is the plural form of spider?</span>",
       "type": "mcq",
+      "prompt": "What is the plural form of spider?",
       "options": {
         "choices": [
-          "spider",
-          "spiders",
-          "speed"
+          {
+            "id": "c1",
+            "text": "spider"
+          },
+          {
+            "id": "c2",
+            "text": "spiders"
+          },
+          {
+            "id": "c3",
+            "text": "speed"
+          }
         ]
       },
-      "correct_answer": "spiders",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The plural of spider is spiders. We add -s to make it plural.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 50
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/5.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/5.png"
+      },
+      "order_index": 50,
+      "passage_id": "p5"
     },
     {
       "slug": "q051",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve sees a jet.<br>\nThe jet is red.<br>\nEve tells Ben, \"See the jet!\"<br>\n\"Can we get in?\" says Ben.<br>\n\"I bet we get in,\" says Eve.<br>\nEve and Ben get in the jet.<br>\nThey sit on a red seat.<br>\nThe jet goes up, up, up.<br>\n\"Best!\" says Eve.\n</div><br>\n<span style=\"color:red;\">51. What does Eve see?</span>",
       "type": "mcq",
+      "prompt": "What does Eve see?",
       "options": {
         "choices": [
-          "Eve sees a man",
-          "Eve sees a boy",
-          "Eve sees a jet"
+          {
+            "id": "c1",
+            "text": "Eve sees a man"
+          },
+          {
+            "id": "c2",
+            "text": "Eve sees a boy"
+          },
+          {
+            "id": "c3",
+            "text": "Eve sees a jet"
+          }
         ]
       },
-      "correct_answer": "Eve sees a jet",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story begins with 'Eve sees a jet.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 51
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/6.png"
+      },
+      "order_index": 51,
+      "passage_id": "p6"
     },
     {
       "slug": "q052",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve sees a jet.<br>\nThe jet is red.<br>\nEve tells Ben, \"See the jet!\"<br>\n\"Can we get in?\" says Ben.<br>\n\"I bet we get in,\" says Eve.<br>\nEve and Ben get in the jet.<br>\nThey sit on a red seat.<br>\nThe jet goes up, up, up.<br>\n\"Best!\" says Eve.\n</div><br>\n<span style=\"color:red;\">52. What color is the jet?</span>",
       "type": "mcq",
+      "prompt": "What color is the jet?",
       "options": {
         "choices": [
-          "The jet is green",
-          "The jet is red",
-          "The jet is blue"
+          {
+            "id": "c1",
+            "text": "The jet is green"
+          },
+          {
+            "id": "c2",
+            "text": "The jet is red"
+          },
+          {
+            "id": "c3",
+            "text": "The jet is blue"
+          }
         ]
       },
-      "correct_answer": "The jet is red",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'The jet is red.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 52
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/6.png"
+      },
+      "order_index": 52,
+      "passage_id": "p6"
     },
     {
       "slug": "q053",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve sees a jet.<br>\nThe jet is red.<br>\nEve tells Ben, \"See the jet!\"<br>\n\"Can we get in?\" says Ben.<br>\n\"I bet we get in,\" says Eve.<br>\nEve and Ben get in the jet.<br>\nThey sit on a red seat.<br>\nThe jet goes up, up, up.<br>\n\"Best!\" says Eve.\n</div><br>\n<span style=\"color:red;\">53. What does Eve tell Ben?</span>",
       "type": "mcq",
+      "prompt": "What does Eve tell Ben?",
       "options": {
         "choices": [
-          "\"See the cat!\"",
-          "\"See the tree!\"",
-          "\"See the jet!\""
+          {
+            "id": "c1",
+            "text": "\"See the cat!\""
+          },
+          {
+            "id": "c2",
+            "text": "\"See the tree!\""
+          },
+          {
+            "id": "c3",
+            "text": "\"See the jet!\""
+          }
         ]
       },
-      "correct_answer": "\"See the jet!\"",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Eve tells Ben 'See the jet!' when she spots it.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 53
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/6.png"
+      },
+      "order_index": 53,
+      "passage_id": "p6"
     },
     {
       "slug": "q054",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve sees a jet.<br>\nThe jet is red.<br>\nEve tells Ben, \"See the jet!\"<br>\n\"Can we get in?\" says Ben.<br>\n\"I bet we get in,\" says Eve.<br>\nEve and Ben get in the jet.<br>\nThey sit on a red seat.<br>\nThe jet goes up, up, up.<br>\n\"Best!\" says Eve.\n</div><br>\n<span style=\"color:red;\">54. What do Eve and Ben do?</span>",
       "type": "mcq",
+      "prompt": "What do Eve and Ben do?",
       "options": {
         "choices": [
-          "They go home",
-          "They watch the show",
-          "They get in the jet"
+          {
+            "id": "c1",
+            "text": "They go home"
+          },
+          {
+            "id": "c2",
+            "text": "They watch the show"
+          },
+          {
+            "id": "c3",
+            "text": "They get in the jet"
+          }
         ]
       },
-      "correct_answer": "They get in the jet",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Eve and Ben get in the jet.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 54
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/6.png"
+      },
+      "order_index": 54,
+      "passage_id": "p6"
     },
     {
       "slug": "q055",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve sees a jet.<br>\nThe jet is red.<br>\nEve tells Ben, \"See the jet!\"<br>\n\"Can we get in?\" says Ben.<br>\n\"I bet we get in,\" says Eve.<br>\nEve and Ben get in the jet.<br>\nThey sit on a red seat.<br>\nThe jet goes up, up, up.<br>\n\"Best!\" says Eve.\n</div><br>\n<span style=\"color:red;\">55. What is the plural form of jet?</span>",
       "type": "mcq",
+      "prompt": "What is the plural form of jet?",
       "options": {
         "choices": [
-          "jets",
-          "jet",
-          "jot"
+          {
+            "id": "c1",
+            "text": "jets"
+          },
+          {
+            "id": "c2",
+            "text": "jet"
+          },
+          {
+            "id": "c3",
+            "text": "jot"
+          }
         ]
       },
-      "correct_answer": "jets",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The plural of jet is jets. We add -s to make it plural.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 55
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/6.png"
+      },
+      "order_index": 55,
+      "passage_id": "p6"
     },
     {
       "slug": "q056",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve sees a jet.<br>\nThe jet is red.<br>\nEve tells Ben, \"See the jet!\"<br>\n\"Can we get in?\" says Ben.<br>\n\"I bet we get in,\" says Eve.<br>\nEve and Ben get in the jet.<br>\nThey sit on a red seat.<br>\nThe jet goes up, up, up.<br>\n\"Best!\" says Eve.\n</div><br>\n<span style=\"color:red;\">56. Where do Eve and Ben sit?</span>",
       "type": "mcq",
+      "prompt": "Where do Eve and Ben sit?",
       "options": {
         "choices": [
-          "they sit on a red seat",
-          "they sit on a red mat",
-          "they sit on a red carpet"
+          {
+            "id": "c1",
+            "text": "they sit on a red seat"
+          },
+          {
+            "id": "c2",
+            "text": "they sit on a red mat"
+          },
+          {
+            "id": "c3",
+            "text": "they sit on a red carpet"
+          }
         ]
       },
-      "correct_answer": "they sit on a red seat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'They sit on a red seat.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 56
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/6.png"
+      },
+      "order_index": 56,
+      "passage_id": "p6"
     },
     {
       "slug": "q057",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve sees a jet.<br>\nThe jet is red.<br>\nEve tells Ben, \"See the jet!\"<br>\n\"Can we get in?\" says Ben.<br>\n\"I bet we get in,\" says Eve.<br>\nEve and Ben get in the jet.<br>\nThey sit on a red seat.<br>\nThe jet goes up, up, up.<br>\n\"Best!\" says Eve.\n</div><br>\n<span style=\"color:red;\">57. Which word did Eve choose to express her happiness?</span>",
       "type": "mcq",
+      "prompt": "Which word did Eve choose to express her happiness?",
       "options": {
         "choices": [
-          "great",
-          "best",
-          "love"
+          {
+            "id": "c1",
+            "text": "great"
+          },
+          {
+            "id": "c2",
+            "text": "best"
+          },
+          {
+            "id": "c3",
+            "text": "love"
+          }
         ]
       },
-      "correct_answer": "best",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "At the end, Eve exclaims 'Best!' to show how happy and excited she is.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 57
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/6.png"
+      },
+      "order_index": 57,
+      "passage_id": "p6"
     },
     {
       "slug": "q058",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve sees a jet.<br>\nThe jet is red.<br>\nEve tells Ben, \"See the jet!\"<br>\n\"Can we get in?\" says Ben.<br>\n\"I bet we get in,\" says Eve.<br>\nEve and Ben get in the jet.<br>\nThey sit on a red seat.<br>\nThe jet goes up, up, up.<br>\n\"Best!\" says Eve.\n</div><br>\n<span style=\"color:red;\">58. What is the present tense of got?</span>",
       "type": "mcq",
+      "prompt": "What is the present tense of got?",
       "options": {
         "choices": [
-          "go",
-          "good",
-          "got"
+          {
+            "id": "c1",
+            "text": "go"
+          },
+          {
+            "id": "c2",
+            "text": "good"
+          },
+          {
+            "id": "c3",
+            "text": "got"
+          }
         ]
       },
-      "correct_answer": "go",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Got is the past tense of get. The present tense form related here is get/go — the answer the worksheet indicates is go.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 58
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/6.png"
+      },
+      "order_index": 58,
+      "passage_id": "p6"
     },
     {
       "slug": "q059",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve sees a jet.<br>\nThe jet is red.<br>\nEve tells Ben, \"See the jet!\"<br>\n\"Can we get in?\" says Ben.<br>\n\"I bet we get in,\" says Eve.<br>\nEve and Ben get in the jet.<br>\nThey sit on a red seat.<br>\nThe jet goes up, up, up.<br>\n\"Best!\" says Eve.\n</div><br>\n<span style=\"color:red;\">59. What is the past tense of tell?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of tell?",
       "options": {
         "choices": [
-          "telephone",
-          "told",
-          "telly"
+          {
+            "id": "c1",
+            "text": "telephone"
+          },
+          {
+            "id": "c2",
+            "text": "told"
+          },
+          {
+            "id": "c3",
+            "text": "telly"
+          }
         ]
       },
-      "correct_answer": "told",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The past tense of tell is told.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 59
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/6.png"
+      },
+      "order_index": 59,
+      "passage_id": "p6"
     },
     {
       "slug": "q060",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve sees a jet.<br>\nThe jet is red.<br>\nEve tells Ben, \"See the jet!\"<br>\n\"Can we get in?\" says Ben.<br>\n\"I bet we get in,\" says Eve.<br>\nEve and Ben get in the jet.<br>\nThey sit on a red seat.<br>\nThe jet goes up, up, up.<br>\n\"Best!\" says Eve.\n</div><br>\n<span style=\"color:red;\">60. What is the past tense of say?</span>",
       "type": "mcq",
+      "prompt": "What is the past tense of say?",
       "options": {
         "choices": [
-          "see",
-          "sorry",
-          "said"
+          {
+            "id": "c1",
+            "text": "see"
+          },
+          {
+            "id": "c2",
+            "text": "sorry"
+          },
+          {
+            "id": "c3",
+            "text": "said"
+          }
         ]
       },
-      "correct_answer": "said",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The past tense of say is said.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 60
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/6.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/6.png"
+      },
+      "order_index": 60,
+      "passage_id": "p6"
     },
     {
       "slug": "q061",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve fell.<br>\nEve hit her leg.<br>\n\"Let me help,\" says Ben.<br>\nBen helps Eve get up.<br>\nEve feels less well.<br>\nHer leg is red.<br>\n\"See the vet,\" says Ben.<br>\n\"Yes, let's see the vet,\" says Eve.<br>\nEve and Ben see the vet.<br>\nThe vet checks Eve's leg.<br>\n\"Rest,\" says the vet.<br>\nEve rests. Ben sits with Eve.<br>\nEve feels better.<br>\nThen, Eve and Ben play.\n</div><br>\n<span style=\"color:red;\">61. Who fell in the story and got hurt?</span>",
       "type": "mcq",
+      "prompt": "Who fell in the story and got hurt?",
       "options": {
         "choices": [
-          "Ben",
-          "Sam",
-          "Eve"
+          {
+            "id": "c1",
+            "text": "Ben"
+          },
+          {
+            "id": "c2",
+            "text": "Sam"
+          },
+          {
+            "id": "c3",
+            "text": "Eve"
+          }
         ]
       },
-      "correct_answer": "Eve",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story begins with 'Eve fell. Eve hit her leg.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 61
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/7.png"
+      },
+      "order_index": 61,
+      "passage_id": "p7"
     },
     {
       "slug": "q062",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve fell.<br>\nEve hit her leg.<br>\n\"Let me help,\" says Ben.<br>\nBen helps Eve get up.<br>\nEve feels less well.<br>\nHer leg is red.<br>\n\"See the vet,\" says Ben.<br>\n\"Yes, let's see the vet,\" says Eve.<br>\nEve and Ben see the vet.<br>\nThe vet checks Eve's leg.<br>\n\"Rest,\" says the vet.<br>\nEve rests. Ben sits with Eve.<br>\nEve feels better.<br>\nThen, Eve and Ben play.\n</div><br>\n<span style=\"color:red;\">62. What did Eve hit?</span>",
       "type": "mcq",
+      "prompt": "What did Eve hit?",
       "options": {
         "choices": [
-          "Eve hit her head",
-          "Eve hit her heart",
-          "Eve hit her leg"
+          {
+            "id": "c1",
+            "text": "Eve hit her head"
+          },
+          {
+            "id": "c2",
+            "text": "Eve hit her heart"
+          },
+          {
+            "id": "c3",
+            "text": "Eve hit her leg"
+          }
         ]
       },
-      "correct_answer": "Eve hit her leg",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Eve hit her leg.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 62
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/7.png"
+      },
+      "order_index": 62,
+      "passage_id": "p7"
     },
     {
       "slug": "q063",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve fell.<br>\nEve hit her leg.<br>\n\"Let me help,\" says Ben.<br>\nBen helps Eve get up.<br>\nEve feels less well.<br>\nHer leg is red.<br>\n\"See the vet,\" says Ben.<br>\n\"Yes, let's see the vet,\" says Eve.<br>\nEve and Ben see the vet.<br>\nThe vet checks Eve's leg.<br>\n\"Rest,\" says the vet.<br>\nEve rests. Ben sits with Eve.<br>\nEve feels better.<br>\nThen, Eve and Ben play.\n</div><br>\n<span style=\"color:red;\">63. Who helps Eve get up?</span>",
       "type": "mcq",
+      "prompt": "Who helps Eve get up?",
       "options": {
         "choices": [
-          "Sam",
-          "Ben",
-          "Dad"
+          {
+            "id": "c1",
+            "text": "Sam"
+          },
+          {
+            "id": "c2",
+            "text": "Ben"
+          },
+          {
+            "id": "c3",
+            "text": "Dad"
+          }
         ]
       },
-      "correct_answer": "Ben",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Ben helps Eve get up.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 63
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/7.png"
+      },
+      "order_index": 63,
+      "passage_id": "p7"
     },
     {
       "slug": "q064",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve fell.<br>\nEve hit her leg.<br>\n\"Let me help,\" says Ben.<br>\nBen helps Eve get up.<br>\nEve feels less well.<br>\nHer leg is red.<br>\n\"See the vet,\" says Ben.<br>\n\"Yes, let's see the vet,\" says Eve.<br>\nEve and Ben see the vet.<br>\nThe vet checks Eve's leg.<br>\n\"Rest,\" says the vet.<br>\nEve rests. Ben sits with Eve.<br>\nEve feels better.<br>\nThen, Eve and Ben play.\n</div><br>\n<span style=\"color:red;\">64. What color was Eve's leg?</span>",
       "type": "mcq",
+      "prompt": "What color was Eve's leg?",
       "options": {
         "choices": [
-          "blue",
-          "black",
-          "red"
+          {
+            "id": "c1",
+            "text": "blue"
+          },
+          {
+            "id": "c2",
+            "text": "black"
+          },
+          {
+            "id": "c3",
+            "text": "red"
+          }
         ]
       },
-      "correct_answer": "red",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Her leg is red.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 64
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/7.png"
+      },
+      "order_index": 64,
+      "passage_id": "p7"
     },
     {
       "slug": "q065",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve fell.<br>\nEve hit her leg.<br>\n\"Let me help,\" says Ben.<br>\nBen helps Eve get up.<br>\nEve feels less well.<br>\nHer leg is red.<br>\n\"See the vet,\" says Ben.<br>\n\"Yes, let's see the vet,\" says Eve.<br>\nEve and Ben see the vet.<br>\nThe vet checks Eve's leg.<br>\n\"Rest,\" says the vet.<br>\nEve rests. Ben sits with Eve.<br>\nEve feels better.<br>\nThen, Eve and Ben play.\n</div><br>\n<span style=\"color:red;\">65. Where did Ben take Eve?</span>",
       "type": "mcq",
+      "prompt": "Where did Ben take Eve?",
       "options": {
         "choices": [
-          "to the supermarket",
-          "to the grocery",
-          "to the vet"
+          {
+            "id": "c1",
+            "text": "to the supermarket"
+          },
+          {
+            "id": "c2",
+            "text": "to the grocery"
+          },
+          {
+            "id": "c3",
+            "text": "to the vet"
+          }
         ]
       },
-      "correct_answer": "to the vet",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Ben says 'See the vet,' and they both go to the vet.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 65
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/7.png"
+      },
+      "order_index": 65,
+      "passage_id": "p7"
     },
     {
       "slug": "q066",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve fell.<br>\nEve hit her leg.<br>\n\"Let me help,\" says Ben.<br>\nBen helps Eve get up.<br>\nEve feels less well.<br>\nHer leg is red.<br>\n\"See the vet,\" says Ben.<br>\n\"Yes, let's see the vet,\" says Eve.<br>\nEve and Ben see the vet.<br>\nThe vet checks Eve's leg.<br>\n\"Rest,\" says the vet.<br>\nEve rests. Ben sits with Eve.<br>\nEve feels better.<br>\nThen, Eve and Ben play.\n</div><br>\n<span style=\"color:red;\">66. What does the vet say?</span>",
       "type": "mcq",
+      "prompt": "What does the vet say?",
       "options": {
         "choices": [
-          "cry",
-          "rest",
-          "sleep"
+          {
+            "id": "c1",
+            "text": "cry"
+          },
+          {
+            "id": "c2",
+            "text": "rest"
+          },
+          {
+            "id": "c3",
+            "text": "sleep"
+          }
         ]
       },
-      "correct_answer": "rest",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The vet tells Eve to 'Rest,' so that her leg can heal.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 66
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/7.png"
+      },
+      "order_index": 66,
+      "passage_id": "p7"
     },
     {
       "slug": "q067",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve fell.<br>\nEve hit her leg.<br>\n\"Let me help,\" says Ben.<br>\nBen helps Eve get up.<br>\nEve feels less well.<br>\nHer leg is red.<br>\n\"See the vet,\" says Ben.<br>\n\"Yes, let's see the vet,\" says Eve.<br>\nEve and Ben see the vet.<br>\nThe vet checks Eve's leg.<br>\n\"Rest,\" says the vet.<br>\nEve rests. Ben sits with Eve.<br>\nEve feels better.<br>\nThen, Eve and Ben play.\n</div><br>\n<span style=\"color:red;\">67. What does the vet check?</span>",
       "type": "mcq",
+      "prompt": "What does the vet check?",
       "options": {
         "choices": [
-          "Eve's leg",
-          "Eve's heart",
-          "Eve's eyes"
+          {
+            "id": "c1",
+            "text": "Eve's leg"
+          },
+          {
+            "id": "c2",
+            "text": "Eve's heart"
+          },
+          {
+            "id": "c3",
+            "text": "Eve's eyes"
+          }
         ]
       },
-      "correct_answer": "Eve's leg",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'The vet checks Eve's leg.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 67
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/7.png"
+      },
+      "order_index": 67,
+      "passage_id": "p7"
     },
     {
       "slug": "q068",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve fell.<br>\nEve hit her leg.<br>\n\"Let me help,\" says Ben.<br>\nBen helps Eve get up.<br>\nEve feels less well.<br>\nHer leg is red.<br>\n\"See the vet,\" says Ben.<br>\n\"Yes, let's see the vet,\" says Eve.<br>\nEve and Ben see the vet.<br>\nThe vet checks Eve's leg.<br>\n\"Rest,\" says the vet.<br>\nEve rests. Ben sits with Eve.<br>\nEve feels better.<br>\nThen, Eve and Ben play.\n</div><br>\n<span style=\"color:red;\">68. How does Eve feel at the end of the story?</span>",
       "type": "mcq",
+      "prompt": "How does Eve feel at the end of the story?",
       "options": {
         "choices": [
-          "Eve feels sick",
-          "Eve feels better",
-          "Eve feels more tired"
+          {
+            "id": "c1",
+            "text": "Eve feels sick"
+          },
+          {
+            "id": "c2",
+            "text": "Eve feels better"
+          },
+          {
+            "id": "c3",
+            "text": "Eve feels more tired"
+          }
         ]
       },
-      "correct_answer": "Eve feels better",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "After resting, 'Eve feels better' and they go on to play.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 68
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/7.png"
+      },
+      "order_index": 68,
+      "passage_id": "p7"
     },
     {
       "slug": "q069",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve fell.<br>\nEve hit her leg.<br>\n\"Let me help,\" says Ben.<br>\nBen helps Eve get up.<br>\nEve feels less well.<br>\nHer leg is red.<br>\n\"See the vet,\" says Ben.<br>\n\"Yes, let's see the vet,\" says Eve.<br>\nEve and Ben see the vet.<br>\nThe vet checks Eve's leg.<br>\n\"Rest,\" says the vet.<br>\nEve rests. Ben sits with Eve.<br>\nEve feels better.<br>\nThen, Eve and Ben play.\n</div><br>\n<span style=\"color:red;\">69. What is the past form of play?</span>",
       "type": "mcq",
+      "prompt": "What is the past form of play?",
       "options": {
         "choices": [
-          "run",
-          "read",
-          "played"
+          {
+            "id": "c1",
+            "text": "run"
+          },
+          {
+            "id": "c2",
+            "text": "read"
+          },
+          {
+            "id": "c3",
+            "text": "played"
+          }
         ]
       },
-      "correct_answer": "played",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The past tense of play is played.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 69
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/7.png"
+      },
+      "order_index": 69,
+      "passage_id": "p7"
     },
     {
       "slug": "q070",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nEve fell.<br>\nEve hit her leg.<br>\n\"Let me help,\" says Ben.<br>\nBen helps Eve get up.<br>\nEve feels less well.<br>\nHer leg is red.<br>\n\"See the vet,\" says Ben.<br>\n\"Yes, let's see the vet,\" says Eve.<br>\nEve and Ben see the vet.<br>\nThe vet checks Eve's leg.<br>\n\"Rest,\" says the vet.<br>\nEve rests. Ben sits with Eve.<br>\nEve feels better.<br>\nThen, Eve and Ben play.\n</div><br>\n<span style=\"color:red;\">70. How many times was Eve's name mentioned?</span>",
       "type": "mcq",
+      "prompt": "How many times was Eve's name mentioned?",
       "options": {
         "choices": [
-          "10",
-          "11",
-          "7"
+          {
+            "id": "c1",
+            "text": "10"
+          },
+          {
+            "id": "c2",
+            "text": "11"
+          },
+          {
+            "id": "c3",
+            "text": "7"
+          }
         ]
       },
-      "correct_answer": "11",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Counting all appearances of 'Eve' in the story, her name is mentioned 11 times.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 70
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/7.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/7.png"
+      },
+      "order_index": 70,
+      "passage_id": "p7"
     },
     {
       "slug": "q071",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees Beth.<br>\nBeth sees Ted.<br>\nThey go to the sea and see the wet sand.<br>\nTed and Beth get wet.<br>\nThey step in the sea and feel the waves.<br>\nTed sees a shell.<br>\nBeth gets a shell.<br>\n\"I will get ten shells,\" says Beth.<br>\n\"Let me help,\" says Ted.<br>\nTed helps Beth collect ten shells.<br>\nTed sees a red shell.<br>\nBeth gets the red shell.<br>\n\"Best!\" says Beth.<br>\nTed and Beth feel well at the sea.<br>\nTed and Beth collect ten red shells.\n</div><br>\n<span style=\"color:red;\">71. Who sees Beth?</span>",
       "type": "mcq",
+      "prompt": "Who sees Beth?",
       "options": {
         "choices": [
-          "Ted sees Beth",
-          "Ted sees the cat",
-          "Ted sees the teacher"
+          {
+            "id": "c1",
+            "text": "Ted sees Beth"
+          },
+          {
+            "id": "c2",
+            "text": "Ted sees the cat"
+          },
+          {
+            "id": "c3",
+            "text": "Ted sees the teacher"
+          }
         ]
       },
-      "correct_answer": "Ted sees Beth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story begins with 'Ted sees Beth.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 71
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/8.png"
+      },
+      "order_index": 71,
+      "passage_id": "p8"
     },
     {
       "slug": "q072",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees Beth.<br>\nBeth sees Ted.<br>\nThey go to the sea and see the wet sand.<br>\nTed and Beth get wet.<br>\nThey step in the sea and feel the waves.<br>\nTed sees a shell.<br>\nBeth gets a shell.<br>\n\"I will get ten shells,\" says Beth.<br>\n\"Let me help,\" says Ted.<br>\nTed helps Beth collect ten shells.<br>\nTed sees a red shell.<br>\nBeth gets the red shell.<br>\n\"Best!\" says Beth.<br>\nTed and Beth feel well at the sea.<br>\nTed and Beth collect ten red shells.\n</div><br>\n<span style=\"color:red;\">72. Where do Ted and Beth go?</span>",
       "type": "mcq",
+      "prompt": "Where do Ted and Beth go?",
       "options": {
         "choices": [
-          "to the sea",
-          "to the city",
-          "to the mountain"
+          {
+            "id": "c1",
+            "text": "to the sea"
+          },
+          {
+            "id": "c2",
+            "text": "to the city"
+          },
+          {
+            "id": "c3",
+            "text": "to the mountain"
+          }
         ]
       },
-      "correct_answer": "to the sea",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'They go to the sea and see the wet sand.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 72
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/8.png"
+      },
+      "order_index": 72,
+      "passage_id": "p8"
     },
     {
       "slug": "q073",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees Beth.<br>\nBeth sees Ted.<br>\nThey go to the sea and see the wet sand.<br>\nTed and Beth get wet.<br>\nThey step in the sea and feel the waves.<br>\nTed sees a shell.<br>\nBeth gets a shell.<br>\n\"I will get ten shells,\" says Beth.<br>\n\"Let me help,\" says Ted.<br>\nTed helps Beth collect ten shells.<br>\nTed sees a red shell.<br>\nBeth gets the red shell.<br>\n\"Best!\" says Beth.<br>\nTed and Beth feel well at the sea.<br>\nTed and Beth collect ten red shells.\n</div><br>\n<span style=\"color:red;\">73. What do Ted and Beth see?</span>",
       "type": "mcq",
+      "prompt": "What do Ted and Beth see?",
       "options": {
         "choices": [
-          "they see the wet sand",
-          "they see the wet cow",
-          "they see the wet floor"
+          {
+            "id": "c1",
+            "text": "they see the wet sand"
+          },
+          {
+            "id": "c2",
+            "text": "they see the wet cow"
+          },
+          {
+            "id": "c3",
+            "text": "they see the wet floor"
+          }
         ]
       },
-      "correct_answer": "they see the wet sand",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'They go to the sea and see the wet sand.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 73
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/8.png"
+      },
+      "order_index": 73,
+      "passage_id": "p8"
     },
     {
       "slug": "q074",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees Beth.<br>\nBeth sees Ted.<br>\nThey go to the sea and see the wet sand.<br>\nTed and Beth get wet.<br>\nThey step in the sea and feel the waves.<br>\nTed sees a shell.<br>\nBeth gets a shell.<br>\n\"I will get ten shells,\" says Beth.<br>\n\"Let me help,\" says Ted.<br>\nTed helps Beth collect ten shells.<br>\nTed sees a red shell.<br>\nBeth gets the red shell.<br>\n\"Best!\" says Beth.<br>\nTed and Beth feel well at the sea.<br>\nTed and Beth collect ten red shells.\n</div><br>\n<span style=\"color:red;\">74. Where do Ted and Beth step into?</span>",
       "type": "mcq",
+      "prompt": "Where do Ted and Beth step into?",
       "options": {
         "choices": [
-          "they step in the sea",
-          "they step in the van",
-          "they step in the boat"
+          {
+            "id": "c1",
+            "text": "they step in the sea"
+          },
+          {
+            "id": "c2",
+            "text": "they step in the van"
+          },
+          {
+            "id": "c3",
+            "text": "they step in the boat"
+          }
         ]
       },
-      "correct_answer": "they step in the sea",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'They step in the sea and feel the waves.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 74
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/8.png"
+      },
+      "order_index": 74,
+      "passage_id": "p8"
     },
     {
       "slug": "q075",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees Beth.<br>\nBeth sees Ted.<br>\nThey go to the sea and see the wet sand.<br>\nTed and Beth get wet.<br>\nThey step in the sea and feel the waves.<br>\nTed sees a shell.<br>\nBeth gets a shell.<br>\n\"I will get ten shells,\" says Beth.<br>\n\"Let me help,\" says Ted.<br>\nTed helps Beth collect ten shells.<br>\nTed sees a red shell.<br>\nBeth gets the red shell.<br>\n\"Best!\" says Beth.<br>\nTed and Beth feel well at the sea.<br>\nTed and Beth collect ten red shells.\n</div><br>\n<span style=\"color:red;\">75. What do Ted and Beth feel?</span>",
       "type": "mcq",
+      "prompt": "What do Ted and Beth feel?",
       "options": {
         "choices": [
-          "they feel the wind",
-          "they feel the rain",
-          "they feel the waves"
+          {
+            "id": "c1",
+            "text": "they feel the wind"
+          },
+          {
+            "id": "c2",
+            "text": "they feel the rain"
+          },
+          {
+            "id": "c3",
+            "text": "they feel the waves"
+          }
         ]
       },
-      "correct_answer": "they feel the waves",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'They step in the sea and feel the waves.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 75
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/8.png"
+      },
+      "order_index": 75,
+      "passage_id": "p8"
     },
     {
       "slug": "q076",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees Beth.<br>\nBeth sees Ted.<br>\nThey go to the sea and see the wet sand.<br>\nTed and Beth get wet.<br>\nThey step in the sea and feel the waves.<br>\nTed sees a shell.<br>\nBeth gets a shell.<br>\n\"I will get ten shells,\" says Beth.<br>\n\"Let me help,\" says Ted.<br>\nTed helps Beth collect ten shells.<br>\nTed sees a red shell.<br>\nBeth gets the red shell.<br>\n\"Best!\" says Beth.<br>\nTed and Beth feel well at the sea.<br>\nTed and Beth collect ten red shells.\n</div><br>\n<span style=\"color:red;\">76. What does Ted see?</span>",
       "type": "mcq",
+      "prompt": "What does Ted see?",
       "options": {
         "choices": [
-          "Ted sees girls",
-          "Ted sees a shell",
-          "Ted sees cats"
+          {
+            "id": "c1",
+            "text": "Ted sees girls"
+          },
+          {
+            "id": "c2",
+            "text": "Ted sees a shell"
+          },
+          {
+            "id": "c3",
+            "text": "Ted sees cats"
+          }
         ]
       },
-      "correct_answer": "Ted sees a shell",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Ted sees a shell.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 76
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/8.png"
+      },
+      "order_index": 76,
+      "passage_id": "p8"
     },
     {
       "slug": "q077",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees Beth.<br>\nBeth sees Ted.<br>\nThey go to the sea and see the wet sand.<br>\nTed and Beth get wet.<br>\nThey step in the sea and feel the waves.<br>\nTed sees a shell.<br>\nBeth gets a shell.<br>\n\"I will get ten shells,\" says Beth.<br>\n\"Let me help,\" says Ted.<br>\nTed helps Beth collect ten shells.<br>\nTed sees a red shell.<br>\nBeth gets the red shell.<br>\n\"Best!\" says Beth.<br>\nTed and Beth feel well at the sea.<br>\nTed and Beth collect ten red shells.\n</div><br>\n<span style=\"color:red;\">77. Who gets ten shells?</span>",
       "type": "mcq",
+      "prompt": "Who gets ten shells?",
       "options": {
         "choices": [
-          "Ted gets ten shells",
-          "Beth gets ten shells",
-          "Sam gets ten shells"
+          {
+            "id": "c1",
+            "text": "Ted gets ten shells"
+          },
+          {
+            "id": "c2",
+            "text": "Beth gets ten shells"
+          },
+          {
+            "id": "c3",
+            "text": "Sam gets ten shells"
+          }
         ]
       },
-      "correct_answer": "Beth gets ten shells",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Beth says 'I will get ten shells,' and Ted helps her collect them.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 77
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/8.png"
+      },
+      "order_index": 77,
+      "passage_id": "p8"
     },
     {
       "slug": "q078",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees Beth.<br>\nBeth sees Ted.<br>\nThey go to the sea and see the wet sand.<br>\nTed and Beth get wet.<br>\nThey step in the sea and feel the waves.<br>\nTed sees a shell.<br>\nBeth gets a shell.<br>\n\"I will get ten shells,\" says Beth.<br>\n\"Let me help,\" says Ted.<br>\nTed helps Beth collect ten shells.<br>\nTed sees a red shell.<br>\nBeth gets the red shell.<br>\n\"Best!\" says Beth.<br>\nTed and Beth feel well at the sea.<br>\nTed and Beth collect ten red shells.\n</div><br>\n<span style=\"color:red;\">78. Who sees a red shell?</span>",
       "type": "mcq",
+      "prompt": "Who sees a red shell?",
       "options": {
         "choices": [
-          "Father sees a red shell",
-          "Sam sees a red shell",
-          "Beth sees a red shell"
+          {
+            "id": "c1",
+            "text": "Father sees a red shell"
+          },
+          {
+            "id": "c2",
+            "text": "Sam sees a red shell"
+          },
+          {
+            "id": "c3",
+            "text": "Beth sees a red shell"
+          }
         ]
       },
-      "correct_answer": "Beth sees a red shell",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Ted sees the red shell, and Beth gets it — so Beth is the one who ends up with the red shell.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 78
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/8.png"
+      },
+      "order_index": 78,
+      "passage_id": "p8"
     },
     {
       "slug": "q079",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees Beth.<br>\nBeth sees Ted.<br>\nThey go to the sea and see the wet sand.<br>\nTed and Beth get wet.<br>\nThey step in the sea and feel the waves.<br>\nTed sees a shell.<br>\nBeth gets a shell.<br>\n\"I will get ten shells,\" says Beth.<br>\n\"Let me help,\" says Ted.<br>\nTed helps Beth collect ten shells.<br>\nTed sees a red shell.<br>\nBeth gets the red shell.<br>\n\"Best!\" says Beth.<br>\nTed and Beth feel well at the sea.<br>\nTed and Beth collect ten red shells.\n</div><br>\n<span style=\"color:red;\">79. How do Ted and Beth feel at the sea?</span>",
       "type": "mcq",
+      "prompt": "How do Ted and Beth feel at the sea?",
       "options": {
         "choices": [
-          "They both feel bad at the sea",
-          "They both feel well at the sea",
-          "They both feel sad at the sea"
+          {
+            "id": "c1",
+            "text": "They both feel bad at the sea"
+          },
+          {
+            "id": "c2",
+            "text": "They both feel well at the sea"
+          },
+          {
+            "id": "c3",
+            "text": "They both feel sad at the sea"
+          }
         ]
       },
-      "correct_answer": "They both feel well at the sea",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Ted and Beth feel well at the sea.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 79
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/8.png"
+      },
+      "order_index": 79,
+      "passage_id": "p8"
     },
     {
       "slug": "q080",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees Beth.<br>\nBeth sees Ted.<br>\nThey go to the sea and see the wet sand.<br>\nTed and Beth get wet.<br>\nThey step in the sea and feel the waves.<br>\nTed sees a shell.<br>\nBeth gets a shell.<br>\n\"I will get ten shells,\" says Beth.<br>\n\"Let me help,\" says Ted.<br>\nTed helps Beth collect ten shells.<br>\nTed sees a red shell.<br>\nBeth gets the red shell.<br>\n\"Best!\" says Beth.<br>\nTed and Beth feel well at the sea.<br>\nTed and Beth collect ten red shells.\n</div><br>\n<span style=\"color:red;\">80. What do Ted and Beth collect?</span>",
       "type": "mcq",
+      "prompt": "What do Ted and Beth collect?",
       "options": {
         "choices": [
-          "Ted and Beth collect blue shells",
-          "Ted and Beth collect red shells",
-          "Ted and Beth collect black shells"
+          {
+            "id": "c1",
+            "text": "Ted and Beth collect blue shells"
+          },
+          {
+            "id": "c2",
+            "text": "Ted and Beth collect red shells"
+          },
+          {
+            "id": "c3",
+            "text": "Ted and Beth collect black shells"
+          }
         ]
       },
-      "correct_answer": "Ted and Beth collect red shells",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Ted and Beth collect ten red shells.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 80
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/8.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/8.png"
+      },
+      "order_index": 80,
+      "passage_id": "p8"
     },
     {
       "slug": "q081",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a red bee.<br>\nBen sees ten red bees.<br>\nBeth sees ten beetles.<br>\nTed, Ben, and Beth see them feed.<br>\nTed, Ben, and Beth see them flee.<br>\nTed sees no more red bees.<br>\nBen sees no more beetles.<br>\nBeth feels sad.\n</div><br>\n<span style=\"color:red;\">81. What does Ted see?</span>",
       "type": "mcq",
+      "prompt": "What does Ted see?",
       "options": {
         "choices": [
-          "Ted sees a red bee",
-          "Ted sees a sea",
-          "Ted sees a fish"
+          {
+            "id": "c1",
+            "text": "Ted sees a red bee"
+          },
+          {
+            "id": "c2",
+            "text": "Ted sees a sea"
+          },
+          {
+            "id": "c3",
+            "text": "Ted sees a fish"
+          }
         ]
       },
-      "correct_answer": "Ted sees a red bee",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story begins with 'Ted sees a red bee.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 81
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/9.png"
+      },
+      "order_index": 81,
+      "passage_id": "p9"
     },
     {
       "slug": "q082",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a red bee.<br>\nBen sees ten red bees.<br>\nBeth sees ten beetles.<br>\nTed, Ben, and Beth see them feed.<br>\nTed, Ben, and Beth see them flee.<br>\nTed sees no more red bees.<br>\nBen sees no more beetles.<br>\nBeth feels sad.\n</div><br>\n<span style=\"color:red;\">82. What does Ben see?</span>",
       "type": "mcq",
+      "prompt": "What does Ben see?",
       "options": {
         "choices": [
-          "Ben sees Sandy",
-          "Ben sees ten red fish",
-          "Ben sees ten red bees"
+          {
+            "id": "c1",
+            "text": "Ben sees Sandy"
+          },
+          {
+            "id": "c2",
+            "text": "Ben sees ten red fish"
+          },
+          {
+            "id": "c3",
+            "text": "Ben sees ten red bees"
+          }
         ]
       },
-      "correct_answer": "Ben sees ten red bees",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Ben sees ten red bees.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 82
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/9.png"
+      },
+      "order_index": 82,
+      "passage_id": "p9"
     },
     {
       "slug": "q083",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a red bee.<br>\nBen sees ten red bees.<br>\nBeth sees ten beetles.<br>\nTed, Ben, and Beth see them feed.<br>\nTed, Ben, and Beth see them flee.<br>\nTed sees no more red bees.<br>\nBen sees no more beetles.<br>\nBeth feels sad.\n</div><br>\n<span style=\"color:red;\">83. What does Beth see?</span>",
       "type": "mcq",
+      "prompt": "What does Beth see?",
       "options": {
         "choices": [
-          "Beth sees twenty beetles",
-          "Beth sees two beetles",
-          "Beth sees ten beetles"
+          {
+            "id": "c1",
+            "text": "Beth sees twenty beetles"
+          },
+          {
+            "id": "c2",
+            "text": "Beth sees two beetles"
+          },
+          {
+            "id": "c3",
+            "text": "Beth sees ten beetles"
+          }
         ]
       },
-      "correct_answer": "Beth sees ten beetles",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Beth sees ten beetles.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 83
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/9.png"
+      },
+      "order_index": 83,
+      "passage_id": "p9"
     },
     {
       "slug": "q084",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a red bee.<br>\nBen sees ten red bees.<br>\nBeth sees ten beetles.<br>\nTed, Ben, and Beth see them feed.<br>\nTed, Ben, and Beth see them flee.<br>\nTed sees no more red bees.<br>\nBen sees no more beetles.<br>\nBeth feels sad.\n</div><br>\n<span style=\"color:red;\">84. What is another word for feed?</span>",
       "type": "mcq",
+      "prompt": "What is another word for feed?",
       "options": {
         "choices": [
-          "drink",
-          "fly",
-          "eat"
+          {
+            "id": "c1",
+            "text": "drink"
+          },
+          {
+            "id": "c2",
+            "text": "fly"
+          },
+          {
+            "id": "c3",
+            "text": "eat"
+          }
         ]
       },
-      "correct_answer": "eat",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Feed means to eat or give food. Another word for feed is eat.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 84
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/9.png"
+      },
+      "order_index": 84,
+      "passage_id": "p9"
     },
     {
       "slug": "q085",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a red bee.<br>\nBen sees ten red bees.<br>\nBeth sees ten beetles.<br>\nTed, Ben, and Beth see them feed.<br>\nTed, Ben, and Beth see them flee.<br>\nTed sees no more red bees.<br>\nBen sees no more beetles.<br>\nBeth feels sad.\n</div><br>\n<span style=\"color:red;\">85. What is another word for flee?</span>",
       "type": "mcq",
+      "prompt": "What is another word for flee?",
       "options": {
         "choices": [
-          "stay here",
-          "go away",
-          "forget it"
+          {
+            "id": "c1",
+            "text": "stay here"
+          },
+          {
+            "id": "c2",
+            "text": "go away"
+          },
+          {
+            "id": "c3",
+            "text": "forget it"
+          }
         ]
       },
-      "correct_answer": "go away",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Flee means to run away or escape. Another word for flee is go away.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 85
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/9.png"
+      },
+      "order_index": 85,
+      "passage_id": "p9"
     },
     {
       "slug": "q086",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a red bee.<br>\nBen sees ten red bees.<br>\nBeth sees ten beetles.<br>\nTed, Ben, and Beth see them feed.<br>\nTed, Ben, and Beth see them flee.<br>\nTed sees no more red bees.<br>\nBen sees no more beetles.<br>\nBeth feels sad.\n</div><br>\n<span style=\"color:red;\">86. Which character feels sad?</span>",
       "type": "mcq",
+      "prompt": "Which character feels sad?",
       "options": {
         "choices": [
-          "Ted",
-          "Ben",
-          "Beth"
+          {
+            "id": "c1",
+            "text": "Ted"
+          },
+          {
+            "id": "c2",
+            "text": "Ben"
+          },
+          {
+            "id": "c3",
+            "text": "Beth"
+          }
         ]
       },
-      "correct_answer": "Beth",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "At the end of the story, 'Beth feels sad' because the beetles are gone.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 86
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/9.png"
+      },
+      "order_index": 86,
+      "passage_id": "p9"
     },
     {
       "slug": "q087",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a red bee.<br>\nBen sees ten red bees.<br>\nBeth sees ten beetles.<br>\nTed, Ben, and Beth see them feed.<br>\nTed, Ben, and Beth see them flee.<br>\nTed sees no more red bees.<br>\nBen sees no more beetles.<br>\nBeth feels sad.\n</div><br>\n<span style=\"color:red;\">87. How many human characters are there in the story?</span>",
       "type": "mcq",
+      "prompt": "How many human characters are there in the story?",
       "options": {
         "choices": [
-          "3 characters",
-          "5 characters",
-          "no characters"
+          {
+            "id": "c1",
+            "text": "3 characters"
+          },
+          {
+            "id": "c2",
+            "text": "5 characters"
+          },
+          {
+            "id": "c3",
+            "text": "no characters"
+          }
         ]
       },
-      "correct_answer": "3 characters",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "There are three human characters: Ted, Ben, and Beth.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 87
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/9.png"
+      },
+      "order_index": 87,
+      "passage_id": "p9"
     },
     {
       "slug": "q088",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a red bee.<br>\nBen sees ten red bees.<br>\nBeth sees ten beetles.<br>\nTed, Ben, and Beth see them feed.<br>\nTed, Ben, and Beth see them flee.<br>\nTed sees no more red bees.<br>\nBen sees no more beetles.<br>\nBeth feels sad.\n</div><br>\n<span style=\"color:red;\">88. In the story, what color is the bee?</span>",
       "type": "mcq",
+      "prompt": "In the story, what color is the bee?",
       "options": {
         "choices": [
-          "yellow",
-          "red",
-          "blue"
+          {
+            "id": "c1",
+            "text": "yellow"
+          },
+          {
+            "id": "c2",
+            "text": "red"
+          },
+          {
+            "id": "c3",
+            "text": "blue"
+          }
         ]
       },
-      "correct_answer": "red",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Ted sees a red bee' and 'Ben sees ten red bees.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 88
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/9.png"
+      },
+      "order_index": 88,
+      "passage_id": "p9"
     },
     {
       "slug": "q089",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a red bee.<br>\nBen sees ten red bees.<br>\nBeth sees ten beetles.<br>\nTed, Ben, and Beth see them feed.<br>\nTed, Ben, and Beth see them flee.<br>\nTed sees no more red bees.<br>\nBen sees no more beetles.<br>\nBeth feels sad.\n</div><br>\n<span style=\"color:red;\">89. What is the past form of feed?</span>",
       "type": "mcq",
+      "prompt": "What is the past form of feed?",
       "options": {
         "choices": [
-          "fed",
-          "food",
-          "first"
+          {
+            "id": "c1",
+            "text": "fed"
+          },
+          {
+            "id": "c2",
+            "text": "food"
+          },
+          {
+            "id": "c3",
+            "text": "first"
+          }
         ]
       },
-      "correct_answer": "fed",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The past tense of feed is fed.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 89
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/9.png"
+      },
+      "order_index": 89,
+      "passage_id": "p9"
     },
     {
       "slug": "q090",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nTed sees a red bee.<br>\nBen sees ten red bees.<br>\nBeth sees ten beetles.<br>\nTed, Ben, and Beth see them feed.<br>\nTed, Ben, and Beth see them flee.<br>\nTed sees no more red bees.<br>\nBen sees no more beetles.<br>\nBeth feels sad.\n</div><br>\n<span style=\"color:red;\">90. What is the past form of see?</span>",
       "type": "mcq",
+      "prompt": "What is the past form of see?",
       "options": {
         "choices": [
-          "so",
-          "saw",
-          "sees"
+          {
+            "id": "c1",
+            "text": "so"
+          },
+          {
+            "id": "c2",
+            "text": "saw"
+          },
+          {
+            "id": "c3",
+            "text": "sees"
+          }
         ]
       },
-      "correct_answer": "saw",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The past tense of see is saw.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 90
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/9.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/9.png"
+      },
+      "order_index": 90,
+      "passage_id": "p9"
     },
     {
       "slug": "q091",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJen is a red hen.<br>\nJen sees Ted.<br>\nTed has a red bed.<br>\nJen sees the bed.<br>\nJen has ten eggs.<br>\nJen lets the ten eggs rest in the bed.<br>\nThen, Jen sits on the ten eggs.<br>\nTed pets Jen.<br>\nJen and Ted rest next to the bed.\n</div><br>\n<span style=\"color:red;\">91. Who is Jen?</span>",
       "type": "mcq",
+      "prompt": "Who is Jen?",
       "options": {
         "choices": [
-          "Jen is a cat",
-          "Jen is a fish",
-          "Jen is a hen"
+          {
+            "id": "c1",
+            "text": "Jen is a cat"
+          },
+          {
+            "id": "c2",
+            "text": "Jen is a fish"
+          },
+          {
+            "id": "c3",
+            "text": "Jen is a hen"
+          }
         ]
       },
-      "correct_answer": "Jen is a hen",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story begins with 'Jen is a red hen.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 91
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/10.png"
+      },
+      "order_index": 91,
+      "passage_id": "p10"
     },
     {
       "slug": "q092",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJen is a red hen.<br>\nJen sees Ted.<br>\nTed has a red bed.<br>\nJen sees the bed.<br>\nJen has ten eggs.<br>\nJen lets the ten eggs rest in the bed.<br>\nThen, Jen sits on the ten eggs.<br>\nTed pets Jen.<br>\nJen and Ted rest next to the bed.\n</div><br>\n<span style=\"color:red;\">92. Who does Jen see?</span>",
       "type": "mcq",
+      "prompt": "Who does Jen see?",
       "options": {
         "choices": [
-          "Jen sees Dean",
-          "Jen sees Ted",
-          "Jen sees Sam"
+          {
+            "id": "c1",
+            "text": "Jen sees Dean"
+          },
+          {
+            "id": "c2",
+            "text": "Jen sees Ted"
+          },
+          {
+            "id": "c3",
+            "text": "Jen sees Sam"
+          }
         ]
       },
-      "correct_answer": "Jen sees Ted",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Jen sees Ted.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 92
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/10.png"
+      },
+      "order_index": 92,
+      "passage_id": "p10"
     },
     {
       "slug": "q093",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJen is a red hen.<br>\nJen sees Ted.<br>\nTed has a red bed.<br>\nJen sees the bed.<br>\nJen has ten eggs.<br>\nJen lets the ten eggs rest in the bed.<br>\nThen, Jen sits on the ten eggs.<br>\nTed pets Jen.<br>\nJen and Ted rest next to the bed.\n</div><br>\n<span style=\"color:red;\">93. What does Ted have?</span>",
       "type": "mcq",
+      "prompt": "What does Ted have?",
       "options": {
         "choices": [
-          "Ted has a red building",
-          "Ted has a red car",
-          "Ted has a red bed"
+          {
+            "id": "c1",
+            "text": "Ted has a red building"
+          },
+          {
+            "id": "c2",
+            "text": "Ted has a red car"
+          },
+          {
+            "id": "c3",
+            "text": "Ted has a red bed"
+          }
         ]
       },
-      "correct_answer": "Ted has a red bed",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The story says 'Ted has a red bed.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 93
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/10.png"
+      },
+      "order_index": 93,
+      "passage_id": "p10"
     },
     {
       "slug": "q094",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJen is a red hen.<br>\nJen sees Ted.<br>\nTed has a red bed.<br>\nJen sees the bed.<br>\nJen has ten eggs.<br>\nJen lets the ten eggs rest in the bed.<br>\nThen, Jen sits on the ten eggs.<br>\nTed pets Jen.<br>\nJen and Ted rest next to the bed.\n</div><br>\n<span style=\"color:red;\">94. What does Jen have?</span>",
       "type": "mcq",
+      "prompt": "What does Jen have?",
       "options": {
         "choices": [
-          "Jen has ten minutes",
-          "Jen has ten eggs",
-          "Jen has ten seconds"
+          {
+            "id": "c1",
+            "text": "Jen has ten minutes"
+          },
+          {
+            "id": "c2",
+            "text": "Jen has ten eggs"
+          },
+          {
+            "id": "c3",
+            "text": "Jen has ten seconds"
+          }
         ]
       },
-      "correct_answer": "Jen has ten eggs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Jen has ten eggs.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 94
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/10.png"
+      },
+      "order_index": 94,
+      "passage_id": "p10"
     },
     {
       "slug": "q095",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJen is a red hen.<br>\nJen sees Ted.<br>\nTed has a red bed.<br>\nJen sees the bed.<br>\nJen has ten eggs.<br>\nJen lets the ten eggs rest in the bed.<br>\nThen, Jen sits on the ten eggs.<br>\nTed pets Jen.<br>\nJen and Ted rest next to the bed.\n</div><br>\n<span style=\"color:red;\">95. What does Jen do?</span>",
       "type": "mcq",
+      "prompt": "What does Jen do?",
       "options": {
         "choices": [
-          "Jen sits on ten eggs",
-          "Jen eats five eggs",
-          "Ted sits on twenty eggs"
+          {
+            "id": "c1",
+            "text": "Jen sits on ten eggs"
+          },
+          {
+            "id": "c2",
+            "text": "Jen eats five eggs"
+          },
+          {
+            "id": "c3",
+            "text": "Ted sits on twenty eggs"
+          }
         ]
       },
-      "correct_answer": "Jen sits on ten eggs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The story says 'Then, Jen sits on the ten eggs.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 95
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/10.png"
+      },
+      "order_index": 95,
+      "passage_id": "p10"
     },
     {
       "slug": "q096",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJen is a red hen.<br>\nJen sees Ted.<br>\nTed has a red bed.<br>\nJen sees the bed.<br>\nJen has ten eggs.<br>\nJen lets the ten eggs rest in the bed.<br>\nThen, Jen sits on the ten eggs.<br>\nTed pets Jen.<br>\nJen and Ted rest next to the bed.\n</div><br>\n<span style=\"color:red;\">96. Where do Jen and Ted rest?</span>",
       "type": "mcq",
+      "prompt": "Where do Jen and Ted rest?",
       "options": {
         "choices": [
-          "next to mom",
-          "next to the bed",
-          "next to the house"
+          {
+            "id": "c1",
+            "text": "next to mom"
+          },
+          {
+            "id": "c2",
+            "text": "next to the bed"
+          },
+          {
+            "id": "c3",
+            "text": "next to the house"
+          }
         ]
       },
-      "correct_answer": "next to the bed",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Jen and Ted rest next to the bed.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 96
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/10.png"
+      },
+      "order_index": 96,
+      "passage_id": "p10"
     },
     {
       "slug": "q097",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJen is a red hen.<br>\nJen sees Ted.<br>\nTed has a red bed.<br>\nJen sees the bed.<br>\nJen has ten eggs.<br>\nJen lets the ten eggs rest in the bed.<br>\nThen, Jen sits on the ten eggs.<br>\nTed pets Jen.<br>\nJen and Ted rest next to the bed.\n</div><br>\n<span style=\"color:red;\">97. Where do Jen and Ted rest?</span>",
       "type": "mcq",
+      "prompt": "Where do Jen and Ted rest?",
       "options": {
         "choices": [
-          "next to mom",
-          "next to the bed",
-          "next to the house"
+          {
+            "id": "c1",
+            "text": "next to mom"
+          },
+          {
+            "id": "c2",
+            "text": "next to the bed"
+          },
+          {
+            "id": "c3",
+            "text": "next to the house"
+          }
         ]
       },
-      "correct_answer": "next to the bed",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Jen and Ted rest next to the bed.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 97
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/10.png"
+      },
+      "order_index": 97,
+      "passage_id": "p10"
     },
     {
       "slug": "q098",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJen is a red hen.<br>\nJen sees Ted.<br>\nTed has a red bed.<br>\nJen sees the bed.<br>\nJen has ten eggs.<br>\nJen lets the ten eggs rest in the bed.<br>\nThen, Jen sits on the ten eggs.<br>\nTed pets Jen.<br>\nJen and Ted rest next to the bed.\n</div><br>\n<span style=\"color:red;\">98. What is the color of the hen?</span>",
       "type": "mcq",
+      "prompt": "What is the color of the hen?",
       "options": {
         "choices": [
-          "blue",
-          "red",
-          "white"
+          {
+            "id": "c1",
+            "text": "blue"
+          },
+          {
+            "id": "c2",
+            "text": "red"
+          },
+          {
+            "id": "c3",
+            "text": "white"
+          }
         ]
       },
-      "correct_answer": "red",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The story says 'Jen is a red hen.'",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 98
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/10.png"
+      },
+      "order_index": 98,
+      "passage_id": "p10"
     },
     {
       "slug": "q099",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJen is a red hen.<br>\nJen sees Ted.<br>\nTed has a red bed.<br>\nJen sees the bed.<br>\nJen has ten eggs.<br>\nJen lets the ten eggs rest in the bed.<br>\nThen, Jen sits on the ten eggs.<br>\nTed pets Jen.<br>\nJen and Ted rest next to the bed.\n</div><br>\n<span style=\"color:red;\">99. What is the past form of have?</span>",
       "type": "mcq",
+      "prompt": "What is the past form of have?",
       "options": {
         "choices": [
-          "has",
-          "had",
-          "hid"
+          {
+            "id": "c1",
+            "text": "has"
+          },
+          {
+            "id": "c2",
+            "text": "had"
+          },
+          {
+            "id": "c3",
+            "text": "hid"
+          }
         ]
       },
-      "correct_answer": "had",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The past tense of have is had.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 99
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/10.png"
+      },
+      "order_index": 99,
+      "passage_id": "p10"
     },
     {
       "slug": "q100",
-      "prompt": "<div style=\"text-align:center; color:black;\">\nJen is a red hen.<br>\nJen sees Ted.<br>\nTed has a red bed.<br>\nJen sees the bed.<br>\nJen has ten eggs.<br>\nJen lets the ten eggs rest in the bed.<br>\nThen, Jen sits on the ten eggs.<br>\nTed pets Jen.<br>\nJen and Ted rest next to the bed.\n</div><br>\n<span style=\"color:red;\">100. What comes before ten?</span>",
       "type": "mcq",
+      "prompt": "What comes before ten?",
       "options": {
         "choices": [
-          "nine",
-          "no",
-          "four"
+          {
+            "id": "c1",
+            "text": "nine"
+          },
+          {
+            "id": "c2",
+            "text": "no"
+          },
+          {
+            "id": "c3",
+            "text": "four"
+          }
         ]
       },
-      "correct_answer": "nine",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Nine comes before ten when counting numbers.",
-      "media": null,
-      "difficulty": 1,
-      "order_index": 100
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/english/leve1_eng_vowels_E/10.webp",
+        "alt": "",
+        "source_path": "../../../image/leve1_eng_vowels_E/10.png"
+      },
+      "order_index": 100,
+      "passage_id": "p10"
+    }
+  ],
+  "title_needs_review": true,
+  "passages": [
+    {
+      "id": "p1",
+      "text": "Ted gets a pen.\nThe pen is red.\nHe draws ten red hens.\nThen, Ted gets a brown pen.\nHe draws a shed for the ten hens.\nTed is happy."
+    },
+    {
+      "id": "p2",
+      "text": "Ted sees a hen.\nTed has a hen.\nThe hen is by the shed.\nThe hen pecks and pecks.\nThe hen must be fed.\nTed feeds the hen.\nHen eats and eats.\nHen is happy.\nTed is happy."
+    },
+    {
+      "id": "p3",
+      "text": "Ed is a vet.\nHe can help pets.\nEd sees a hen.\nEd will help the hen.\nThe hen is sad.\nThe hen is not well.\nEd will help the hen.\nNow, the hen is well!"
+    },
+    {
+      "id": "p4",
+      "text": "Meg sells eggs.\nTed sees ten eggs.\nTed says, \"Can I get ten eggs?\"\nMeg says, \"Yes, you bet!\"\nMeg gets the ten eggs for Ted.\nTed says, \"Thank you!\"\nMeg is happy with her ten cents.\nTed is happy with the ten eggs."
+    },
+    {
+      "id": "p5",
+      "text": "Ted is my pet.\nTed has a web.\nHis web is his nest bed.\nTed rests in his web.\nTed gets ten red bugs in his web.\nHe lets them get in, then he gets them.\nTed will get fed well.\nTed is a happy pet!"
+    },
+    {
+      "id": "p6",
+      "text": "Eve sees a jet.\nThe jet is red.\nEve tells Ben, \"See the jet!\"\n\"Can we get in?\" says Ben.\n\"I bet we get in,\" says Eve.\nEve and Ben get in the jet.\nThey sit on a red seat.\nThe jet goes up, up, up.\n\"Best!\" says Eve."
+    },
+    {
+      "id": "p7",
+      "text": "Eve fell.\nEve hit her leg.\n\"Let me help,\" says Ben.\nBen helps Eve get up.\nEve feels less well.\nHer leg is red.\n\"See the vet,\" says Ben.\n\"Yes, let's see the vet,\" says Eve.\nEve and Ben see the vet.\nThe vet checks Eve's leg.\n\"Rest,\" says the vet.\nEve rests. Ben sits with Eve.\nEve feels better.\nThen, Eve and Ben play."
+    },
+    {
+      "id": "p8",
+      "text": "Ted sees Beth.\nBeth sees Ted.\nThey go to the sea and see the wet sand.\nTed and Beth get wet.\nThey step in the sea and feel the waves.\nTed sees a shell.\nBeth gets a shell.\n\"I will get ten shells,\" says Beth.\n\"Let me help,\" says Ted.\nTed helps Beth collect ten shells.\nTed sees a red shell.\nBeth gets the red shell.\n\"Best!\" says Beth.\nTed and Beth feel well at the sea.\nTed and Beth collect ten red shells."
+    },
+    {
+      "id": "p9",
+      "text": "Ted sees a red bee.\nBen sees ten red bees.\nBeth sees ten beetles.\nTed, Ben, and Beth see them feed.\nTed, Ben, and Beth see them flee.\nTed sees no more red bees.\nBen sees no more beetles.\nBeth feels sad."
+    },
+    {
+      "id": "p10",
+      "text": "Jen is a red hen.\nJen sees Ted.\nTed has a red bed.\nJen sees the bed.\nJen has ten eggs.\nJen lets the ten eggs rest in the bed.\nThen, Jen sits on the ten eggs.\nTed pets Jen.\nJen and Ted rest next to the bed."
     }
   ]
 }

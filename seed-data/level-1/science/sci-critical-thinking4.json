@@ -1,1734 +1,3451 @@
 {
   "_source_file": "level1_sci_critical_thinking4.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 101,
-  "exercise": {
-    "slug": "sci-critical-thinking4",
-    "title": "Sci Critical Thinking4",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 101,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.554Z",
+  "slug": "sci-critical-thinking4",
+  "title": "Sci Critical Thinking4",
+  "level": "level-1",
+  "subject": "science",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 101,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What object is shown in the image?",
       "type": "mcq",
+      "prompt": "What object is shown in the image?",
       "options": {
         "choices": [
-          "bird",
-          "fish",
-          "butterfly"
+          {
+            "id": "c1",
+            "text": "bird"
+          },
+          {
+            "id": "c2",
+            "text": "fish"
+          },
+          {
+            "id": "c3",
+            "text": "butterfly"
+          }
         ]
       },
-      "correct_answer": "fish",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is fish.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image1.png"
+      },
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "What is the main color of the fish?",
       "type": "mcq",
+      "prompt": "What is the main color of the fish?",
       "options": {
         "choices": [
-          "blue",
-          "orange",
-          "green"
+          {
+            "id": "c1",
+            "text": "blue"
+          },
+          {
+            "id": "c2",
+            "text": "orange"
+          },
+          {
+            "id": "c3",
+            "text": "green"
+          }
         ]
       },
-      "correct_answer": "orange",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is orange.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image1.png"
+      },
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "What type of image is shown?",
       "type": "mcq",
+      "prompt": "What type of image is shown?",
       "options": {
         "choices": [
-          "real photograph",
-          "cartoon illustration",
-          "watercolor painting"
+          {
+            "id": "c1",
+            "text": "real photograph"
+          },
+          {
+            "id": "c2",
+            "text": "cartoon illustration"
+          },
+          {
+            "id": "c3",
+            "text": "watercolor painting"
+          }
         ]
       },
-      "correct_answer": "cartoon illustration",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is cartoon illustration.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image1.png"
+      },
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "What color are the stripes on the fish?",
       "type": "mcq",
+      "prompt": "What color are the stripes on the fish?",
       "options": {
         "choices": [
-          "white",
-          "yellow",
-          "red"
+          {
+            "id": "c1",
+            "text": "white"
+          },
+          {
+            "id": "c2",
+            "text": "yellow"
+          },
+          {
+            "id": "c3",
+            "text": "red"
+          }
         ]
       },
-      "correct_answer": "white",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is white.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image1.png"
+      },
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "How many white stripes are visible on the fish?",
       "type": "mcq",
+      "prompt": "How many white stripes are visible on the fish?",
       "options": {
         "choices": [
-          "one",
-          "two",
-          "three"
+          {
+            "id": "c1",
+            "text": "one"
+          },
+          {
+            "id": "c2",
+            "text": "two"
+          },
+          {
+            "id": "c3",
+            "text": "three"
+          }
         ]
       },
-      "correct_answer": "two",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is two.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image1.png"
+      },
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Which direction is the fish facing?",
       "type": "mcq",
+      "prompt": "Which direction is the fish facing?",
       "options": {
         "choices": [
-          "left",
-          "right",
-          "up"
+          {
+            "id": "c1",
+            "text": "left"
+          },
+          {
+            "id": "c2",
+            "text": "right"
+          },
+          {
+            "id": "c3",
+            "text": "up"
+          }
         ]
       },
-      "correct_answer": "right",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is right.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image1.png"
+      },
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "How many eyes can be seen on the fish?",
       "type": "mcq",
+      "prompt": "How many eyes can be seen on the fish?",
       "options": {
         "choices": [
-          "one",
-          "two",
-          "three"
+          {
+            "id": "c1",
+            "text": "one"
+          },
+          {
+            "id": "c2",
+            "text": "two"
+          },
+          {
+            "id": "c3",
+            "text": "three"
+          }
         ]
       },
-      "correct_answer": "one",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is one.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image1.png"
+      },
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Which type of fish does the fish in the image look like?",
       "type": "mcq",
+      "prompt": "Which type of fish does the fish in the image look like?",
       "options": {
         "choices": [
-          "shark",
-          "dog",
-          "clownfish"
+          {
+            "id": "c1",
+            "text": "shark"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "clownfish"
+          }
         ]
       },
-      "correct_answer": "clownfish",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is clownfish.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image1.png"
+      },
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "What color are fins of the fish?",
       "type": "mcq",
+      "prompt": "What color are fins of the fish?",
       "options": {
         "choices": [
-          "orange and dark gray",
-          "blue and white",
-          "green and yellow"
+          {
+            "id": "c1",
+            "text": "orange and dark gray"
+          },
+          {
+            "id": "c2",
+            "text": "blue and white"
+          },
+          {
+            "id": "c3",
+            "text": "green and yellow"
+          }
         ]
       },
-      "correct_answer": "orange and dark gray",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is orange and dark gray.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image1.png"
+      },
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Are fish mammals?",
       "type": "mcq",
+      "prompt": "Are fish mammals?",
       "options": {
         "choices": [
-          "yes, fish are mammals",
-          "no, fish are not mammals",
-          "fish are reptiles"
+          {
+            "id": "c1",
+            "text": "yes, fish are mammals"
+          },
+          {
+            "id": "c2",
+            "text": "no, fish are not mammals"
+          },
+          {
+            "id": "c3",
+            "text": "fish are reptiles"
+          }
         ]
       },
-      "correct_answer": "no, fish are not mammals",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is no, fish are not mammals.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image1.png"
+      },
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "What animal is shown in the image?",
       "type": "mcq",
+      "prompt": "What animal is shown in the image?",
       "options": {
         "choices": [
-          "turtle",
-          "snake",
-          "rabbit"
+          {
+            "id": "c1",
+            "text": "turtle"
+          },
+          {
+            "id": "c2",
+            "text": "snake"
+          },
+          {
+            "id": "c3",
+            "text": "rabbit"
+          }
         ]
       },
-      "correct_answer": "turtle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is turtle.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image2.png"
+      },
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "What is the main color of the turtle's body?",
       "type": "mcq",
+      "prompt": "What is the main color of the turtle's body?",
       "options": {
         "choices": [
-          "green",
-          "blue",
-          "red"
+          {
+            "id": "c1",
+            "text": "green"
+          },
+          {
+            "id": "c2",
+            "text": "blue"
+          },
+          {
+            "id": "c3",
+            "text": "red"
+          }
         ]
       },
-      "correct_answer": "green",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is green.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image2.png"
+      },
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "What color is the turtle's shell?",
       "type": "mcq",
+      "prompt": "What color is the turtle's shell?",
       "options": {
         "choices": [
-          "red",
-          "yellow",
-          "brown"
+          {
+            "id": "c1",
+            "text": "red"
+          },
+          {
+            "id": "c2",
+            "text": "yellow"
+          },
+          {
+            "id": "c3",
+            "text": "brown"
+          }
         ]
       },
-      "correct_answer": "brown",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is brown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image2.png"
+      },
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "What type of image is shown?",
       "type": "mcq",
+      "prompt": "What type of image is shown?",
       "options": {
         "choices": [
-          "real photograph",
-          "cartoon illustration",
-          "oil painting"
+          {
+            "id": "c1",
+            "text": "real photograph"
+          },
+          {
+            "id": "c2",
+            "text": "cartoon illustration"
+          },
+          {
+            "id": "c3",
+            "text": "oil painting"
+          }
         ]
       },
-      "correct_answer": "cartoon illustration",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is cartoon illustration.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image2.png"
+      },
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Which direction is the turtle facing?",
       "type": "mcq",
+      "prompt": "Which direction is the turtle facing?",
       "options": {
         "choices": [
-          "left",
-          "right",
-          "up"
+          {
+            "id": "c1",
+            "text": "left"
+          },
+          {
+            "id": "c2",
+            "text": "right"
+          },
+          {
+            "id": "c3",
+            "text": "up"
+          }
         ]
       },
-      "correct_answer": "left",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is left.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image2.png"
+      },
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "What covers the turtle's back?",
       "type": "mcq",
+      "prompt": "What covers the turtle's back?",
       "options": {
         "choices": [
-          "fur",
-          "shell",
-          "feathers"
+          {
+            "id": "c1",
+            "text": "fur"
+          },
+          {
+            "id": "c2",
+            "text": "shell"
+          },
+          {
+            "id": "c3",
+            "text": "feathers"
+          }
         ]
       },
-      "correct_answer": "shell",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is shell.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image2.png"
+      },
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "What type of animal is the turtle?",
       "type": "mcq",
+      "prompt": "What type of animal is the turtle?",
       "options": {
         "choices": [
-          "bird",
-          "reptile",
-          "fish"
+          {
+            "id": "c1",
+            "text": "bird"
+          },
+          {
+            "id": "c2",
+            "text": "reptile"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "reptile",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is reptile.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image2.png"
+      },
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "What kind of pattern does the shell have?",
       "type": "mcq",
+      "prompt": "What kind of pattern does the shell have?",
       "options": {
         "choices": [
-          "lines and shapes",
-          "stars",
-          "dots"
+          {
+            "id": "c1",
+            "text": "lines and shapes"
+          },
+          {
+            "id": "c2",
+            "text": "stars"
+          },
+          {
+            "id": "c3",
+            "text": "dots"
+          }
         ]
       },
-      "correct_answer": "lines and shapes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is lines and shapes.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image2.png"
+      },
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "How many turtles are there in all?",
       "type": "mcq",
+      "prompt": "How many turtles are there in all?",
       "options": {
         "choices": [
-          "one",
-          "three",
-          "four"
+          {
+            "id": "c1",
+            "text": "one"
+          },
+          {
+            "id": "c2",
+            "text": "three"
+          },
+          {
+            "id": "c3",
+            "text": "four"
+          }
         ]
       },
-      "correct_answer": "four",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is four.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image2.png"
+      },
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "What color is the turtle's head?",
       "type": "mcq",
+      "prompt": "What color is the turtle's head?",
       "options": {
         "choices": [
-          "green",
-          "brown",
-          "black"
+          {
+            "id": "c1",
+            "text": "green"
+          },
+          {
+            "id": "c2",
+            "text": "brown"
+          },
+          {
+            "id": "c3",
+            "text": "black"
+          }
         ]
       },
-      "correct_answer": "green",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is green.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image2.png"
+      },
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "What object is shown in the image?",
       "type": "mcq",
+      "prompt": "What object is shown in the image?",
       "options": {
         "choices": [
-          "birds",
-          "fish",
-          "butterflies"
+          {
+            "id": "c1",
+            "text": "birds"
+          },
+          {
+            "id": "c2",
+            "text": "fish"
+          },
+          {
+            "id": "c3",
+            "text": "butterflies"
+          }
         ]
       },
-      "correct_answer": "butterflies",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is butterflies.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image3.png"
+      },
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "How many butterflies are there?",
       "type": "mcq",
+      "prompt": "How many butterflies are there?",
       "options": {
         "choices": [
-          "two",
-          "three",
-          "five"
+          {
+            "id": "c1",
+            "text": "two"
+          },
+          {
+            "id": "c2",
+            "text": "three"
+          },
+          {
+            "id": "c3",
+            "text": "five"
+          }
         ]
       },
-      "correct_answer": "three",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is three.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image3.png"
+      },
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "What is the main two colors of the butterfly's body?",
       "type": "mcq",
+      "prompt": "What is the main two colors of the butterfly's body?",
       "options": {
         "choices": [
-          "yellow - purple",
-          "blue - pink",
-          "red - green"
+          {
+            "id": "c1",
+            "text": "yellow - purple"
+          },
+          {
+            "id": "c2",
+            "text": "blue - pink"
+          },
+          {
+            "id": "c3",
+            "text": "red - green"
+          }
         ]
       },
-      "correct_answer": "yellow - purple",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is yellow - purple.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image3.png"
+      },
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "What color are the butterfly's wings?",
       "type": "mcq",
+      "prompt": "What color are the butterfly's wings?",
       "options": {
         "choices": [
-          "orange",
-          "purple",
-          "brown"
+          {
+            "id": "c1",
+            "text": "orange"
+          },
+          {
+            "id": "c2",
+            "text": "purple"
+          },
+          {
+            "id": "c3",
+            "text": "brown"
+          }
         ]
       },
-      "correct_answer": "purple",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is purple.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image3.png"
+      },
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "What style is the butterfly drawn in?",
       "type": "mcq",
+      "prompt": "What style is the butterfly drawn in?",
       "options": {
         "choices": [
-          "cartoon",
-          "realistic",
-          "Pencil sketch"
+          {
+            "id": "c1",
+            "text": "cartoon"
+          },
+          {
+            "id": "c2",
+            "text": "realistic"
+          },
+          {
+            "id": "c3",
+            "text": "Pencil sketch"
+          }
         ]
       },
-      "correct_answer": "cartoon",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is cartoon.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image3.png"
+      },
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "How does the butterfly appear to feel?",
       "type": "mcq",
+      "prompt": "How does the butterfly appear to feel?",
       "options": {
         "choices": [
-          "angry",
-          "sad",
-          "happy"
+          {
+            "id": "c1",
+            "text": "angry"
+          },
+          {
+            "id": "c2",
+            "text": "sad"
+          },
+          {
+            "id": "c3",
+            "text": "happy"
+          }
         ]
       },
-      "correct_answer": "happy",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is happy.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image3.png"
+      },
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "What decorative elements are around the pink shape?",
       "type": "mcq",
+      "prompt": "What decorative elements are around the pink shape?",
       "options": {
         "choices": [
-          "stars",
-          "leaves",
-          "circles/dots"
+          {
+            "id": "c1",
+            "text": "stars"
+          },
+          {
+            "id": "c2",
+            "text": "leaves"
+          },
+          {
+            "id": "c3",
+            "text": "circles/dots"
+          }
         ]
       },
-      "correct_answer": "circles/dots",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is circles/dots.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image3.png"
+      },
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which theme best matches the picture?",
       "type": "mcq",
+      "prompt": "Which theme best matches the picture?",
       "options": {
         "choices": [
-          "jungle animals",
-          "space",
-          "nature/insects"
+          {
+            "id": "c1",
+            "text": "jungle animals"
+          },
+          {
+            "id": "c2",
+            "text": "space"
+          },
+          {
+            "id": "c3",
+            "text": "nature/insects"
+          }
         ]
       },
-      "correct_answer": "nature/insects",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is nature/insects.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image3.png"
+      },
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Are butterflies mammals?",
       "type": "mcq",
+      "prompt": "Are butterflies mammals?",
       "options": {
         "choices": [
-          "yes, butterflies are mammals",
-          "no, butterflies are not mammals",
-          "butterflies are both"
+          {
+            "id": "c1",
+            "text": "yes, butterflies are mammals"
+          },
+          {
+            "id": "c2",
+            "text": "no, butterflies are not mammals"
+          },
+          {
+            "id": "c3",
+            "text": "butterflies are both"
+          }
         ]
       },
-      "correct_answer": "no, butterflies are not mammals",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is no, butterflies are not mammals.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image3.png"
+      },
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Are butterflies big or small?",
       "type": "mcq",
+      "prompt": "Are butterflies big or small?",
       "options": {
         "choices": [
-          "butterflies are small in size",
-          "butterflies are big in size",
-          "butterflies are big as elephants"
+          {
+            "id": "c1",
+            "text": "butterflies are small in size"
+          },
+          {
+            "id": "c2",
+            "text": "butterflies are big in size"
+          },
+          {
+            "id": "c3",
+            "text": "butterflies are big as elephants"
+          }
         ]
       },
-      "correct_answer": "butterflies are small in size",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is butterflies are small in size.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image3.png"
+      },
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "What is a mammal?",
       "type": "mcq",
+      "prompt": "What is a mammal?",
       "options": {
         "choices": [
-          "an animal that lays eggs only",
-          "an animal that lives only in water",
-          "an animal that feeds its babies milk"
+          {
+            "id": "c1",
+            "text": "an animal that lays eggs only"
+          },
+          {
+            "id": "c2",
+            "text": "an animal that lives only in water"
+          },
+          {
+            "id": "c3",
+            "text": "an animal that feeds its babies milk"
+          }
         ]
       },
-      "correct_answer": "an animal that feeds its babies milk",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is an animal that feeds its babies milk.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image4.png"
+      },
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which of the following is a mammal?",
       "type": "mcq",
+      "prompt": "Which of the following is a mammal?",
       "options": {
         "choices": [
-          "frog",
-          "snake",
-          "cow"
+          {
+            "id": "c1",
+            "text": "frog"
+          },
+          {
+            "id": "c2",
+            "text": "snake"
+          },
+          {
+            "id": "c3",
+            "text": "cow"
+          }
         ]
       },
-      "correct_answer": "cow",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is cow.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image4.png"
+      },
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "What covers the body of most mammals?",
       "type": "mcq",
+      "prompt": "What covers the body of most mammals?",
       "options": {
         "choices": [
-          "feathers",
-          "scales",
-          "fur or hair"
+          {
+            "id": "c1",
+            "text": "feathers"
+          },
+          {
+            "id": "c2",
+            "text": "scales"
+          },
+          {
+            "id": "c3",
+            "text": "fur or hair"
+          }
         ]
       },
-      "correct_answer": "fur or hair",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is fur or hair.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image4.png"
+      },
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which of the following is not a mammal?",
       "type": "mcq",
+      "prompt": "Which of the following is not a mammal?",
       "options": {
         "choices": [
-          "cow",
-          "camel",
-          "lizard"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "camel"
+          },
+          {
+            "id": "c3",
+            "text": "lizard"
+          }
         ]
       },
-      "correct_answer": "lizard",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is lizard.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image4.png"
+      },
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "How do mammals breathe?",
       "type": "mcq",
+      "prompt": "How do mammals breathe?",
       "options": {
         "choices": [
-          "through lungs",
-          "through skin",
-          "through machines"
+          {
+            "id": "c1",
+            "text": "through lungs"
+          },
+          {
+            "id": "c2",
+            "text": "through skin"
+          },
+          {
+            "id": "c3",
+            "text": "through machines"
+          }
         ]
       },
-      "correct_answer": "through lungs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is through lungs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image4.png"
+      },
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "What do baby mammals drink?",
       "type": "mcq",
+      "prompt": "What do baby mammals drink?",
       "options": {
         "choices": [
-          "water",
-          "juice",
-          "milk"
+          {
+            "id": "c1",
+            "text": "water"
+          },
+          {
+            "id": "c2",
+            "text": "juice"
+          },
+          {
+            "id": "c3",
+            "text": "milk"
+          }
         ]
       },
-      "correct_answer": "milk",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is milk.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image4.png"
+      },
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "How do most mammals give birth?",
       "type": "mcq",
+      "prompt": "How do most mammals give birth?",
       "options": {
         "choices": [
-          "eggs",
-          "live babies",
-          "seeds"
+          {
+            "id": "c1",
+            "text": "eggs"
+          },
+          {
+            "id": "c2",
+            "text": "live babies"
+          },
+          {
+            "id": "c3",
+            "text": "seeds"
+          }
         ]
       },
-      "correct_answer": "live babies",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is live babies.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image4.png"
+      },
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which statement about mammals is true?",
       "type": "mcq",
+      "prompt": "Which statement about mammals is true?",
       "options": {
         "choices": [
-          "all mammals feed their babies milk",
-          "all mammals live on land",
-          "all mammals depend on people"
+          {
+            "id": "c1",
+            "text": "all mammals feed their babies milk"
+          },
+          {
+            "id": "c2",
+            "text": "all mammals live on land"
+          },
+          {
+            "id": "c3",
+            "text": "all mammals depend on people"
+          }
         ]
       },
-      "correct_answer": "all mammals feed their babies milk",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is all mammals feed their babies milk.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image4.png"
+      },
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which of these is a mammal?",
       "type": "mcq",
+      "prompt": "Which of these is a mammal?",
       "options": {
         "choices": [
-          "pigeon",
-          "giraffe",
-          "turtle"
+          {
+            "id": "c1",
+            "text": "pigeon"
+          },
+          {
+            "id": "c2",
+            "text": "giraffe"
+          },
+          {
+            "id": "c3",
+            "text": "turtle"
+          }
         ]
       },
-      "correct_answer": "giraffe",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is giraffe.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image4.png"
+      },
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "What is a mammal?",
       "type": "mcq",
+      "prompt": "What is a mammal?",
       "options": {
         "choices": [
-          "an animal that lays eggs only",
-          "an animal that feeds its babies milk",
-          "an animal that feeds its babies water"
+          {
+            "id": "c1",
+            "text": "an animal that lays eggs only"
+          },
+          {
+            "id": "c2",
+            "text": "an animal that feeds its babies milk"
+          },
+          {
+            "id": "c3",
+            "text": "an animal that feeds its babies water"
+          }
         ]
       },
-      "correct_answer": "an animal that feeds its babies milk",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is an animal that feeds its babies milk.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image4.png"
+      },
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "What time is shown on the digital clock?",
       "type": "mcq",
+      "prompt": "What time is shown on the digital clock?",
       "options": {
         "choices": [
-          "7:00",
-          "8:00",
-          "9:00"
+          {
+            "id": "c1",
+            "text": "7:00"
+          },
+          {
+            "id": "c2",
+            "text": "8:00"
+          },
+          {
+            "id": "c3",
+            "text": "9:00"
+          }
         ]
       },
-      "correct_answer": "8:00",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is 8:00.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image5.png"
+      },
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "What type of clock is shown with numbers 8:00?",
       "type": "mcq",
+      "prompt": "What type of clock is shown with numbers 8:00?",
       "options": {
         "choices": [
-          "digital clock",
-          "wall clock",
-          "sand clock"
+          {
+            "id": "c1",
+            "text": "digital clock"
+          },
+          {
+            "id": "c2",
+            "text": "wall clock"
+          },
+          {
+            "id": "c3",
+            "text": "sand clock"
+          }
         ]
       },
-      "correct_answer": "digital clock",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is digital clock.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image5.png"
+      },
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "What color are the numbers on the digital clock?",
       "type": "mcq",
+      "prompt": "What color are the numbers on the digital clock?",
       "options": {
         "choices": [
-          "red",
-          "green",
-          "orange"
+          {
+            "id": "c1",
+            "text": "red"
+          },
+          {
+            "id": "c2",
+            "text": "green"
+          },
+          {
+            "id": "c3",
+            "text": "orange"
+          }
         ]
       },
-      "correct_answer": "orange",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is orange.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image5.png"
+      },
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which clock has two bells on top?",
       "type": "mcq",
+      "prompt": "Which clock has two bells on top?",
       "options": {
         "choices": [
-          "digital clock",
-          "alarm clock",
-          "stopwatch"
+          {
+            "id": "c1",
+            "text": "digital clock"
+          },
+          {
+            "id": "c2",
+            "text": "alarm clock"
+          },
+          {
+            "id": "c3",
+            "text": "stopwatch"
+          }
         ]
       },
-      "correct_answer": "alarm clock",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is alarm clock.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image5.png"
+      },
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "What is the main use of an alarm clock?",
       "type": "mcq",
+      "prompt": "What is the main use of an alarm clock?",
       "options": {
         "choices": [
-          "to wake up",
-          "to cook food",
-          "to clean room"
+          {
+            "id": "c1",
+            "text": "to wake up"
+          },
+          {
+            "id": "c2",
+            "text": "to cook food"
+          },
+          {
+            "id": "c3",
+            "text": "to clean room"
+          }
         ]
       },
-      "correct_answer": "to wake up",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is to wake up.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image5.png"
+      },
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "How many zeros are in the time 8:00?",
       "type": "mcq",
+      "prompt": "How many zeros are in the time 8:00?",
       "options": {
         "choices": [
-          "one",
-          "two",
-          "three"
+          {
+            "id": "c1",
+            "text": "one"
+          },
+          {
+            "id": "c2",
+            "text": "two"
+          },
+          {
+            "id": "c3",
+            "text": "three"
+          }
         ]
       },
-      "correct_answer": "two",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is two.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image5.png"
+      },
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which clock shows time using hands?",
       "type": "mcq",
+      "prompt": "Which clock shows time using hands?",
       "options": {
         "choices": [
-          "digital clock",
-          "alarm clock",
-          "both"
+          {
+            "id": "c1",
+            "text": "digital clock"
+          },
+          {
+            "id": "c2",
+            "text": "alarm clock"
+          },
+          {
+            "id": "c3",
+            "text": "both"
+          }
         ]
       },
-      "correct_answer": "alarm clock",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is alarm clock.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image5.png"
+      },
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "The digital clock shows time in which format?",
       "type": "mcq",
+      "prompt": "The digital clock shows time in which format?",
       "options": {
         "choices": [
-          "number format",
-          "roman numerals",
-          "alphabet format"
+          {
+            "id": "c1",
+            "text": "number format"
+          },
+          {
+            "id": "c2",
+            "text": "roman numerals"
+          },
+          {
+            "id": "c3",
+            "text": "alphabet format"
+          }
         ]
       },
-      "correct_answer": "number format",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is number format.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image5.png"
+      },
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Both what are both clocks used to measure ?",
       "type": "mcq",
+      "prompt": "Both what are both clocks used to measure ?",
       "options": {
         "choices": [
-          "weight",
-          "time",
-          "height"
+          {
+            "id": "c1",
+            "text": "weight"
+          },
+          {
+            "id": "c2",
+            "text": "time"
+          },
+          {
+            "id": "c3",
+            "text": "height"
+          }
         ]
       },
-      "correct_answer": "time",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is time.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image5.png"
+      },
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which clock usually rings loudly?",
       "type": "mcq",
+      "prompt": "Which clock usually rings loudly?",
       "options": {
         "choices": [
-          "alarm clock",
-          "digital clock",
-          "wall calendar"
+          {
+            "id": "c1",
+            "text": "alarm clock"
+          },
+          {
+            "id": "c2",
+            "text": "digital clock"
+          },
+          {
+            "id": "c3",
+            "text": "wall calendar"
+          }
         ]
       },
-      "correct_answer": "alarm clock",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is alarm clock.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image5.png"
+      },
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "What animal is shown in the picture?",
       "type": "mcq",
+      "prompt": "What animal is shown in the picture?",
       "options": {
         "choices": [
-          "fish",
-          "jellyfish",
-          "octopus"
+          {
+            "id": "c1",
+            "text": "fish"
+          },
+          {
+            "id": "c2",
+            "text": "jellyfish"
+          },
+          {
+            "id": "c3",
+            "text": "octopus"
+          }
         ]
       },
-      "correct_answer": "jellyfish",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is jellyfish.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image6.png"
+      },
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "What color is the jellyfish in the picture?",
       "type": "mcq",
+      "prompt": "What color is the jellyfish in the picture?",
       "options": {
         "choices": [
-          "blue",
-          "green",
-          "pink"
+          {
+            "id": "c1",
+            "text": "blue"
+          },
+          {
+            "id": "c2",
+            "text": "green"
+          },
+          {
+            "id": "c3",
+            "text": "pink"
+          }
         ]
       },
-      "correct_answer": "pink",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is pink.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image6.png"
+      },
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "How many eyes does the jellyfish have?",
       "type": "mcq",
+      "prompt": "How many eyes does the jellyfish have?",
       "options": {
         "choices": [
-          "one",
-          "two",
-          "three"
+          {
+            "id": "c1",
+            "text": "one"
+          },
+          {
+            "id": "c2",
+            "text": "two"
+          },
+          {
+            "id": "c3",
+            "text": "three"
+          }
         ]
       },
-      "correct_answer": "two",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is two.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image6.png"
+      },
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Where does a jellyfish live?",
       "type": "mcq",
+      "prompt": "Where does a jellyfish live?",
       "options": {
         "choices": [
-          "desert",
-          "forest",
-          "ocean"
+          {
+            "id": "c1",
+            "text": "desert"
+          },
+          {
+            "id": "c2",
+            "text": "forest"
+          },
+          {
+            "id": "c3",
+            "text": "ocean"
+          }
         ]
       },
-      "correct_answer": "ocean",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is ocean.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image6.png"
+      },
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "What shape is the top of the jellyfish?",
       "type": "mcq",
+      "prompt": "What shape is the top of the jellyfish?",
       "options": {
         "choices": [
-          "square",
-          "round",
-          "triangle"
+          {
+            "id": "c1",
+            "text": "square"
+          },
+          {
+            "id": "c2",
+            "text": "round"
+          },
+          {
+            "id": "c3",
+            "text": "triangle"
+          }
         ]
       },
-      "correct_answer": "round",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is round.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image6.png"
+      },
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "How does a jellyfish move?",
       "type": "mcq",
+      "prompt": "How does a jellyfish move?",
       "options": {
         "choices": [
-          "by flying",
-          "by swimming",
-          "by running"
+          {
+            "id": "c1",
+            "text": "by flying"
+          },
+          {
+            "id": "c2",
+            "text": "by swimming"
+          },
+          {
+            "id": "c3",
+            "text": "by running"
+          }
         ]
       },
-      "correct_answer": "by swimming",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is by swimming.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image6.png"
+      },
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "How many jellyfish can you see?",
       "type": "mcq",
+      "prompt": "How many jellyfish can you see?",
       "options": {
         "choices": [
-          "five",
-          "six",
-          "eight"
+          {
+            "id": "c1",
+            "text": "five"
+          },
+          {
+            "id": "c2",
+            "text": "six"
+          },
+          {
+            "id": "c3",
+            "text": "eight"
+          }
         ]
       },
-      "correct_answer": "five",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is five.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image6.png"
+      },
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "What expression does the jellyfish have?",
       "type": "mcq",
+      "prompt": "What expression does the jellyfish have?",
       "options": {
         "choices": [
-          "angry",
-          "sad",
-          "happy"
+          {
+            "id": "c1",
+            "text": "angry"
+          },
+          {
+            "id": "c2",
+            "text": "sad"
+          },
+          {
+            "id": "c3",
+            "text": "happy"
+          }
         ]
       },
-      "correct_answer": "happy",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is happy.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image6.png"
+      },
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Do jellyfish have bones?",
       "type": "mcq",
+      "prompt": "Do jellyfish have bones?",
       "options": {
         "choices": [
-          "yes, jellyfish have bones",
-          "no, jellyfish don't have bones",
-          "sometimes"
+          {
+            "id": "c1",
+            "text": "yes, jellyfish have bones"
+          },
+          {
+            "id": "c2",
+            "text": "no, jellyfish don't have bones"
+          },
+          {
+            "id": "c3",
+            "text": "sometimes"
+          }
         ]
       },
-      "correct_answer": "no, jellyfish don't have bones",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is no, jellyfish don't have bones.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image6.png"
+      },
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Is the jellyfish a land animal or sea animal?",
       "type": "mcq",
+      "prompt": "Is the jellyfish a land animal or sea animal?",
       "options": {
         "choices": [
-          "sea animal",
-          "land animal",
-          "sky animal"
+          {
+            "id": "c1",
+            "text": "sea animal"
+          },
+          {
+            "id": "c2",
+            "text": "land animal"
+          },
+          {
+            "id": "c3",
+            "text": "sky animal"
+          }
         ]
       },
-      "correct_answer": "sea animal",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is sea animal.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image6.png"
+      },
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "What is the main theme of the picture?",
       "type": "mcq",
+      "prompt": "What is the main theme of the picture?",
       "options": {
         "choices": [
-          "nature",
-          "sports",
-          "shopping"
+          {
+            "id": "c1",
+            "text": "nature"
+          },
+          {
+            "id": "c2",
+            "text": "sports"
+          },
+          {
+            "id": "c3",
+            "text": "shopping"
+          }
         ]
       },
-      "correct_answer": "nature",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is nature.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image7.png"
+      },
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "What is shining in the sky?",
       "type": "mcq",
+      "prompt": "What is shining in the sky?",
       "options": {
         "choices": [
-          "moon",
-          "sun",
-          "star"
+          {
+            "id": "c1",
+            "text": "moon"
+          },
+          {
+            "id": "c2",
+            "text": "sun"
+          },
+          {
+            "id": "c3",
+            "text": "star"
+          }
         ]
       },
-      "correct_answer": "sun",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is sun.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image7.png"
+      },
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "What color is the sun in the picture?",
       "type": "mcq",
+      "prompt": "What color is the sun in the picture?",
       "options": {
         "choices": [
-          "yellow",
-          "blue",
-          "green"
+          {
+            "id": "c1",
+            "text": "yellow"
+          },
+          {
+            "id": "c2",
+            "text": "blue"
+          },
+          {
+            "id": "c3",
+            "text": "green"
+          }
         ]
       },
-      "correct_answer": "yellow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is yellow.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image7.png"
+      },
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "What is flowing through the land?",
       "type": "mcq",
+      "prompt": "What is flowing through the land?",
       "options": {
         "choices": [
-          "swimming pool",
-          "red",
-          "river"
+          {
+            "id": "c1",
+            "text": "swimming pool"
+          },
+          {
+            "id": "c2",
+            "text": "red"
+          },
+          {
+            "id": "c3",
+            "text": "river"
+          }
         ]
       },
-      "correct_answer": "river",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is river.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image7.png"
+      },
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "What can you see flying in the sky?",
       "type": "mcq",
+      "prompt": "What can you see flying in the sky?",
       "options": {
         "choices": [
-          "fish",
-          "birds",
-          "cars"
+          {
+            "id": "c1",
+            "text": "fish"
+          },
+          {
+            "id": "c2",
+            "text": "birds"
+          },
+          {
+            "id": "c3",
+            "text": "cars"
+          }
         ]
       },
-      "correct_answer": "birds",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is birds.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image7.png"
+      },
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "What do you see in the background?",
       "type": "mcq",
+      "prompt": "What do you see in the background?",
       "options": {
         "choices": [
-          "mountains",
-          "buildings",
-          "houses"
+          {
+            "id": "c1",
+            "text": "mountains"
+          },
+          {
+            "id": "c2",
+            "text": "buildings"
+          },
+          {
+            "id": "c3",
+            "text": "houses"
+          }
         ]
       },
-      "correct_answer": "mountains",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is mountains.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image7.png"
+      },
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "What color are the trees?",
       "type": "mcq",
+      "prompt": "What color are the trees?",
       "options": {
         "choices": [
-          "purple",
-          "green",
-          "pink"
+          {
+            "id": "c1",
+            "text": "purple"
+          },
+          {
+            "id": "c2",
+            "text": "green"
+          },
+          {
+            "id": "c3",
+            "text": "pink"
+          }
         ]
       },
-      "correct_answer": "green",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is green.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image7.png"
+      },
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "What is in the sky besides the sun?",
       "type": "mcq",
+      "prompt": "What is in the sky besides the sun?",
       "options": {
         "choices": [
-          "clouds",
-          "kites",
-          "planes"
+          {
+            "id": "c1",
+            "text": "clouds"
+          },
+          {
+            "id": "c2",
+            "text": "kites"
+          },
+          {
+            "id": "c3",
+            "text": "planes"
+          }
         ]
       },
-      "correct_answer": "clouds",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is clouds.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image7.png"
+      },
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which place does the picture show?",
       "type": "mcq",
+      "prompt": "Which place does the picture show?",
       "options": {
         "choices": [
-          "city",
-          "countryside",
-          "classroom"
+          {
+            "id": "c1",
+            "text": "city"
+          },
+          {
+            "id": "c2",
+            "text": "countryside"
+          },
+          {
+            "id": "c3",
+            "text": "classroom"
+          }
         ]
       },
-      "correct_answer": "countryside",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is countryside.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image7.png"
+      },
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Is this a picture of the ocean?",
       "type": "mcq",
+      "prompt": "Is this a picture of the ocean?",
       "options": {
         "choices": [
-          "yes, the picture is about the ocean",
-          "no, the picture is not about the ocean",
-          "can be both"
+          {
+            "id": "c1",
+            "text": "yes, the picture is about the ocean"
+          },
+          {
+            "id": "c2",
+            "text": "no, the picture is not about the ocean"
+          },
+          {
+            "id": "c3",
+            "text": "can be both"
+          }
         ]
       },
-      "correct_answer": "no, the picture is not about the ocean",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is no, the picture is not about the ocean.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image7.png"
+      },
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "What is shown in the picture?",
       "type": "mcq",
+      "prompt": "What is shown in the picture?",
       "options": {
         "choices": [
-          "rainbow",
-          "river",
-          "mountain"
+          {
+            "id": "c1",
+            "text": "rainbow"
+          },
+          {
+            "id": "c2",
+            "text": "river"
+          },
+          {
+            "id": "c3",
+            "text": "mountain"
+          }
         ]
       },
-      "correct_answer": "rainbow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is rainbow.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image8.png"
+      },
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "How many clouds are in the picture?",
       "type": "mcq",
+      "prompt": "How many clouds are in the picture?",
       "options": {
         "choices": [
-          "one",
-          "two",
-          "three"
+          {
+            "id": "c1",
+            "text": "one"
+          },
+          {
+            "id": "c2",
+            "text": "two"
+          },
+          {
+            "id": "c3",
+            "text": "three"
+          }
         ]
       },
-      "correct_answer": "two",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is two.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image8.png"
+      },
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "What colors are in the rainbow?",
       "type": "mcq",
+      "prompt": "What colors are in the rainbow?",
       "options": {
         "choices": [
-          "red, yellow, blue",
-          "green, black, white",
-          "pink, brown, gray"
+          {
+            "id": "c1",
+            "text": "red, yellow, blue"
+          },
+          {
+            "id": "c2",
+            "text": "green, black, white"
+          },
+          {
+            "id": "c3",
+            "text": "pink, brown, gray"
+          }
         ]
       },
-      "correct_answer": "red, yellow, blue",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is red, yellow, blue.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image8.png"
+      },
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "What shape is the rainbow?",
       "type": "mcq",
+      "prompt": "What shape is the rainbow?",
       "options": {
         "choices": [
-          "square",
-          "circle",
-          "arc"
+          {
+            "id": "c1",
+            "text": "square"
+          },
+          {
+            "id": "c2",
+            "text": "circle"
+          },
+          {
+            "id": "c3",
+            "text": "arc"
+          }
         ]
       },
-      "correct_answer": "arc",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is arc.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image8.png"
+      },
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "What expression do the clouds have?",
       "type": "mcq",
+      "prompt": "What expression do the clouds have?",
       "options": {
         "choices": [
-          "sad",
-          "happy",
-          "angry"
+          {
+            "id": "c1",
+            "text": "sad"
+          },
+          {
+            "id": "c2",
+            "text": "happy"
+          },
+          {
+            "id": "c3",
+            "text": "angry"
+          }
         ]
       },
-      "correct_answer": "happy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is happy.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image8.png"
+      },
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Where do we usually see a rainbow?",
       "type": "mcq",
+      "prompt": "Where do we usually see a rainbow?",
       "options": {
         "choices": [
-          "in the sky",
-          "under the sea",
-          "in a cave"
+          {
+            "id": "c1",
+            "text": "in the sky"
+          },
+          {
+            "id": "c2",
+            "text": "under the sea"
+          },
+          {
+            "id": "c3",
+            "text": "in a cave"
+          }
         ]
       },
-      "correct_answer": "in the sky",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is in the sky.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image8.png"
+      },
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "What color is the middle band of the rainbow?",
       "type": "mcq",
+      "prompt": "What color is the middle band of the rainbow?",
       "options": {
         "choices": [
-          "yellow",
-          "blue",
-          "red"
+          {
+            "id": "c1",
+            "text": "yellow"
+          },
+          {
+            "id": "c2",
+            "text": "blue"
+          },
+          {
+            "id": "c3",
+            "text": "red"
+          }
         ]
       },
-      "correct_answer": "yellow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is yellow.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image8.png"
+      },
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "What is the outer color of the rainbow?",
       "type": "mcq",
+      "prompt": "What is the outer color of the rainbow?",
       "options": {
         "choices": [
-          "blue",
-          "red",
-          "yellow"
+          {
+            "id": "c1",
+            "text": "blue"
+          },
+          {
+            "id": "c2",
+            "text": "red"
+          },
+          {
+            "id": "c3",
+            "text": "yellow"
+          }
         ]
       },
-      "correct_answer": "red",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is red.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image8.png"
+      },
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Between what does the rainbow appear?",
       "type": "mcq",
+      "prompt": "Between what does the rainbow appear?",
       "options": {
         "choices": [
-          "trees",
-          "houses",
-          "clouds"
+          {
+            "id": "c1",
+            "text": "trees"
+          },
+          {
+            "id": "c2",
+            "text": "houses"
+          },
+          {
+            "id": "c3",
+            "text": "clouds"
+          }
         ]
       },
-      "correct_answer": "clouds",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is clouds.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image8.png"
+      },
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "What kind of picture is this?",
       "type": "mcq",
+      "prompt": "What kind of picture is this?",
       "options": {
         "choices": [
-          "cartoon",
-          "photograph",
-          "sketch"
+          {
+            "id": "c1",
+            "text": "cartoon"
+          },
+          {
+            "id": "c2",
+            "text": "photograph"
+          },
+          {
+            "id": "c3",
+            "text": "sketch"
+          }
         ]
       },
-      "correct_answer": "cartoon",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is cartoon.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image8.png"
+      },
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "What is shown in the picture?",
       "type": "mcq",
+      "prompt": "What is shown in the picture?",
       "options": {
         "choices": [
-          "earth",
-          "moon",
-          "sun"
+          {
+            "id": "c1",
+            "text": "earth"
+          },
+          {
+            "id": "c2",
+            "text": "moon"
+          },
+          {
+            "id": "c3",
+            "text": "sun"
+          }
         ]
       },
-      "correct_answer": "earth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is earth.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image9.png"
+      },
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "What is holding the earth?",
       "type": "mcq",
+      "prompt": "What is holding the earth?",
       "options": {
         "choices": [
-          "trees",
-          "hands",
-          "clouds"
+          {
+            "id": "c1",
+            "text": "trees"
+          },
+          {
+            "id": "c2",
+            "text": "hands"
+          },
+          {
+            "id": "c3",
+            "text": "clouds"
+          }
         ]
       },
-      "correct_answer": "hands",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is hands.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image9.png"
+      },
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "What color is the earth in the picture?",
       "type": "mcq",
+      "prompt": "What color is the earth in the picture?",
       "options": {
         "choices": [
-          "blue and green",
-          "red and yellow",
-          "black and white"
+          {
+            "id": "c1",
+            "text": "blue and green"
+          },
+          {
+            "id": "c2",
+            "text": "red and yellow"
+          },
+          {
+            "id": "c3",
+            "text": "black and white"
+          }
         ]
       },
-      "correct_answer": "blue and green",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is blue and green.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image9.png"
+      },
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "What do the green shapes above the earth look like?",
       "type": "mcq",
+      "prompt": "What do the green shapes above the earth look like?",
       "options": {
         "choices": [
-          "stars",
-          "leaves",
-          "birds"
+          {
+            "id": "c1",
+            "text": "stars"
+          },
+          {
+            "id": "c2",
+            "text": "leaves"
+          },
+          {
+            "id": "c3",
+            "text": "birds"
+          }
         ]
       },
-      "correct_answer": "leaves",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is leaves.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image9.png"
+      },
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "What does this picture represent?",
       "type": "mcq",
+      "prompt": "What does this picture represent?",
       "options": {
         "choices": [
-          "pollution",
-          "space travel",
-          "protecting the environment"
+          {
+            "id": "c1",
+            "text": "pollution"
+          },
+          {
+            "id": "c2",
+            "text": "space travel"
+          },
+          {
+            "id": "c3",
+            "text": "protecting the environment"
+          }
         ]
       },
-      "correct_answer": "protecting the environment",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is protecting the environment.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image9.png"
+      },
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "How many hands are shown?",
       "type": "mcq",
+      "prompt": "How many hands are shown?",
       "options": {
         "choices": [
-          "one",
-          "two",
-          "three"
+          {
+            "id": "c1",
+            "text": "one"
+          },
+          {
+            "id": "c2",
+            "text": "two"
+          },
+          {
+            "id": "c3",
+            "text": "three"
+          }
         ]
       },
-      "correct_answer": "two",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is two.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image9.png"
+      },
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "What is the main theme of the picture?",
       "type": "mcq",
+      "prompt": "What is the main theme of the picture?",
       "options": {
         "choices": [
-          "saving the planet",
-          "playing games",
-          "cooking food"
+          {
+            "id": "c1",
+            "text": "saving the planet"
+          },
+          {
+            "id": "c2",
+            "text": "playing games"
+          },
+          {
+            "id": "c3",
+            "text": "cooking food"
+          }
         ]
       },
-      "correct_answer": "saving the planet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is saving the planet.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image9.png"
+      },
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Where do people live in the picture?",
       "type": "mcq",
+      "prompt": "Where do people live in the picture?",
       "options": {
         "choices": [
-          "on the earth",
-          "on the moon",
-          "in the sky"
+          {
+            "id": "c1",
+            "text": "on the earth"
+          },
+          {
+            "id": "c2",
+            "text": "on the moon"
+          },
+          {
+            "id": "c3",
+            "text": "in the sky"
+          }
         ]
       },
-      "correct_answer": "on the earth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is on the earth.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image9.png"
+      },
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Where are the hands placed?",
       "type": "mcq",
+      "prompt": "Where are the hands placed?",
       "options": {
         "choices": [
-          "above the earth",
-          "beside the earth",
-          "under the earth"
+          {
+            "id": "c1",
+            "text": "above the earth"
+          },
+          {
+            "id": "c2",
+            "text": "beside the earth"
+          },
+          {
+            "id": "c3",
+            "text": "under the earth"
+          }
         ]
       },
-      "correct_answer": "under the earth",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is under the earth.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image9.png"
+      },
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "What does the picture encourage people?",
       "type": "mcq",
+      "prompt": "What does the picture encourage people?",
       "options": {
         "choices": [
-          "waste resources",
-          "care for nature",
-          "ignore the planet"
+          {
+            "id": "c1",
+            "text": "waste resources"
+          },
+          {
+            "id": "c2",
+            "text": "care for nature"
+          },
+          {
+            "id": "c3",
+            "text": "ignore the planet"
+          }
         ]
       },
-      "correct_answer": "care for nature",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is care for nature.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image9.png"
+      },
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Should we love our planet Earth?",
       "type": "mcq",
+      "prompt": "Should we love our planet Earth?",
       "options": {
         "choices": [
-          "Yes, we should love our planet",
-          "no, we should not love our planet",
-          "individuals choice"
+          {
+            "id": "c1",
+            "text": "Yes, we should love our planet"
+          },
+          {
+            "id": "c2",
+            "text": "no, we should not love our planet"
+          },
+          {
+            "id": "c3",
+            "text": "individuals choice"
+          }
         ]
       },
-      "correct_answer": "Yes, we should love our planet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is Yes, we should love our planet.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image9.png"
+      },
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "What place is shown in the picture?",
       "type": "mcq",
+      "prompt": "What place is shown in the picture?",
       "options": {
         "choices": [
-          "zoo",
-          "farm",
-          "forest"
+          {
+            "id": "c1",
+            "text": "zoo"
+          },
+          {
+            "id": "c2",
+            "text": "farm"
+          },
+          {
+            "id": "c3",
+            "text": "forest"
+          }
         ]
       },
-      "correct_answer": "farm",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is farm.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image10.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image10.png"
+      },
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which animal is tall with a long face?",
       "type": "mcq",
+      "prompt": "Which animal is tall with a long face?",
       "options": {
         "choices": [
-          "horse",
-          "dog",
-          "cat"
+          {
+            "id": "c1",
+            "text": "horse"
+          },
+          {
+            "id": "c2",
+            "text": "dog"
+          },
+          {
+            "id": "c3",
+            "text": "cat"
+          }
         ]
       },
-      "correct_answer": "horse",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is horse.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image10.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image10.png"
+      },
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which animal has horns?",
       "type": "mcq",
+      "prompt": "Which animal has horns?",
       "options": {
         "choices": [
-          "goat",
-          "chicken",
-          "duck"
+          {
+            "id": "c1",
+            "text": "goat"
+          },
+          {
+            "id": "c2",
+            "text": "chicken"
+          },
+          {
+            "id": "c3",
+            "text": "duck"
+          }
         ]
       },
-      "correct_answer": "goat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is goat.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image10.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image10.png"
+      },
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Which animal says \"moo\"?",
       "type": "mcq",
+      "prompt": "Which animal says \"moo\"?",
       "options": {
         "choices": [
-          "cow",
-          "horse",
-          "goat"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "horse"
+          },
+          {
+            "id": "c3",
+            "text": "goat"
+          }
         ]
       },
-      "correct_answer": "cow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is cow.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image10.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image10.png"
+      },
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Which bird is shown with a red comb?",
       "type": "mcq",
+      "prompt": "Which bird is shown with a red comb?",
       "options": {
         "choices": [
-          "duck",
-          "hen",
-          "pigeon"
+          {
+            "id": "c1",
+            "text": "duck"
+          },
+          {
+            "id": "c2",
+            "text": "hen"
+          },
+          {
+            "id": "c3",
+            "text": "pigeon"
+          }
         ]
       },
-      "correct_answer": "hen",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is hen.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image10.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image10.png"
+      },
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Which bird is white and small?",
       "type": "mcq",
+      "prompt": "Which bird is white and small?",
       "options": {
         "choices": [
-          "duck",
-          "eagle",
-          "parrot"
+          {
+            "id": "c1",
+            "text": "duck"
+          },
+          {
+            "id": "c2",
+            "text": "eagle"
+          },
+          {
+            "id": "c3",
+            "text": "parrot"
+          }
         ]
       },
-      "correct_answer": "duck",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is duck.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image10.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image10.png"
+      },
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "What is in front of the animals?",
       "type": "mcq",
+      "prompt": "What is in front of the animals?",
       "options": {
         "choices": [
-          "river",
-          "fence",
-          "house"
+          {
+            "id": "c1",
+            "text": "river"
+          },
+          {
+            "id": "c2",
+            "text": "fence"
+          },
+          {
+            "id": "c3",
+            "text": "house"
+          }
         ]
       },
-      "correct_answer": "fence",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is fence.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image10.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image10.png"
+      },
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "How many different types of animals are shown?",
       "type": "mcq",
+      "prompt": "How many different types of animals are shown?",
       "options": {
         "choices": [
-          "three",
-          "four",
-          "five"
+          {
+            "id": "c1",
+            "text": "three"
+          },
+          {
+            "id": "c2",
+            "text": "four"
+          },
+          {
+            "id": "c3",
+            "text": "five"
+          }
         ]
       },
-      "correct_answer": "four",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is four.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image10.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image10.png"
+      },
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Where do these animals usually live?",
       "type": "mcq",
+      "prompt": "Where do these animals usually live?",
       "options": {
         "choices": [
-          "farm",
-          "ocean",
-          "desert"
+          {
+            "id": "c1",
+            "text": "farm"
+          },
+          {
+            "id": "c2",
+            "text": "ocean"
+          },
+          {
+            "id": "c3",
+            "text": "desert"
+          }
         ]
       },
-      "correct_answer": "farm",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is farm.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image10.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image10.png"
+      },
       "order_index": 100
     },
     {
       "slug": "q101",
-      "prompt": "What are these animals commonly called?",
       "type": "mcq",
+      "prompt": "What are these animals commonly called?",
       "options": {
         "choices": [
-          "wild animals",
-          "farm animals",
-          "sea animals"
+          {
+            "id": "c1",
+            "text": "wild animals"
+          },
+          {
+            "id": "c2",
+            "text": "farm animals"
+          },
+          {
+            "id": "c3",
+            "text": "sea animals"
+          }
         ]
       },
-      "correct_answer": "farm animals",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is farm animals.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_4/image10.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_4/image10.png"
+      },
       "order_index": 101
     }
-  ]
+  ],
+  "title_needs_review": true
 }

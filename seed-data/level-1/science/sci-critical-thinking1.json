@@ -1,1887 +1,3757 @@
 {
   "_source_file": "level1_sci_critical_thinking1.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 110,
-  "exercise": {
-    "slug": "sci-critical-thinking1",
-    "title": "Sci Critical Thinking1",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 110,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.552Z",
+  "slug": "sci-critical-thinking1",
+  "title": "Sci Critical Thinking1",
+  "level": "level-1",
+  "subject": "science",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 110,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Look at the picture above. What planet does the image represent?",
       "type": "mcq",
+      "prompt": "Look at the picture above. What planet does the image represent?",
       "options": {
         "choices": [
-          "planet Mars",
-          "planet Earth",
-          "moon"
+          {
+            "id": "c1",
+            "text": "planet Mars"
+          },
+          {
+            "id": "c2",
+            "text": "planet Earth"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "planet Earth",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is planet Earth.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image1.png"
+      },
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "What does the blue part in the picture represent?",
       "type": "mcq",
+      "prompt": "What does the blue part in the picture represent?",
       "options": {
         "choices": [
-          "soil",
-          "animals",
-          "water"
+          {
+            "id": "c1",
+            "text": "soil"
+          },
+          {
+            "id": "c2",
+            "text": "animals"
+          },
+          {
+            "id": "c3",
+            "text": "water"
+          }
         ]
       },
-      "correct_answer": "water",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is water.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image1.png"
+      },
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "What does the green part in the picture represent?",
       "type": "mcq",
+      "prompt": "What does the green part in the picture represent?",
       "options": {
         "choices": [
-          "soil",
-          "land",
-          "water"
+          {
+            "id": "c1",
+            "text": "soil"
+          },
+          {
+            "id": "c2",
+            "text": "land"
+          },
+          {
+            "id": "c3",
+            "text": "water"
+          }
         ]
       },
-      "correct_answer": "land",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is land.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image1.png"
+      },
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "How many oceans does planet Earth have?",
       "type": "mcq",
+      "prompt": "How many oceans does planet Earth have?",
       "options": {
         "choices": [
-          "50 oceans",
-          "5 oceans",
-          "2 oceans"
+          {
+            "id": "c1",
+            "text": "50 oceans"
+          },
+          {
+            "id": "c2",
+            "text": "5 oceans"
+          },
+          {
+            "id": "c3",
+            "text": "2 oceans"
+          }
         ]
       },
-      "correct_answer": "5 oceans",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is 5 oceans.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image1.png"
+      },
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "How many continents does planet Earth have?",
       "type": "mcq",
+      "prompt": "How many continents does planet Earth have?",
       "options": {
         "choices": [
-          "7 continents",
-          "5 continents",
-          "10 continents"
+          {
+            "id": "c1",
+            "text": "7 continents"
+          },
+          {
+            "id": "c2",
+            "text": "5 continents"
+          },
+          {
+            "id": "c3",
+            "text": "10 continents"
+          }
         ]
       },
-      "correct_answer": "7 continents",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is 7 continents.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image1.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image1.png"
+      },
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Look at the picture above. Which planet does the image represent?",
       "type": "mcq",
+      "prompt": "Look at the picture above. Which planet does the image represent?",
       "options": {
         "choices": [
-          "planet Earth",
-          "planet Mars",
-          "moon"
+          {
+            "id": "c1",
+            "text": "planet Earth"
+          },
+          {
+            "id": "c2",
+            "text": "planet Mars"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "planet Mars",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is planet Mars.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
+      },
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "What is Mars called?",
       "type": "mcq",
+      "prompt": "What is Mars called?",
       "options": {
         "choices": [
-          "the blue planet",
-          "the red planet",
-          "the green planet"
+          {
+            "id": "c1",
+            "text": "the blue planet"
+          },
+          {
+            "id": "c2",
+            "text": "the red planet"
+          },
+          {
+            "id": "c3",
+            "text": "the green planet"
+          }
         ]
       },
-      "correct_answer": "the red planet",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is the red planet.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
+      },
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "How many moons does Mars have?",
       "type": "mcq",
+      "prompt": "How many moons does Mars have?",
       "options": {
         "choices": [
-          "two",
-          "five",
-          "one"
+          {
+            "id": "c1",
+            "text": "two"
+          },
+          {
+            "id": "c2",
+            "text": "five"
+          },
+          {
+            "id": "c3",
+            "text": "one"
+          }
         ]
       },
-      "correct_answer": "two",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is two.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
+      },
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "What is Mars like?",
       "type": "mcq",
+      "prompt": "What is Mars like?",
       "options": {
         "choices": [
-          "hot",
-          "cold",
-          "wet"
+          {
+            "id": "c1",
+            "text": "hot"
+          },
+          {
+            "id": "c2",
+            "text": "cold"
+          },
+          {
+            "id": "c3",
+            "text": "wet"
+          }
         ]
       },
-      "correct_answer": "cold",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is cold.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
+      },
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "What is found on Mars?",
       "type": "mcq",
+      "prompt": "What is found on Mars?",
       "options": {
         "choices": [
-          "water and fish",
-          "dust and rocks",
-          "trees and grass"
+          {
+            "id": "c1",
+            "text": "water and fish"
+          },
+          {
+            "id": "c2",
+            "text": "dust and rocks"
+          },
+          {
+            "id": "c3",
+            "text": "trees and grass"
+          }
         ]
       },
-      "correct_answer": "dust and rocks",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is dust and rocks.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
+      },
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "What does Mars have that is the biggest in the solar system?",
       "type": "mcq",
+      "prompt": "What does Mars have that is the biggest in the solar system?",
       "options": {
         "choices": [
-          "ocean",
-          "volcano",
-          "forest"
+          {
+            "id": "c1",
+            "text": "ocean"
+          },
+          {
+            "id": "c2",
+            "text": "volcano"
+          },
+          {
+            "id": "c3",
+            "text": "forest"
+          }
         ]
       },
-      "correct_answer": "volcano",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is volcano.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
+      },
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "What do scientists think Mars had long ago?",
       "type": "mcq",
+      "prompt": "What do scientists think Mars had long ago?",
       "options": {
         "choices": [
-          "ice cream",
-          "water",
-          "animals"
+          {
+            "id": "c1",
+            "text": "ice cream"
+          },
+          {
+            "id": "c2",
+            "text": "water"
+          },
+          {
+            "id": "c3",
+            "text": "animals"
+          }
         ]
       },
-      "correct_answer": "water",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is water.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
+      },
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Who has gone to Mars?",
       "type": "mcq",
+      "prompt": "Who has gone to Mars?",
       "options": {
         "choices": [
-          "robots",
-          "elephants",
-          "cars"
+          {
+            "id": "c1",
+            "text": "robots"
+          },
+          {
+            "id": "c2",
+            "text": "elephants"
+          },
+          {
+            "id": "c3",
+            "text": "cars"
+          }
         ]
       },
-      "correct_answer": "robots",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is robots.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
+      },
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Which of the following do people hope to do on Mars one day?",
       "type": "mcq",
+      "prompt": "Which of the following do people hope to do on Mars one day?",
       "options": {
         "choices": [
-          "swim in",
-          "visit",
-          "paint"
+          {
+            "id": "c1",
+            "text": "swim in"
+          },
+          {
+            "id": "c2",
+            "text": "visit"
+          },
+          {
+            "id": "c3",
+            "text": "paint"
+          }
         ]
       },
-      "correct_answer": "visit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is visit.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
+      },
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Mars is known as which type of planet?",
       "type": "mcq",
+      "prompt": "Mars is known as which type of planet?",
       "options": {
         "choices": [
-          "gas planet",
-          "rocky planet",
-          "water planet"
+          {
+            "id": "c1",
+            "text": "gas planet"
+          },
+          {
+            "id": "c2",
+            "text": "rocky planet"
+          },
+          {
+            "id": "c3",
+            "text": "water planet"
+          }
         ]
       },
-      "correct_answer": "rocky planet",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is rocky planet.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image2.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image2.png"
+      },
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Look at the picture above. What animal does it represent?",
       "type": "mcq",
+      "prompt": "Look at the picture above. What animal does it represent?",
       "options": {
         "choices": [
-          "camel",
-          "element",
-          "elephant"
+          {
+            "id": "c1",
+            "text": "camel"
+          },
+          {
+            "id": "c2",
+            "text": "element"
+          },
+          {
+            "id": "c3",
+            "text": "elephant"
+          }
         ]
       },
-      "correct_answer": "camel",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is camel.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
+      },
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Where do camels live?",
       "type": "mcq",
+      "prompt": "Where do camels live?",
       "options": {
         "choices": [
-          "forest",
-          "ocean",
-          "desert"
+          {
+            "id": "c1",
+            "text": "forest"
+          },
+          {
+            "id": "c2",
+            "text": "ocean"
+          },
+          {
+            "id": "c3",
+            "text": "desert"
+          }
         ]
       },
-      "correct_answer": "desert",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is desert.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
+      },
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "How long can camels live without water?",
       "type": "mcq",
+      "prompt": "How long can camels live without water?",
       "options": {
         "choices": [
-          "a short time",
-          "a long time",
-          "no time"
+          {
+            "id": "c1",
+            "text": "a short time"
+          },
+          {
+            "id": "c2",
+            "text": "a long time"
+          },
+          {
+            "id": "c3",
+            "text": "no time"
+          }
         ]
       },
-      "correct_answer": "a long time",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is a long time.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
+      },
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "What does the blue camels store In their humps?",
       "type": "mcq",
+      "prompt": "What does the blue camels store In their humps?",
       "options": {
         "choices": [
-          "fat",
-          "sugar",
-          "water"
+          {
+            "id": "c1",
+            "text": "fat"
+          },
+          {
+            "id": "c2",
+            "text": "sugar"
+          },
+          {
+            "id": "c3",
+            "text": "water"
+          }
         ]
       },
-      "correct_answer": "fat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is fat.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
+      },
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Why do camels have long eyelashes?",
       "type": "mcq",
+      "prompt": "Why do camels have long eyelashes?",
       "options": {
         "choices": [
-          "to look pretty",
-          "to keep sand out",
-          "to see far"
+          {
+            "id": "c1",
+            "text": "to look pretty"
+          },
+          {
+            "id": "c2",
+            "text": "to keep sand out"
+          },
+          {
+            "id": "c3",
+            "text": "to see far"
+          }
         ]
       },
-      "correct_answer": "to keep sand out",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is to keep sand out.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
+      },
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "What kind of feet do camels have?",
       "type": "mcq",
+      "prompt": "What kind of feet do camels have?",
       "options": {
         "choices": [
-          "small feet",
-          "wide feet",
-          "sharp feet"
+          {
+            "id": "c1",
+            "text": "small feet"
+          },
+          {
+            "id": "c2",
+            "text": "wide feet"
+          },
+          {
+            "id": "c3",
+            "text": "sharp feet"
+          }
         ]
       },
-      "correct_answer": "wide feet",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is wide feet.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
+      },
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "What do camels eat?",
       "type": "mcq",
+      "prompt": "What do camels eat?",
       "options": {
         "choices": [
-          "meat",
-          "plants and grass",
-          "fish"
+          {
+            "id": "c1",
+            "text": "meat"
+          },
+          {
+            "id": "c2",
+            "text": "plants and grass"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "plants and grass",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is plants and grass.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
+      },
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "What is a baby camel called?",
       "type": "mcq",
+      "prompt": "What is a baby camel called?",
       "options": {
         "choices": [
-          "puppy",
-          "calf",
-          "cub"
+          {
+            "id": "c1",
+            "text": "puppy"
+          },
+          {
+            "id": "c2",
+            "text": "calf"
+          },
+          {
+            "id": "c3",
+            "text": "cub"
+          }
         ]
       },
-      "correct_answer": "calf",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is calf.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
+      },
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "How much water can camels drink at one time?",
       "type": "mcq",
+      "prompt": "How much water can camels drink at one time?",
       "options": {
         "choices": [
-          "a little water",
-          "a lot of water",
-          "no water"
+          {
+            "id": "c1",
+            "text": "a little water"
+          },
+          {
+            "id": "c2",
+            "text": "a lot of water"
+          },
+          {
+            "id": "c3",
+            "text": "no water"
+          }
         ]
       },
-      "correct_answer": "a lot of water",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is a lot of water.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
+      },
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Why do people use camels?",
       "type": "mcq",
+      "prompt": "Why do people use camels?",
       "options": {
         "choices": [
-          "to swim",
-          "to carry heavy loads",
-          "to climb trees"
+          {
+            "id": "c1",
+            "text": "to swim"
+          },
+          {
+            "id": "c2",
+            "text": "to carry heavy loads"
+          },
+          {
+            "id": "c3",
+            "text": "to climb trees"
+          }
         ]
       },
-      "correct_answer": "to carry heavy loads",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is to carry heavy loads.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image3.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image3.png"
+      },
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Look at the picture above. What animal does it is represent?",
       "type": "mcq",
+      "prompt": "Look at the picture above. What animal does it is represent?",
       "options": {
         "choices": [
-          "camel",
-          "element",
-          "elephant"
+          {
+            "id": "c1",
+            "text": "camel"
+          },
+          {
+            "id": "c2",
+            "text": "element"
+          },
+          {
+            "id": "c3",
+            "text": "elephant"
+          }
         ]
       },
-      "correct_answer": "elephant",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is elephant.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Where do elephants mostly live?",
       "type": "mcq",
+      "prompt": "Where do elephants mostly live?",
       "options": {
         "choices": [
-          "desert",
-          "savanna and forest",
-          "ocean"
+          {
+            "id": "c1",
+            "text": "desert"
+          },
+          {
+            "id": "c2",
+            "text": "savanna and forest"
+          },
+          {
+            "id": "c3",
+            "text": "ocean"
+          }
         ]
       },
-      "correct_answer": "savanna and forest",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is savanna and forest.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "What do elephants use their trunk for?",
       "type": "mcq",
+      "prompt": "What do elephants use their trunk for?",
       "options": {
         "choices": [
-          "flying",
-          "swimming only",
-          "eating and drinking"
+          {
+            "id": "c1",
+            "text": "flying"
+          },
+          {
+            "id": "c2",
+            "text": "swimming only"
+          },
+          {
+            "id": "c3",
+            "text": "eating and drinking"
+          }
         ]
       },
-      "correct_answer": "eating and drinking",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is eating and drinking.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "What do elephants eat?",
       "type": "mcq",
+      "prompt": "What do elephants eat?",
       "options": {
         "choices": [
-          "meat",
-          "plants and grass",
-          "fish"
+          {
+            "id": "c1",
+            "text": "meat"
+          },
+          {
+            "id": "c2",
+            "text": "plants and grass"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "plants and grass",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is plants and grass.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "How would you describe elephants?",
       "type": "mcq",
+      "prompt": "How would you describe elephants?",
       "options": {
         "choices": [
-          "small animals",
-          "large animals",
-          "tiny insect"
+          {
+            "id": "c1",
+            "text": "small animals"
+          },
+          {
+            "id": "c2",
+            "text": "large animals"
+          },
+          {
+            "id": "c3",
+            "text": "tiny insect"
+          }
         ]
       },
-      "correct_answer": "large animals",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is large animals.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "What is a baby elephant called?",
       "type": "mcq",
+      "prompt": "What is a baby elephant called?",
       "options": {
         "choices": [
-          "calf",
-          "cub",
-          "puppy"
+          {
+            "id": "c1",
+            "text": "calf"
+          },
+          {
+            "id": "c2",
+            "text": "cub"
+          },
+          {
+            "id": "c3",
+            "text": "puppy"
+          }
         ]
       },
-      "correct_answer": "calf",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is calf.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "What do elephants have?",
       "type": "mcq",
+      "prompt": "What do elephants have?",
       "options": {
         "choices": [
-          "wings",
-          "big ears",
-          "fins"
+          {
+            "id": "c1",
+            "text": "wings"
+          },
+          {
+            "id": "c2",
+            "text": "big ears"
+          },
+          {
+            "id": "c3",
+            "text": "fins"
+          }
         ]
       },
-      "correct_answer": "big ears",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is big ears.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Why do elephants have big ears?",
       "type": "mcq",
+      "prompt": "Why do elephants have big ears?",
       "options": {
         "choices": [
-          "to fly",
-          "to keep cool",
-          "to climb trees"
+          {
+            "id": "c1",
+            "text": "to fly"
+          },
+          {
+            "id": "c2",
+            "text": "to keep cool"
+          },
+          {
+            "id": "c3",
+            "text": "to climb trees"
+          }
         ]
       },
-      "correct_answer": "to keep cool",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is to keep cool.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "What are groups of elephants called?",
       "type": "mcq",
+      "prompt": "What are groups of elephants called?",
       "options": {
         "choices": [
-          "packs",
-          "herds",
-          "schools"
+          {
+            "id": "c1",
+            "text": "packs"
+          },
+          {
+            "id": "c2",
+            "text": "herds"
+          },
+          {
+            "id": "c3",
+            "text": "schools"
+          }
         ]
       },
-      "correct_answer": "herds",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is herds.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "What do elephants use their tusks for?",
       "type": "mcq",
+      "prompt": "What do elephants use their tusks for?",
       "options": {
         "choices": [
-          "dig and protect",
-          "swim",
-          "fly"
+          {
+            "id": "c1",
+            "text": "dig and protect"
+          },
+          {
+            "id": "c2",
+            "text": "swim"
+          },
+          {
+            "id": "c3",
+            "text": "fly"
+          }
         ]
       },
-      "correct_answer": "dig and protect",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is dig and protect.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "What are elephants known for?",
       "type": "mcq",
+      "prompt": "What are elephants known for?",
       "options": {
         "choices": [
-          "short memory",
-          "strong memory",
-          "no memory"
+          {
+            "id": "c1",
+            "text": "short memory"
+          },
+          {
+            "id": "c2",
+            "text": "strong memory"
+          },
+          {
+            "id": "c3",
+            "text": "no memory"
+          }
         ]
       },
-      "correct_answer": "strong memory",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is strong memory.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "How many legs does an elephant have?",
       "type": "mcq",
+      "prompt": "How many legs does an elephant have?",
       "options": {
         "choices": [
-          "two",
-          "four",
-          "six"
+          {
+            "id": "c1",
+            "text": "two"
+          },
+          {
+            "id": "c2",
+            "text": "four"
+          },
+          {
+            "id": "c3",
+            "text": "six"
+          }
         ]
       },
-      "correct_answer": "four",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is four.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "What can elephants do?",
       "type": "mcq",
+      "prompt": "What can elephants do?",
       "options": {
         "choices": [
-          "jump very high",
-          "roar like lions",
-          "communicate with sounds"
+          {
+            "id": "c1",
+            "text": "jump very high"
+          },
+          {
+            "id": "c2",
+            "text": "roar like lions"
+          },
+          {
+            "id": "c3",
+            "text": "communicate with sounds"
+          }
         ]
       },
-      "correct_answer": "communicate with sounds",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is communicate with sounds.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "What type of animals are elephants?",
       "type": "mcq",
+      "prompt": "What type of animals are elephants?",
       "options": {
         "choices": [
-          "mammals",
-          "reptiles",
-          "birds"
+          {
+            "id": "c1",
+            "text": "mammals"
+          },
+          {
+            "id": "c2",
+            "text": "reptiles"
+          },
+          {
+            "id": "c3",
+            "text": "birds"
+          }
         ]
       },
-      "correct_answer": "mammals",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is mammals.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "What do elephants need a lot of?",
       "type": "mcq",
+      "prompt": "What do elephants need a lot of?",
       "options": {
         "choices": [
-          "water",
-          "snow",
-          "sand"
+          {
+            "id": "c1",
+            "text": "water"
+          },
+          {
+            "id": "c2",
+            "text": "snow"
+          },
+          {
+            "id": "c3",
+            "text": "sand"
+          }
         ]
       },
-      "correct_answer": "water",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is water.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image4.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image4.png"
+      },
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Look at the picture above. What animal does it represent?",
       "type": "mcq",
+      "prompt": "Look at the picture above. What animal does it represent?",
       "options": {
         "choices": [
-          "camel",
-          "lion",
-          "elephant"
+          {
+            "id": "c1",
+            "text": "camel"
+          },
+          {
+            "id": "c2",
+            "text": "lion"
+          },
+          {
+            "id": "c3",
+            "text": "elephant"
+          }
         ]
       },
-      "correct_answer": "lion",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is lion.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Where do lions mostly live?",
       "type": "mcq",
+      "prompt": "Where do lions mostly live?",
       "options": {
         "choices": [
-          "ocean",
-          "savanna",
-          "arctic"
+          {
+            "id": "c1",
+            "text": "ocean"
+          },
+          {
+            "id": "c2",
+            "text": "savanna"
+          },
+          {
+            "id": "c3",
+            "text": "arctic"
+          }
         ]
       },
-      "correct_answer": "savanna",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is savanna.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "What does a male lion have?",
       "type": "mcq",
+      "prompt": "What does a male lion have?",
       "options": {
         "choices": [
-          "trunk",
-          "mane",
-          "shell"
+          {
+            "id": "c1",
+            "text": "trunk"
+          },
+          {
+            "id": "c2",
+            "text": "mane"
+          },
+          {
+            "id": "c3",
+            "text": "shell"
+          }
         ]
       },
-      "correct_answer": "mane",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is mane.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "What do lions eat?",
       "type": "mcq",
+      "prompt": "What do lions eat?",
       "options": {
         "choices": [
-          "plants",
-          "meat",
-          "leaves"
+          {
+            "id": "c1",
+            "text": "plants"
+          },
+          {
+            "id": "c2",
+            "text": "meat"
+          },
+          {
+            "id": "c3",
+            "text": "leaves"
+          }
         ]
       },
-      "correct_answer": "meat",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is meat.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "What is a baby lion called?",
       "type": "mcq",
+      "prompt": "What is a baby lion called?",
       "options": {
         "choices": [
-          "cub",
-          "calf",
-          "puppy"
+          {
+            "id": "c1",
+            "text": "cub"
+          },
+          {
+            "id": "c2",
+            "text": "calf"
+          },
+          {
+            "id": "c3",
+            "text": "puppy"
+          }
         ]
       },
-      "correct_answer": "cub",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is cub.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "What are groups of lions called?",
       "type": "mcq",
+      "prompt": "What are groups of lions called?",
       "options": {
         "choices": [
-          "herds",
-          "prides",
-          "schools"
+          {
+            "id": "c1",
+            "text": "herds"
+          },
+          {
+            "id": "c2",
+            "text": "prides"
+          },
+          {
+            "id": "c3",
+            "text": "schools"
+          }
         ]
       },
-      "correct_answer": "prides",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is prides.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "What type of animals are lions?",
       "type": "mcq",
+      "prompt": "What type of animals are lions?",
       "options": {
         "choices": [
-          "herbivores",
-          "carnivores",
-          "omnivores"
+          {
+            "id": "c1",
+            "text": "herbivores"
+          },
+          {
+            "id": "c2",
+            "text": "carnivores"
+          },
+          {
+            "id": "c3",
+            "text": "omnivores"
+          }
         ]
       },
-      "correct_answer": "carnivores",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is carnivores.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "What is a female lion called?",
       "type": "mcq",
+      "prompt": "What is a female lion called?",
       "options": {
         "choices": [
-          "lioness",
-          "queen",
-          "cub"
+          {
+            "id": "c1",
+            "text": "lioness"
+          },
+          {
+            "id": "c2",
+            "text": "queen"
+          },
+          {
+            "id": "c3",
+            "text": "cub"
+          }
         ]
       },
-      "correct_answer": "lioness",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is lioness.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Where do lions sleep?",
       "type": "mcq",
+      "prompt": "Where do lions sleep?",
       "options": {
         "choices": [
-          "in water",
-          "in grass or dens",
-          "in trees"
+          {
+            "id": "c1",
+            "text": "in water"
+          },
+          {
+            "id": "c2",
+            "text": "in grass or dens"
+          },
+          {
+            "id": "c3",
+            "text": "in trees"
+          }
         ]
       },
-      "correct_answer": "in grass or dens",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is in grass or dens.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "How many legs does a lion have?",
       "type": "mcq",
+      "prompt": "How many legs does a lion have?",
       "options": {
         "choices": [
-          "two",
-          "four",
-          "six"
+          {
+            "id": "c1",
+            "text": "two"
+          },
+          {
+            "id": "c2",
+            "text": "four"
+          },
+          {
+            "id": "c3",
+            "text": "six"
+          }
         ]
       },
-      "correct_answer": "four",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is four.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Why do lions roar?",
       "type": "mcq",
+      "prompt": "Why do lions roar?",
       "options": {
         "choices": [
-          "to swim",
-          "to communicate",
-          "to dig"
+          {
+            "id": "c1",
+            "text": "to swim"
+          },
+          {
+            "id": "c2",
+            "text": "to communicate"
+          },
+          {
+            "id": "c3",
+            "text": "to dig"
+          }
         ]
       },
-      "correct_answer": "to communicate",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is to communicate.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "What are lions known as?",
       "type": "mcq",
+      "prompt": "What are lions known as?",
       "options": {
         "choices": [
-          "king of the jungle",
-          "biggest fish",
-          "fastest bird"
+          {
+            "id": "c1",
+            "text": "king of the jungle"
+          },
+          {
+            "id": "c2",
+            "text": "biggest fish"
+          },
+          {
+            "id": "c3",
+            "text": "fastest bird"
+          }
         ]
       },
-      "correct_answer": "king of the jungle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is king of the jungle.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "What color is a lion's fur?",
       "type": "mcq",
+      "prompt": "What color is a lion's fur?",
       "options": {
         "choices": [
-          "blue",
-          "green",
-          "golden brown"
+          {
+            "id": "c1",
+            "text": "blue"
+          },
+          {
+            "id": "c2",
+            "text": "green"
+          },
+          {
+            "id": "c3",
+            "text": "golden brown"
+          }
         ]
       },
-      "correct_answer": "golden brown",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is golden brown.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "What do lions have that is sharp?",
       "type": "mcq",
+      "prompt": "What do lions have that is sharp?",
       "options": {
         "choices": [
-          "fins",
-          "claws and teeth",
-          "wings"
+          {
+            "id": "c1",
+            "text": "fins"
+          },
+          {
+            "id": "c2",
+            "text": "claws and teeth"
+          },
+          {
+            "id": "c3",
+            "text": "wings"
+          }
         ]
       },
-      "correct_answer": "claws and teeth",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is claws and teeth.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Where do African lions live?",
       "type": "mcq",
+      "prompt": "Where do African lions live?",
       "options": {
         "choices": [
-          "Europe",
-          "Africa",
-          "Antarctica"
+          {
+            "id": "c1",
+            "text": "Europe"
+          },
+          {
+            "id": "c2",
+            "text": "Africa"
+          },
+          {
+            "id": "c3",
+            "text": "Antarctica"
+          }
         ]
       },
-      "correct_answer": "Africa",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is Africa.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image5.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image5.png"
+      },
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Look at the picture above. What animal does it represent?",
       "type": "mcq",
+      "prompt": "Look at the picture above. What animal does it represent?",
       "options": {
         "choices": [
-          "lion",
-          "rabbit",
-          "squirrel"
+          {
+            "id": "c1",
+            "text": "lion"
+          },
+          {
+            "id": "c2",
+            "text": "rabbit"
+          },
+          {
+            "id": "c3",
+            "text": "squirrel"
+          }
         ]
       },
-      "correct_answer": "rabbit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is rabbit.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Where do rabbits usually live?",
       "type": "mcq",
+      "prompt": "Where do rabbits usually live?",
       "options": {
         "choices": [
-          "ocean",
-          "burrows",
-          "desert"
+          {
+            "id": "c1",
+            "text": "ocean"
+          },
+          {
+            "id": "c2",
+            "text": "burrows"
+          },
+          {
+            "id": "c3",
+            "text": "desert"
+          }
         ]
       },
-      "correct_answer": "burrows",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is burrows.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "What do rabbits eat?",
       "type": "mcq",
+      "prompt": "What do rabbits eat?",
       "options": {
         "choices": [
-          "meat",
-          "plants and carrots",
-          "fish"
+          {
+            "id": "c1",
+            "text": "meat"
+          },
+          {
+            "id": "c2",
+            "text": "plants and carrots"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "plants and carrots",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is plants and carrots.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "What is a baby rabbit called?",
       "type": "mcq",
+      "prompt": "What is a baby rabbit called?",
       "options": {
         "choices": [
-          "cub",
-          "kit",
-          "calf"
+          {
+            "id": "c1",
+            "text": "cub"
+          },
+          {
+            "id": "c2",
+            "text": "kit"
+          },
+          {
+            "id": "c3",
+            "text": "calf"
+          }
         ]
       },
-      "correct_answer": "kit",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is kit.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "What type of animal is a rabbit?",
       "type": "mcq",
+      "prompt": "What type of animal is a rabbit?",
       "options": {
         "choices": [
-          "carnivore",
-          "herbivore",
-          "omnivore"
+          {
+            "id": "c1",
+            "text": "carnivore"
+          },
+          {
+            "id": "c2",
+            "text": "herbivore"
+          },
+          {
+            "id": "c3",
+            "text": "omnivore"
+          }
         ]
       },
-      "correct_answer": "herbivore",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is herbivore.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "What do rabbits use to hear very well?",
       "type": "mcq",
+      "prompt": "What do rabbits use to hear very well?",
       "options": {
         "choices": [
-          "short ears",
-          "long ears",
-          "wings"
+          {
+            "id": "c1",
+            "text": "short ears"
+          },
+          {
+            "id": "c2",
+            "text": "long ears"
+          },
+          {
+            "id": "c3",
+            "text": "wings"
+          }
         ]
       },
-      "correct_answer": "long ears",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is long ears.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "How many legs does a rabbit have?",
       "type": "mcq",
+      "prompt": "How many legs does a rabbit have?",
       "options": {
         "choices": [
-          "two",
-          "four",
-          "six"
+          {
+            "id": "c1",
+            "text": "two"
+          },
+          {
+            "id": "c2",
+            "text": "four"
+          },
+          {
+            "id": "c3",
+            "text": "six"
+          }
         ]
       },
-      "correct_answer": "four",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is four.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "What covers a rabbit's body?",
       "type": "mcq",
+      "prompt": "What covers a rabbit's body?",
       "options": {
         "choices": [
-          "scales",
-          "fur",
-          "feathers"
+          {
+            "id": "c1",
+            "text": "scales"
+          },
+          {
+            "id": "c2",
+            "text": "fur"
+          },
+          {
+            "id": "c3",
+            "text": "feathers"
+          }
         ]
       },
-      "correct_answer": "fur",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is fur.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "How do rabbits move?",
       "type": "mcq",
+      "prompt": "How do rabbits move?",
       "options": {
         "choices": [
-          "flying",
-          "hopping",
-          "swimming"
+          {
+            "id": "c1",
+            "text": "flying"
+          },
+          {
+            "id": "c2",
+            "text": "hopping"
+          },
+          {
+            "id": "c3",
+            "text": "swimming"
+          }
         ]
       },
-      "correct_answer": "hopping",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is hopping.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Where do wild rabbits hide?",
       "type": "mcq",
+      "prompt": "Where do wild rabbits hide?",
       "options": {
         "choices": [
-          "trees",
-          "burrows",
-          "water"
+          {
+            "id": "c1",
+            "text": "trees"
+          },
+          {
+            "id": "c2",
+            "text": "burrows"
+          },
+          {
+            "id": "c3",
+            "text": "water"
+          }
         ]
       },
-      "correct_answer": "burrows",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is burrows.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "What do rabbits use their long teeth for?",
       "type": "mcq",
+      "prompt": "What do rabbits use their long teeth for?",
       "options": {
         "choices": [
-          "eating plants",
-          "swimming",
-          "flying"
+          {
+            "id": "c1",
+            "text": "eating plants"
+          },
+          {
+            "id": "c2",
+            "text": "swimming"
+          },
+          {
+            "id": "c3",
+            "text": "flying"
+          }
         ]
       },
-      "correct_answer": "eating plants",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is eating plants.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "What colors can rabbits be?",
       "type": "mcq",
+      "prompt": "What colors can rabbits be?",
       "options": {
         "choices": [
-          "only blue",
-          "many colors",
-          "only green"
+          {
+            "id": "c1",
+            "text": "only blue"
+          },
+          {
+            "id": "c2",
+            "text": "many colors"
+          },
+          {
+            "id": "c3",
+            "text": "only green"
+          }
         ]
       },
-      "correct_answer": "many colors",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is many colors.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Are rabbits fast or slow animals?",
       "type": "mcq",
+      "prompt": "Are rabbits fast or slow animals?",
       "options": {
         "choices": [
-          "slow",
-          "very fast",
-          "cannot move"
+          {
+            "id": "c1",
+            "text": "slow"
+          },
+          {
+            "id": "c2",
+            "text": "very fast"
+          },
+          {
+            "id": "c3",
+            "text": "cannot move"
+          }
         ]
       },
-      "correct_answer": "very fast",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is very fast.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "What do rabbits use their strong back legs for?",
       "type": "mcq",
+      "prompt": "What do rabbits use their strong back legs for?",
       "options": {
         "choices": [
-          "jumping",
-          "flying",
-          "climbing trees"
+          {
+            "id": "c1",
+            "text": "jumping"
+          },
+          {
+            "id": "c2",
+            "text": "flying"
+          },
+          {
+            "id": "c3",
+            "text": "climbing trees"
+          }
         ]
       },
-      "correct_answer": "jumping",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is jumping.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Why are rabbits mammals?",
       "type": "mcq",
+      "prompt": "Why are rabbits mammals?",
       "options": {
         "choices": [
-          "they lay eggs",
-          "they have fur and drink milk from their mothers",
-          "they have scales"
+          {
+            "id": "c1",
+            "text": "they lay eggs"
+          },
+          {
+            "id": "c2",
+            "text": "they have fur and drink milk from their mothers"
+          },
+          {
+            "id": "c3",
+            "text": "they have scales"
+          }
         ]
       },
-      "correct_answer": "they have fur and drink milk from their mothers",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is they have fur and drink milk from their mothers.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image6.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image6.png"
+      },
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Look at the picture above. What animal does it represent?",
       "type": "mcq",
+      "prompt": "Look at the picture above. What animal does it represent?",
       "options": {
         "choices": [
-          "lion",
-          "rabbit",
-          "kangaroo"
+          {
+            "id": "c1",
+            "text": "lion"
+          },
+          {
+            "id": "c2",
+            "text": "rabbit"
+          },
+          {
+            "id": "c3",
+            "text": "kangaroo"
+          }
         ]
       },
-      "correct_answer": "kangaroo",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is kangaroo.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Where do kangaroos live?",
       "type": "mcq",
+      "prompt": "Where do kangaroos live?",
       "options": {
         "choices": [
-          "Africa",
-          "Australia",
-          "Antarctica"
+          {
+            "id": "c1",
+            "text": "Africa"
+          },
+          {
+            "id": "c2",
+            "text": "Australia"
+          },
+          {
+            "id": "c3",
+            "text": "Antarctica"
+          }
         ]
       },
-      "correct_answer": "Australia",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is Australia.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "How do kangaroos move?",
       "type": "mcq",
+      "prompt": "How do kangaroos move?",
       "options": {
         "choices": [
-          "crawl",
-          "hop",
-          "swim"
+          {
+            "id": "c1",
+            "text": "crawl"
+          },
+          {
+            "id": "c2",
+            "text": "hop"
+          },
+          {
+            "id": "c3",
+            "text": "swim"
+          }
         ]
       },
-      "correct_answer": "hop",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is hop.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "What is a baby kangaroo called?",
       "type": "mcq",
+      "prompt": "What is a baby kangaroo called?",
       "options": {
         "choices": [
-          "cub",
-          "joey",
-          "calf"
+          {
+            "id": "c1",
+            "text": "cub"
+          },
+          {
+            "id": "c2",
+            "text": "joey"
+          },
+          {
+            "id": "c3",
+            "text": "calf"
+          }
         ]
       },
-      "correct_answer": "joey",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is joey.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Where does a baby kangaroo stay after birth?",
       "type": "mcq",
+      "prompt": "Where does a baby kangaroo stay after birth?",
       "options": {
         "choices": [
-          "in a nest",
-          "in a pouch",
-          "in water"
+          {
+            "id": "c1",
+            "text": "in a nest"
+          },
+          {
+            "id": "c2",
+            "text": "in a pouch"
+          },
+          {
+            "id": "c3",
+            "text": "in water"
+          }
         ]
       },
-      "correct_answer": "in a pouch",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is in a pouch.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "What do kangaroos eat?",
       "type": "mcq",
+      "prompt": "What do kangaroos eat?",
       "options": {
         "choices": [
-          "meat",
-          "plants and grass",
-          "fish"
+          {
+            "id": "c1",
+            "text": "meat"
+          },
+          {
+            "id": "c2",
+            "text": "plants and grass"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "plants and grass",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is plants and grass.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "What type of animals are kangaroos?",
       "type": "mcq",
+      "prompt": "What type of animals are kangaroos?",
       "options": {
         "choices": [
-          "carnivores",
-          "herbivores",
-          "omnivores"
+          {
+            "id": "c1",
+            "text": "carnivores"
+          },
+          {
+            "id": "c2",
+            "text": "herbivores"
+          },
+          {
+            "id": "c3",
+            "text": "omnivores"
+          }
         ]
       },
-      "correct_answer": "herbivores",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is herbivores.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "What do kangaroos use to balance?",
       "type": "mcq",
+      "prompt": "What do kangaroos use to balance?",
       "options": {
         "choices": [
-          "tail",
-          "wings",
-          "fins"
+          {
+            "id": "c1",
+            "text": "tail"
+          },
+          {
+            "id": "c2",
+            "text": "wings"
+          },
+          {
+            "id": "c3",
+            "text": "fins"
+          }
         ]
       },
-      "correct_answer": "tail",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is tail.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "How many legs does a kangaroo have?",
       "type": "mcq",
+      "prompt": "How many legs does a kangaroo have?",
       "options": {
         "choices": [
-          "two",
-          "four",
-          "six"
+          {
+            "id": "c1",
+            "text": "two"
+          },
+          {
+            "id": "c2",
+            "text": "four"
+          },
+          {
+            "id": "c3",
+            "text": "six"
+          }
         ]
       },
-      "correct_answer": "four",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is four.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which legs of a kangaroo are the strongest?",
       "type": "mcq",
+      "prompt": "Which legs of a kangaroo are the strongest?",
       "options": {
         "choices": [
-          "front legs",
-          "back legs",
-          "no legs"
+          {
+            "id": "c1",
+            "text": "front legs"
+          },
+          {
+            "id": "c2",
+            "text": "back legs"
+          },
+          {
+            "id": "c3",
+            "text": "no legs"
+          }
         ]
       },
-      "correct_answer": "back legs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is back legs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "What covers a kangaroo's body?",
       "type": "mcq",
+      "prompt": "What covers a kangaroo's body?",
       "options": {
         "choices": [
-          "scales",
-          "fur",
-          "feathers"
+          {
+            "id": "c1",
+            "text": "scales"
+          },
+          {
+            "id": "c2",
+            "text": "fur"
+          },
+          {
+            "id": "c3",
+            "text": "feathers"
+          }
         ]
       },
-      "correct_answer": "fur",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is fur.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Why are kangaroos mammals?",
       "type": "mcq",
+      "prompt": "Why are kangaroos mammals?",
       "options": {
         "choices": [
-          "they lay eggs",
-          "they have fur and feed milk to their babies",
-          "they have scales"
+          {
+            "id": "c1",
+            "text": "they lay eggs"
+          },
+          {
+            "id": "c2",
+            "text": "they have fur and feed milk to their babies"
+          },
+          {
+            "id": "c3",
+            "text": "they have scales"
+          }
         ]
       },
-      "correct_answer": "they have fur and feed milk to their babies",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is they have fur and feed milk to their babies.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "How can kangaroos jump?",
       "type": "mcq",
+      "prompt": "How can kangaroos jump?",
       "options": {
         "choices": [
-          "high and far",
-          "only a little",
-          "they cannot jump"
+          {
+            "id": "c1",
+            "text": "high and far"
+          },
+          {
+            "id": "c2",
+            "text": "only a little"
+          },
+          {
+            "id": "c3",
+            "text": "they cannot jump"
+          }
         ]
       },
-      "correct_answer": "high and far",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is high and far.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "What is a group of kangaroos called?",
       "type": "mcq",
+      "prompt": "What is a group of kangaroos called?",
       "options": {
         "choices": [
-          "pride",
-          "mob",
-          "herd"
+          {
+            "id": "c1",
+            "text": "pride"
+          },
+          {
+            "id": "c2",
+            "text": "mob"
+          },
+          {
+            "id": "c3",
+            "text": "herd"
+          }
         ]
       },
-      "correct_answer": "mob",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is mob.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "When are kangaroos most active?",
       "type": "mcq",
+      "prompt": "When are kangaroos most active?",
       "options": {
         "choices": [
-          "at night",
-          "at noon",
-          "in the morning only"
+          {
+            "id": "c1",
+            "text": "at night"
+          },
+          {
+            "id": "c2",
+            "text": "at noon"
+          },
+          {
+            "id": "c3",
+            "text": "in the morning only"
+          }
         ]
       },
-      "correct_answer": "at night",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is at night.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image7.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image7.png"
+      },
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Look at the picture above. What animal does it represent?",
       "type": "mcq",
+      "prompt": "Look at the picture above. What animal does it represent?",
       "options": {
         "choices": [
-          "giraffe",
-          "rabbit",
-          "kangaroo"
+          {
+            "id": "c1",
+            "text": "giraffe"
+          },
+          {
+            "id": "c2",
+            "text": "rabbit"
+          },
+          {
+            "id": "c3",
+            "text": "kangaroo"
+          }
         ]
       },
-      "correct_answer": "giraffe",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is giraffe.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Where do giraffes live?",
       "type": "mcq",
+      "prompt": "Where do giraffes live?",
       "options": {
         "choices": [
-          "ocean",
-          "savanna",
-          "arctic"
+          {
+            "id": "c1",
+            "text": "ocean"
+          },
+          {
+            "id": "c2",
+            "text": "savanna"
+          },
+          {
+            "id": "c3",
+            "text": "arctic"
+          }
         ]
       },
-      "correct_answer": "savanna",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is savanna.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "What do giraffes eat?",
       "type": "mcq",
+      "prompt": "What do giraffes eat?",
       "options": {
         "choices": [
-          "meat",
-          "leaves",
-          "fish"
+          {
+            "id": "c1",
+            "text": "meat"
+          },
+          {
+            "id": "c2",
+            "text": "leaves"
+          },
+          {
+            "id": "c3",
+            "text": "fish"
+          }
         ]
       },
-      "correct_answer": "leaves",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is leaves.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "What is special about a giraffe's neck?",
       "type": "mcq",
+      "prompt": "What is special about a giraffe's neck?",
       "options": {
         "choices": [
-          "it is very short",
-          "it is very long",
-          "it is very small"
+          {
+            "id": "c1",
+            "text": "it is very short"
+          },
+          {
+            "id": "c2",
+            "text": "it is very long"
+          },
+          {
+            "id": "c3",
+            "text": "it is very small"
+          }
         ]
       },
-      "correct_answer": "it is very long",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is it is very long.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "How many legs does a giraffe have?",
       "type": "mcq",
+      "prompt": "How many legs does a giraffe have?",
       "options": {
         "choices": [
-          "two",
-          "five",
-          "four"
+          {
+            "id": "c1",
+            "text": "two"
+          },
+          {
+            "id": "c2",
+            "text": "five"
+          },
+          {
+            "id": "c3",
+            "text": "four"
+          }
         ]
       },
-      "correct_answer": "four",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is four.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "What covers a giraffe's body?",
       "type": "mcq",
+      "prompt": "What covers a giraffe's body?",
       "options": {
         "choices": [
-          "scales",
-          "fur with spots",
-          "feathers"
+          {
+            "id": "c1",
+            "text": "scales"
+          },
+          {
+            "id": "c2",
+            "text": "fur with spots"
+          },
+          {
+            "id": "c3",
+            "text": "feathers"
+          }
         ]
       },
-      "correct_answer": "fur with spots",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is fur with spots.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "What type of animal is a giraffe?",
       "type": "mcq",
+      "prompt": "What type of animal is a giraffe?",
       "options": {
         "choices": [
-          "carnivore",
-          "omnivores",
-          "herbivore"
+          {
+            "id": "c1",
+            "text": "carnivore"
+          },
+          {
+            "id": "c2",
+            "text": "omnivores"
+          },
+          {
+            "id": "c3",
+            "text": "herbivore"
+          }
         ]
       },
-      "correct_answer": "herbivore",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is herbivore.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "What do giraffes use their long necks for?",
       "type": "mcq",
+      "prompt": "What do giraffes use their long necks for?",
       "options": {
         "choices": [
-          "swimming",
-          "reaching high leaves",
-          "digging"
+          {
+            "id": "c1",
+            "text": "swimming"
+          },
+          {
+            "id": "c2",
+            "text": "reaching high leaves"
+          },
+          {
+            "id": "c3",
+            "text": "digging"
+          }
         ]
       },
-      "correct_answer": "reaching high leaves",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is reaching high leaves.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "What is a baby giraffe called?",
       "type": "mcq",
+      "prompt": "What is a baby giraffe called?",
       "options": {
         "choices": [
-          "cub",
-          "calf",
-          "chick"
+          {
+            "id": "c1",
+            "text": "cub"
+          },
+          {
+            "id": "c2",
+            "text": "calf"
+          },
+          {
+            "id": "c3",
+            "text": "chick"
+          }
         ]
       },
-      "correct_answer": "calf",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is calf.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "How do giraffes drink water?",
       "type": "mcq",
+      "prompt": "How do giraffes drink water?",
       "options": {
         "choices": [
-          "by flying",
-          "by spreading their legs",
-          "by climbing trees"
+          {
+            "id": "c1",
+            "text": "by flying"
+          },
+          {
+            "id": "c2",
+            "text": "by spreading their legs"
+          },
+          {
+            "id": "c3",
+            "text": "by climbing trees"
+          }
         ]
       },
-      "correct_answer": "by spreading their legs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is by spreading their legs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "What color are giraffes?",
       "type": "mcq",
+      "prompt": "What color are giraffes?",
       "options": {
         "choices": [
-          "blue",
-          "green",
-          "yellowish brown with spots"
+          {
+            "id": "c1",
+            "text": "blue"
+          },
+          {
+            "id": "c2",
+            "text": "green"
+          },
+          {
+            "id": "c3",
+            "text": "yellowish brown with spots"
+          }
         ]
       },
-      "correct_answer": "yellowish brown with spots",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is yellowish brown with spots.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Where do giraffes usually find food?",
       "type": "mcq",
+      "prompt": "Where do giraffes usually find food?",
       "options": {
         "choices": [
-          "on tall trees",
-          "under the sea",
-          "in caves"
+          {
+            "id": "c1",
+            "text": "on tall trees"
+          },
+          {
+            "id": "c2",
+            "text": "under the sea"
+          },
+          {
+            "id": "c3",
+            "text": "in caves"
+          }
         ]
       },
-      "correct_answer": "on tall trees",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is on tall trees.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "What do giraffes have on their heads?",
       "type": "mcq",
+      "prompt": "What do giraffes have on their heads?",
       "options": {
         "choices": [
-          "horns",
-          "small horn like knobs",
-          "wings"
+          {
+            "id": "c1",
+            "text": "horns"
+          },
+          {
+            "id": "c2",
+            "text": "small horn like knobs"
+          },
+          {
+            "id": "c3",
+            "text": "wings"
+          }
         ]
       },
-      "correct_answer": "small horn like knobs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is small horn like knobs.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Why are giraffes mammals?",
       "type": "mcq",
+      "prompt": "Why are giraffes mammals?",
       "options": {
         "choices": [
-          "they lay eggs",
-          "they have fur and feed milk to their babies",
-          "they have scales"
+          {
+            "id": "c1",
+            "text": "they lay eggs"
+          },
+          {
+            "id": "c2",
+            "text": "they have fur and feed milk to their babies"
+          },
+          {
+            "id": "c3",
+            "text": "they have scales"
+          }
         ]
       },
-      "correct_answer": "they have fur and feed milk to their babies",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is they have fur and feed milk to their babies.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "What are groups of giraffes called?",
       "type": "mcq",
+      "prompt": "What are groups of giraffes called?",
       "options": {
         "choices": [
-          "herds",
-          "schools",
-          "packs"
+          {
+            "id": "c1",
+            "text": "herds"
+          },
+          {
+            "id": "c2",
+            "text": "schools"
+          },
+          {
+            "id": "c3",
+            "text": "packs"
+          }
         ]
       },
-      "correct_answer": "herds",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is herds.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image8.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image8.png"
+      },
       "order_index": 100
     },
     {
       "slug": "q101",
-      "prompt": "Look at the picture above. What animal does it represent?",
       "type": "mcq",
+      "prompt": "Look at the picture above. What animal does it represent?",
       "options": {
         "choices": [
-          "giraffe",
-          "monkey",
-          "kangaroo"
+          {
+            "id": "c1",
+            "text": "giraffe"
+          },
+          {
+            "id": "c2",
+            "text": "monkey"
+          },
+          {
+            "id": "c3",
+            "text": "kangaroo"
+          }
         ]
       },
-      "correct_answer": "monkey",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is monkey.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
+      },
       "order_index": 101
     },
     {
       "slug": "q102",
-      "prompt": "Where do monkeys mostly live?",
       "type": "mcq",
+      "prompt": "Where do monkeys mostly live?",
       "options": {
         "choices": [
-          "desert",
-          "ocean",
-          "jungle"
+          {
+            "id": "c1",
+            "text": "desert"
+          },
+          {
+            "id": "c2",
+            "text": "ocean"
+          },
+          {
+            "id": "c3",
+            "text": "jungle"
+          }
         ]
       },
-      "correct_answer": "jungle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is jungle.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
+      },
       "order_index": 102
     },
     {
       "slug": "q103",
-      "prompt": "What do monkeys eat?",
       "type": "mcq",
+      "prompt": "What do monkeys eat?",
       "options": {
         "choices": [
-          "meat only",
-          "bananas and fruits",
-          "rocks"
+          {
+            "id": "c1",
+            "text": "meat only"
+          },
+          {
+            "id": "c2",
+            "text": "bananas and fruits"
+          },
+          {
+            "id": "c3",
+            "text": "rocks"
+          }
         ]
       },
-      "correct_answer": "bananas and fruits",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is bananas and fruits.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
+      },
       "order_index": 103
     },
     {
       "slug": "q104",
-      "prompt": "How do monkeys move in trees?",
       "type": "mcq",
+      "prompt": "How do monkeys move in trees?",
       "options": {
         "choices": [
-          "by swimming",
-          "by climbing and swinging",
-          "by flying"
+          {
+            "id": "c1",
+            "text": "by swimming"
+          },
+          {
+            "id": "c2",
+            "text": "by climbing and swinging"
+          },
+          {
+            "id": "c3",
+            "text": "by flying"
+          }
         ]
       },
-      "correct_answer": "by climbing and swinging",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is by climbing and swinging.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
+      },
       "order_index": 104
     },
     {
       "slug": "q105",
-      "prompt": "What covers a monkey's body?",
       "type": "mcq",
+      "prompt": "What covers a monkey's body?",
       "options": {
         "choices": [
-          "scales",
-          "feathers",
-          "fur"
+          {
+            "id": "c1",
+            "text": "scales"
+          },
+          {
+            "id": "c2",
+            "text": "feathers"
+          },
+          {
+            "id": "c3",
+            "text": "fur"
+          }
         ]
       },
-      "correct_answer": "fur",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is fur.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
+      },
       "order_index": 105
     },
     {
       "slug": "q106",
-      "prompt": "How many legs does a monkey have?",
       "type": "mcq",
+      "prompt": "How many legs does a monkey have?",
       "options": {
         "choices": [
-          "two",
-          "six",
-          "four"
+          {
+            "id": "c1",
+            "text": "two"
+          },
+          {
+            "id": "c2",
+            "text": "six"
+          },
+          {
+            "id": "c3",
+            "text": "four"
+          }
         ]
       },
-      "correct_answer": "four",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is four.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
+      },
       "order_index": 106
     },
     {
       "slug": "q107",
-      "prompt": "What do monkeys use to hold branches?",
       "type": "mcq",
+      "prompt": "What do monkeys use to hold branches?",
       "options": {
         "choices": [
-          "wings",
-          "fins",
-          "hands and feet"
+          {
+            "id": "c1",
+            "text": "wings"
+          },
+          {
+            "id": "c2",
+            "text": "fins"
+          },
+          {
+            "id": "c3",
+            "text": "hands and feet"
+          }
         ]
       },
-      "correct_answer": "hands and feet",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is hands and feet.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
+      },
       "order_index": 107
     },
     {
       "slug": "q108",
-      "prompt": "What is a baby monkey called?",
       "type": "mcq",
+      "prompt": "What is a baby monkey called?",
       "options": {
         "choices": [
-          "cub",
-          "calf",
-          "infant"
+          {
+            "id": "c1",
+            "text": "cub"
+          },
+          {
+            "id": "c2",
+            "text": "calf"
+          },
+          {
+            "id": "c3",
+            "text": "infant"
+          }
         ]
       },
-      "correct_answer": "infant",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is infant.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
+      },
       "order_index": 108
     },
     {
       "slug": "q109",
-      "prompt": "What do monkeys use their tails for?",
       "type": "mcq",
+      "prompt": "What do monkeys use their tails for?",
       "options": {
         "choices": [
-          "balancing",
-          "flying",
-          "digging"
+          {
+            "id": "c1",
+            "text": "balancing"
+          },
+          {
+            "id": "c2",
+            "text": "flying"
+          },
+          {
+            "id": "c3",
+            "text": "digging"
+          }
         ]
       },
-      "correct_answer": "balancing",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is balancing.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
+      },
       "order_index": 109
     },
     {
       "slug": "q110",
-      "prompt": "Where do monkeys sleep?",
       "type": "mcq",
+      "prompt": "Where do monkeys sleep?",
       "options": {
         "choices": [
-          "in zoos",
-          "in water",
-          "in trees"
+          {
+            "id": "c1",
+            "text": "in zoos"
+          },
+          {
+            "id": "c2",
+            "text": "in water"
+          },
+          {
+            "id": "c3",
+            "text": "in trees"
+          }
         ]
       },
-      "correct_answer": "in trees",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is in trees.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/science/critical_thinking_1/image9.webp",
+        "alt": "",
+        "source_path": "../../image/level1_science_critical_thinking/critical_thinking_1/image9.png"
+      },
       "order_index": 110
     }
-  ]
+  ],
+  "title_needs_review": true
 }

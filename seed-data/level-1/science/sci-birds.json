@@ -1,1699 +1,2886 @@
 {
   "_source_file": "level1_sci_birds.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 99,
-  "exercise": {
-    "slug": "sci-birds",
-    "title": "Birds",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 99,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.552Z",
+  "slug": "sci-birds",
+  "title": "Birds",
+  "level": "level-1",
+  "subject": "science",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 99,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What covering do birds have on their bodies?",
       "type": "mcq",
+      "prompt": "What covering do birds have on their bodies?",
       "options": {
         "choices": [
-          "feathers",
-          "scales",
-          "fur"
+          {
+            "id": "c1",
+            "text": "feathers"
+          },
+          {
+            "id": "c2",
+            "text": "scales"
+          },
+          {
+            "id": "c3",
+            "text": "fur"
+          }
         ]
       },
-      "correct_answer": "feathers",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Birds are unique organisms covered with complex feather systems.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "How many legs does a bird have?",
       "type": "mcq",
+      "prompt": "How many legs does a bird have?",
       "options": {
         "choices": [
-          "four",
-          "two",
-          "six"
+          {
+            "id": "c1",
+            "text": "four"
+          },
+          {
+            "id": "c2",
+            "text": "two"
+          },
+          {
+            "id": "c3",
+            "text": "six"
+          }
         ]
       },
-      "correct_answer": "two",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "All avian species are bipedal and possess two operational legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "What helps birds fly?",
       "type": "mcq",
+      "prompt": "What helps birds fly?",
       "options": {
         "choices": [
-          "wings",
-          "tails",
-          "whiskers"
+          {
+            "id": "c1",
+            "text": "wings"
+          },
+          {
+            "id": "c2",
+            "text": "tails"
+          },
+          {
+            "id": "c3",
+            "text": "whiskers"
+          }
         ]
       },
-      "correct_answer": "wings",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Aerodynamic lift vectors are driven principally by wing frameworks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "What is a baby bird called?",
       "type": "mcq",
+      "prompt": "What is a baby bird called?",
       "options": {
         "choices": [
-          "calf",
-          "chick",
-          "pup"
+          {
+            "id": "c1",
+            "text": "calf"
+          },
+          {
+            "id": "c2",
+            "text": "chick"
+          },
+          {
+            "id": "c3",
+            "text": "pup"
+          }
         ]
       },
-      "correct_answer": "chick",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "A newly hatched or young juvenile bird is designated as a chick.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Where do birds build their homes?",
       "type": "mcq",
+      "prompt": "Where do birds build their homes?",
       "options": {
         "choices": [
-          "trees",
-          "water",
-          "caves"
+          {
+            "id": "c1",
+            "text": "trees"
+          },
+          {
+            "id": "c2",
+            "text": "water"
+          },
+          {
+            "id": "c3",
+            "text": "caves"
+          }
         ]
       },
-      "correct_answer": "trees",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A majority of arboreal bird species build secure homes high inside sturdy trees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "What is a bird’s home called?",
       "type": "mcq",
+      "prompt": "What is a bird’s home called?",
       "options": {
         "choices": [
-          "den",
-          "nest",
-          "shell"
+          {
+            "id": "c1",
+            "text": "den"
+          },
+          {
+            "id": "c2",
+            "text": "nest"
+          },
+          {
+            "id": "c3",
+            "text": "shell"
+          }
         ]
       },
-      "correct_answer": "nest",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Birds manufacture nests to incubate eggs and rear their vulnerable young securely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "What do many birds eat?",
       "type": "mcq",
+      "prompt": "What do many birds eat?",
       "options": {
         "choices": [
-          "seeds",
-          "plastic",
-          "metal"
+          {
+            "id": "c1",
+            "text": "seeds"
+          },
+          {
+            "id": "c2",
+            "text": "plastic"
+          },
+          {
+            "id": "c3",
+            "text": "metal"
+          }
         ]
       },
-      "correct_answer": "seeds",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Granivorous bird variants feed heavily on diverse plant seed varieties.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "What sound do birds make?",
       "type": "mcq",
+      "prompt": "What sound do birds make?",
       "options": {
         "choices": [
-          "roar",
-          "chirp",
-          "moo"
+          {
+            "id": "c1",
+            "text": "roar"
+          },
+          {
+            "id": "c2",
+            "text": "chirp"
+          },
+          {
+            "id": "c3",
+            "text": "moo"
+          }
         ]
       },
-      "correct_answer": "chirp",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "High-frequency communicative acoustic vocalizations are often called chirps.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "What do birds use their beaks for?",
       "type": "mcq",
+      "prompt": "What do birds use their beaks for?",
       "options": {
         "choices": [
-          "swimming",
-          "digging",
-          "eating"
+          {
+            "id": "c1",
+            "text": "swimming"
+          },
+          {
+            "id": "c2",
+            "text": "digging"
+          },
+          {
+            "id": "c3",
+            "text": "eating"
+          }
         ]
       },
-      "correct_answer": "eating",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Avian bills or beaks function as primary tools used to ingest food items.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Do all birds fly?",
       "type": "mcq",
+      "prompt": "Do all birds fly?",
       "options": {
         "choices": [
-          "yes",
-          "no",
-          "sometimes"
+          {
+            "id": "c1",
+            "text": "yes"
+          },
+          {
+            "id": "c2",
+            "text": "no"
+          },
+          {
+            "id": "c3",
+            "text": "sometimes"
+          }
         ]
       },
-      "correct_answer": "no",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Flightless birds, such as penguins and ostriches, lack flight abilities.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Which bird cannot fly but runs fast?",
       "type": "mcq",
+      "prompt": "Which bird cannot fly but runs fast?",
       "options": {
         "choices": [
-          "ostrich",
-          "eagle",
-          "parrot"
+          {
+            "id": "c1",
+            "text": "ostrich"
+          },
+          {
+            "id": "c2",
+            "text": "eagle"
+          },
+          {
+            "id": "c3",
+            "text": "parrot"
+          }
         ]
       },
-      "correct_answer": "ostrich",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The ostrich is a giant ratite that achieves elite land speeds via bipedal running.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Which bird can swim and has webbed feet?",
       "type": "mcq",
+      "prompt": "Which bird can swim and has webbed feet?",
       "options": {
         "choices": [
-          "penguin",
-          "owl",
-          "crow"
+          {
+            "id": "c1",
+            "text": "penguin"
+          },
+          {
+            "id": "c2",
+            "text": "owl"
+          },
+          {
+            "id": "c3",
+            "text": "crow"
+          }
         ]
       },
-      "correct_answer": "penguin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Penguins feature anatomical flippers and webbed feet designed for marine navigation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "What do birds lay?",
       "type": "mcq",
+      "prompt": "What do birds lay?",
       "options": {
         "choices": [
-          "stones",
-          "eggs",
-          "leaves"
+          {
+            "id": "c1",
+            "text": "stones"
+          },
+          {
+            "id": "c2",
+            "text": "eggs"
+          },
+          {
+            "id": "c3",
+            "text": "leaves"
+          }
         ]
       },
-      "correct_answer": "eggs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Avian reproduction relies entirely on the deposition of hard-shelled amniotic eggs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "What helps keep birds warm?",
       "type": "mcq",
+      "prompt": "What helps keep birds warm?",
       "options": {
         "choices": [
-          "feathers",
-          "shells",
-          "sticks"
+          {
+            "id": "c1",
+            "text": "feathers"
+          },
+          {
+            "id": "c2",
+            "text": "shells"
+          },
+          {
+            "id": "c3",
+            "text": "sticks"
+          }
         ]
       },
-      "correct_answer": "feathers",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Downy interior plumages function to lock in vital core body heat signatures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "What do owls use to see at night?",
       "type": "mcq",
+      "prompt": "What do owls use to see at night?",
       "options": {
         "choices": [
-          "bright colors",
-          "strong legs",
-          "sharp eyes"
+          {
+            "id": "c1",
+            "text": "bright colors"
+          },
+          {
+            "id": "c2",
+            "text": "strong legs"
+          },
+          {
+            "id": "c3",
+            "text": "sharp eyes"
+          }
         ]
       },
-      "correct_answer": "sharp eyes",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Owls possess enlarged, forward-facing optical frames specialized for low-light vision.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Which bird has a long neck?",
       "type": "mcq",
+      "prompt": "Which bird has a long neck?",
       "options": {
         "choices": [
-          "swan",
-          "robin",
-          "sparrow"
+          {
+            "id": "c1",
+            "text": "swan"
+          },
+          {
+            "id": "c2",
+            "text": "robin"
+          },
+          {
+            "id": "c3",
+            "text": "sparrow"
+          }
         ]
       },
-      "correct_answer": "swan",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Swans maintain elongated, hyper-flexible cervical vertebra structures inside their necks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "What do birds use their wings for besides flying?",
       "type": "mcq",
+      "prompt": "What do birds use their wings for besides flying?",
       "options": {
         "choices": [
-          "talking",
-          "keeping balance",
-          "eating"
+          {
+            "id": "c1",
+            "text": "talking"
+          },
+          {
+            "id": "c2",
+            "text": "keeping balance"
+          },
+          {
+            "id": "c3",
+            "text": "eating"
+          }
         ]
       },
-      "correct_answer": "keeping balance",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Wings provide stabilizing torque adjustments to maintain physical balance during running maneuvers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which bird is brightly colored and can mimic sounds?",
       "type": "mcq",
+      "prompt": "Which bird is brightly colored and can mimic sounds?",
       "options": {
         "choices": [
-          "parrot",
-          "pigeon",
-          "duck"
+          {
+            "id": "c1",
+            "text": "parrot"
+          },
+          {
+            "id": "c2",
+            "text": "pigeon"
+          },
+          {
+            "id": "c3",
+            "text": "duck"
+          }
         ]
       },
-      "correct_answer": "parrot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Parrots use advanced vocal anatomy links to mirror environmental sounds and words.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Why do some birds migrate?",
       "type": "mcq",
+      "prompt": "Why do some birds migrate?",
       "options": {
         "choices": [
-          "for better weather",
-          "to hide from trees",
-          "to sleep more"
+          {
+            "id": "c1",
+            "text": "for better weather"
+          },
+          {
+            "id": "c2",
+            "text": "to hide from trees"
+          },
+          {
+            "id": "c3",
+            "text": "to sleep more"
+          }
         ]
       },
-      "correct_answer": "for better weather",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Seasonal bird migrations allow populations to access favorable weather and richer food resources.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "What do birds use their claws for?",
       "type": "mcq",
+      "prompt": "What do birds use their claws for?",
       "options": {
         "choices": [
-          "climbing",
-          "swimming",
-          "flying"
+          {
+            "id": "c1",
+            "text": "climbing"
+          },
+          {
+            "id": "c2",
+            "text": "swimming"
+          },
+          {
+            "id": "c3",
+            "text": "flying"
+          }
         ]
       },
-      "correct_answer": "climbing",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sharp, curved raptorial or perching talons offer exceptional mechanical grip when climbing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Which bird builds very large nests?",
       "type": "mcq",
+      "prompt": "Which bird builds very large nests?",
       "options": {
         "choices": [
-          "eagle",
-          "sparrow",
-          "penguin"
+          {
+            "id": "c1",
+            "text": "eagle"
+          },
+          {
+            "id": "c2",
+            "text": "sparrow"
+          },
+          {
+            "id": "c3",
+            "text": "penguin"
+          }
         ]
       },
-      "correct_answer": "eagle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Eagles construct massive stick configurations, termed eyries, that scale in size over generations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "What do hummingbirds drink?",
       "type": "mcq",
+      "prompt": "What do hummingbirds drink?",
       "options": {
         "choices": [
-          "water",
-          "nectar",
-          "milk"
+          {
+            "id": "c1",
+            "text": "water"
+          },
+          {
+            "id": "c2",
+            "text": "nectar"
+          },
+          {
+            "id": "c3",
+            "text": "milk"
+          }
         ]
       },
-      "correct_answer": "nectar",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Hummingbirds utilize fast-lapping tongues to extract sugar-dense floral nectar fluids.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which bird is the largest in the world?",
       "type": "mcq",
+      "prompt": "Which bird is the largest in the world?",
       "options": {
         "choices": [
-          "flamingo",
-          "ostrich",
-          "chicken"
+          {
+            "id": "c1",
+            "text": "flamingo"
+          },
+          {
+            "id": "c2",
+            "text": "ostrich"
+          },
+          {
+            "id": "c3",
+            "text": "chicken"
+          }
         ]
       },
-      "correct_answer": "ostrich",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The ostrich features the highest standing altitude and heaviest physical mass metrics among living birds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "What helps penguins stay warm?",
       "type": "mcq",
+      "prompt": "What helps penguins stay warm?",
       "options": {
         "choices": [
-          "feathers and fat",
-          "leaves",
-          "rocks"
+          {
+            "id": "c1",
+            "text": "feathers and fat"
+          },
+          {
+            "id": "c2",
+            "text": "leaves"
+          },
+          {
+            "id": "c3",
+            "text": "rocks"
+          }
         ]
       },
-      "correct_answer": "feathers and fat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Densely overlapping waterproof feathers combined with subdermal blubber fat preserve warmth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "How do birds protect themselves from danger?",
       "type": "mcq",
+      "prompt": "How do birds protect themselves from danger?",
       "options": {
         "choices": [
-          "running",
-          "flying",
-          "singing"
+          {
+            "id": "c1",
+            "text": "running"
+          },
+          {
+            "id": "c2",
+            "text": "flying"
+          },
+          {
+            "id": "c3",
+            "text": "singing"
+          }
         ]
       },
-      "correct_answer": "flying",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ascending rapidly into atmospheric columns via flight serves as a primary evasive tactical escape option.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "What do birds use to pick up food?",
       "type": "mcq",
+      "prompt": "What do birds use to pick up food?",
       "options": {
         "choices": [
-          "wing",
-          "tail",
-          "beak"
+          {
+            "id": "c1",
+            "text": "wing"
+          },
+          {
+            "id": "c2",
+            "text": "tail"
+          },
+          {
+            "id": "c3",
+            "text": "beak"
+          }
         ]
       },
-      "correct_answer": "beak",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The hardened keratinized beak sheath manipulates food items efficiently without hands.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Which bird is known for flying high in the sky?",
       "type": "mcq",
+      "prompt": "Which bird is known for flying high in the sky?",
       "options": {
         "choices": [
-          "duck",
-          "eagle",
-          "penguin"
+          {
+            "id": "c1",
+            "text": "duck"
+          },
+          {
+            "id": "c2",
+            "text": "eagle"
+          },
+          {
+            "id": "c3",
+            "text": "penguin"
+          }
         ]
       },
-      "correct_answer": "eagle",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Eagles use wide thermal air currents to soar effortlessly at high elevations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "What do birds use their tails for?",
       "type": "mcq",
+      "prompt": "What do birds use their tails for?",
       "options": {
         "choices": [
-          "eat",
-          "balance",
-          "chewing"
+          {
+            "id": "c1",
+            "text": "eat"
+          },
+          {
+            "id": "c2",
+            "text": "balance"
+          },
+          {
+            "id": "c3",
+            "text": "chewing"
+          }
         ]
       },
-      "correct_answer": "balance",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Tail plumages provide variable drag vectors required for flight stability and vector balance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which bird is known for living near water?",
       "type": "mcq",
+      "prompt": "Which bird is known for living near water?",
       "options": {
         "choices": [
-          "rabbit",
-          "owl",
-          "kingfisher"
+          {
+            "id": "c1",
+            "text": "rabbit"
+          },
+          {
+            "id": "c2",
+            "text": "owl"
+          },
+          {
+            "id": "c3",
+            "text": "kingfisher"
+          }
         ]
       },
-      "correct_answer": "kingfisher",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Kingfishers maintain tactical hunting perches near aquatic zones to dive for fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which bird can turn its head almost all the way around?",
       "type": "mcq",
+      "prompt": "Which bird can turn its head almost all the way around?",
       "options": {
         "choices": [
-          "humans",
-          "owl",
-          "flamingo"
+          {
+            "id": "c1",
+            "text": "humans"
+          },
+          {
+            "id": "c2",
+            "text": "owl"
+          },
+          {
+            "id": "c3",
+            "text": "flamingo"
+          }
         ]
       },
-      "correct_answer": "owl",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Unique arterial loops and neck joints let owls rotate their skulls safely up to 270 degrees.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which bird is known for pecking trees to find insects?",
       "type": "mcq",
+      "prompt": "Which bird is known for pecking trees to find insects?",
       "options": {
         "choices": [
-          "woodpecker",
-          "sparrow",
-          "dove"
+          {
+            "id": "c1",
+            "text": "woodpecker"
+          },
+          {
+            "id": "c2",
+            "text": "sparrow"
+          },
+          {
+            "id": "c3",
+            "text": "dove"
+          }
         ]
       },
-      "correct_answer": "woodpecker",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Woodpeckers leverage chisel-like bills to drill systematically through outer tree bark layers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which bird has long legs for wading in water?",
       "type": "mcq",
+      "prompt": "Which bird has long legs for wading in water?",
       "options": {
         "choices": [
-          "heron",
-          "robin",
-          "penguin"
+          {
+            "id": "c1",
+            "text": "heron"
+          },
+          {
+            "id": "c2",
+            "text": "robin"
+          },
+          {
+            "id": "c3",
+            "text": "penguin"
+          }
         ]
       },
-      "correct_answer": "heron",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Elongated wading legs elevate a heron's body cleanly above wet swamp or marsh levels.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Which bird swims underwater to catch fish?",
       "type": "mcq",
+      "prompt": "Which bird swims underwater to catch fish?",
       "options": {
         "choices": [
-          "parrot",
-          "cormorant",
-          "rooster"
+          {
+            "id": "c1",
+            "text": "parrot"
+          },
+          {
+            "id": "c2",
+            "text": "cormorant"
+          },
+          {
+            "id": "c3",
+            "text": "rooster"
+          }
         ]
       },
-      "correct_answer": "cormorant",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Cormorants feature heavy skeletons and low buoyancy, allowing efficient underwater hunting sweeps.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which bird is known for spreading its colorful tail feathers?",
       "type": "mcq",
+      "prompt": "Which bird is known for spreading its colorful tail feathers?",
       "options": {
         "choices": [
-          "peacock",
-          "crow",
-          "duck"
+          {
+            "id": "c1",
+            "text": "peacock"
+          },
+          {
+            "id": "c2",
+            "text": "crow"
+          },
+          {
+            "id": "c3",
+            "text": "duck"
+          }
         ]
       },
-      "correct_answer": "peacock",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Peacocks display grand, colorful train coverts to attract female attention during mating windows.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "What helps birds stay light for flying?",
       "type": "mcq",
+      "prompt": "What helps birds stay light for flying?",
       "options": {
         "choices": [
-          "pink bones",
-          "hollow bones",
-          "metal bones"
+          {
+            "id": "c1",
+            "text": "pink bones"
+          },
+          {
+            "id": "c2",
+            "text": "hollow bones"
+          },
+          {
+            "id": "c3",
+            "text": "metal bones"
+          }
         ]
       },
-      "correct_answer": "hollow bones",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Pneumatized hollow bone cavities reduce overall skeletal mass weight parameters.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which bird is often kept as a pet that can talk?",
       "type": "mcq",
+      "prompt": "Which bird is often kept as a pet that can talk?",
       "options": {
         "choices": [
-          "dogs",
-          "hawk",
-          "parakeet"
+          {
+            "id": "c1",
+            "text": "dogs"
+          },
+          {
+            "id": "c2",
+            "text": "hawk"
+          },
+          {
+            "id": "c3",
+            "text": "parakeet"
+          }
         ]
       },
-      "correct_answer": "parakeet",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Parakeets are small parrots with social intelligence and advanced mimicry limits.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which bird can fly backward?",
       "type": "mcq",
+      "prompt": "Which bird can fly backward?",
       "options": {
         "choices": [
-          "hummingbird",
-          "sparrow",
-          "gull"
+          {
+            "id": "c1",
+            "text": "hummingbird"
+          },
+          {
+            "id": "c2",
+            "text": "sparrow"
+          },
+          {
+            "id": "c3",
+            "text": "gull"
+          }
         ]
       },
-      "correct_answer": "hummingbird",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Flexible shoulder tracking loops allow hummingbird wings to provide reverse aerodynamic lift.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which bird has a very large wingspan?",
       "type": "mcq",
+      "prompt": "Which bird has a very large wingspan?",
       "options": {
         "choices": [
-          "albatross",
-          "robin",
-          "turkey"
+          {
+            "id": "c1",
+            "text": "albatross"
+          },
+          {
+            "id": "c2",
+            "text": "robin"
+          },
+          {
+            "id": "c3",
+            "text": "turkey"
+          }
         ]
       },
-      "correct_answer": "albatross",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The wandering albatross holds elite physical wingspan measures, often exceeding eleven feet.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "What do birds use nests for?",
       "type": "mcq",
+      "prompt": "What do birds use nests for?",
       "options": {
         "choices": [
-          "looking at the eggs",
-          "laying eggs",
-          "hunting"
+          {
+            "id": "c1",
+            "text": "looking at the eggs"
+          },
+          {
+            "id": "c2",
+            "text": "laying eggs"
+          },
+          {
+            "id": "c3",
+            "text": "hunting"
+          }
         ]
       },
-      "correct_answer": "laying eggs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Nests act as secure operational structures to drop, insulate, and protect growing eggs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which bird is black and white and swims well?",
       "type": "mcq",
+      "prompt": "Which bird is black and white and swims well?",
       "options": {
         "choices": [
-          "eagle",
-          "ostrich",
-          "puffin"
+          {
+            "id": "c1",
+            "text": "eagle"
+          },
+          {
+            "id": "c2",
+            "text": "ostrich"
+          },
+          {
+            "id": "c3",
+            "text": "puffin"
+          }
         ]
       },
-      "correct_answer": "puffin",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The puffin uses specialized webbed feet and compact wings to swim through maritime waters.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which bird says 'quack'?",
       "type": "mcq",
+      "prompt": "Which bird says 'quack'?",
       "options": {
         "choices": [
-          "parrot",
-          "duck",
-          "owl"
+          {
+            "id": "c1",
+            "text": "parrot"
+          },
+          {
+            "id": "c2",
+            "text": "duck"
+          },
+          {
+            "id": "c3",
+            "text": "owl"
+          }
         ]
       },
-      "correct_answer": "duck",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Waterfowl species like ducks produce low, resonant quacking sounds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which bird is known for its pink feathers?",
       "type": "mcq",
+      "prompt": "Which bird is known for its pink feathers?",
       "options": {
         "choices": [
-          "crane",
-          "flamingo",
-          "hawk"
+          {
+            "id": "c1",
+            "text": "crane"
+          },
+          {
+            "id": "c2",
+            "text": "flamingo"
+          },
+          {
+            "id": "c3",
+            "text": "hawk"
+          }
         ]
       },
-      "correct_answer": "flamingo",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dietary ingestion of alpha and beta carotenoid pigments gives flamingos their pink color.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which bird stays awake at night?",
       "type": "mcq",
+      "prompt": "Which bird stays awake at night?",
       "options": {
         "choices": [
-          "owl",
-          "hen",
-          "parrot"
+          {
+            "id": "c1",
+            "text": "owl"
+          },
+          {
+            "id": "c2",
+            "text": "hen"
+          },
+          {
+            "id": "c3",
+            "text": "parrot"
+          }
         ]
       },
-      "correct_answer": "owl",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Most owls operate as nocturnal apex predators that hunt under cover of dark hours.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which bird catches small animals with sharp talons?",
       "type": "mcq",
+      "prompt": "Which bird catches small animals with sharp talons?",
       "options": {
         "choices": [
-          "ant",
-          "swan",
-          "hawk"
+          {
+            "id": "c1",
+            "text": "ant"
+          },
+          {
+            "id": "c2",
+            "text": "swan"
+          },
+          {
+            "id": "c3",
+            "text": "hawk"
+          }
         ]
       },
-      "correct_answer": "hawk",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Hawks use high-pressure, curved raptorial talons to capture, restrain, and kill prey items.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which bird often migrates in a V-shape?",
       "type": "mcq",
+      "prompt": "Which bird often migrates in a V-shape?",
       "options": {
         "choices": [
-          "moose",
-          "goose",
-          "peacock"
+          {
+            "id": "c1",
+            "text": "moose"
+          },
+          {
+            "id": "c2",
+            "text": "goose"
+          },
+          {
+            "id": "c3",
+            "text": "peacock"
+          }
         ]
       },
-      "correct_answer": "goose",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Flying in a V-shape coordinates structural updraft currents, saving flight energy across populations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Which bird has a very large beak?",
       "type": "mcq",
+      "prompt": "Which bird has a very large beak?",
       "options": {
         "choices": [
-          "toucan",
-          "sparrow",
-          "dove"
+          {
+            "id": "c1",
+            "text": "toucan"
+          },
+          {
+            "id": "c2",
+            "text": "sparrow"
+          },
+          {
+            "id": "c3",
+            "text": "dove"
+          }
         ]
       },
-      "correct_answer": "toucan",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The massive, brightly patterned beak of the toucan is lightweight yet highly functional for foraging fruit.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which bird loves to search beaches for food?",
       "type": "mcq",
+      "prompt": "Which bird loves to search beaches for food?",
       "options": {
         "choices": [
-          "parasite",
-          "seagull",
-          "hen"
+          {
+            "id": "c1",
+            "text": "parasite"
+          },
+          {
+            "id": "c2",
+            "text": "seagull"
+          },
+          {
+            "id": "c3",
+            "text": "hen"
+          }
         ]
       },
-      "correct_answer": "seagull",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Gulls are highly adaptive coastal scavengers that continuously patrol coastal shorelines.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which bird is known for singing sweet songs?",
       "type": "mcq",
+      "prompt": "Which bird is known for singing sweet songs?",
       "options": {
         "choices": [
-          "vulture",
-          "nightingale",
-          "crow"
+          {
+            "id": "c1",
+            "text": "vulture"
+          },
+          {
+            "id": "c2",
+            "text": "nightingale"
+          },
+          {
+            "id": "c3",
+            "text": "crow"
+          }
         ]
       },
-      "correct_answer": "nightingale",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Nightingales feature intricate, beautiful vocal repertoires emitted during nocturnal or daytime cycles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which bird likes to eat worms from the ground?",
       "type": "mcq",
+      "prompt": "Which bird likes to eat worms from the ground?",
       "options": {
         "choices": [
-          "owl",
-          "robin",
-          "eagle"
+          {
+            "id": "c1",
+            "text": "owl"
+          },
+          {
+            "id": "c2",
+            "text": "robin"
+          },
+          {
+            "id": "c3",
+            "text": "eagle"
+          }
         ]
       },
-      "correct_answer": "robin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Robins utilize excellent visual tracking and auditory cues to harvest ground worms.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which bird glides in the air while hunting fish?",
       "type": "mcq",
+      "prompt": "Which bird glides in the air while hunting fish?",
       "options": {
         "choices": [
-          "chicks",
-          "osprey",
-          "goose"
+          {
+            "id": "c1",
+            "text": "chicks"
+          },
+          {
+            "id": "c2",
+            "text": "osprey"
+          },
+          {
+            "id": "c3",
+            "text": "goose"
+          }
         ]
       },
-      "correct_answer": "osprey",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The osprey is a fishing raptor that hovers over aquatic zones before diving feet-first.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which bird has a curved beak for cracking nuts?",
       "type": "mcq",
+      "prompt": "Which bird has a curved beak for cracking nuts?",
       "options": {
         "choices": [
-          "parrot",
-          "penguin",
-          "flamingo"
+          {
+            "id": "c1",
+            "text": "parrot"
+          },
+          {
+            "id": "c2",
+            "text": "penguin"
+          },
+          {
+            "id": "c3",
+            "text": "flamingo"
+          }
         ]
       },
-      "correct_answer": "parrot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Strong, hooked zygodactyl beaks exert intense mechanical force to shatter hard nut husks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Which bird is known for its loud 'caw' sound?",
       "type": "mcq",
+      "prompt": "Which bird is known for its loud 'caw' sound?",
       "options": {
         "choices": [
-          "cow",
-          "crow",
-          "duck"
+          {
+            "id": "c1",
+            "text": "cow"
+          },
+          {
+            "id": "c2",
+            "text": "crow"
+          },
+          {
+            "id": "c3",
+            "text": "duck"
+          }
         ]
       },
-      "correct_answer": "crow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Corvids like crows use sharp, repeating vocal 'caw' signatures to alarm or organize groups.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Which bird uses mud to build nests?",
       "type": "mcq",
+      "prompt": "Which bird uses mud to build nests?",
       "options": {
         "choices": [
-          "chicks",
-          "swallow",
-          "hawk"
+          {
+            "id": "c1",
+            "text": "chicks"
+          },
+          {
+            "id": "c2",
+            "text": "swallow"
+          },
+          {
+            "id": "c3",
+            "text": "hawk"
+          }
         ]
       },
-      "correct_answer": "swallow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Swallows collect damp earth or clay pelleted bundles to form durable structural masonry nests.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which bird is known for its bright blue feathers?",
       "type": "mcq",
+      "prompt": "Which bird is known for its bright blue feathers?",
       "options": {
         "choices": [
-          "blue jay",
-          "turkey",
-          "goose"
+          {
+            "id": "c1",
+            "text": "blue jay"
+          },
+          {
+            "id": "c2",
+            "text": "turkey"
+          },
+          {
+            "id": "c3",
+            "text": "goose"
+          }
         ]
       },
-      "correct_answer": "blue jay",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Blue jays display vibrant plumage colors driven by physical light scattering across feather cells.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which bird has a long, curved neck and lives near lakes?",
       "type": "mcq",
+      "prompt": "Which bird has a long, curved neck and lives near lakes?",
       "options": {
         "choices": [
-          "pigeon",
-          "swan",
-          "rooster"
+          {
+            "id": "c1",
+            "text": "pigeon"
+          },
+          {
+            "id": "c2",
+            "text": "swan"
+          },
+          {
+            "id": "c3",
+            "text": "rooster"
+          }
         ]
       },
-      "correct_answer": "swan",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The elegant, extended neck loop of the swan facilitates underwater foraging in shallow lakes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which bird has a hooked beak for tearing meat?",
       "type": "mcq",
+      "prompt": "Which bird has a hooked beak for tearing meat?",
       "options": {
         "choices": [
-          "eagle",
-          "duck",
-          "dove"
+          {
+            "id": "c1",
+            "text": "eagle"
+          },
+          {
+            "id": "c2",
+            "text": "duck"
+          },
+          {
+            "id": "c3",
+            "text": "dove"
+          }
         ]
       },
-      "correct_answer": "eagle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Raptors like eagles use down-curved, sharp beak tools to slice and consume prey tissue easily.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Which bird likes to eat fruit?",
       "type": "mcq",
+      "prompt": "Which bird likes to eat fruit?",
       "options": {
         "choices": [
-          "chicken",
-          "hornbill",
-          "ostrich"
+          {
+            "id": "c1",
+            "text": "chicken"
+          },
+          {
+            "id": "c2",
+            "text": "hornbill"
+          },
+          {
+            "id": "c3",
+            "text": "ostrich"
+          }
         ]
       },
-      "correct_answer": "hornbill",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Hornbills function primarily as frugivores that play a vital role in dispersing forest seeds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Which bird is known for running across water before taking flight?",
       "type": "mcq",
+      "prompt": "Which bird is known for running across water before taking flight?",
       "options": {
         "choices": [
-          "coot",
-          "sparrow",
-          "macaw"
+          {
+            "id": "c1",
+            "text": "coot"
+          },
+          {
+            "id": "c2",
+            "text": "sparrow"
+          },
+          {
+            "id": "c3",
+            "text": "macaw"
+          }
         ]
       },
-      "correct_answer": "coot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Coots combine running strides with rapid wing flapping to generate lift over water surfaces.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which bird looks for shiny objects?",
       "type": "mcq",
+      "prompt": "Which bird looks for shiny objects?",
       "options": {
         "choices": [
-          "hen",
-          "magpie",
-          "pigeon"
+          {
+            "id": "c1",
+            "text": "hen"
+          },
+          {
+            "id": "c2",
+            "text": "magpie"
+          },
+          {
+            "id": "c3",
+            "text": "pigeon"
+          }
         ]
       },
-      "correct_answer": "magpie",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Magpies are curious corvids that inspect prominent environmental items or landmarks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which bird is the national bird of the United States?",
       "type": "mcq",
+      "prompt": "Which bird is the national bird of the United States?",
       "options": {
         "choices": [
-          "duck",
-          "swan",
-          "bald eagle"
+          {
+            "id": "c1",
+            "text": "duck"
+          },
+          {
+            "id": "c2",
+            "text": "swan"
+          },
+          {
+            "id": "c3",
+            "text": "bald eagle"
+          }
         ]
       },
-      "correct_answer": "bald eagle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The bald eagle serves as the formal national emblem of the United States.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Which bird is known for diving from high in the sky to catch prey?",
       "type": "mcq",
+      "prompt": "Which bird is known for diving from high in the sky to catch prey?",
       "options": {
         "choices": [
-          "falcon",
-          "turkey",
-          "flamingo"
+          {
+            "id": "c1",
+            "text": "falcon"
+          },
+          {
+            "id": "c2",
+            "text": "turkey"
+          },
+          {
+            "id": "c3",
+            "text": "flamingo"
+          }
         ]
       },
-      "correct_answer": "falcon",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Falcons employ aerodynamic diving stoops to intercept moving targets at extreme speeds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which bird builds floating nests?",
       "type": "mcq",
+      "prompt": "Which bird builds floating nests?",
       "options": {
         "choices": [
-          "grebe",
-          "owl",
-          "dove"
+          {
+            "id": "c1",
+            "text": "grebe"
+          },
+          {
+            "id": "c2",
+            "text": "owl"
+          },
+          {
+            "id": "c3",
+            "text": "dove"
+          }
         ]
       },
-      "correct_answer": "grebe",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Grebes weave aquatic plant fibers into secure, floating platforms anchored to lake reeds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which bird has strong legs for scratching the ground?",
       "type": "mcq",
+      "prompt": "Which bird has strong legs for scratching the ground?",
       "options": {
         "choices": [
-          "chicken",
-          "hummingbird",
-          "giraffe"
+          {
+            "id": "c1",
+            "text": "chicken"
+          },
+          {
+            "id": "c2",
+            "text": "hummingbird"
+          },
+          {
+            "id": "c3",
+            "text": "giraffe"
+          }
         ]
       },
-      "correct_answer": "chicken",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Gallinaceous birds like chickens use powerful, clawed feet to scratch soil frames for food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which bird travels thousands of miles during migration?",
       "type": "mcq",
+      "prompt": "Which bird travels thousands of miles during migration?",
       "options": {
         "choices": [
-          "hens",
-          "Arctic tern",
-          "pigeon"
+          {
+            "id": "c1",
+            "text": "hens"
+          },
+          {
+            "id": "c2",
+            "text": "Arctic tern"
+          },
+          {
+            "id": "c3",
+            "text": "pigeon"
+          }
         ]
       },
-      "correct_answer": "Arctic tern",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The Arctic tern flies an elite polar migration route, traveling from the Arctic to the Antarctic.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Which bird is famous for dancing during mating season?",
       "type": "mcq",
+      "prompt": "Which bird is famous for dancing during mating season?",
       "options": {
         "choices": [
-          "hen",
-          "duck",
-          "crane"
+          {
+            "id": "c1",
+            "text": "hen"
+          },
+          {
+            "id": "c2",
+            "text": "duck"
+          },
+          {
+            "id": "c3",
+            "text": "crane"
+          }
         ]
       },
-      "correct_answer": "crane",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Cranes engage in highly complex, coordinated leaping and bowing dances during courtship.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which bird uses its beak to drill holes in trees?",
       "type": "mcq",
+      "prompt": "Which bird uses its beak to drill holes in trees?",
       "options": {
         "choices": [
-          "woodpecker",
-          "crow",
-          "swan"
+          {
+            "id": "c1",
+            "text": "woodpecker"
+          },
+          {
+            "id": "c2",
+            "text": "crow"
+          },
+          {
+            "id": "c3",
+            "text": "swan"
+          }
         ]
       },
-      "correct_answer": "woodpecker",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Chisel-headed bills allow woodpeckers to strike tree bark safely without damage.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which bird has colorful feathers and likes to fan them out?",
       "type": "mcq",
+      "prompt": "Which bird has colorful feathers and likes to fan them out?",
       "options": {
         "choices": [
-          "peahen",
-          "rooster",
-          "peacock"
+          {
+            "id": "c1",
+            "text": "peahen"
+          },
+          {
+            "id": "c2",
+            "text": "rooster"
+          },
+          {
+            "id": "c3",
+            "text": "peacock"
+          }
         ]
       },
-      "correct_answer": "peacock",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Peacocks utilize specialized display muscles to elevate and fan out their magnificent trains.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which bird often stands on one leg?",
       "type": "mcq",
+      "prompt": "Which bird often stands on one leg?",
       "options": {
         "choices": [
-          "ostrich",
-          "flamingo",
-          "chicken"
+          {
+            "id": "c1",
+            "text": "ostrich"
+          },
+          {
+            "id": "c2",
+            "text": "flamingo"
+          },
+          {
+            "id": "c3",
+            "text": "chicken"
+          }
         ]
       },
-      "correct_answer": "flamingo",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Standing on one leg minimizes body surface heat loss into cool wading waters.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which bird is known for catching insects in midair?",
       "type": "mcq",
+      "prompt": "Which bird is known for catching insects in midair?",
       "options": {
         "choices": [
-          "parrot",
-          "swift",
-          "duck"
+          {
+            "id": "c1",
+            "text": "parrot"
+          },
+          {
+            "id": "c2",
+            "text": "swift"
+          },
+          {
+            "id": "c3",
+            "text": "duck"
+          }
         ]
       },
-      "correct_answer": "swift",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Swifts cruise with open gapes to harvest aerial plankton insects during high-speed flights.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which bird's call is commonly described as 'who-who'?",
       "type": "mcq",
+      "prompt": "Which bird's call is commonly described as 'who-who'?",
       "options": {
         "choices": [
-          "owl",
-          "pigeon",
-          "rooster"
+          {
+            "id": "c1",
+            "text": "owl"
+          },
+          {
+            "id": "c2",
+            "text": "pigeon"
+          },
+          {
+            "id": "c3",
+            "text": "rooster"
+          }
         ]
       },
-      "correct_answer": "owl",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The generic vocal description 'who-who' represents the territorial hoot of certain owls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which bird makes large nests on tall buildings?",
       "type": "mcq",
+      "prompt": "Which bird makes large nests on tall buildings?",
       "options": {
         "choices": [
-          "love birds",
-          "pigeon",
-          "hawk"
+          {
+            "id": "c1",
+            "text": "love birds"
+          },
+          {
+            "id": "c2",
+            "text": "pigeon"
+          },
+          {
+            "id": "c3",
+            "text": "hawk"
+          }
         ]
       },
-      "correct_answer": "pigeon",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Pigeons accept concrete building ledges as functional equivalents to their native cliff habitats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which bird has a pouch under its beak for catching fish?",
       "type": "mcq",
+      "prompt": "Which bird has a pouch under its beak for catching fish?",
       "options": {
         "choices": [
-          "pelican",
-          "parrot",
-          "swan"
+          {
+            "id": "c1",
+            "text": "pelican"
+          },
+          {
+            "id": "c2",
+            "text": "parrot"
+          },
+          {
+            "id": "c3",
+            "text": "swan"
+          }
         ]
       },
-      "correct_answer": "pelican",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The gular pouch of the pelican works as a net to scoop up targets and drain water.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which bird lives mostly in the Arctic and eats fish?",
       "type": "mcq",
+      "prompt": "Which bird lives mostly in the Arctic and eats fish?",
       "options": {
         "choices": [
-          "butterfly",
-          "puffin",
-          "chicken"
+          {
+            "id": "c1",
+            "text": "butterfly"
+          },
+          {
+            "id": "c2",
+            "text": "puffin"
+          },
+          {
+            "id": "c3",
+            "text": "chicken"
+          }
         ]
       },
-      "correct_answer": "puffin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Puffins thrive inside cold maritime zones, diving efficiently for small forage fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which bird is known for its long, spoon-shaped beak?",
       "type": "mcq",
+      "prompt": "Which bird is known for its long, spoon-shaped beak?",
       "options": {
         "choices": [
-          "spoonbill",
-          "pigeon",
-          "crow"
+          {
+            "id": "c1",
+            "text": "spoonbill"
+          },
+          {
+            "id": "c2",
+            "text": "pigeon"
+          },
+          {
+            "id": "c3",
+            "text": "crow"
+          }
         ]
       },
-      "correct_answer": "spoonbill",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Spoonbills sweep their wide bills laterally through water to capture aquatic prey.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which bird can run faster than most animals but is smaller than an ostrich?",
       "type": "mcq",
+      "prompt": "Which bird can run faster than most animals but is smaller than an ostrich?",
       "options": {
         "choices": [
-          "crow",
-          "hawk",
-          "emu"
+          {
+            "id": "c1",
+            "text": "crow"
+          },
+          {
+            "id": "c2",
+            "text": "hawk"
+          },
+          {
+            "id": "c3",
+            "text": "emu"
+          }
         ]
       },
-      "correct_answer": "emu",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The emu is a massive flightless cursorial bird native to Australia that runs at high speeds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which bird is known for stealing fish from other birds?",
       "type": "mcq",
+      "prompt": "Which bird is known for stealing fish from other birds?",
       "options": {
         "choices": [
-          "skua",
-          "dove",
-          "sparrow"
+          {
+            "id": "c1",
+            "text": "skua"
+          },
+          {
+            "id": "c2",
+            "text": "dove"
+          },
+          {
+            "id": "c3",
+            "text": "sparrow"
+          }
         ]
       },
-      "correct_answer": "skua",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Skuas display aggressive kleptoparasitic tendencies, chasing other seabirds to steal their catch.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which bird has a long, curved bill perfect for sipping nectar?",
       "type": "mcq",
+      "prompt": "Which bird has a long, curved bill perfect for sipping nectar?",
       "options": {
         "choices": [
-          "penguin",
-          "sunbird",
-          "duck"
+          {
+            "id": "c1",
+            "text": "penguin"
+          },
+          {
+            "id": "c2",
+            "text": "sunbird"
+          },
+          {
+            "id": "c3",
+            "text": "duck"
+          }
         ]
       },
-      "correct_answer": "sunbird",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sunbirds fill an ecological role similar to hummingbirds, using curved bills to extract nectar.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which bird is known for living on cliffs and diving for fish?",
       "type": "mcq",
+      "prompt": "Which bird is known for living on cliffs and diving for fish?",
       "options": {
         "choices": [
-          "guillemot",
-          "crow",
-          "rooster"
+          {
+            "id": "c1",
+            "text": "guillemot"
+          },
+          {
+            "id": "c2",
+            "text": "crow"
+          },
+          {
+            "id": "c3",
+            "text": "rooster"
+          }
         ]
       },
-      "correct_answer": "guillemot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Guillemots form dense breeding colonies along sheer cliffs and dive for marine fish.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Which bird walks in groups called 'colonies'?",
       "type": "mcq",
+      "prompt": "Which bird walks in groups called 'colonies'?",
       "options": {
         "choices": [
-          "penguin",
-          "eagle",
-          "owl"
+          {
+            "id": "c1",
+            "text": "penguin"
+          },
+          {
+            "id": "c2",
+            "text": "eagle"
+          },
+          {
+            "id": "c3",
+            "text": "owl"
+          }
         ]
       },
-      "correct_answer": "penguin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Penguins congregate in massive, highly social breeding groups termed colonies.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which bird is known for its strong sense of direction?",
       "type": "mcq",
+      "prompt": "Which bird is known for its strong sense of direction?",
       "options": {
         "choices": [
-          "Penguin",
-          "homing pigeon",
-          "turkey"
+          {
+            "id": "c1",
+            "text": "Penguin"
+          },
+          {
+            "id": "c2",
+            "text": "homing pigeon"
+          },
+          {
+            "id": "c3",
+            "text": "turkey"
+          }
         ]
       },
-      "correct_answer": "homing pigeon",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Homing pigeons calculate magnetic fields and solar paths to navigate home across vast distances.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which bird has a very sharp, curved beak for catching fish underwater?",
       "type": "mcq",
+      "prompt": "Which bird has a very sharp, curved beak for catching fish underwater?",
       "options": {
         "choices": [
-          "king penguin",
-          "sparrow",
-          "dove"
+          {
+            "id": "c1",
+            "text": "king penguin"
+          },
+          {
+            "id": "c2",
+            "text": "sparrow"
+          },
+          {
+            "id": "c3",
+            "text": "dove"
+          }
         ]
       },
-      "correct_answer": "king penguin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "King penguins carry specialized elongated bills optimized for catching marine fish and squid.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Which bird is known for its loud honking sound?",
       "type": "mcq",
+      "prompt": "Which bird is known for its loud honking sound?",
       "options": {
         "choices": [
-          "moose",
-          "goose",
-          "peacock"
+          {
+            "id": "c1",
+            "text": "moose"
+          },
+          {
+            "id": "c2",
+            "text": "goose"
+          },
+          {
+            "id": "c3",
+            "text": "peacock"
+          }
         ]
       },
-      "correct_answer": "goose",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Geese emit powerful vocal honks to communicate over long distances during group flights.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Which bird is famous for its bright red chest?",
       "type": "mcq",
+      "prompt": "Which bird is famous for its bright red chest?",
       "options": {
         "choices": [
-          "robin",
-          "crow",
-          "seagull"
+          {
+            "id": "c1",
+            "text": "robin"
+          },
+          {
+            "id": "c2",
+            "text": "crow"
+          },
+          {
+            "id": "c3",
+            "text": "seagull"
+          }
         ]
       },
-      "correct_answer": "robin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The European robin is widely recognized by its iconic red or orange chest plumage.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Which bird uses its beak to weave nests from grass?",
       "type": "mcq",
+      "prompt": "Which bird uses its beak to weave nests from grass?",
       "options": {
         "choices": [
-          "robin",
-          "weaver bird",
-          "dove"
+          {
+            "id": "c1",
+            "text": "robin"
+          },
+          {
+            "id": "c2",
+            "text": "weaver bird"
+          },
+          {
+            "id": "c3",
+            "text": "dove"
+          }
         ]
       },
-      "correct_answer": "weaver bird",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Weaver birds exhibit complex construction behavior, tying grass knots to build hanging nests.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Which bird is known for following ships out at sea?",
       "type": "mcq",
+      "prompt": "Which bird is known for following ships out at sea?",
       "options": {
         "choices": [
-          "albatross",
-          "rooster",
-          "crane"
+          {
+            "id": "c1",
+            "text": "albatross"
+          },
+          {
+            "id": "c2",
+            "text": "rooster"
+          },
+          {
+            "id": "c3",
+            "text": "crane"
+          }
         ]
       },
-      "correct_answer": "albatross",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Albatrosses use dynamic soaring flight paths to follow maritime ships for discarded scraps.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Which bird has a crest and is known for running quickly on the ground?",
       "type": "mcq",
+      "prompt": "Which bird has a crest and is known for running quickly on the ground?",
       "options": {
         "choices": [
-          "crane",
-          "roadrunner",
-          "swan"
+          {
+            "id": "c1",
+            "text": "crane"
+          },
+          {
+            "id": "c2",
+            "text": "roadrunner"
+          },
+          {
+            "id": "c3",
+            "text": "swan"
+          }
         ]
       },
-      "correct_answer": "roadrunner",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Roadrunners are fast, ground-dwelling cuckoo family members that pursue desert prey.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which bird has a huge curved bill and loves eating shellfish?",
       "type": "mcq",
+      "prompt": "Which bird has a huge curved bill and loves eating shellfish?",
       "options": {
         "choices": [
-          "oystercatcher",
-          "quail",
-          "dove"
+          {
+            "id": "c1",
+            "text": "oystercatcher"
+          },
+          {
+            "id": "c2",
+            "text": "quail"
+          },
+          {
+            "id": "c3",
+            "text": "dove"
+          }
         ]
       },
-      "correct_answer": "oystercatcher",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Oystercatchers use specialized bladed bills to pry open or smash rigid bivalve shells.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Which bird can sleep while standing on one leg?",
       "type": "mcq",
+      "prompt": "Which bird can sleep while standing on one leg?",
       "options": {
         "choices": [
-          "heron",
-          "penguin",
-          "chickadee"
+          {
+            "id": "c1",
+            "text": "heron"
+          },
+          {
+            "id": "c2",
+            "text": "penguin"
+          },
+          {
+            "id": "c3",
+            "text": "chickadee"
+          }
         ]
       },
-      "correct_answer": "heron",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Herons lock their wading knee joints to sleep securely while balancing on a single leg.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which bird has a 'helmet' on top of its head and lives in grasslands?",
       "type": "mcq",
+      "prompt": "Which bird has a 'helmet' on top of its head and lives in grasslands?",
       "options": {
         "choices": [
-          "cassowary",
-          "pigeon",
-          "stork"
+          {
+            "id": "c1",
+            "text": "cassowary"
+          },
+          {
+            "id": "c2",
+            "text": "pigeon"
+          },
+          {
+            "id": "c3",
+            "text": "stork"
+          }
         ]
       },
-      "correct_answer": "cassowary",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cassowaries possess a prominent keratinous casque structure resembling a helmet atop their skulls.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which bird usually eats dead animals?",
       "type": "mcq",
+      "prompt": "Which bird usually eats dead animals?",
       "options": {
         "choices": [
-          "dove",
-          "swan",
-          "vulture"
+          {
+            "id": "c1",
+            "text": "dove"
+          },
+          {
+            "id": "c2",
+            "text": "swan"
+          },
+          {
+            "id": "c3",
+            "text": "vulture"
+          }
         ]
       },
-      "correct_answer": "vulture",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Vultures are obligate scavengers whose strong digestive acids process decaying animal carcasses safely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Which bird is known for its long toes that help it walk on lily pads?",
       "type": "mcq",
+      "prompt": "Which bird is known for its long toes that help it walk on lily pads?",
       "options": {
         "choices": [
-          "jacana",
-          "hawk",
-          "duck"
+          {
+            "id": "c1",
+            "text": "jacana"
+          },
+          {
+            "id": "c2",
+            "text": "hawk"
+          },
+          {
+            "id": "c3",
+            "text": "duck"
+          }
         ]
       },
-      "correct_answer": "jacana",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Jacanas distribute their body weight evenly across lily pads via elongated toe structures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which bird often circles high in the sky looking for prey?",
       "type": "mcq",
+      "prompt": "Which bird often circles high in the sky looking for prey?",
       "options": {
         "choices": [
-          "duck",
-          "penguin",
-          "hawk"
+          {
+            "id": "c1",
+            "text": "duck"
+          },
+          {
+            "id": "c2",
+            "text": "penguin"
+          },
+          {
+            "id": "c3",
+            "text": "hawk"
+          }
         ]
       },
-      "correct_answer": "hawk",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Buteo and accipiter hawks scan terrain from high elevations to locate moving prey.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which bird is known for having bright purple feathers?",
       "type": "mcq",
+      "prompt": "Which bird is known for having bright purple feathers?",
       "options": {
         "choices": [
-          "purple gallinule",
-          "goose",
-          "pigeon"
+          {
+            "id": "c1",
+            "text": "purple gallinule"
+          },
+          {
+            "id": "c2",
+            "text": "goose"
+          },
+          {
+            "id": "c3",
+            "text": "pigeon"
+          }
         ]
       },
-      "correct_answer": "purple gallinule",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The purple gallinule displays rich, iridescent purple and blue plumages over marshlands.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which bird has black feathers and a large, orange beak?",
       "type": "mcq",
+      "prompt": "Which bird has black feathers and a large, orange beak?",
       "options": {
         "choices": [
-          "parrot",
-          "toucan",
-          "quail"
+          {
+            "id": "c1",
+            "text": "parrot"
+          },
+          {
+            "id": "c2",
+            "text": "toucan"
+          },
+          {
+            "id": "c3",
+            "text": "quail"
+          }
         ]
       },
-      "correct_answer": "toucan",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Toucans showcase a striking visual contrast between their dark bodies and giant colorful bills.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Which bird is known for eating fish by plunging nose-first into water?",
       "type": "mcq",
+      "prompt": "Which bird is known for eating fish by plunging nose-first into water?",
       "options": {
         "choices": [
-          "gannet",
-          "crow",
-          "hen"
+          {
+            "id": "c1",
+            "text": "gannet"
+          },
+          {
+            "id": "c2",
+            "text": "crow"
+          },
+          {
+            "id": "c3",
+            "text": "hen"
+          }
         ]
       },
-      "correct_answer": "gannet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Gannets perform high-velocity plunge dives from altitude to catch fish submerged in the sea.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Which bird lives in deserts and gets water from insects?",
       "type": "mcq",
+      "prompt": "Which bird lives in deserts and gets water from insects?",
       "options": {
         "choices": [
-          "camel",
-          "sandgrouse",
-          "owl"
+          {
+            "id": "c1",
+            "text": "camel"
+          },
+          {
+            "id": "c2",
+            "text": "sandgrouse"
+          },
+          {
+            "id": "c3",
+            "text": "owl"
+          }
         ]
       },
-      "correct_answer": "sandgrouse",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The desert sandgrouse is highly adapted to arid terrains, deriving vital moisture from specialized foraging.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Which bird is known for having vibrant indigo plumages?",
       "type": "mcq",
+      "prompt": "Which bird is known for having vibrant indigo plumages?",
       "options": {
         "choices": [
-          "pink gallinule",
-          "purple gallinule",
-          "pigeon"
+          {
+            "id": "c1",
+            "text": "pink gallinule"
+          },
+          {
+            "id": "c2",
+            "text": "purple gallinule"
+          },
+          {
+            "id": "c3",
+            "text": "pigeon"
+          }
         ]
       },
-      "correct_answer": "purple gallinule",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The purple gallinule is celebrated for its deep indigo and purple feather patterns.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which bird can run faster than most animals but is smaller than an ostrich?",
       "type": "mcq",
+      "prompt": "Which bird can run faster than most animals but is smaller than an ostrich?",
       "options": {
         "choices": [
-          "crow",
-          "emu",
-          "regular birds"
+          {
+            "id": "c1",
+            "text": "crow"
+          },
+          {
+            "id": "c2",
+            "text": "emu"
+          },
+          {
+            "id": "c3",
+            "text": "regular birds"
+          }
         ]
       },
-      "correct_answer": "emu",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The emu stands as the second-largest living bird, running with powerful, large strides.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "What is the fastest flying bird?",
       "type": "mcq",
+      "prompt": "What is the fastest flying bird?",
       "options": {
         "choices": [
-          "crow",
-          "peregrine falcon",
-          "emu"
+          {
+            "id": "c1",
+            "text": "crow"
+          },
+          {
+            "id": "c2",
+            "text": "peregrine falcon"
+          },
+          {
+            "id": "c3",
+            "text": "emu"
+          }
         ]
       },
-      "correct_answer": "peregrine falcon",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The peregrine falcon achieves diving speeds exceeding 200 mph during targeted hunting stoops.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     }
   ]

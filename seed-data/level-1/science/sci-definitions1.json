@@ -1,1716 +1,2915 @@
 {
   "_source_file": "level1_sci_definitions1.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "sci-definitions1",
-    "title": "Forest",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.554Z",
+  "slug": "sci-definitions1",
+  "title": "Forest",
+  "level": "level-1",
+  "subject": "science",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "What does severe weather mean?",
       "type": "mcq",
+      "prompt": "What does severe weather mean?",
       "options": {
         "choices": [
-          "dangerous weather",
-          "beautiful weather",
-          "normal climate"
+          {
+            "id": "c1",
+            "text": "dangerous weather"
+          },
+          {
+            "id": "c2",
+            "text": "beautiful weather"
+          },
+          {
+            "id": "c3",
+            "text": "normal climate"
+          }
         ]
       },
-      "correct_answer": "dangerous weather",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is dangerous weather.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "What a time of year mean?",
       "type": "mcq",
+      "prompt": "What a time of year mean?",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "season"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "season"
+          }
         ]
       },
-      "correct_answer": "season",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is season.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Something harmful added to land, air , or water is called:",
       "type": "mcq",
+      "prompt": "Something harmful added to land, air , or water is called:",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "Pollution"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "Pollution"
+          }
         ]
       },
-      "correct_answer": "Pollution",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is Pollution.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "The pattern of weather in a place over many years is called:",
       "type": "mcq",
+      "prompt": "The pattern of weather in a place over many years is called:",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "season"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "season"
+          }
         ]
       },
-      "correct_answer": "climate",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is climate.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "type": "mcq",
+      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "water cycle"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "water cycle"
+          }
         ]
       },
-      "correct_answer": "water cycle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is water cycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "What is the meaning of reuse?",
       "type": "mcq",
+      "prompt": "What is the meaning of reuse?",
       "options": {
         "choices": [
-          "to buy again",
-          "to use again",
-          "to throw away"
+          {
+            "id": "c1",
+            "text": "to buy again"
+          },
+          {
+            "id": "c2",
+            "text": "to use again"
+          },
+          {
+            "id": "c3",
+            "text": "to throw away"
+          }
         ]
       },
-      "correct_answer": "to use again",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is to use again.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "type": "mcq",
+      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "water cycle"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "water cycle"
+          }
         ]
       },
-      "correct_answer": "water cycle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is water cycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Define temperature?",
       "type": "mcq",
+      "prompt": "Define temperature?",
       "options": {
         "choices": [
-          "climate",
-          "how hot or cold something is",
-          "dangerous weather"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "how hot or cold something is"
+          },
+          {
+            "id": "c3",
+            "text": "dangerous weather"
+          }
         ]
       },
-      "correct_answer": "how hot or cold something is",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is how hot or cold something is.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Define rotation?",
       "type": "mcq",
+      "prompt": "Define rotation?",
       "options": {
         "choices": [
-          "one spin around",
-          "climate",
-          "dangerous weather"
+          {
+            "id": "c1",
+            "text": "one spin around"
+          },
+          {
+            "id": "c2",
+            "text": "climate"
+          },
+          {
+            "id": "c3",
+            "text": "dangerous weather"
+          }
         ]
       },
-      "correct_answer": "one spin around",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is one spin around.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "type": "mcq",
+      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "water cycle"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "water cycle"
+          }
         ]
       },
-      "correct_answer": "water cycle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is water cycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Define soil?",
       "type": "mcq",
+      "prompt": "Define soil?",
       "options": {
         "choices": [
-          "the top layer of the sun",
-          "the second layer of the moon",
-          "the top layer of Earth"
+          {
+            "id": "c1",
+            "text": "the top layer of the sun"
+          },
+          {
+            "id": "c2",
+            "text": "the second layer of the moon"
+          },
+          {
+            "id": "c3",
+            "text": "the top layer of Earth"
+          }
         ]
       },
-      "correct_answer": "the top layer of Earth",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is the top layer of Earth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "To make used materials into new materials is called:",
       "type": "mcq",
+      "prompt": "To make used materials into new materials is called:",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "recycle"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "recycle"
+          }
         ]
       },
-      "correct_answer": "recycle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is recycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "A group of stars that forms a picture is called:",
       "type": "mcq",
+      "prompt": "A group of stars that forms a picture is called:",
       "options": {
         "choices": [
-          "constellation",
-          "data",
-          "recycle"
+          {
+            "id": "c1",
+            "text": "constellation"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "recycle"
+          }
         ]
       },
-      "correct_answer": "constellation",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is constellation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "A useful material that comes from Earth is called:",
       "type": "mcq",
+      "prompt": "A useful material that comes from Earth is called:",
       "options": {
         "choices": [
-          "constellation",
-          "natural resources",
-          "recycle"
+          {
+            "id": "c1",
+            "text": "constellation"
+          },
+          {
+            "id": "c2",
+            "text": "natural resources"
+          },
+          {
+            "id": "c3",
+            "text": "recycle"
+          }
         ]
       },
-      "correct_answer": "natural resources",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is natural resources.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "How something feels is called:",
       "type": "mcq",
+      "prompt": "How something feels is called:",
       "options": {
         "choices": [
-          "texture",
-          "dangerous resources",
-          "recycle"
+          {
+            "id": "c1",
+            "text": "texture"
+          },
+          {
+            "id": "c2",
+            "text": "dangerous resources"
+          },
+          {
+            "id": "c3",
+            "text": "recycle"
+          }
         ]
       },
-      "correct_answer": "texture",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is texture.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "type": "mcq",
+      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "options": {
         "choices": [
-          "climate",
-          "water cycle",
-          "water fall"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "water cycle"
+          },
+          {
+            "id": "c3",
+            "text": "water fall"
+          }
         ]
       },
-      "correct_answer": "water cycle",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is water cycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "A big ball of hot gas is called:",
       "type": "mcq",
+      "prompt": "A big ball of hot gas is called:",
       "options": {
         "choices": [
-          "rock",
-          "football",
-          "sun"
+          {
+            "id": "c1",
+            "text": "rock"
+          },
+          {
+            "id": "c2",
+            "text": "football"
+          },
+          {
+            "id": "c3",
+            "text": "sun"
+          }
         ]
       },
-      "correct_answer": "sun",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is sun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "What do we call moving air:",
       "type": "mcq",
+      "prompt": "What do we call moving air:",
       "options": {
         "choices": [
-          "climate",
-          "wind",
-          "clouds"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "wind"
+          },
+          {
+            "id": "c3",
+            "text": "clouds"
+          }
         ]
       },
-      "correct_answer": "wind",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is wind.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "When you describe how it is like outside, is called:",
       "type": "mcq",
+      "prompt": "When you describe how it is like outside, is called:",
       "options": {
         "choices": [
-          "weather",
-          "water cycle",
-          "Photosynthesis"
+          {
+            "id": "c1",
+            "text": "weather"
+          },
+          {
+            "id": "c2",
+            "text": "water cycle"
+          },
+          {
+            "id": "c3",
+            "text": "Photosynthesis"
+          }
         ]
       },
-      "correct_answer": "weather",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is weather.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "A natural feature on Earth is called:",
       "type": "mcq",
+      "prompt": "A natural feature on Earth is called:",
       "options": {
         "choices": [
-          "language",
-          "landform",
-          "ocean"
+          {
+            "id": "c1",
+            "text": "language"
+          },
+          {
+            "id": "c2",
+            "text": "landform"
+          },
+          {
+            "id": "c3",
+            "text": "ocean"
+          }
         ]
       },
-      "correct_answer": "landform",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is landform.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "type": "mcq",
+      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "options": {
         "choices": [
-          "climate",
-          "water fall",
-          "water cycle"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "water fall"
+          },
+          {
+            "id": "c3",
+            "text": "water cycle"
+          }
         ]
       },
-      "correct_answer": "water cycle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is water cycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "The shape of the lighted part of the moon is called:",
       "type": "mcq",
+      "prompt": "The shape of the lighted part of the moon is called:",
       "options": {
         "choices": [
-          "data",
-          "climate",
-          "phase"
+          {
+            "id": "c1",
+            "text": "data"
+          },
+          {
+            "id": "c2",
+            "text": "climate"
+          },
+          {
+            "id": "c3",
+            "text": "phase"
+          }
         ]
       },
-      "correct_answer": "phase",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is phase.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "A large body of moving ice is called:",
       "type": "mcq",
+      "prompt": "A large body of moving ice is called:",
       "options": {
         "choices": [
-          "snow",
-          "glacier",
-          "titanium"
+          {
+            "id": "c1",
+            "text": "snow"
+          },
+          {
+            "id": "c2",
+            "text": "glacier"
+          },
+          {
+            "id": "c3",
+            "text": "titanium"
+          }
         ]
       },
-      "correct_answer": "glacier",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is glacier.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "What is the sun, planets, and other objects that move around the sun called?",
       "type": "mcq",
+      "prompt": "What is the sun, planets, and other objects that move around the sun called?",
       "options": {
         "choices": [
-          "solar system",
-          "galaxy",
-          "universe"
+          {
+            "id": "c1",
+            "text": "solar system"
+          },
+          {
+            "id": "c2",
+            "text": "galaxy"
+          },
+          {
+            "id": "c3",
+            "text": "universe"
+          }
         ]
       },
-      "correct_answer": "solar system",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is solar system.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Small bits of dead plants and dead animals in soil is called:",
       "type": "mcq",
+      "prompt": "Small bits of dead plants and dead animals in soil is called:",
       "options": {
         "choices": [
-          "materials",
-          "humus",
-          "sand"
+          {
+            "id": "c1",
+            "text": "materials"
+          },
+          {
+            "id": "c2",
+            "text": "humus"
+          },
+          {
+            "id": "c3",
+            "text": "sand"
+          }
         ]
       },
-      "correct_answer": "humus",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is humus.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "The way something repeats itself is called:",
       "type": "mcq",
+      "prompt": "The way something repeats itself is called:",
       "options": {
         "choices": [
-          "materials",
-          "goal",
-          "Pattern"
+          {
+            "id": "c1",
+            "text": "materials"
+          },
+          {
+            "id": "c2",
+            "text": "goal"
+          },
+          {
+            "id": "c3",
+            "text": "Pattern"
+          }
         ]
       },
-      "correct_answer": "Pattern",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is Pattern.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "A a bowl of burning gases that gives a light and heat is called:",
       "type": "mcq",
+      "prompt": "A a bowl of burning gases that gives a light and heat is called:",
       "options": {
         "choices": [
-          "fire",
-          "star",
-          "lighter"
+          {
+            "id": "c1",
+            "text": "fire"
+          },
+          {
+            "id": "c2",
+            "text": "star"
+          },
+          {
+            "id": "c3",
+            "text": "lighter"
+          }
         ]
       },
-      "correct_answer": "star",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is star.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "To change something so it can be used again is called:",
       "type": "mcq",
+      "prompt": "To change something so it can be used again is called:",
       "options": {
         "choices": [
-          "material",
-          "plastic",
-          "recycle"
+          {
+            "id": "c1",
+            "text": "material"
+          },
+          {
+            "id": "c2",
+            "text": "plastic"
+          },
+          {
+            "id": "c3",
+            "text": "recycle"
+          }
         ]
       },
-      "correct_answer": "recycle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is recycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "What does the sign represent ♻ ?",
       "type": "mcq",
+      "prompt": "What does the sign represent ♻ ?",
       "options": {
         "choices": [
-          "recycle",
-          "buy new",
-          "Palm Beach"
+          {
+            "id": "c1",
+            "text": "recycle"
+          },
+          {
+            "id": "c2",
+            "text": "buy new"
+          },
+          {
+            "id": "c3",
+            "text": "Palm Beach"
+          }
         ]
       },
-      "correct_answer": "recycle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is recycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "When water or ice breaks down rocks is called:",
       "type": "mcq",
+      "prompt": "When water or ice breaks down rocks is called:",
       "options": {
         "choices": [
-          "weatherman",
-          "weathering",
-          "climate"
+          {
+            "id": "c1",
+            "text": "weatherman"
+          },
+          {
+            "id": "c2",
+            "text": "weathering"
+          },
+          {
+            "id": "c3",
+            "text": "climate"
+          }
         ]
       },
-      "correct_answer": "weathering",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is weathering.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "A nonliving material that comes from Earth is called:",
       "type": "mcq",
+      "prompt": "A nonliving material that comes from Earth is called:",
       "options": {
         "choices": [
-          "material",
-          "mineral",
-          "vitamins"
+          {
+            "id": "c1",
+            "text": "material"
+          },
+          {
+            "id": "c2",
+            "text": "mineral"
+          },
+          {
+            "id": "c3",
+            "text": "vitamins"
+          }
         ]
       },
-      "correct_answer": "mineral",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is mineral.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Anything that is burned to make heat or power is called:",
       "type": "mcq",
+      "prompt": "Anything that is burned to make heat or power is called:",
       "options": {
         "choices": [
-          "microwave",
-          "fuel",
-          "sun"
+          {
+            "id": "c1",
+            "text": "microwave"
+          },
+          {
+            "id": "c2",
+            "text": "fuel"
+          },
+          {
+            "id": "c3",
+            "text": "sun"
+          }
         ]
       },
-      "correct_answer": "fuel",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is fuel.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "A useful material that comes from earth is called:",
       "type": "mcq",
+      "prompt": "A useful material that comes from earth is called:",
       "options": {
         "choices": [
-          "vegetables",
-          "national parks",
-          "natural resources"
+          {
+            "id": "c1",
+            "text": "vegetables"
+          },
+          {
+            "id": "c2",
+            "text": "national parks"
+          },
+          {
+            "id": "c3",
+            "text": "natural resources"
+          }
         ]
       },
-      "correct_answer": "natural resources",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is natural resources.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "The closest star to Earth is called:",
       "type": "mcq",
+      "prompt": "The closest star to Earth is called:",
       "options": {
         "choices": [
-          "sun",
-          "ocean",
-          "moon"
+          {
+            "id": "c1",
+            "text": "sun"
+          },
+          {
+            "id": "c2",
+            "text": "ocean"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "sun",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is sun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "A hard, solid part of Earth that is not soil or metal is called:",
       "type": "mcq",
+      "prompt": "A hard, solid part of Earth that is not soil or metal is called:",
       "options": {
         "choices": [
-          "soil",
-          "metal",
-          "rock"
+          {
+            "id": "c1",
+            "text": "soil"
+          },
+          {
+            "id": "c2",
+            "text": "metal"
+          },
+          {
+            "id": "c3",
+            "text": "rock"
+          }
         ]
       },
-      "correct_answer": "rock",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is rock.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "The change from a liquid to a gas is called:",
       "type": "mcq",
+      "prompt": "The change from a liquid to a gas is called:",
       "options": {
         "choices": [
-          "rainbow",
-          "evaporation",
-          "erosion"
+          {
+            "id": "c1",
+            "text": "rainbow"
+          },
+          {
+            "id": "c2",
+            "text": "evaporation"
+          },
+          {
+            "id": "c3",
+            "text": "erosion"
+          }
         ]
       },
-      "correct_answer": "evaporation",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is evaporation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "The change from gas into a liquid is called:",
       "type": "mcq",
+      "prompt": "The change from gas into a liquid is called:",
       "options": {
         "choices": [
-          "rainbow",
-          "evaporation",
-          "condensation"
+          {
+            "id": "c1",
+            "text": "rainbow"
+          },
+          {
+            "id": "c2",
+            "text": "evaporation"
+          },
+          {
+            "id": "c3",
+            "text": "condensation"
+          }
         ]
       },
-      "correct_answer": "condensation",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is condensation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "The change from a liquid to a gas is called:",
       "type": "mcq",
+      "prompt": "The change from a liquid to a gas is called:",
       "options": {
         "choices": [
-          "rainbow",
-          "evaporation",
-          "erosion"
+          {
+            "id": "c1",
+            "text": "rainbow"
+          },
+          {
+            "id": "c2",
+            "text": "evaporation"
+          },
+          {
+            "id": "c3",
+            "text": "erosion"
+          }
         ]
       },
-      "correct_answer": "evaporation",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is evaporation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "The change from gas into a liquid is called:",
       "type": "mcq",
+      "prompt": "The change from gas into a liquid is called:",
       "options": {
         "choices": [
-          "rainbow",
-          "evaporation",
-          "condensation"
+          {
+            "id": "c1",
+            "text": "rainbow"
+          },
+          {
+            "id": "c2",
+            "text": "evaporation"
+          },
+          {
+            "id": "c3",
+            "text": "condensation"
+          }
         ]
       },
-      "correct_answer": "condensation",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is condensation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Water that falls to earth is called:",
       "type": "mcq",
+      "prompt": "Water that falls to earth is called:",
       "options": {
         "choices": [
-          "Precipitation",
-          "evaporation",
-          "condensation"
+          {
+            "id": "c1",
+            "text": "Precipitation"
+          },
+          {
+            "id": "c2",
+            "text": "evaporation"
+          },
+          {
+            "id": "c3",
+            "text": "condensation"
+          }
         ]
       },
-      "correct_answer": "Precipitation",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is Precipitation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "The change from liquid water to water vapor is called:",
       "type": "mcq",
+      "prompt": "The change from liquid water to water vapor is called:",
       "options": {
         "choices": [
-          "Precipitation",
-          "evaporation",
-          "condensation"
+          {
+            "id": "c1",
+            "text": "Precipitation"
+          },
+          {
+            "id": "c2",
+            "text": "evaporation"
+          },
+          {
+            "id": "c3",
+            "text": "condensation"
+          }
         ]
       },
-      "correct_answer": "evaporation",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is evaporation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "An animal without a backbone is called:",
       "type": "mcq",
+      "prompt": "An animal without a backbone is called:",
       "options": {
         "choices": [
-          "vertebrate",
-          "invertebrate",
-          "zoology"
+          {
+            "id": "c1",
+            "text": "vertebrate"
+          },
+          {
+            "id": "c2",
+            "text": "invertebrate"
+          },
+          {
+            "id": "c3",
+            "text": "zoology"
+          }
         ]
       },
-      "correct_answer": "invertebrate",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is invertebrate.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "An animal With a backbone is called:",
       "type": "mcq",
+      "prompt": "An animal With a backbone is called:",
       "options": {
         "choices": [
-          "vertebrate",
-          "invertebrate",
-          "zoology"
+          {
+            "id": "c1",
+            "text": "vertebrate"
+          },
+          {
+            "id": "c2",
+            "text": "invertebrate"
+          },
+          {
+            "id": "c3",
+            "text": "zoology"
+          }
         ]
       },
-      "correct_answer": "vertebrate",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is vertebrate.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "When wind or water moves rocks and soil is called:",
       "type": "mcq",
+      "prompt": "When wind or water moves rocks and soil is called:",
       "options": {
         "choices": [
-          "climate",
-          "erosion",
-          "evaporation"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "erosion"
+          },
+          {
+            "id": "c3",
+            "text": "evaporation"
+          }
         ]
       },
-      "correct_answer": "erosion",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is erosion.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "What something is made of is called:",
       "type": "mcq",
+      "prompt": "What something is made of is called:",
       "options": {
         "choices": [
-          "material",
-          "sun",
-          "data"
+          {
+            "id": "c1",
+            "text": "material"
+          },
+          {
+            "id": "c2",
+            "text": "sun"
+          },
+          {
+            "id": "c3",
+            "text": "data"
+          }
         ]
       },
-      "correct_answer": "material",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is material.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Using your senses to study something is called:",
       "type": "mcq",
+      "prompt": "Using your senses to study something is called:",
       "options": {
         "choices": [
-          "obviously",
-          "observe",
-          "goal"
+          {
+            "id": "c1",
+            "text": "obviously"
+          },
+          {
+            "id": "c2",
+            "text": "observe"
+          },
+          {
+            "id": "c3",
+            "text": "goal"
+          }
         ]
       },
-      "correct_answer": "observe",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is observe.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Something you want to do is called:",
       "type": "mcq",
+      "prompt": "Something you want to do is called:",
       "options": {
         "choices": [
-          "data",
-          "Believe",
-          "goal"
+          {
+            "id": "c1",
+            "text": "data"
+          },
+          {
+            "id": "c2",
+            "text": "Believe"
+          },
+          {
+            "id": "c3",
+            "text": "goal"
+          }
         ]
       },
-      "correct_answer": "goal",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is goal.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Another name for a list is:",
       "type": "mcq",
+      "prompt": "Another name for a list is:",
       "options": {
         "choices": [
-          "chart",
-          "books",
-          "paper"
+          {
+            "id": "c1",
+            "text": "chart"
+          },
+          {
+            "id": "c2",
+            "text": "books"
+          },
+          {
+            "id": "c3",
+            "text": "paper"
+          }
         ]
       },
-      "correct_answer": "chart",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is chart.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Asking questions and looking for answers is called:",
       "type": "mcq",
+      "prompt": "Asking questions and looking for answers is called:",
       "options": {
         "choices": [
-          "doubt",
-          "inquiry",
-          "believe"
+          {
+            "id": "c1",
+            "text": "doubt"
+          },
+          {
+            "id": "c2",
+            "text": "inquiry"
+          },
+          {
+            "id": "c3",
+            "text": "believe"
+          }
         ]
       },
-      "correct_answer": "inquiry",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is inquiry.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Something that solves a problem",
       "type": "mcq",
+      "prompt": "Something that solves a problem",
       "options": {
         "choices": [
-          "arguments",
-          "solution",
-          "fighting"
+          {
+            "id": "c1",
+            "text": "arguments"
+          },
+          {
+            "id": "c2",
+            "text": "solution"
+          },
+          {
+            "id": "c3",
+            "text": "fighting"
+          }
         ]
       },
-      "correct_answer": "solution",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is solution.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "What does severe weather mean?",
       "type": "mcq",
+      "prompt": "What does severe weather mean?",
       "options": {
         "choices": [
-          "dangerous weather",
-          "beautiful weather",
-          "normal climate"
+          {
+            "id": "c1",
+            "text": "dangerous weather"
+          },
+          {
+            "id": "c2",
+            "text": "beautiful weather"
+          },
+          {
+            "id": "c3",
+            "text": "normal climate"
+          }
         ]
       },
-      "correct_answer": "dangerous weather",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is dangerous weather.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "What a time of year mean?",
       "type": "mcq",
+      "prompt": "What a time of year mean?",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "season"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "season"
+          }
         ]
       },
-      "correct_answer": "season",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is season.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Something harmful added to land, air , or water is called:",
       "type": "mcq",
+      "prompt": "Something harmful added to land, air , or water is called:",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "Pollution"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "Pollution"
+          }
         ]
       },
-      "correct_answer": "Pollution",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is Pollution.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "The pattern of weather in a place over many years is called:",
       "type": "mcq",
+      "prompt": "The pattern of weather in a place over many years is called:",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "season"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "season"
+          }
         ]
       },
-      "correct_answer": "climate",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is climate.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "type": "mcq",
+      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "water cycle"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "water cycle"
+          }
         ]
       },
-      "correct_answer": "water cycle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is water cycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "What is the meaning of reuse?",
       "type": "mcq",
+      "prompt": "What is the meaning of reuse?",
       "options": {
         "choices": [
-          "to buy again",
-          "to use again",
-          "to throw away"
+          {
+            "id": "c1",
+            "text": "to buy again"
+          },
+          {
+            "id": "c2",
+            "text": "to use again"
+          },
+          {
+            "id": "c3",
+            "text": "to throw away"
+          }
         ]
       },
-      "correct_answer": "to use again",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is to use again.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "type": "mcq",
+      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "water cycle"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "water cycle"
+          }
         ]
       },
-      "correct_answer": "water cycle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is water cycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Define temperature?",
       "type": "mcq",
+      "prompt": "Define temperature?",
       "options": {
         "choices": [
-          "climate",
-          "how hot or cold something is",
-          "dangerous weather"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "how hot or cold something is"
+          },
+          {
+            "id": "c3",
+            "text": "dangerous weather"
+          }
         ]
       },
-      "correct_answer": "how hot or cold something is",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is how hot or cold something is.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Define rotation?",
       "type": "mcq",
+      "prompt": "Define rotation?",
       "options": {
         "choices": [
-          "one spin around",
-          "climate",
-          "dangerous weather"
+          {
+            "id": "c1",
+            "text": "one spin around"
+          },
+          {
+            "id": "c2",
+            "text": "climate"
+          },
+          {
+            "id": "c3",
+            "text": "dangerous weather"
+          }
         ]
       },
-      "correct_answer": "one spin around",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is one spin around.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "type": "mcq",
+      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "water cycle"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "water cycle"
+          }
         ]
       },
-      "correct_answer": "water cycle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is water cycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Define soil?",
       "type": "mcq",
+      "prompt": "Define soil?",
       "options": {
         "choices": [
-          "the top layer of the sun",
-          "the second layer of the moon",
-          "the top layer of Earth"
+          {
+            "id": "c1",
+            "text": "the top layer of the sun"
+          },
+          {
+            "id": "c2",
+            "text": "the second layer of the moon"
+          },
+          {
+            "id": "c3",
+            "text": "the top layer of Earth"
+          }
         ]
       },
-      "correct_answer": "the top layer of Earth",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is the top layer of Earth.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "To make used materials into new materials is called:",
       "type": "mcq",
+      "prompt": "To make used materials into new materials is called:",
       "options": {
         "choices": [
-          "climate",
-          "data",
-          "recycle"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "recycle"
+          }
         ]
       },
-      "correct_answer": "recycle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is recycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "A group of stars that forms a picture is called:",
       "type": "mcq",
+      "prompt": "A group of stars that forms a picture is called:",
       "options": {
         "choices": [
-          "constellation",
-          "data",
-          "recycle"
+          {
+            "id": "c1",
+            "text": "constellation"
+          },
+          {
+            "id": "c2",
+            "text": "data"
+          },
+          {
+            "id": "c3",
+            "text": "recycle"
+          }
         ]
       },
-      "correct_answer": "constellation",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is constellation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "A useful material that comes from Earth is called:",
       "type": "mcq",
+      "prompt": "A useful material that comes from Earth is called:",
       "options": {
         "choices": [
-          "constellation",
-          "natural resources",
-          "recycle"
+          {
+            "id": "c1",
+            "text": "constellation"
+          },
+          {
+            "id": "c2",
+            "text": "natural resources"
+          },
+          {
+            "id": "c3",
+            "text": "recycle"
+          }
         ]
       },
-      "correct_answer": "natural resources",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is natural resources.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "How something feels is called:",
       "type": "mcq",
+      "prompt": "How something feels is called:",
       "options": {
         "choices": [
-          "texture",
-          "dangerous resources",
-          "recycle"
+          {
+            "id": "c1",
+            "text": "texture"
+          },
+          {
+            "id": "c2",
+            "text": "dangerous resources"
+          },
+          {
+            "id": "c3",
+            "text": "recycle"
+          }
         ]
       },
-      "correct_answer": "texture",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is texture.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "type": "mcq",
+      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "options": {
         "choices": [
-          "climate",
-          "water cycle",
-          "water fall"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "water cycle"
+          },
+          {
+            "id": "c3",
+            "text": "water fall"
+          }
         ]
       },
-      "correct_answer": "water cycle",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is water cycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "A big ball of hot gas is called:",
       "type": "mcq",
+      "prompt": "A big ball of hot gas is called:",
       "options": {
         "choices": [
-          "rock",
-          "football",
-          "sun"
+          {
+            "id": "c1",
+            "text": "rock"
+          },
+          {
+            "id": "c2",
+            "text": "football"
+          },
+          {
+            "id": "c3",
+            "text": "sun"
+          }
         ]
       },
-      "correct_answer": "sun",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is sun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "What do we call moving air:",
       "type": "mcq",
+      "prompt": "What do we call moving air:",
       "options": {
         "choices": [
-          "climate",
-          "wind",
-          "clouds"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "wind"
+          },
+          {
+            "id": "c3",
+            "text": "clouds"
+          }
         ]
       },
-      "correct_answer": "wind",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is wind.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "When you describe how it is like outside, is called:",
       "type": "mcq",
+      "prompt": "When you describe how it is like outside, is called:",
       "options": {
         "choices": [
-          "weather",
-          "water cycle",
-          "Photosynthesis"
+          {
+            "id": "c1",
+            "text": "weather"
+          },
+          {
+            "id": "c2",
+            "text": "water cycle"
+          },
+          {
+            "id": "c3",
+            "text": "Photosynthesis"
+          }
         ]
       },
-      "correct_answer": "weather",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is weather.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "A natural feature on Earth is called:",
       "type": "mcq",
+      "prompt": "A natural feature on Earth is called:",
       "options": {
         "choices": [
-          "language",
-          "landform",
-          "ocean"
+          {
+            "id": "c1",
+            "text": "language"
+          },
+          {
+            "id": "c2",
+            "text": "landform"
+          },
+          {
+            "id": "c3",
+            "text": "ocean"
+          }
         ]
       },
-      "correct_answer": "landform",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is landform.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "type": "mcq",
+      "prompt": "The movement of water from Earth's surface into the air and back again to Earth's surface is called:",
       "options": {
         "choices": [
-          "climate",
-          "water fall",
-          "water cycle"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "water fall"
+          },
+          {
+            "id": "c3",
+            "text": "water cycle"
+          }
         ]
       },
-      "correct_answer": "water cycle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is water cycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "The shape of the lighted part of the moon is called:",
       "type": "mcq",
+      "prompt": "The shape of the lighted part of the moon is called:",
       "options": {
         "choices": [
-          "data",
-          "climate",
-          "phase"
+          {
+            "id": "c1",
+            "text": "data"
+          },
+          {
+            "id": "c2",
+            "text": "climate"
+          },
+          {
+            "id": "c3",
+            "text": "phase"
+          }
         ]
       },
-      "correct_answer": "phase",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is phase.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "A large body of moving ice is called:",
       "type": "mcq",
+      "prompt": "A large body of moving ice is called:",
       "options": {
         "choices": [
-          "snow",
-          "glacier",
-          "titanium"
+          {
+            "id": "c1",
+            "text": "snow"
+          },
+          {
+            "id": "c2",
+            "text": "glacier"
+          },
+          {
+            "id": "c3",
+            "text": "titanium"
+          }
         ]
       },
-      "correct_answer": "glacier",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is glacier.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "What is the sun, planets, and other objects that move around the sun called?",
       "type": "mcq",
+      "prompt": "What is the sun, planets, and other objects that move around the sun called?",
       "options": {
         "choices": [
-          "solar system",
-          "galaxy",
-          "universe"
+          {
+            "id": "c1",
+            "text": "solar system"
+          },
+          {
+            "id": "c2",
+            "text": "galaxy"
+          },
+          {
+            "id": "c3",
+            "text": "universe"
+          }
         ]
       },
-      "correct_answer": "solar system",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is solar system.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Small bits of dead plants and dead animals in soil is called:",
       "type": "mcq",
+      "prompt": "Small bits of dead plants and dead animals in soil is called:",
       "options": {
         "choices": [
-          "materials",
-          "humus",
-          "sand"
+          {
+            "id": "c1",
+            "text": "materials"
+          },
+          {
+            "id": "c2",
+            "text": "humus"
+          },
+          {
+            "id": "c3",
+            "text": "sand"
+          }
         ]
       },
-      "correct_answer": "humus",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is humus.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "The way something repeats itself is called:",
       "type": "mcq",
+      "prompt": "The way something repeats itself is called:",
       "options": {
         "choices": [
-          "materials",
-          "goal",
-          "Pattern"
+          {
+            "id": "c1",
+            "text": "materials"
+          },
+          {
+            "id": "c2",
+            "text": "goal"
+          },
+          {
+            "id": "c3",
+            "text": "Pattern"
+          }
         ]
       },
-      "correct_answer": "Pattern",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is Pattern.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "A a bowl of burning gases that gives a light and heat is called:",
       "type": "mcq",
+      "prompt": "A a bowl of burning gases that gives a light and heat is called:",
       "options": {
         "choices": [
-          "fire",
-          "star",
-          "lighter"
+          {
+            "id": "c1",
+            "text": "fire"
+          },
+          {
+            "id": "c2",
+            "text": "star"
+          },
+          {
+            "id": "c3",
+            "text": "lighter"
+          }
         ]
       },
-      "correct_answer": "star",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is star.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "To change something so it can be used again is called:",
       "type": "mcq",
+      "prompt": "To change something so it can be used again is called:",
       "options": {
         "choices": [
-          "material",
-          "plastic",
-          "recycle"
+          {
+            "id": "c1",
+            "text": "material"
+          },
+          {
+            "id": "c2",
+            "text": "plastic"
+          },
+          {
+            "id": "c3",
+            "text": "recycle"
+          }
         ]
       },
-      "correct_answer": "recycle",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is recycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "What does the sign represent ♻ ?",
       "type": "mcq",
+      "prompt": "What does the sign represent ♻ ?",
       "options": {
         "choices": [
-          "recycle",
-          "buy new",
-          "Palm Beach"
+          {
+            "id": "c1",
+            "text": "recycle"
+          },
+          {
+            "id": "c2",
+            "text": "buy new"
+          },
+          {
+            "id": "c3",
+            "text": "Palm Beach"
+          }
         ]
       },
-      "correct_answer": "recycle",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is recycle.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "When water or ice breaks down rocks is called:",
       "type": "mcq",
+      "prompt": "When water or ice breaks down rocks is called:",
       "options": {
         "choices": [
-          "weatherman",
-          "weathering",
-          "climate"
+          {
+            "id": "c1",
+            "text": "weatherman"
+          },
+          {
+            "id": "c2",
+            "text": "weathering"
+          },
+          {
+            "id": "c3",
+            "text": "climate"
+          }
         ]
       },
-      "correct_answer": "weathering",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is weathering.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "A nonliving material that comes from Earth is called:",
       "type": "mcq",
+      "prompt": "A nonliving material that comes from Earth is called:",
       "options": {
         "choices": [
-          "material",
-          "mineral",
-          "vitamins"
+          {
+            "id": "c1",
+            "text": "material"
+          },
+          {
+            "id": "c2",
+            "text": "mineral"
+          },
+          {
+            "id": "c3",
+            "text": "vitamins"
+          }
         ]
       },
-      "correct_answer": "mineral",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is mineral.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Anything that is burned to make heat or power is called:",
       "type": "mcq",
+      "prompt": "Anything that is burned to make heat or power is called:",
       "options": {
         "choices": [
-          "microwave",
-          "fuel",
-          "sun"
+          {
+            "id": "c1",
+            "text": "microwave"
+          },
+          {
+            "id": "c2",
+            "text": "fuel"
+          },
+          {
+            "id": "c3",
+            "text": "sun"
+          }
         ]
       },
-      "correct_answer": "fuel",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is fuel.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "A useful material that comes from earth is called:",
       "type": "mcq",
+      "prompt": "A useful material that comes from earth is called:",
       "options": {
         "choices": [
-          "vegetables",
-          "national parks",
-          "natural resources"
+          {
+            "id": "c1",
+            "text": "vegetables"
+          },
+          {
+            "id": "c2",
+            "text": "national parks"
+          },
+          {
+            "id": "c3",
+            "text": "natural resources"
+          }
         ]
       },
-      "correct_answer": "natural resources",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is natural resources.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "The closest star to Earth is called:",
       "type": "mcq",
+      "prompt": "The closest star to Earth is called:",
       "options": {
         "choices": [
-          "sun",
-          "ocean",
-          "moon"
+          {
+            "id": "c1",
+            "text": "sun"
+          },
+          {
+            "id": "c2",
+            "text": "ocean"
+          },
+          {
+            "id": "c3",
+            "text": "moon"
+          }
         ]
       },
-      "correct_answer": "sun",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is sun.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "A hard, solid part of Earth that is not soil or metal is called:",
       "type": "mcq",
+      "prompt": "A hard, solid part of Earth that is not soil or metal is called:",
       "options": {
         "choices": [
-          "soil",
-          "metal",
-          "rock"
+          {
+            "id": "c1",
+            "text": "soil"
+          },
+          {
+            "id": "c2",
+            "text": "metal"
+          },
+          {
+            "id": "c3",
+            "text": "rock"
+          }
         ]
       },
-      "correct_answer": "rock",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is rock.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "The change from a liquid to a gas is called:",
       "type": "mcq",
+      "prompt": "The change from a liquid to a gas is called:",
       "options": {
         "choices": [
-          "rainbow",
-          "evaporation",
-          "erosion"
+          {
+            "id": "c1",
+            "text": "rainbow"
+          },
+          {
+            "id": "c2",
+            "text": "evaporation"
+          },
+          {
+            "id": "c3",
+            "text": "erosion"
+          }
         ]
       },
-      "correct_answer": "evaporation",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is evaporation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "The change from gas into a liquid is called:",
       "type": "mcq",
+      "prompt": "The change from gas into a liquid is called:",
       "options": {
         "choices": [
-          "rainbow",
-          "evaporation",
-          "condensation"
+          {
+            "id": "c1",
+            "text": "rainbow"
+          },
+          {
+            "id": "c2",
+            "text": "evaporation"
+          },
+          {
+            "id": "c3",
+            "text": "condensation"
+          }
         ]
       },
-      "correct_answer": "condensation",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is condensation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "The change from a liquid to a gas is called:",
       "type": "mcq",
+      "prompt": "The change from a liquid to a gas is called:",
       "options": {
         "choices": [
-          "rainbow",
-          "evaporation",
-          "erosion"
+          {
+            "id": "c1",
+            "text": "rainbow"
+          },
+          {
+            "id": "c2",
+            "text": "evaporation"
+          },
+          {
+            "id": "c3",
+            "text": "erosion"
+          }
         ]
       },
-      "correct_answer": "evaporation",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is evaporation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "The change from gas into a liquid is called:",
       "type": "mcq",
+      "prompt": "The change from gas into a liquid is called:",
       "options": {
         "choices": [
-          "rainbow",
-          "evaporation",
-          "condensation"
+          {
+            "id": "c1",
+            "text": "rainbow"
+          },
+          {
+            "id": "c2",
+            "text": "evaporation"
+          },
+          {
+            "id": "c3",
+            "text": "condensation"
+          }
         ]
       },
-      "correct_answer": "condensation",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is condensation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Water that falls to earth is called:",
       "type": "mcq",
+      "prompt": "Water that falls to earth is called:",
       "options": {
         "choices": [
-          "Precipitation",
-          "evaporation",
-          "condensation"
+          {
+            "id": "c1",
+            "text": "Precipitation"
+          },
+          {
+            "id": "c2",
+            "text": "evaporation"
+          },
+          {
+            "id": "c3",
+            "text": "condensation"
+          }
         ]
       },
-      "correct_answer": "Precipitation",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is Precipitation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "The change from liquid water to water vapor is called:",
       "type": "mcq",
+      "prompt": "The change from liquid water to water vapor is called:",
       "options": {
         "choices": [
-          "Precipitation",
-          "evaporation",
-          "condensation"
+          {
+            "id": "c1",
+            "text": "Precipitation"
+          },
+          {
+            "id": "c2",
+            "text": "evaporation"
+          },
+          {
+            "id": "c3",
+            "text": "condensation"
+          }
         ]
       },
-      "correct_answer": "evaporation",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is evaporation.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "An animal without a backbone is called:",
       "type": "mcq",
+      "prompt": "An animal without a backbone is called:",
       "options": {
         "choices": [
-          "vertebrate",
-          "invertebrate",
-          "zoology"
+          {
+            "id": "c1",
+            "text": "vertebrate"
+          },
+          {
+            "id": "c2",
+            "text": "invertebrate"
+          },
+          {
+            "id": "c3",
+            "text": "zoology"
+          }
         ]
       },
-      "correct_answer": "invertebrate",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is invertebrate.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "An animal With a backbone is called:",
       "type": "mcq",
+      "prompt": "An animal With a backbone is called:",
       "options": {
         "choices": [
-          "vertebrate",
-          "invertebrate",
-          "zoology"
+          {
+            "id": "c1",
+            "text": "vertebrate"
+          },
+          {
+            "id": "c2",
+            "text": "invertebrate"
+          },
+          {
+            "id": "c3",
+            "text": "zoology"
+          }
         ]
       },
-      "correct_answer": "vertebrate",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is vertebrate.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "When wind or water moves rocks and soil is called:",
       "type": "mcq",
+      "prompt": "When wind or water moves rocks and soil is called:",
       "options": {
         "choices": [
-          "climate",
-          "erosion",
-          "evaporation"
+          {
+            "id": "c1",
+            "text": "climate"
+          },
+          {
+            "id": "c2",
+            "text": "erosion"
+          },
+          {
+            "id": "c3",
+            "text": "evaporation"
+          }
         ]
       },
-      "correct_answer": "erosion",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is erosion.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "What something is made of is called:",
       "type": "mcq",
+      "prompt": "What something is made of is called:",
       "options": {
         "choices": [
-          "material",
-          "sun",
-          "data"
+          {
+            "id": "c1",
+            "text": "material"
+          },
+          {
+            "id": "c2",
+            "text": "sun"
+          },
+          {
+            "id": "c3",
+            "text": "data"
+          }
         ]
       },
-      "correct_answer": "material",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is material.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Using your senses to study something is called:",
       "type": "mcq",
+      "prompt": "Using your senses to study something is called:",
       "options": {
         "choices": [
-          "obviously",
-          "observe",
-          "goal"
+          {
+            "id": "c1",
+            "text": "obviously"
+          },
+          {
+            "id": "c2",
+            "text": "observe"
+          },
+          {
+            "id": "c3",
+            "text": "goal"
+          }
         ]
       },
-      "correct_answer": "observe",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is observe.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Something you want to do is called:",
       "type": "mcq",
+      "prompt": "Something you want to do is called:",
       "options": {
         "choices": [
-          "data",
-          "Believe",
-          "goal"
+          {
+            "id": "c1",
+            "text": "data"
+          },
+          {
+            "id": "c2",
+            "text": "Believe"
+          },
+          {
+            "id": "c3",
+            "text": "goal"
+          }
         ]
       },
-      "correct_answer": "goal",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The correct answer is goal.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Another name for a list is:",
       "type": "mcq",
+      "prompt": "Another name for a list is:",
       "options": {
         "choices": [
-          "chart",
-          "books",
-          "paper"
+          {
+            "id": "c1",
+            "text": "chart"
+          },
+          {
+            "id": "c2",
+            "text": "books"
+          },
+          {
+            "id": "c3",
+            "text": "paper"
+          }
         ]
       },
-      "correct_answer": "chart",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The correct answer is chart.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Asking questions and looking for answers is called:",
       "type": "mcq",
+      "prompt": "Asking questions and looking for answers is called:",
       "options": {
         "choices": [
-          "doubt",
-          "inquiry",
-          "believe"
+          {
+            "id": "c1",
+            "text": "doubt"
+          },
+          {
+            "id": "c2",
+            "text": "inquiry"
+          },
+          {
+            "id": "c3",
+            "text": "believe"
+          }
         ]
       },
-      "correct_answer": "inquiry",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is inquiry.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Something that solves a problem",
       "type": "mcq",
+      "prompt": "Something that solves a problem",
       "options": {
         "choices": [
-          "arguments",
-          "solution",
-          "fighting"
+          {
+            "id": "c1",
+            "text": "arguments"
+          },
+          {
+            "id": "c2",
+            "text": "solution"
+          },
+          {
+            "id": "c3",
+            "text": "fighting"
+          }
         ]
       },
-      "correct_answer": "solution",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The correct answer is solution.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

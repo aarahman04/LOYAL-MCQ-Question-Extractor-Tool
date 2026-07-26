@@ -1,1680 +1,2849 @@
 {
   "_source_file": "level1_eng_antonym2.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 98,
-  "exercise": {
-    "slug": "eng-antonym2",
-    "title": "Antonyms 2",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 98,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.530Z",
+  "slug": "eng-antonym2",
+  "title": "Antonyms 2",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 98,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Which word is an antonym for big?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for big?",
       "options": {
         "choices": [
-          "huge",
-          "tiny",
-          "giant"
+          {
+            "id": "c1",
+            "text": "huge"
+          },
+          {
+            "id": "c2",
+            "text": "tiny"
+          },
+          {
+            "id": "c3",
+            "text": "giant"
+          }
         ]
       },
-      "correct_answer": "tiny",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'tiny' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which word is an antonym for happy?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for happy?",
       "options": {
         "choices": [
-          "glad",
-          "joyful",
-          "sad"
+          {
+            "id": "c1",
+            "text": "glad"
+          },
+          {
+            "id": "c2",
+            "text": "joyful"
+          },
+          {
+            "id": "c3",
+            "text": "sad"
+          }
         ]
       },
-      "correct_answer": "sad",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'sad' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Which word is an antonym for fast?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for fast?",
       "options": {
         "choices": [
-          "quick",
-          "slow",
-          "rapid"
+          {
+            "id": "c1",
+            "text": "quick"
+          },
+          {
+            "id": "c2",
+            "text": "slow"
+          },
+          {
+            "id": "c3",
+            "text": "rapid"
+          }
         ]
       },
-      "correct_answer": "slow",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'slow' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which word is an antonym for hot?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for hot?",
       "options": {
         "choices": [
-          "warm",
-          "cold",
-          "sunny"
+          {
+            "id": "c1",
+            "text": "warm"
+          },
+          {
+            "id": "c2",
+            "text": "cold"
+          },
+          {
+            "id": "c3",
+            "text": "sunny"
+          }
         ]
       },
-      "correct_answer": "cold",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'cold' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which word is an antonym for up?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for up?",
       "options": {
         "choices": [
-          "above",
-          "over",
-          "down"
+          {
+            "id": "c1",
+            "text": "above"
+          },
+          {
+            "id": "c2",
+            "text": "over"
+          },
+          {
+            "id": "c3",
+            "text": "down"
+          }
         ]
       },
-      "correct_answer": "down",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'down' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Which word is an antonym for clean?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for clean?",
       "options": {
         "choices": [
-          "tidy",
-          "dirty",
-          "neat"
+          {
+            "id": "c1",
+            "text": "tidy"
+          },
+          {
+            "id": "c2",
+            "text": "dirty"
+          },
+          {
+            "id": "c3",
+            "text": "neat"
+          }
         ]
       },
-      "correct_answer": "dirty",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'dirty' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Which word is an antonym for day?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for day?",
       "options": {
         "choices": [
-          "noon",
-          "morning",
-          "night"
+          {
+            "id": "c1",
+            "text": "noon"
+          },
+          {
+            "id": "c2",
+            "text": "morning"
+          },
+          {
+            "id": "c3",
+            "text": "night"
+          }
         ]
       },
-      "correct_answer": "night",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'night' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Which word is an antonym for open?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for open?",
       "options": {
         "choices": [
-          "close",
-          "unlock",
-          "begin"
+          {
+            "id": "c1",
+            "text": "close"
+          },
+          {
+            "id": "c2",
+            "text": "unlock"
+          },
+          {
+            "id": "c3",
+            "text": "begin"
+          }
         ]
       },
-      "correct_answer": "close",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'close' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which word is an antonym for soft?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for soft?",
       "options": {
         "choices": [
-          "fluffy",
-          "smooth",
-          "hard"
+          {
+            "id": "c1",
+            "text": "fluffy"
+          },
+          {
+            "id": "c2",
+            "text": "smooth"
+          },
+          {
+            "id": "c3",
+            "text": "hard"
+          }
         ]
       },
-      "correct_answer": "hard",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'hard' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Which word is an antonym for wet?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for wet?",
       "options": {
         "choices": [
-          "soaked",
-          "dry",
-          "damp"
+          {
+            "id": "c1",
+            "text": "soaked"
+          },
+          {
+            "id": "c2",
+            "text": "dry"
+          },
+          {
+            "id": "c3",
+            "text": "damp"
+          }
         ]
       },
-      "correct_answer": "dry",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'dry' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Which word is an antonym for old?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for old?",
       "options": {
         "choices": [
-          "ancient",
-          "young",
-          "aged"
+          {
+            "id": "c1",
+            "text": "ancient"
+          },
+          {
+            "id": "c2",
+            "text": "young"
+          },
+          {
+            "id": "c3",
+            "text": "aged"
+          }
         ]
       },
-      "correct_answer": "young",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'young' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Which word is an antonym for full?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for full?",
       "options": {
         "choices": [
-          "packed",
-          "filled",
-          "empty"
+          {
+            "id": "c1",
+            "text": "packed"
+          },
+          {
+            "id": "c2",
+            "text": "filled"
+          },
+          {
+            "id": "c3",
+            "text": "empty"
+          }
         ]
       },
-      "correct_answer": "empty",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'empty' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Which word is an antonym for good?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for good?",
       "options": {
         "choices": [
-          "kind",
-          "nice",
-          "bad"
+          {
+            "id": "c1",
+            "text": "kind"
+          },
+          {
+            "id": "c2",
+            "text": "nice"
+          },
+          {
+            "id": "c3",
+            "text": "bad"
+          }
         ]
       },
-      "correct_answer": "bad",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'bad' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Which word is an antonym for laugh?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for laugh?",
       "options": {
         "choices": [
-          "smile",
-          "cry",
-          "grin"
+          {
+            "id": "c1",
+            "text": "smile"
+          },
+          {
+            "id": "c2",
+            "text": "cry"
+          },
+          {
+            "id": "c3",
+            "text": "grin"
+          }
         ]
       },
-      "correct_answer": "cry",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'cry' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Which word is an antonym for light?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for light?",
       "options": {
         "choices": [
-          "bright",
-          "dark",
-          "shiny"
+          {
+            "id": "c1",
+            "text": "bright"
+          },
+          {
+            "id": "c2",
+            "text": "dark"
+          },
+          {
+            "id": "c3",
+            "text": "shiny"
+          }
         ]
       },
-      "correct_answer": "dark",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'dark' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Which word is an antonym for short?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for short?",
       "options": {
         "choices": [
-          "little",
-          "long",
-          "tiny"
+          {
+            "id": "c1",
+            "text": "little"
+          },
+          {
+            "id": "c2",
+            "text": "long"
+          },
+          {
+            "id": "c3",
+            "text": "tiny"
+          }
         ]
       },
-      "correct_answer": "long",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'long' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Which word is an antonym for strong?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for strong?",
       "options": {
         "choices": [
-          "weak",
-          "tough",
-          "brave"
+          {
+            "id": "c1",
+            "text": "weak"
+          },
+          {
+            "id": "c2",
+            "text": "tough"
+          },
+          {
+            "id": "c3",
+            "text": "brave"
+          }
         ]
       },
-      "correct_answer": "weak",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'weak' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which word is an antonym for early?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for early?",
       "options": {
         "choices": [
-          "late",
-          "soon",
-          "quick"
+          {
+            "id": "c1",
+            "text": "late"
+          },
+          {
+            "id": "c2",
+            "text": "soon"
+          },
+          {
+            "id": "c3",
+            "text": "quick"
+          }
         ]
       },
-      "correct_answer": "late",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'late' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Which word is an antonym for rich?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for rich?",
       "options": {
         "choices": [
-          "wealthy",
-          "poor",
-          "fancy"
+          {
+            "id": "c1",
+            "text": "wealthy"
+          },
+          {
+            "id": "c2",
+            "text": "poor"
+          },
+          {
+            "id": "c3",
+            "text": "fancy"
+          }
         ]
       },
-      "correct_answer": "poor",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'poor' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Which word is an antonym for inside?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for inside?",
       "options": {
         "choices": [
-          "indoors",
-          "within",
-          "outside"
+          {
+            "id": "c1",
+            "text": "indoors"
+          },
+          {
+            "id": "c2",
+            "text": "within"
+          },
+          {
+            "id": "c3",
+            "text": "outside"
+          }
         ]
       },
-      "correct_answer": "outside",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'outside' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Which word is an antonym for true?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for true?",
       "options": {
         "choices": [
-          "correct",
-          "false",
-          "right"
+          {
+            "id": "c1",
+            "text": "correct"
+          },
+          {
+            "id": "c2",
+            "text": "false"
+          },
+          {
+            "id": "c3",
+            "text": "right"
+          }
         ]
       },
-      "correct_answer": "false",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'false' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which word is an antonym for sit?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for sit?",
       "options": {
         "choices": [
-          "stand",
-          "rest",
-          "lean"
+          {
+            "id": "c1",
+            "text": "stand"
+          },
+          {
+            "id": "c2",
+            "text": "rest"
+          },
+          {
+            "id": "c3",
+            "text": "lean"
+          }
         ]
       },
-      "correct_answer": "stand",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'stand' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which word is an antonym for begin?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for begin?",
       "options": {
         "choices": [
-          "open",
-          "end",
-          "start"
+          {
+            "id": "c1",
+            "text": "open"
+          },
+          {
+            "id": "c2",
+            "text": "end"
+          },
+          {
+            "id": "c3",
+            "text": "start"
+          }
         ]
       },
-      "correct_answer": "end",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'end' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Which word is an antonym for high?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for high?",
       "options": {
         "choices": [
-          "tall",
-          "low",
-          "huge"
+          {
+            "id": "c1",
+            "text": "tall"
+          },
+          {
+            "id": "c2",
+            "text": "low"
+          },
+          {
+            "id": "c3",
+            "text": "huge"
+          }
         ]
       },
-      "correct_answer": "low",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'low' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Which word is an antonym for safe?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for safe?",
       "options": {
         "choices": [
-          "dangerous",
-          "careful",
-          "secure"
+          {
+            "id": "c1",
+            "text": "dangerous"
+          },
+          {
+            "id": "c2",
+            "text": "careful"
+          },
+          {
+            "id": "c3",
+            "text": "secure"
+          }
         ]
       },
-      "correct_answer": "dangerous",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'dangerous' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which word is an antonym for near?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for near?",
       "options": {
         "choices": [
-          "beside",
-          "close",
-          "far"
+          {
+            "id": "c1",
+            "text": "beside"
+          },
+          {
+            "id": "c2",
+            "text": "close"
+          },
+          {
+            "id": "c3",
+            "text": "far"
+          }
         ]
       },
-      "correct_answer": "far",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'far' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Which word is an antonym for friend?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for friend?",
       "options": {
         "choices": [
-          "buddy",
-          "enemy",
-          "pal"
+          {
+            "id": "c1",
+            "text": "buddy"
+          },
+          {
+            "id": "c2",
+            "text": "enemy"
+          },
+          {
+            "id": "c3",
+            "text": "pal"
+          }
         ]
       },
-      "correct_answer": "enemy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'enemy' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which word is an antonym for thin?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for thin?",
       "options": {
         "choices": [
-          "skinny",
-          "thick",
-          "slim"
+          {
+            "id": "c1",
+            "text": "skinny"
+          },
+          {
+            "id": "c2",
+            "text": "thick"
+          },
+          {
+            "id": "c3",
+            "text": "slim"
+          }
         ]
       },
-      "correct_answer": "thick",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'thick' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which word is an antonym for empty?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for empty?",
       "options": {
         "choices": [
-          "full",
-          "blank",
-          "hollow"
+          {
+            "id": "c1",
+            "text": "full"
+          },
+          {
+            "id": "c2",
+            "text": "blank"
+          },
+          {
+            "id": "c3",
+            "text": "hollow"
+          }
         ]
       },
-      "correct_answer": "full",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'full' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which word is an antonym for cold?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for cold?",
       "options": {
         "choices": [
-          "freezing",
-          "cool",
-          "hot"
+          {
+            "id": "c1",
+            "text": "freezing"
+          },
+          {
+            "id": "c2",
+            "text": "cool"
+          },
+          {
+            "id": "c3",
+            "text": "hot"
+          }
         ]
       },
-      "correct_answer": "hot",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'hot' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which word is an antonym for push?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for push?",
       "options": {
         "choices": [
-          "shove",
-          "pull",
-          "move"
+          {
+            "id": "c1",
+            "text": "shove"
+          },
+          {
+            "id": "c2",
+            "text": "pull"
+          },
+          {
+            "id": "c3",
+            "text": "move"
+          }
         ]
       },
-      "correct_answer": "pull",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'pull' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which word is an antonym for happy?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for happy?",
       "options": {
         "choices": [
-          "cheerful",
-          "excited",
-          "upset"
+          {
+            "id": "c1",
+            "text": "cheerful"
+          },
+          {
+            "id": "c2",
+            "text": "excited"
+          },
+          {
+            "id": "c3",
+            "text": "upset"
+          }
         ]
       },
-      "correct_answer": "upset",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'upset' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Which word is an antonym for small?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for small?",
       "options": {
         "choices": [
-          "little",
-          "tiny",
-          "large"
+          {
+            "id": "c1",
+            "text": "little"
+          },
+          {
+            "id": "c2",
+            "text": "tiny"
+          },
+          {
+            "id": "c3",
+            "text": "large"
+          }
         ]
       },
-      "correct_answer": "large",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'large' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which word is an antonym for laugh?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for laugh?",
       "options": {
         "choices": [
-          "giggle",
-          "sob",
-          "smile"
+          {
+            "id": "c1",
+            "text": "giggle"
+          },
+          {
+            "id": "c2",
+            "text": "sob"
+          },
+          {
+            "id": "c3",
+            "text": "smile"
+          }
         ]
       },
-      "correct_answer": "sob",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'sob' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Which word is an antonym for young?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for young?",
       "options": {
         "choices": [
-          "new",
-          "fresh",
-          "old"
+          {
+            "id": "c1",
+            "text": "new"
+          },
+          {
+            "id": "c2",
+            "text": "fresh"
+          },
+          {
+            "id": "c3",
+            "text": "old"
+          }
         ]
       },
-      "correct_answer": "old",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'old' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which word is an antonym for top?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for top?",
       "options": {
         "choices": [
-          "upper",
-          "bottom",
-          "peak"
+          {
+            "id": "c1",
+            "text": "upper"
+          },
+          {
+            "id": "c2",
+            "text": "bottom"
+          },
+          {
+            "id": "c3",
+            "text": "peak"
+          }
         ]
       },
-      "correct_answer": "bottom",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'bottom' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which word is an antonym for slow?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for slow?",
       "options": {
         "choices": [
-          "lazy",
-          "fast",
-          "tired"
+          {
+            "id": "c1",
+            "text": "lazy"
+          },
+          {
+            "id": "c2",
+            "text": "fast"
+          },
+          {
+            "id": "c3",
+            "text": "tired"
+          }
         ]
       },
-      "correct_answer": "fast",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'fast' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which word is an antonym for beautiful?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for beautiful?",
       "options": {
         "choices": [
-          "pretty",
-          "lovely",
-          "ugly"
+          {
+            "id": "c1",
+            "text": "pretty"
+          },
+          {
+            "id": "c2",
+            "text": "lovely"
+          },
+          {
+            "id": "c3",
+            "text": "ugly"
+          }
         ]
       },
-      "correct_answer": "ugly",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'ugly' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which word is an antonym for heavy?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for heavy?",
       "options": {
         "choices": [
-          "light",
-          "thick",
-          "huge"
+          {
+            "id": "c1",
+            "text": "light"
+          },
+          {
+            "id": "c2",
+            "text": "thick"
+          },
+          {
+            "id": "c3",
+            "text": "huge"
+          }
         ]
       },
-      "correct_answer": "light",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'light' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which word is an antonym for right?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for right?",
       "options": {
         "choices": [
-          "correct",
-          "wrong",
-          "true"
+          {
+            "id": "c1",
+            "text": "correct"
+          },
+          {
+            "id": "c2",
+            "text": "wrong"
+          },
+          {
+            "id": "c3",
+            "text": "true"
+          }
         ]
       },
-      "correct_answer": "wrong",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'wrong' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which word is an antonym for hard?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for hard?",
       "options": {
         "choices": [
-          "rough",
-          "soft",
-          "solid"
+          {
+            "id": "c1",
+            "text": "rough"
+          },
+          {
+            "id": "c2",
+            "text": "soft"
+          },
+          {
+            "id": "c3",
+            "text": "solid"
+          }
         ]
       },
-      "correct_answer": "soft",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'soft' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which word is an antonym for boy?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for boy?",
       "options": {
         "choices": [
-          "child",
-          "cat",
-          "girl"
+          {
+            "id": "c1",
+            "text": "child"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "girl"
+          }
         ]
       },
-      "correct_answer": "girl",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'girl' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which word is an antonym for happy?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for happy?",
       "options": {
         "choices": [
-          "sad",
-          "Smile",
-          "joyful"
+          {
+            "id": "c1",
+            "text": "sad"
+          },
+          {
+            "id": "c2",
+            "text": "Smile"
+          },
+          {
+            "id": "c3",
+            "text": "joyful"
+          }
         ]
       },
-      "correct_answer": "sad",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'sad' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which word is an antonym for give?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for give?",
       "options": {
         "choices": [
-          "take",
-          "share"
+          {
+            "id": "c1",
+            "text": "take"
+          },
+          {
+            "id": "c2",
+            "text": "share"
+          }
         ]
       },
-      "correct_answer": "take",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'take' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which word is an antonym for left?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for left?",
       "options": {
         "choices": [
-          "west",
-          "middle",
-          "right"
+          {
+            "id": "c1",
+            "text": "west"
+          },
+          {
+            "id": "c2",
+            "text": "middle"
+          },
+          {
+            "id": "c3",
+            "text": "right"
+          }
         ]
       },
-      "correct_answer": "right",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'right' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Which word is an antonym for biggest?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for biggest?",
       "options": {
         "choices": [
-          "tallest",
-          "smallest",
-          "widest"
+          {
+            "id": "c1",
+            "text": "tallest"
+          },
+          {
+            "id": "c2",
+            "text": "smallest"
+          },
+          {
+            "id": "c3",
+            "text": "widest"
+          }
         ]
       },
-      "correct_answer": "smallest",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'smallest' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which word is an antonym for bright?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for bright?",
       "options": {
         "choices": [
-          "shiny",
-          "glowing",
-          "dull"
+          {
+            "id": "c1",
+            "text": "shiny"
+          },
+          {
+            "id": "c2",
+            "text": "glowing"
+          },
+          {
+            "id": "c3",
+            "text": "dull"
+          }
         ]
       },
-      "correct_answer": "dull",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'dull' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which word is an antonym for in?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for in?",
       "options": {
         "choices": [
-          "over",
-          "out",
-          "inside"
+          {
+            "id": "c1",
+            "text": "over"
+          },
+          {
+            "id": "c2",
+            "text": "out"
+          },
+          {
+            "id": "c3",
+            "text": "inside"
+          }
         ]
       },
-      "correct_answer": "out",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'out' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which word is an antonym for noisy?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for noisy?",
       "options": {
         "choices": [
-          "loud",
-          "sorry",
-          "silent"
+          {
+            "id": "c1",
+            "text": "loud"
+          },
+          {
+            "id": "c2",
+            "text": "sorry"
+          },
+          {
+            "id": "c3",
+            "text": "silent"
+          }
         ]
       },
-      "correct_answer": "silent",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'silent' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which word is an antonym for win?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for win?",
       "options": {
         "choices": [
-          "lose",
-          "gain",
-          "score"
+          {
+            "id": "c1",
+            "text": "lose"
+          },
+          {
+            "id": "c2",
+            "text": "gain"
+          },
+          {
+            "id": "c3",
+            "text": "score"
+          }
         ]
       },
-      "correct_answer": "lose",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'lose' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which word is an antonym for open?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for open?",
       "options": {
         "choices": [
-          "shut",
-          "unblock"
+          {
+            "id": "c1",
+            "text": "shut"
+          },
+          {
+            "id": "c2",
+            "text": "unblock"
+          }
         ]
       },
-      "correct_answer": "shut",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'shut' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Which word is an antonym for strong?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for strong?",
       "options": {
         "choices": [
-          "weak",
-          "mighty",
-          "solid"
+          {
+            "id": "c1",
+            "text": "weak"
+          },
+          {
+            "id": "c2",
+            "text": "mighty"
+          },
+          {
+            "id": "c3",
+            "text": "solid"
+          }
         ]
       },
-      "correct_answer": "weak",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'weak' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Which word is an antonym for sharp?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for sharp?",
       "options": {
         "choices": [
-          "pointy",
-          "dull",
-          "smooth"
+          {
+            "id": "c1",
+            "text": "pointy"
+          },
+          {
+            "id": "c2",
+            "text": "dull"
+          },
+          {
+            "id": "c3",
+            "text": "smooth"
+          }
         ]
       },
-      "correct_answer": "dull",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'dull' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which word is an antonym for sweet?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for sweet?",
       "options": {
         "choices": [
-          "sour",
-          "sound",
-          "tasty"
+          {
+            "id": "c1",
+            "text": "sour"
+          },
+          {
+            "id": "c2",
+            "text": "sound"
+          },
+          {
+            "id": "c3",
+            "text": "tasty"
+          }
         ]
       },
-      "correct_answer": "sour",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'sour' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which word is an antonym for before?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for before?",
       "options": {
         "choices": [
-          "after",
-          "earlier",
-          "first"
+          {
+            "id": "c1",
+            "text": "after"
+          },
+          {
+            "id": "c2",
+            "text": "earlier"
+          },
+          {
+            "id": "c3",
+            "text": "first"
+          }
         ]
       },
-      "correct_answer": "after",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'after' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which word is an antonym for thick?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for thick?",
       "options": {
         "choices": [
-          "wide",
-          "thin",
-          "deep"
+          {
+            "id": "c1",
+            "text": "wide"
+          },
+          {
+            "id": "c2",
+            "text": "thin"
+          },
+          {
+            "id": "c3",
+            "text": "deep"
+          }
         ]
       },
-      "correct_answer": "thin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'thin' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Which word is an antonym for alive?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for alive?",
       "options": {
         "choices": [
-          "living",
-          "awake",
-          "dead"
+          {
+            "id": "c1",
+            "text": "living"
+          },
+          {
+            "id": "c2",
+            "text": "awake"
+          },
+          {
+            "id": "c3",
+            "text": "dead"
+          }
         ]
       },
-      "correct_answer": "dead",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'dead' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Which word is an antonym for clean?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for clean?",
       "options": {
         "choices": [
-          "neat",
-          "fresh",
-          "messy"
+          {
+            "id": "c1",
+            "text": "neat"
+          },
+          {
+            "id": "c2",
+            "text": "fresh"
+          },
+          {
+            "id": "c3",
+            "text": "messy"
+          }
         ]
       },
-      "correct_answer": "messy",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'messy' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which word is an antonym for happy?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for happy?",
       "options": {
         "choices": [
-          "sad",
-          "excited",
-          "cheerful"
+          {
+            "id": "c1",
+            "text": "sad"
+          },
+          {
+            "id": "c2",
+            "text": "excited"
+          },
+          {
+            "id": "c3",
+            "text": "cheerful"
+          }
         ]
       },
-      "correct_answer": "sad",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'sad' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which word is an antonym for tall?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for tall?",
       "options": {
         "choices": [
-          "short",
-          "huge",
-          "giant"
+          {
+            "id": "c1",
+            "text": "short"
+          },
+          {
+            "id": "c2",
+            "text": "huge"
+          },
+          {
+            "id": "c3",
+            "text": "giant"
+          }
         ]
       },
-      "correct_answer": "short",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'short' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Which word is an antonym for start?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for start?",
       "options": {
         "choices": [
-          "begin",
-          "stop",
-          "open"
+          {
+            "id": "c1",
+            "text": "begin"
+          },
+          {
+            "id": "c2",
+            "text": "stop"
+          },
+          {
+            "id": "c3",
+            "text": "open"
+          }
         ]
       },
-      "correct_answer": "stop",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'stop' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which word is an antonym for over?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for over?",
       "options": {
         "choices": [
-          "above",
-          "under",
-          "across"
+          {
+            "id": "c1",
+            "text": "above"
+          },
+          {
+            "id": "c2",
+            "text": "under"
+          },
+          {
+            "id": "c3",
+            "text": "across"
+          }
         ]
       },
-      "correct_answer": "under",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'under' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which word is an antonym for kind?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for kind?",
       "options": {
         "choices": [
-          "mean",
-          "gentle",
-          "caring"
+          {
+            "id": "c1",
+            "text": "mean"
+          },
+          {
+            "id": "c2",
+            "text": "gentle"
+          },
+          {
+            "id": "c3",
+            "text": "caring"
+          }
         ]
       },
-      "correct_answer": "mean",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'mean' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which word is an antonym for first?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for first?",
       "options": {
         "choices": [
-          "next",
-          "middle",
-          "last"
+          {
+            "id": "c1",
+            "text": "next"
+          },
+          {
+            "id": "c2",
+            "text": "middle"
+          },
+          {
+            "id": "c3",
+            "text": "last"
+          }
         ]
       },
-      "correct_answer": "last",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'last' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Which word is an antonym for dry?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for dry?",
       "options": {
         "choices": [
-          "wet",
-          "dusty",
-          "rough"
+          {
+            "id": "c1",
+            "text": "wet"
+          },
+          {
+            "id": "c2",
+            "text": "dusty"
+          },
+          {
+            "id": "c3",
+            "text": "rough"
+          }
         ]
       },
-      "correct_answer": "wet",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'wet' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which word is an antonym for same?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for same?",
       "options": {
         "choices": [
-          "alike",
-          "equal",
-          "different"
+          {
+            "id": "c1",
+            "text": "alike"
+          },
+          {
+            "id": "c2",
+            "text": "equal"
+          },
+          {
+            "id": "c3",
+            "text": "different"
+          }
         ]
       },
-      "correct_answer": "different",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'different' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which word is an antonym for busy?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for busy?",
       "options": {
         "choices": [
-          "active",
-          "lazy",
-          "working"
+          {
+            "id": "c1",
+            "text": "active"
+          },
+          {
+            "id": "c2",
+            "text": "lazy"
+          },
+          {
+            "id": "c3",
+            "text": "working"
+          }
         ]
       },
-      "correct_answer": "lazy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'lazy' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which word is an antonym for dark?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for dark?",
       "options": {
         "choices": [
-          "black",
-          "dim",
-          "bright"
+          {
+            "id": "c1",
+            "text": "black"
+          },
+          {
+            "id": "c2",
+            "text": "dim"
+          },
+          {
+            "id": "c3",
+            "text": "bright"
+          }
         ]
       },
-      "correct_answer": "bright",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'bright' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which word is an antonym for under?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for under?",
       "options": {
         "choices": [
-          "below",
-          "over",
-          "down"
+          {
+            "id": "c1",
+            "text": "below"
+          },
+          {
+            "id": "c2",
+            "text": "over"
+          },
+          {
+            "id": "c3",
+            "text": "down"
+          }
         ]
       },
-      "correct_answer": "over",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'over' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which word is an antonym for laugh?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for laugh?",
       "options": {
         "choices": [
-          "smile",
-          "dry",
-          "sob"
+          {
+            "id": "c1",
+            "text": "smile"
+          },
+          {
+            "id": "c2",
+            "text": "dry"
+          },
+          {
+            "id": "c3",
+            "text": "sob"
+          }
         ]
       },
-      "correct_answer": "sob",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'sob' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which word is an antonym for better?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for better?",
       "options": {
         "choices": [
-          "worse",
-          "best",
-          "great"
+          {
+            "id": "c1",
+            "text": "worse"
+          },
+          {
+            "id": "c2",
+            "text": "best"
+          },
+          {
+            "id": "c3",
+            "text": "great"
+          }
         ]
       },
-      "correct_answer": "worse",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'worse' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which word is an antonym for front?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for front?",
       "options": {
         "choices": [
-          "side",
-          "back",
-          "middle"
+          {
+            "id": "c1",
+            "text": "side"
+          },
+          {
+            "id": "c2",
+            "text": "back"
+          },
+          {
+            "id": "c3",
+            "text": "middle"
+          }
         ]
       },
-      "correct_answer": "back",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'back' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which word is an antonym for cool?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for cool?",
       "options": {
         "choices": [
-          "cold",
-          "warm",
-          "freezing"
+          {
+            "id": "c1",
+            "text": "cold"
+          },
+          {
+            "id": "c2",
+            "text": "warm"
+          },
+          {
+            "id": "c3",
+            "text": "freezing"
+          }
         ]
       },
-      "correct_answer": "warm",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'warm' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which word is an antonym for pull?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for pull?",
       "options": {
         "choices": [
-          "drag",
-          "push",
-          "lift"
+          {
+            "id": "c1",
+            "text": "drag"
+          },
+          {
+            "id": "c2",
+            "text": "push"
+          },
+          {
+            "id": "c3",
+            "text": "lift"
+          }
         ]
       },
-      "correct_answer": "push",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'push' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which word is an antonym for big?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for big?",
       "options": {
         "choices": [
-          "giant",
-          "large",
-          "little"
+          {
+            "id": "c1",
+            "text": "giant"
+          },
+          {
+            "id": "c2",
+            "text": "large"
+          },
+          {
+            "id": "c3",
+            "text": "little"
+          }
         ]
       },
-      "correct_answer": "little",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'little' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which word is an antonym for upstairs?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for upstairs?",
       "options": {
         "choices": [
-          "above",
-          "downstairs",
-          "top"
+          {
+            "id": "c1",
+            "text": "above"
+          },
+          {
+            "id": "c2",
+            "text": "downstairs"
+          },
+          {
+            "id": "c3",
+            "text": "top"
+          }
         ]
       },
-      "correct_answer": "downstairs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'downstairs' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which word is an antonym for happy?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for happy?",
       "options": {
         "choices": [
-          "sad",
-          "excited",
-          "smiling"
+          {
+            "id": "c1",
+            "text": "sad"
+          },
+          {
+            "id": "c2",
+            "text": "excited"
+          },
+          {
+            "id": "c3",
+            "text": "smiling"
+          }
         ]
       },
-      "correct_answer": "sad",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'sad' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which word is an antonym for new?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for new?",
       "options": {
         "choices": [
-          "fresh",
-          "old",
-          "modern"
+          {
+            "id": "c1",
+            "text": "fresh"
+          },
+          {
+            "id": "c2",
+            "text": "old"
+          },
+          {
+            "id": "c3",
+            "text": "modern"
+          }
         ]
       },
-      "correct_answer": "old",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'old' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Which word is an antonym for full?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for full?",
       "options": {
         "choices": [
-          "packed",
-          "stuffed",
-          "empty"
+          {
+            "id": "c1",
+            "text": "packed"
+          },
+          {
+            "id": "c2",
+            "text": "stuffed"
+          },
+          {
+            "id": "c3",
+            "text": "empty"
+          }
         ]
       },
-      "correct_answer": "empty",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'empty' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which word is an antonym for borrow?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for borrow?",
       "options": {
         "choices": [
-          "lend",
-          "keep",
-          "hold"
+          {
+            "id": "c1",
+            "text": "lend"
+          },
+          {
+            "id": "c2",
+            "text": "keep"
+          },
+          {
+            "id": "c3",
+            "text": "hold"
+          }
         ]
       },
-      "correct_answer": "lend",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'lend' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which word is an antonym for left?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for left?",
       "options": {
         "choices": [
-          "turn",
-          "right",
-          "west"
+          {
+            "id": "c1",
+            "text": "turn"
+          },
+          {
+            "id": "c2",
+            "text": "right"
+          },
+          {
+            "id": "c3",
+            "text": "west"
+          }
         ]
       },
-      "correct_answer": "right",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'right' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Which word is an antonym for happy?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for happy?",
       "options": {
         "choices": [
-          "joyful",
-          "cheerful",
-          "miserable"
+          {
+            "id": "c1",
+            "text": "joyful"
+          },
+          {
+            "id": "c2",
+            "text": "cheerful"
+          },
+          {
+            "id": "c3",
+            "text": "miserable"
+          }
         ]
       },
-      "correct_answer": "miserable",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'miserable' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Which word is an antonym for stop?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for stop?",
       "options": {
         "choices": [
-          "go",
-          "say",
-          "went"
+          {
+            "id": "c1",
+            "text": "go"
+          },
+          {
+            "id": "c2",
+            "text": "say"
+          },
+          {
+            "id": "c3",
+            "text": "went"
+          }
         ]
       },
-      "correct_answer": "go",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'go' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Which word is an antonym for sit?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for sit?",
       "options": {
         "choices": [
-          "sitting",
-          "went",
-          "stand"
+          {
+            "id": "c1",
+            "text": "sitting"
+          },
+          {
+            "id": "c2",
+            "text": "went"
+          },
+          {
+            "id": "c3",
+            "text": "stand"
+          }
         ]
       },
-      "correct_answer": "stand",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'stand' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Which word is an antonym for white?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for white?",
       "options": {
         "choices": [
-          "black",
-          "pink",
-          "purple"
+          {
+            "id": "c1",
+            "text": "black"
+          },
+          {
+            "id": "c2",
+            "text": "pink"
+          },
+          {
+            "id": "c3",
+            "text": "purple"
+          }
         ]
       },
-      "correct_answer": "black",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'black' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Which word is an antonym for hurt?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for hurt?",
       "options": {
         "choices": [
-          "big",
-          "help",
-          "car"
+          {
+            "id": "c1",
+            "text": "big"
+          },
+          {
+            "id": "c2",
+            "text": "help"
+          },
+          {
+            "id": "c3",
+            "text": "car"
+          }
         ]
       },
-      "correct_answer": "help",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'help' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which word is an antonym for help?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for help?",
       "options": {
         "choices": [
-          "cat",
-          "car",
-          "hurt"
+          {
+            "id": "c1",
+            "text": "cat"
+          },
+          {
+            "id": "c2",
+            "text": "car"
+          },
+          {
+            "id": "c3",
+            "text": "hurt"
+          }
         ]
       },
-      "correct_answer": "hurt",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'hurt' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Which word is an antonym for lost?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for lost?",
       "options": {
         "choices": [
-          "found",
-          "give",
-          "look"
+          {
+            "id": "c1",
+            "text": "found"
+          },
+          {
+            "id": "c2",
+            "text": "give"
+          },
+          {
+            "id": "c3",
+            "text": "look"
+          }
         ]
       },
-      "correct_answer": "found",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'found' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which word is an antonym for give?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for give?",
       "options": {
         "choices": [
-          "lost",
-          "take",
-          "looking"
+          {
+            "id": "c1",
+            "text": "lost"
+          },
+          {
+            "id": "c2",
+            "text": "take"
+          },
+          {
+            "id": "c3",
+            "text": "looking"
+          }
         ]
       },
-      "correct_answer": "take",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'take' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which word is an antonym for take?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for take?",
       "options": {
         "choices": [
-          "lost",
-          "make",
-          "give"
+          {
+            "id": "c1",
+            "text": "lost"
+          },
+          {
+            "id": "c2",
+            "text": "make"
+          },
+          {
+            "id": "c3",
+            "text": "give"
+          }
         ]
       },
-      "correct_answer": "give",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'give' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Which word is an antonym for this?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for this?",
       "options": {
         "choices": [
-          "lost",
-          "that",
-          "looking"
+          {
+            "id": "c1",
+            "text": "lost"
+          },
+          {
+            "id": "c2",
+            "text": "that"
+          },
+          {
+            "id": "c3",
+            "text": "looking"
+          }
         ]
       },
-      "correct_answer": "that",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'that' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which word is an antonym for something?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for something?",
       "options": {
         "choices": [
-          "lost",
-          "that",
-          "nothing"
+          {
+            "id": "c1",
+            "text": "lost"
+          },
+          {
+            "id": "c2",
+            "text": "that"
+          },
+          {
+            "id": "c3",
+            "text": "nothing"
+          }
         ]
       },
-      "correct_answer": "nothing",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'nothing' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which word is an antonym for stay?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for stay?",
       "options": {
         "choices": [
-          "back",
-          "that",
-          "go"
+          {
+            "id": "c1",
+            "text": "back"
+          },
+          {
+            "id": "c2",
+            "text": "that"
+          },
+          {
+            "id": "c3",
+            "text": "go"
+          }
         ]
       },
-      "correct_answer": "go",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'go' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which word is an antonym for front?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for front?",
       "options": {
         "choices": [
-          "back",
-          "that",
-          "looking"
+          {
+            "id": "c1",
+            "text": "back"
+          },
+          {
+            "id": "c2",
+            "text": "that"
+          },
+          {
+            "id": "c3",
+            "text": "looking"
+          }
         ]
       },
-      "correct_answer": "back",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'back' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Which word is an antonym for that?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for that?",
       "options": {
         "choices": [
-          "back",
-          "what",
-          "this"
+          {
+            "id": "c1",
+            "text": "back"
+          },
+          {
+            "id": "c2",
+            "text": "what"
+          },
+          {
+            "id": "c3",
+            "text": "this"
+          }
         ]
       },
-      "correct_answer": "this",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'this' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Which word is an antonym for this?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for this?",
       "options": {
         "choices": [
-          "back",
-          "what",
-          "that"
+          {
+            "id": "c1",
+            "text": "back"
+          },
+          {
+            "id": "c2",
+            "text": "what"
+          },
+          {
+            "id": "c3",
+            "text": "that"
+          }
         ]
       },
-      "correct_answer": "that",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'that' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Which word is an antonym for hello?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for hello?",
       "options": {
         "choices": [
-          "pack",
-          "goodbye",
-          "his"
+          {
+            "id": "c1",
+            "text": "pack"
+          },
+          {
+            "id": "c2",
+            "text": "goodbye"
+          },
+          {
+            "id": "c3",
+            "text": "his"
+          }
         ]
       },
-      "correct_answer": "goodbye",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'goodbye' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which word is an antonym for day?",
       "type": "mcq",
+      "prompt": "Which word is an antonym for day?",
       "options": {
         "choices": [
-          "night",
-          "goodbye",
-          "was"
+          {
+            "id": "c1",
+            "text": "night"
+          },
+          {
+            "id": "c2",
+            "text": "goodbye"
+          },
+          {
+            "id": "c3",
+            "text": "was"
+          }
         ]
       },
-      "correct_answer": "night",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'night' is an antonym for the target word in the question.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     }
   ]

@@ -1,884 +1,1751 @@
 {
   "_source_file": "leve1_eng_real_life.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 51,
-  "exercise": {
-    "slug": "leve1-eng-real-life",
-    "title": "Leve1 Eng Real Life",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 51,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.526Z",
+  "slug": "leve1-eng-real-life",
+  "title": "Leve1 Eng Real Life",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 51,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Watering a plant with a watering can really happens. Water cannot be poured upward into a cloud — that's just pretend.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/1.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/1.png"
+      },
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Pouring kibble into a bowl is how dogs are really fed. Food cannot float and arc through the air on its own.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/2.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/2.png"
+      },
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 2",
-          "image 1",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 2"
+          },
+          {
+            "id": "c2",
+            "text": "image 1"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Pouring juice from a jug into a glass is something that really happens. You can't drink juice through a straw poked straight into a whole orange still growing on a tree.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/3.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/3.png"
+      },
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 2",
-          "image 1",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 2"
+          },
+          {
+            "id": "c2",
+            "text": "image 1"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cars drive on roads — they cannot fly through the sky like an airplane.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/4.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/4.png"
+      },
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "both can happen in real life"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "both can happen in real life"
+          }
         ]
       },
-      "correct_answer": "both can happen in real life",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Plants can be grown outside in garden soil or repotted into containers indoors — both are real ways people plant things.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/5.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/5.png"
+      },
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "both can happen in real life"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "both can happen in real life"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Planting in garden soil outside is how gardening really works. Dumping loose soil straight onto a kitchen floor isn't how planting is really done.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/6.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/6.png"
+      },
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "both can happen in real life"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "both can happen in real life"
+          }
         ]
       },
-      "correct_answer": "both can happen in real life",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Writing at a desk and drawing a silly doodle (even on a pet) are both things kids can really do.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/7.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/7.png"
+      },
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "none of the above",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Bicycles can't fly through the sky, and a giant paper airplane can't really carry a person — neither picture could happen in real life.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/8.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/8.png"
+      },
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Cooking on a kitchen stove is how meals are really made. You can't cook a meal balanced on a car's hood at a charging station.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/9.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/9.png"
+      },
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Swimming in a pool is something people really do. People can't swim or fly freely through the open sky.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/10.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/10.png"
+      },
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ice skating on a frozen lake is a real winter activity. A skateboard cannot fly high up above the clouds.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/11.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/11.png"
+      },
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Eating pizza at a pizzeria is something that really happens. You can't sit down on a cloud in the sky.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/12.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/12.png"
+      },
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sleeping in a cozy bed at home is real. Clouds can't hold up a sleeping animal high in the sky.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/13.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/13.png"
+      },
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Pigs really do love rolling and splashing around in mud. Pigs can't fly through the sky wearing goggles and a cape.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/14.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/14.png"
+      },
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "A bird splashing into a muddy puddle is something that could really happen. A bird can't soar all the way up next to the sun above the clouds.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/15.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/15.png"
+      },
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Doing homework at a desk in a classroom is real. Sitting down to do homework inside a shoe store isn't how it normally happens.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/16.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/16.png"
+      },
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Walking across a wooden bridge in a park is real. Rainbows can't turn into solid paths, and castles can't float in the clouds.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/17.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/17.png"
+      },
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Riding a real horse with a helmet and saddle is something people really do. A giant snail can't be saddled and ridden like a racehorse.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/18.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/18.png"
+      },
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Eating dinner with a fork and knife is real. Horses don't eat crayons, and they can't poke their heads into a room like that.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/19.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/19.png"
+      },
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Eating a normal dinner with a fork and knife is real — and just like the sign says, crayons are made for coloring, not for eating.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/20.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/20.png"
+      },
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Eating a healthy dinner with utensils is real. Crayons are made for coloring, not for eating, so that picture isn't something that should really happen.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/20.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/20.png"
+      },
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Apple trees really do grow apples you can pick. Trees don't grow sneakers like fruit.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/21.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/21.png"
+      },
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "none of the above",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "A huge piano can't balance on a tree branch, and ladybugs can't really sit down and play the piano — neither picture could happen in real life.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/22.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/22.png"
+      },
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Dolphins really do leap out of the ocean. Dolphins can't sit at a school desk and write with a pencil.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/23.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/23.png"
+      },
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "none of the above",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Ladybugs don't sleep tucked into human beds, and they don't sit at school desks writing — neither picture shows something that really happens.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/24.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/24.png"
+      },
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Ladybugs really do rest on leaves. They don't tuck themselves into a human bed with a blanket and pillow.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/25.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/25.png"
+      },
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Playing soccer with a soccer ball on a field is real. You don't play soccer by kicking a bunch of apples around.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/26.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/26.png"
+      },
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Pet birds really do live in birdcages. A bird can't breathe and live submerged underwater inside a fish tank.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/27.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/27.png"
+      },
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "People really do get married at a wedding ceremony like this. Giraffes can't stand up in a tuxedo and gown and get married.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/28.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/28.png"
+      },
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Putting on your own sneakers is something kids really do. Cats can't sit up and slip on high-heeled shoes with their paws.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/29.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/29.png"
+      },
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Painting designs onto your own sneakers is a real craft kids can do. You can't sit on a cloud and paint an actual rainbow into the sky.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/30.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/30.png"
+      },
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Rowing a boat across the ocean near an island is real. You can't row a wooden boat through outer space.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/31.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/31.png"
+      },
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Picking flowers in the forest is something people really do. Pots, pans, and spoons can't float and fly through the air by themselves.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/32.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/32.png"
+      },
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Talking on a telephone is something people really do. A book can't project a glowing, talking alien hologram.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/33.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/33.png"
+      },
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Brushing your teeth at a bathroom sink is real. A sink can't sit on a cloud in the sky with a smiling rainbow waterfall.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/34.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/34.png"
+      },
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sleeping in a cozy bed is something we really do every night. Elephants are far too big and heavy to balance asleep on a tree branch.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/35.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/35.png"
+      },
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Ballet dancers really do practice and perform in a dance studio. An elephant can't stand on one toe in a tutu and dance ballet.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/36.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/36.png"
+      },
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Traveling through an airport with a suitcase is real. An elephant can't ride inside a rocket ship through outer space.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/37.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/37.png"
+      },
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Walking along a path in the forest is something people really do. An elephant can't wear a dress and backpack and ride a school bus to school.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/38.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/38.png"
+      },
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Walking through a shopping mall with shopping bags is real. People can't walk around on the moon without a spacesuit.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/39.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/39.png"
+      },
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Eating spaghetti at a restaurant is something that really happens. You can't sit down and eat a meal on the moon without a spacesuit.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/40.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/40.png"
+      },
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Fishing in a pond and catching a small fish is real. You can't sit on clouds in the night sky and fish from a floating pond.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/41.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/41.png"
+      },
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Fishing off a dock and catching a small fish is something that really happens. You can't reel in a giant marlin leaping out of the water beside a fairytale castle.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/42.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/42.png"
+      },
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Walking into a real cinema to watch a movie is something people do. Mice don't wear dresses and walk into a magical forest cinema.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/43.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/43.png"
+      },
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Riding in a taxi through the city is real. Mice can't wear dresses and ride ponies to the movies.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/44.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/44.png"
+      },
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cooking soup on a stove in a kitchen is real. You can't cook on the moon wearing nothing but a glass bubble helmet.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/45.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/45.png"
+      },
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Riding a pony along a path is something people really do. A snail can't be saddled and ridden like a horse.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/46.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/46.png"
+      },
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Riding a pony near a barn is real. A giant snail can't be ridden with a saddle and reins.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/47.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/47.png"
+      },
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Building a snowman in the snow is something families really do. Horses can't fly with wings, and snowmen can't come alive and wave.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/48.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/48.png"
+      },
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "all of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "all of the above"
+          }
         ]
       },
-      "correct_answer": "image 2",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Feeding real sheep on a farm is something that really happens. Sheep can't sit on a couch holding popcorn buckets like people.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/49.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/49.png"
+      },
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could not happen in real life?</span>",
       "type": "mcq",
+      "prompt": "<div style=\"text-align:center; color:black;\">\n</div><br>\n<span style=\"color:red;\">Which of the following image could not happen in real life?</span>",
       "options": {
         "choices": [
-          "image 1",
-          "image 2",
-          "none of the above"
+          {
+            "id": "c1",
+            "text": "image 1"
+          },
+          {
+            "id": "c2",
+            "text": "image 2"
+          },
+          {
+            "id": "c3",
+            "text": "none of the above"
+          }
         ]
       },
-      "correct_answer": "image 1",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Giraffes live in the savanna and really do eat leaves from trees like this, even by hand at a wildlife park. Polar bears live in the Arctic, not the savanna, so feeding a wild polar bear by hand like a pet is not something that could really happen.",
-      "media": null,
-      "difficulty": 1,
+      "media": {
+        "kind": "image",
+        "path": "questions/level-1/math/level1_real_life/50.webp",
+        "alt": "",
+        "source_path": "../../../image/level1_real_life/50.png"
+      },
       "order_index": 51
     }
-  ]
+  ],
+  "title_needs_review": true
 }

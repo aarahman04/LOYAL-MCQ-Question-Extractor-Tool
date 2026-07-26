@@ -1,1717 +1,2919 @@
 {
   "_source_file": "level_1_eng_adjectives.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "eng-adjectives",
-    "title": "Adjectives",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.538Z",
+  "slug": "eng-adjectives",
+  "title": "Adjectives",
+  "level": "level-1",
+  "subject": "english",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The brown dog is happy.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The brown dog is happy.</span>",
       "options": {
         "choices": [
-          "the",
-          "brown",
-          "is"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "brown"
+          },
+          {
+            "id": "c3",
+            "text": "is"
+          }
         ]
       },
-      "correct_answer": "brown",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Brown' describes the dog. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The small cat is cute.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The small cat is cute.</span>",
       "options": {
         "choices": [
-          "the",
-          "is",
-          "small"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "is"
+          },
+          {
+            "id": "c3",
+            "text": "small"
+          }
         ]
       },
-      "correct_answer": "small",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Small' describes the cat. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see a big dog.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see a big dog.</span>",
       "options": {
         "choices": [
-          "see",
-          "I",
-          "big"
+          {
+            "id": "c1",
+            "text": "see"
+          },
+          {
+            "id": "c2",
+            "text": "I"
+          },
+          {
+            "id": "c3",
+            "text": "big"
+          }
         ]
       },
-      "correct_answer": "big",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Big' describes the dog. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see a small cat.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see a small cat.</span>",
       "options": {
         "choices": [
-          "I",
-          "cat",
-          "small"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "cat"
+          },
+          {
+            "id": "c3",
+            "text": "small"
+          }
         ]
       },
-      "correct_answer": "small",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Small' describes the cat. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see a big cow.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see a big cow.</span>",
       "options": {
         "choices": [
-          "I",
-          "cow",
-          "big"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "cow"
+          },
+          {
+            "id": "c3",
+            "text": "big"
+          }
         ]
       },
-      "correct_answer": "big",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Big' describes the cow. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The black horse is fast.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The black horse is fast.</span>",
       "options": {
         "choices": [
-          "the",
-          "horse",
-          "black"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "horse"
+          },
+          {
+            "id": "c3",
+            "text": "black"
+          }
         ]
       },
-      "correct_answer": "black",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Black' describes the horse. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The fluffy puppy is sleepy.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The fluffy puppy is sleepy.</span>",
       "options": {
         "choices": [
-          "the",
-          "fluffy",
-          "puppy"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "fluffy"
+          },
+          {
+            "id": "c3",
+            "text": "puppy"
+          }
         ]
       },
-      "correct_answer": "fluffy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Fluffy' describes the puppy. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The fluffy cat is sleepy.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The fluffy cat is sleepy.</span>",
       "options": {
         "choices": [
-          "the",
-          "fluffy",
-          "puppy"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "fluffy"
+          },
+          {
+            "id": "c3",
+            "text": "puppy"
+          }
         ]
       },
-      "correct_answer": "fluffy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Fluffy' describes the cat. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The fluffy cat is happy.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The fluffy cat is happy.</span>",
       "options": {
         "choices": [
-          "the",
-          "puppy",
-          "fluffy"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "puppy"
+          },
+          {
+            "id": "c3",
+            "text": "fluffy"
+          }
         ]
       },
-      "correct_answer": "fluffy",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Fluffy' describes the cat. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The gray mouse ran slow.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The gray mouse ran slow.</span>",
       "options": {
         "choices": [
-          "the",
-          "mouse",
-          "gray"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "mouse"
+          },
+          {
+            "id": "c3",
+            "text": "gray"
+          }
         ]
       },
-      "correct_answer": "gray",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Gray' describes the mouse. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The yellow duck is loud.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The yellow duck is loud.</span>",
       "options": {
         "choices": [
-          "yellow",
-          "duck",
-          "is"
+          {
+            "id": "c1",
+            "text": "yellow"
+          },
+          {
+            "id": "c2",
+            "text": "duck"
+          },
+          {
+            "id": "c3",
+            "text": "is"
+          }
         ]
       },
-      "correct_answer": "yellow",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Yellow' describes the duck. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The big bird is singing.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The big bird is singing.</span>",
       "options": {
         "choices": [
-          "big",
-          "is",
-          "the"
+          {
+            "id": "c1",
+            "text": "big"
+          },
+          {
+            "id": "c2",
+            "text": "is"
+          },
+          {
+            "id": "c3",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "big",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Big' describes the bird. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The small bird is singing.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The small bird is singing.</span>",
       "options": {
         "choices": [
-          "small",
-          "bird",
-          "is"
+          {
+            "id": "c1",
+            "text": "small"
+          },
+          {
+            "id": "c2",
+            "text": "bird"
+          },
+          {
+            "id": "c3",
+            "text": "is"
+          }
         ]
       },
-      "correct_answer": "small",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Small' describes the bird. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The quiet bird is singing.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The quiet bird is singing.</span>",
       "options": {
         "choices": [
-          "the",
-          "bird",
-          "quiet"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "bird"
+          },
+          {
+            "id": "c3",
+            "text": "quiet"
+          }
         ]
       },
-      "correct_answer": "quiet",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Quiet' describes the bird. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The funny monkey jumps high.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The funny monkey jumps high.</span>",
       "options": {
         "choices": [
-          "the",
-          "monkey",
-          "funny"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "monkey"
+          },
+          {
+            "id": "c3",
+            "text": "funny"
+          }
         ]
       },
-      "correct_answer": "funny",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Funny' describes the monkey. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The happy monkey jumps down.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The happy monkey jumps down.</span>",
       "options": {
         "choices": [
-          "funny",
-          "the",
-          "monkey",
-          "happy"
+          {
+            "id": "c1",
+            "text": "funny"
+          },
+          {
+            "id": "c2",
+            "text": "the"
+          },
+          {
+            "id": "c3",
+            "text": "monkey"
+          },
+          {
+            "id": "c4",
+            "text": "happy"
+          }
         ]
       },
-      "correct_answer": "happy",
+      "answer_key": {
+        "correct": [
+          "c4"
+        ]
+      },
       "explanation": "'Happy' describes the monkey. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The happy squirrel jumped up.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The happy squirrel jumped up.</span>",
       "options": {
         "choices": [
-          "the",
-          "happy",
-          "squirrel"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "happy"
+          },
+          {
+            "id": "c3",
+            "text": "squirrel"
+          }
         ]
       },
-      "correct_answer": "happy",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Happy' describes the squirrel. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I ate a red apple.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I ate a red apple.</span>",
       "options": {
         "choices": [
-          "I",
-          "red",
-          "apple"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "red"
+          },
+          {
+            "id": "c3",
+            "text": "apple"
+          }
         ]
       },
-      "correct_answer": "red",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Red' describes the apple. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The sweet candy is yummy.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The sweet candy is yummy.</span>",
       "options": {
         "choices": [
-          "the",
-          "sweet",
-          "candy"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "sweet"
+          },
+          {
+            "id": "c3",
+            "text": "candy"
+          }
         ]
       },
-      "correct_answer": "sweet",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Sweet' describes the candy. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The sweet doughnut was yummy.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The sweet doughnut was yummy.</span>",
       "options": {
         "choices": [
-          "the",
-          "doughnut",
-          "sweet"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "doughnut"
+          },
+          {
+            "id": "c3",
+            "text": "sweet"
+          }
         ]
       },
-      "correct_answer": "sweet",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Sweet' describes the doughnut. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I like cold juice.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I like cold juice.</span>",
       "options": {
         "choices": [
-          "I",
-          "like",
-          "cold"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "like"
+          },
+          {
+            "id": "c3",
+            "text": "cold"
+          }
         ]
       },
-      "correct_answer": "cold",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Cold' describes the juice. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>That hot soup was tasty.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>That hot soup was tasty.</span>",
       "options": {
         "choices": [
-          "hot",
-          "soup",
-          "that"
+          {
+            "id": "c1",
+            "text": "hot"
+          },
+          {
+            "id": "c2",
+            "text": "soup"
+          },
+          {
+            "id": "c3",
+            "text": "that"
+          }
         ]
       },
-      "correct_answer": "hot",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Hot' describes the soup. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I want a big muffin.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I want a big muffin.</span>",
       "options": {
         "choices": [
-          "I",
-          "big",
-          "a"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "big"
+          },
+          {
+            "id": "c3",
+            "text": "a"
+          }
         ]
       },
-      "correct_answer": "big",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Big' describes the muffin. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I want a small muffin.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I want a small muffin.</span>",
       "options": {
         "choices": [
-          "I",
-          "small",
-          "muffin"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "small"
+          },
+          {
+            "id": "c3",
+            "text": "muffin"
+          }
         ]
       },
-      "correct_answer": "small",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Small' describes the muffin. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I want a round cookie.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I want a round cookie.</span>",
       "options": {
         "choices": [
-          "I",
-          "a",
-          "round"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "a"
+          },
+          {
+            "id": "c3",
+            "text": "round"
+          }
         ]
       },
-      "correct_answer": "round",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Round' describes the cookie. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The green grapes are soft.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The green grapes are soft.</span>",
       "options": {
         "choices": [
-          "the",
-          "are",
-          "green"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "are"
+          },
+          {
+            "id": "c3",
+            "text": "green"
+          }
         ]
       },
-      "correct_answer": "green",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Green' describes the grapes. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>She eats a big pizza.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>She eats a big pizza.</span>",
       "options": {
         "choices": [
-          "she",
-          "pizza",
-          "big"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "pizza"
+          },
+          {
+            "id": "c3",
+            "text": "big"
+          }
         ]
       },
-      "correct_answer": "big",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Big' describes the pizza. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The fresh bread is warm.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The fresh bread is warm.</span>",
       "options": {
         "choices": [
-          "the",
-          "fresh",
-          "bread"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "fresh"
+          },
+          {
+            "id": "c3",
+            "text": "bread"
+          }
         ]
       },
-      "correct_answer": "fresh",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Fresh' describes the bread. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I buy four cats.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I buy four cats.</span>",
       "options": {
         "choices": [
-          "I",
-          "buy",
-          "four"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "buy"
+          },
+          {
+            "id": "c3",
+            "text": "four"
+          }
         ]
       },
-      "correct_answer": "four",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Four' is a numeral adjective specifying the number of cats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I buy two dogs.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I buy two dogs.</span>",
       "options": {
         "choices": [
-          "I",
-          "two",
-          "dogs"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "two"
+          },
+          {
+            "id": "c3",
+            "text": "dogs"
+          }
         ]
       },
-      "correct_answer": "two",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Two' is a numeral adjective specifying the number of dogs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I buy three birds.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I buy three birds.</span>",
       "options": {
         "choices": [
-          "I",
-          "buy",
-          "three"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "buy"
+          },
+          {
+            "id": "c3",
+            "text": "three"
+          }
         ]
       },
-      "correct_answer": "three",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Three' is a numeral adjective specifying the number of birds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I buy five apples.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I buy five apples.</span>",
       "options": {
         "choices": [
-          "buy",
-          "five",
-          "apples"
+          {
+            "id": "c1",
+            "text": "buy"
+          },
+          {
+            "id": "c2",
+            "text": "five"
+          },
+          {
+            "id": "c3",
+            "text": "apples"
+          }
         ]
       },
-      "correct_answer": "five",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Five' is a numeral adjective specifying the number of apples.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>We got four flashlights.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>We got four flashlights.</span>",
       "options": {
         "choices": [
-          "four",
-          "we",
-          "got"
+          {
+            "id": "c1",
+            "text": "four"
+          },
+          {
+            "id": "c2",
+            "text": "we"
+          },
+          {
+            "id": "c3",
+            "text": "got"
+          }
         ]
       },
-      "correct_answer": "four",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Four' is a numeral adjective specifying the number of flashlights.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>We got five pots.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>We got five pots.</span>",
       "options": {
         "choices": [
-          "we",
-          "got",
-          "five"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "got"
+          },
+          {
+            "id": "c3",
+            "text": "five"
+          }
         ]
       },
-      "correct_answer": "five",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Five' is a numeral adjective specifying the number of pots.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The gray elephant.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The gray elephant.</span>",
       "options": {
         "choices": [
-          "elephant",
-          "gray",
-          "the"
+          {
+            "id": "c1",
+            "text": "elephant"
+          },
+          {
+            "id": "c2",
+            "text": "gray"
+          },
+          {
+            "id": "c3",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "gray",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Gray' describes the elephant. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The pink flamingo.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The pink flamingo.</span>",
       "options": {
         "choices": [
-          "pink",
-          "the",
-          "flamingo"
+          {
+            "id": "c1",
+            "text": "pink"
+          },
+          {
+            "id": "c2",
+            "text": "the"
+          },
+          {
+            "id": "c3",
+            "text": "flamingo"
+          }
         ]
       },
-      "correct_answer": "pink",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Pink' describes the flamingo. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The juicy orange is good.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The juicy orange is good.</span>",
       "options": {
         "choices": [
-          "the",
-          "orange",
-          "juicy"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "orange"
+          },
+          {
+            "id": "c3",
+            "text": "juicy"
+          }
         ]
       },
-      "correct_answer": "juicy",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Juicy' describes the orange. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The large whale.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The large whale.</span>",
       "options": {
         "choices": [
-          "the",
-          "large",
-          "whale"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "large"
+          },
+          {
+            "id": "c3",
+            "text": "whale"
+          }
         ]
       },
-      "correct_answer": "large",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Large' describes the whale. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The blue whale.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The blue whale.</span>",
       "options": {
         "choices": [
-          "the",
-          "whale",
-          "blue"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "whale"
+          },
+          {
+            "id": "c3",
+            "text": "blue"
+          }
         ]
       },
-      "correct_answer": "blue",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Blue' describes the whale. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The white cat.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The white cat.</span>",
       "options": {
         "choices": [
-          "the",
-          "white",
-          "cat"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "white"
+          },
+          {
+            "id": "c3",
+            "text": "cat"
+          }
         ]
       },
-      "correct_answer": "white",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'White' describes the cat. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The sour lemonade.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The sour lemonade.</span>",
       "options": {
         "choices": [
-          "lemonade",
-          "sour",
-          "the"
+          {
+            "id": "c1",
+            "text": "lemonade"
+          },
+          {
+            "id": "c2",
+            "text": "sour"
+          },
+          {
+            "id": "c3",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "sour",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Sour' describes the lemonade. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The brown chocolate was yummy.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The brown chocolate was yummy.</span>",
       "options": {
         "choices": [
-          "the",
-          "brown",
-          "chocolate"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "brown"
+          },
+          {
+            "id": "c3",
+            "text": "chocolate"
+          }
         ]
       },
-      "correct_answer": "brown",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Brown' describes the chocolate. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Grandfather drives an old car.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Grandfather drives an old car.</span>",
       "options": {
         "choices": [
-          "old",
-          "is",
-          "car"
+          {
+            "id": "c1",
+            "text": "old"
+          },
+          {
+            "id": "c2",
+            "text": "is"
+          },
+          {
+            "id": "c3",
+            "text": "car"
+          }
         ]
       },
-      "correct_answer": "old",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Old' describes the car. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Mom drives a white car.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Mom drives a white car.</span>",
       "options": {
         "choices": [
-          "mom",
-          "white",
-          "car"
+          {
+            "id": "c1",
+            "text": "mom"
+          },
+          {
+            "id": "c2",
+            "text": "white"
+          },
+          {
+            "id": "c3",
+            "text": "car"
+          }
         ]
       },
-      "correct_answer": "white",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'White' describes the car. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Sam drives a new car.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Sam drives a new car.</span>",
       "options": {
         "choices": [
-          "Sam",
-          "new",
-          "car"
+          {
+            "id": "c1",
+            "text": "Sam"
+          },
+          {
+            "id": "c2",
+            "text": "new"
+          },
+          {
+            "id": "c3",
+            "text": "car"
+          }
         ]
       },
-      "correct_answer": "new",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'New' describes the car. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Give the baby some toys.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Give the baby some toys.</span>",
       "options": {
         "choices": [
-          "some",
-          "toys",
-          "the"
+          {
+            "id": "c1",
+            "text": "some"
+          },
+          {
+            "id": "c2",
+            "text": "toys"
+          },
+          {
+            "id": "c3",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "some",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Some' is an adjective of quantity describing the toys.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I bought new gloves.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I bought new gloves.</span>",
       "options": {
         "choices": [
-          "bought",
-          "I",
-          "new"
+          {
+            "id": "c1",
+            "text": "bought"
+          },
+          {
+            "id": "c2",
+            "text": "I"
+          },
+          {
+            "id": "c3",
+            "text": "new"
+          }
         ]
       },
-      "correct_answer": "new",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'New' describes the gloves. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I cleaned the old shoes.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I cleaned the old shoes.</span>",
       "options": {
         "choices": [
-          "cleaned",
-          "old",
-          "shoes"
+          {
+            "id": "c1",
+            "text": "cleaned"
+          },
+          {
+            "id": "c2",
+            "text": "old"
+          },
+          {
+            "id": "c3",
+            "text": "shoes"
+          }
         ]
       },
-      "correct_answer": "old",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Old' describes the shoes. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I cleaned the new shoes.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I cleaned the new shoes.</span>",
       "options": {
         "choices": [
-          "new",
-          "shoes",
-          "cleaned"
+          {
+            "id": "c1",
+            "text": "new"
+          },
+          {
+            "id": "c2",
+            "text": "shoes"
+          },
+          {
+            "id": "c3",
+            "text": "cleaned"
+          }
         ]
       },
-      "correct_answer": "new",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'New' describes the shoes. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>He found a new job.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>He found a new job.</span>",
       "options": {
         "choices": [
-          "new",
-          "he",
-          "job"
+          {
+            "id": "c1",
+            "text": "new"
+          },
+          {
+            "id": "c2",
+            "text": "he"
+          },
+          {
+            "id": "c3",
+            "text": "job"
+          }
         ]
       },
-      "correct_answer": "new",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'New' describes the job. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>She found a small apartment.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>She found a small apartment.</span>",
       "options": {
         "choices": [
-          "she",
-          "found",
-          "small"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "found"
+          },
+          {
+            "id": "c3",
+            "text": "small"
+          }
         ]
       },
-      "correct_answer": "small",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Small' describes the apartment. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Mama has a new job.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Mama has a new job.</span>",
       "options": {
         "choices": [
-          "mama",
-          "new",
-          "is"
+          {
+            "id": "c1",
+            "text": "mama"
+          },
+          {
+            "id": "c2",
+            "text": "new"
+          },
+          {
+            "id": "c3",
+            "text": "is"
+          }
         ]
       },
-      "correct_answer": "new",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'New' describes the job. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Mama has blond hair.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Mama has blond hair.</span>",
       "options": {
         "choices": [
-          "mama",
-          "is",
-          "blond"
+          {
+            "id": "c1",
+            "text": "mama"
+          },
+          {
+            "id": "c2",
+            "text": "is"
+          },
+          {
+            "id": "c3",
+            "text": "blond"
+          }
         ]
       },
-      "correct_answer": "blond",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Blond' describes the hair. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Dad has black pants.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Dad has black pants.</span>",
       "options": {
         "choices": [
-          "dad",
-          "is",
-          "black"
+          {
+            "id": "c1",
+            "text": "dad"
+          },
+          {
+            "id": "c2",
+            "text": "is"
+          },
+          {
+            "id": "c3",
+            "text": "black"
+          }
         ]
       },
-      "correct_answer": "black",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Black' describes the pants. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Stop at the red light.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Stop at the red light.</span>",
       "options": {
         "choices": [
-          "red",
-          "light",
-          "is"
+          {
+            "id": "c1",
+            "text": "red"
+          },
+          {
+            "id": "c2",
+            "text": "light"
+          },
+          {
+            "id": "c3",
+            "text": "is"
+          }
         ]
       },
-      "correct_answer": "red",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Red' describes the light. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Look at the blue sky.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Look at the blue sky.</span>",
       "options": {
         "choices": [
-          "look",
-          "at",
-          "blue"
+          {
+            "id": "c1",
+            "text": "look"
+          },
+          {
+            "id": "c2",
+            "text": "at"
+          },
+          {
+            "id": "c3",
+            "text": "blue"
+          }
         ]
       },
-      "correct_answer": "blue",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Blue' describes the sky. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Look at white clouds.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Look at white clouds.</span>",
       "options": {
         "choices": [
-          "at",
-          "white",
-          "clouds"
+          {
+            "id": "c1",
+            "text": "at"
+          },
+          {
+            "id": "c2",
+            "text": "white"
+          },
+          {
+            "id": "c3",
+            "text": "clouds"
+          }
         ]
       },
-      "correct_answer": "white",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'White' describes the clouds. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Look at the round moon.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Look at the round moon.</span>",
       "options": {
         "choices": [
-          "at",
-          "moon",
-          "round"
+          {
+            "id": "c1",
+            "text": "at"
+          },
+          {
+            "id": "c2",
+            "text": "moon"
+          },
+          {
+            "id": "c3",
+            "text": "round"
+          }
         ]
       },
-      "correct_answer": "round",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Round' describes the moon. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The green grass.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The green grass.</span>",
       "options": {
         "choices": [
-          "green",
-          "grass",
-          "the"
+          {
+            "id": "c1",
+            "text": "green"
+          },
+          {
+            "id": "c2",
+            "text": "grass"
+          },
+          {
+            "id": "c3",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "green",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Green' describes the grass. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see the bright stars.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see the bright stars.</span>",
       "options": {
         "choices": [
-          "see",
-          "I",
-          "bright"
+          {
+            "id": "c1",
+            "text": "see"
+          },
+          {
+            "id": "c2",
+            "text": "I"
+          },
+          {
+            "id": "c3",
+            "text": "bright"
+          }
         ]
       },
-      "correct_answer": "bright",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Bright' describes the stars. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Six people came to the school.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Six people came to the school.</span>",
       "options": {
         "choices": [
-          "six",
-          "people",
-          "came"
+          {
+            "id": "c1",
+            "text": "six"
+          },
+          {
+            "id": "c2",
+            "text": "people"
+          },
+          {
+            "id": "c3",
+            "text": "came"
+          }
         ]
       },
-      "correct_answer": "six",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Six' is a numeral adjective specifying the number of people.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Ten people came to the party.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Ten people came to the party.</span>",
       "options": {
         "choices": [
-          "people",
-          "came",
-          "ten"
+          {
+            "id": "c1",
+            "text": "people"
+          },
+          {
+            "id": "c2",
+            "text": "came"
+          },
+          {
+            "id": "c3",
+            "text": "ten"
+          }
         ]
       },
-      "correct_answer": "ten",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Ten' is a numeral adjective specifying the number of people.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Sandy loves all animals.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Sandy loves all animals.</span>",
       "options": {
         "choices": [
-          "sandy",
-          "all",
-          "loves"
+          {
+            "id": "c1",
+            "text": "sandy"
+          },
+          {
+            "id": "c2",
+            "text": "all"
+          },
+          {
+            "id": "c3",
+            "text": "loves"
+          }
         ]
       },
-      "correct_answer": "all",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'All' is an indefinite adjective describing the animals.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Alexandra loves all cats.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Alexandra loves all cats.</span>",
       "options": {
         "choices": [
-          "alexandra",
-          "all",
-          "cats"
+          {
+            "id": "c1",
+            "text": "alexandra"
+          },
+          {
+            "id": "c2",
+            "text": "all"
+          },
+          {
+            "id": "c3",
+            "text": "cats"
+          }
         ]
       },
-      "correct_answer": "all",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'All' is an indefinite adjective describing the cats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see the bright sun.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see the bright sun.</span>",
       "options": {
         "choices": [
-          "see",
-          "bright",
-          "sun"
+          {
+            "id": "c1",
+            "text": "see"
+          },
+          {
+            "id": "c2",
+            "text": "bright"
+          },
+          {
+            "id": "c3",
+            "text": "sun"
+          }
         ]
       },
-      "correct_answer": "bright",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Bright' describes the sun. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see the bright diamond.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see the bright diamond.</span>",
       "options": {
         "choices": [
-          "bright",
-          "see",
-          "the"
+          {
+            "id": "c1",
+            "text": "bright"
+          },
+          {
+            "id": "c2",
+            "text": "see"
+          },
+          {
+            "id": "c3",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "bright",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Bright' describes the diamond. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Many people read.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Many people read.</span>",
       "options": {
         "choices": [
-          "many",
-          "people",
-          "read"
+          {
+            "id": "c1",
+            "text": "many"
+          },
+          {
+            "id": "c2",
+            "text": "people"
+          },
+          {
+            "id": "c3",
+            "text": "read"
+          }
         ]
       },
-      "correct_answer": "many",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Many' is an indefinite adjective describing the people.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The cold wind.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The cold wind.</span>",
       "options": {
         "choices": [
-          "wind",
-          "the",
-          "cold"
+          {
+            "id": "c1",
+            "text": "wind"
+          },
+          {
+            "id": "c2",
+            "text": "the"
+          },
+          {
+            "id": "c3",
+            "text": "cold"
+          }
         ]
       },
-      "correct_answer": "cold",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Cold' describes the wind. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The big tree has apples.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The big tree has apples.</span>",
       "options": {
         "choices": [
-          "the",
-          "tree",
-          "big"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "tree"
+          },
+          {
+            "id": "c3",
+            "text": "big"
+          }
         ]
       },
-      "correct_answer": "big",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Big' describes the tree. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The tall girl sat.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The tall girl sat.</span>",
       "options": {
         "choices": [
-          "the",
-          "tall",
-          "girl"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "tall"
+          },
+          {
+            "id": "c3",
+            "text": "girl"
+          }
         ]
       },
-      "correct_answer": "tall",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Tall' describes the girl. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The tall mountain is far.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The tall mountain is far.</span>",
       "options": {
         "choices": [
-          "the",
-          "tall",
-          "mountain"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "tall"
+          },
+          {
+            "id": "c3",
+            "text": "mountain"
+          }
         ]
       },
-      "correct_answer": "tall",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Tall' describes the mountain. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The warm weather makes me happy.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The warm weather makes me happy.</span>",
       "options": {
         "choices": [
-          "warm",
-          "weather",
-          "the"
+          {
+            "id": "c1",
+            "text": "warm"
+          },
+          {
+            "id": "c2",
+            "text": "weather"
+          },
+          {
+            "id": "c3",
+            "text": "the"
+          }
         ]
       },
-      "correct_answer": "warm",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Warm' describes the weather. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The cute baby cried.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The cute baby cried.</span>",
       "options": {
         "choices": [
-          "the",
-          "cute",
-          "cried"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "cute"
+          },
+          {
+            "id": "c3",
+            "text": "cried"
+          }
         ]
       },
-      "correct_answer": "cute",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Cute' describes the baby. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I use a sharp knife.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I use a sharp knife.</span>",
       "options": {
         "choices": [
-          "use",
-          "sharp",
-          "knife"
+          {
+            "id": "c1",
+            "text": "use"
+          },
+          {
+            "id": "c2",
+            "text": "sharp"
+          },
+          {
+            "id": "c3",
+            "text": "knife"
+          }
         ]
       },
-      "correct_answer": "sharp",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Sharp' describes the knife. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I use a sharp pencil.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I use a sharp pencil.</span>",
       "options": {
         "choices": [
-          "use",
-          "sharp",
-          "pencil"
+          {
+            "id": "c1",
+            "text": "use"
+          },
+          {
+            "id": "c2",
+            "text": "sharp"
+          },
+          {
+            "id": "c3",
+            "text": "pencil"
+          }
         ]
       },
-      "correct_answer": "sharp",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Sharp' describes the pencil. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I have a clean room.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I have a clean room.</span>",
       "options": {
         "choices": [
-          "have",
-          "I",
-          "clean"
+          {
+            "id": "c1",
+            "text": "have"
+          },
+          {
+            "id": "c2",
+            "text": "I"
+          },
+          {
+            "id": "c3",
+            "text": "clean"
+          }
         ]
       },
-      "correct_answer": "clean",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Clean' describes the room. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I have a clean car.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I have a clean car.</span>",
       "options": {
         "choices": [
-          "I",
-          "clean",
-          "car"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "clean"
+          },
+          {
+            "id": "c3",
+            "text": "car"
+          }
         ]
       },
-      "correct_answer": "clean",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Clean' describes the car. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I have a dirty carpet.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I have a dirty carpet.</span>",
       "options": {
         "choices": [
-          "I",
-          "dirty",
-          "carpet"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "dirty"
+          },
+          {
+            "id": "c3",
+            "text": "carpet"
+          }
         ]
       },
-      "correct_answer": "dirty",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Dirty' describes the carpet. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The red bell is mine.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The red bell is mine.</span>",
       "options": {
         "choices": [
-          "the",
-          "bell",
-          "red"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "bell"
+          },
+          {
+            "id": "c3",
+            "text": "red"
+          }
         ]
       },
-      "correct_answer": "red",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Red' describes the bell. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I sit in a soft chair.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I sit in a soft chair.</span>",
       "options": {
         "choices": [
-          "I",
-          "in",
-          "soft"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "in"
+          },
+          {
+            "id": "c3",
+            "text": "soft"
+          }
         ]
       },
-      "correct_answer": "soft",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Soft' describes the chair. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>It is a small town.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>It is a small town.</span>",
       "options": {
         "choices": [
-          "it",
-          "small",
-          "town"
+          {
+            "id": "c1",
+            "text": "it"
+          },
+          {
+            "id": "c2",
+            "text": "small"
+          },
+          {
+            "id": "c3",
+            "text": "town"
+          }
         ]
       },
-      "correct_answer": "small",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Small' describes the town. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The busy office.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The busy office.</span>",
       "options": {
         "choices": [
-          "the",
-          "office",
-          "busy"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "office"
+          },
+          {
+            "id": "c3",
+            "text": "busy"
+          }
         ]
       },
-      "correct_answer": "busy",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Busy' describes the office. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I like the clear water.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I like the clear water.</span>",
       "options": {
         "choices": [
-          "I",
-          "like",
-          "clear"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "like"
+          },
+          {
+            "id": "c3",
+            "text": "clear"
+          }
         ]
       },
-      "correct_answer": "clear",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Clear' describes the water. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>He likes the clear water.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>He likes the clear water.</span>",
       "options": {
         "choices": [
-          "clear",
-          "like",
-          "he"
+          {
+            "id": "c1",
+            "text": "clear"
+          },
+          {
+            "id": "c2",
+            "text": "like"
+          },
+          {
+            "id": "c3",
+            "text": "he"
+          }
         ]
       },
-      "correct_answer": "clear",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Clear' describes the water. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>She likes the clear text.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>She likes the clear text.</span>",
       "options": {
         "choices": [
-          "she",
-          "clear",
-          "text"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "clear"
+          },
+          {
+            "id": "c3",
+            "text": "text"
+          }
         ]
       },
-      "correct_answer": "clear",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Clear' describes the text. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>We ate all the sandwiches.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>We ate all the sandwiches.</span>",
       "options": {
         "choices": [
-          "we",
-          "all",
-          "sandwiches"
+          {
+            "id": "c1",
+            "text": "we"
+          },
+          {
+            "id": "c2",
+            "text": "all"
+          },
+          {
+            "id": "c3",
+            "text": "sandwiches"
+          }
         ]
       },
-      "correct_answer": "all",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'All' is an indefinite adjective describing the sandwiches.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The tall building.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>The tall building.</span>",
       "options": {
         "choices": [
-          "tall",
-          "the",
-          "building"
+          {
+            "id": "c1",
+            "text": "tall"
+          },
+          {
+            "id": "c2",
+            "text": "the"
+          },
+          {
+            "id": "c3",
+            "text": "building"
+          }
         ]
       },
-      "correct_answer": "tall",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Tall' describes the building. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Look at the fluffy rabbit.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Look at the fluffy rabbit.</span>",
       "options": {
         "choices": [
-          "the",
-          "rabbit",
-          "fluffy"
+          {
+            "id": "c1",
+            "text": "the"
+          },
+          {
+            "id": "c2",
+            "text": "rabbit"
+          },
+          {
+            "id": "c3",
+            "text": "fluffy"
+          }
         ]
       },
-      "correct_answer": "fluffy",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Fluffy' describes the rabbit. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Ants have six legs.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Ants have six legs.</span>",
       "options": {
         "choices": [
-          "ants",
-          "six",
-          "have"
+          {
+            "id": "c1",
+            "text": "ants"
+          },
+          {
+            "id": "c2",
+            "text": "six"
+          },
+          {
+            "id": "c3",
+            "text": "have"
+          }
         ]
       },
-      "correct_answer": "six",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Six' is a numeral adjective specifying the number of legs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Sabrine is a good friend.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>Sabrine is a good friend.</span>",
       "options": {
         "choices": [
-          "is",
-          "sabrine",
-          "good"
+          {
+            "id": "c1",
+            "text": "is"
+          },
+          {
+            "id": "c2",
+            "text": "sabrine"
+          },
+          {
+            "id": "c3",
+            "text": "good"
+          }
         ]
       },
-      "correct_answer": "good",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Good' describes the friend. It's the adjective.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see three dinosaurs.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see three dinosaurs.</span>",
       "options": {
         "choices": [
-          "three",
-          "see",
-          "dinosaurs"
+          {
+            "id": "c1",
+            "text": "three"
+          },
+          {
+            "id": "c2",
+            "text": "see"
+          },
+          {
+            "id": "c3",
+            "text": "dinosaurs"
+          }
         ]
       },
-      "correct_answer": "three",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Three' is a numeral adjective specifying the number of dinosaurs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see ten bears.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>I see ten bears.</span>",
       "options": {
         "choices": [
-          "I",
-          "see",
-          "ten"
+          {
+            "id": "c1",
+            "text": "I"
+          },
+          {
+            "id": "c2",
+            "text": "see"
+          },
+          {
+            "id": "c3",
+            "text": "ten"
+          }
         ]
       },
-      "correct_answer": "ten",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Ten' is a numeral adjective specifying the number of bears.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>He sees five lions.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>He sees five lions.</span>",
       "options": {
         "choices": [
-          "he",
-          "lion",
-          "five"
+          {
+            "id": "c1",
+            "text": "he"
+          },
+          {
+            "id": "c2",
+            "text": "lion"
+          },
+          {
+            "id": "c3",
+            "text": "five"
+          }
         ]
       },
-      "correct_answer": "five",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Five' is a numeral adjective specifying the number of lions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>She sees two tigers.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>She sees two tigers.</span>",
       "options": {
         "choices": [
-          "she",
-          "two",
-          "tiger"
+          {
+            "id": "c1",
+            "text": "she"
+          },
+          {
+            "id": "c2",
+            "text": "two"
+          },
+          {
+            "id": "c3",
+            "text": "tiger"
+          }
         ]
       },
-      "correct_answer": "two",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'Two' is a numeral adjective specifying the number of tigers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>They eat four hamburgers.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>They eat four hamburgers.</span>",
       "options": {
         "choices": [
-          "they",
-          "hamburgers",
-          "four"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "hamburgers"
+          },
+          {
+            "id": "c3",
+            "text": "four"
+          }
         ]
       },
-      "correct_answer": "four",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Four' is a numeral adjective specifying the number of hamburgers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>They carry eight bags.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>They carry eight bags.</span>",
       "options": {
         "choices": [
-          "they",
-          "carry",
-          "eight"
+          {
+            "id": "c1",
+            "text": "they"
+          },
+          {
+            "id": "c2",
+            "text": "carry"
+          },
+          {
+            "id": "c3",
+            "text": "eight"
+          }
         ]
       },
-      "correct_answer": "eight",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "'Eight' is a numeral adjective specifying the number of bags.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>We have eleven cars.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>We have eleven cars.</span>",
       "options": {
         "choices": [
-          "eleven",
-          "cars",
-          "we"
+          {
+            "id": "c1",
+            "text": "eleven"
+          },
+          {
+            "id": "c2",
+            "text": "cars"
+          },
+          {
+            "id": "c3",
+            "text": "we"
+          }
         ]
       },
-      "correct_answer": "eleven",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'Eleven' is a numeral adjective specifying the number of cars.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>All oranges grow on trees.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>All oranges grow on trees.</span>",
       "options": {
         "choices": [
-          "all",
-          "oranges",
-          "on"
+          {
+            "id": "c1",
+            "text": "all"
+          },
+          {
+            "id": "c2",
+            "text": "oranges"
+          },
+          {
+            "id": "c3",
+            "text": "on"
+          }
         ]
       },
-      "correct_answer": "all",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'All' is an indefinite adjective describing the oranges.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>All cows produce milk.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>All cows produce milk.</span>",
       "options": {
         "choices": [
-          "cows",
-          "all",
-          "milk"
+          {
+            "id": "c1",
+            "text": "cows"
+          },
+          {
+            "id": "c2",
+            "text": "all"
+          },
+          {
+            "id": "c3",
+            "text": "milk"
+          }
         ]
       },
-      "correct_answer": "all",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "'All' is an indefinite adjective describing the cows.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>All the boys went to the library.</span>",
       "type": "mcq",
+      "prompt": "Identify the adjective in the sentence. <br> <span style='color:black;'>All the boys went to the library.</span>",
       "options": {
         "choices": [
-          "all",
-          "the",
-          "boys"
+          {
+            "id": "c1",
+            "text": "all"
+          },
+          {
+            "id": "c2",
+            "text": "the"
+          },
+          {
+            "id": "c3",
+            "text": "boys"
+          }
         ]
       },
-      "correct_answer": "all",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "'All' acts as a predeterminer/adjective referencing the full group of boys.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

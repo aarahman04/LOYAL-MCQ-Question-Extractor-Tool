@@ -1,1710 +1,2891 @@
 {
   "_source_file": "level1_sci_organs.html",
-  "_extracted_at": "2026-07-22T09:52:19.335Z",
-  "_quiz_type_detected": "mcq",
-  "_question_count": 100,
-  "exercise": {
-    "slug": "sci-organs",
-    "title": "Organs",
-    "quiz_type": "mcq",
-    "questions_per_attempt": 25,
-    "total_questions": 100,
-    "is_free": false,
-    "order_index": 0
-  },
+  "_extracted_at": "2026-07-22T08:45:04.558Z",
+  "slug": "sci-organs",
+  "title": "Organs",
+  "level": "level-1",
+  "subject": "science",
+  "quiz_type": "mcq",
+  "questions_per_attempt": 25,
+  "total_questions": 100,
+  "shuffle": "question",
+  "is_free": false,
+  "order_index": 0,
   "questions": [
     {
       "slug": "q001",
-      "prompt": "Which organ pumps blood through your body?",
       "type": "mcq",
+      "prompt": "Which organ pumps blood through your body?",
       "options": {
         "choices": [
-          "brain",
-          "heart",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "brain"
+          },
+          {
+            "id": "c2",
+            "text": "heart"
+          },
+          {
+            "id": "c3",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "heart",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The heart pumps blood throughout the body.",
       "media": null,
-      "difficulty": 1,
       "order_index": 1
     },
     {
       "slug": "q002",
-      "prompt": "Which organ helps you think?",
       "type": "mcq",
+      "prompt": "Which organ helps you think?",
       "options": {
         "choices": [
-          "brain",
-          "lungs",
-          "liver"
+          {
+            "id": "c1",
+            "text": "brain"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "liver"
+          }
         ]
       },
-      "correct_answer": "brain",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The brain controls thinking and decision-making.",
       "media": null,
-      "difficulty": 1,
       "order_index": 2
     },
     {
       "slug": "q003",
-      "prompt": "Which organ helps you breathe air?",
       "type": "mcq",
+      "prompt": "Which organ helps you breathe air?",
       "options": {
         "choices": [
-          "heart",
-          "lungs",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "heart"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "lungs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The lungs help you inhale and exhale air.",
       "media": null,
-      "difficulty": 1,
       "order_index": 3
     },
     {
       "slug": "q004",
-      "prompt": "Which organ helps you digest food?",
       "type": "mcq",
+      "prompt": "Which organ helps you digest food?",
       "options": {
         "choices": [
-          "eyes",
-          "stomach",
-          "ears"
+          {
+            "id": "c1",
+            "text": "eyes"
+          },
+          {
+            "id": "c2",
+            "text": "stomach"
+          },
+          {
+            "id": "c3",
+            "text": "ears"
+          }
         ]
       },
-      "correct_answer": "stomach",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The stomach digests food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 4
     },
     {
       "slug": "q005",
-      "prompt": "Which organ helps you see?",
       "type": "mcq",
+      "prompt": "Which organ helps you see?",
       "options": {
         "choices": [
-          "heart",
-          "brain",
-          "eyes"
+          {
+            "id": "c1",
+            "text": "heart"
+          },
+          {
+            "id": "c2",
+            "text": "brain"
+          },
+          {
+            "id": "c3",
+            "text": "eyes"
+          }
         ]
       },
-      "correct_answer": "eyes",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Eyes allow us to see.",
       "media": null,
-      "difficulty": 1,
       "order_index": 5
     },
     {
       "slug": "q006",
-      "prompt": "Which organ helps you hear sounds?",
       "type": "mcq",
+      "prompt": "Which organ helps you hear sounds?",
       "options": {
         "choices": [
-          "ears",
-          "lungs",
-          "skin"
+          {
+            "id": "c1",
+            "text": "ears"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "skin"
+          }
         ]
       },
-      "correct_answer": "ears",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Ears help detect sounds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 6
     },
     {
       "slug": "q007",
-      "prompt": "Which organ helps you smell things?",
       "type": "mcq",
+      "prompt": "Which organ helps you smell things?",
       "options": {
         "choices": [
-          "nose",
-          "mouth",
-          "hand"
+          {
+            "id": "c1",
+            "text": "nose"
+          },
+          {
+            "id": "c2",
+            "text": "mouth"
+          },
+          {
+            "id": "c3",
+            "text": "hand"
+          }
         ]
       },
-      "correct_answer": "nose",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The nose helps you smell.",
       "media": null,
-      "difficulty": 1,
       "order_index": 7
     },
     {
       "slug": "q008",
-      "prompt": "Which organ helps you taste food?",
       "type": "mcq",
+      "prompt": "Which organ helps you taste food?",
       "options": {
         "choices": [
-          "nose",
-          "tongue",
-          "eye"
+          {
+            "id": "c1",
+            "text": "nose"
+          },
+          {
+            "id": "c2",
+            "text": "tongue"
+          },
+          {
+            "id": "c3",
+            "text": "eye"
+          }
         ]
       },
-      "correct_answer": "tongue",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The tongue helps in tasting food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 8
     },
     {
       "slug": "q009",
-      "prompt": "Which organ covers and protects your body?",
       "type": "mcq",
+      "prompt": "Which organ covers and protects your body?",
       "options": {
         "choices": [
-          "skin",
-          "stomach",
-          "lungs"
+          {
+            "id": "c1",
+            "text": "skin"
+          },
+          {
+            "id": "c2",
+            "text": "stomach"
+          },
+          {
+            "id": "c3",
+            "text": "lungs"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The skin covers and protects your body.",
       "media": null,
-      "difficulty": 1,
       "order_index": 9
     },
     {
       "slug": "q010",
-      "prompt": "Which organ cleans your blood?",
       "type": "mcq",
+      "prompt": "Which organ cleans your blood?",
       "options": {
         "choices": [
-          "kidney",
-          "ear",
-          "tongue"
+          {
+            "id": "c1",
+            "text": "kidney"
+          },
+          {
+            "id": "c2",
+            "text": "ear"
+          },
+          {
+            "id": "c3",
+            "text": "tongue"
+          }
         ]
       },
-      "correct_answer": "kidney",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Kidneys filter and clean the blood.",
       "media": null,
-      "difficulty": 1,
       "order_index": 10
     },
     {
       "slug": "q011",
-      "prompt": "Which organ holds food after you eat?",
       "type": "mcq",
+      "prompt": "Which organ holds food after you eat?",
       "options": {
         "choices": [
-          "lungs",
-          "stomach",
-          "brain"
+          {
+            "id": "c1",
+            "text": "lungs"
+          },
+          {
+            "id": "c2",
+            "text": "stomach"
+          },
+          {
+            "id": "c3",
+            "text": "brain"
+          }
         ]
       },
-      "correct_answer": "stomach",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The stomach holds and breaks down food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 11
     },
     {
       "slug": "q012",
-      "prompt": "Which organ controls the whole body?",
       "type": "mcq",
+      "prompt": "Which organ controls the whole body?",
       "options": {
         "choices": [
-          "lungs",
-          "heart",
-          "brain"
+          {
+            "id": "c1",
+            "text": "lungs"
+          },
+          {
+            "id": "c2",
+            "text": "heart"
+          },
+          {
+            "id": "c3",
+            "text": "brain"
+          }
         ]
       },
-      "correct_answer": "brain",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The brain controls all body functions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 12
     },
     {
       "slug": "q013",
-      "prompt": "Which organ helps you breathe out air?",
       "type": "mcq",
+      "prompt": "Which organ helps you breathe out air?",
       "options": {
         "choices": [
-          "lungs",
-          "eyes",
-          "tongue"
+          {
+            "id": "c1",
+            "text": "lungs"
+          },
+          {
+            "id": "c2",
+            "text": "eyes"
+          },
+          {
+            "id": "c3",
+            "text": "tongue"
+          }
         ]
       },
-      "correct_answer": "lungs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Lungs help you inhale and exhale.",
       "media": null,
-      "difficulty": 1,
       "order_index": 13
     },
     {
       "slug": "q014",
-      "prompt": "Which organ beats all the time?",
       "type": "mcq",
+      "prompt": "Which organ beats all the time?",
       "options": {
         "choices": [
-          "stomach",
-          "heart",
-          "ears"
+          {
+            "id": "c1",
+            "text": "stomach"
+          },
+          {
+            "id": "c2",
+            "text": "heart"
+          },
+          {
+            "id": "c3",
+            "text": "ears"
+          }
         ]
       },
-      "correct_answer": "heart",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The heart beats continuously.",
       "media": null,
-      "difficulty": 1,
       "order_index": 14
     },
     {
       "slug": "q015",
-      "prompt": "Which organ helps you feel touch?",
       "type": "mcq",
+      "prompt": "Which organ helps you feel touch?",
       "options": {
         "choices": [
-          "skin",
-          "nose",
-          "eyes"
+          {
+            "id": "c1",
+            "text": "skin"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "eyes"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The skin senses touch.",
       "media": null,
-      "difficulty": 1,
       "order_index": 15
     },
     {
       "slug": "q016",
-      "prompt": "Which organ is inside your head?",
       "type": "mcq",
+      "prompt": "Which organ is inside your head?",
       "options": {
         "choices": [
-          "heart",
-          "brain",
-          "kidney"
+          {
+            "id": "c1",
+            "text": "heart"
+          },
+          {
+            "id": "c2",
+            "text": "brain"
+          },
+          {
+            "id": "c3",
+            "text": "kidney"
+          }
         ]
       },
-      "correct_answer": "brain",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The brain is inside the skull.",
       "media": null,
-      "difficulty": 1,
       "order_index": 16
     },
     {
       "slug": "q017",
-      "prompt": "Which organ helps you balance?",
       "type": "mcq",
+      "prompt": "Which organ helps you balance?",
       "options": {
         "choices": [
-          "ear",
-          "skin",
-          "tongue"
+          {
+            "id": "c1",
+            "text": "ear"
+          },
+          {
+            "id": "c2",
+            "text": "skin"
+          },
+          {
+            "id": "c3",
+            "text": "tongue"
+          }
         ]
       },
-      "correct_answer": "ear",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Inner ears help maintain balance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 17
     },
     {
       "slug": "q018",
-      "prompt": "Which organ helps you breathe oxygen?",
       "type": "mcq",
+      "prompt": "Which organ helps you breathe oxygen?",
       "options": {
         "choices": [
-          "brain",
-          "lungs",
-          "nose"
+          {
+            "id": "c1",
+            "text": "brain"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "nose"
+          }
         ]
       },
-      "correct_answer": "lungs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The lungs absorb oxygen from the air.",
       "media": null,
-      "difficulty": 1,
       "order_index": 18
     },
     {
       "slug": "q019",
-      "prompt": "Which organ is used for smelling?",
       "type": "mcq",
+      "prompt": "Which organ is used for smelling?",
       "options": {
         "choices": [
-          "tongue",
-          "nose",
-          "eye"
+          {
+            "id": "c1",
+            "text": "tongue"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "eye"
+          }
         ]
       },
-      "correct_answer": "nose",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The nose is used to smell things.",
       "media": null,
-      "difficulty": 1,
       "order_index": 19
     },
     {
       "slug": "q020",
-      "prompt": "Which organ protects your body from germs?",
       "type": "mcq",
+      "prompt": "Which organ protects your body from germs?",
       "options": {
         "choices": [
-          "skin",
-          "lungs",
-          "heart"
+          {
+            "id": "c1",
+            "text": "skin"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "heart"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Skin acts as the first protective barrier.",
       "media": null,
-      "difficulty": 1,
       "order_index": 20
     },
     {
       "slug": "q021",
-      "prompt": "Which organ is shaped like a bean?",
       "type": "mcq",
+      "prompt": "Which organ is shaped like a bean?",
       "options": {
         "choices": [
-          "kidney",
-          "stomach",
-          "lungs"
+          {
+            "id": "c1",
+            "text": "kidney"
+          },
+          {
+            "id": "c2",
+            "text": "stomach"
+          },
+          {
+            "id": "c3",
+            "text": "lungs"
+          }
         ]
       },
-      "correct_answer": "kidney",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The kidneys are bean-shaped organs that filter fluid.",
       "media": null,
-      "difficulty": 1,
       "order_index": 21
     },
     {
       "slug": "q022",
-      "prompt": "Which organ helps you talk?",
       "type": "mcq",
+      "prompt": "Which organ helps you talk?",
       "options": {
         "choices": [
-          "heart",
-          "lungs",
-          "tongue"
+          {
+            "id": "c1",
+            "text": "heart"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "tongue"
+          }
         ]
       },
-      "correct_answer": "tongue",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The tongue helps modulate sounds to form words.",
       "media": null,
-      "difficulty": 1,
       "order_index": 22
     },
     {
       "slug": "q023",
-      "prompt": "Which organ helps you chew food?",
       "type": "mcq",
+      "prompt": "Which organ helps you chew food?",
       "options": {
         "choices": [
-          "teeth",
-          "eyes",
-          "ears"
+          {
+            "id": "c1",
+            "text": "teeth"
+          },
+          {
+            "id": "c2",
+            "text": "eyes"
+          },
+          {
+            "id": "c3",
+            "text": "ears"
+          }
         ]
       },
-      "correct_answer": "teeth",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Teeth break down pieces of food physically.",
       "media": null,
-      "difficulty": 1,
       "order_index": 23
     },
     {
       "slug": "q024",
-      "prompt": "Which organ helps you blink?",
       "type": "mcq",
+      "prompt": "Which organ helps you blink?",
       "options": {
         "choices": [
-          "eyes",
-          "tongue",
-          "nose"
+          {
+            "id": "c1",
+            "text": "eyes"
+          },
+          {
+            "id": "c2",
+            "text": "tongue"
+          },
+          {
+            "id": "c3",
+            "text": "nose"
+          }
         ]
       },
-      "correct_answer": "eyes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Blinking is a protective mechanism managed by eye structures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 24
     },
     {
       "slug": "q025",
-      "prompt": "Which organ holds air when you breathe?",
       "type": "mcq",
+      "prompt": "Which organ holds air when you breathe?",
       "options": {
         "choices": [
-          "stomach",
-          "lungs",
-          "kidneys"
+          {
+            "id": "c1",
+            "text": "stomach"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "kidneys"
+          }
         ]
       },
-      "correct_answer": "lungs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Lungs expand as they fill up with inhaled atmospheric air.",
       "media": null,
-      "difficulty": 1,
       "order_index": 25
     },
     {
       "slug": "q026",
-      "prompt": "Which organ sends messages to the rest of the body?",
       "type": "mcq",
+      "prompt": "Which organ sends messages to the rest of the body?",
       "options": {
         "choices": [
-          "brain",
-          "lungs",
-          "heart"
+          {
+            "id": "c1",
+            "text": "brain"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "heart"
+          }
         ]
       },
-      "correct_answer": "brain",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The central nervous system uses the brain to dispatch regulatory signals.",
       "media": null,
-      "difficulty": 1,
       "order_index": 26
     },
     {
       "slug": "q027",
-      "prompt": "Which organ helps you swallow food?",
       "type": "mcq",
+      "prompt": "Which organ helps you swallow food?",
       "options": {
         "choices": [
-          "throat",
-          "eyes",
-          "lungs"
+          {
+            "id": "c1",
+            "text": "throat"
+          },
+          {
+            "id": "c2",
+            "text": "eyes"
+          },
+          {
+            "id": "c3",
+            "text": "lungs"
+          }
         ]
       },
-      "correct_answer": "throat",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The throat guides chewed food bundles safely down into your digestive tract.",
       "media": null,
-      "difficulty": 1,
       "order_index": 27
     },
     {
       "slug": "q028",
-      "prompt": "Which organ helps you feel hot and cold?",
       "type": "mcq",
+      "prompt": "Which organ helps you feel hot and cold?",
       "options": {
         "choices": [
-          "skin",
-          "brain",
-          "heart"
+          {
+            "id": "c1",
+            "text": "skin"
+          },
+          {
+            "id": "c2",
+            "text": "brain"
+          },
+          {
+            "id": "c3",
+            "text": "heart"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Thermoreceptors inside the skin surface monitor surrounding temperatures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 28
     },
     {
       "slug": "q029",
-      "prompt": "Which organ helps you jump and run?",
       "type": "mcq",
+      "prompt": "Which organ helps you jump and run?",
       "options": {
         "choices": [
-          "brain",
-          "muscles",
-          "eyes"
+          {
+            "id": "c1",
+            "text": "brain"
+          },
+          {
+            "id": "c2",
+            "text": "muscles"
+          },
+          {
+            "id": "c3",
+            "text": "eyes"
+          }
         ]
       },
-      "correct_answer": "muscles",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Muscles pull on skeletal elements to initiate jump and sprint sequences.",
       "media": null,
-      "difficulty": 1,
       "order_index": 29
     },
     {
       "slug": "q030",
-      "prompt": "Which organ has chambers?",
       "type": "mcq",
+      "prompt": "Which organ has chambers?",
       "options": {
         "choices": [
-          "heart",
-          "nose",
-          "ear"
+          {
+            "id": "c1",
+            "text": "heart"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "ear"
+          }
         ]
       },
-      "correct_answer": "heart",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The human heart uses four distinct structural chambers to handle blood flow vectors.",
       "media": null,
-      "difficulty": 1,
       "order_index": 30
     },
     {
       "slug": "q031",
-      "prompt": "Which organ lets you look around?",
       "type": "mcq",
+      "prompt": "Which organ lets you look around?",
       "options": {
         "choices": [
-          "eyes",
-          "lungs",
-          "kidney"
+          {
+            "id": "c1",
+            "text": "eyes"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "kidney"
+          }
         ]
       },
-      "correct_answer": "eyes",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Dynamic optical movements of the eyes trace surrounding landscapes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 31
     },
     {
       "slug": "q032",
-      "prompt": "Which organ helps you feel pain?",
       "type": "mcq",
+      "prompt": "Which organ helps you feel pain?",
       "options": {
         "choices": [
-          "skin",
-          "heart",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "skin"
+          },
+          {
+            "id": "c2",
+            "text": "heart"
+          },
+          {
+            "id": "c3",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Nociceptors inside the skin signal discomfort warnings to the brain.",
       "media": null,
-      "difficulty": 1,
       "order_index": 32
     },
     {
       "slug": "q033",
-      "prompt": "Which organ helps you remember things?",
       "type": "mcq",
+      "prompt": "Which organ helps you remember things?",
       "options": {
         "choices": [
-          "nose",
-          "lungs",
-          "brain"
+          {
+            "id": "c1",
+            "text": "nose"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "brain"
+          }
         ]
       },
-      "correct_answer": "brain",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Memory storage and cognitive recall happen within complex cerebral networks.",
       "media": null,
-      "difficulty": 1,
       "order_index": 33
     },
     {
       "slug": "q034",
-      "prompt": "Which organ helps you make faces?",
       "type": "mcq",
+      "prompt": "Which organ helps you make faces?",
       "options": {
         "choices": [
-          "muscles",
-          "stomach",
-          "kidneys"
+          {
+            "id": "c1",
+            "text": "muscles"
+          },
+          {
+            "id": "c2",
+            "text": "stomach"
+          },
+          {
+            "id": "c3",
+            "text": "kidneys"
+          }
         ]
       },
-      "correct_answer": "muscles",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Facial expressions are created by tiny muscles shifting skin layers dynamically.",
       "media": null,
-      "difficulty": 1,
       "order_index": 34
     },
     {
       "slug": "q035",
-      "prompt": "Which organ sends blood to your body?",
       "type": "mcq",
+      "prompt": "Which organ sends blood to your body?",
       "options": {
         "choices": [
-          "heart",
-          "eyes",
-          "tongue"
+          {
+            "id": "c1",
+            "text": "heart"
+          },
+          {
+            "id": "c2",
+            "text": "eyes"
+          },
+          {
+            "id": "c3",
+            "text": "tongue"
+          }
         ]
       },
-      "correct_answer": "heart",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The muscular engine of the heart generates fluid pressures to push blood along.",
       "media": null,
-      "difficulty": 1,
       "order_index": 35
     },
     {
       "slug": "q036",
-      "prompt": "Which organ helps air enter your body?",
       "type": "mcq",
+      "prompt": "Which organ helps air enter your body?",
       "options": {
         "choices": [
-          "nose",
-          "heart",
-          "skin"
+          {
+            "id": "c1",
+            "text": "nose"
+          },
+          {
+            "id": "c2",
+            "text": "heart"
+          },
+          {
+            "id": "c3",
+            "text": "skin"
+          }
         ]
       },
-      "correct_answer": "nose",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The nasal cavity opens directly into internal breathing paths.",
       "media": null,
-      "difficulty": 1,
       "order_index": 36
     },
     {
       "slug": "q037",
-      "prompt": "Which organ holds your food for digestion?",
       "type": "mcq",
+      "prompt": "Which organ holds your food for digestion?",
       "options": {
         "choices": [
-          "heart",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "heart"
+          },
+          {
+            "id": "c2",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "stomach",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The stomach acts as an initial reservoir where chemical breakdown processes start.",
       "media": null,
-      "difficulty": 1,
       "order_index": 37
     },
     {
       "slug": "q038",
-      "prompt": "Which organ is the largest organ of the body?",
       "type": "mcq",
+      "prompt": "Which organ is the largest organ of the body?",
       "options": {
         "choices": [
-          "lungs",
-          "skin",
-          "heart"
+          {
+            "id": "c1",
+            "text": "lungs"
+          },
+          {
+            "id": "c2",
+            "text": "skin"
+          },
+          {
+            "id": "c3",
+            "text": "heart"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The continuous surface layer of skin forms our largest sensory organ boundary.",
       "media": null,
-      "difficulty": 1,
       "order_index": 38
     },
     {
       "slug": "q039",
-      "prompt": "Which organ helps you smell flowers?",
       "type": "mcq",
+      "prompt": "Which organ helps you smell flowers?",
       "options": {
         "choices": [
-          "eyes",
-          "tongue",
-          "nose"
+          {
+            "id": "c1",
+            "text": "eyes"
+          },
+          {
+            "id": "c2",
+            "text": "tongue"
+          },
+          {
+            "id": "c3",
+            "text": "nose"
+          }
         ]
       },
-      "correct_answer": "nose",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Olfactory receptors nested inside your nose detect floral compounds.",
       "media": null,
-      "difficulty": 1,
       "order_index": 39
     },
     {
       "slug": "q040",
-      "prompt": "Which organ helps keep your body warm?",
       "type": "mcq",
+      "prompt": "Which organ helps keep your body warm?",
       "options": {
         "choices": [
-          "skin",
-          "lungs",
-          "ears"
+          {
+            "id": "c1",
+            "text": "skin"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "ears"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Skin layers limit rapid core heat loss through insulating fats and vessels.",
       "media": null,
-      "difficulty": 1,
       "order_index": 40
     },
     {
       "slug": "q041",
-      "prompt": "Which organ helps you blink and see light?",
       "type": "mcq",
+      "prompt": "Which organ helps you blink and see light?",
       "options": {
         "choices": [
-          "nose",
-          "lungs",
-          "eyes"
+          {
+            "id": "c1",
+            "text": "nose"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "eyes"
+          }
         ]
       },
-      "correct_answer": "eyes",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Retinal receptors inside your eyes process visual light waves.",
       "media": null,
-      "difficulty": 1,
       "order_index": 41
     },
     {
       "slug": "q042",
-      "prompt": "Which organ makes your heartbeat fast when you run?",
       "type": "mcq",
+      "prompt": "Which organ makes your heartbeat fast when you run?",
       "options": {
         "choices": [
-          "tongue",
-          "heart",
-          "ear"
+          {
+            "id": "c1",
+            "text": "tongue"
+          },
+          {
+            "id": "c2",
+            "text": "heart"
+          },
+          {
+            "id": "c3",
+            "text": "ear"
+          }
         ]
       },
-      "correct_answer": "heart",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Running safely forces your heart to pick up speed to oxygenate tissues.",
       "media": null,
-      "difficulty": 1,
       "order_index": 42
     },
     {
       "slug": "q043",
-      "prompt": "Which organ helps you talk and sing?",
       "type": "mcq",
+      "prompt": "Which organ helps you talk and sing?",
       "options": {
         "choices": [
-          "voice box",
-          "brain",
-          "kidney"
+          {
+            "id": "c1",
+            "text": "voice box"
+          },
+          {
+            "id": "c2",
+            "text": "brain"
+          },
+          {
+            "id": "c3",
+            "text": "kidney"
+          }
         ]
       },
-      "correct_answer": "voice box",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Air moving past vocal cords inside the larynx or voice box enables singing.",
       "media": null,
-      "difficulty": 1,
       "order_index": 43
     },
     {
       "slug": "q044",
-      "prompt": "Which organ is used to breathe and smell?",
       "type": "mcq",
+      "prompt": "Which organ is used to breathe and smell?",
       "options": {
         "choices": [
-          "eyes",
-          "nose",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "eyes"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "nose",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The nose serves dual functions for breathing and scent identification.",
       "media": null,
-      "difficulty": 1,
       "order_index": 44
     },
     {
       "slug": "q045",
-      "prompt": "Which organ helps clean the blood?",
       "type": "mcq",
+      "prompt": "Which organ helps clean the blood?",
       "options": {
         "choices": [
-          "kidney",
-          "skin",
-          "ear"
+          {
+            "id": "c1",
+            "text": "kidney"
+          },
+          {
+            "id": "c2",
+            "text": "skin"
+          },
+          {
+            "id": "c3",
+            "text": "ear"
+          }
         ]
       },
-      "correct_answer": "kidney",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Kidneys continuously clean cellular waste mixtures out of active blood flow paths.",
       "media": null,
-      "difficulty": 1,
       "order_index": 45
     },
     {
       "slug": "q046",
-      "prompt": "Which organ helps your body stay straight?",
       "type": "mcq",
+      "prompt": "Which organ helps your body stay straight?",
       "options": {
         "choices": [
-          "spine",
-          "tongue",
-          "lungs"
+          {
+            "id": "c1",
+            "text": "spine"
+          },
+          {
+            "id": "c2",
+            "text": "tongue"
+          },
+          {
+            "id": "c3",
+            "text": "lungs"
+          }
         ]
       },
-      "correct_answer": "spine",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Your central skeletal backbone spine column holds up an erect posture.",
       "media": null,
-      "difficulty": 1,
       "order_index": 46
     },
     {
       "slug": "q047",
-      "prompt": "Which organ helps you feel sharp or dull objects?",
       "type": "mcq",
+      "prompt": "Which organ helps you feel sharp or dull objects?",
       "options": {
         "choices": [
-          "skin",
-          "lungs",
-          "tongue"
+          {
+            "id": "c1",
+            "text": "skin"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "tongue"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Tactile touch entities inside your skin determine structure sharpness instantly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 47
     },
     {
       "slug": "q048",
-      "prompt": "Which organ helps you bend your arm?",
       "type": "mcq",
+      "prompt": "Which organ helps you bend your arm?",
       "options": {
         "choices": [
-          "muscles",
-          "lungs",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "muscles"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "muscles",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Arm flexion movements use bicep muscle shortening strokes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 48
     },
     {
       "slug": "q049",
-      "prompt": "Which organ helps you stretch your legs?",
       "type": "mcq",
+      "prompt": "Which organ helps you stretch your legs?",
       "options": {
         "choices": [
-          "muscles",
-          "ears",
-          "kidney"
+          {
+            "id": "c1",
+            "text": "muscles"
+          },
+          {
+            "id": "c2",
+            "text": "ears"
+          },
+          {
+            "id": "c3",
+            "text": "kidney"
+          }
         ]
       },
-      "correct_answer": "muscles",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Leg extensions require targeted muscle flexing and stretching efforts.",
       "media": null,
-      "difficulty": 1,
       "order_index": 49
     },
     {
       "slug": "q050",
-      "prompt": "Which organ helps the body store food for a little while?",
       "type": "mcq",
+      "prompt": "Which organ helps the body store food for a little while?",
       "options": {
         "choices": [
-          "stomach",
-          "eye",
-          "lung"
+          {
+            "id": "c1",
+            "text": "stomach"
+          },
+          {
+            "id": "c2",
+            "text": "eye"
+          },
+          {
+            "id": "c3",
+            "text": "lung"
+          }
         ]
       },
-      "correct_answer": "stomach",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The stomach expands temporarily to contain recently swallowed meal portions.",
       "media": null,
-      "difficulty": 1,
       "order_index": 50
     },
     {
       "slug": "q051",
-      "prompt": "Which organ is part of your breathing system?",
       "type": "mcq",
+      "prompt": "Which organ is part of your breathing system?",
       "options": {
         "choices": [
-          "tongue",
-          "lungs",
-          "ear"
+          {
+            "id": "c1",
+            "text": "tongue"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "ear"
+          }
         ]
       },
-      "correct_answer": "lungs",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Lungs handle primary tasks in the human respiratory system layout.",
       "media": null,
-      "difficulty": 1,
       "order_index": 51
     },
     {
       "slug": "q052",
-      "prompt": "Which organ helps your body stay cool by sweating?",
       "type": "mcq",
+      "prompt": "Which organ helps your body stay cool by sweating?",
       "options": {
         "choices": [
-          "brain",
-          "skin",
-          "nose"
+          {
+            "id": "c1",
+            "text": "brain"
+          },
+          {
+            "id": "c2",
+            "text": "skin"
+          },
+          {
+            "id": "c3",
+            "text": "nose"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Sweat glands across the skin release moisture droplets to drop thermal loads.",
       "media": null,
-      "difficulty": 1,
       "order_index": 52
     },
     {
       "slug": "q053",
-      "prompt": "Which organ sits behind your ribs on the left side?",
       "type": "mcq",
+      "prompt": "Which organ sits behind your ribs on the left side?",
       "options": {
         "choices": [
-          "heart",
-          "kidneys",
-          "throat"
+          {
+            "id": "c1",
+            "text": "heart"
+          },
+          {
+            "id": "c2",
+            "text": "kidneys"
+          },
+          {
+            "id": "c3",
+            "text": "throat"
+          }
         ]
       },
-      "correct_answer": "heart",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The human heart sits nestled behind your rib cage slightly shifted leftward.",
       "media": null,
-      "difficulty": 1,
       "order_index": 53
     },
     {
       "slug": "q054",
-      "prompt": "Which organ helps you blink when dust gets in your eyes?",
       "type": "mcq",
+      "prompt": "Which organ helps you blink when dust gets in your eyes?",
       "options": {
         "choices": [
-          "heart",
-          "muscles",
-          "eyelids"
+          {
+            "id": "c1",
+            "text": "heart"
+          },
+          {
+            "id": "c2",
+            "text": "muscles"
+          },
+          {
+            "id": "c3",
+            "text": "eyelids"
+          }
         ]
       },
-      "correct_answer": "eyelids",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Eyelids rapidly snap shut automatically to deflect tiny drifting dust particles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 54
     },
     {
       "slug": "q055",
-      "prompt": "Which organ helps protect your lungs?",
       "type": "mcq",
+      "prompt": "Which organ helps protect your lungs?",
       "options": {
         "choices": [
-          "ribs",
-          "teeth",
-          "ears"
+          {
+            "id": "c1",
+            "text": "ribs"
+          },
+          {
+            "id": "c2",
+            "text": "teeth"
+          },
+          {
+            "id": "c3",
+            "text": "ears"
+          }
         ]
       },
-      "correct_answer": "ribs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Hard rib bones wrap completely around the chest cavity to safeguard soft tissue.",
       "media": null,
-      "difficulty": 1,
       "order_index": 55
     },
     {
       "slug": "q056",
-      "prompt": "Which organ helps you take big breaths?",
       "type": "mcq",
+      "prompt": "Which organ helps you take big breaths?",
       "options": {
         "choices": [
-          "tongue",
-          "diaphragm"
+          {
+            "id": "c1",
+            "text": "tongue"
+          },
+          {
+            "id": "c2",
+            "text": "diaphragm"
+          }
         ]
       },
-      "correct_answer": "diaphragm",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The diaphragm muscle sheets pull low down to draw wide breath inputs easily.",
       "media": null,
-      "difficulty": 1,
       "order_index": 56
     },
     {
       "slug": "q057",
-      "prompt": "Which organ helps you keep your posture?",
       "type": "mcq",
+      "prompt": "Which organ helps you keep your posture?",
       "options": {
         "choices": [
-          "lungs",
-          "nose",
-          "spine"
+          {
+            "id": "c1",
+            "text": "lungs"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "spine"
+          }
         ]
       },
-      "correct_answer": "spine",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The stack layout of vertebral elements in the spine supports structural balance.",
       "media": null,
-      "difficulty": 1,
       "order_index": 57
     },
     {
       "slug": "q058",
-      "prompt": "Which organ helps you bend your knees?",
       "type": "mcq",
+      "prompt": "Which organ helps you bend your knees?",
       "options": {
         "choices": [
-          "muscles",
-          "tongue",
-          "kidney"
+          {
+            "id": "c1",
+            "text": "muscles"
+          },
+          {
+            "id": "c2",
+            "text": "tongue"
+          },
+          {
+            "id": "c3",
+            "text": "kidney"
+          }
         ]
       },
-      "correct_answer": "muscles",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Knee joint shifts require muscle groups across your upper leg to flex.",
       "media": null,
-      "difficulty": 1,
       "order_index": 58
     },
     {
       "slug": "q059",
-      "prompt": "Which organ helps move your head?",
       "type": "mcq",
+      "prompt": "Which organ helps move your head?",
       "options": {
         "choices": [
-          "spine",
-          "nose",
-          "ear"
+          {
+            "id": "c1",
+            "text": "spine"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "ear"
+          }
         ]
       },
-      "correct_answer": "spine",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Cervical regions of the spine support head articulation changes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 59
     },
     {
       "slug": "q060",
-      "prompt": "Which organ helps remove waste through sweat?",
       "type": "mcq",
+      "prompt": "Which organ helps remove waste through sweat?",
       "options": {
         "choices": [
-          "lungs",
-          "skin",
-          "ears"
+          {
+            "id": "c1",
+            "text": "lungs"
+          },
+          {
+            "id": "c2",
+            "text": "skin"
+          },
+          {
+            "id": "c3",
+            "text": "ears"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The skin acts as an excretory path to lift minor chemical residues out via sweat.",
       "media": null,
-      "difficulty": 1,
       "order_index": 60
     },
     {
       "slug": "q061",
-      "prompt": "Which organ helps you say words clearly?",
       "type": "mcq",
+      "prompt": "Which organ helps you say words clearly?",
       "options": {
         "choices": [
-          "eyes",
-          "kidney",
-          "tongue"
+          {
+            "id": "c1",
+            "text": "eyes"
+          },
+          {
+            "id": "c2",
+            "text": "kidney"
+          },
+          {
+            "id": "c3",
+            "text": "tongue"
+          }
         ]
       },
-      "correct_answer": "tongue",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The tongue shapes acoustic profiles cleanly into crisp spoken syllables.",
       "media": null,
-      "difficulty": 1,
       "order_index": 61
     },
     {
       "slug": "q062",
-      "prompt": "Which organ is needed for chewing and talking?",
       "type": "mcq",
+      "prompt": "Which organ is needed for chewing and talking?",
       "options": {
         "choices": [
-          "jaw",
-          "spine",
-          "ribs"
+          {
+            "id": "c1",
+            "text": "jaw"
+          },
+          {
+            "id": "c2",
+            "text": "spine"
+          },
+          {
+            "id": "c3",
+            "text": "ribs"
+          }
         ]
       },
-      "correct_answer": "jaw",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Movable jaw mechanics enable physical food grinding and clear speech modulations.",
       "media": null,
-      "difficulty": 1,
       "order_index": 62
     },
     {
       "slug": "q063",
-      "prompt": "Which organ helps you digest fruits and vegetables?",
       "type": "mcq",
+      "prompt": "Which organ helps you digest fruits and vegetables?",
       "options": {
         "choices": [
-          "eyes",
-          "lungs",
-          "intestines"
+          {
+            "id": "c1",
+            "text": "eyes"
+          },
+          {
+            "id": "c2",
+            "text": "lungs"
+          },
+          {
+            "id": "c3",
+            "text": "intestines"
+          }
         ]
       },
-      "correct_answer": "intestines",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "The intestinal pipeline absorbs complex nutrients out from fruit and vegetable structures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 63
     },
     {
       "slug": "q064",
-      "prompt": "Which organ helps protect your heart?",
       "type": "mcq",
+      "prompt": "Which organ helps protect your heart?",
       "options": {
         "choices": [
-          "ribs",
-          "tongue",
-          "kidney"
+          {
+            "id": "c1",
+            "text": "ribs"
+          },
+          {
+            "id": "c2",
+            "text": "tongue"
+          },
+          {
+            "id": "c3",
+            "text": "kidney"
+          }
         ]
       },
-      "correct_answer": "ribs",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Bony ribs form a highly resilient protective cage armor shield around your heart.",
       "media": null,
-      "difficulty": 1,
       "order_index": 64
     },
     {
       "slug": "q065",
-      "prompt": "Which organ works with muscles to help you walk?",
       "type": "mcq",
+      "prompt": "Which organ works with muscles to help you walk?",
       "options": {
         "choices": [
-          "stomach",
-          "ear",
-          "spine"
+          {
+            "id": "c1",
+            "text": "stomach"
+          },
+          {
+            "id": "c2",
+            "text": "ear"
+          },
+          {
+            "id": "c3",
+            "text": "spine"
+          }
         ]
       },
-      "correct_answer": "spine",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Your spine links core physical balances needed to navigate walking vectors safely.",
       "media": null,
-      "difficulty": 1,
       "order_index": 65
     },
     {
       "slug": "q066",
-      "prompt": "Which organ helps you lift things?",
       "type": "mcq",
+      "prompt": "Which organ helps you lift things?",
       "options": {
         "choices": [
-          "muscles",
-          "eyes",
-          "nose"
+          {
+            "id": "c1",
+            "text": "muscles"
+          },
+          {
+            "id": "c2",
+            "text": "eyes"
+          },
+          {
+            "id": "c3",
+            "text": "nose"
+          }
         ]
       },
-      "correct_answer": "muscles",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Lifting physical objects involves raw contractile force adjustments from skeletal muscles.",
       "media": null,
-      "difficulty": 1,
       "order_index": 66
     },
     {
       "slug": "q067",
-      "prompt": "Which organ helps you feel rain on your arm?",
       "type": "mcq",
+      "prompt": "Which organ helps you feel rain on your arm?",
       "options": {
         "choices": [
-          "teeth",
-          "tongue",
-          "skin"
+          {
+            "id": "c1",
+            "text": "teeth"
+          },
+          {
+            "id": "c2",
+            "text": "tongue"
+          },
+          {
+            "id": "c3",
+            "text": "skin"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Cool liquid impacts track down cleanly along surface receptors in your skin.",
       "media": null,
-      "difficulty": 1,
       "order_index": 67
     },
     {
       "slug": "q068",
-      "prompt": "Which organ helps you feel itchy?",
       "type": "mcq",
+      "prompt": "Which organ helps you feel itchy?",
       "options": {
         "choices": [
-          "lungs",
-          "skin",
-          "throat"
+          {
+            "id": "c1",
+            "text": "lungs"
+          },
+          {
+            "id": "c2",
+            "text": "skin"
+          },
+          {
+            "id": "c3",
+            "text": "throat"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Localized chemical shifts ignite irritation paths across your skin layers.",
       "media": null,
-      "difficulty": 1,
       "order_index": 68
     },
     {
       "slug": "q069",
-      "prompt": "Which organ helps move messages through the body quickly?",
       "type": "mcq",
+      "prompt": "Which organ helps move messages through the body quickly?",
       "options": {
         "choices": [
-          "nerves",
-          "nose",
-          "kidney"
+          {
+            "id": "c1",
+            "text": "nerves"
+          },
+          {
+            "id": "c2",
+            "text": "nose"
+          },
+          {
+            "id": "c3",
+            "text": "kidney"
+          }
         ]
       },
-      "correct_answer": "nerves",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Electrical spikes rush data smoothly down narrow internal nerve pipelines.",
       "media": null,
-      "difficulty": 1,
       "order_index": 69
     },
     {
       "slug": "q070",
-      "prompt": "Which organ helps you hear loud banging sounds?",
       "type": "mcq",
+      "prompt": "Which organ helps you hear loud banging sounds?",
       "options": {
         "choices": [
-          "ears",
-          "throat",
-          "skin"
+          {
+            "id": "c1",
+            "text": "ears"
+          },
+          {
+            "id": "c2",
+            "text": "throat"
+          },
+          {
+            "id": "c3",
+            "text": "skin"
+          }
         ]
       },
-      "correct_answer": "ears",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Extreme pressure variations map into distinct acoustic responses inside your ears.",
       "media": null,
-      "difficulty": 1,
       "order_index": 70
     },
     {
       "slug": "q071",
-      "prompt": "Which organ helps protect your spine?",
       "type": "mcq",
+      "prompt": "Which organ helps protect your spine?",
       "options": {
         "choices": [
-          "eyes",
-          "kidneys",
-          "muscles"
+          {
+            "id": "c1",
+            "text": "eyes"
+          },
+          {
+            "id": "c2",
+            "text": "kidneys"
+          },
+          {
+            "id": "c3",
+            "text": "muscles"
+          }
         ]
       },
-      "correct_answer": "muscles",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Strong structural back muscle setups support and stabilize delicate spinal columns.",
       "media": null,
-      "difficulty": 1,
       "order_index": 71
     },
     {
       "slug": "q072",
-      "prompt": "Which organ helps your body get rid of urine?",
       "type": "mcq",
+      "prompt": "Which organ helps your body get rid of urine?",
       "options": {
         "choices": [
-          "lungs",
-          "bladder"
+          {
+            "id": "c1",
+            "text": "lungs"
+          },
+          {
+            "id": "c2",
+            "text": "bladder"
+          }
         ]
       },
-      "correct_answer": "bladder",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The muscular bladder expands to contain liquid waste before safe elimination.",
       "media": null,
-      "difficulty": 1,
       "order_index": 72
     },
     {
       "slug": "q073",
-      "prompt": "Which organ helps your body move food after swallowing?",
       "type": "mcq",
+      "prompt": "Which organ helps your body move food after swallowing?",
       "options": {
         "choices": [
-          "eyes",
-          "esophagus",
-          "lungs"
+          {
+            "id": "c1",
+            "text": "eyes"
+          },
+          {
+            "id": "c2",
+            "text": "esophagus"
+          },
+          {
+            "id": "c3",
+            "text": "lungs"
+          }
         ]
       },
-      "correct_answer": "esophagus",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The muscular esophagus tubes carry food bundles straight down to stomach entry zones.",
       "media": null,
-      "difficulty": 1,
       "order_index": 73
     },
     {
       "slug": "q074",
-      "prompt": "Which organ helps you hold your head up?",
       "type": "mcq",
+      "prompt": "Which organ helps you hold your head up?",
       "options": {
         "choices": [
-          "tongue",
-          "spine"
+          {
+            "id": "c1",
+            "text": "tongue"
+          },
+          {
+            "id": "c2",
+            "text": "spine"
+          }
         ]
       },
-      "correct_answer": "spine",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The upper structural column segments of your spine carry the physical weight of your head.",
       "media": null,
-      "difficulty": 1,
       "order_index": 74
     },
     {
       "slug": "q075",
-      "prompt": "Which organ helps you breathe faster when scared?",
       "type": "mcq",
+      "prompt": "Which organ helps you breathe faster when scared?",
       "options": {
         "choices": [
-          "tongue",
-          "ear",
-          "lungs"
+          {
+            "id": "c1",
+            "text": "tongue"
+          },
+          {
+            "id": "c2",
+            "text": "ear"
+          },
+          {
+            "id": "c3",
+            "text": "lungs"
+          }
         ]
       },
-      "correct_answer": "lungs",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Adrenaline floods trigger your lungs to speed up respiration rates under threat states.",
       "media": null,
-      "difficulty": 1,
       "order_index": 75
     },
     {
       "slug": "q076",
-      "prompt": "Which organ helps you feel something crawling on your arm?",
       "type": "mcq",
+      "prompt": "Which organ helps you feel something crawling on your arm?",
       "options": {
         "choices": [
-          "skin",
-          "eye"
+          {
+            "id": "c1",
+            "text": "skin"
+          },
+          {
+            "id": "c2",
+            "text": "eye"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Sensitive micro-hairs and superficial nerve nets on your skin register tiny external shifts.",
       "media": null,
-      "difficulty": 1,
       "order_index": 76
     },
     {
       "slug": "q077",
-      "prompt": "Which organ helps your arms bend and straighten?",
       "type": "mcq",
+      "prompt": "Which organ helps your arms bend and straighten?",
       "options": {
         "choices": [
-          "muscles",
-          "tongue",
-          "ribs"
+          {
+            "id": "c1",
+            "text": "muscles"
+          },
+          {
+            "id": "c2",
+            "text": "tongue"
+          },
+          {
+            "id": "c3",
+            "text": "ribs"
+          }
         ]
       },
-      "correct_answer": "muscles",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Opposing muscular configurations handle standard arm extension choices.",
       "media": null,
-      "difficulty": 1,
       "order_index": 77
     },
     {
       "slug": "q078",
-      "prompt": "Which organ helps you feel when something is too hot?",
       "type": "mcq",
+      "prompt": "Which organ helps you feel when something is too hot?",
       "options": {
         "choices": [
-          "lungs",
-          "skin"
+          {
+            "id": "c1",
+            "text": "lungs"
+          },
+          {
+            "id": "c2",
+            "text": "skin"
+          }
         ]
       },
-      "correct_answer": "skin",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Thermal alarm triggers inside the skin quickly verify dangerous extreme temperatures.",
       "media": null,
-      "difficulty": 1,
       "order_index": 78
     },
     {
       "slug": "q079",
-      "prompt": "Which body part makes your skeleton?",
       "type": "mcq",
+      "prompt": "Which body part makes your skeleton?",
       "options": {
         "choices": [
-          "stomach",
-          "bones",
-          "intestines"
+          {
+            "id": "c1",
+            "text": "stomach"
+          },
+          {
+            "id": "c2",
+            "text": "bones"
+          },
+          {
+            "id": "c3",
+            "text": "intestines"
+          }
         ]
       },
-      "correct_answer": "bones",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The solid internal scaffolding structure of our body is composed of individual bones.",
       "media": null,
-      "difficulty": 1,
       "order_index": 79
     },
     {
       "slug": "q080",
-      "prompt": "Which body part squeezes and mixes your food?",
       "type": "mcq",
+      "prompt": "Which body part squeezes and mixes your food?",
       "options": {
         "choices": [
-          "nose",
-          "bones",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "nose"
+          },
+          {
+            "id": "c2",
+            "text": "bones"
+          },
+          {
+            "id": "c3",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "stomach",
+      "answer_key": {
+        "correct": [
+          "c3"
+        ]
+      },
       "explanation": "Muscular peristalsis contractions enable the stomach to churn and mix foods.",
       "media": null,
-      "difficulty": 1,
       "order_index": 80
     },
     {
       "slug": "q081",
-      "prompt": "Which body part takes nutrients from the food?",
       "type": "mcq",
+      "prompt": "Which body part takes nutrients from the food?",
       "options": {
         "choices": [
-          "intestines",
-          "bones",
-          "throat"
+          {
+            "id": "c1",
+            "text": "intestines"
+          },
+          {
+            "id": "c2",
+            "text": "bones"
+          },
+          {
+            "id": "c3",
+            "text": "throat"
+          }
         ]
       },
-      "correct_answer": "intestines",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The highly vascular intestinal layers pull key vitamins and fuels out from parsed food.",
       "media": null,
-      "difficulty": 1,
       "order_index": 81
     },
     {
       "slug": "q082",
-      "prompt": "Which body part is soft and helps digest food?",
       "type": "mcq",
+      "prompt": "Which body part is soft and helps digest food?",
       "options": {
         "choices": [
-          "bones",
-          "stomach",
-          "skin"
+          {
+            "id": "c1",
+            "text": "bones"
+          },
+          {
+            "id": "c2",
+            "text": "stomach"
+          },
+          {
+            "id": "c3",
+            "text": "skin"
+          }
         ]
       },
-      "correct_answer": "stomach",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The stomach presents flexible soft lining arrays engineered to coordinate chemical digestion.",
       "media": null,
-      "difficulty": 1,
       "order_index": 82
     },
     {
       "slug": "q083",
-      "prompt": "Which body part is long and windy inside your belly?",
       "type": "mcq",
+      "prompt": "Which body part is long and windy inside your belly?",
       "options": {
         "choices": [
-          "intestines",
-          "bones",
-          "lungs"
+          {
+            "id": "c1",
+            "text": "intestines"
+          },
+          {
+            "id": "c2",
+            "text": "bones"
+          },
+          {
+            "id": "c3",
+            "text": "lungs"
+          }
         ]
       },
-      "correct_answer": "intestines",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The long, coiled loops of the intestines sit packed tightly inside your abdominal space.",
       "media": null,
-      "difficulty": 1,
       "order_index": 83
     },
     {
       "slug": "q084",
-      "prompt": "Which body part protects your body like a strong frame?",
       "type": "mcq",
+      "prompt": "Which body part protects your body like a strong frame?",
       "options": {
         "choices": [
-          "bones",
-          "stomach",
-          "intestines"
+          {
+            "id": "c1",
+            "text": "bones"
+          },
+          {
+            "id": "c2",
+            "text": "stomach"
+          },
+          {
+            "id": "c3",
+            "text": "intestines"
+          }
         ]
       },
-      "correct_answer": "bones",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Bones constitute the rigid structural armature that holds up basic bodily mass.",
       "media": null,
-      "difficulty": 1,
       "order_index": 84
     },
     {
       "slug": "q085",
-      "prompt": "Which body part turns food into mush?",
       "type": "mcq",
+      "prompt": "Which body part turns food into mush?",
       "options": {
         "choices": [
-          "stomach",
-          "bones",
-          "ear"
+          {
+            "id": "c1",
+            "text": "stomach"
+          },
+          {
+            "id": "c2",
+            "text": "bones"
+          },
+          {
+            "id": "c3",
+            "text": "ear"
+          }
         ]
       },
-      "correct_answer": "stomach",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Gastric juices combine with churning actions inside the stomach to dissolve meals into chyme mush.",
       "media": null,
-      "difficulty": 1,
       "order_index": 85
     },
     {
       "slug": "q086",
-      "prompt": "Which body part is made of many pieces?",
       "type": "mcq",
+      "prompt": "Which body part is made of many pieces?",
       "options": {
         "choices": [
-          "bones",
-          "stomach",
-          "intestines"
+          {
+            "id": "c1",
+            "text": "bones"
+          },
+          {
+            "id": "c2",
+            "text": "stomach"
+          },
+          {
+            "id": "c3",
+            "text": "intestines"
+          }
         ]
       },
-      "correct_answer": "bones",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The complete human adult skeletal assembly contains more than 200 distinct bones.",
       "media": null,
-      "difficulty": 1,
       "order_index": 86
     },
     {
       "slug": "q087",
-      "prompt": "Which body part helps push waste out of the body?",
       "type": "mcq",
+      "prompt": "Which body part helps push waste out of the body?",
       "options": {
         "choices": [
-          "stomach",
-          "large intestine",
-          "bones"
+          {
+            "id": "c1",
+            "text": "stomach"
+          },
+          {
+            "id": "c2",
+            "text": "large intestine"
+          },
+          {
+            "id": "c3",
+            "text": "bones"
+          }
         ]
       },
-      "correct_answer": "large intestine",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The large intestine processes remaining unabsorbed materials toward final evacuation steps.",
       "media": null,
-      "difficulty": 1,
       "order_index": 87
     },
     {
       "slug": "q088",
-      "prompt": "Which body part is very long if stretched out?",
       "type": "mcq",
+      "prompt": "Which body part is very long if stretched out?",
       "options": {
         "choices": [
-          "bones",
-          "intestines",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "bones"
+          },
+          {
+            "id": "c2",
+            "text": "intestines"
+          },
+          {
+            "id": "c3",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "intestines",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Stretching out total intestinal line lengths yields multiple meters of digestive path.",
       "media": null,
-      "difficulty": 1,
       "order_index": 88
     },
     {
       "slug": "q089",
-      "prompt": "Which body part helps protect your inside organs?",
       "type": "mcq",
+      "prompt": "Which body part helps protect your inside organs?",
       "options": {
         "choices": [
-          "bones",
-          "intestines",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "bones"
+          },
+          {
+            "id": "c2",
+            "text": "intestines"
+          },
+          {
+            "id": "c3",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "bones",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Rigid structures like the skull and rib bones securely encapsulate vital organs.",
       "media": null,
-      "difficulty": 1,
       "order_index": 89
     },
     {
       "slug": "q090",
-      "prompt": "Which body part breaks down food before it goes to the intestines?",
       "type": "mcq",
+      "prompt": "Which body part breaks down food before it goes to the intestines?",
       "options": {
         "choices": [
-          "stomach",
-          "bones",
-          "eyes"
+          {
+            "id": "c1",
+            "text": "stomach"
+          },
+          {
+            "id": "c2",
+            "text": "bones"
+          },
+          {
+            "id": "c3",
+            "text": "eyes"
+          }
         ]
       },
-      "correct_answer": "stomach",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The stomach prepares materials step-by-step before shifting them down into the intestines.",
       "media": null,
-      "difficulty": 1,
       "order_index": 90
     },
     {
       "slug": "q091",
-      "prompt": "Which body part holds your ribs in place to protect the stomach?",
       "type": "mcq",
+      "prompt": "Which body part holds your ribs in place to protect the stomach?",
       "options": {
         "choices": [
-          "bones",
-          "intestines",
-          "skin"
+          {
+            "id": "c1",
+            "text": "bones"
+          },
+          {
+            "id": "c2",
+            "text": "intestines"
+          },
+          {
+            "id": "c3",
+            "text": "skin"
+          }
         ]
       },
-      "correct_answer": "bones",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Bony articulations along your spine and breastbone secure your ribs tightly.",
       "media": null,
-      "difficulty": 1,
       "order_index": 91
     },
     {
       "slug": "q092",
-      "prompt": "Which intestine is longer?",
       "type": "mcq",
+      "prompt": "Which intestine is longer?",
       "options": {
         "choices": [
-          "large intestine",
-          "small intestine",
-          "neither"
+          {
+            "id": "c1",
+            "text": "large intestine"
+          },
+          {
+            "id": "c2",
+            "text": "small intestine"
+          },
+          {
+            "id": "c3",
+            "text": "neither"
+          }
         ]
       },
-      "correct_answer": "small intestine",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The small intestine is significantly longer than the large intestine, despite its narrow width.",
       "media": null,
-      "difficulty": 1,
       "order_index": 92
     },
     {
       "slug": "q093",
-      "prompt": "Which intestine is wider?",
       "type": "mcq",
+      "prompt": "Which intestine is wider?",
       "options": {
         "choices": [
-          "large intestine",
-          "small intestine",
-          "both"
+          {
+            "id": "c1",
+            "text": "large intestine"
+          },
+          {
+            "id": "c2",
+            "text": "small intestine"
+          },
+          {
+            "id": "c3",
+            "text": "both"
+          }
         ]
       },
-      "correct_answer": "large intestine",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The large intestine gets its name from its much larger luminal width profile.",
       "media": null,
-      "difficulty": 1,
       "order_index": 93
     },
     {
       "slug": "q094",
-      "prompt": "Which intestine takes nutrients from food?",
       "type": "mcq",
+      "prompt": "Which intestine takes nutrients from food?",
       "options": {
         "choices": [
-          "large intestine",
-          "small intestine",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "large intestine"
+          },
+          {
+            "id": "c2",
+            "text": "small intestine"
+          },
+          {
+            "id": "c3",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "small intestine",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Most chemical nutrient absorption takes place along the villi structures of the small intestine.",
       "media": null,
-      "difficulty": 1,
       "order_index": 94
     },
     {
       "slug": "q095",
-      "prompt": "Which intestine comes first after the stomach?",
       "type": "mcq",
+      "prompt": "Which intestine comes first after the stomach?",
       "options": {
         "choices": [
-          "large intestine",
-          "small intestine",
-          "none"
+          {
+            "id": "c1",
+            "text": "large intestine"
+          },
+          {
+            "id": "c2",
+            "text": "small intestine"
+          },
+          {
+            "id": "c3",
+            "text": "none"
+          }
         ]
       },
-      "correct_answer": "small intestine",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "Food exiting the stomach via the pyloric valve moves into the small intestine first.",
       "media": null,
-      "difficulty": 1,
       "order_index": 95
     },
     {
       "slug": "q096",
-      "prompt": "Which intestine absorbs water?",
       "type": "mcq",
+      "prompt": "Which intestine absorbs water?",
       "options": {
         "choices": [
-          "large intestine",
-          "small intestine",
-          "bones"
+          {
+            "id": "c1",
+            "text": "large intestine"
+          },
+          {
+            "id": "c2",
+            "text": "small intestine"
+          },
+          {
+            "id": "c3",
+            "text": "bones"
+          }
         ]
       },
-      "correct_answer": "large intestine",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The large intestine absorbs remaining water contents, compacting liquid residues into solid formats.",
       "media": null,
-      "difficulty": 1,
       "order_index": 96
     },
     {
       "slug": "q097",
-      "prompt": "Which intestine is very long and thin?",
       "type": "mcq",
+      "prompt": "Which intestine is very long and thin?",
       "options": {
         "choices": [
-          "large intestine",
-          "small intestine",
-          "esophagus"
+          {
+            "id": "c1",
+            "text": "large intestine"
+          },
+          {
+            "id": "c2",
+            "text": "small intestine"
+          },
+          {
+            "id": "c3",
+            "text": "esophagus"
+          }
         ]
       },
-      "correct_answer": "small intestine",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The small intestine features narrow tubing channels paired with extensive physical length attributes.",
       "media": null,
-      "difficulty": 1,
       "order_index": 97
     },
     {
       "slug": "q098",
-      "prompt": "Which intestine is shorter but thicker?",
       "type": "mcq",
+      "prompt": "Which intestine is shorter but thicker?",
       "options": {
         "choices": [
-          "small intestine",
-          "large intestine",
-          "stomach"
+          {
+            "id": "c1",
+            "text": "small intestine"
+          },
+          {
+            "id": "c2",
+            "text": "large intestine"
+          },
+          {
+            "id": "c3",
+            "text": "stomach"
+          }
         ]
       },
-      "correct_answer": "large intestine",
+      "answer_key": {
+        "correct": [
+          "c2"
+        ]
+      },
       "explanation": "The large intestine presents a short, wide tracking design that frames your lower abdomen.",
       "media": null,
-      "difficulty": 1,
       "order_index": 98
     },
     {
       "slug": "q099",
-      "prompt": "Which intestine sends the food to the large intestine?",
       "type": "mcq",
+      "prompt": "Which intestine sends the food to the large intestine?",
       "options": {
         "choices": [
-          "small intestine",
-          "throat",
-          "lungs"
+          {
+            "id": "c1",
+            "text": "small intestine"
+          },
+          {
+            "id": "c2",
+            "text": "throat"
+          },
+          {
+            "id": "c3",
+            "text": "lungs"
+          }
         ]
       },
-      "correct_answer": "small intestine",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "Once extraction steps finish, the small intestine moves processed material to the large intestine.",
       "media": null,
-      "difficulty": 1,
       "order_index": 99
     },
     {
       "slug": "q100",
-      "prompt": "Which intestine helps your body get energy from food?",
       "type": "mcq",
+      "prompt": "Which intestine helps your body get energy from food?",
       "options": {
         "choices": [
-          "small intestine",
-          "large intestine",
-          "skin"
+          {
+            "id": "c1",
+            "text": "small intestine"
+          },
+          {
+            "id": "c2",
+            "text": "large intestine"
+          },
+          {
+            "id": "c3",
+            "text": "skin"
+          }
         ]
       },
-      "correct_answer": "small intestine",
+      "answer_key": {
+        "correct": [
+          "c1"
+        ]
+      },
       "explanation": "The small intestine extracts carbohydrate, protein, and fat fuel parts into your blood to yield metabolic energy.",
       "media": null,
-      "difficulty": 1,
       "order_index": 100
     }
   ]

@@ -23,6 +23,7 @@ const fs = require("fs");
 const path = require("path");
 const vm = require("vm");
 const core = require("./lib/core");
+const transform = require("./lib/transform");
 
 // ----- vm-based array evaluator ---------------------------------------------
 
@@ -88,27 +89,35 @@ function listHtmlFiles(input) {
 // ----- CLI args -------------------------------------------------------------
 
 function parseArgs(argv) {
-  const args = { input: null, out: "output", stripHtml: false, pretty: true };
+  const args = { input: null, out: "output", stripHtml: false, pretty: true, format: "v2" };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     if (a === "-o" || a === "--out") args.out = argv[++i];
     else if (a === "--strip-html") args.stripHtml = true;
     else if (a === "--no-pretty") args.pretty = false;
+    else if (a === "--no-alt") args.noAlt = true;
+    else if (a === "--format") args.format = String(argv[++i] || "").toLowerCase();
+    else if (a === "--v1" || a === "--legacy") args.format = "v1";
     else if (a === "-h" || a === "--help") args.help = true;
     else if (!args.input) args.input = a;
   }
   return args;
 }
 
-const HELP = `LOYAL MCQ – Question Extractor (v${core.VERSION})
+const HELP = `LOYAL MCQ – Question Extractor (core v${core.VERSION} / format v${transform.VERSION})
 
 Usage:
   node extract.js <file-or-folder> [options]
 
 Options:
   -o, --out <dir>     Output folder (default: ./output)
+  --format v2|v1      Output format (default: v2).
+                      v2 = current spec: options + answer_key (IDs only).
+                      v1 = legacy shape, kept for migration comparison.
+  --v1, --legacy      Shorthand for --format v1
   --strip-html        Strip inline HTML (e.g. <strong>) from MCQ/audio prompts
-                      (default: preserve)
+                      (v1 only; default: preserve)
+  --no-alt            Do not derive alt text from image filenames
   --no-pretty         Write minified JSON (default: pretty-printed)
   -h, --help          Show this help
 
@@ -152,8 +161,9 @@ function main() {
   fs.mkdirSync(args.out, { recursive: true });
   const evalArray = makeEvalArray();
   const now = new Date().toISOString();
+  const v2 = args.format !== "v1";
 
-  console.log(c(C.bold, `\nLOYAL MCQ Extractor`) + c(C.dim, ` v${core.VERSION}`));
+  console.log(c(C.bold, `\nLOYAL MCQ Extractor`) + c(C.dim, ` core v${core.VERSION} · format ${v2 ? "v" + transform.VERSION : "v1 (legacy)"}`));
   console.log(c(C.dim, `Input : `) + args.input);
   console.log(c(C.dim, `Output: `) + args.out);
   console.log(c(C.dim, `Files : `) + files.length + "\n");
@@ -161,6 +171,23 @@ function main() {
   const csvRows = [];
   const usedSlugs = new Map();
   const totals = { ok: 0, warning: 0, failed: 0, questions: 0, byType: {} };
+  // v2 aggregate report
+  const agg = {
+    validationFailures: [], biased: [], titleReview: [], readingSets: [],
+    passageDrift: [], sizeWarnings: [], images: 0, imagesMissingAlt: 0, imagesAltDerived: 0,
+  };
+
+  // Level/subject come from the folder structure (Problem 7). The directory
+  // maps cleanly for every folder in this corpus; the filename supplies level.
+  const inputRoot = fs.statSync(args.input).isFile() ? path.dirname(args.input) : args.input;
+  function metaFromPath(file, slug) {
+    const rel = path.relative(inputRoot, file);
+    const dir = path.dirname(rel).replace(/[\\/]/g, " ");
+    return {
+      level: core.detectLevel(slug, path.basename(file)) || core.detectLevel("", dir) || core.UNCLASSIFIED,
+      subject: core.detectSubject(dir) || core.DEFAULT_SUBJECT,
+    };
+  }
 
   for (const file of files) {
     const rel = path.relative(process.cwd(), file);
@@ -179,9 +206,14 @@ function main() {
       continue;
     }
 
+    // Deterministic timestamp (source mtime, not run time) so repeated runs
+    // produce byte-identical output — the tool must be idempotent.
+    let extractedAt = now;
+    try { extractedAt = fs.statSync(file).mtime.toISOString(); } catch (e) { /* keep run time */ }
+
     const result = core.extract(html, path.basename(file), {
       evalArray,
-      now,
+      now: extractedAt,
       stripHtml: args.stripHtml,
     });
     csvRows.push(core.csvRow(result, path.basename(file)));
@@ -204,13 +236,67 @@ function main() {
       usedSlugs.set(outSlug, 1);
     }
     const outPath = path.join(args.out, outSlug + ".json");
-    fs.writeFileSync(outPath, JSON.stringify(result.data, null, args.pretty ? 2 : 0));
+
+    let payload = result.data;
+    let rep = null;
+    if (v2) {
+      const meta = metaFromPath(file, result.meta.slug);
+      const t = transform.toV2({
+        raw: result.rawQuestions,
+        detection: result.detection,
+        slug: result.meta.slug,
+        title: result.meta.title,
+        level: meta.level,
+        subject: meta.subject,
+        sourceFile: path.basename(file),
+        extractedAt,
+        // image storage paths derive from the image's own source path so a
+        // reused file always maps to one object (one upload, many references)
+        detectLevel: core.detectLevel,
+        detectSubject: core.detectSubject,
+        deriveAlt: !args.noAlt,
+      });
+      payload = t.data;
+      rep = t.report;
+
+      if (rep.validationErrors.length) {
+        agg.validationFailures.push({ slug: result.meta.slug, errors: rep.validationErrors });
+      }
+      if (rep.bias && rep.bias.biased) {
+        agg.biased.push({
+          slug: result.meta.slug, type: result.meta.quiz_type,
+          position: rep.bias.top_position + 1,
+          share: Math.round(rep.bias.top_share * 100), total: rep.bias.total,
+        });
+      }
+      if (rep.titleNeedsReview) agg.titleReview.push({ slug: result.meta.slug, title: result.meta.title });
+      if (rep.readingComprehension) {
+        agg.readingSets.push({ slug: result.meta.slug, shuffle: payload.shuffle,
+          per_attempt: payload.questions_per_attempt, ...rep.readingComprehension });
+      }
+      agg.passageDrift.push(...rep.passageDrift);
+      agg.sizeWarnings.push(...rep.sizeWarnings);
+      agg.images += rep.imagesTotal;
+      agg.imagesMissingAlt += rep.imagesMissingAlt;
+      agg.imagesAltDerived += rep.imagesAltDerived;
+    }
+    fs.writeFileSync(outPath, JSON.stringify(payload, null, args.pretty ? 2 : 0));
 
     totals.questions += result.meta.question_count;
     totals.byType[result.meta.quiz_type] = (totals.byType[result.meta.quiz_type] || 0) + 1;
 
     const typeLabel = result.meta.quiz_type + (result.meta.mode ? "/" + result.meta.mode : "");
-    if (result.warnings.length) {
+    if (rep && rep.validationErrors.length) {
+      console.log(
+        c(C.red, "  ✗ ") + result.meta.slug.padEnd(34) +
+          c(C.cyan, "[" + typeLabel + "]").padEnd(24) +
+          result.meta.question_count + " q  " +
+          c(C.red, rep.validationErrors.length + " validation error(s)")
+      );
+      for (const e of rep.validationErrors.slice(0, 3)) console.log(c(C.dim, "        - " + e));
+      if (rep.validationErrors.length > 3) console.log(c(C.dim, "        … " + (rep.validationErrors.length - 3) + " more"));
+      totals.warning++;
+    } else if (result.warnings.length) {
       totals.warning++;
       console.log(
         c(C.yellow, "  ⚠ ") +
@@ -257,9 +343,74 @@ function main() {
     .join("   ");
   if (typeStr) console.log(c(C.dim, "  by type → ") + typeStr);
   console.log(c(C.dim, "  JSON  → ") + args.out + "/*.json");
-  console.log(c(C.dim, "  CSV   → ") + csvPath + "\n");
+  console.log(c(C.dim, "  CSV   → ") + csvPath);
 
-  process.exit(totals.failed ? 2 : 0);
+  if (v2) {
+    const head = (s) => console.log("\n" + c(C.bold, s));
+
+    head("Validation");
+    if (!agg.validationFailures.length) {
+      console.log(c(C.green, "  ✓ all exercises pass all 11 assertions"));
+    } else {
+      const n = agg.validationFailures.reduce((s, f) => s + f.errors.length, 0);
+      console.log(c(C.red, `  ✗ ${n} failure(s) across ${agg.validationFailures.length} exercise(s)`));
+      for (const f of agg.validationFailures) {
+        console.log(c(C.red, "    " + f.slug));
+        for (const e of f.errors.slice(0, 5)) console.log(c(C.dim, "      - " + e));
+        if (f.errors.length > 5) console.log(c(C.dim, `      … ${f.errors.length - 5} more`));
+      }
+    }
+
+    head(`Answer-position bias  (>50% in one position)`);
+    if (!agg.biased.length) console.log(c(C.green, "  ✓ none"));
+    else {
+      console.log(c(C.yellow, `  ⚠ ${agg.biased.length} exercise(s) — content problem, NOT auto-corrected:`));
+      agg.biased.sort((a, b) => b.share - a.share);
+      for (const b of agg.biased.slice(0, 15)) {
+        console.log(c(C.dim, `      ${b.slug.padEnd(32)} [${b.type}] position ${b.position} holds ${b.share}% of ${b.total}`));
+      }
+      if (agg.biased.length > 15) console.log(c(C.dim, `      … ${agg.biased.length - 15} more (see _summary.csv)`));
+    }
+
+    head("Reading-comprehension sets");
+    if (!agg.readingSets.length) console.log(c(C.dim, "  none detected"));
+    else {
+      for (const r of agg.readingSets) {
+        console.log(c(C.cyan, `  • ${r.slug}`) +
+          c(C.dim, ` — ${r.passages} passage(s) lifted out of ${r.questions} prompts;`) +
+          c(C.dim, ` shuffle:"${r.shuffle}", ${r.per_attempt}/attempt (rounds up to whole passages)`));
+      }
+      if (agg.passageDrift.length) {
+        console.log(c(C.yellow, `  ⚠ ${agg.passageDrift.length} passage(s) had drifted copies — longest variant kept as canonical:`));
+        for (const d of agg.passageDrift.slice(0, 10)) {
+          console.log(c(C.dim, `      ${d.slug} ${d.passage_id}: ${d.variants} variants → canonical ${d.canonical_chars} chars`));
+        }
+      }
+    }
+
+    head("Images");
+    console.log(c(C.dim, `  ${agg.images} reference(s) mapped to storage paths`));
+    console.log(c(C.dim, `  alt text: `) + c(C.green, `${agg.imagesAltDerived} derived from filename`) + c(C.dim, "  ·  ") +
+      (agg.imagesMissingAlt ? c(C.yellow, `${agg.imagesMissingAlt} still empty (numeric/slug filenames — need a vision pass)`) : c(C.green, "0 empty")));
+    console.log(c(C.dim, `  run  node audit-images.js <source-repo> ${args.out}  to resolve references against real files`));
+
+    head("Titles flagged for review");
+    if (!agg.titleReview.length) console.log(c(C.green, "  ✓ none"));
+    else {
+      console.log(c(C.yellow, `  ⚠ ${agg.titleReview.length} machine-derived title(s):`));
+      for (const t of agg.titleReview.slice(0, 12)) console.log(c(C.dim, `      ${t.slug.padEnd(32)} "${t.title}"`));
+      if (agg.titleReview.length > 12) console.log(c(C.dim, `      … ${agg.titleReview.length - 12} more`));
+    }
+
+    if (agg.sizeWarnings.length) {
+      head("Unmappable font sizes");
+      for (const w of agg.sizeWarnings.slice(0, 10)) console.log(c(C.yellow, "  ⚠ " + w));
+    }
+  }
+  console.log("");
+
+  const hadValidationFailures = agg.validationFailures.length > 0;
+  process.exit(totals.failed ? 2 : hadValidationFailures ? 3 : 0);
 }
 
 module.exports = { makeEvalArray, makeStub, listHtmlFiles, parseArgs };
