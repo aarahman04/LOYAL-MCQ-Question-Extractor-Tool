@@ -19,29 +19,76 @@ node extract.js "/path/to/NEW_LOYAL_QUIZ/question"
 # CLI: custom output folder
 node extract.js ./question -o ./seed-json
 
+# CLI: write straight into <out>/<level>/<subject>/ instead of a flat folder
+node extract.js ./question -o ./seed-data --tree
+
 # Web UI: serve it, then open the printed URL and drag your HTML files in
 npm run ui        # -> http://localhost:5173/extractor-ui/
 
 # Tests (self-contained, no sample files needed)
 npm test
+
+# Regression check against the real quiz site (needs the source repo)
+npm run test:corpus -- /path/to/NEW_LOYAL_QUIZ
 ```
 
 ---
 
 ## What it handles
 
-Detection is based on the CSS/JS a file loads, its `.dropbox` count, **and** the
-shape of the parsed data — so it is not fooled by files that carry a stray
-`initMCQQuiz(questions)` call at the bottom (several drag-and-drop files do).
+Every exercise page wires itself to exactly one engine by **linking that
+engine's script**. A page cannot run on an engine it does not load, so that
+link is the primary signal; everything else is a fallback for when it is
+missing.
 
-| Type | Detected from | Output `type` |
+| Tier | Signal | Why it ranks there |
+|---|---|---|
+| 1 | `<script src>` engine file | Definitive — the engine the page actually runs |
+| 2 | engine stylesheet | Strong: `audio_style.css`, `tap_select.css`, `dnd.css` |
+| 3 | `init*Quiz(...)` call | Weaker: several drag-and-drop files carry a stray `initMCQQuiz` |
+| 4 | DOM hooks | `#tap-grid`, `.dropbox`, `.two-targets`, `#playBtn` |
+| 5 | question data shape | `voice` / `key` / `items` / `count` — fills in only when 1–4 are silent |
+
+The first tier with any evidence decides. Within a tier the **most specific**
+engine wins, so the shared MCQ shell never outvotes a specific engine that is
+loaded on top of it. Links are read as parsed attributes, not matched against
+the whole document, so an engine named in a comment or a string is not mistaken
+for a link; the basename is compared with any `?query` / `#hash` stripped.
+
+| Engine | Script | Output `quiz_type` |
 |------|---------------|---------------|
-| **MCQ** (2–4 options) | `initMCQQuiz`, default fallback | `mcq` |
-| **Picture MCQ** | MCQ shape where ≥80% of questions carry an image | `image` |
-| **Audio / sight words** (Web-Speech TTS) | loads `audio.js` / `audio_style.css`, or `voice` field | `audio` |
-| **Drag-drop · two-box sort** | 2 `.dropbox` elements / `key` values `left`,`right` | `drag_drop` (`mode: two_box_sort`) |
-| **Drag-drop · word order** | 4 `.dropbox` elements / `key` values `first`…`forth` | `drag_drop` (`mode: word_order`) |
-| **Tap-select · match / count** | `initTapSelectQuiz`, `tap_select.js/css`, `items`/`count` | `tap_select` (`mode: match` \| `count`) |
+| **MCQ** (2–4 options) | `script.js` | `mcq` |
+| **Picture MCQ** | `script.js` + a picture on ≥80% of questions | `image` |
+| **Audio / sight words** (Web-Speech TTS) | `audio.js` | `audio` |
+| **Drag-drop · two-box sort** | `drag_and_drop.js`, `key` values `left`,`right` | `drag_drop` (`mode: two_box_sort`) |
+| **Drag-drop · word order** | `drag_and_drop.js`, `key` values `first`…`forth` | `drag_drop` (`mode: word_order`) |
+| **Tap-select · match / count** | `tap_select.js`, `items`/`count` | `tap_select` (`mode: match` \| `count`) |
+
+Teaching the tool a new engine is one row in the `ENGINES` table in
+`lib/core.js` — script names, stylesheet names, init function names, DOM hooks.
+Nothing else changes.
+
+**It never guesses silently.** `detection.type_source` records which tier
+decided. When no tier could identify the engine the file is still extracted (as
+`mcq`) but the run reports *"nothing identified an engine"*. When the markup and
+the question data disagree — a page that links `tap_select.js` but whose
+questions carry `voice` — the **markup wins** and the disagreement is reported,
+rather than one side silently overriding the other. Both show up as warnings
+against the file, so a new or malformed structure surfaces for review instead of
+being filed as the default.
+
+### Finding the question array
+
+The house style is `const questions = [...]` handed to `initMCQQuiz(questions)`,
+but the tool does not depend on it. Candidates are tried in order: the inline
+script that declares `questions`; all inline scripts together; **whatever
+identifier is passed to the `init*Quiz(...)` call** (`const bank = […];
+initMCQQuiz(bank)` works); then the raw array literal, under `questions` or
+under any other name the file declares. Every `init*Quiz` the page calls is
+stubbed before evaluation, so an engine the tool has never heard of raises no
+`ReferenceError`. A candidate is only accepted when it yields objects that carry
+question fields, so a decorative word or emoji list is never mistaken for a
+question bank.
 
 Audio files that build their questions programmatically (`SW.map(...)`) are
 **executed** to produce the final array — the array is run with Node's `vm`
@@ -360,13 +407,24 @@ web page share them.
 - **Level** — pulled from the source filename / slug for any number:
   `kg3_`/`kg-3_` → `kg3/`, `level_1_`/`level1_`/`lvl1_`/`leve1_` → `level-1/`,
   `level_2_` → `level-2/`, … No level prefix → a warning + `_unclassified/`.
-- **Subject** — first matching keyword wins, else `math`:
-  english (`eng`, `vowel`, `sight-word`, `vocabulary`, `adjective`, `noun`,
-  `adverb`, `scrambled`), gk (`gk`, `general-knowledge`, `fruits`),
-  science (`sci`, `science`, `living`). The extractor searches the **filename**
-  first, then the slug, then the containing folder — a file handed over in a
-  scratch folder whose name carries no keyword is still classified from its own
-  name rather than silently falling back to `math`.
+- **Subject** — first matching rule wins, else `math`: math (`math`, `maths`,
+  `mathematics`, `numeracy`), english (`eng`, `english`, `vowel`, `consonant`,
+  `sight-word`, `vocabulary`, `adjective`, `noun`, `pronoun`, `adverb`, `verb`,
+  `preposition`, `antonym`, `synonym`, `scrambled`), gk (`gk`,
+  `general-knowledge`, `fruits`), science (`sci`, `science`, `living`). The
+  extractor searches the **filename** first, then the slug, then the containing
+  folder — a file handed over in a scratch folder whose name carries no keyword
+  is still classified from its own name rather than silently falling back to
+  `math`.
+
+Keywords match **whole words, not substrings**. This matters: `eng` appears
+inside *lengths*, *strength* and *challenge*, so substring matching filed
+`level_1_math_challenge.html` under English. Multi-word keywords
+(`sight-word`, `general-knowledge`) match a run of consecutive words, and simple
+plurals are folded on both sides so `noun` matches *nouns* and `maths` matches
+*math*. The same word-aware matching reads levels, so `Level 1 Maths`,
+`level_1_…`, `lvl1_…`, `leve1_…` (the misspelling in the source files) and
+`KG-3_English` all resolve, as does any number — `level_12_…` → `level-12/`.
 
 ---
 
@@ -409,16 +467,23 @@ extractor-ui/
 audit-images.js       resolves image references against the real repo files
 scripts/serve-ui.js   zero-dependency static server for the UI
 test/run.js           self-contained test suite (npm test)
+test/corpus.js        regression check against the real quiz site (npm run test:corpus)
 ```
 
 ## Notes on the source corpus
 
-Run against the current `NEW_LOYAL_QUIZ/question` tree (152 HTML files) the tool
-extracts all of them (0 failures, ~14.5k questions): **mcq 139, tap_select 6,
-drag_drop 4, audio 3** — of which 24 of the `mcq` files are all-picture banks
-and now come out as `image` instead (see *Picture exercises* above), so re-run
-the extractor and `organize.js` to refresh `seed-data/`. The one `warning` is a genuine source-data bug
-(`level1_sci_living&non.html`, Q100: the `correct` value isn't among its
-options) — flagged, not fixed. `example.html` in the drag-drop folder is a
-template and extracts as a small word-order exercise; ignore its output if you
-don't want it seeded.
+Run against the current `NEW_LOYAL_QUIZ/question` tree the tool extracts every
+file: **161 files, 15,483 questions — mcq 117, image 27, tap_select 10,
+drag_drop 4, audio 3**, 0 failures. All 161 are identified from their linked
+engine script (`type_source: "script"`), with no markup/data conflicts and no
+file falling back to a lower tier. `npm run test:corpus -- <path>` reproduces
+this and exits non-zero on any misclassification.
+
+Two genuine source-data defects are flagged, not fixed:
+
+- `level1_sci_living&non.html` q100 — the `correct` value isn't among its options.
+- `level_1_eng_drag_and_drop_scrambled_words.html` q021 — the key says `"Four"`
+  but the word shown is `"four"`, so the answer can never be placed.
+
+`example.html` in the drag-drop folder is a template and extracts as a small
+word-order exercise; ignore its output if you don't want it seeded.

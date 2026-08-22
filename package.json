@@ -9,7 +9,8 @@
   "scripts": {
     "extract": "node extract.js",
     "ui": "node scripts/serve-ui.js",
-    "test": "node test/run.js"
+    "test": "node test/run.js",
+    "test:corpus": "node test/corpus.js"
   },
   "engines": {
     "node": ">=18"
