@@ -177,15 +177,27 @@ function main() {
     passageDrift: [], sizeWarnings: [], images: 0, imagesMissingAlt: 0, imagesAltDerived: 0,
   };
 
-  // Level/subject come from the folder structure (Problem 7). The directory
-  // maps cleanly for every folder in this corpus; the filename supplies level.
+  // Level/subject come from the filename first, the slug next, and the folder
+  // structure last. The folder alone is not enough: files are often handed to
+  // the extractor from a scratch directory whose name carries no subject
+  // keyword, and falling back to the folder would silently label them
+  // DEFAULT_SUBJECT ("math"). The filename (`kg3_eng_vowel_a.html`) is the one
+  // part that travels with the file.
   const inputRoot = fs.statSync(args.input).isFile() ? path.dirname(args.input) : args.input;
   function metaFromPath(file, slug) {
     const rel = path.relative(inputRoot, file);
     const dir = path.dirname(rel).replace(/[\\/]/g, " ");
+    const base = path.basename(file).replace(/[\\/_.]+/g, " ");
     return {
-      level: core.detectLevel(slug, path.basename(file)) || core.detectLevel("", dir) || core.UNCLASSIFIED,
-      subject: core.detectSubject(dir) || core.DEFAULT_SUBJECT,
+      level:
+        core.detectLevel(slug, path.basename(file)) ||
+        core.detectLevel("", dir) ||
+        core.UNCLASSIFIED,
+      subject:
+        core.detectSubject(base, null) ||
+        core.detectSubject(slug, null) ||
+        core.detectSubject(dir, null) ||
+        core.DEFAULT_SUBJECT,
     };
   }
 
@@ -254,6 +266,7 @@ function main() {
         // reused file always maps to one object (one upload, many references)
         detectLevel: core.detectLevel,
         detectSubject: core.detectSubject,
+        imageRefOf: core.imageRefOf,
         deriveAlt: !args.noAlt,
       });
       payload = t.data;
@@ -350,7 +363,7 @@ function main() {
 
     head("Validation");
     if (!agg.validationFailures.length) {
-      console.log(c(C.green, "  ✓ all exercises pass all 11 assertions"));
+      console.log(c(C.green, "  ✓ all exercises pass all 12 assertions"));
     } else {
       const n = agg.validationFailures.reduce((s, f) => s + f.errors.length, 0);
       console.log(c(C.red, `  ✗ ${n} failure(s) across ${agg.validationFailures.length} exercise(s)`));
