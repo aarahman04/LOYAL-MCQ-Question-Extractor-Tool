@@ -89,13 +89,14 @@ function listHtmlFiles(input) {
 // ----- CLI args -------------------------------------------------------------
 
 function parseArgs(argv) {
-  const args = { input: null, out: "output", stripHtml: false, pretty: true, format: "v2" };
+  const args = { input: null, out: "output", stripHtml: false, pretty: true, format: "v2", tree: false };
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
     if (a === "-o" || a === "--out") args.out = argv[++i];
     else if (a === "--strip-html") args.stripHtml = true;
     else if (a === "--no-pretty") args.pretty = false;
     else if (a === "--no-alt") args.noAlt = true;
+    else if (a === "--tree") args.tree = true;
     else if (a === "--format") args.format = String(argv[++i] || "").toLowerCase();
     else if (a === "--v1" || a === "--legacy") args.format = "v1";
     else if (a === "-h" || a === "--help") args.help = true;
@@ -118,6 +119,8 @@ Options:
   --strip-html        Strip inline HTML (e.g. <strong>) from MCQ/audio prompts
                       (v1 only; default: preserve)
   --no-alt            Do not derive alt text from image filenames
+  --tree              Write <out>/<level>/<subject>/<slug>.json instead of a
+                      flat folder (the seed layout, without organize.js)
   --no-pretty         Write minified JSON (default: pretty-printed)
   -h, --help          Show this help
 
@@ -238,21 +241,28 @@ function main() {
       continue;
     }
 
-    // unique output filename by slug
+    const meta = metaFromPath(file, result.meta.slug);
+    // --tree writes straight into <out>/<level>/<subject>/, so one run of the
+    // extractor produces the seed layout without a separate organize step.
+    // Flat is the default so `organize.js` keeps working unchanged.
+    const outDir = args.tree ? path.join(args.out, meta.level, meta.subject) : args.out;
+
+    // unique output filename by slug, per destination folder
     let outSlug = result.meta.slug;
-    if (usedSlugs.has(outSlug)) {
-      const n = usedSlugs.get(outSlug) + 1;
-      usedSlugs.set(outSlug, n);
+    const slugKey = path.join(outDir, outSlug);
+    if (usedSlugs.has(slugKey)) {
+      const n = usedSlugs.get(slugKey) + 1;
+      usedSlugs.set(slugKey, n);
       outSlug = outSlug + "-" + n;
     } else {
-      usedSlugs.set(outSlug, 1);
+      usedSlugs.set(slugKey, 1);
     }
-    const outPath = path.join(args.out, outSlug + ".json");
+    if (args.tree) fs.mkdirSync(outDir, { recursive: true });
+    const outPath = path.join(outDir, outSlug + ".json");
 
     let payload = result.data;
     let rep = null;
     if (v2) {
-      const meta = metaFromPath(file, result.meta.slug);
       const t = transform.toV2({
         raw: result.rawQuestions,
         detection: result.detection,

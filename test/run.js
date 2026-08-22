@@ -568,5 +568,175 @@ function noErrors(t, label) {
   eq(core.detectSubject("some scratch folder"), "math", "subject: default fallback unchanged");
 })();
 
+// ==========================================================================
+//  engine detection: the linked <script> is the primary signal
+// ==========================================================================
+
+const MCQ_DATA = `const questions=[{question:"Q1",options:["a","b"],correct:"a"},
+                                  {question:"Q2",options:["a","b"],correct:"b"}];`;
+
+// ---- the engine script alone decides, with no stylesheet and no init call ----
+(function () {
+  const only = (src, data) =>
+    run(`<html><head><link rel="stylesheet" href="../../css/question.css"></head><body>
+      <script>${data || MCQ_DATA}</script>
+      <script src="${src}"></script></body></html>`, "level_1_eng_x.html");
+
+  eq(only("../../js/script.js").meta.quiz_type, "mcq", "engine: script.js -> mcq");
+  eq(only("../../js/audio.js", `const questions=[{question:"Listen",voice:"the",options:["the","at"],correct:"the"}];`)
+    .meta.quiz_type, "audio", "engine: audio.js -> audio");
+  eq(only("../../js/tap_select.js", `const questions=[{question:"Tap",items:[{label:"A",correct:true}]}];`)
+    .meta.quiz_type, "tap_select", "engine: tap_select.js -> tap_select");
+  eq(only("../../js/drag_and_drop.js", `const questions=[{question:"Sort",options:["a","b"],key:{a:"left",b:"right"}}];`)
+    .meta.quiz_type, "drag_drop", "engine: drag_and_drop.js -> drag_drop");
+
+  // path shape and cache-busting query strings must not matter
+  eq(only("/js/tap_select.js?v=3", `const questions=[{question:"Tap",items:[{label:"A",correct:true}]}];`)
+    .meta.quiz_type, "tap_select", "engine: absolute path + ?query still matches");
+  eq(only("js\\\\tap_select.js", `const questions=[{question:"Tap",items:[{label:"A",correct:true}]}];`)
+    .meta.quiz_type, "tap_select", "engine: backslash path still matches");
+})();
+
+// ---- the script tier outranks a misleading stylesheet / stray init ----
+(function () {
+  const r = run(`<html><head>
+      <link rel="stylesheet" href="../css/dnd.css"></head><body>
+      <div class="dropbox" data-box="left" data-placeholder="L"></div>
+      <div class="dropbox" data-box="right" data-placeholder="R"></div>
+      <script>${MCQ_DATA}</script>
+      <script src="../js/tap_select.js"></script>
+      <script>initMCQQuiz(questions);</script></body></html>`, "level_1_eng_x.html");
+  eq(r.meta.quiz_type, "tap_select", "engine: linked script beats dnd.css + dropboxes + stray initMCQQuiz");
+  eq(r.detection.type_source, "script", "engine: type_source reports the deciding tier");
+})();
+
+// ---- an engine name that is only mentioned, never linked, is not a signal ----
+(function () {
+  const r = run(`<html><head><link rel="stylesheet" href="../css/question.css"></head><body>
+      <!-- this page used to load audio.js and tap_select.css -->
+      <script>/* see drag_and_drop.js for the sorting variant */ ${MCQ_DATA}</script>
+      <script src="../js/script.js"></script></body></html>`, "level_1_eng_x.html");
+  eq(r.meta.quiz_type, "mcq", "engine: names inside comments/strings are not links");
+})();
+
+// ---- falls down the tiers when the script tag is absent ----
+(function () {
+  const styleOnly = run(`<html><head><link rel="stylesheet" href="../css/tap_select.css"></head><body>
+      <script>const questions=[{question:"Tap",items:[{label:"A",correct:true}]}];</script></body></html>`, "x.html");
+  eq(styleOnly.detection.type_source, "style", "engine: stylesheet tier used when no script linked");
+  eq(styleOnly.meta.quiz_type, "tap_select", "engine: stylesheet tier resolves the type");
+
+  const initOnly = run(`<html><body>
+      <script>const questions=[{question:"Tap",items:[{label:"A",correct:true}]};
+      initTapSelectQuiz(questions);</script></body></html>`, "x.html");
+  eq(initOnly.meta.quiz_type, "tap_select", "engine: init-call tier when nothing is linked");
+
+  const markupOnly = run(`<html><body><div id="tap-grid"></div>
+      <script>const questions=[{question:"Tap",items:[{label:"A",correct:true}]}];</script></body></html>`, "x.html");
+  eq(markupOnly.detection.type_source, "markup", "engine: DOM-hook tier when nothing else is present");
+  eq(markupOnly.meta.quiz_type, "tap_select", "engine: #tap-grid resolves the type");
+})();
+
+// ---- nothing identifies an engine: extract anyway, but say so ----
+(function () {
+  // plain question/options/correct fits both mcq and image, so the data tier
+  // cannot resolve it either — it stays "default" and is reported as such
+  const r = run(`<html><body><script>${MCQ_DATA}</script></body></html>`, "x.html");
+  eq(r.detection.type_source, "default", "engine: an MCQ-shaped file with no markup stays undecided");
+  // a distinctive data shape does resolve it
+  const tap = run(`<html><body><script>const questions=[{question:"Tap",items:[{label:"A",correct:true}]}];</script></body></html>`, "x.html");
+  eq(tap.detection.type_source, "data", "engine: distinctive data shape resolves an unmarked file");
+  eq(tap.meta.quiz_type, "tap_select", "engine: data tier picks tap_select");
+
+  const bare = run(`<html><body><script>const questions=[{prompt:"P",options:["a","b"],correct:"a"}];</script></body></html>`, "x.html");
+  eq(bare.meta.quiz_type, "mcq", "engine: unidentifiable file still extracts as mcq");
+  ok(bare.warnings.some((w) => /nothing identified an engine/.test(w)), "engine: defaulted type is warned about");
+})();
+
+// ---- markup and data disagree: markup wins, disagreement is reported ----
+(function () {
+  const r = run(`<html><body>
+      <script>const questions=[{question:"Listen",voice:"the",options:["the","at"],correct:"the"}];</script>
+      <script src="../js/tap_select.js"></script></body></html>`, "x.html");
+  eq(r.meta.quiz_type, "tap_select", "engine: linked script is not overruled by the data shape");
+  ok(r.warnings.some((w) => /question data looks like audio/.test(w)), "engine: markup/data conflict is warned about");
+})();
+
+// ==========================================================================
+//  question-array discovery
+// ==========================================================================
+
+// ---- the bank lives under a different name, handed to the engine ----
+(function () {
+  const r = run(`<html><body><script>
+      const bank = [{question:"Q1",options:["a","b"],correct:"a"},
+                    {question:"Q2",options:["a","b"],correct:"b"}];
+      window.addEventListener("DOMContentLoaded", () => initMCQQuiz(bank));
+      </script><script src="../js/script.js"></script></body></html>`, "level_1_eng_x.html");
+  ok(r.ok, "discovery: bank under another name extracts");
+  eq(r.meta.question_count, 2, "discovery: all questions found via the init-call argument");
+})();
+
+// ---- an engine the sandbox has never heard of must not kill extraction ----
+(function () {
+  const r = run(`<html><body><script>
+      const questions=[{question:"Q1",options:["a","b"],correct:"a"}];
+      initBrandNewMatchingQuiz(questions);
+      </script><script src="../js/script.js"></script></body></html>`, "level_1_eng_x.html");
+  ok(r.ok, "discovery: unknown init*Quiz function is stubbed, not a ReferenceError");
+  eq(r.meta.question_count, 1, "discovery: questions still extracted");
+})();
+
+// ---- a decorative array is not mistaken for a question bank ----
+(function () {
+  const r = run(`<html><body><script>
+      const EMOJI = ["🍎","🍌","🍇"];
+      const bank = [{question:"Q1",options:["a","b"],correct:"a"}];
+      initMCQQuiz(bank);
+      </script></body></html>`, "level_1_eng_x.html");
+  eq(r.meta.question_count, 1, "discovery: word/emoji list rejected, real bank used");
+  ok(!r.ok || r.data.questions[0].prompt === "Q1", "discovery: extracted the question objects");
+})();
+
+// ==========================================================================
+//  level / subject classification
+// ==========================================================================
+
+// ---- keywords match whole words, never substrings ----
+(function () {
+  const sub = (s) => core.detectSubject(s, null);
+  // the bug this replaced: "eng" inside lengths / strength / challenge
+  eq(sub("level_1_math_measure_lengths.html"), "math", "subject: 'lengths' is not English");
+  eq(sub("level_2_math_challenge.html"), "math", "subject: 'challenge' is not English");
+  eq(sub("level_1_math_strength.html"), "math", "subject: 'strength' is not English");
+  eq(sub("level_1_gk_scissors.html"), "gk", "subject: 'scissors' is not Science");
+  // and the real keywords still match, including plurals
+  eq(sub("level_1_eng_adjectives.html"), "english", "subject: plural keyword matches");
+  eq(sub("kg3_eng_vowel_a.html"), "english", "subject: eng token");
+  eq(sub("level1_sci_animals.html"), "science", "subject: sci token");
+  eq(sub("level_1_gk_fruits.html"), "gk", "subject: gk token");
+  // folder names from the source tree
+  eq(sub("KG-3_English"), "english", "subject: folder KG-3_English");
+  eq(sub("Level 1 Maths"), "math", "subject: folder 'Level 1 Maths'");
+  eq(sub("level-1_Science"), "science", "subject: folder level-1_Science");
+  eq(sub("level_1_GK"), "gk", "subject: folder level_1_GK");
+  eq(sub("KG-3_math"), "math", "subject: folder KG-3_math");
+  eq(sub("some scratch folder"), null, "subject: no keyword -> null with an explicit fallback");
+})();
+
+// ---- level families, joined or separated, plus the grade family ----
+(function () {
+  const lvl = (s) => core.detectLevel("", s);
+  eq(lvl("kg3_eng_vowel_a.html"), "kg3", "level: kg3 joined");
+  eq(lvl("KG-3_English"), "kg3", "level: KG-3 separated");
+  eq(lvl("level_1_addition.html"), "level-1", "level: level_1");
+  eq(lvl("Level 1 Maths"), "level-1", "level: 'Level 1' with a space");
+  eq(lvl("leve1_eng_vowels.html"), "level-1", "level: 'leve' misspelling");
+  eq(lvl("lvl1_sci_animals.html"), "level-1", "level: lvl abbreviation");
+  eq(lvl("level_12_x.html"), "level-12", "level: any number, not a fixed set");
+  eq(lvl("grade_2_eng_nouns.html"), "grade-2", "level: grade family");
+  eq(lvl("random_file.html"), null, "level: no level word -> null");
+})();
+
 console.log("\n" + (failed ? "\x1b[31m" : "\x1b[32m") + passed + " passed, " + failed + " failed\x1b[0m\n");
 process.exit(failed ? 1 : 0);
