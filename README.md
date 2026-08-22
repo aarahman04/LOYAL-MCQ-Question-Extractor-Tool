@@ -37,6 +37,7 @@ shape of the parsed data — so it is not fooled by files that carry a stray
 | Type | Detected from | Output `type` |
 |------|---------------|---------------|
 | **MCQ** (2–4 options) | `initMCQQuiz`, default fallback | `mcq` |
+| **Picture MCQ** | MCQ shape where ≥80% of questions carry an image | `image` |
 | **Audio / sight words** (Web-Speech TTS) | loads `audio.js` / `audio_style.css`, or `voice` field | `audio` |
 | **Drag-drop · two-box sort** | 2 `.dropbox` elements / `key` values `left`,`right` | `drag_drop` (`mode: two_box_sort`) |
 | **Drag-drop · word order** | 4 `.dropbox` elements / `key` values `first`…`forth` | `drag_drop` (`mode: word_order`) |
@@ -86,7 +87,7 @@ compares IDs, not strings.
   "_source_file": "level_1_eng_adjectives.html",
   "_extracted_at": "2026-07-22T09:00:00.000Z",   // source mtime → idempotent
   "slug": "eng-adjectives", "title": "Adjectives",
-  "level": "level-1", "subject": "english",       // inferred from folder path
+  "level": "level-1", "subject": "english",       // from filename, slug, then folder
   "quiz_type": "mcq",
   "questions_per_attempt": 25, "total_questions": 100,
   "shuffle": true, "is_free": false, "order_index": 0,
@@ -100,8 +101,9 @@ compares IDs, not strings.
 }
 ```
 
-Per type: **mcq/audio** → `choices:[{id,text}]` + `answer_key.correct:[id]`
-(audio also carries `options.tts:{text,lang}`); **two-box sort** →
+Per type: **mcq/image/audio** → `choices:[{id,text}]` + `answer_key.correct:[id]`
+(image additionally requires a `media` block; audio also carries
+`options.tts:{text,lang}`); **two-box sort** →
 `items:[{id,label}]` + `boxes:[{id,label}]` + `answer_key.placements`;
 **word order** → `words:[{id,text}]` (IDs in *presentation* order, never the
 correct order) + `answer_key.order`; **tap-select match** →
@@ -114,6 +116,27 @@ so letter IDs would collide with displayed content and defeat leak detection.
 
 **Size tokens** come from the source rem value — `<1.6` `sm`, `1.6–2.2` `md`,
 `2.2–3.0` `lg`, `>3.0` `xl`. The corpus uses 1.4 / 2.4 / 3.6 → `sm` / `lg` / `xl`.
+
+**Picture exercises** get their own type. The source site runs them on the MCQ
+engine, but a *picture* exercise is a different thing to seed: the prompt is the
+image, so the row needs an image attached to every question. When an MCQ-shaped
+bank has a picture on **≥80%** of its questions the exercise becomes
+`quiz_type: "image"`, every question becomes `type: "image"`, and a missing
+`media` block is a validation error rather than a silently absent field. A bank
+that merely illustrates a few of its questions stays `mcq` (in this corpus the
+split is clean: picture banks sit at 100%, the one partly-illustrated bank at
+16%). Answers work exactly as in MCQ — `options.choices` + `answer_key`.
+
+The picture field is resolved by **shape, not by name**: `image`, `img`,
+`imageUrl`, `image_url`, `imageSrc`, `imagePath`, `picture`, `pic`, `photo`,
+`figure`, `thumbnail`, plus generic `media` / `src` / `url` / `file` — key
+matching ignores case and separators, so `Image-URL` works too. The value may be
+a path, a `data:image/…` URI, a `{ src }` / `{ url }` / `{ path }` object, an
+array (first usable entry wins), or a literal `<img src="…">` tag; an `<img>`
+inlined in the prompt is used as a last resort. Generic keys are only accepted
+when the **value** looks like an image (image extension, `data:image/` URI, or a
+path under an `image/`-style folder), so a `url` pointing at a page is not
+mistaken for a picture. See `core.imageRefOf`.
 
 **Media** is a storage path, never a URL:
 `questions/{level}/{subject}/{slug}/{file}.webp`, plus `source_path` pointing at
@@ -159,13 +182,13 @@ migration. Everything else about the run is identical.
 
 ### Validation
 
-Every exercise is checked against 11 assertions (IDs referenced in `answer_key`
+Every exercise is checked against 12 assertions (IDs referenced in `answer_key`
 exist in `options`; no answer-ish field inside `options`; IDs unique; no
-displayed content in the answer key; MCQ/audio have 2–4 choices; `order` is a
-permutation of the word IDs; `placements` cover every item once;
+displayed content in the answer key; MCQ/audio/image have 2–4 choices; `order`
+is a permutation of the word IDs; `placements` cover every item once;
 `total_questions` matches; `questions_per_attempt <= total_questions`; no empty
-prompt; no `style=` in `options`). Failures are printed per exercise and the
-process exits non-zero.
+prompt; no `style=` in `options`; every `image` question carries a `media`
+block). Failures are printed per exercise and the process exits non-zero.
 
 The end-of-run report covers: files processed, questions converted, per-type
 counts, validation failures, answer-position warnings, images missing alt text,
@@ -340,7 +363,10 @@ web page share them.
 - **Subject** — first matching keyword wins, else `math`:
   english (`eng`, `vowel`, `sight-word`, `vocabulary`, `adjective`, `noun`,
   `adverb`, `scrambled`), gk (`gk`, `general-knowledge`, `fruits`),
-  science (`sci`, `science`, `living`).
+  science (`sci`, `science`, `living`). The extractor searches the **filename**
+  first, then the slug, then the containing folder — a file handed over in a
+  scratch folder whose name carries no keyword is still classified from its own
+  name rather than silently falling back to `math`.
 
 ---
 
@@ -389,7 +415,9 @@ test/run.js           self-contained test suite (npm test)
 
 Run against the current `NEW_LOYAL_QUIZ/question` tree (152 HTML files) the tool
 extracts all of them (0 failures, ~14.5k questions): **mcq 139, tap_select 6,
-drag_drop 4, audio 3**. The one `warning` is a genuine source-data bug
+drag_drop 4, audio 3** — of which 24 of the `mcq` files are all-picture banks
+and now come out as `image` instead (see *Picture exercises* above), so re-run
+the extractor and `organize.js` to refresh `seed-data/`. The one `warning` is a genuine source-data bug
 (`level1_sci_living&non.html`, Q100: the `correct` value isn't among its
 options) — flagged, not fixed. `example.html` in the drag-drop folder is a
 template and extracts as a small word-order exercise; ignore its output if you

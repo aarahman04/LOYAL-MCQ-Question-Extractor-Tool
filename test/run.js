@@ -266,7 +266,7 @@ function v2(html, name, extra) {
   return transform.toV2(Object.assign({
     raw: r.rawQuestions, detection: r.detection, slug: r.meta.slug,
     title: r.meta.title, level: "level-1", subject: "english",
-    sourceFile: name, extractedAt: now,
+    sourceFile: name, extractedAt: now, imageRefOf: core.imageRefOf,
   }, extra || {}));
 }
 function noErrors(t, label) {
@@ -464,6 +464,108 @@ function noErrors(t, label) {
   const errs2 = [];
   transform.validateExercise({ shuffle: "group", total_questions: 0, questions_per_attempt: 0, questions: [] }, errs2);
   ok(errs2.some((e) => /requires a passages array/.test(e)), "validation: shuffle 'group' needs passages");
+})();
+
+// ==========================================================================
+//  picture ("image") exercises
+// ==========================================================================
+
+// ---- the picture field, however the source file spells it ----
+(function () {
+  const ref = (q) => core.imageRefOf(q);
+  eq(ref({ image: "../image/a/1.png" }), "../image/a/1.png", "imageRef: image");
+  eq(ref({ img: "../image/a/1.jpg" }), "../image/a/1.jpg", "imageRef: img");
+  eq(ref({ imageUrl: "../image/a/1.webp" }), "../image/a/1.webp", "imageRef: imageUrl");
+  eq(ref({ image_url: "../image/a/1.gif" }), "../image/a/1.gif", "imageRef: image_url");
+  eq(ref({ "Image-SRC": "../image/a/1.svg" }), "../image/a/1.svg", "imageRef: key case/separators ignored");
+  eq(ref({ picture: "../image/a/1.png" }), "../image/a/1.png", "imageRef: picture");
+  eq(ref({ photo: "../image/a/1.png" }), "../image/a/1.png", "imageRef: photo");
+  eq(ref({ image: { src: "../image/a/1.png" } }), "../image/a/1.png", "imageRef: { src } object");
+  eq(ref({ media: { kind: "image", url: "../image/a/1.png" } }), "../image/a/1.png", "imageRef: nested media object");
+  eq(ref({ image: ["../image/a/1.png", "../image/a/2.png"] }), "../image/a/1.png", "imageRef: array -> first usable");
+  eq(ref({ image: '<img src="../image/a/1.png" alt="x">' }), "../image/a/1.png", "imageRef: field holding an <img> tag");
+  eq(ref({ question: 'Match this <img src="../image/a/1.png">' }), "../image/a/1.png", "imageRef: <img> inlined in the prompt");
+  eq(ref({ image: "../image/KG_3_Vowel_A/1" }), "../image/KG_3_Vowel_A/1", "imageRef: extensionless path under image/");
+  eq(ref({ image: "data:image/png;base64,AAAA" }), "data:image/png;base64,AAAA", "imageRef: data URI");
+  // non-images must not be mistaken for pictures
+  eq(ref({ url: "https://example.com/page" }), null, "imageRef: generic url that is not an image -> null");
+  eq(ref({ src: "cat" }), null, "imageRef: bare word -> null");
+  eq(ref({ question: "Which word matches?", options: ["a", "b"] }), null, "imageRef: text-only question -> null");
+  eq(ref(null), null, "imageRef: non-object -> null");
+})();
+
+// ---- an all-picture MCQ bank becomes its own type ----
+(function () {
+  const html = `<!doctype html><html><head><title>Vowel A — Picture Words</title>
+    <link rel="stylesheet" href="../../css/question.css"></head><body><script>
+    const questions = [
+      { question:"Which word matches the picture?", image:"../../image/KG_3_Vowel_A/1.png", options:["mat","cat"], correct:"cat", explanation:"cat" },
+      { question:"Which word matches the picture?", image:"../../image/KG_3_Vowel_A/2.png", options:["hat","cat"], correct:"hat", explanation:"hat" }
+    ];
+    </script><script src="../../js/script.js"></script>
+    <script>initMCQQuiz(questions);</script></body></html>`;
+  const r = run(html, "kg3_eng_vowel_a.html");
+  eq(r.meta.quiz_type, "image", "image: all-picture MCQ bank detected as image");
+  eq(r.data.questions[0].type, "image", "image: v1 question type");
+  eq(r.data.questions[0].media, { kind: "image", source_path: "../../image/KG_3_Vowel_A/1.png" }, "image: v1 keeps the reference as written");
+
+  const t = v2(html, "kg3_eng_vowel_a.html", { level: "kg3", subject: "english",
+    detectLevel: core.detectLevel, detectSubject: core.detectSubject });
+  eq(t.data.quiz_type, "image", "v2 image: exercise quiz_type");
+  eq(t.data.questions[0].type, "image", "v2 image: question type");
+  eq(t.data.questions[0].media.kind, "image", "v2 image: media kind");
+  eq(t.data.questions[0].media.path, "questions/kg3/english/KG_3_Vowel_A/1.webp", "v2 image: storage path");
+  eq(t.data.questions[0].answer_key, { correct: ["c2"] }, "v2 image: answers like an MCQ");
+  noErrors(t, "v2 image: validation clean");
+})();
+
+// ---- detection survives a differently-spelled picture field ----
+(function () {
+  const html = `<html><body><script>const questions=[
+    {question:"Which word matches the picture?", imageUrl:"../image/set/1.png", options:["mat","cat"], correct:"cat"},
+    {question:"Which word matches the picture?", imageUrl:"../image/set/2.png", options:["hat","cat"], correct:"hat"}];
+    initMCQQuiz(questions);</script></body></html>`;
+  const t = v2(html, "kg3_eng_vowel_x.html", { level: "kg3", subject: "english",
+    detectLevel: core.detectLevel, detectSubject: core.detectSubject });
+  eq(t.data.quiz_type, "image", "image alias: imageUrl bank still detected");
+  eq(t.data.questions[1].media.source_path, "../image/set/2.png", "image alias: media mapped from imageUrl");
+})();
+
+// ---- a mostly-text MCQ bank stays "mcq" ----
+(function () {
+  const qs = [];
+  for (let i = 0; i < 10; i++) {
+    qs.push(`{question:"Q${i}",options:["a","b"],correct:"a"${i === 0 ? ',image:"../image/set/1.png"' : ""}}`);
+  }
+  const t = v2(`<html><body><script>const questions=[${qs.join(",")}];
+    initMCQQuiz(questions);</script></body></html>`, "level_1_eng_x.html");
+  eq(t.data.quiz_type, "mcq", "image: 1-of-10 illustrated bank stays mcq");
+  eq(t.data.questions[0].media.kind, "image", "image: the illustrated question still gets media");
+})();
+
+// ---- other engines keep their own type even when every question has a picture ----
+(function () {
+  const t = v2(`<html><head><link rel="stylesheet" href="../css/tap_select.css"></head><body><script>
+    const questions=[{question:"Tap the ball",image:"../image/set/1.png",items:["🏀","🍎"],correct:"🏀"},
+                     {question:"Tap the apple",image:"../image/set/2.png",items:["🏀","🍎"],correct:"🍎"}];
+    </script><script src="../js/tap_select.js"></script></body></html>`, "kg3_math_tap.html");
+  eq(t.data.quiz_type, "tap_select", "image: tap-select with pictures keeps its engine type");
+})();
+
+// ---- a picture question with no picture is a validation error ----
+(function () {
+  const errs = [];
+  transform.validateQuestion({ slug: "q001", type: "image", prompt: "P",
+    options: { choices: [{ id: "c1", text: "a" }, { id: "c2", text: "b" }] },
+    answer_key: { correct: ["c1"] }, media: null }, errs);
+  ok(errs.some((e) => /image question without a media/.test(e)), "v2 image: missing media rejected");
+})();
+
+// ---- subject detection prefers the filename over the containing folder ----
+(function () {
+  eq(core.detectSubject("kg3 eng vowel a html", null), "english", "subject: filename keyword wins");
+  eq(core.detectSubject("some scratch folder", null), null, "subject: null fallback when nothing matches");
+  eq(core.detectSubject("some scratch folder"), "math", "subject: default fallback unchanged");
 })();
 
 console.log("\n" + (failed ? "\x1b[31m" : "\x1b[32m") + passed + " passed, " + failed + " failed\x1b[0m\n");
